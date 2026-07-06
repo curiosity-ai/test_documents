@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pdf/figure_structure.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/figure_structure.md",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/pdf/figure_structure.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Test of figures</p>\n<p>Figure 1: Chart</p>\n<ul>\n<li>1 colonne</li>\n<li>2 colonne</li>\n<li>3 colonne</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test of figures\"},{\"type\":\"paragraph\",\"text\":\"Figure 1: Chart\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"1 colonne\",\"2 colonne\",\"3 colonne\"]}]}",
+    "markdown": "Test of figures\n\nFigure 1: Chart\n\n- 1 colonne\n- 2 colonne\n- 3 colonne\n",
+    "plain": "Test of figures\n\nFigure 1: Chart\n\n1 colonne\n2 colonne\n3 colonne"
+  }
+}

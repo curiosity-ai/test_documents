@@ -1,0 +1,12 @@
+{
+  "file": "vendored/docling/LICENSE",
+  "mime_type": "application/octet-stream",
+  "success": false,
+  "error": "Validation error: Could not determine MIME type from file path: /workspace/test_documents/vendored/docling/LICENSE",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

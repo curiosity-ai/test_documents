@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/odt/simpleTableWithCaption.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 5,
+      "word_count": 15,
+      "character_count": 117
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/odt/simpleTableWithCaption.txt",
+      "source_uri": "ground_truth/odt/simpleTableWithCaption.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>--------- -------------- Content More content --------- --------------</p>\n<p>: Table 1: Some caption for a table</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"--------- --------------\\n  Content   More content\\n  --------- --------------\"},{\"type\":\"paragraph\",\"text\":\": Table 1: Some caption for a table\"}]}",
+    "markdown": "\\--------- -------------- Content More content --------- --------------\n\n: Table 1: Some caption for a table\n",
+    "plain": "--------- --------------\n  Content   More content\n  --------- --------------\n\n: Table 1: Some caption for a table"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/epub/test.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 14,
+      "word_count": 39,
+      "character_count": 230
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/epub/test.txt",
+      "source_uri": "ground_truth/epub/test.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Chapter 1: Test Content</p>\n<p>This is a test paragraph with some formatting.</p>\n<p>It includes:</p>\n<p>- A bullet point - Another point</p>\n<p>Chapter 2: More Content</p>\n<p>Here's a second chapter with a different style.</p>\n<p>This is a blockquote for testing.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Chapter 1: Test Content\"},{\"type\":\"paragraph\",\"text\":\"This is a test paragraph with some formatting.\"},{\"type\":\"paragraph\",\"text\":\"It includes:\"},{\"type\":\"paragraph\",\"text\":\"- A bullet point\\n- Another point\"},{\"type\":\"paragraph\",\"text\":\"Chapter 2: More Content\"},{\"type\":\"paragraph\",\"text\":\"Here's a second chapter with a different style.\"},{\"type\":\"paragraph\",\"text\":\"This is a blockquote for testing.\"}]}",
+    "markdown": "Chapter 1: Test Content\n\nThis is a test paragraph with some formatting.\n\nIt includes:\n\n\\- A bullet point - Another point\n\nChapter 2: More Content\n\nHere's a second chapter with a different style.\n\nThis is a blockquote for testing.\n",
+    "plain": "Chapter 1: Test Content\n\nThis is a test paragraph with some formatting.\n\nIt includes:\n\n- A bullet point\n- Another point\n\nChapter 2: More Content\n\nHere's a second chapter with a different style.\n\nThis is a blockquote for testing."
+  }
+}

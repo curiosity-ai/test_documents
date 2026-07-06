@@ -1,0 +1,1783 @@
+{
+  "file": "html/sinthgunt.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "title": "Sinthgunt - Wikipedia",
+    "language": "en",
+    "format": {
+      "format_type": "html",
+      "title": "Sinthgunt - Wikipedia",
+      "keywords": [],
+      "canonical_url": "https://en.wikipedia.org/wiki/Sinthgunt",
+      "language": "en",
+      "text_direction": "ltr",
+      "open_graph": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg/960px-Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg",
+        "image_height": "405",
+        "image_width": "640",
+        "title": "Sinthgunt - Wikipedia",
+        "type": "website"
+      },
+      "twitter_card": {},
+      "meta_tags": {
+        "ResourceLoaderDynamicStyles": "",
+        "format-detection": "telephone=no",
+        "generator": "MediaWiki 1.45.0-wmf.7",
+        "referrer": "origin-when-cross-origin",
+        "robots": "max-image-preview:standard",
+        "viewport": "width=1120"
+      },
+      "headers": [
+        {
+          "level": 1,
+          "text": "Sinthgunt",
+          "id": "firstHeading",
+          "depth": 7,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "Etymology",
+          "id": "Etymology",
+          "depth": 10,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "Placement",
+          "id": "Placement",
+          "depth": 10,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "Notes",
+          "id": "Notes",
+          "depth": 10,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "References",
+          "id": "References",
+          "depth": 10,
+          "html_offset": 0
+        }
+      ],
+      "links": [
+        {
+          "href": "#bodyContent",
+          "text": "Jump to content",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "mw-jump-link"
+            ]
+          ]
+        },
+        {
+          "href": "https://de.wikipedia.org/wiki/Sinthgunt",
+          "text": "Deutsch",
+          "title": "Sinthgunt – German",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "interlanguage-link-target"
+            ],
+            [
+              "data-language-autonym",
+              "Deutsch"
+            ],
+            [
+              "data-language-local-name",
+              "German"
+            ],
+            [
+              "data-title",
+              "Sinthgunt"
+            ],
+            [
+              "hreflang",
+              "de"
+            ],
+            [
+              "lang",
+              "de"
+            ],
+            [
+              "title",
+              "Sinthgunt – German"
+            ]
+          ]
+        },
+        {
+          "href": "https://el.wikipedia.org/wiki/%CE%A3%CE%AF%CE%BD%CE%B8%CE%B3%CE%BA%CE%BF%CF%85%CE%BD%CF%84",
+          "text": "Ελληνικά",
+          "title": "Σίνθγκουντ – Greek",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "interlanguage-link-target"
+            ],
+            [
+              "data-language-autonym",
+              "Ελληνικά"
+            ],
+            [
+              "data-language-local-name",
+              "Greek"
+            ],
+            [
+              "data-title",
+              "Σίνθγκουντ"
+            ],
+            [
+              "hreflang",
+              "el"
+            ],
+            [
+              "lang",
+              "el"
+            ],
+            [
+              "title",
+              "Σίνθγκουντ – Greek"
+            ]
+          ]
+        },
+        {
+          "href": "https://es.wikipedia.org/wiki/Sinthgunt",
+          "text": "Español",
+          "title": "Sinthgunt – Spanish",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "interlanguage-link-target"
+            ],
+            [
+              "data-language-autonym",
+              "Español"
+            ],
+            [
+              "data-language-local-name",
+              "Spanish"
+            ],
+            [
+              "data-title",
+              "Sinthgunt"
+            ],
+            [
+              "hreflang",
+              "es"
+            ],
+            [
+              "lang",
+              "es"
+            ],
+            [
+              "title",
+              "Sinthgunt – Spanish"
+            ]
+          ]
+        },
+        {
+          "href": "https://pt.wikipedia.org/wiki/Sinthgunt",
+          "text": "Português",
+          "title": "Sinthgunt – Portuguese",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "interlanguage-link-target"
+            ],
+            [
+              "data-language-autonym",
+              "Português"
+            ],
+            [
+              "data-language-local-name",
+              "Portuguese"
+            ],
+            [
+              "data-title",
+              "Sinthgunt"
+            ],
+            [
+              "hreflang",
+              "pt"
+            ],
+            [
+              "lang",
+              "pt"
+            ],
+            [
+              "title",
+              "Sinthgunt – Portuguese"
+            ]
+          ]
+        },
+        {
+          "href": "https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%82%D2%91%D1%83%D0%BD%D1%82",
+          "text": "Українська",
+          "title": "Синтґунт – Ukrainian",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "interlanguage-link-target"
+            ],
+            [
+              "data-language-autonym",
+              "Українська"
+            ],
+            [
+              "data-language-local-name",
+              "Ukrainian"
+            ],
+            [
+              "data-title",
+              "Синтґунт"
+            ],
+            [
+              "hreflang",
+              "uk"
+            ],
+            [
+              "lang",
+              "uk"
+            ],
+            [
+              "title",
+              "Синтґунт – Ukrainian"
+            ]
+          ]
+        },
+        {
+          "href": "https://www.wikidata.org/wiki/Special:EntityPage/Q746454#sitelinks-wikipedia",
+          "text": "Edit links",
+          "title": "Edit interlanguage links",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "wbc-editpage"
+            ],
+            [
+              "title",
+              "Edit interlanguage links"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Wikipedia:Good_articles*",
+          "text": "![This is a good article. Click here for more information.](//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/20px-Symbol_support_vote.svg.png)",
+          "title": "This is a good article. Click here for more information.",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "This is a good article. Click here for more information."
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/File:Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg",
+          "text": "![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg/330px-Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg)",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "mw-file-description"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Emil_Doepler",
+          "text": "Emil Doepler",
+          "title": "Emil Doepler",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Emil Doepler"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Wikipedia:Manual_of_Style/Pronunciation",
+          "text": "needs IPA",
+          "title": "Wikipedia:Manual of Style/Pronunciation",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Wikipedia:Manual of Style/Pronunciation"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Germanic_mythology",
+          "text": "Germanic mythology",
+          "title": "Germanic mythology",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Germanic mythology"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Old_High_German",
+          "text": "Old High German",
+          "title": "Old High German",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Old High German"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Merseburg_Incantations",
+          "text": "Second Merseburg Charm",
+          "title": "Merseburg Incantations",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "mw-redirect"
+            ],
+            [
+              "title",
+              "Merseburg Incantations"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/S%C3%B3l_(Germanic_mythology)",
+          "text": "Sunna",
+          "title": "Sól (Germanic mythology)",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Sól (Germanic mythology)"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Alliterative_verse",
+          "text": "alliterative",
+          "title": "Alliterative verse",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Alliterative verse"
+            ]
+          ]
+        },
+        {
+          "href": "#cite_note-ORCHARD112-1",
+          "text": "[1]",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/wiki/Phol",
+          "text": "Phol",
+          "title": "Phol",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "mw-redirect"
+            ],
+            [
+              "title",
+              "Phol"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Baldr",
+          "text": "Balder",
+          "title": "Baldr",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Baldr"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Frigg",
+          "text": "Friia",
+          "title": "Frigg",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Frigg"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Fulla",
+          "text": "Uolla",
+          "title": "Fulla",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Fulla"
+            ]
+          ]
+        },
+        {
+          "href": "/w/index.php?title=Sinthgunt&action=edit&section=1",
+          "text": "edit",
+          "title": "Edit section: Etymology",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Edit section: Etymology"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Sophus_Bugge",
+          "text": "Sophus Bugge",
+          "title": "Sophus Bugge",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Sophus Bugge"
+            ]
+          ]
+        },
+        {
+          "href": "#cite_note-2",
+          "text": "[2]",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/wiki/S%C3%B3l_(Germanic_mythology)",
+          "text": "Sól",
+          "title": "Sól (Germanic mythology)",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Sól (Germanic mythology)"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Moon",
+          "text": "moon",
+          "title": "Moon",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Moon"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Norse_mythology",
+          "text": "Norse mythology",
+          "title": "Norse mythology",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Norse mythology"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/M%C3%A1ni",
+          "text": "Máni",
+          "title": "Máni",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Máni"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Rudolf_Simek",
+          "text": "Rudolf Simek",
+          "title": "Rudolf Simek",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Rudolf Simek"
+            ]
+          ]
+        },
+        {
+          "href": "#cite_note-3",
+          "text": "[3]",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/w/index.php?title=Heiner_Eichner&action=edit&redlink=1",
+          "text": "Heiner Eichner",
+          "title": "Heiner Eichner (page does not exist)",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "new"
+            ],
+            [
+              "title",
+              "Heiner Eichner (page does not exist)"
+            ]
+          ]
+        },
+        {
+          "href": "https://de.wikipedia.org/wiki/Heiner_Eichner",
+          "text": "de",
+          "title": "de:Heiner Eichner",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "extiw"
+            ],
+            [
+              "title",
+              "de:Heiner Eichner"
+            ]
+          ]
+        },
+        {
+          "href": "#cite_note-4",
+          "text": "[4]",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/wiki/Old_Norse",
+          "text": "Old Norse",
+          "title": "Old Norse",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Old Norse"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Old_English",
+          "text": "Old English",
+          "title": "Old English",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Old English"
+            ]
+          ]
+        },
+        {
+          "href": "#cite_note-5",
+          "text": "[5]",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "#cite_note-SIMEK285-286-6",
+          "text": "[6]",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/w/index.php?title=Sinthgunt&action=edit&section=2",
+          "text": "edit",
+          "title": "Edit section: Placement",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Edit section: Placement"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Fulla",
+          "text": "Fulla",
+          "title": "Fulla",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Fulla"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Frigg",
+          "text": "Frigg",
+          "title": "Frigg",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Frigg"
+            ]
+          ]
+        },
+        {
+          "href": "#cite_note-BOSTOCK29-7",
+          "text": "[7]",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/w/index.php?title=Wolfgang_Beck&action=edit&redlink=1",
+          "text": "Wolfgang Beck",
+          "title": "Wolfgang Beck (page does not exist)",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "new"
+            ],
+            [
+              "title",
+              "Wolfgang Beck (page does not exist)"
+            ]
+          ]
+        },
+        {
+          "href": "https://de.wikipedia.org/wiki/Wolfgang_Beck_(Germanist)",
+          "text": "de",
+          "title": "de:Wolfgang Beck (Germanist)",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "extiw"
+            ],
+            [
+              "title",
+              "de:Wolfgang Beck (Germanist)"
+            ]
+          ]
+        },
+        {
+          "href": "#cite_note-8",
+          "text": "[8]",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/wiki/Friedrich_Kauffmann",
+          "text": "Friedrich Kauffmann",
+          "title": "Friedrich Kauffmann",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Friedrich Kauffmann"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Valkyrie",
+          "text": "valkyrie",
+          "title": "Valkyrie",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Valkyrie"
+            ]
+          ]
+        },
+        {
+          "href": "#cite_note-9",
+          "text": "[9]",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "#cite_note-10",
+          "text": "[10]",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/wiki/Karl_Helm",
+          "text": "Karl Helm",
+          "title": "Karl Helm",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Karl Helm"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Idisi",
+          "text": "Idisi",
+          "title": "Idisi",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "mw-redirect"
+            ],
+            [
+              "title",
+              "Idisi"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/First_Merseburg_Charm",
+          "text": "First Merseburg Charm",
+          "title": "First Merseburg Charm",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "mw-redirect"
+            ],
+            [
+              "title",
+              "First Merseburg Charm"
+            ]
+          ]
+        },
+        {
+          "href": "#cite_note-11",
+          "text": "[11]",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/w/index.php?title=Sinthgunt&action=edit&section=3",
+          "text": "edit",
+          "title": "Edit section: Notes",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Edit section: Notes"
+            ]
+          ]
+        },
+        {
+          "href": "#cite_ref-ORCHARD112_1-0",
+          "text": "↑",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "#cite_ref-2",
+          "text": "↑",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/wiki/Sophus_Bugge",
+          "text": "Sophus Bugge",
+          "title": "Sophus Bugge",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Sophus Bugge"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Rudolf_Simek",
+          "text": "Rudolf Simek",
+          "title": "Rudolf Simek",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Rudolf Simek"
+            ]
+          ]
+        },
+        {
+          "href": "#cite_ref-3",
+          "text": "↑",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "#cite_ref-4",
+          "text": "↑",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "#cite_ref-5",
+          "text": "↑",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "#cite_ref-SIMEK285-286_6-0",
+          "text": "↑",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "#cite_ref-BOSTOCK29_7-0",
+          "text": "↑",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "#cite_ref-8",
+          "text": "↑",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/w/index.php?title=Wolfgang_Beck&action=edit&redlink=1",
+          "text": "Wolfgang Beck",
+          "title": "Wolfgang Beck (page does not exist)",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "new"
+            ],
+            [
+              "title",
+              "Wolfgang Beck (page does not exist)"
+            ]
+          ]
+        },
+        {
+          "href": "#cite_ref-9",
+          "text": "↑",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/wiki/Friedrich_Kauffmann",
+          "text": "Friedrich Kauffmann",
+          "title": "Friedrich Kauffmann",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Friedrich Kauffmann"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Beitr%C3%A4ge_zur_Geschichte_der_deutschen_Sprache_und_Literatur",
+          "text": "Beiträge zur Geschichte der deutschen Sprache und Literatur",
+          "title": "Beiträge zur Geschichte der deutschen Sprache und Literatur",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Beiträge zur Geschichte der deutschen Sprache und Literatur"
+            ]
+          ]
+        },
+        {
+          "href": "#cite_ref-10",
+          "text": "↑",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "#cite_ref-11",
+          "text": "↑",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/wiki/Karl_Helm",
+          "text": "Karl Helm",
+          "title": "Karl Helm",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Karl Helm"
+            ]
+          ]
+        },
+        {
+          "href": "/w/index.php?title=Sinthgunt&action=edit&section=4",
+          "text": "edit",
+          "title": "Edit section: References",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Edit section: References"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Oxford_University_Press",
+          "text": "Oxford University Press",
+          "title": "Oxford University Press",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Oxford University Press"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/ISBN_(identifier)",
+          "text": "ISBN",
+          "title": "ISBN (identifier)",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "mw-redirect"
+            ],
+            [
+              "title",
+              "ISBN (identifier)"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Special:BookSources/0-19-815392-9",
+          "text": "0-19-815392-9",
+          "title": "Special:BookSources/0-19-815392-9",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Special:BookSources/0-19-815392-9"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Orion_Publishing_Group",
+          "text": "Cassell",
+          "title": "Orion Publishing Group",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Orion Publishing Group"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/ISBN_(identifier)",
+          "text": "ISBN",
+          "title": "ISBN (identifier)",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "mw-redirect"
+            ],
+            [
+              "title",
+              "ISBN (identifier)"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Special:BookSources/0-304-34520-2",
+          "text": "0-304-34520-2",
+          "title": "Special:BookSources/0-304-34520-2",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Special:BookSources/0-304-34520-2"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Rudolf_Simek",
+          "text": "Simek, Rudolf",
+          "title": "Rudolf Simek",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Rudolf Simek"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Boydell_%26_Brewer",
+          "text": "D.S. Brewer",
+          "title": "Boydell &amp; Brewer",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Boydell &amp; Brewer"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/ISBN_(identifier)",
+          "text": "ISBN",
+          "title": "ISBN (identifier)",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "mw-redirect"
+            ],
+            [
+              "title",
+              "ISBN (identifier)"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Special:BookSources/0-85991-513-1",
+          "text": "0-85991-513-1",
+          "title": "Special:BookSources/0-85991-513-1",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Special:BookSources/0-85991-513-1"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Help:Category",
+          "text": "Category",
+          "title": "Help:Category",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Help:Category"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Category:Germanic_goddesses",
+          "text": "Germanic goddesses",
+          "title": "Category:Germanic goddesses",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Category:Germanic goddesses"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Category:Articles_with_short_description",
+          "text": "Articles with short description",
+          "title": "Category:Articles with short description",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Category:Articles with short description"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Category:Short_description_matches_Wikidata",
+          "text": "Short description matches Wikidata",
+          "title": "Category:Short description matches Wikidata",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Category:Short description matches Wikidata"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Category:Articles_needing_IPA",
+          "text": "Articles needing IPA",
+          "title": "Category:Articles needing IPA",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Category:Articles needing IPA"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Category:Good_articles",
+          "text": "Good articles",
+          "title": "Category:Good articles",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Category:Good articles"
+            ]
+          ]
+        },
+        {
+          "href": "/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+          "text": "Creative Commons Attribution-ShareAlike 4.0 License",
+          "title": "Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "title",
+              "Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License"
+            ]
+          ]
+        },
+        {
+          "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+          "text": "Terms of Use",
+          "title": "foundation:Special:MyLanguage/Policy:Terms of Use",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "extiw"
+            ],
+            [
+              "title",
+              "foundation:Special:MyLanguage/Policy:Terms of Use"
+            ]
+          ]
+        },
+        {
+          "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+          "text": "Privacy Policy",
+          "title": "foundation:Special:MyLanguage/Policy:Privacy policy",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "extiw"
+            ],
+            [
+              "title",
+              "foundation:Special:MyLanguage/Policy:Privacy policy"
+            ]
+          ]
+        },
+        {
+          "href": "https://wikimediafoundation.org/",
+          "text": "Wikimedia Foundation, Inc.",
+          "link_type": "external",
+          "rel": [
+            "nofollow"
+          ],
+          "attributes": [
+            [
+              "class",
+              "external text"
+            ],
+            [
+              "rel",
+              "nofollow"
+            ]
+          ]
+        },
+        {
+          "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+          "text": "Privacy policy",
+          "link_type": "external",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/wiki/Wikipedia:About",
+          "text": "About Wikipedia",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/wiki/Wikipedia:General_disclaimer",
+          "text": "Disclaimers",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "//en.wikipedia.org/wiki/Wikipedia:Contact_us",
+          "text": "Contact Wikipedia",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+          "text": "Code of Conduct",
+          "link_type": "external",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "https://developer.wikimedia.org",
+          "text": "Developers",
+          "link_type": "external",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "https://stats.wikimedia.org/#/en.wikipedia.org",
+          "text": "Statistics",
+          "link_type": "external",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+          "text": "Cookie statement",
+          "link_type": "external",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "//en.m.wikipedia.org/w/index.php?title=Sinthgunt&mobileaction=toggle_view_mobile",
+          "text": "Mobile view",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "noprint stopMobileRedirectToggle"
+            ]
+          ]
+        },
+        {
+          "href": "https://www.wikimedia.org/",
+          "text": "![Wikimedia Foundation](/static/images/footer/wikimedia.svg)",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+            ]
+          ]
+        },
+        {
+          "href": "https://www.mediawiki.org/",
+          "text": "![Powered by MediaWiki](/w/resources/assets/mediawiki_compact.svg)",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"
+            ]
+          ]
+        },
+        {
+          "href": "#",
+          "text": "#",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+            ],
+            [
+              "data-event-name",
+              "talk-sticky-header"
+            ],
+            [
+              "id",
+              "ca-talk-sticky-header"
+            ],
+            [
+              "tabindex",
+              "-1"
+            ]
+          ]
+        },
+        {
+          "href": "#",
+          "text": "#",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+            ],
+            [
+              "data-event-name",
+              "subject-sticky-header"
+            ],
+            [
+              "id",
+              "ca-subject-sticky-header"
+            ],
+            [
+              "tabindex",
+              "-1"
+            ]
+          ]
+        },
+        {
+          "href": "#",
+          "text": "#",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+            ],
+            [
+              "data-event-name",
+              "history-sticky-header"
+            ],
+            [
+              "id",
+              "ca-history-sticky-header"
+            ],
+            [
+              "tabindex",
+              "-1"
+            ]
+          ]
+        },
+        {
+          "href": "#",
+          "text": "#",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink"
+            ],
+            [
+              "data-event-name",
+              "watch-sticky-header"
+            ],
+            [
+              "id",
+              "ca-watchstar-sticky-header"
+            ],
+            [
+              "tabindex",
+              "-1"
+            ]
+          ]
+        },
+        {
+          "href": "#",
+          "text": "#",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+            ],
+            [
+              "data-event-name",
+              "wikitext-edit-sticky-header"
+            ],
+            [
+              "id",
+              "ca-edit-sticky-header"
+            ],
+            [
+              "tabindex",
+              "-1"
+            ]
+          ]
+        },
+        {
+          "href": "#",
+          "text": "#",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+            ],
+            [
+              "data-event-name",
+              "ve-edit-sticky-header"
+            ],
+            [
+              "id",
+              "ca-ve-edit-sticky-header"
+            ],
+            [
+              "tabindex",
+              "-1"
+            ]
+          ]
+        },
+        {
+          "href": "#",
+          "text": "#",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only"
+            ],
+            [
+              "data-event-name",
+              "ve-edit-protected-sticky-header"
+            ],
+            [
+              "id",
+              "ca-viewsource-sticky-header"
+            ],
+            [
+              "tabindex",
+              "-1"
+            ]
+          ]
+        },
+        {
+          "href": "#",
+          "text": "Add topic",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive"
+            ],
+            [
+              "data-event-name",
+              "addsection-sticky-header"
+            ],
+            [
+              "id",
+              "ca-addsection-sticky-header"
+            ],
+            [
+              "tabindex",
+              "-1"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/20px-Symbol_support_vote.svg.png",
+          "alt": "This is a good article. Click here for more information.",
+          "dimensions": [
+            19,
+            20
+          ],
+          "image_type": "relative",
+          "attributes": [
+            [
+              "alt",
+              "This is a good article. Click here for more information."
+            ],
+            [
+              "class",
+              "mw-file-element"
+            ],
+            [
+              "data-file-height",
+              "185"
+            ],
+            [
+              "data-file-width",
+              "180"
+            ],
+            [
+              "decoding",
+              "async"
+            ],
+            [
+              "height",
+              "20"
+            ],
+            [
+              "srcset",
+              "\n                              //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/40px-Symbol_support_vote.svg.png 1.5x\n                            "
+            ],
+            [
+              "width",
+              "19"
+            ]
+          ]
+        },
+        {
+          "src": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg/330px-Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg",
+          "dimensions": [
+            300,
+            190
+          ],
+          "image_type": "relative",
+          "attributes": [
+            [
+              "class",
+              "mw-file-element"
+            ],
+            [
+              "data-file-height",
+              "1119"
+            ],
+            [
+              "data-file-width",
+              "1767"
+            ],
+            [
+              "decoding",
+              "async"
+            ],
+            [
+              "height",
+              "190"
+            ],
+            [
+              "srcset",
+              "\n                          //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg/500px-Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg 1.5x,\n                          //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg/960px-Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg 2x\n                        "
+            ],
+            [
+              "width",
+              "300"
+            ]
+          ]
+        },
+        {
+          "src": "https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;usesul3=1",
+          "dimensions": [
+            1,
+            1
+          ],
+          "image_type": "external",
+          "attributes": [
+            [
+              "alt",
+              ""
+            ],
+            [
+              "height",
+              "1"
+            ],
+            [
+              "style",
+              "border: none; position: absolute"
+            ],
+            [
+              "width",
+              "1"
+            ]
+          ]
+        },
+        {
+          "src": "/static/images/footer/wikimedia.svg",
+          "alt": "Wikimedia Foundation",
+          "dimensions": [
+            25,
+            25
+          ],
+          "image_type": "relative",
+          "attributes": [
+            [
+              "alt",
+              "Wikimedia Foundation"
+            ],
+            [
+              "height",
+              "25"
+            ],
+            [
+              "lang",
+              "en"
+            ],
+            [
+              "loading",
+              "lazy"
+            ],
+            [
+              "width",
+              "25"
+            ]
+          ]
+        },
+        {
+          "src": "/w/resources/assets/mediawiki_compact.svg",
+          "alt": "Powered by MediaWiki",
+          "dimensions": [
+            25,
+            25
+          ],
+          "image_type": "relative",
+          "attributes": [
+            [
+              "alt",
+              "Powered by MediaWiki"
+            ],
+            [
+              "height",
+              "25"
+            ],
+            [
+              "lang",
+              "en"
+            ],
+            [
+              "loading",
+              "lazy"
+            ],
+            [
+              "width",
+              "25"
+            ]
+          ]
+        }
+      ],
+      "structured_data": [
+        {
+          "data_type": "json-ld",
+          "raw_json": "{\n        \"@context\": \"https:\\/\\/schema.org\",\n        \"@type\": \"Article\",\n        \"name\": \"Sinthgunt\",\n        \"url\": \"https:\\/\\/en.wikipedia.org\\/wiki\\/Sinthgunt\",\n        \"sameAs\": \"http:\\/\\/www.wikidata.org\\/entity\\/Q746454\",\n        \"mainEntity\": \"http:\\/\\/www.wikidata.org\\/entity\\/Q746454\",\n        \"author\": {\n          \"@type\": \"Organization\",\n          \"name\": \"Contributors to Wikimedia projects\"\n        },\n        \"publisher\": {\n          \"@type\": \"Organization\",\n          \"name\": \"Wikimedia Foundation, Inc.\",\n          \"logo\": {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https:\\/\\/www.wikimedia.org\\/static\\/images\\/wmf-hor-googpub.png\"\n          }\n        },\n        \"datePublished\": \"2008-05-29T06:45:22Z\",\n        \"dateModified\": \"2025-06-21T03:09:54Z\",\n        \"image\": \"https:\\/\\/upload.wikimedia.org\\/wikipedia\\/commons\\/a\\/a3\\/Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg\",\n        \"headline\": \"figure in Germanic mythology\"\n      }",
+          "schema_type": "Article"
+        }
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "html/sinthgunt.html",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "html/sinthgunt.html"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Sinthgunt</h1>\n<ul>\n<li>[Deutsch](https://de.wikipedia.org/wiki/Sinthgunt &quot;Sinthgunt – German&quot;)</li>\n<li>[Ελληνικά](https://el.wikipedia.org/wiki/%CE%A3%CE%AF%CE%BD%CE%B8%CE%B3%CE%BA%CE%BF%CF%85%CE%BD%CF%84 &quot;Σίνθγκουντ – Greek&quot;)</li>\n<li>[Español](https://es.wikipedia.org/wiki/Sinthgunt &quot;Sinthgunt – Spanish&quot;)</li>\n<li>[Português](https://pt.wikipedia.org/wiki/Sinthgunt &quot;Sinthgunt – Portuguese&quot;)</li>\n<li>[Українська](https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%82%D2%91%D1%83%D0%BD%D1%82 &quot;Синтґунт – Ukrainian&quot;)</li>\n</ul>\n<p>![This is a good article. Click here for more information.](//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/20px-Symbol_support_vote.svg.png)</p>\n<p>![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg/330px-Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg)</p>\n<p>**Sinthgunt**[*[needs IPA](/wiki/Wikipedia:Manual_of_Style/Pronunciation &quot;Wikipedia:Manual of Style/Pronunciation&quot;)*] is a figure in [Germanic mythology](/wiki/Germanic_mythology &quot;Germanic mythology&quot;), attested solely in the [Old High German](/wiki/Old_High_German &quot;Old High German&quot;) 9th- or 10th-century [Second Merseburg Charm](/wiki/Merseburg_Incantations &quot;Merseburg Incantations&quot;). In the verse charm, Sinthgunt is referred to as the sister of the personified sun, [Sunna](/wiki/S%C3%B3l_(Germanic_mythology) &quot;Sól (Germanic mythology)&quot;) (whose name is [alliterative](/wiki/Alliterative_verse &quot;Alliterative verse&quot;) to *Sinthgunt*),[[1]](#cite_note-ORCHARD112-1) and the two sisters are cited as both producing incantations to heal the horse of [Phol](/wiki/Phol &quot;Phol&quot;), another otherwise unattested figure but possibly the same as [Balder](/wiki/Baldr &quot;Baldr&quot;), who is named elsewhere in the charm. The two are then followed by [Friia](/wiki/Frigg &quot;Frigg&quot;) and [Uolla](/wiki/Fulla &quot;Fulla&quot;), also alliterative and stated as sisters.</p>\n<p>As Sinthgunt is otherwise unattested, her significance is otherwise unknown, but some scholarly theories exist about her role in Germanic mythology based on proposed etymologies and the potential significance of her placement within the poem.</p>\n<h2>Etymology</h2>\n<p>The etymology of *Sinthgunt* is unclear. In the original manuscript, *Sinthgunt* is spelled *Sin**ht**gunt* (emphasis added). In the 19th century, [Sophus Bugge](/wiki/Sophus_Bugge &quot;Sophus Bugge&quot;) stuck strictly to this reading, proposing a complex compound based on Germanic **Sin-naχt-gund*, i.e., &quot;the night-walking one&quot;.[[2]](#cite_note-2) As a result of the pairing with Sunna, the personified sun (corresponding to Old Norse [Sól](/wiki/S%C3%B3l_(Germanic_mythology) &quot;Sól (Germanic mythology)&quot;)), this etymology has been interpreted as a reference to the [moon](/wiki/Moon &quot;Moon&quot;). However, this reading has yielded problems; the moon in Germanic mythology is considered masculine, exemplified in the personification of the moon in [Norse mythology](/wiki/Norse_mythology &quot;Norse mythology&quot;), [Máni](/wiki/M%C3%A1ni &quot;Máni&quot;), a male figure. According to [Rudolf Simek](/wiki/Rudolf_Simek &quot;Rudolf Simek&quot;), the historical record lacks evidence for any cult of personified celestial bodies among the ancient Germanic peoples.[[3]](#cite_note-3)</p>\n<p>Stefan Schaffner rejects this etymology, as does [Heiner Eichner](/w/index.php?title=Heiner_Eichner&amp;action=edit&amp;redlink=1 &quot;Heiner Eichner (page does not exist)&quot;) [[de](https://de.wikipedia.org/wiki/Heiner_Eichner &quot;de:Heiner Eichner&quot;)], because the first element *Sinht-* cannot be based on the presupposed earlier Germanic **sinχt-*. Such a Germanic form would have yielded Old High German **sīht* by regular sound change.[[4]](#cite_note-4) The amended *Sinthgunt* presupposes a Proto-Germanic compound **Senþa-gunþjō*, the first element meaning &quot;raid, (military) campaign&quot;, the second one &quot;fight&quot;. This interpretation corresponds well to other Old High German female names such as *Sindhilt* (from **Senþa-χilðijō*, with its second element also meaning &quot;fight&quot;, cf. [Old Norse](/wiki/Old_Norse &quot;Old Norse&quot;) *hildr*, [Old English](/wiki/Old_English &quot;Old English&quot;) *hild*).[[5]](#cite_note-5) Simek also mentions the interpretation &quot;heavenly body, star&quot;.[[6]](#cite_note-SIMEK285-286-6)</p>\n<h2>Placement</h2>\n<p>The figures [Fulla](/wiki/Fulla &quot;Fulla&quot;) (*Uolla*) and [Frigg](/wiki/Frigg &quot;Frigg&quot;) (*Friia*) are attested together in later Old Norse sources (though not as sisters), and theories have been proposed that Fulla may at one time have been an aspect of Frigg. This notion has resulted in a theory that a similar situation may have existed between the figures of Sinthgunt and Sunna/Sól, in that the two may have been understood as aspects of one another rather than entirely separate figures.[[7]](#cite_note-BOSTOCK29-7) Similarly, [Wolfgang Beck](/w/index.php?title=Wolfgang_Beck&amp;action=edit&amp;redlink=1 &quot;Wolfgang Beck (page does not exist)&quot;) [[de](https://de.wikipedia.org/wiki/Wolfgang_Beck_(Germanist) &quot;de:Wolfgang Beck (Germanist)&quot;)] analysed her as a subordinate goddess from Sunna's retinue, a kind of &quot;situation goddess&quot;, based on her unique appearance in the sources.[[8]](#cite_note-8)</p>\n<p>[Friedrich Kauffmann](/wiki/Friedrich_Kauffmann &quot;Friedrich Kauffmann&quot;) classified Sinhtgunt as a [valkyrie](/wiki/Valkyrie &quot;Valkyrie&quot;) in the 19th century, because the elements *-gund* and *-hild* appear frequently in their names.[[9]](#cite_note-9) Stefan Schaffner and Heiner Eichner more recently agreed with him, based on Günter Müller's paper on the valkyries' healing powers.[[10]](#cite_note-10)</p>\n<p>[Karl Helm](/wiki/Karl_Helm &quot;Karl Helm&quot;) rejected Kauffmann and grouped Sinhtgunt with the [Idisi](/wiki/Idisi &quot;Idisi&quot;) of the [First Merseburg Charm](/wiki/First_Merseburg_Charm &quot;First Merseburg Charm&quot;), as a specially defined group of Germanic goddesses.[[11]](#cite_note-11)</p>\n<h2>Notes</h2>\n<ol>\n<li>**[↑](#cite_ref-ORCHARD112_1-0)** Orchard (1997:112).</li>\n<li>**[↑](#cite_ref-2)** [Sophus Bugge](/wiki/Sophus_Bugge &quot;Sophus Bugge&quot;). *Studien über die Entstehung der nordischen Götter- und Heldensagen*. München 1889, p. 298. Cf. [Rudolf Simek](/wiki/Rudolf_Simek &quot;Rudolf Simek&quot;). *Lexikon der germanischen Mythologie*. Stuttgart: Kröner, 1984, p. 374; trans. Angela Hall, *Dictionary of Northern Mythology*. Cambridge: Brewer, 1993, pp. 285–86.</li>\n<li>**[↑](#cite_ref-3)** Simek, pp. 392, 397.</li>\n<li>**[↑](#cite_ref-4)** Stefan Schaffner. &quot;Die Götternamen des Zweiten Merseburger Zauberspruchs&quot;. *Die Sprache* 41.2 (1999) p. 169.</li>\n<li>**[↑](#cite_ref-5)** Schaffner, pp. 169–70.</li>\n<li>**[↑](#cite_ref-SIMEK285-286_6-0)** Simek (2007:285-286).</li>\n<li>**[↑](#cite_ref-BOSTOCK29_7-0)** Bostock (1976:29).</li>\n<li>**[↑](#cite_ref-8)** [Wolfgang Beck](/w/index.php?title=Wolfgang_Beck&amp;action=edit&amp;redlink=1 &quot;Wolfgang Beck (page does not exist)&quot;). *Die Merseburger Zaubersprüche. Eine Einführung*. Pertersberg, 2010, pp. 163–171, here p. 171.</li>\n<li>**[↑](#cite_ref-9)** [Friedrich Kauffmann](/wiki/Friedrich_Kauffmann &quot;Friedrich Kauffmann&quot;). &quot;Der Zweite Merseburger Zauberspruch&quot;. *[Beiträge zur Geschichte der deutschen Sprache und Literatur](/wiki/Beitr%C3%A4ge_zur_Geschichte_der_deutschen_Sprache_und_Literatur &quot;Beiträge zur Geschichte der deutschen Sprache und Literatur&quot;)* 15 (1891), pp. 207–210; Friedrich Kauffmann. &quot;Noch einmal der zweite Merseburger Spruch&quot;. *Zeitschrift für deutsche Philologie* 26 (1894), pp. 454–462.</li>\n<li>**[↑](#cite_ref-10)** Gunter Müller. &quot;Zur Heilkraft der Walküren. Sondersprachliches der Magie in kontinentalen und skandinavischen Zeugnissen&quot;. *Frühmittelalterliche Studien* 10 (1976), pp. 358 ff.</li>\n<li>**[↑](#cite_ref-11)** [Karl Helm](/wiki/Karl_Helm &quot;Karl Helm&quot;). *Altgermanische Religionsgeschichte*, Vol. 2.2, Heidelberg: Winter, 1953, pp. 219, 227.</li>\n</ol>\n<h2>References</h2>\n<ul>\n<li>Bostock, John Knight. King, Charles Kenneth. McLintock, D. R. (1976). *A Handbook on Old High German Literature*. [Oxford University Press](/wiki/Oxford_University_Press &quot;Oxford University Press&quot;). [ISBN](/wiki/ISBN_(identifier) &quot;ISBN (identifier)&quot;) [0-19-815392-9](/wiki/Special:BookSources/0-19-815392-9 &quot;Special:BookSources/0-19-815392-9&quot;)</li>\n<li>Orchard, Andy (1997). *Dictionary of Norse Myth and Legend*. [Cassell](/wiki/Orion_Publishing_Group &quot;Orion Publishing Group&quot;). [ISBN](/wiki/ISBN_(identifier) &quot;ISBN (identifier)&quot;) [0-304-34520-2](/wiki/Special:BookSources/0-304-34520-2 &quot;Special:BookSources/0-304-34520-2&quot;)</li>\n<li>[Simek, Rudolf](/wiki/Rudolf_Simek &quot;Rudolf Simek&quot;) (2007) translated by Angela Hall. *Dictionary of Northern Mythology*. [D.S. Brewer](/wiki/Boydell_%26_Brewer &quot;Boydell &amp;amp; Brewer&quot;). [ISBN](/wiki/ISBN_(identifier) &quot;ISBN (identifier)&quot;) [0-85991-513-1](/wiki/Special:BookSources/0-85991-513-1 &quot;Special:BookSources/0-85991-513-1&quot;)</li>\n</ul>\n<p>![](https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;amp;usesul3=1)</p>\n<ul>\n<li>[Germanic goddesses](/wiki/Category:Germanic_goddesses &quot;Category:Germanic goddesses&quot;)</li>\n</ul>\n<ul>\n<li>[Articles with short description](/wiki/Category:Articles_with_short_description &quot;Category:Articles with short description&quot;)</li>\n<li>[Short description matches Wikidata](/wiki/Category:Short_description_matches_Wikidata &quot;Category:Short description matches Wikidata&quot;)</li>\n<li>[Articles needing IPA](/wiki/Category:Articles_needing_IPA &quot;Category:Articles needing IPA&quot;)</li>\n<li>[Good articles](/wiki/Category:Good_articles &quot;Category:Good articles&quot;)</li>\n</ul>\n<ul>\n<li>This page was last edited on 21 June 2025, at 03:09 (UTC).</li>\n<li>Text is available under the [Creative Commons Attribution-ShareAlike 4.0 License](/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License &quot;Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License&quot;); additional terms may apply. By using this site, you agree to the [Terms of Use](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use &quot;foundation:Special:MyLanguage/Policy:Terms of Use&quot;) and [Privacy Policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy &quot;foundation:Special:MyLanguage/Policy:Privacy policy&quot;). Wikipedia® is a registered trademark of the [Wikimedia Foundation, Inc.](https://wikimediafoundation.org/), a non-profit organization.</li>\n</ul>\n<ul>\n<li>[Privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy)</li>\n<li>[About Wikipedia](/wiki/Wikipedia:About)</li>\n<li>[Disclaimers](/wiki/Wikipedia:General_disclaimer)</li>\n<li>[Contact Wikipedia](//en.wikipedia.org/wiki/Wikipedia:Contact_us)</li>\n<li>[Code of Conduct](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct)</li>\n<li>[Developers](https://developer.wikimedia.org)</li>\n<li>[Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)</li>\n<li>[Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement)</li>\n<li>[Mobile view](//en.m.wikipedia.org/w/index.php?title=Sinthgunt&amp;mobileaction=toggle_view_mobile)</li>\n</ul>\n<ul>\n<li>[![Wikimedia Foundation](/static/images/footer/wikimedia.svg)](https://www.wikimedia.org/)</li>\n<li>[![Powered by MediaWiki](/w/resources/assets/mediawiki_compact.svg)](https://www.mediawiki.org/)</li>\n</ul>\n<p>![Wikimedia Foundation](/static/images/footer/wikimedia.svg)</p>\n<p>![Powered by MediaWiki](/w/resources/assets/mediawiki_compact.svg)</p>\n<ul>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Sinthgunt\",\"level\":1,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"[Deutsch](https://de.wikipedia.org/wiki/Sinthgunt \\\"Sinthgunt – German\\\")\",\"[Ελληνικά](https://el.wikipedia.org/wiki/%CE%A3%CE%AF%CE%BD%CE%B8%CE%B3%CE%BA%CE%BF%CF%85%CE%BD%CF%84 \\\"Σίνθγκουντ – Greek\\\")\",\"[Español](https://es.wikipedia.org/wiki/Sinthgunt \\\"Sinthgunt – Spanish\\\")\",\"[Português](https://pt.wikipedia.org/wiki/Sinthgunt \\\"Sinthgunt – Portuguese\\\")\",\"[Українська](https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%82%D2%91%D1%83%D0%BD%D1%82 \\\"Синтґунт – Ukrainian\\\")\"]},{\"type\":\"paragraph\",\"text\":\"![This is a good article. Click here for more information.](//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/20px-Symbol_support_vote.svg.png)\"},{\"type\":\"paragraph\",\"text\":\"![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg/330px-Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg)\"},{\"type\":\"paragraph\",\"text\":\"**Sinthgunt**[*[needs IPA](/wiki/Wikipedia:Manual_of_Style/Pronunciation \\\"Wikipedia:Manual of Style/Pronunciation\\\")*] is a figure in [Germanic mythology](/wiki/Germanic_mythology \\\"Germanic mythology\\\"), attested solely in the [Old High German](/wiki/Old_High_German \\\"Old High German\\\") 9th- or 10th-century [Second Merseburg Charm](/wiki/Merseburg_Incantations \\\"Merseburg Incantations\\\"). In the verse charm, Sinthgunt is referred to as the sister of the personified\\n sun, [Sunna](/wiki/S%C3%B3l_(Germanic_mythology) \\\"Sól (Germanic mythology)\\\") (whose name is [alliterative](/wiki/Alliterative_verse \\\"Alliterative verse\\\") to *Sinthgunt*),[[1]](#cite_note-ORCHARD112-1) and the two sisters are cited as both producing incantations to heal the horse\\n of [Phol](/wiki/Phol \\\"Phol\\\"), another\\n otherwise unattested figure but possibly the same as [Balder](/wiki/Baldr \\\"Baldr\\\"), who is named elsewhere in the\\n charm. The two are then followed by [Friia](/wiki/Frigg \\\"Frigg\\\") and [Uolla](/wiki/Fulla \\\"Fulla\\\"), also alliterative and stated as\\n sisters.\"},{\"type\":\"paragraph\",\"text\":\"As Sinthgunt is otherwise unattested, her significance is otherwise unknown, but\\n some scholarly theories exist about her role in Germanic mythology based on\\n proposed etymologies and the potential significance of her placement within the\\n poem.\"},{\"type\":\"section\",\"heading\":\"Etymology\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"The etymology of *Sinthgunt* is unclear. In the original manuscript, *Sinthgunt* is spelled *Sin**ht**gunt* (emphasis added). In the\\n 19th century, [Sophus Bugge](/wiki/Sophus_Bugge \\\"Sophus Bugge\\\") stuck strictly to this reading, proposing a complex compound based on Germanic **Sin-naχt-gund*, i.e., \\\"the night-walking one\\\".[[2]](#cite_note-2) As a result of the pairing with Sunna, the personified sun (corresponding to Old\\n Norse [Sól](/wiki/S%C3%B3l_(Germanic_mythology) \\\"Sól (Germanic mythology)\\\")), this etymology has been interpreted as a reference to the [moon](/wiki/Moon \\\"Moon\\\"). However, this reading has yielded\\n problems; the moon in Germanic mythology is considered masculine, exemplified in\\n the personification of the moon in [Norse mythology](/wiki/Norse_mythology \\\"Norse mythology\\\"), [Máni](/wiki/M%C3%A1ni \\\"Máni\\\"), a male figure. According to [Rudolf Simek](/wiki/Rudolf_Simek \\\"Rudolf Simek\\\"), the\\n historical record lacks evidence for any cult of personified celestial bodies\\n among the ancient Germanic peoples.[[3]](#cite_note-3)\"},{\"type\":\"paragraph\",\"text\":\"Stefan Schaffner rejects this etymology, as does [Heiner Eichner](/w/index.php?title=Heiner_Eichner&action=edit&redlink=1 \\\"Heiner Eichner (page does not exist)\\\") [[de](https://de.wikipedia.org/wiki/Heiner_Eichner \\\"de:Heiner Eichner\\\")], because the first element *Sinht-* cannot be based on the presupposed\\n earlier Germanic **sinχt-*. Such a Germanic form would have yielded Old\\n High German **sīht* by regular sound change.[[4]](#cite_note-4) The amended *Sinthgunt* presupposes a Proto-Germanic compound **Senþa-gunþjō*, the first element meaning \\\"raid, (military) campaign\\\", the\\n second one \\\"fight\\\". This interpretation corresponds well to other Old High\\n German female names such as *Sindhilt* (from **Senþa-χilðijō*, with\\n its second element also meaning \\\"fight\\\", cf. [Old Norse](/wiki/Old_Norse \\\"Old Norse\\\") *hildr*, [Old English](/wiki/Old_English \\\"Old English\\\") *hild*).[[5]](#cite_note-5) Simek also mentions the interpretation \\\"heavenly body, star\\\".[[6]](#cite_note-SIMEK285-286-6)\"}]},{\"type\":\"section\",\"heading\":\"Placement\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"The figures [Fulla](/wiki/Fulla \\\"Fulla\\\") (*Uolla*) and [Frigg](/wiki/Frigg \\\"Frigg\\\") (*Friia*) are attested\\n together in later Old Norse sources (though not as sisters), and theories have\\n been proposed that Fulla may at one time have been an aspect of Frigg. This\\n notion has resulted in a theory that a similar situation may have existed\\n between the figures of Sinthgunt and Sunna/Sól, in that the two may have been\\n understood as aspects of one another rather than entirely separate figures.[[7]](#cite_note-BOSTOCK29-7) Similarly, [Wolfgang Beck](/w/index.php?title=Wolfgang_Beck&action=edit&redlink=1 \\\"Wolfgang Beck (page does not exist)\\\") [[de](https://de.wikipedia.org/wiki/Wolfgang_Beck_(Germanist) \\\"de:Wolfgang Beck (Germanist)\\\")] analysed her as a subordinate goddess from Sunna's retinue, a kind of \\\"situation\\n goddess\\\", based on her unique appearance in the sources.[[8]](#cite_note-8)\"},{\"type\":\"paragraph\",\"text\":\"[Friedrich Kauffmann](/wiki/Friedrich_Kauffmann \\\"Friedrich Kauffmann\\\") classified Sinhtgunt as a [valkyrie](/wiki/Valkyrie \\\"Valkyrie\\\") in the 19th century,\\n because the elements *-gund* and *-hild* appear frequently in their\\n names.[[9]](#cite_note-9) Stefan Schaffner and Heiner Eichner more recently agreed with him, based on\\n Günter Müller's paper on the valkyries' healing powers.[[10]](#cite_note-10)\"},{\"type\":\"paragraph\",\"text\":\"[Karl Helm](/wiki/Karl_Helm \\\"Karl Helm\\\") rejected Kauffmann and grouped Sinhtgunt with the [Idisi](/wiki/Idisi \\\"Idisi\\\") of the [First Merseburg Charm](/wiki/First_Merseburg_Charm \\\"First Merseburg Charm\\\"), as a specially defined group of Germanic goddesses.[[11]](#cite_note-11)\"}]},{\"type\":\"section\",\"heading\":\"Notes\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":true,\"items\":[\"**[↑](#cite_ref-ORCHARD112_1-0)** Orchard (1997:112).\",\"**[↑](#cite_ref-2)** [Sophus Bugge](/wiki/Sophus_Bugge \\\"Sophus Bugge\\\"). *Studien über die Entstehung der nordischen Götter- und Heldensagen*. München 1889, p. 298. Cf. [Rudolf Simek](/wiki/Rudolf_Simek \\\"Rudolf Simek\\\"). *Lexikon der germanischen Mythologie*. Stuttgart: Kröner, 1984,\\n p. 374; trans. Angela Hall, *Dictionary of Northern Mythology*. Cambridge: Brewer, 1993,\\n pp. 285–86.\",\"**[↑](#cite_ref-3)** Simek, pp. 392, 397.\",\"**[↑](#cite_ref-4)** Stefan Schaffner. \\\"Die Götternamen des Zweiten Merseburger\\n Zauberspruchs\\\". *Die Sprache* 41.2 (1999) p. 169.\",\"**[↑](#cite_ref-5)** Schaffner, pp. 169–70.\",\"**[↑](#cite_ref-SIMEK285-286_6-0)** Simek (2007:285-286).\",\"**[↑](#cite_ref-BOSTOCK29_7-0)** Bostock (1976:29).\",\"**[↑](#cite_ref-8)** [Wolfgang Beck](/w/index.php?title=Wolfgang_Beck&action=edit&redlink=1 \\\"Wolfgang Beck (page does not exist)\\\"). *Die Merseburger Zaubersprüche. Eine Einführung*. Pertersberg,\\n 2010, pp. 163–171, here p. 171.\",\"**[↑](#cite_ref-9)** [Friedrich Kauffmann](/wiki/Friedrich_Kauffmann \\\"Friedrich Kauffmann\\\"). \\\"Der Zweite Merseburger Zauberspruch\\\". *[Beiträge zur Geschichte der deutschen Sprache und Literatur](/wiki/Beitr%C3%A4ge_zur_Geschichte_der_deutschen_Sprache_und_Literatur \\\"Beiträge zur Geschichte der deutschen Sprache und Literatur\\\")* 15 (1891), pp. 207–210; Friedrich Kauffmann. \\\"Noch einmal der\\n zweite Merseburger Spruch\\\". *Zeitschrift für deutsche Philologie* 26 (1894),\\n pp. 454–462.\",\"**[↑](#cite_ref-10)** Gunter Müller. \\\"Zur Heilkraft der Walküren. Sondersprachliches der\\n Magie in kontinentalen und skandinavischen Zeugnissen\\\". *Frühmittelalterliche Studien* 10 (1976), pp. 358 ff.\",\"**[↑](#cite_ref-11)** [Karl Helm](/wiki/Karl_Helm \\\"Karl Helm\\\"). *Altgermanische Religionsgeschichte*, Vol. 2.2, Heidelberg: Winter,\\n 1953, pp. 219, 227.\"]}]},{\"type\":\"section\",\"heading\":\"References\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"Bostock, John Knight. King, Charles Kenneth. McLintock, D. R. (1976). *A Handbook on Old High German Literature*. [Oxford University Press](/wiki/Oxford_University_Press \\\"Oxford University Press\\\"). [ISBN](/wiki/ISBN_(identifier) \\\"ISBN (identifier)\\\") [0-19-815392-9](/wiki/Special:BookSources/0-19-815392-9 \\\"Special:BookSources/0-19-815392-9\\\")\",\"Orchard, Andy (1997). *Dictionary of Norse Myth and Legend*. [Cassell](/wiki/Orion_Publishing_Group \\\"Orion Publishing Group\\\"). [ISBN](/wiki/ISBN_(identifier) \\\"ISBN (identifier)\\\") [0-304-34520-2](/wiki/Special:BookSources/0-304-34520-2 \\\"Special:BookSources/0-304-34520-2\\\")\",\"[Simek, Rudolf](/wiki/Rudolf_Simek \\\"Rudolf Simek\\\") (2007) translated by Angela Hall. *Dictionary of Northern Mythology*. [D.S. Brewer](/wiki/Boydell_%26_Brewer \\\"Boydell &amp; Brewer\\\"). [ISBN](/wiki/ISBN_(identifier) \\\"ISBN (identifier)\\\") [0-85991-513-1](/wiki/Special:BookSources/0-85991-513-1 \\\"Special:BookSources/0-85991-513-1\\\")\"]},{\"type\":\"paragraph\",\"text\":\"![](https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;usesul3=1)\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"[Germanic goddesses](/wiki/Category:Germanic_goddesses \\\"Category:Germanic goddesses\\\")\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"[Articles with short description](/wiki/Category:Articles_with_short_description \\\"Category:Articles with short description\\\")\",\"[Short description matches Wikidata](/wiki/Category:Short_description_matches_Wikidata \\\"Category:Short description matches Wikidata\\\")\",\"[Articles needing IPA](/wiki/Category:Articles_needing_IPA \\\"Category:Articles needing IPA\\\")\",\"[Good articles](/wiki/Category:Good_articles \\\"Category:Good articles\\\")\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"This page was last edited on 21 June 2025, at 03:09 (UTC).\",\"Text is available under the [Creative Commons Attribution-ShareAlike 4.0 License](/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License \\\"Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License\\\"); additional terms may apply. By using this site, you agree to the [Terms of Use](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use \\\"foundation:Special:MyLanguage/Policy:Terms of Use\\\") and [Privacy Policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy \\\"foundation:Special:MyLanguage/Policy:Privacy policy\\\"). Wikipedia® is a registered trademark of the [Wikimedia Foundation, Inc.](https://wikimediafoundation.org/), a non-profit organization.\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"[Privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy)\",\"[About Wikipedia](/wiki/Wikipedia:About)\",\"[Disclaimers](/wiki/Wikipedia:General_disclaimer)\",\"[Contact Wikipedia](//en.wikipedia.org/wiki/Wikipedia:Contact_us)\",\"[Code of Conduct](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct)\",\"[Developers](https://developer.wikimedia.org)\",\"[Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)\",\"[Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement)\",\"[Mobile view](//en.m.wikipedia.org/w/index.php?title=Sinthgunt&mobileaction=toggle_view_mobile)\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"[![Wikimedia Foundation](/static/images/footer/wikimedia.svg)](https://www.wikimedia.org/)\",\"[![Powered by MediaWiki](/w/resources/assets/mediawiki_compact.svg)](https://www.mediawiki.org/)\"]},{\"type\":\"paragraph\",\"text\":\"![Wikimedia Foundation](/static/images/footer/wikimedia.svg)\"},{\"type\":\"paragraph\",\"text\":\"![Powered by MediaWiki](/w/resources/assets/mediawiki_compact.svg)\"},{\"type\":\"list\",\"ordered\":false,\"items\":[]}]}]}]}",
+    "markdown": "---\ncanonical: https://en.wikipedia.org/wiki/Sinthgunt\nmeta-ResourceLoaderDynamicStyles:\nmeta-format-detection: telephone=no\nmeta-generator: MediaWiki 1.45.0-wmf.7\nmeta-og:image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg/960px-Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg\nmeta-og:image:height: 405\nmeta-og:image:width: 640\nmeta-og:title: Sinthgunt - Wikipedia\nmeta-og:type: website\nmeta-referrer: origin-when-cross-origin\nmeta-robots: max-image-preview:standard\nmeta-viewport: width=1120\n\n## title: Sinthgunt - Wikipedia\n[Jump to content](#bodyContent)\n\n# Sinthgunt\n\n5 languages\n\n- [Deutsch](https://de.wikipedia.org/wiki/Sinthgunt \"Sinthgunt – German\")\n- [Ελληνικά](https://el.wikipedia.org/wiki/%CE%A3%CE%AF%CE%BD%CE%B8%CE%B3%CE%BA%CE%BF%CF%85%CE%BD%CF%84 \"Σίνθγκουντ – Greek\")\n- [Español](https://es.wikipedia.org/wiki/Sinthgunt \"Sinthgunt – Spanish\")\n- [Português](https://pt.wikipedia.org/wiki/Sinthgunt \"Sinthgunt – Portuguese\")\n- [Українська](https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%82%D2%91%D1%83%D0%BD%D1%82 \"Синтґунт – Ukrainian\")\n\n[Edit links](https://www.wikidata.org/wiki/Special:EntityPage/Q746454#sitelinks-wikipedia \"Edit interlanguage links\")\n\n[![This is a good article. Click here for more information.](//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/20px-Symbol_support_vote.svg.png)](/wiki/Wikipedia:Good_articles* \"This is a good article. Click here for more information.\")\n\nFrom Wikipedia, the free encyclopedia\n\nFigure in Germanic mythology\n\n[![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg/330px-Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg)](/wiki/File:Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg)\n\n*\"Wodan Heals Balder's Horse\" (1905) by [Emil Doepler](/wiki/Emil_Doepler \"Emil Doepler\")*\n\n**Sinthgunt**[*[needs IPA](/wiki/Wikipedia:Manual_of_Style/Pronunciation \"Wikipedia:Manual of Style/Pronunciation\")*] is a figure in [Germanic mythology](/wiki/Germanic_mythology \"Germanic mythology\"), attested solely in the [Old High German](/wiki/Old_High_German \"Old High German\") 9th- or 10th-century [Second Merseburg Charm](/wiki/Merseburg_Incantations \"Merseburg Incantations\"). In the verse charm, Sinthgunt is referred to as the sister of the personified\n sun, [Sunna](/wiki/S%C3%B3l_(Germanic_mythology) \"Sól (Germanic mythology)\") (whose name is [alliterative](/wiki/Alliterative_verse \"Alliterative verse\") to *Sinthgunt*),[[1]](#cite_note-ORCHARD112-1) and the two sisters are cited as both producing incantations to heal the horse\n of [Phol](/wiki/Phol \"Phol\"), another\n otherwise unattested figure but possibly the same as [Balder](/wiki/Baldr \"Baldr\"), who is named elsewhere in the\n charm. The two are then followed by [Friia](/wiki/Frigg \"Frigg\") and [Uolla](/wiki/Fulla \"Fulla\"), also alliterative and stated as\n sisters.\n\nAs Sinthgunt is otherwise unattested, her significance is otherwise unknown, but\n some scholarly theories exist about her role in Germanic mythology based on\n proposed etymologies and the potential significance of her placement within the\n poem.\n\n## Etymology\n\n[[edit](/w/index.php?title=Sinthgunt&action=edit&section=1 \"Edit section: Etymology\")]\n\nThe etymology of *Sinthgunt* is unclear. In the original manuscript, *Sinthgunt* is spelled *Sin**ht**gunt* (emphasis added). In the\n 19th century, [Sophus Bugge](/wiki/Sophus_Bugge \"Sophus Bugge\") stuck strictly to this reading, proposing a complex compound based on Germanic **Sin-naχt-gund*, i.e., \"the night-walking one\".[[2]](#cite_note-2) As a result of the pairing with Sunna, the personified sun (corresponding to Old\n Norse [Sól](/wiki/S%C3%B3l_(Germanic_mythology) \"Sól (Germanic mythology)\")), this etymology has been interpreted as a reference to the [moon](/wiki/Moon \"Moon\"). However, this reading has yielded\n problems; the moon in Germanic mythology is considered masculine, exemplified in\n the personification of the moon in [Norse mythology](/wiki/Norse_mythology \"Norse mythology\"), [Máni](/wiki/M%C3%A1ni \"Máni\"), a male figure. According to [Rudolf Simek](/wiki/Rudolf_Simek \"Rudolf Simek\"), the\n historical record lacks evidence for any cult of personified celestial bodies\n among the ancient Germanic peoples.[[3]](#cite_note-3)\n\nStefan Schaffner rejects this etymology, as does [Heiner Eichner](/w/index.php?title=Heiner_Eichner&action=edit&redlink=1 \"Heiner Eichner (page does not exist)\") [[de](https://de.wikipedia.org/wiki/Heiner_Eichner \"de:Heiner Eichner\")], because the first element *Sinht-* cannot be based on the presupposed\n earlier Germanic **sinχt-*. Such a Germanic form would have yielded Old\n High German **sīht* by regular sound change.[[4]](#cite_note-4) The amended *Sinthgunt* presupposes a Proto-Germanic compound **Senþa-gunþjō*, the first element meaning \"raid, (military) campaign\", the\n second one \"fight\". This interpretation corresponds well to other Old High\n German female names such as *Sindhilt* (from **Senþa-χilðijō*, with\n its second element also meaning \"fight\", cf. [Old Norse](/wiki/Old_Norse \"Old Norse\") *hildr*, [Old English](/wiki/Old_English \"Old English\") *hild*).[[5]](#cite_note-5) Simek also mentions the interpretation \"heavenly body, star\".[[6]](#cite_note-SIMEK285-286-6)\n\n## Placement\n\n[[edit](/w/index.php?title=Sinthgunt&action=edit&section=2 \"Edit section: Placement\")]\n\nThe figures [Fulla](/wiki/Fulla \"Fulla\") (*Uolla*) and [Frigg](/wiki/Frigg \"Frigg\") (*Friia*) are attested\n together in later Old Norse sources (though not as sisters), and theories have\n been proposed that Fulla may at one time have been an aspect of Frigg. This\n notion has resulted in a theory that a similar situation may have existed\n between the figures of Sinthgunt and Sunna/Sól, in that the two may have been\n understood as aspects of one another rather than entirely separate figures.[[7]](#cite_note-BOSTOCK29-7) Similarly, [Wolfgang Beck](/w/index.php?title=Wolfgang_Beck&action=edit&redlink=1 \"Wolfgang Beck (page does not exist)\") [[de](https://de.wikipedia.org/wiki/Wolfgang_Beck_(Germanist) \"de:Wolfgang Beck (Germanist)\")] analysed her as a subordinate goddess from Sunna's retinue, a kind of \"situation\n goddess\", based on her unique appearance in the sources.[[8]](#cite_note-8)\n\n[Friedrich Kauffmann](/wiki/Friedrich_Kauffmann \"Friedrich Kauffmann\") classified Sinhtgunt as a [valkyrie](/wiki/Valkyrie \"Valkyrie\") in the 19th century,\n because the elements *-gund* and *-hild* appear frequently in their\n names.[[9]](#cite_note-9) Stefan Schaffner and Heiner Eichner more recently agreed with him, based on\n Günter Müller's paper on the valkyries' healing powers.[[10]](#cite_note-10)\n\n[Karl Helm](/wiki/Karl_Helm \"Karl Helm\") rejected Kauffmann and grouped Sinhtgunt with the [Idisi](/wiki/Idisi \"Idisi\") of the [First Merseburg Charm](/wiki/First_Merseburg_Charm \"First Merseburg Charm\"), as a specially defined group of Germanic goddesses.[[11]](#cite_note-11)\n\n## Notes\n\n[[edit](/w/index.php?title=Sinthgunt&action=edit&section=3 \"Edit section: Notes\")]\n\n1. **[↑](#cite_ref-ORCHARD112_1-0)** Orchard (1997:112).\n2. **[↑](#cite_ref-2)** [Sophus Bugge](/wiki/Sophus_Bugge \"Sophus Bugge\"). *Studien über die Entstehung der nordischen Götter- und Heldensagen*. München 1889, p. 298. Cf. [Rudolf Simek](/wiki/Rudolf_Simek \"Rudolf Simek\"). *Lexikon der germanischen Mythologie*. Stuttgart: Kröner, 1984,\n p. 374; trans. Angela Hall, *Dictionary of Northern Mythology*. Cambridge: Brewer, 1993,\n pp. 285–86.\n3. **[↑](#cite_ref-3)** Simek, pp. 392, 397.\n4. **[↑](#cite_ref-4)** Stefan Schaffner. \"Die Götternamen des Zweiten Merseburger\n Zauberspruchs\". *Die Sprache* 41.2 (1999) p. 169.\n5. **[↑](#cite_ref-5)** Schaffner, pp. 169–70.\n6. **[↑](#cite_ref-SIMEK285-286_6-0)** Simek (2007:285-286).\n7. **[↑](#cite_ref-BOSTOCK29_7-0)** Bostock (1976:29).\n8. **[↑](#cite_ref-8)** [Wolfgang Beck](/w/index.php?title=Wolfgang_Beck&action=edit&redlink=1 \"Wolfgang Beck (page does not exist)\"). *Die Merseburger Zaubersprüche. Eine Einführung*. Pertersberg,\n 2010, pp. 163–171, here p. 171.\n9. **[↑](#cite_ref-9)** [Friedrich Kauffmann](/wiki/Friedrich_Kauffmann \"Friedrich Kauffmann\"). \"Der Zweite Merseburger Zauberspruch\". *[Beiträge zur Geschichte der deutschen Sprache und Literatur](/wiki/Beitr%C3%A4ge_zur_Geschichte_der_deutschen_Sprache_und_Literatur \"Beiträge zur Geschichte der deutschen Sprache und Literatur\")* 15 (1891), pp. 207–210; Friedrich Kauffmann. \"Noch einmal der\n zweite Merseburger Spruch\". *Zeitschrift für deutsche Philologie* 26 (1894),\n pp. 454–462.\n10. **[↑](#cite_ref-10)** Gunter Müller. \"Zur Heilkraft der Walküren. Sondersprachliches der\n Magie in kontinentalen und skandinavischen Zeugnissen\". *Frühmittelalterliche Studien* 10 (1976), pp. 358 ff.\n11. **[↑](#cite_ref-11)** [Karl Helm](/wiki/Karl_Helm \"Karl Helm\"). *Altgermanische Religionsgeschichte*, Vol. 2.2, Heidelberg: Winter,\n 1953, pp. 219, 227.\n\n## References\n\n[[edit](/w/index.php?title=Sinthgunt&action=edit&section=4 \"Edit section: References\")]\n\n- Bostock, John Knight. King, Charles Kenneth. McLintock, D. R. (1976). *A Handbook on Old High German Literature*. [Oxford University Press](/wiki/Oxford_University_Press \"Oxford University Press\"). [ISBN](/wiki/ISBN_(identifier) \"ISBN (identifier)\") [0-19-815392-9](/wiki/Special:BookSources/0-19-815392-9 \"Special:BookSources/0-19-815392-9\")\n- Orchard, Andy (1997). *Dictionary of Norse Myth and Legend*. [Cassell](/wiki/Orion_Publishing_Group \"Orion Publishing Group\"). [ISBN](/wiki/ISBN_(identifier) \"ISBN (identifier)\") [0-304-34520-2](/wiki/Special:BookSources/0-304-34520-2 \"Special:BookSources/0-304-34520-2\")\n- [Simek, Rudolf](/wiki/Rudolf_Simek \"Rudolf Simek\") (2007) translated by Angela Hall. *Dictionary of Northern Mythology*. [D.S. Brewer](/wiki/Boydell_%26_Brewer \"Boydell &amp; Brewer\"). [ISBN](/wiki/ISBN_(identifier) \"ISBN (identifier)\") [0-85991-513-1](/wiki/Special:BookSources/0-85991-513-1 \"Special:BookSources/0-85991-513-1\")\n\n![](https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;usesul3=1)\n\nRetrieved from \"<https://en.wikipedia.org/w/index.php?title=Sinthgunt&oldid=1296614947>\"\n\n[Category](/wiki/Help:Category \"Help:Category\"):\n\n- [Germanic goddesses](/wiki/Category:Germanic_goddesses \"Category:Germanic goddesses\")\n\nHidden categories:\n\n- [Articles with short description](/wiki/Category:Articles_with_short_description \"Category:Articles with short description\")\n- [Short description matches Wikidata](/wiki/Category:Short_description_matches_Wikidata \"Category:Short description matches Wikidata\")\n- [Articles needing IPA](/wiki/Category:Articles_needing_IPA \"Category:Articles needing IPA\")\n- [Good articles](/wiki/Category:Good_articles \"Category:Good articles\")\n\n- This page was last edited on 21 June 2025, at 03:09 (UTC).\n- Text is available under the [Creative Commons Attribution-ShareAlike 4.0 License](/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License \"Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License\"); additional terms may apply. By using this site, you agree to the [Terms of Use](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use \"foundation:Special:MyLanguage/Policy:Terms of Use\") and [Privacy Policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy \"foundation:Special:MyLanguage/Policy:Privacy policy\"). Wikipedia® is a registered trademark of the [Wikimedia Foundation, Inc.](https://wikimediafoundation.org/), a non-profit organization.\n\n- [Privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy)\n- [About Wikipedia](/wiki/Wikipedia:About)\n- [Disclaimers](/wiki/Wikipedia:General_disclaimer)\n- [Contact Wikipedia](//en.wikipedia.org/wiki/Wikipedia:Contact_us)\n- [Code of Conduct](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct)\n- [Developers](https://developer.wikimedia.org)\n- [Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)\n- [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement)\n- [Mobile view](//en.m.wikipedia.org/w/index.php?title=Sinthgunt&mobileaction=toggle_view_mobile)\n\n- [![Wikimedia Foundation](/static/images/footer/wikimedia.svg)](https://www.wikimedia.org/)\n- [![Powered by MediaWiki](/w/resources/assets/mediawiki_compact.svg)](https://www.mediawiki.org/)\n\nSearch\n\nSinthgunt\n\n[#](#) [#](#) [#](#) [#](#) [#](#) [#](#) [#](#)\n\n5 languages\n\n[Add topic](#)\n",
+    "plain": "  Sinthgunt\n[Deutsch](https://de.wikipedia.org/wiki/Sinthgunt \"Sinthgunt – German\")\n[Ελληνικά](https://el.wikipedia.org/wiki/%CE%A3%CE%AF%CE%BD%CE%B8%CE%B3%CE%BA%CE%BF%CF%85%CE%BD%CF%84 \"Σίνθγκουντ – Greek\")\n[Español](https://es.wikipedia.org/wiki/Sinthgunt \"Sinthgunt – Spanish\")\n[Português](https://pt.wikipedia.org/wiki/Sinthgunt \"Sinthgunt – Portuguese\")\n[Українська](https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%82%D2%91%D1%83%D0%BD%D1%82 \"Синтґунт – Ukrainian\")\n  ![This is a good article. Click here for more information.](//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/20px-Symbol_support_vote.svg.png)\n\n  ![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg/330px-Wodan_heilt_Balders_Pferd_by_Emil_Doepler.jpg)\n\n  **Sinthgunt**[*[needs IPA](/wiki/Wikipedia:Manual_of_Style/Pronunciation \"Wikipedia:Manual of Style/Pronunciation\")*] is a figure in [Germanic mythology](/wiki/Germanic_mythology \"Germanic mythology\"), attested solely in the [Old High German](/wiki/Old_High_German \"Old High German\") 9th- or 10th-century [Second Merseburg Charm](/wiki/Merseburg_Incantations \"Merseburg Incantations\"). In the verse charm, Sinthgunt is referred to as the sister of the personified\n sun, [Sunna](/wiki/S%C3%B3l_(Germanic_mythology) \"Sól (Germanic mythology)\") (whose name is [alliterative](/wiki/Alliterative_verse \"Alliterative verse\") to *Sinthgunt*),[[1]](#cite_note-ORCHARD112-1) and the two sisters are cited as both producing incantations to heal the horse\n of [Phol](/wiki/Phol \"Phol\"), another\n otherwise unattested figure but possibly the same as [Balder](/wiki/Baldr \"Baldr\"), who is named elsewhere in the\n charm. The two are then followed by [Friia](/wiki/Frigg \"Frigg\") and [Uolla](/wiki/Fulla \"Fulla\"), also alliterative and stated as\n sisters.\n\n  As Sinthgunt is otherwise unattested, her significance is otherwise unknown, but\n some scholarly theories exist about her role in Germanic mythology based on\n proposed etymologies and the potential significance of her placement within the\n poem.\n\n    Etymology\n    The etymology of *Sinthgunt* is unclear. In the original manuscript, *Sinthgunt* is spelled *Sin**ht**gunt* (emphasis added). In the\n 19th century, [Sophus Bugge](/wiki/Sophus_Bugge \"Sophus Bugge\") stuck strictly to this reading, proposing a complex compound based on Germanic **Sin-naχt-gund*, i.e., \"the night-walking one\".[[2]](#cite_note-2) As a result of the pairing with Sunna, the personified sun (corresponding to Old\n Norse [Sól](/wiki/S%C3%B3l_(Germanic_mythology) \"Sól (Germanic mythology)\")), this etymology has been interpreted as a reference to the [moon](/wiki/Moon \"Moon\"). However, this reading has yielded\n problems; the moon in Germanic mythology is considered masculine, exemplified in\n the personification of the moon in [Norse mythology](/wiki/Norse_mythology \"Norse mythology\"), [Máni](/wiki/M%C3%A1ni \"Máni\"), a male figure. According to [Rudolf Simek](/wiki/Rudolf_Simek \"Rudolf Simek\"), the\n historical record lacks evidence for any cult of personified celestial bodies\n among the ancient Germanic peoples.[[3]](#cite_note-3)\n\n    Stefan Schaffner rejects this etymology, as does [Heiner Eichner](/w/index.php?title=Heiner_Eichner&action=edit&redlink=1 \"Heiner Eichner (page does not exist)\") [[de](https://de.wikipedia.org/wiki/Heiner_Eichner \"de:Heiner Eichner\")], because the first element *Sinht-* cannot be based on the presupposed\n earlier Germanic **sinχt-*. Such a Germanic form would have yielded Old\n High German **sīht* by regular sound change.[[4]](#cite_note-4) The amended *Sinthgunt* presupposes a Proto-Germanic compound **Senþa-gunþjō*, the first element meaning \"raid, (military) campaign\", the\n second one \"fight\". This interpretation corresponds well to other Old High\n German female names such as *Sindhilt* (from **Senþa-χilðijō*, with\n its second element also meaning \"fight\", cf. [Old Norse](/wiki/Old_Norse \"Old Norse\") *hildr*, [Old English](/wiki/Old_English \"Old English\") *hild*).[[5]](#cite_note-5) Simek also mentions the interpretation \"heavenly body, star\".[[6]](#cite_note-SIMEK285-286-6)\n\n    Placement\n    The figures [Fulla](/wiki/Fulla \"Fulla\") (*Uolla*) and [Frigg](/wiki/Frigg \"Frigg\") (*Friia*) are attested\n together in later Old Norse sources (though not as sisters), and theories have\n been proposed that Fulla may at one time have been an aspect of Frigg. This\n notion has resulted in a theory that a similar situation may have existed\n between the figures of Sinthgunt and Sunna/Sól, in that the two may have been\n understood as aspects of one another rather than entirely separate figures.[[7]](#cite_note-BOSTOCK29-7) Similarly, [Wolfgang Beck](/w/index.php?title=Wolfgang_Beck&action=edit&redlink=1 \"Wolfgang Beck (page does not exist)\") [[de](https://de.wikipedia.org/wiki/Wolfgang_Beck_(Germanist) \"de:Wolfgang Beck (Germanist)\")] analysed her as a subordinate goddess from Sunna's retinue, a kind of \"situation\n goddess\", based on her unique appearance in the sources.[[8]](#cite_note-8)\n\n    [Friedrich Kauffmann](/wiki/Friedrich_Kauffmann \"Friedrich Kauffmann\") classified Sinhtgunt as a [valkyrie](/wiki/Valkyrie \"Valkyrie\") in the 19th century,\n because the elements *-gund* and *-hild* appear frequently in their\n names.[[9]](#cite_note-9) Stefan Schaffner and Heiner Eichner more recently agreed with him, based on\n Günter Müller's paper on the valkyries' healing powers.[[10]](#cite_note-10)\n\n    [Karl Helm](/wiki/Karl_Helm \"Karl Helm\") rejected Kauffmann and grouped Sinhtgunt with the [Idisi](/wiki/Idisi \"Idisi\") of the [First Merseburg Charm](/wiki/First_Merseburg_Charm \"First Merseburg Charm\"), as a specially defined group of Germanic goddesses.[[11]](#cite_note-11)\n\n    Notes\n**[↑](#cite_ref-ORCHARD112_1-0)** Orchard (1997:112).\n**[↑](#cite_ref-2)** [Sophus Bugge](/wiki/Sophus_Bugge \"Sophus Bugge\"). *Studien über die Entstehung der nordischen Götter- und Heldensagen*. München 1889, p. 298. Cf. [Rudolf Simek](/wiki/Rudolf_Simek \"Rudolf Simek\"). *Lexikon der germanischen Mythologie*. Stuttgart: Kröner, 1984,\n p. 374; trans. Angela Hall, *Dictionary of Northern Mythology*. Cambridge: Brewer, 1993,\n pp. 285–86.\n**[↑](#cite_ref-3)** Simek, pp. 392, 397.\n**[↑](#cite_ref-4)** Stefan Schaffner. \"Die Götternamen des Zweiten Merseburger\n Zauberspruchs\". *Die Sprache* 41.2 (1999) p. 169.\n**[↑](#cite_ref-5)** Schaffner, pp. 169–70.\n**[↑](#cite_ref-SIMEK285-286_6-0)** Simek (2007:285-286).\n**[↑](#cite_ref-BOSTOCK29_7-0)** Bostock (1976:29).\n**[↑](#cite_ref-8)** [Wolfgang Beck](/w/index.php?title=Wolfgang_Beck&action=edit&redlink=1 \"Wolfgang Beck (page does not exist)\"). *Die Merseburger Zaubersprüche. Eine Einführung*. Pertersberg,\n 2010, pp. 163–171, here p. 171.\n**[↑](#cite_ref-9)** [Friedrich Kauffmann](/wiki/Friedrich_Kauffmann \"Friedrich Kauffmann\"). \"Der Zweite Merseburger Zauberspruch\". *[Beiträge zur Geschichte der deutschen Sprache und Literatur](/wiki/Beitr%C3%A4ge_zur_Geschichte_der_deutschen_Sprache_und_Literatur \"Beiträge zur Geschichte der deutschen Sprache und Literatur\")* 15 (1891), pp. 207–210; Friedrich Kauffmann. \"Noch einmal der\n zweite Merseburger Spruch\". *Zeitschrift für deutsche Philologie* 26 (1894),\n pp. 454–462.\n**[↑](#cite_ref-10)** Gunter Müller. \"Zur Heilkraft der Walküren. Sondersprachliches der\n Magie in kontinentalen und skandinavischen Zeugnissen\". *Frühmittelalterliche Studien* 10 (1976), pp. 358 ff.\n**[↑](#cite_ref-11)** [Karl Helm](/wiki/Karl_Helm \"Karl Helm\"). *Altgermanische Religionsgeschichte*, Vol. 2.2, Heidelberg: Winter,\n 1953, pp. 219, 227.\n    References\nBostock, John Knight. King, Charles Kenneth. McLintock, D. R. (1976). *A Handbook on Old High German Literature*. [Oxford University Press](/wiki/Oxford_University_Press \"Oxford University Press\"). [ISBN](/wiki/ISBN_(identifier) \"ISBN (identifier)\") [0-19-815392-9](/wiki/Special:BookSources/0-19-815392-9 \"Special:BookSources/0-19-815392-9\")\nOrchard, Andy (1997). *Dictionary of Norse Myth and Legend*. [Cassell](/wiki/Orion_Publishing_Group \"Orion Publishing Group\"). [ISBN](/wiki/ISBN_(identifier) \"ISBN (identifier)\") [0-304-34520-2](/wiki/Special:BookSources/0-304-34520-2 \"Special:BookSources/0-304-34520-2\")\n[Simek, Rudolf](/wiki/Rudolf_Simek \"Rudolf Simek\") (2007) translated by Angela Hall. *Dictionary of Northern Mythology*. [D.S. Brewer](/wiki/Boydell_%26_Brewer \"Boydell &amp; Brewer\"). [ISBN](/wiki/ISBN_(identifier) \"ISBN (identifier)\") [0-85991-513-1](/wiki/Special:BookSources/0-85991-513-1 \"Special:BookSources/0-85991-513-1\")\n    ![](https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;usesul3=1)\n\n[Germanic goddesses](/wiki/Category:Germanic_goddesses \"Category:Germanic goddesses\")\n[Articles with short description](/wiki/Category:Articles_with_short_description \"Category:Articles with short description\")\n[Short description matches Wikidata](/wiki/Category:Short_description_matches_Wikidata \"Category:Short description matches Wikidata\")\n[Articles needing IPA](/wiki/Category:Articles_needing_IPA \"Category:Articles needing IPA\")\n[Good articles](/wiki/Category:Good_articles \"Category:Good articles\")\nThis page was last edited on 21 June 2025, at 03:09 (UTC).\nText is available under the [Creative Commons Attribution-ShareAlike 4.0 License](/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License \"Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License\"); additional terms may apply. By using this site, you agree to the [Terms of Use](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use \"foundation:Special:MyLanguage/Policy:Terms of Use\") and [Privacy Policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy \"foundation:Special:MyLanguage/Policy:Privacy policy\"). Wikipedia® is a registered trademark of the [Wikimedia Foundation, Inc.](https://wikimediafoundation.org/), a non-profit organization.\n[Privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy)\n[About Wikipedia](/wiki/Wikipedia:About)\n[Disclaimers](/wiki/Wikipedia:General_disclaimer)\n[Contact Wikipedia](//en.wikipedia.org/wiki/Wikipedia:Contact_us)\n[Code of Conduct](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct)\n[Developers](https://developer.wikimedia.org)\n[Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)\n[Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement)\n[Mobile view](//en.m.wikipedia.org/w/index.php?title=Sinthgunt&mobileaction=toggle_view_mobile)\n[![Wikimedia Foundation](/static/images/footer/wikimedia.svg)](https://www.wikimedia.org/)\n[![Powered by MediaWiki](/w/resources/assets/mediawiki_compact.svg)](https://www.mediawiki.org/)\n    ![Wikimedia Foundation](/static/images/footer/wikimedia.svg)\n\n    ![Powered by MediaWiki](/w/resources/assets/mediawiki_compact.svg)"
+  }
+}

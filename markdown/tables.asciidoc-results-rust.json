@@ -1,0 +1,12 @@
+{
+  "file": "markdown/tables.asciidoc",
+  "mime_type": "application/octet-stream",
+  "success": false,
+  "error": "Unsupported format: Unknown extension: .asciidoc",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

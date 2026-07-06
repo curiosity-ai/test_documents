@@ -1,0 +1,51 @@
+{
+  "file": "pptx/simple.pptx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  "success": true,
+  "metadata": {
+    "title": "Title Slide",
+    "authors": [
+      "Steve Canny"
+    ],
+    "created_at": "2024-07-22T23:29:33Z",
+    "modified_at": "2024-07-22T23:31:59Z",
+    "created_by": "Steve Canny",
+    "modified_by": "Steve Canny",
+    "format": {
+      "format_type": "pptx",
+      "slide_count": 2,
+      "slide_names": [
+        "Arial",
+        "Calibri",
+        "Calibri Light",
+        "Office Theme",
+        "Title Slide",
+        "Things to think about"
+      ],
+      "image_count": 0,
+      "table_count": 0
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "slide_titles": "Arial, Calibri, Calibri Light, Office Theme, Title Slide, Things to think about",
+      "hidden_slides": 0,
+      "notes_count": 0,
+      "revision": "1",
+      "application": "Microsoft Macintosh PowerPoint",
+      "presentation_format": "Widescreen",
+      "source_uri": "pptx/simple.pptx",
+      "source_index": 0,
+      "source_kind": "uri",
+      "application_version": "16.0016",
+      "final_uri": "pptx/simple.pptx"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Title Slide</h2>\n<p>With a subtitle</p>\n<h2>Things to think about</h2>\n<p>How much is enough?</p>\n<p>If not now when?</p>\n<p>Where have all the flowers gone?</p>\n<p>Who do you think you are?</p>\n<p>What were you thinking?</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Title Slide\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"With a subtitle\"}]},{\"type\":\"section\",\"heading\":\"Things to think about\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"How much is enough?\"},{\"type\":\"paragraph\",\"text\":\"If not now when?\"},{\"type\":\"paragraph\",\"text\":\"Where have all the flowers gone?\"},{\"type\":\"paragraph\",\"text\":\"Who do you think you are?\"},{\"type\":\"paragraph\",\"text\":\"What were you thinking?\"}]}]}",
+    "markdown": "## Title Slide\n\nWith a subtitle\n\n## Things to think about\n\nHow much is enough?\n\nIf not now when?\n\nWhere have all the flowers gone?\n\nWho do you think you are?\n\nWhat were you thinking?\n",
+    "plain": "Title Slide\n\nWith a subtitle\n\nThings to think about\n\nHow much is enough?\n\nIf not now when?\n\nWhere have all the flowers gone?\n\nWho do you think you are?\n\nWhat were you thinking?"
+  }
+}

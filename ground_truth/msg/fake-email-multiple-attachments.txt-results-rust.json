@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/msg/fake-email-multiple-attachments.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 10,
+      "word_count": 24,
+      "character_count": 251
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/msg/fake-email-multiple-attachments.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/msg/fake-email-multiple-attachments.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: multiple attachments From: &quot;Mallori Harrell&quot; &lt;mallori@unstructured.io&gt; To: &quot;Mallori Harrell&quot; &lt;mallori@unstructured.io&gt; Date: 2023-04-20T16:28:48.334+00:00 Here are those documents.</p>\n<p>-- Mallori Harrell Unstructured Technologies Data Scientist</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: multiple attachments\\nFrom: \\\"Mallori Harrell\\\" <mallori@unstructured.io>\\nTo: \\\"Mallori Harrell\\\" <mallori@unstructured.io>\\nDate: 2023-04-20T16:28:48.334+00:00\\nHere are those documents.\"},{\"type\":\"paragraph\",\"text\":\"-- \\nMallori Harrell\\nUnstructured Technologies\\nData Scientist\"}]}",
+    "markdown": "Subject: multiple attachments From: \"Mallori Harrell\" \\<mallori@unstructured.io\\> To: \"Mallori Harrell\" \\<mallori@unstructured.io\\> Date: 2023-04-20T16:28:48.334+00:00 Here are those documents.\n\n\\-- Mallori Harrell Unstructured Technologies Data Scientist\n",
+    "plain": "Subject: multiple attachments\nFrom: \"Mallori Harrell\" <mallori@unstructured.io>\nTo: \"Mallori Harrell\" <mallori@unstructured.io>\nDate: 2023-04-20T16:28:48.334+00:00\nHere are those documents.\n\n-- \nMallori Harrell\nUnstructured Technologies\nData Scientist"
+  }
+}

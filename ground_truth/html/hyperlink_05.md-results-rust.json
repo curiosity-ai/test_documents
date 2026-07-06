@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/html/hyperlink_05.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/html/hyperlink_05.md",
+      "source_index": 0,
+      "final_uri": "ground_truth/html/hyperlink_05.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>![Clickable Example](https://via.placeholder.com/200x100.png?text=Clickable+Image)</p>\n<p>![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)</p>\n<p>![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"![Clickable Example](https://via.placeholder.com/200x100.png?text=Clickable+Image)\"},{\"type\":\"paragraph\",\"text\":\"![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)\"},{\"type\":\"paragraph\",\"text\":\"![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)\"}]}",
+    "markdown": "\\![Clickable Example](https://via.placeholder.com/200x100.png?text=Clickable+Image)\n\n\\![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)\n\n\\![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)\n",
+    "plain": "![Clickable Example](https://via.placeholder.com/200x100.png?text=Clickable+Image)\n\n![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)\n\n![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)"
+  }
+}

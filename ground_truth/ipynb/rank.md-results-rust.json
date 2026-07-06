@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/ipynb/rank.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/ipynb/rank.md",
+      "final_uri": "ground_truth/ipynb/rank.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<pre><code>import matplotlib.pyplot as plt\n\nfig, ax = plt.subplots(figsize=(1, 1), dpi=4)\nax.imshow([[0, 1], [2, 3]]);</code></pre>\n<p>&lt;Figure size 4x4 with 1 Axes&gt;</p>\n",
+    "json": "{\"body\":[{\"type\":\"code\",\"text\":\"import matplotlib.pyplot as plt\\n\\nfig, ax = plt.subplots(figsize=(1, 1), dpi=4)\\nax.imshow([[0, 1], [2, 3]]);\"},{\"type\":\"paragraph\",\"text\":\"<Figure size 4x4 with 1 Axes>\"}]}",
+    "markdown": "```\nimport matplotlib.pyplot as plt\n\nfig, ax = plt.subplots(figsize=(1, 1), dpi=4)\nax.imshow([[0, 1], [2, 3]]);\n```\n\n\\<Figure size 4x4 with 1 Axes\\>\n",
+    "plain": "import matplotlib.pyplot as plt\n\nfig, ax = plt.subplots(figsize=(1, 1), dpi=4)\nax.imshow([[0, 1], [2, 3]]);\n\n<Figure size 4x4 with 1 Axes>"
+  }
+}

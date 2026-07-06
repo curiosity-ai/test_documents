@@ -1,0 +1,36 @@
+{
+  "file": "pdf/nougat_016.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "Kirkland Lakeview Neighborhood",
+    "created_at": "2020-01-06T12:00:41Z",
+    "modified_at": "2020-01-07T11:25:04Z",
+    "created_by": "Esri ArcMap 10.6.1.9270",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.6",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "pdf/nougat_016.pdf",
+      "source_kind": "uri",
+      "extraction_method": "native",
+      "final_uri": "pdf/nougat_016.pdf",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>L a ke v i e w N e i g h bo rh oo d</h1>\n<h3>0 750</h3>\n<p>Produced by the City of Kirkland. © 2020, the City of Kirkland, all rights reserved. No warranties of any sort, including but not limited to accuracy, fitness or merchantability, accompany this product. Path: M:\\IT\\Mxds\\Planning\\NbrhoodAsscttiaps\\lakeview.mxd</p>\n<h2>Lake Washington</h2>\n<h3>1,500 Feet</h3>\n<h1>Moss Bay</h1>\n<h2>Marsh Park T errace Park</h2>\n<h2>Yarrow Bay Wetlands</h2>\n<h2>UW Foster School</h2>\n<h1>Everest Central Houghton</h1>\n<h2>Carillon Woods</h2>\n<h2>Phyllis A. Needy</h2>\n<h2>- Houghton Neighborhood Par k Watershed Park</h2>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Lakeview\"},{\"type\":\"paragraph\",\"text\":\"Neighborhood\"},{\"type\":\"paragraph\",\"text\":\"0 750\"},{\"type\":\"paragraph\",\"text\":\"Produced by the City of Kirkland.\\n© 2020, the City of Kirkland, all rights reserved. \\nNo warranties of any sort, including but not limited to \\naccuracy, fitness or merchantability, accompany this product.\\nPath: M:\\\\IT\\\\Mxds\\\\Planning\\\\NbrhoodAsscMaps\\\\lakeview.mxd\"},{\"type\":\"paragraph\",\"text\":\"Lake Washington\"},{\"type\":\"paragraph\",\"text\":\"1,500\\nFeet\"},{\"type\":\"paragraph\",\"text\":\"Moss BayMoss Bay\"},{\"type\":\"paragraph\",\"text\":\"Marsh\\nPark\"},{\"type\":\"paragraph\",\"text\":\"Terrace\\nPark\"},{\"type\":\"paragraph\",\"text\":\"Yarrow Bay\\nWetlands\"},{\"type\":\"paragraph\",\"text\":\"UW Foster\\nSchool\"},{\"type\":\"paragraph\",\"text\":\"EverestEverest\"},{\"type\":\"paragraph\",\"text\":\"CentralCentral\"},{\"type\":\"paragraph\",\"text\":\"Houghton\"},{\"type\":\"paragraph\",\"text\":\"Carillon\\nWoods\"},{\"type\":\"paragraph\",\"text\":\"Phyllis A. Needy\\n- Houghton\\nNeighborhood Park\"},{\"type\":\"paragraph\",\"text\":\"Watershed\\nPark\"}]}",
+    "markdown": "# L a ke v i e w N e i g h bo rh oo d\n\n### 0 750\n\nProduced by the City of Kirkland. © 2020, the City of Kirkland, all rights reserved. No warranties of any sort, including but not limited to accuracy, fitness or merchantability, accompany this product. Path: M:\\\\IT\\\\Mxds\\\\Planning\\\\NbrhoodAsscttiaps\\\\lakeview.mxd\n\n## Lake Washington\n\n### 1,500 Feet\n\n# Moss Bay\n\n## Marsh Park T errace Park\n\n## Yarrow Bay Wetlands\n\n## UW Foster School\n\n# Everest Central Houghton\n\n## Carillon Woods\n\n## Phyllis A. Needy\n\n## \\- Houghton Neighborhood Par k Watershed Park\n",
+    "plain": "Lakeview\n\nNeighborhood\n\n0 750\n\nProduced by the City of Kirkland.\n© 2020, the City of Kirkland, all rights reserved. \nNo warranties of any sort, including but not limited to \naccuracy, fitness or merchantability, accompany this product.\nPath: M:\\IT\\Mxds\\Planning\\NbrhoodAsscMaps\\lakeview.mxd\n\nLake Washington\n\n1,500\nFeet\n\nMoss BayMoss Bay\n\nMarsh\nPark\n\nTerrace\nPark\n\nYarrow Bay\nWetlands\n\nUW Foster\nSchool\n\nEverestEverest\n\nCentralCentral\n\nHoughton\n\nCarillon\nWoods\n\nPhyllis A. Needy\n- Houghton\nNeighborhood Park\n\nWatershed\nPark"
+  }
+}

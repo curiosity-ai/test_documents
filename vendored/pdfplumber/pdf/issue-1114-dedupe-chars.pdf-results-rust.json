@@ -1,0 +1,35 @@
+{
+  "file": "vendored/pdfplumber/pdf/issue-1114-dedupe-chars.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2024-06-26T17:49:28Z",
+    "created_by": "Draw",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.5",
+      "producer": "LibreOffice 6.4",
+      "is_encrypted": false,
+      "width": 842,
+      "height": 595,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "extraction_method": "native",
+      "final_uri": "vendored/pdfplumber/pdf/issue-1114-dedupe-chars.pdf",
+      "source_uri": "vendored/pdfplumber/pdf/issue-1114-dedupe-chars.pdf",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Simple Duplicated Font</p>\n<h1>Size</h1>\n<p><em>Italic</em> Weight Horizontal shift Vertical shift</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Simple\"},{\"type\":\"paragraph\",\"text\":\"Duplicated\"},{\"type\":\"paragraph\",\"text\":\"Font\"},{\"type\":\"paragraph\",\"text\":\"Size\"},{\"type\":\"paragraph\",\"text\":\"Italic\"},{\"type\":\"paragraph\",\"text\":\"Weight\"},{\"type\":\"paragraph\",\"text\":\"Horizontal shift\"},{\"type\":\"paragraph\",\"text\":\"Vertical shiftVertical shift\"}]}",
+    "markdown": "Simple Duplicated Font\n\n# Size\n\n*Italic* Weight Horizontal shift Vertical shift\n",
+    "plain": "Simple\n\nDuplicated\n\nFont\n\nSize\n\nItalic\n\nWeight\n\nHorizontal shift\n\nVertical shiftVertical shift"
+  }
+}

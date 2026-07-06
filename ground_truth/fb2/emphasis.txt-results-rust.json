@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/fb2/emphasis.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 7,
+      "word_count": 14,
+      "character_count": 132
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/fb2/emphasis.txt",
+      "source_uri": "ground_truth/fb2/emphasis.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Plain, strong, emphasis, strong emphasis, emphasized strong.</p>\n<p>Strikethrough: ~~deleted~~</p>\n<p>_(Subscript) and ^(superscript)</p>\n<p>Some code</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Plain, strong, emphasis, strong emphasis, emphasized strong.\"},{\"type\":\"paragraph\",\"text\":\"Strikethrough: ~~deleted~~\"},{\"type\":\"paragraph\",\"text\":\"_(Subscript) and ^(superscript)\"},{\"type\":\"paragraph\",\"text\":\"Some code\"}]}",
+    "markdown": "Plain, strong, emphasis, strong emphasis, emphasized strong.\n\nStrikethrough: \\~\\~deleted\\~\\~\n\n_(Subscript) and ^(superscript)\n\nSome code\n",
+    "plain": "Plain, strong, emphasis, strong emphasis, emphasized strong.\n\nStrikethrough: ~~deleted~~\n\n_(Subscript) and ^(superscript)\n\nSome code"
+  }
+}

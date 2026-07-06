@@ -1,0 +1,52 @@
+{
+  "file": "data_formats/sample.ris",
+  "mime_type": "application/x-research-info-systems",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Jane Doe",
+      "John Smith"
+    ],
+    "keywords": [
+      "document extraction",
+      "natural language processing",
+      "text mining"
+    ],
+    "format": {
+      "format_type": "citation",
+      "citation_count": 1,
+      "format": "RIS",
+      "authors": [
+        "Jane Doe",
+        "John Smith"
+      ],
+      "year_range": {
+        "min": 2024,
+        "max": 2024,
+        "years": [
+          2024
+        ]
+      },
+      "keywords": [
+        "document extraction",
+        "natural language processing",
+        "text mining"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "data_formats/sample.ris",
+      "final_uri": "data_formats/sample.ris",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<section class=\"footnotes\" data-footnotes>\n<ol>\n<li id=\"fn-A%20comprehensive%20study%20of%20document%20extraction%20techniques\">\n<p>A comprehensive study of document extraction techniques <a href=\"#fnref-A%20comprehensive%20study%20of%20document%20extraction%20techniques\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"1\" aria-label=\"Back to reference 1\">↩</a></p>\n</li>\n</ol>\n</section>\n",
+    "json": "{\"body\":[]}",
+    "markdown": "[^A comprehensive study of document extraction techniques]:\n    A comprehensive study of document extraction techniques\n",
+    "plain": "A comprehensive study of document extraction techniques"
+  }
+}

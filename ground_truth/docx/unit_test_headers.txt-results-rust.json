@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/docx/unit_test_headers.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 43,
+      "word_count": 44,
+      "character_count": 342
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/docx/unit_test_headers.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/docx/unit_test_headers.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Test Document</p>\n<p>Section 1</p>\n<p>Paragraph 1.1</p>\n<p>Paragraph 1.2</p>\n<p>Section 1.1</p>\n<p>Paragraph 1.1.1</p>\n<p>Paragraph 1.1.2</p>\n<p>Section 1.2</p>\n<p>Paragraph 1.1.1</p>\n<p>Paragraph 1.1.2</p>\n<p>Section 1.2.3</p>\n<p>Paragraph 1.2.3.1</p>\n<p>Paragraph 1.2.3.1</p>\n<p>Section 2</p>\n<p>Paragraph 2.1</p>\n<p>Paragraph 2.2</p>\n<p>Section 2.1.1</p>\n<p>Paragraph 2.1.1.1</p>\n<p>Paragraph 2.1.1.1</p>\n<p>Section 2.1</p>\n<p>Paragraph 2.1.1</p>\n<p>Paragraph 2.1.2</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test Document\"},{\"type\":\"paragraph\",\"text\":\"Section 1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.2\"},{\"type\":\"paragraph\",\"text\":\"Section 1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1.2\"},{\"type\":\"paragraph\",\"text\":\"Section 1.2\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1.2\"},{\"type\":\"paragraph\",\"text\":\"Section 1.2.3\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.2.3.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.2.3.1\"},{\"type\":\"paragraph\",\"text\":\"Section 2\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.2\"},{\"type\":\"paragraph\",\"text\":\"Section 2.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1.1.1\"},{\"type\":\"paragraph\",\"text\":\"Section 2.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1.2\"}]}",
+    "markdown": "Test Document\n\nSection 1\n\nParagraph 1.1\n\nParagraph 1.2\n\nSection 1.1\n\nParagraph 1.1.1\n\nParagraph 1.1.2\n\nSection 1.2\n\nParagraph 1.1.1\n\nParagraph 1.1.2\n\nSection 1.2.3\n\nParagraph 1.2.3.1\n\nParagraph 1.2.3.1\n\nSection 2\n\nParagraph 2.1\n\nParagraph 2.2\n\nSection 2.1.1\n\nParagraph 2.1.1.1\n\nParagraph 2.1.1.1\n\nSection 2.1\n\nParagraph 2.1.1\n\nParagraph 2.1.2\n",
+    "plain": "Test Document\n\nSection 1\n\nParagraph 1.1\n\nParagraph 1.2\n\nSection 1.1\n\nParagraph 1.1.1\n\nParagraph 1.1.2\n\nSection 1.2\n\nParagraph 1.1.1\n\nParagraph 1.1.2\n\nSection 1.2.3\n\nParagraph 1.2.3.1\n\nParagraph 1.2.3.1\n\nSection 2\n\nParagraph 2.1\n\nParagraph 2.2\n\nSection 2.1.1\n\nParagraph 2.1.1.1\n\nParagraph 2.1.1.1\n\nSection 2.1\n\nParagraph 2.1.1\n\nParagraph 2.1.2"
+  }
+}

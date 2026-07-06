@@ -1,0 +1,66 @@
+{
+  "file": "ground_truth/rst/restructured_text.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "reStructuredText Document",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/rst/restructured_text.md",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/rst/restructured_text.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Col1",
+          "Col2",
+          "Col3"
+        ],
+        [
+          "A",
+          "B",
+          "C"
+        ],
+        [
+          "D",
+          "E",
+          "F"
+        ]
+      ],
+      "markdown": "| Col1 | Col2 | Col3 |\n| --- | --- | --- |\n| A | B | C |\n| D | E | F |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Head1",
+          "Head2",
+          "Head3"
+        ],
+        [
+          "Cell1",
+          "Cell2",
+          "Cell3"
+        ],
+        [
+          "Cell4",
+          "Cell5",
+          "Cell6"
+        ]
+      ],
+      "markdown": "| Head1 | Head2 | Head3 |\n| --- | --- | --- |\n| Cell1 | Cell2 | Cell3 |\n| Cell4 | Cell5 | Cell6 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>reStructuredText Document</h1>\n<p><strong>Author</strong>: Emily Chen</p>\n<p><strong>Date</strong>: 2025-09-27</p>\n<p><strong>Version</strong>: 1.0</p>\n<p><strong>Organization</strong>: Testing Department</p>\n<p><strong>Abstract</strong>: This reStructuredText document tests pandoc extraction capabilities with RST-specific features and metadata.</p>\n<p>Table of Contents</p>\n<h2>Introduction</h2>\n<p>reStructuredText is a plaintext markup syntax used primarily in Python documentation. This document tests various RST features.</p>\n<h2>Text Formatting</h2>\n<h3>Basic Formatting</h3>\n<p>This paragraph contains <em>emphasized text</em>, <strong>strong text</strong>, and <code>inline code</code>.</p>\n<p>You can also use:</p>\n<ul>\n<li>Bullet lists</li>\n<li>With multiple items</li>\n</ul>\n<ul>\n<li>And nested items</li>\n<li>Like this</li>\n</ul>\n<ol>\n<li>Numbered lists</li>\n<li>Also work well</li>\n<li>Auto-numbering is supported</li>\n</ol>\n<h2>Code Blocks</h2>\n<h3>Python Example</h3>\n<pre lang=\"python\"><code> def process_document(doc):\n     &quot;&quot;&quot;Process an RST document.&quot;&quot;&quot;\n     metadata = extract_metadata(doc)\n     content = parse_content(doc)\n     return {&quot;metadata&quot;: metadata, &quot;content&quot;: content}</code></pre>\n<h3>Shell Example</h3>\n<pre lang=\"bash\"><code> $ pandoc input.rst -o output.md\n $ echo &quot;Conversion complete&quot;</code></pre>\n<h2>Directives and Roles</h2>\n<blockquote>\n<p>[!NOTE] This is a note directive.</p>\n</blockquote>\n<blockquote>\n<p>[!WARNING] This is a warning directive.</p>\n</blockquote>\n<blockquote>\n<p>[!TIP] RST supports various admonitions.</p>\n</blockquote>\n<h2>Tables</h2>\n<h3>Simple Table</h3>\n<table>\n<thead>\n<tr>\n<th>Col1</th>\n<th>Col2</th>\n<th>Col3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A</td>\n<td>B</td>\n<td>C</td>\n</tr>\n<tr>\n<td>D</td>\n<td>E</td>\n<td>F</td>\n</tr>\n</tbody>\n</table>\n<h3>Grid Table</h3>\n<table>\n<thead>\n<tr>\n<th>Head1</th>\n<th>Head2</th>\n<th>Head3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Cell1</td>\n<td>Cell2</td>\n<td>Cell3</td>\n</tr>\n<tr>\n<td>Cell4</td>\n<td>Cell5</td>\n<td>Cell6</td>\n</tr>\n</tbody>\n</table>\n<h2>Citations and References</h2>\n<p>According to [Smith2024], RST is widely used in technical documentation.</p>\n<h2>Links and References</h2>\n<p>External link: <a href=\"https://docs.python.org\">Python Documentation</a></p>\n<p>Internal reference: See <a href=\"#introduction\">Introduction</a> section.</p>\n<h2>Conclusion</h2>\n<p>This document demonstrates RST features for comprehensive pandoc testing.</p>\n<p>Smith2024 Smith, J. (2024). <em>Technical Documentation with RST</em>. Doc Press.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"reStructuredText Document\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Author: Emily Chen\"},{\"type\":\"paragraph\",\"text\":\"Date: 2025-09-27\"},{\"type\":\"paragraph\",\"text\":\"Version: 1.0\"},{\"type\":\"paragraph\",\"text\":\"Organization: Testing Department\"},{\"type\":\"paragraph\",\"text\":\"Abstract: This reStructuredText document tests pandoc extraction capabilities with RST-specific features and metadata.\"},{\"type\":\"paragraph\",\"text\":\"Table of Contents\"},{\"type\":\"section\",\"heading\":\"Introduction\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"reStructuredText is a plaintext markup syntax used primarily in Python documentation. This document tests various RST features.\"}]},{\"type\":\"section\",\"heading\":\"Text Formatting\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"Basic Formatting\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"This paragraph contains emphasized text, strong text, and inline code.\"},{\"type\":\"paragraph\",\"text\":\"You can also use:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Bullet lists\",\"With multiple items\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"And nested items\",\"Like this\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Numbered lists\",\"Also work well\",\"Auto-numbering is supported\"]}]}]},{\"type\":\"section\",\"heading\":\"Code Blocks\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"Python Example\",\"level\":3,\"body\":[{\"type\":\"code\",\"text\":\" def process_document(doc):\\n     \\\"\\\"\\\"Process an RST document.\\\"\\\"\\\"\\n     metadata = extract_metadata(doc)\\n     content = parse_content(doc)\\n     return {\\\"metadata\\\": metadata, \\\"content\\\": content}\",\"language\":\"python\"}]},{\"type\":\"section\",\"heading\":\"Shell Example\",\"level\":3,\"body\":[{\"type\":\"code\",\"text\":\" $ pandoc input.rst -o output.md\\n $ echo \\\"Conversion complete\\\"\",\"language\":\"bash\"}]}]},{\"type\":\"section\",\"heading\":\"Directives and Roles\",\"level\":2,\"body\":[{\"type\":\"blockquote\",\"body\":[{\"type\":\"paragraph\",\"text\":\"[!NOTE] This is a note directive.\"}]},{\"type\":\"blockquote\",\"body\":[{\"type\":\"paragraph\",\"text\":\"[!WARNING] This is a warning directive.\"}]},{\"type\":\"blockquote\",\"body\":[{\"type\":\"paragraph\",\"text\":\"[!TIP] RST supports various admonitions.\"}]}]},{\"type\":\"section\",\"heading\":\"Tables\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"Simple Table\",\"level\":3,\"body\":[{\"type\":\"table\",\"headers\":[\"Col1\",\"Col2\",\"Col3\"],\"rows\":[[\"A\",\"B\",\"C\"],[\"D\",\"E\",\"F\"]]}]},{\"type\":\"section\",\"heading\":\"Grid Table\",\"level\":3,\"body\":[{\"type\":\"table\",\"headers\":[\"Head1\",\"Head2\",\"Head3\"],\"rows\":[[\"Cell1\",\"Cell2\",\"Cell3\"],[\"Cell4\",\"Cell5\",\"Cell6\"]]}]}]},{\"type\":\"section\",\"heading\":\"Citations and References\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"According to [Smith2024], RST is widely used in technical documentation.\"}]},{\"type\":\"section\",\"heading\":\"Links and References\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"External link: Python Documentation\"},{\"type\":\"paragraph\",\"text\":\"Internal reference: See Introduction section.\"}]},{\"type\":\"section\",\"heading\":\"Conclusion\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"This document demonstrates RST features for comprehensive pandoc testing.\"},{\"type\":\"paragraph\",\"text\":\"Smith2024 Smith, J. (2024). Technical Documentation with RST. Doc Press.\"}]}]}]}",
+    "markdown": "# reStructuredText Document\n\n**Author**: Emily Chen\n\n**Date**: 2025-09-27\n\n**Version**: 1.0\n\n**Organization**: Testing Department\n\n**Abstract**: This reStructuredText document tests pandoc extraction capabilities with RST-specific features and metadata.\n\nTable of Contents\n\n## Introduction\n\nreStructuredText is a plaintext markup syntax used primarily in Python documentation. This document tests various RST features.\n\n## Text Formatting\n\n### Basic Formatting\n\nThis paragraph contains *emphasized text*, **strong text**, and `inline code`.\n\nYou can also use:\n\n- Bullet lists\n- With multiple items\n\n- And nested items\n- Like this\n\n1. Numbered lists\n2. Also work well\n3. Auto-numbering is supported\n\n## Code Blocks\n\n### Python Example\n\n```python\n def process_document(doc):\n     \"\"\"Process an RST document.\"\"\"\n     metadata = extract_metadata(doc)\n     content = parse_content(doc)\n     return {\"metadata\": metadata, \"content\": content}\n```\n\n### Shell Example\n\n```bash\n $ pandoc input.rst -o output.md\n $ echo \"Conversion complete\"\n```\n\n## Directives and Roles\n\n> [\\!NOTE] This is a note directive.\n\n> [\\!WARNING] This is a warning directive.\n\n> [\\!TIP] RST supports various admonitions.\n\n## Tables\n\n### Simple Table\n\n| Col1 | Col2 | Col3 |\n| --- | --- | --- |\n| A | B | C |\n| D | E | F |\n\n### Grid Table\n\n| Head1 | Head2 | Head3 |\n| --- | --- | --- |\n| Cell1 | Cell2 | Cell3 |\n| Cell4 | Cell5 | Cell6 |\n\n## Citations and References\n\nAccording to [Smith2024], RST is widely used in technical documentation.\n\n## Links and References\n\nExternal link: [Python Documentation](https://docs.python.org)\n\nInternal reference: See [Introduction](#introduction) section.\n\n## Conclusion\n\nThis document demonstrates RST features for comprehensive pandoc testing.\n\nSmith2024 Smith, J. (2024). *Technical Documentation with RST*. Doc Press.\n",
+    "plain": "reStructuredText Document\nAuthor: Emily Chen\n\nDate: 2025-09-27\n\nVersion: 1.0\n\nOrganization: Testing Department\n\nAbstract: This reStructuredText document tests pandoc extraction capabilities with RST-specific features and metadata.\n\nTable of Contents\n\n  Introduction\nreStructuredText is a plaintext markup syntax used primarily in Python documentation. This document tests various RST features.\n\n  Text Formatting\n    Basic Formatting\nThis paragraph contains emphasized text, strong text, and inline code.\n\nYou can also use:\n\nBullet lists\nWith multiple items\nAnd nested items\nLike this\nNumbered lists\nAlso work well\nAuto-numbering is supported\n  Code Blocks\n    Python Example\n def process_document(doc):\n     \"\"\"Process an RST document.\"\"\"\n     metadata = extract_metadata(doc)\n     content = parse_content(doc)\n     return {\"metadata\": metadata, \"content\": content}\n\n    Shell Example\n $ pandoc input.rst -o output.md\n $ echo \"Conversion complete\"\n\n  Directives and Roles\n  [!NOTE] This is a note directive.\n\n  [!WARNING] This is a warning directive.\n\n  [!TIP] RST supports various admonitions.\n\n  Tables\n    Simple Table\nCol1 Col2 Col3\nA B C\nD E F\n\n    Grid Table\nHead1 Head2 Head3\nCell1 Cell2 Cell3\nCell4 Cell5 Cell6\n\n  Citations and References\nAccording to [Smith2024], RST is widely used in technical documentation.\n\n  Links and References\nExternal link: Python Documentation\n\nInternal reference: See Introduction section.\n\n  Conclusion\nThis document demonstrates RST features for comprehensive pandoc testing.\n\nSmith2024 Smith, J. (2024). Technical Documentation with RST. Doc Press."
+  }
+}

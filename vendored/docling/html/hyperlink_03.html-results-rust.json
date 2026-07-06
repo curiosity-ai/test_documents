@@ -1,0 +1,141 @@
+{
+  "file": "vendored/docling/html/hyperlink_03.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "html",
+      "keywords": [],
+      "open_graph": {},
+      "twitter_card": {},
+      "meta_tags": {},
+      "headers": [],
+      "links": [
+        {
+          "href": "#",
+          "text": "My Section",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "aria-label",
+              "My Section"
+            ],
+            [
+              "class",
+              "dropdown-toggle"
+            ],
+            [
+              "data-toggle",
+              "dropdown"
+            ],
+            [
+              "id",
+              "main-dropdown"
+            ]
+          ]
+        },
+        {
+          "href": "/start.html",
+          "text": "Some page",
+          "title": "",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "aria-label",
+              "Some page"
+            ],
+            [
+              "target",
+              "_blank"
+            ],
+            [
+              "title",
+              ""
+            ]
+          ]
+        },
+        {
+          "href": "/home2.html",
+          "text": "A sub page",
+          "title": "",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "aria-label",
+              "Some other page"
+            ],
+            [
+              "target",
+              "_blank"
+            ],
+            [
+              "title",
+              ""
+            ]
+          ]
+        },
+        {
+          "href": "/home.html",
+          "text": "Homepage",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "/some_links.html",
+          "text": "with some links",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "#main-navigation",
+          "text": "Main navigation",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "#",
+          "text": "My organisation",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "aria-label",
+              "My Org"
+            ],
+            [
+              "class",
+              "dropdown-toggle"
+            ],
+            [
+              "id",
+              "other-dropdown"
+            ]
+          ]
+        }
+      ],
+      "images": [],
+      "structured_data": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/docling/html/hyperlink_03.html",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "vendored/docling/html/hyperlink_03.html"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<ul>\n<li>[My Section](#) * [Some page](/start.html &quot;&quot;) + [A sub page](/home2.html &quot;&quot;) + This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text. + [Main navigation](#main-navigation)</li>\n<li>[My organisation](#)</li>\n</ul>\n<ul>\n<li>[Some page](/start.html &quot;&quot;) + [A sub page](/home2.html &quot;&quot;) + This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text. + [Main navigation](#main-navigation)</li>\n</ul>\n<ul>\n<li>[A sub page](/home2.html &quot;&quot;)</li>\n</ul>\n<ul>\n<li>This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text.</li>\n<li>[Main navigation](#main-navigation)</li>\n</ul>\n<ul>\n<li>List item inner</li>\n<li>More text [with some links](/some_links.html) and more text.</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"[My Section](#)\\n  * [Some page](/start.html \\\"\\\")\\n    + [A sub page](/home2.html \\\"\\\")\\n    + This is my [Homepage](/home.html)\\n      - List item inner\\n      - More text [with some links](/some_links.html) and more text.\\n    + [Main navigation](#main-navigation)\",\"[My organisation](#)\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"[Some page](/start.html \\\"\\\")\\n    + [A sub page](/home2.html \\\"\\\")\\n    + This is my [Homepage](/home.html)\\n      - List item inner\\n      - More text [with some links](/some_links.html) and more text.\\n    + [Main navigation](#main-navigation)\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"[A sub page](/home2.html \\\"\\\")\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"This is my [Homepage](/home.html)\\n      - List item inner\\n      - More text [with some links](/some_links.html) and more text.\",\"[Main navigation](#main-navigation)\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"List item inner\",\"More text [with some links](/some_links.html) and more text.\"]}]}",
+    "markdown": "- [My Section](#)\n  * [Some page](/start.html \"\")\n    + [A sub page](/home2.html \"\")\n    + This is my [Homepage](/home.html)\n      - List item inner\n      - More text [with some links](/some_links.html) and more text.\n    + [Main navigation](#main-navigation)\n- [My organisation](#)\n",
+    "plain": "[My Section](#)\n  * [Some page](/start.html \"\")\n    + [A sub page](/home2.html \"\")\n    + This is my [Homepage](/home.html)\n      - List item inner\n      - More text [with some links](/some_links.html) and more text.\n    + [Main navigation](#main-navigation)\n[My organisation](#)\n[Some page](/start.html \"\")\n    + [A sub page](/home2.html \"\")\n    + This is my [Homepage](/home.html)\n      - List item inner\n      - More text [with some links](/some_links.html) and more text.\n    + [Main navigation](#main-navigation)\n[A sub page](/home2.html \"\")\nThis is my [Homepage](/home.html)\n      - List item inner\n      - More text [with some links](/some_links.html) and more text.\n[Main navigation](#main-navigation)\nList item inner\nMore text [with some links](/some_links.html) and more text."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pdf/nougat_020.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/nougat_020.md",
+      "final_uri": "ground_truth/pdf/nougat_020.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>WAC 446-50-070 Intrastate quarterly inspection. Intrastate radioactive waste material carriers will be required to contact the Washington state patrol and submit to an inspection on a quarterly basis. Upon being contacted by the radioactive waste material carriers the Washington state patrol will conduct a thorough equipment inspection of that intrastate carrier at a designated location. Upon completion of the inspection the carrier will be issued an inspection sticker that will be valid for ninety days. A current and valid inspection sticker will be required for entry into the radioactive waste material site.</p>\n<p>[Statutory Authority: RCW 46.48.190. WSR 80-01-009 (Order 79-4), § 446-50-070, filed 12/11/79.]</p>\n<p>Certified on 10/25/2019 WAC 446-50-070 Page 1</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"WAC 446-50-070 Intrastate quarterly inspection. Intrastate radioactive waste material carriers will be required to contact the Washington state patrol and submit to an inspection on a quarterly basis. Upon being contacted by the radioactive waste material carriers the Washington state patrol will conduct a thorough equipment inspection of that intrastate carrier at a designated location. Upon completion of the inspection the carrier will be issued an inspection sticker that will be valid for ninety days. A current and valid inspection sticker will be required for entry into the radioactive waste material site.\"},{\"type\":\"paragraph\",\"text\":\"[Statutory Authority: RCW 46.48.190. WSR 80-01-009 (Order 79-4), § 446-50-070, filed 12/11/79.]\"},{\"type\":\"paragraph\",\"text\":\"Certified on 10/25/2019 WAC 446-50-070 Page 1\"}]}",
+    "markdown": "WAC 446-50-070 Intrastate quarterly inspection. Intrastate radioactive waste material carriers will be required to contact the Washington state patrol and submit to an inspection on a quarterly basis. Upon being contacted by the radioactive waste material carriers the Washington state patrol will conduct a thorough equipment inspection of that intrastate carrier at a designated location. Upon completion of the inspection the carrier will be issued an inspection sticker that will be valid for ninety days. A current and valid inspection sticker will be required for entry into the radioactive waste material site.\n\n[Statutory Authority: RCW 46.48.190. WSR 80-01-009 (Order 79-4), § 446-50-070, filed 12/11/79.]\n\nCertified on 10/25/2019 WAC 446-50-070 Page 1\n",
+    "plain": "WAC 446-50-070 Intrastate quarterly inspection. Intrastate radioactive waste material carriers will be required to contact the Washington state patrol and submit to an inspection on a quarterly basis. Upon being contacted by the radioactive waste material carriers the Washington state patrol will conduct a thorough equipment inspection of that intrastate carrier at a designated location. Upon completion of the inspection the carrier will be issued an inspection sticker that will be valid for ninety days. A current and valid inspection sticker will be required for entry into the radioactive waste material site.\n\n[Statutory Authority: RCW 46.48.190. WSR 80-01-009 (Order 79-4), § 446-50-070, filed 12/11/79.]\n\nCertified on 10/25/2019 WAC 446-50-070 Page 1"
+  }
+}

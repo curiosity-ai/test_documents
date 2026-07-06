@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/epub/epub2_cover.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/epub/epub2_cover.md",
+      "source_index": 0,
+      "source_uri": "ground_truth/epub/epub2_cover.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Pandoc EPUB2 Test</p>\n",
+    "json": "{\"body\":[{\"type\":\"image\"},{\"type\":\"paragraph\",\"text\":\"Pandoc EPUB2 Test\"}]}",
+    "markdown": "Pandoc EPUB2 Test\n",
+    "plain": "Pandoc EPUB2 Test"
+  }
+}

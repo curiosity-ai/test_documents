@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pptx/powerpoint_with_image.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 5,
+      "word_count": 4,
+      "character_count": 23
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pptx/powerpoint_with_image.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/pptx/powerpoint_with_image.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Docling</p>\n<p>Image test</p>\n<p>[]</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Docling\"},{\"type\":\"paragraph\",\"text\":\"Image test\"},{\"type\":\"paragraph\",\"text\":\"[]\"}]}",
+    "markdown": "Docling\n\nImage test\n\n[]\n",
+    "plain": "Docling\n\nImage test\n\n[]"
+  }
+}

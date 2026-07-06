@@ -1,0 +1,106 @@
+{
+  "file": "vendored/unstructured/eml/email-no-utf8-2014-03-17.111517.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Google Account password changed",
+    "created_at": "Mon, 17 Mar 2014 11:15:04 +0000 (UTC)",
+    "format": {
+      "format_type": "email",
+      "from_email": "no-reply@accounts.google.com",
+      "to_emails": [
+        "slatest@gmail.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "message_id": "jOOABqYPtvg7kqWVhkuTrw@notifications.google.com",
+      "attachments": [
+        "google.png",
+        "profilephoto.png"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "content_type": "multipart/mixed; boundary=001a11346808c1bc8804f4cb88d1",
+      "source_uri": "vendored/unstructured/eml/email-no-utf8-2014-03-17.111517.eml",
+      "mime_version": "1.0",
+      "attachment_details": "google.png|image/png|2357; profilephoto.png|image/png|565",
+      "source_index": 0,
+      "final_uri": "vendored/unstructured/eml/email-no-utf8-2014-03-17.111517.eml"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          "\n            \n          ",
+          "\n            \n              Slava Gxyzxyz\n            \n          ",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "|  | \n            \n           | \n            \n              Slava Gxyzxyz\n            \n           |  |  |  |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "\n            ",
+          "",
+          ""
+        ],
+        [
+          "\n            ",
+          "\n            \n              Hi Slava,\n              \n              \n            \n\n\nThe password for your Google Account - slava.Gxyzxyz@gmail.com - was recently changed.\n\n\n\nIf you made this change, you don't need to do anything more.\n\n\n\n\nIf you didn't change your password, your account might have been hijacked. To get back into your account, you'll need to reset your password.\n\n\n\n\n\n  \n    \n      Reset password\n    \n  \n\n\n\n\n                \n                \n                \n                  Sincerely,\n                  The Google Accounts team\n                \n                ",
+          "\n                "
+        ],
+        [
+          "\n                ",
+          "",
+          ""
+        ],
+        [
+          "",
+          "\n                \n                  This email can't receive replies. For more information, visit the Google Accounts Help Center.\n                \n                ",
+          ""
+        ],
+        [
+          "\n                  ",
+          "",
+          ""
+        ],
+        [
+          "",
+          "\n                      \n                        If slava.Gxyzxyz@gmail.com isn't your Google Account, click here to disconnect your email address from this account.\n                      \n                    ",
+          ""
+        ],
+        [
+          "\n                ",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| \n             |  |  |\n| --- | --- | --- |\n| \n             | \n            \n              Hi Slava,\n              \n              \n            \n\n\nThe password for your Google Account - slava.Gxyzxyz@gmail.com - was recently changed.\n\n\n\nIf you made this change, you don't need to do anything more.\n\n\n\n\nIf you didn't change your password, your account might have been hijacked. To get back into your account, you'll need to reset your password.\n\n\n\n\n\n  \n    \n      Reset password\n    \n  \n\n\n\n\n                \n                \n                \n                  Sincerely,\n                  The Google Accounts team\n                \n                 | \n                 |\n| \n                 |  |  |\n|  | \n                \n                  This email can't receive replies. For more information, visit the Google Accounts Help Center.\n                \n                 |  |\n| \n                   |  |  |\n|  | \n                      \n                        If slava.Gxyzxyz@gmail.com isn't your Google Account, click here to disconnect your email address from this account.\n                      \n                     |  |\n| \n                 |  |  |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "\n                  \n                    You received this mandatory email service announcement to update you about important changes to your Google product or account.\n                  \n                  \n                  \n                  \n                  \n                    © 2014 Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\n                  \n                  \n                "
+        ]
+      ],
+      "markdown": "| \n                  \n                    You received this mandatory email service announcement to update you about important changes to your Google product or account.\n                  \n                  \n                  \n                  \n                  \n                    © 2014 Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\n                  \n                  \n                 |\n",
+      "page_number": 0
+    }
+  ],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Google Account password changed</p>\n<p><strong>From</strong>: no-reply@accounts.google.com</p>\n<p><strong>To</strong>: slatest@gmail.com</p>\n<p><strong>Date</strong>: Mon, 17 Mar 2014 11:15:04 +0000 (UTC)</p>\n<p>Google Accounts</p>\n<p>[Image]</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th> </th>\n<th> Slava Gxyzxyz </th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n</table>\n<table>\n<thead>\n<tr>\n<th> </th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td> </td>\n<td> Hi Slava, The password for your Google Account - slava.Gxyzxyz@gmail.com - was recently changed. If you made this change, you don't need to do anything more. If you didn't change your password, your account might have been hijacked. To get back into your account, you'll need to reset your password. Reset password Sincerely, The Google Accounts team </td>\n<td> </td>\n</tr>\n<tr>\n<td> </td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td> This email can't receive replies. For more information, visit the Google Accounts Help Center. </td>\n<td></td>\n</tr>\n<tr>\n<td> </td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td> If slava.Gxyzxyz@gmail.com isn't your Google Account, click here to disconnect your email address from this account. </td>\n<td></td>\n</tr>\n<tr>\n<td> </td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th> You received this mandatory email service announcement to update you about important changes to your Google product or account. © 2014 Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA </th>\n</tr>\n</thead>\n</table>\n<p>Attachments:</p>\n<p> google.png (2357B)</p>\n<p> profilephoto.png (565B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Google Accounts\"},{\"type\":\"paragraph\",\"text\":\"[Image]\"},{\"type\":\"table\",\"headers\":[\"\",\"\\n            \\n          \",\"\\n            \\n              Slava Gxyzxyz\\n            \\n          \",\"\",\"\",\"\"],\"rows\":[]},{\"type\":\"table\",\"headers\":[\"\\n            \",\"\",\"\"],\"rows\":[[\"\\n            \",\"\\n            \\n              Hi Slava,\\n              \\n              \\n            \\n\\n\\nThe password for your Google Account - slava.Gxyzxyz@gmail.com - was recently changed.\\n\\n\\n\\nIf you made this change, you don't need to do anything more.\\n\\n\\n\\n\\nIf you didn't change your password, your account might have been hijacked. To get back into your account, you'll need to reset your password.\\n\\n\\n\\n\\n\\n  \\n    \\n      Reset password\\n    \\n  \\n\\n\\n\\n\\n                \\n                \\n                \\n                  Sincerely,\\n                  The Google Accounts team\\n                \\n                \",\"\\n                \"],[\"\\n                \",\"\",\"\"],[\"\",\"\\n                \\n                  This email can't receive replies. For more information, visit the Google Accounts Help Center.\\n                \\n                \",\"\"],[\"\\n                  \",\"\",\"\"],[\"\",\"\\n                      \\n                        If slava.Gxyzxyz@gmail.com isn't your Google Account, click here to disconnect your email address from this account.\\n                      \\n                    \",\"\"],[\"\\n                \",\"\",\"\"]]},{\"type\":\"table\",\"headers\":[\"\\n                  \\n                    You received this mandatory email service announcement to update you about important changes to your Google product or account.\\n                  \\n                  \\n                  \\n                  \\n                  \\n                    © 2014 Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\\n                  \\n                  \\n                \"],\"rows\":[]},{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  google.png (2357B)\"},{\"type\":\"paragraph\",\"text\":\"  profilephoto.png (565B)\"}]}",
+    "markdown": "**Subject**: Google Account password changed\n\n**From**: no-reply@accounts.google.com\n\n**To**: slatest@gmail.com\n\n**Date**: Mon, 17 Mar 2014 11:15:04 +0000 (UTC)\n\nGoogle Accounts\n\n[Image]\n\n|  |   |  Slava Gxyzxyz  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n\n|   |  |  |\n| --- | --- | --- |\n|   |  Hi Slava, The password for your Google Account - slava.Gxyzxyz@gmail.com - was recently changed. If you made this change, you don't need to do anything more. If you didn't change your password, your account might have been hijacked. To get back into your account, you'll need to reset your password. Reset password Sincerely, The Google Accounts team  |   |\n|   |  |  |\n|  |  This email can't receive replies. For more information, visit the Google Accounts Help Center.  |  |\n|   |  |  |\n|  |  If slava.Gxyzxyz@gmail.com isn't your Google Account, click here to disconnect your email address from this account.  |  |\n|   |  |  |\n\n|  You received this mandatory email service announcement to update you about important changes to your Google product or account. © 2014 Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA  |\n| --- |\n\nAttachments:\n\n google.png (2357B)\n\n profilephoto.png (565B)\n",
+    "plain": "Subject: Google Account password changed\nFrom: no-reply@accounts.google.com\nTo: slatest@gmail.com\nDate: Mon, 17 Mar 2014 11:15:04 +0000 (UTC)\n\nGoogle Accounts\n\n[Image]\n\n \n            \n           \n            \n              Slava Gxyzxyz\n            \n             \n\n\n              \n\n             \n            \n              Hi Slava,\n              \n              \n            \n\n\nThe password for your Google Account - slava.Gxyzxyz@gmail.com - was recently changed.\n\n\n\nIf you made this change, you don't need to do anything more.\n\n\n\n\nIf you didn't change your password, your account might have been hijacked. To get back into your account, you'll need to reset your password.\n\n\n\n\n\n  \n    \n      Reset password\n    \n  \n\n\n\n\n                \n                \n                \n                  Sincerely,\n                  The Google Accounts team\n                \n                 \n                \n\n                  \n \n                \n                  This email can't receive replies. For more information, visit the Google Accounts Help Center.\n                \n                 \n\n                    \n \n                      \n                        If slava.Gxyzxyz@gmail.com isn't your Google Account, click here to disconnect your email address from this account.\n                      \n                     \n\n                  \n\n\n                  \n                    You received this mandatory email service announcement to update you about important changes to your Google product or account.\n                  \n                  \n                  \n                  \n                  \n                    © 2014 Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\n                  \n                  \n                \n\nAttachments:\n\n  google.png (2357B)\n\n  profilephoto.png (565B)"
+  }
+}

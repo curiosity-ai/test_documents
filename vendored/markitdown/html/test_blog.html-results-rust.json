@@ -1,0 +1,653 @@
+{
+  "file": "vendored/markitdown/html/test_blog.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "title": "Does Model and Inference Parameter Matter in LLM Applications? - A Case Study for MATH |\n      AutoGen",
+    "subject": "level 2 algebra",
+    "language": "en",
+    "format": {
+      "format_type": "html",
+      "title": "Does Model and Inference Parameter Matter in LLM Applications? - A Case Study for MATH |\n      AutoGen",
+      "description": "level 2 algebra",
+      "keywords": [],
+      "canonical_url": "https://microsoft.github.io/autogen/blog/2023/04/21/LLM-tuning-math",
+      "language": "en",
+      "text_direction": "ltr",
+      "open_graph": {
+        "description": "level 2 algebra",
+        "locale": "en",
+        "title": "Does Model and Inference Parameter Matter in LLM Applications? - A Case Study for MATH | AutoGen",
+        "type": "article",
+        "url": "https://microsoft.github.io/autogen/blog/2023/04/21/LLM-tuning-math"
+      },
+      "twitter_card": {
+        "card": "summary_large_image"
+      },
+      "meta_tags": {
+        "article-author": "https://www.linkedin.com/in/chi-wang-49b15b16/",
+        "article-published_time": "2023-04-21T00:00:00.000Z",
+        "article-tag": "LLM,GPT,research",
+        "docsearch-docusaurus_tag": "default",
+        "docsearch-language": "en",
+        "docusaurus_locale": "en",
+        "docusaurus_tag": "default",
+        "generator": "Docusaurus v3.1.1",
+        "viewport": "width=device-width,initial-scale=1"
+      },
+      "headers": [
+        {
+          "level": 1,
+          "text": "Does Model and Inference Parameter Matter in LLM Applications? - A Case Study for MATH",
+          "depth": 9,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "Experiment Setup[​](#experiment-setup \"Direct link to Experiment Setup\")",
+          "id": "experiment-setup",
+          "depth": 9,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "Experiment Results[​](#experiment-results \"Direct link to Experiment Results\")",
+          "id": "experiment-results",
+          "depth": 9,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "Analysis and Discussion[​](#analysis-and-discussion \"Direct link to Analysis and Discussion\")",
+          "id": "analysis-and-discussion",
+          "depth": 9,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "For Further Reading[​](#for-further-reading \"Direct link to For Further Reading\")",
+          "id": "for-further-reading",
+          "depth": 9,
+          "html_offset": 0
+        }
+      ],
+      "links": [
+        {
+          "href": "#__docusaurus_skipToContent_fallback",
+          "text": "Skip to main content",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "skipToContent_fXgn"
+            ]
+          ]
+        },
+        {
+          "href": "/autogen/blog/2024/03/03/AutoGen-Update",
+          "text": "this blog",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "https://www.linkedin.com/in/chi-wang-49b15b16/",
+          "text": "![Chi Wang](https://github.com/sonichi.png)",
+          "link_type": "external",
+          "rel": [
+            "noopener",
+            "noreferrer"
+          ],
+          "attributes": [
+            [
+              "class",
+              "avatar__photo-link"
+            ],
+            [
+              "rel",
+              "noopener noreferrer"
+            ],
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "https://www.linkedin.com/in/chi-wang-49b15b16/",
+          "text": "Chi Wang",
+          "link_type": "external",
+          "rel": [
+            "noopener",
+            "noreferrer"
+          ],
+          "attributes": [
+            [
+              "itemprop",
+              "url"
+            ],
+            [
+              "rel",
+              "noopener noreferrer"
+            ],
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/be83ab3ecd0db773eb2dc1b0a17836a1-Abstract-round2.html",
+          "text": "MATH",
+          "link_type": "external",
+          "rel": [
+            "noopener",
+            "noreferrer"
+          ],
+          "attributes": [
+            [
+              "rel",
+              "noopener noreferrer"
+            ],
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "#experiment-setup",
+          "text": "​",
+          "title": "Direct link to Experiment Setup",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "aria-label",
+              "Direct link to Experiment Setup"
+            ],
+            [
+              "class",
+              "hash-link"
+            ],
+            [
+              "title",
+              "Direct link to Experiment Setup"
+            ]
+          ]
+        },
+        {
+          "href": "#experiment-results",
+          "text": "​",
+          "title": "Direct link to Experiment Results",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "aria-label",
+              "Direct link to Experiment Results"
+            ],
+            [
+              "class",
+              "hash-link"
+            ],
+            [
+              "title",
+              "Direct link to Experiment Results"
+            ]
+          ]
+        },
+        {
+          "href": "#analysis-and-discussion",
+          "text": "​",
+          "title": "Direct link to Analysis and Discussion",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "aria-label",
+              "Direct link to Analysis and Discussion"
+            ],
+            [
+              "class",
+              "hash-link"
+            ],
+            [
+              "title",
+              "Direct link to Analysis and Discussion"
+            ]
+          ]
+        },
+        {
+          "href": "https://microsoft.github.io/FLAML/docs/Use-Cases/Tune-User-Defined-Function",
+          "text": "`flaml.tune`",
+          "link_type": "external",
+          "rel": [
+            "noopener",
+            "noreferrer"
+          ],
+          "attributes": [
+            [
+              "rel",
+              "noopener noreferrer"
+            ],
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "https://github.com/Significant-Gravitas/Auto-GPT",
+          "text": "Auto-GPT",
+          "link_type": "external",
+          "rel": [
+            "noopener",
+            "noreferrer"
+          ],
+          "attributes": [
+            [
+              "rel",
+              "noopener noreferrer"
+            ],
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "#for-further-reading",
+          "text": "​",
+          "title": "Direct link to For Further Reading",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "aria-label",
+              "Direct link to For Further Reading"
+            ],
+            [
+              "class",
+              "hash-link"
+            ],
+            [
+              "title",
+              "Direct link to For Further Reading"
+            ]
+          ]
+        },
+        {
+          "href": "https://arxiv.org/abs/2303.04673",
+          "text": "Research paper about the tuning technique",
+          "link_type": "external",
+          "rel": [
+            "noopener",
+            "noreferrer"
+          ],
+          "attributes": [
+            [
+              "rel",
+              "noopener noreferrer"
+            ],
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "/autogen/docs/Use-Cases/enhanced_inference",
+          "text": "Documentation about inference tuning",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": []
+        },
+        {
+          "href": "https://discord.gg/pAbnFJrkgZ",
+          "text": "Discord",
+          "link_type": "external",
+          "rel": [
+            "noopener",
+            "noreferrer"
+          ],
+          "attributes": [
+            [
+              "rel",
+              "noopener noreferrer"
+            ],
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "/autogen/blog/tags/llm",
+          "text": "LLM",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "tag_zVej tagRegular_sFm0"
+            ]
+          ]
+        },
+        {
+          "href": "/autogen/blog/tags/gpt",
+          "text": "GPT",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "tag_zVej tagRegular_sFm0"
+            ]
+          ]
+        },
+        {
+          "href": "/autogen/blog/tags/research",
+          "text": "research",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "tag_zVej tagRegular_sFm0"
+            ]
+          ]
+        },
+        {
+          "href": "#experiment-setup",
+          "text": "Experiment Setup",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "table-of-contents__link toc-highlight"
+            ]
+          ]
+        },
+        {
+          "href": "#experiment-results",
+          "text": "Experiment Results",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "table-of-contents__link toc-highlight"
+            ]
+          ]
+        },
+        {
+          "href": "#analysis-and-discussion",
+          "text": "Analysis and Discussion",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "table-of-contents__link toc-highlight"
+            ]
+          ]
+        },
+        {
+          "href": "#for-further-reading",
+          "text": "For Further Reading",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": [
+            [
+              "class",
+              "table-of-contents__link toc-highlight"
+            ]
+          ]
+        },
+        {
+          "href": "https://discord.gg/pAbnFJrkgZ",
+          "text": "Discord![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9Imljb25FeHRlcm5hbExpbmtfblBJVSIgaGVpZ2h0PSIxMy41IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxMy41Ij4KICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMSAxM3YxMGgtMjF2LTE5aDEydjJoLTEwdjE1aDE3di04aDJ6bTMtMTJoLTEwLjk4OGw0LjAzNSA0LTYuOTc3IDcuMDcgMi44MjggMi44MjggNi45NzctNy4wNyA0LjEyNSA0LjE3MnYtMTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+PC9zdmc+)",
+          "link_type": "external",
+          "rel": [
+            "noopener",
+            "noreferrer"
+          ],
+          "attributes": [
+            [
+              "class",
+              "footer__link-item"
+            ],
+            [
+              "rel",
+              "noopener noreferrer"
+            ],
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "https://twitter.com/pyautogen",
+          "text": "Twitter![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9Imljb25FeHRlcm5hbExpbmtfblBJVSIgaGVpZ2h0PSIxMy41IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxMy41Ij4KICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMSAxM3YxMGgtMjF2LTE5aDEydjJoLTEwdjE1aDE3di04aDJ6bTMtMTJoLTEwLjk4OGw0LjAzNSA0LTYuOTc3IDcuMDcgMi44MjggMi44MjggNi45NzctNy4wNyA0LjEyNSA0LjE3MnYtMTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+PC9zdmc+)",
+          "link_type": "external",
+          "rel": [
+            "noopener",
+            "noreferrer"
+          ],
+          "attributes": [
+            [
+              "class",
+              "footer__link-item"
+            ],
+            [
+              "rel",
+              "noopener noreferrer"
+            ],
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "https://go.microsoft.com/fwlink/?LinkId=521839",
+          "text": "Privacy and Cookies",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "style",
+              "color: #10adff"
+            ],
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://github.com/sonichi.png",
+          "alt": "Chi Wang",
+          "dimensions": null,
+          "image_type": "external",
+          "attributes": [
+            [
+              "alt",
+              "Chi Wang"
+            ],
+            [
+              "class",
+              "avatar__photo"
+            ],
+            [
+              "itemprop",
+              "image"
+            ]
+          ]
+        },
+        {
+          "src": "/autogen/assets/images/level2algebra-659ba95286432d9945fc89e84d606797.png",
+          "alt": "level 2 algebra",
+          "dimensions": [
+            575,
+            469
+          ],
+          "image_type": "relative",
+          "attributes": [
+            [
+              "alt",
+              "level 2 algebra"
+            ],
+            [
+              "class",
+              "img_ev3q"
+            ],
+            [
+              "decoding",
+              "async"
+            ],
+            [
+              "height",
+              "469"
+            ],
+            [
+              "loading",
+              "lazy"
+            ],
+            [
+              "width",
+              "575"
+            ]
+          ]
+        },
+        {
+          "src": "/autogen/assets/images/level3algebra-94e87a683ac8832ac7ae6f41f30131a4.png",
+          "alt": "level 3 algebra",
+          "dimensions": [
+            575,
+            469
+          ],
+          "image_type": "relative",
+          "attributes": [
+            [
+              "alt",
+              "level 3 algebra"
+            ],
+            [
+              "class",
+              "img_ev3q"
+            ],
+            [
+              "decoding",
+              "async"
+            ],
+            [
+              "height",
+              "469"
+            ],
+            [
+              "loading",
+              "lazy"
+            ],
+            [
+              "width",
+              "575"
+            ]
+          ]
+        },
+        {
+          "src": "/autogen/assets/images/level4algebra-492beb22490df30d6cc258f061912dcd.png",
+          "alt": "level 4 algebra",
+          "dimensions": [
+            580,
+            469
+          ],
+          "image_type": "relative",
+          "attributes": [
+            [
+              "alt",
+              "level 4 algebra"
+            ],
+            [
+              "class",
+              "img_ev3q"
+            ],
+            [
+              "decoding",
+              "async"
+            ],
+            [
+              "height",
+              "469"
+            ],
+            [
+              "loading",
+              "lazy"
+            ],
+            [
+              "width",
+              "580"
+            ]
+          ]
+        },
+        {
+          "src": "/autogen/assets/images/level5algebra-8fba701551334296d08580b4b489fe56.png",
+          "alt": "level 5 algebra",
+          "dimensions": [
+            575,
+            469
+          ],
+          "image_type": "relative",
+          "attributes": [
+            [
+              "alt",
+              "level 5 algebra"
+            ],
+            [
+              "class",
+              "img_ev3q"
+            ],
+            [
+              "decoding",
+              "async"
+            ],
+            [
+              "height",
+              "469"
+            ],
+            [
+              "loading",
+              "lazy"
+            ],
+            [
+              "width",
+              "575"
+            ]
+          ]
+        }
+      ],
+      "structured_data": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "vendored/markitdown/html/test_blog.html",
+      "final_uri": "vendored/markitdown/html/test_blog.html",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Does Model and Inference Parameter Matter in LLM Applications? - A Case Study for MATH</h1>\n<p>![Chi Wang](https://github.com/sonichi.png)</p>\n<p>![level 2 algebra](/autogen/assets/images/level2algebra-659ba95286432d9945fc89e84d606797.png)</p>\n<p>![level 2 algebra](/autogen/assets/images/level2algebra-659ba95286432d9945fc89e84d606797.png)</p>\n<p>**TL;DR:**</p>\n<ul>\n<li>**Just by tuning the inference parameters like model, number of responses, temperature etc. without changing any model weights or prompt, the baseline accuracy of untuned gpt-4 can be improved by 20% in high school math competition problems.**</li>\n<li>**For easy problems, the tuned gpt-3.5-turbo model vastly outperformed untuned gpt-4 in accuracy (e.g., 90% vs. 70%) and cost efficiency. For hard problems, the tuned gpt-4 is much more accurate (e.g., 35% vs. 20%) and less expensive than untuned gpt-4.**</li>\n<li>**AutoGen can help with model selection, parameter tuning, and cost-saving in LLM applications.**</li>\n</ul>\n<p>Large language models (LLMs) are powerful tools that can generate natural language texts for various applications, such as chatbots, summarization, translation, and more. GPT-4 is currently the state of the art LLM in the world. Is model selection irrelevant? What about inference parameters?</p>\n<p>In this blog post, we will explore how model and inference parameter matter in LLM applications, using a case study for [MATH](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/be83ab3ecd0db773eb2dc1b0a17836a1-Abstract-round2.html), a benchmark for evaluating LLMs on advanced mathematical problem solving. MATH consists of 12K math competition problems from AMC-10, AMC-12 and AIME. Each problem is accompanied by a step-by-step solution.</p>\n<p>We will use AutoGen to automatically find the best model and inference parameter for LLMs on a given task and dataset given an inference budget, using a novel low-cost search &amp; pruning strategy. AutoGen currently supports all the LLMs from OpenAI, such as GPT-3.5 and GPT-4.</p>\n<p>We will use AutoGen to perform model selection and inference parameter tuning. Then we compare the performance and inference cost on solving algebra problems with the untuned gpt-4. We will also analyze how different difficulty levels affect the results.</p>\n<h2>Experiment Setup[​](#experiment-setup &quot;Direct link to Experiment Setup&quot;)</h2>\n<p>We use AutoGen to select between the following models with a target inference budget $0.02 per instance:</p>\n<ul>\n<li>gpt-3.5-turbo, a relatively cheap model that powers the popular ChatGPT app</li>\n<li>gpt-4, the state of the art LLM that costs more than 10 times of gpt-3.5-turbo</li>\n</ul>\n<p>We adapt the models using 20 examples in the train set, using the problem statement as the input and generating the solution as the output. We use the following inference parameters:</p>\n<ul>\n<li>temperature: The parameter that controls the randomness of the output text. A higher temperature means more diversity but less coherence. We search for the optimal temperature in the range of [0, 1].</li>\n<li>top_p: The parameter that controls the probability mass of the output tokens. Only tokens with a cumulative probability less than or equal to top-p are considered. A lower top-p means more diversity but less coherence. We search for the optimal top-p in the range of [0, 1].</li>\n<li>max_tokens: The maximum number of tokens that can be generated for each output. We search for the optimal max length in the range of [50, 1000].</li>\n<li>n: The number of responses to generate. We search for the optimal n in the range of [1, 100].</li>\n<li>prompt: We use the template: &quot;{problem} Solve the problem carefully. Simplify your answer as much as possible. Put the final answer in \\boxed{{}}.&quot; where {problem} will be replaced by the math problem instance.</li>\n</ul>\n<p>In this experiment, when n &gt; 1, we find the answer with highest votes among all the responses and then select it as the final answer to compare with the ground truth. For example, if n = 5 and 3 of the responses contain a final answer 301 while 2 of the responses contain a final answer 159, we choose 301 as the final answer. This can help with resolving potential errors due to randomness. We use the average accuracy and average inference cost as the metric to evaluate the performance over a dataset. The inference cost of a particular instance is measured by the price per 1K tokens and the number of tokens consumed.</p>\n<h2>Experiment Results[​](#experiment-results &quot;Direct link to Experiment Results&quot;)</h2>\n<p>The first figure in this blog post shows the average accuracy and average inference cost of each configuration on the level 2 Algebra test set.</p>\n<p>Surprisingly, the tuned gpt-3.5-turbo model is selected as a better model and it vastly outperforms untuned gpt-4 in accuracy (92% vs. 70%) with equal or 2.5 times higher inference budget. The same observation can be obtained on the level 3 Algebra test set.</p>\n<p>![level 3 algebra](/autogen/assets/images/level3algebra-94e87a683ac8832ac7ae6f41f30131a4.png)</p>\n<p>![level 3 algebra](/autogen/assets/images/level3algebra-94e87a683ac8832ac7ae6f41f30131a4.png)</p>\n<p>However, the selected model changes on level 4 Algebra.</p>\n<p>![level 4 algebra](/autogen/assets/images/level4algebra-492beb22490df30d6cc258f061912dcd.png)</p>\n<p>![level 4 algebra](/autogen/assets/images/level4algebra-492beb22490df30d6cc258f061912dcd.png)</p>\n<p>This time gpt-4 is selected as the best model. The tuned gpt-4 achieves much higher accuracy (56% vs. 44%) and lower cost than the untuned gpt-4. On level 5 the result is similar.</p>\n<p>![level 5 algebra](/autogen/assets/images/level5algebra-8fba701551334296d08580b4b489fe56.png)</p>\n<p>![level 5 algebra](/autogen/assets/images/level5algebra-8fba701551334296d08580b4b489fe56.png)</p>\n<p>We can see that AutoGen has found different optimal model and inference parameters for each subset of a particular level, which shows that these parameters matter in cost-sensitive LLM applications and need to be carefully tuned or adapted.</p>\n<p>An example notebook to run these experiments can be found at: &lt;https://github.com/microsoft/FLAML/blob/v1.2.1/notebook/autogen_chatgpt.ipynb&gt;. The experiments were run when AutoGen was a subpackage in FLAML.</p>\n<h2>Analysis and Discussion[​](#analysis-and-discussion &quot;Direct link to Analysis and Discussion&quot;)</h2>\n<p>While gpt-3.5-turbo demonstrates competitive accuracy with voted answers in relatively easy algebra problems under the same inference budget, gpt-4 is a better choice for the most difficult problems. In general, through parameter tuning and model selection, we can identify the opportunity to save the expensive model for more challenging tasks, and improve the overall effectiveness of a budget-constrained system.</p>\n<p>There are many other alternative ways of solving math problems, which we have not covered in this blog post. When there are choices beyond the inference parameters, they can be generally tuned via [`flaml.tune`](https://microsoft.github.io/FLAML/docs/Use-Cases/Tune-User-Defined-Function).</p>\n<p>The need for model selection, parameter tuning and cost saving is not specific to the math problems. The [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) project is an example where high cost can easily prevent a generic complex task to be accomplished as it needs many LLM inference calls.</p>\n<h2>For Further Reading[​](#for-further-reading &quot;Direct link to For Further Reading&quot;)</h2>\n<ul>\n<li>[Research paper about the tuning technique](https://arxiv.org/abs/2303.04673)</li>\n<li>[Documentation about inference tuning](/autogen/docs/Use-Cases/enhanced_inference)</li>\n</ul>\n<p>*Do you have any experience to share about LLM applications? Do you like to see more support or research of LLM optimization or automation? Please join our [Discord](https://discord.gg/pAbnFJrkgZ) server for discussion.*</p>\n<ul>\n<li>[LLM](/autogen/blog/tags/llm)</li>\n<li>[GPT](/autogen/blog/tags/gpt)</li>\n<li>[research](/autogen/blog/tags/research)</li>\n</ul>\n<ul>\n<li>[Experiment Setup](#experiment-setup)</li>\n<li>[Experiment Results](#experiment-results)</li>\n<li>[Analysis and Discussion](#analysis-and-discussion)</li>\n<li>[For Further Reading](#for-further-reading)</li>\n</ul>\n<ul>\n<li>[Discord![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9Imljb25FeHRlcm5hbExpbmtfblBJVSIgaGVpZ2h0PSIxMy41IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxMy41Ij4KICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMSAxM3YxMGgtMjF2LTE5aDEydjJoLTEwdjE1aDE3di04aDJ6bTMtMTJoLTEwLjk4OGw0LjAzNSA0LTYuOTc3IDcuMDcgMi44MjggMi44MjggNi45NzctNy4wNyA0LjEyNSA0LjE3MnYtMTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+PC9zdmc+)](https://discord.gg/pAbnFJrkgZ)</li>\n<li>[Twitter![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9Imljb25FeHRlcm5hbExpbmtfblBJVSIgaGVpZ2h0PSIxMy41IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxMy41Ij4KICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMSAxM3YxMGgtMjF2LTE5aDEydjJoLTEwdjE1aDE3di04aDJ6bTMtMTJoLTEwLjk4OGw0LjAzNSA0LTYuOTc3IDcuMDcgMi44MjggMi44MjggNi45NzctNy4wNyA0LjEyNSA0LjE3MnYtMTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+PC9zdmc+)](https://twitter.com/pyautogen)</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Does Model and Inference Parameter Matter in LLM Applications? - A Case Study for MATH\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"![Chi Wang](https://github.com/sonichi.png)\"},{\"type\":\"paragraph\",\"text\":\"![level 2 algebra](/autogen/assets/images/level2algebra-659ba95286432d9945fc89e84d606797.png)\"},{\"type\":\"paragraph\",\"text\":\"![level 2 algebra](/autogen/assets/images/level2algebra-659ba95286432d9945fc89e84d606797.png)\"},{\"type\":\"paragraph\",\"text\":\"**TL;DR:**\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"**Just by tuning the inference parameters like model, number of responses,\\n temperature etc. without changing any model weights or prompt, the baseline\\n accuracy of untuned gpt-4 can be improved by 20% in high school math\\n competition problems.**\",\"**For easy problems, the tuned gpt-3.5-turbo model vastly outperformed\\n untuned gpt-4 in accuracy (e.g., 90% vs. 70%) and cost efficiency. For hard\\n problems, the tuned gpt-4 is much more accurate (e.g., 35% vs. 20%) and less\\n expensive than untuned gpt-4.**\",\"**AutoGen can help with model selection, parameter tuning, and cost-saving in\\n LLM applications.**\"]},{\"type\":\"paragraph\",\"text\":\"Large language models (LLMs) are powerful tools that can generate natural\\n language texts for various applications, such as chatbots, summarization,\\n translation, and more. GPT-4 is currently the state of the art LLM in the world.\\n Is model selection irrelevant? What about inference parameters?\"},{\"type\":\"paragraph\",\"text\":\"In this blog post, we will explore how model and inference parameter matter in\\n LLM applications, using a case study for [MATH](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/be83ab3ecd0db773eb2dc1b0a17836a1-Abstract-round2.html), a benchmark for evaluating LLMs on advanced mathematical problem solving.\\n MATH consists of 12K math competition problems from AMC-10, AMC-12 and AIME.\\n Each problem is accompanied by a step-by-step solution.\"},{\"type\":\"paragraph\",\"text\":\"We will use AutoGen to automatically find the best model and inference parameter\\n for LLMs on a given task and dataset given an inference budget, using a novel\\n low-cost search & pruning strategy. AutoGen currently supports all the LLMs\\n from OpenAI, such as GPT-3.5 and GPT-4.\"},{\"type\":\"paragraph\",\"text\":\"We will use AutoGen to perform model selection and inference parameter tuning.\\n Then we compare the performance and inference cost on solving algebra problems\\n with the untuned gpt-4. We will also analyze how different difficulty levels\\n affect the results.\"},{\"type\":\"section\",\"heading\":\"Experiment Setup[​](#experiment-setup \\\"Direct link to Experiment Setup\\\")\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"We use AutoGen to select between the following models with a target inference\\n budget $0.02 per instance:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"gpt-3.5-turbo, a relatively cheap model that powers the popular ChatGPT app\",\"gpt-4, the state of the art LLM that costs more than 10 times of gpt-3.5-turbo\"]},{\"type\":\"paragraph\",\"text\":\"We adapt the models using 20 examples in the train set, using the problem\\n statement as the input and generating the solution as the output. We use the\\n following inference parameters:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"temperature: The parameter that controls the randomness of the output text. A\\n higher temperature means more diversity but less coherence. We search for the\\n optimal temperature in the range of [0, 1].\",\"top_p: The parameter that controls the probability mass of the output tokens.\\n Only tokens with a cumulative probability less than or equal to top-p are\\n considered. A lower top-p means more diversity but less coherence. We search\\n for the optimal top-p in the range of [0, 1].\",\"max_tokens: The maximum number of tokens that can be generated for each\\n output. We search for the optimal max length in the range of [50, 1000].\",\"n: The number of responses to generate. We search for the optimal n in the\\n range of [1, 100].\",\"prompt: We use the template: \\\"{problem} Solve the problem carefully.\\n Simplify your answer as much as possible. Put the final answer in\\n \\\\boxed{{}}.\\\" where {problem} will be replaced by the math problem\\n instance.\"]},{\"type\":\"paragraph\",\"text\":\"In this experiment, when n > 1, we find the answer with highest votes among\\n all the responses and then select it as the final answer to compare with the\\n ground truth. For example, if n = 5 and 3 of the responses contain a final\\n answer 301 while 2 of the responses contain a final answer 159, we choose 301 as\\n the final answer. This can help with resolving potential errors due to\\n randomness. We use the average accuracy and average inference cost as the metric\\n to evaluate the performance over a dataset. The inference cost of a particular\\n instance is measured by the price per 1K tokens and the number of tokens\\n consumed.\"}]},{\"type\":\"section\",\"heading\":\"Experiment Results[​](#experiment-results \\\"Direct link to Experiment Results\\\")\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"The first figure in this blog post shows the average accuracy and average\\n inference cost of each configuration on the level 2 Algebra test set.\"},{\"type\":\"paragraph\",\"text\":\"Surprisingly, the tuned gpt-3.5-turbo model is selected as a better model and it\\n vastly outperforms untuned gpt-4 in accuracy (92% vs. 70%) with equal or 2.5\\n times higher inference budget. The same observation can be obtained on the level\\n 3 Algebra test set.\"},{\"type\":\"paragraph\",\"text\":\"![level 3 algebra](/autogen/assets/images/level3algebra-94e87a683ac8832ac7ae6f41f30131a4.png)\"},{\"type\":\"paragraph\",\"text\":\"![level 3 algebra](/autogen/assets/images/level3algebra-94e87a683ac8832ac7ae6f41f30131a4.png)\"},{\"type\":\"paragraph\",\"text\":\"However, the selected model changes on level 4 Algebra.\"},{\"type\":\"paragraph\",\"text\":\"![level 4 algebra](/autogen/assets/images/level4algebra-492beb22490df30d6cc258f061912dcd.png)\"},{\"type\":\"paragraph\",\"text\":\"![level 4 algebra](/autogen/assets/images/level4algebra-492beb22490df30d6cc258f061912dcd.png)\"},{\"type\":\"paragraph\",\"text\":\"This time gpt-4 is selected as the best model. The tuned gpt-4 achieves much\\n higher accuracy (56% vs. 44%) and lower cost than the untuned gpt-4. On level 5\\n the result is similar.\"},{\"type\":\"paragraph\",\"text\":\"![level 5 algebra](/autogen/assets/images/level5algebra-8fba701551334296d08580b4b489fe56.png)\"},{\"type\":\"paragraph\",\"text\":\"![level 5 algebra](/autogen/assets/images/level5algebra-8fba701551334296d08580b4b489fe56.png)\"},{\"type\":\"paragraph\",\"text\":\"We can see that AutoGen has found different optimal model and inference\\n parameters for each subset of a particular level, which shows that these\\n parameters matter in cost-sensitive LLM applications and need to be carefully\\n tuned or adapted.\"},{\"type\":\"paragraph\",\"text\":\"An example notebook to run these experiments can be found at: <https://github.com/microsoft/FLAML/blob/v1.2.1/notebook/autogen_chatgpt.ipynb>. The experiments were run when AutoGen was a subpackage in FLAML.\"}]},{\"type\":\"section\",\"heading\":\"Analysis and Discussion[​](#analysis-and-discussion \\\"Direct link to Analysis and Discussion\\\")\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"While gpt-3.5-turbo demonstrates competitive accuracy with voted answers in\\n relatively easy algebra problems under the same inference budget, gpt-4 is a\\n better choice for the most difficult problems. In general, through parameter\\n tuning and model selection, we can identify the opportunity to save the\\n expensive model for more challenging tasks, and improve the overall\\n effectiveness of a budget-constrained system.\"},{\"type\":\"paragraph\",\"text\":\"There are many other alternative ways of solving math problems, which we have\\n not covered in this blog post. When there are choices beyond the inference\\n parameters, they can be generally tuned via [`flaml.tune`](https://microsoft.github.io/FLAML/docs/Use-Cases/Tune-User-Defined-Function).\"},{\"type\":\"paragraph\",\"text\":\"The need for model selection, parameter tuning and cost saving is not specific\\n to the math problems. The [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) project is an example where high cost can easily prevent a generic complex task\\n to be accomplished as it needs many LLM inference calls.\"}]},{\"type\":\"section\",\"heading\":\"For Further Reading[​](#for-further-reading \\\"Direct link to For Further Reading\\\")\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"[Research paper about the tuning technique](https://arxiv.org/abs/2303.04673)\",\"[Documentation about inference tuning](/autogen/docs/Use-Cases/enhanced_inference)\"]},{\"type\":\"paragraph\",\"text\":\"*Do you have any experience to share about LLM applications? Do you like to\\n see more support or research of LLM optimization or automation? Please join\\n our [Discord](https://discord.gg/pAbnFJrkgZ) server for discussion.*\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"[LLM](/autogen/blog/tags/llm)\",\"[GPT](/autogen/blog/tags/gpt)\",\"[research](/autogen/blog/tags/research)\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"[Experiment Setup](#experiment-setup)\",\"[Experiment Results](#experiment-results)\",\"[Analysis and Discussion](#analysis-and-discussion)\",\"[For Further Reading](#for-further-reading)\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"[Discord![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9Imljb25FeHRlcm5hbExpbmtfblBJVSIgaGVpZ2h0PSIxMy41IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxMy41Ij4KICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMSAxM3YxMGgtMjF2LTE5aDEydjJoLTEwdjE1aDE3di04aDJ6bTMtMTJoLTEwLjk4OGw0LjAzNSA0LTYuOTc3IDcuMDcgMi44MjggMi44MjggNi45NzctNy4wNyA0LjEyNSA0LjE3MnYtMTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+PC9zdmc+)](https://discord.gg/pAbnFJrkgZ)\",\"[Twitter![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9Imljb25FeHRlcm5hbExpbmtfblBJVSIgaGVpZ2h0PSIxMy41IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxMy41Ij4KICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMSAxM3YxMGgtMjF2LTE5aDEydjJoLTEwdjE1aDE3di04aDJ6bTMtMTJoLTEwLjk4OGw0LjAzNSA0LTYuOTc3IDcuMDcgMi44MjggMi44MjggNi45NzctNy4wNyA0LjEyNSA0LjE3MnYtMTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+PC9zdmc+)](https://twitter.com/pyautogen)\"]}]}]}]}",
+    "markdown": "---\ncanonical: https://microsoft.github.io/autogen/blog/2023/04/21/LLM-tuning-math\nmeta-article:author: https://www.linkedin.com/in/chi-wang-49b15b16/\nmeta-article:published_time: 2023-04-21T00:00:00.000Z\nmeta-article:tag: LLM,GPT,research\nmeta-description: level 2 algebra\nmeta-docsearch:docusaurus_tag: default\nmeta-docsearch:language: en\nmeta-docusaurus_locale: en\nmeta-docusaurus_tag: default\nmeta-generator: Docusaurus v3.1.1\nmeta-og:description: level 2 algebra\nmeta-og:locale: en\nmeta-og:title: Does Model and Inference Parameter Matter in LLM Applications? - A Case Study for MATH | AutoGen\nmeta-og:type: article\nmeta-og:url: https://microsoft.github.io/autogen/blog/2023/04/21/LLM-tuning-math\nmeta-twitter:card: summary_large_image\nmeta-viewport: width=device-width,initial-scale=1\ntitle: Does Model and Inference Parameter Matter in LLM Applications? - A Case Study for MATH |\n\n## AutoGen\n\n[Skip to main content](#__docusaurus_skipToContent_fallback)\n\nWhat's new in AutoGen? Read [this blog](/autogen/blog/2024/03/03/AutoGen-Update) for an overview of updates\n\n![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE0IiB2aWV3Qm94PSIwIDAgMTUgMTUiIHdpZHRoPSIxNCI+CiAgICAgICAgICAgIDxnIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjMuMSI+CiAgICAgICAgICAgICAgPHBhdGggZD0iTS43NS43NWwxMy41IDEzLjVNMTQuMjUuNzVMLjc1IDE0LjI1IiAvPgogICAgICAgICAgICA8L2c+CiAgICAgICAgICA8L3N2Zz4=)\n\n# Does Model and Inference Parameter Matter in LLM Applications? - A Case Study for MATH\n\nApril 21, 2023 · 6 min read\n\n[![Chi Wang](https://github.com/sonichi.png)](https://www.linkedin.com/in/chi-wang-49b15b16/)\n\n[Chi Wang](https://www.linkedin.com/in/chi-wang-49b15b16/)\n\nPrincipal Researcher at Microsoft Research\n\n![level 2 algebra](/autogen/assets/images/level2algebra-659ba95286432d9945fc89e84d606797.png)\n\n**TL;DR:**\n\n- **Just by tuning the inference parameters like model, number of responses,\n temperature etc. without changing any model weights or prompt, the baseline\n accuracy of untuned gpt-4 can be improved by 20% in high school math\n competition problems.**\n- **For easy problems, the tuned gpt-3.5-turbo model vastly outperformed\n untuned gpt-4 in accuracy (e.g., 90% vs. 70%) and cost efficiency. For hard\n problems, the tuned gpt-4 is much more accurate (e.g., 35% vs. 20%) and less\n expensive than untuned gpt-4.**\n- **AutoGen can help with model selection, parameter tuning, and cost-saving in\n LLM applications.**\n\nLarge language models (LLMs) are powerful tools that can generate natural\n language texts for various applications, such as chatbots, summarization,\n translation, and more. GPT-4 is currently the state of the art LLM in the world.\n Is model selection irrelevant? What about inference parameters?\n\nIn this blog post, we will explore how model and inference parameter matter in\n LLM applications, using a case study for [MATH](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/be83ab3ecd0db773eb2dc1b0a17836a1-Abstract-round2.html), a benchmark for evaluating LLMs on advanced mathematical problem solving.\n MATH consists of 12K math competition problems from AMC-10, AMC-12 and AIME.\n Each problem is accompanied by a step-by-step solution.\n\nWe will use AutoGen to automatically find the best model and inference parameter\n for LLMs on a given task and dataset given an inference budget, using a novel\n low-cost search & pruning strategy. AutoGen currently supports all the LLMs\n from OpenAI, such as GPT-3.5 and GPT-4.\n\nWe will use AutoGen to perform model selection and inference parameter tuning.\n Then we compare the performance and inference cost on solving algebra problems\n with the untuned gpt-4. We will also analyze how different difficulty levels\n affect the results.\n\n## Experiment Setup[​](#experiment-setup \"Direct link to Experiment Setup\")\n\nWe use AutoGen to select between the following models with a target inference\n budget $0.02 per instance:\n\n- gpt-3.5-turbo, a relatively cheap model that powers the popular ChatGPT app\n- gpt-4, the state of the art LLM that costs more than 10 times of gpt-3.5-turbo\n\nWe adapt the models using 20 examples in the train set, using the problem\n statement as the input and generating the solution as the output. We use the\n following inference parameters:\n\n- temperature: The parameter that controls the randomness of the output text. A\n higher temperature means more diversity but less coherence. We search for the\n optimal temperature in the range of [0, 1].\n- top_p: The parameter that controls the probability mass of the output tokens.\n Only tokens with a cumulative probability less than or equal to top-p are\n considered. A lower top-p means more diversity but less coherence. We search\n for the optimal top-p in the range of [0, 1].\n- max_tokens: The maximum number of tokens that can be generated for each\n output. We search for the optimal max length in the range of [50, 1000].\n- n: The number of responses to generate. We search for the optimal n in the\n range of [1, 100].\n- prompt: We use the template: \"{problem} Solve the problem carefully.\n Simplify your answer as much as possible. Put the final answer in\n \\boxed{{}}.\" where {problem} will be replaced by the math problem\n instance.\n\nIn this experiment, when n > 1, we find the answer with highest votes among\n all the responses and then select it as the final answer to compare with the\n ground truth. For example, if n = 5 and 3 of the responses contain a final\n answer 301 while 2 of the responses contain a final answer 159, we choose 301 as\n the final answer. This can help with resolving potential errors due to\n randomness. We use the average accuracy and average inference cost as the metric\n to evaluate the performance over a dataset. The inference cost of a particular\n instance is measured by the price per 1K tokens and the number of tokens\n consumed.\n\n## Experiment Results[​](#experiment-results \"Direct link to Experiment Results\")\n\nThe first figure in this blog post shows the average accuracy and average\n inference cost of each configuration on the level 2 Algebra test set.\n\nSurprisingly, the tuned gpt-3.5-turbo model is selected as a better model and it\n vastly outperforms untuned gpt-4 in accuracy (92% vs. 70%) with equal or 2.5\n times higher inference budget. The same observation can be obtained on the level\n 3 Algebra test set.\n\n![level 3 algebra](/autogen/assets/images/level3algebra-94e87a683ac8832ac7ae6f41f30131a4.png)\n\nHowever, the selected model changes on level 4 Algebra.\n\n![level 4 algebra](/autogen/assets/images/level4algebra-492beb22490df30d6cc258f061912dcd.png)\n\nThis time gpt-4 is selected as the best model. The tuned gpt-4 achieves much\n higher accuracy (56% vs. 44%) and lower cost than the untuned gpt-4. On level 5\n the result is similar.\n\n![level 5 algebra](/autogen/assets/images/level5algebra-8fba701551334296d08580b4b489fe56.png)\n\nWe can see that AutoGen has found different optimal model and inference\n parameters for each subset of a particular level, which shows that these\n parameters matter in cost-sensitive LLM applications and need to be carefully\n tuned or adapted.\n\nAn example notebook to run these experiments can be found at: <https://github.com/microsoft/FLAML/blob/v1.2.1/notebook/autogen_chatgpt.ipynb>. The experiments were run when AutoGen was a subpackage in FLAML.\n\n## Analysis and Discussion[​](#analysis-and-discussion \"Direct link to Analysis and Discussion\")\n\nWhile gpt-3.5-turbo demonstrates competitive accuracy with voted answers in\n relatively easy algebra problems under the same inference budget, gpt-4 is a\n better choice for the most difficult problems. In general, through parameter\n tuning and model selection, we can identify the opportunity to save the\n expensive model for more challenging tasks, and improve the overall\n effectiveness of a budget-constrained system.\n\nThere are many other alternative ways of solving math problems, which we have\n not covered in this blog post. When there are choices beyond the inference\n parameters, they can be generally tuned via [`flaml.tune`](https://microsoft.github.io/FLAML/docs/Use-Cases/Tune-User-Defined-Function).\n\nThe need for model selection, parameter tuning and cost saving is not specific\n to the math problems. The [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) project is an example where high cost can easily prevent a generic complex task\n to be accomplished as it needs many LLM inference calls.\n\n## For Further Reading[​](#for-further-reading \"Direct link to For Further Reading\")\n\n- [Research paper about the tuning technique](https://arxiv.org/abs/2303.04673)\n- [Documentation about inference tuning](/autogen/docs/Use-Cases/enhanced_inference)\n\n*Do you have any experience to share about LLM applications? Do you like to\n see more support or research of LLM optimization or automation? Please join\n our [Discord](https://discord.gg/pAbnFJrkgZ) server for discussion.*\n\n**Tags:**\n\n- [LLM](/autogen/blog/tags/llm)\n- [GPT](/autogen/blog/tags/gpt)\n- [research](/autogen/blog/tags/research)\n\n- [Experiment Setup](#experiment-setup)\n- [Experiment Results](#experiment-results)\n- [Analysis and Discussion](#analysis-and-discussion)\n- [For Further Reading](#for-further-reading)\n\nCommunity\n\n- [Discord![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9Imljb25FeHRlcm5hbExpbmtfblBJVSIgaGVpZ2h0PSIxMy41IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxMy41Ij4KICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMSAxM3YxMGgtMjF2LTE5aDEydjJoLTEwdjE1aDE3di04aDJ6bTMtMTJoLTEwLjk4OGw0LjAzNSA0LTYuOTc3IDcuMDcgMi44MjggMi44MjggNi45NzctNy4wNyA0LjEyNSA0LjE3MnYtMTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+PC9zdmc+)](https://discord.gg/pAbnFJrkgZ)\n- [Twitter![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9Imljb25FeHRlcm5hbExpbmtfblBJVSIgaGVpZ2h0PSIxMy41IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxMy41Ij4KICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMSAxM3YxMGgtMjF2LTE5aDEydjJoLTEwdjE1aDE3di04aDJ6bTMtMTJoLTEwLjk4OGw0LjAzNSA0LTYuOTc3IDcuMDcgMi44MjggMi44MjggNi45NzctNy4wNyA0LjEyNSA0LjE3MnYtMTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+PC9zdmc+)](https://twitter.com/pyautogen)\n\nCopyright © 2024 AutoGen Authors | [Privacy and Cookies](https://go.microsoft.com/fwlink/?LinkId=521839)\n",
+    "plain": "  Does Model and Inference Parameter Matter in LLM Applications? - A Case Study for MATH\n  ![Chi Wang](https://github.com/sonichi.png)\n\n  ![level 2 algebra](/autogen/assets/images/level2algebra-659ba95286432d9945fc89e84d606797.png)\n\n  ![level 2 algebra](/autogen/assets/images/level2algebra-659ba95286432d9945fc89e84d606797.png)\n\n  **TL;DR:**\n\n**Just by tuning the inference parameters like model, number of responses,\n temperature etc. without changing any model weights or prompt, the baseline\n accuracy of untuned gpt-4 can be improved by 20% in high school math\n competition problems.**\n**For easy problems, the tuned gpt-3.5-turbo model vastly outperformed\n untuned gpt-4 in accuracy (e.g., 90% vs. 70%) and cost efficiency. For hard\n problems, the tuned gpt-4 is much more accurate (e.g., 35% vs. 20%) and less\n expensive than untuned gpt-4.**\n**AutoGen can help with model selection, parameter tuning, and cost-saving in\n LLM applications.**\n  Large language models (LLMs) are powerful tools that can generate natural\n language texts for various applications, such as chatbots, summarization,\n translation, and more. GPT-4 is currently the state of the art LLM in the world.\n Is model selection irrelevant? What about inference parameters?\n\n  In this blog post, we will explore how model and inference parameter matter in\n LLM applications, using a case study for [MATH](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/be83ab3ecd0db773eb2dc1b0a17836a1-Abstract-round2.html), a benchmark for evaluating LLMs on advanced mathematical problem solving.\n MATH consists of 12K math competition problems from AMC-10, AMC-12 and AIME.\n Each problem is accompanied by a step-by-step solution.\n\n  We will use AutoGen to automatically find the best model and inference parameter\n for LLMs on a given task and dataset given an inference budget, using a novel\n low-cost search & pruning strategy. AutoGen currently supports all the LLMs\n from OpenAI, such as GPT-3.5 and GPT-4.\n\n  We will use AutoGen to perform model selection and inference parameter tuning.\n Then we compare the performance and inference cost on solving algebra problems\n with the untuned gpt-4. We will also analyze how different difficulty levels\n affect the results.\n\n    Experiment Setup[​](#experiment-setup \"Direct link to Experiment Setup\")\n    We use AutoGen to select between the following models with a target inference\n budget $0.02 per instance:\n\ngpt-3.5-turbo, a relatively cheap model that powers the popular ChatGPT app\ngpt-4, the state of the art LLM that costs more than 10 times of gpt-3.5-turbo\n    We adapt the models using 20 examples in the train set, using the problem\n statement as the input and generating the solution as the output. We use the\n following inference parameters:\n\ntemperature: The parameter that controls the randomness of the output text. A\n higher temperature means more diversity but less coherence. We search for the\n optimal temperature in the range of [0, 1].\ntop_p: The parameter that controls the probability mass of the output tokens.\n Only tokens with a cumulative probability less than or equal to top-p are\n considered. A lower top-p means more diversity but less coherence. We search\n for the optimal top-p in the range of [0, 1].\nmax_tokens: The maximum number of tokens that can be generated for each\n output. We search for the optimal max length in the range of [50, 1000].\nn: The number of responses to generate. We search for the optimal n in the\n range of [1, 100].\nprompt: We use the template: \"{problem} Solve the problem carefully.\n Simplify your answer as much as possible. Put the final answer in\n \\boxed{{}}.\" where {problem} will be replaced by the math problem\n instance.\n    In this experiment, when n > 1, we find the answer with highest votes among\n all the responses and then select it as the final answer to compare with the\n ground truth. For example, if n = 5 and 3 of the responses contain a final\n answer 301 while 2 of the responses contain a final answer 159, we choose 301 as\n the final answer. This can help with resolving potential errors due to\n randomness. We use the average accuracy and average inference cost as the metric\n to evaluate the performance over a dataset. The inference cost of a particular\n instance is measured by the price per 1K tokens and the number of tokens\n consumed.\n\n    Experiment Results[​](#experiment-results \"Direct link to Experiment Results\")\n    The first figure in this blog post shows the average accuracy and average\n inference cost of each configuration on the level 2 Algebra test set.\n\n    Surprisingly, the tuned gpt-3.5-turbo model is selected as a better model and it\n vastly outperforms untuned gpt-4 in accuracy (92% vs. 70%) with equal or 2.5\n times higher inference budget. The same observation can be obtained on the level\n 3 Algebra test set.\n\n    ![level 3 algebra](/autogen/assets/images/level3algebra-94e87a683ac8832ac7ae6f41f30131a4.png)\n\n    ![level 3 algebra](/autogen/assets/images/level3algebra-94e87a683ac8832ac7ae6f41f30131a4.png)\n\n    However, the selected model changes on level 4 Algebra.\n\n    ![level 4 algebra](/autogen/assets/images/level4algebra-492beb22490df30d6cc258f061912dcd.png)\n\n    ![level 4 algebra](/autogen/assets/images/level4algebra-492beb22490df30d6cc258f061912dcd.png)\n\n    This time gpt-4 is selected as the best model. The tuned gpt-4 achieves much\n higher accuracy (56% vs. 44%) and lower cost than the untuned gpt-4. On level 5\n the result is similar.\n\n    ![level 5 algebra](/autogen/assets/images/level5algebra-8fba701551334296d08580b4b489fe56.png)\n\n    ![level 5 algebra](/autogen/assets/images/level5algebra-8fba701551334296d08580b4b489fe56.png)\n\n    We can see that AutoGen has found different optimal model and inference\n parameters for each subset of a particular level, which shows that these\n parameters matter in cost-sensitive LLM applications and need to be carefully\n tuned or adapted.\n\n    An example notebook to run these experiments can be found at: <https://github.com/microsoft/FLAML/blob/v1.2.1/notebook/autogen_chatgpt.ipynb>. The experiments were run when AutoGen was a subpackage in FLAML.\n\n    Analysis and Discussion[​](#analysis-and-discussion \"Direct link to Analysis and Discussion\")\n    While gpt-3.5-turbo demonstrates competitive accuracy with voted answers in\n relatively easy algebra problems under the same inference budget, gpt-4 is a\n better choice for the most difficult problems. In general, through parameter\n tuning and model selection, we can identify the opportunity to save the\n expensive model for more challenging tasks, and improve the overall\n effectiveness of a budget-constrained system.\n\n    There are many other alternative ways of solving math problems, which we have\n not covered in this blog post. When there are choices beyond the inference\n parameters, they can be generally tuned via [`flaml.tune`](https://microsoft.github.io/FLAML/docs/Use-Cases/Tune-User-Defined-Function).\n\n    The need for model selection, parameter tuning and cost saving is not specific\n to the math problems. The [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) project is an example where high cost can easily prevent a generic complex task\n to be accomplished as it needs many LLM inference calls.\n\n    For Further Reading[​](#for-further-reading \"Direct link to For Further Reading\")\n[Research paper about the tuning technique](https://arxiv.org/abs/2303.04673)\n[Documentation about inference tuning](/autogen/docs/Use-Cases/enhanced_inference)\n    *Do you have any experience to share about LLM applications? Do you like to\n see more support or research of LLM optimization or automation? Please join\n our [Discord](https://discord.gg/pAbnFJrkgZ) server for discussion.*\n\n[LLM](/autogen/blog/tags/llm)\n[GPT](/autogen/blog/tags/gpt)\n[research](/autogen/blog/tags/research)\n[Experiment Setup](#experiment-setup)\n[Experiment Results](#experiment-results)\n[Analysis and Discussion](#analysis-and-discussion)\n[For Further Reading](#for-further-reading)\n[Discord![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9Imljb25FeHRlcm5hbExpbmtfblBJVSIgaGVpZ2h0PSIxMy41IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxMy41Ij4KICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMSAxM3YxMGgtMjF2LTE5aDEydjJoLTEwdjE1aDE3di04aDJ6bTMtMTJoLTEwLjk4OGw0LjAzNSA0LTYuOTc3IDcuMDcgMi44MjggMi44MjggNi45NzctNy4wNyA0LjEyNSA0LjE3MnYtMTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+PC9zdmc+)](https://discord.gg/pAbnFJrkgZ)\n[Twitter![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9Imljb25FeHRlcm5hbExpbmtfblBJVSIgaGVpZ2h0PSIxMy41IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxMy41Ij4KICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMSAxM3YxMGgtMjF2LTE5aDEydjJoLTEwdjE1aDE3di04aDJ6bTMtMTJoLTEwLjk4OGw0LjAzNSA0LTYuOTc3IDcuMDcgMi44MjggMi44MjggNi45NzctNy4wNyA0LjEyNSA0LjE3MnYtMTF6IiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+PC9zdmc+)](https://twitter.com/pyautogen)"
+  }
+}

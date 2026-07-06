@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/example_01_images.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 20,
+      "word_count": 61,
+      "character_count": 357
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/md/example_01_images.html.txt",
+      "source_uri": "ground_truth/md/example_01_images.html.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Introduction</p>\n<p>This is the first paragraph of the introduction.</p>\n<p>## Background</p>\n<p>Some background information here.</p>\n<p>Example image</p>\n<p>&lt;!-- image --&gt;</p>\n<p>- First item in unordered list - Second item in unordered list</p>\n<p>1. First item in ordered list 2. Second item in ordered list</p>\n<p>42. First item in ordered list with start 43. Second item in ordered list with start</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Introduction\"},{\"type\":\"paragraph\",\"text\":\"This is the first paragraph of the introduction.\"},{\"type\":\"paragraph\",\"text\":\"## Background\"},{\"type\":\"paragraph\",\"text\":\"Some background information here.\"},{\"type\":\"paragraph\",\"text\":\"Example image\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"- First item in unordered list\\n- Second item in unordered list\"},{\"type\":\"paragraph\",\"text\":\"1. First item in ordered list\\n2. Second item in ordered list\"},{\"type\":\"paragraph\",\"text\":\"42. First item in ordered list with start\\n43. Second item in ordered list with start\"}]}",
+    "markdown": "\\# Introduction\n\nThis is the first paragraph of the introduction.\n\n\\#\\# Background\n\nSome background information here.\n\nExample image\n\n\\<\\!-- image --\\>\n\n\\- First item in unordered list - Second item in unordered list\n\n1\\. First item in ordered list 2. Second item in ordered list\n\n42\\. First item in ordered list with start 43. Second item in ordered list with start\n",
+    "plain": "# Introduction\n\nThis is the first paragraph of the introduction.\n\n## Background\n\nSome background information here.\n\nExample image\n\n<!-- image -->\n\n- First item in unordered list\n- Second item in unordered list\n\n1. First item in ordered list\n2. Second item in ordered list\n\n42. First item in ordered list with start\n43. Second item in ordered list with start"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/html/hyperlink_03.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/html/hyperlink_03.md",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/html/hyperlink_03.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<ul>\n<li>[My Section](#) - [Some page](/start.html &quot;&quot;) - [A sub page](/home2.html &quot;&quot;) - This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text. - [Main navigation](#main-navigation)</li>\n<li>[My organisation](#)</li>\n</ul>\n<ul>\n<li>[Some page](/start.html &quot;&quot;) - [A sub page](/home2.html &quot;&quot;) - This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text. - [Main navigation](#main-navigation)</li>\n</ul>\n<ul>\n<li>[A sub page](/home2.html &quot;&quot;)</li>\n</ul>\n<ul>\n<li>This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text.</li>\n<li>[Main navigation](#main-navigation)</li>\n</ul>\n<ul>\n<li>List item inner</li>\n<li>More text [with some links](/some_links.html) and more text.</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"[My Section](#) - [Some page](/start.html \\\"\\\") - [A sub page](/home2.html \\\"\\\") - This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text. - [Main navigation](#main-navigation)\",\"[My organisation](#)\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"[Some page](/start.html \\\"\\\") - [A sub page](/home2.html \\\"\\\") - This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text. - [Main navigation](#main-navigation)\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"[A sub page](/home2.html \\\"\\\")\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text.\",\"[Main navigation](#main-navigation)\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"List item inner\",\"More text [with some links](/some_links.html) and more text.\"]}]}",
+    "markdown": "- [My Section](\\#) - [Some page](/start.html \"\") - [A sub page](/home2.html \"\") - This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text. - [Main navigation](\\#main-navigation)\n- [My organisation](\\#)\n\n- [Some page](/start.html \"\") - [A sub page](/home2.html \"\") - This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text. - [Main navigation](\\#main-navigation)\n\n- [A sub page](/home2.html \"\")\n\n- This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text.\n- [Main navigation](\\#main-navigation)\n\n- List item inner\n- More text [with some links](/some_links.html) and more text.\n",
+    "plain": "[My Section](#) - [Some page](/start.html \"\") - [A sub page](/home2.html \"\") - This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text. - [Main navigation](#main-navigation)\n[My organisation](#)\n[Some page](/start.html \"\") - [A sub page](/home2.html \"\") - This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text. - [Main navigation](#main-navigation)\n[A sub page](/home2.html \"\")\nThis is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text.\n[Main navigation](#main-navigation)\nList item inner\nMore text [with some links](/some_links.html) and more text."
+  }
+}

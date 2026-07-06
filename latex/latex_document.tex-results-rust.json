@@ -1,0 +1,50 @@
+{
+  "file": "latex/latex_document.tex",
+  "mime_type": "application/x-latex",
+  "success": true,
+  "metadata": {
+    "title": "LaTeX Test Document",
+    "created_at": "September 2025",
+    "created_by": "Dr. Carol White \\and Prof. David Brown",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "latex/latex_document.tex",
+      "author": "Dr. Carol White \\and Prof. David Brown",
+      "date": "September 2025",
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "latex/latex_document.tex",
+      "title": "LaTeX Test Document"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Left",
+          "Center",
+          "Right"
+        ],
+        [
+          "A1",
+          "B1",
+          "C1"
+        ],
+        [
+          "A2",
+          "B2",
+          "C2"
+        ]
+      ],
+      "markdown": "| Left | Center | Right |\n| --- | --- | --- |\n| A1 | B1 | C1 |\n| A2 | B2 | C2 |\n",
+      "page_number": 0
+    }
+  ],
+  "content": {
+    "html": "<p><strong>title</strong>: LaTeX Test Document</p>\n<p><strong>author</strong>: Dr. Carol White \\and Prof. David Brown</p>\n<p><strong>date</strong>: September 2025</p>\n<p>This is a LaTeX document for testing pandoc extraction.</p>\n<p>It includes mathematical equations and special formatting.</p>\n<h1>Introduction</h1>\n<p>LaTeX is widely used for academic and scientific documents.</p>\n<p>This document tests pandoc’s ability to extract content and metadata from LaTeX sources.</p>\n<h1>Mathematical Content</h1>\n<p>The quadratic formula is given by:</p>\n<p><span data-math-style=\"display\">\\begin{equation}\nx = \\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}\n\\end{equation}</span></p>\n<p>Inline math also works: $E = mc^2$.</p>\n<h1>Lists and Formatting</h1>\n<h2>Enumerated List</h2>\n<ol>\n<li>First item</li>\n<li>Second item with <strong>bold text</strong></li>\n<li>Third item with <em>italic text</em></li>\n</ol>\n<h2>Itemized List</h2>\n<ul>\n<li>Bullet point one</li>\n<li>Bullet point two</li>\n<li>Nested items:\n<ul>\n<li>Sub-item A</li>\n<li>Sub-item B</li>\n</ul>\n</li>\n</ul>\n<h1>Tables</h1>\n<table>\n<thead>\n<tr>\n<th>Left</th>\n<th>Center</th>\n<th>Right</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A1</td>\n<td>B1</td>\n<td>C1</td>\n</tr>\n<tr>\n<td>A2</td>\n<td>B2</td>\n<td>C2</td>\n</tr>\n</tbody>\n</table>\n<p>Sample Table</p>\n<h1>Conclusion</h1>\n<p>This document demonstrates LaTeX features for pandoc extraction testing.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a LaTeX document for testing pandoc extraction.\"},{\"type\":\"paragraph\",\"text\":\"It includes mathematical equations and special formatting.\"},{\"type\":\"section\",\"heading\":\"Introduction\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"LaTeX is widely used for academic and scientific documents.\"},{\"type\":\"paragraph\",\"text\":\"This document tests pandoc’s ability to extract content and metadata from LaTeX sources.\"}]},{\"type\":\"section\",\"heading\":\"Mathematical Content\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"The quadratic formula is given by:\"},{\"type\":\"formula\",\"text\":\"\\\\begin{equation}\\nx = \\\\frac{-b \\\\pm \\\\sqrt{b^2-4ac}}{2a}\\n\\\\end{equation}\"},{\"type\":\"paragraph\",\"text\":\"Inline math also works: $E = mc^2$.\"}]},{\"type\":\"section\",\"heading\":\"Lists and Formatting\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Enumerated List\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":true,\"items\":[\"First item\",\"Second item with bold text\",\"Third item with italic text\"]}]},{\"type\":\"section\",\"heading\":\"Itemized List\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"Bullet point one\",\"Bullet point two\",\"Nested items:\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Sub-item A\",\"Sub-item B\"]}]}]},{\"type\":\"section\",\"heading\":\"Tables\",\"level\":1,\"body\":[{\"type\":\"table\",\"headers\":[\"Left\",\"Center\",\"Right\"],\"rows\":[[\"A1\",\"B1\",\"C1\"],[\"A2\",\"B2\",\"C2\"]]},{\"type\":\"paragraph\",\"text\":\"Sample Table\"}]},{\"type\":\"section\",\"heading\":\"Conclusion\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This document demonstrates LaTeX features for pandoc extraction testing.\"}]}]}",
+    "markdown": "**title**: LaTeX Test Document\n\n**author**: Dr. Carol White \\\\and Prof. David Brown\n\n**date**: September 2025\n\nThis is a LaTeX document for testing pandoc extraction.\n\nIt includes mathematical equations and special formatting.\n\n# Introduction\n\nLaTeX is widely used for academic and scientific documents.\n\nThis document tests pandoc’s ability to extract content and metadata from LaTeX sources.\n\n# Mathematical Content\n\nThe quadratic formula is given by:\n\n$$\\begin{equation}\nx = \\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}\n\\end{equation}$$\n\nInline math also works: $E = mc^2$.\n\n# Lists and Formatting\n\n## Enumerated List\n\n1. First item\n2. Second item with **bold text**\n3. Third item with *italic text*\n\n## Itemized List\n\n- Bullet point one\n- Bullet point two\n- Nested items:\n  - Sub-item A\n  - Sub-item B\n\n# Tables\n\n| Left | Center | Right |\n| --- | --- | --- |\n| A1 | B1 | C1 |\n| A2 | B2 | C2 |\n\nSample Table\n\n# Conclusion\n\nThis document demonstrates LaTeX features for pandoc extraction testing.\n",
+    "plain": "title: LaTeX Test Document\nauthor: Dr. Carol White \\and Prof. David Brown\ndate: September 2025\n\nThis is a LaTeX document for testing pandoc extraction.\n\nIt includes mathematical equations and special formatting.\n\nIntroduction\nLaTeX is widely used for academic and scientific documents.\n\nThis document tests pandoc’s ability to extract content and metadata from LaTeX sources.\n\nMathematical Content\nThe quadratic formula is given by:\n\n\\begin{equation}\nx = \\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}\n\\end{equation}\n\nInline math also works: $E = mc^2$.\n\nLists and Formatting\n  Enumerated List\nFirst item\nSecond item with bold text\nThird item with italic text\n\n  Itemized List\nBullet point one\nBullet point two\nNested items:\nSub-item A\nSub-item B\nTables\nLeft Center Right\nA1 B1 C1\nA2 B2 C2\n\nSample Table\n\nConclusion\nThis document demonstrates LaTeX features for pandoc extraction testing."
+  }
+}

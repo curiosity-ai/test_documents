@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/docx_grouped_images.docx.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 21,
+      "word_count": 54,
+      "character_count": 334
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/md/docx_grouped_images.docx.txt",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/md/docx_grouped_images.docx.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>## Grouped images</p>\n<p>&lt;!-- image --&gt;</p>\n<p>&lt;!-- image --&gt;</p>\n<p>There are 2 pictures grouped together</p>\n<p>&lt;!-- image --&gt;</p>\n<p>&lt;!-- image --&gt;</p>\n<p>There are 2 pictures ungrouped, each wrapped “Top and bottom”</p>\n<p>## Ungrouped images</p>\n<p>There are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs</p>\n<p>&lt;!-- image --&gt;</p>\n<p>&lt;!-- image --&gt;</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"## Grouped images\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"There are 2 pictures grouped together\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"There are 2 pictures ungrouped, each wrapped “Top and bottom”\"},{\"type\":\"paragraph\",\"text\":\"## Ungrouped images\"},{\"type\":\"paragraph\",\"text\":\"There are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"}]}",
+    "markdown": "\\#\\# Grouped images\n\n\\<\\!-- image --\\>\n\n\\<\\!-- image --\\>\n\nThere are 2 pictures grouped together\n\n\\<\\!-- image --\\>\n\n\\<\\!-- image --\\>\n\nThere are 2 pictures ungrouped, each wrapped “Top and bottom”\n\n\\#\\# Ungrouped images\n\nThere are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs\n\n\\<\\!-- image --\\>\n\n\\<\\!-- image --\\>\n",
+    "plain": "## Grouped images\n\n<!-- image -->\n\n<!-- image -->\n\nThere are 2 pictures grouped together\n\n<!-- image -->\n\n<!-- image -->\n\nThere are 2 pictures ungrouped, each wrapped “Top and bottom”\n\n## Ungrouped images\n\nThere are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs\n\n<!-- image -->\n\n<!-- image -->"
+  }
+}

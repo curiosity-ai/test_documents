@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/rtf/footnote.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 5,
+      "word_count": 59,
+      "character_count": 362
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/rtf/footnote.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/rtf/footnote.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Mead's landmark study has been amply annotated.[1] It washer work in America during the Second World War, however, that formsthe basis for the paper. As others have noted,[2]this period was a turning point for Margaret Mead.</p>\n<p>[1] See Sahlins, Bateson, and Geertz for a complete bibliography.</p>\n<p>[2] A complete bibliography will be found at the end of this chapter.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Mead's landmark study has been amply annotated.[1] It washer work in America during the Second World War, however, that formsthe basis for the paper. As others have noted,[2]this period was a turning point for Margaret Mead.\"},{\"type\":\"paragraph\",\"text\":\"[1] See Sahlins, Bateson, and Geertz for a complete bibliography.\"},{\"type\":\"paragraph\",\"text\":\"[2] A complete bibliography will be found at the end of this chapter.\"}]}",
+    "markdown": "Mead's landmark study has been amply annotated.[1] It washer work in America during the Second World War, however, that formsthe basis for the paper. As others have noted,[2]this period was a turning point for Margaret Mead.\n\n[1] See Sahlins, Bateson, and Geertz for a complete bibliography.\n\n[2] A complete bibliography will be found at the end of this chapter.\n",
+    "plain": "Mead's landmark study has been amply annotated.[1] It washer work in America during the Second World War, however, that formsthe basis for the paper. As others have noted,[2]this period was a turning point for Margaret Mead.\n\n[1] See Sahlins, Bateson, and Geertz for a complete bibliography.\n\n[2] A complete bibliography will be found at the end of this chapter."
+  }
+}

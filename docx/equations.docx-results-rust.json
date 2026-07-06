@@ -1,0 +1,77 @@
+{
+  "file": "docx/equations.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Rafael Teixeira de Lima"
+    ],
+    "created_at": "2025-01-13T20:20:00Z",
+    "modified_at": "2025-01-28T14:09:00Z",
+    "created_by": "Rafael Teixeira de Lima",
+    "modified_by": "Rafael Teixeira de Lima",
+    "format": {
+      "format_type": "docx",
+      "core_properties": {
+        "title": null,
+        "subject": null,
+        "creator": "Rafael Teixeira de Lima",
+        "keywords": null,
+        "description": null,
+        "last_modified_by": "Rafael Teixeira de Lima",
+        "revision": "6",
+        "created": "2025-01-13T20:20:00Z",
+        "modified": "2025-01-28T14:09:00Z",
+        "category": null,
+        "content_status": null,
+        "language": null,
+        "identifier": null,
+        "version": null,
+        "last_printed": null
+      },
+      "app_properties": {
+        "application": "Microsoft Office Word",
+        "app_version": "16.0000",
+        "template": "Normal.dotm",
+        "total_time": 6,
+        "pages": 1,
+        "words": 253,
+        "characters": 1444,
+        "characters_with_spaces": 1694,
+        "lines": 12,
+        "paragraphs": 3,
+        "company": null,
+        "doc_security": 0,
+        "scale_crop": false,
+        "links_up_to_date": false,
+        "shared_doc": false,
+        "hyperlinks_changed": false
+      },
+      "custom_properties": {}
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "word_count": 253,
+      "source_uri": "docx/equations.docx",
+      "character_count": 1444,
+      "total_editing_time_minutes": 6,
+      "page_count": 1,
+      "paragraph_count": 3,
+      "source_index": 0,
+      "line_count": 12,
+      "source_kind": "uri",
+      "application": "Microsoft Office Word",
+      "template": "Normal.dotm",
+      "revision": "6",
+      "final_uri": "docx/equations.docx"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><span data-math-style=\"display\">A=\\pi r^{2} </span></p>\n<p>This is a word document and this is an inline equation: . If instead, I want an equation by line, I can do this:</p>\n<p><span data-math-style=\"display\">\\begin{aligned}a^{2}+b^{2}=c^{2} \\times  23\\end{aligned}</span></p>\n<p>And that is an equation by itself. Cheers!</p>\n<p>This is another equation:</p>\n<p><span data-math-style=\"display\">\\begin{aligned}f\\left(x\\right)=a_{0}+\\sum_{n=1}^{\\infty }{\\left(a_{n}\\cos{\\frac{n\\pi x}{L}}+b_{n}\\sin{\\frac{n\\pi x}{L}}\\right)}\\end{aligned}</span></p>\n<p>This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. </p>\n<p><span data-math-style=\"display\">A=\\pi r^{2} </span></p>\n<p>This is a word document and this is an inline equation: . If instead, I want an equation by line, I can do this:</p>\n<p><span data-math-style=\"display\">\\left(x+a\\right)^{n}=\\sum_{k=0}^{n}{\\left(\\binom{n}{k}\\right)x^{k}a^{n-k}}</span></p>\n<p>And that is an equation by itself. Cheers!</p>\n<p>This is another equation:</p>\n<p><span data-math-style=\"display\">\\left(1+x\\right)^{n}=1+\\frac{nx}{1!}+\\frac{n\\left(n-1\\right)x^{2}}{2!}+\\ldots </span></p>\n<p>This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. </p>\n<p><span data-math-style=\"display\">A=\\pi r^{2} </span></p>\n<p>This is a word document and this is an inline equation: . If instead, I want an equation by line, I can do this:</p>\n<p><span data-math-style=\"display\">e^{x}=1+\\frac{x}{1!}+\\frac{x^{2}}{2!}+\\frac{x^{3}}{3!}+\\ldots ,  -\\infty x\\infty </span></p>\n<p>And that is an equation by itself. Cheers! </p>\n",
+    "json": "{\"body\":[{\"type\":\"formula\",\"text\":\"A=\\\\pi r^{2} \"},{\"type\":\"paragraph\",\"text\":\"This is a word document and this is an inline equation: . If instead, I want an equation by line, I can do this:\"},{\"type\":\"formula\",\"text\":\"\\\\begin{aligned}a^{2}+b^{2}=c^{2} \\\\times  23\\\\end{aligned}\"},{\"type\":\"paragraph\",\"text\":\"And that is an equation by itself. Cheers!\"},{\"type\":\"paragraph\",\"text\":\"This is another equation:\"},{\"type\":\"formula\",\"text\":\"\\\\begin{aligned}f\\\\left(x\\\\right)=a_{0}+\\\\sum_{n=1}^{\\\\infty }{\\\\left(a_{n}\\\\cos{\\\\frac{n\\\\pi x}{L}}+b_{n}\\\\sin{\\\\frac{n\\\\pi x}{L}}\\\\right)}\\\\end{aligned}\"},{\"type\":\"paragraph\",\"text\":\"This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. \"},{\"type\":\"formula\",\"text\":\"A=\\\\pi r^{2} \"},{\"type\":\"paragraph\",\"text\":\"This is a word document and this is an inline equation: . If instead, I want an equation by line, I can do this:\"},{\"type\":\"formula\",\"text\":\"\\\\left(x+a\\\\right)^{n}=\\\\sum_{k=0}^{n}{\\\\left(\\\\binom{n}{k}\\\\right)x^{k}a^{n-k}}\"},{\"type\":\"paragraph\",\"text\":\"And that is an equation by itself. Cheers!\"},{\"type\":\"paragraph\",\"text\":\"This is another equation:\"},{\"type\":\"formula\",\"text\":\"\\\\left(1+x\\\\right)^{n}=1+\\\\frac{nx}{1!}+\\\\frac{n\\\\left(n-1\\\\right)x^{2}}{2!}+\\\\ldots \"},{\"type\":\"paragraph\",\"text\":\"This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. \"},{\"type\":\"formula\",\"text\":\"A=\\\\pi r^{2} \"},{\"type\":\"paragraph\",\"text\":\"This is a word document and this is an inline equation: . If instead, I want an equation by line, I can do this:\"},{\"type\":\"formula\",\"text\":\"e^{x}=1+\\\\frac{x}{1!}+\\\\frac{x^{2}}{2!}+\\\\frac{x^{3}}{3!}+\\\\ldots ,  -\\\\infty x\\\\infty \"},{\"type\":\"paragraph\",\"text\":\"And that is an equation by itself. Cheers! \"}]}",
+    "markdown": "$$A=\\pi r^{2} $$\n\nThis is a word document and this is an inline equation: . If instead, I want an equation by line, I can do this:\n\n$$\\begin{aligned}a^{2}+b^{2}=c^{2} \\times  23\\end{aligned}$$\n\nAnd that is an equation by itself. Cheers\\!\n\nThis is another equation:\n\n$$\\begin{aligned}f\\left(x\\right)=a_{0}+\\sum_{n=1}^{\\infty }{\\left(a_{n}\\cos{\\frac{n\\pi x}{L}}+b_{n}\\sin{\\frac{n\\pi x}{L}}\\right)}\\end{aligned}$$\n\nThis is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. \n\n$$A=\\pi r^{2} $$\n\nThis is a word document and this is an inline equation: . If instead, I want an equation by line, I can do this:\n\n$$\\left(x+a\\right)^{n}=\\sum_{k=0}^{n}{\\left(\\binom{n}{k}\\right)x^{k}a^{n-k}}$$\n\nAnd that is an equation by itself. Cheers\\!\n\nThis is another equation:\n\n$$\\left(1+x\\right)^{n}=1+\\frac{nx}{1!}+\\frac{n\\left(n-1\\right)x^{2}}{2!}+\\ldots $$\n\nThis is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. \n\n$$A=\\pi r^{2} $$\n\nThis is a word document and this is an inline equation: . If instead, I want an equation by line, I can do this:\n\n$$e^{x}=1+\\frac{x}{1!}+\\frac{x^{2}}{2!}+\\frac{x^{3}}{3!}+\\ldots ,  -\\infty x\\infty $$\n\nAnd that is an equation by itself. Cheers\\!\n",
+    "plain": "A=\\pi r^{2} \n\nThis is a word document and this is an inline equation: . If instead, I want an equation by line, I can do this:\n\n\\begin{aligned}a^{2}+b^{2}=c^{2} \\times  23\\end{aligned}\n\nAnd that is an equation by itself. Cheers!\n\nThis is another equation:\n\n\\begin{aligned}f\\left(x\\right)=a_{0}+\\sum_{n=1}^{\\infty }{\\left(a_{n}\\cos{\\frac{n\\pi x}{L}}+b_{n}\\sin{\\frac{n\\pi x}{L}}\\right)}\\end{aligned}\n\nThis is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. \n\nA=\\pi r^{2} \n\nThis is a word document and this is an inline equation: . If instead, I want an equation by line, I can do this:\n\n\\left(x+a\\right)^{n}=\\sum_{k=0}^{n}{\\left(\\binom{n}{k}\\right)x^{k}a^{n-k}}\n\nAnd that is an equation by itself. Cheers!\n\nThis is another equation:\n\n\\left(1+x\\right)^{n}=1+\\frac{nx}{1!}+\\frac{n\\left(n-1\\right)x^{2}}{2!}+\\ldots \n\nThis is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. This is text. \n\nA=\\pi r^{2} \n\nThis is a word document and this is an inline equation: . If instead, I want an equation by line, I can do this:\n\ne^{x}=1+\\frac{x}{1!}+\\frac{x^{2}}{2!}+\\frac{x^{3}}{3!}+\\ldots ,  -\\infty x\\infty \n\nAnd that is an equation by itself. Cheers!"
+  }
+}

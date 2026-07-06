@@ -1,0 +1,12 @@
+{
+  "file": "images/layout_parser_ocr.jpg",
+  "mime_type": "image/jpeg",
+  "success": false,
+  "error": "Unsupported format: image/jpeg",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/csv-inconsistent-header.csv.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 6,
+      "word_count": 45,
+      "character_count": 149
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/md/csv-inconsistent-header.csv.txt",
+      "final_uri": "ground_truth/md/csv-inconsistent-header.csv.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>| 1 | 2 | 3 | | |-----|-----|-----|----| | a | b | c | d | | a | b | c | d | | a | b | c | d | | a | b | c | d |</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"| 1   | 2   | 3   |    |\\n|-----|-----|-----|----|\\n| a   | b   | c   | d  |\\n| a   | b   | c   | d  |\\n| a   | b   | c   | d  |\\n| a   | b   | c   | d  |\"}]}",
+    "markdown": "| 1 | 2 | 3 | | |-----|-----|-----|----| | a | b | c | d | | a | b | c | d | | a | b | c | d | | a | b | c | d |\n",
+    "plain": "| 1   | 2   | 3   |    |\n|-----|-----|-----|----|\n| a   | b   | c   | d  |\n| a   | b   | c   | d  |\n| a   | b   | c   | d  |\n| a   | b   | c   | d  |"
+  }
+}

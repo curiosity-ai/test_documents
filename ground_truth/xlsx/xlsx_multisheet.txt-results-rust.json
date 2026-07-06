@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/xlsx/xlsx_multisheet.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 9,
+      "word_count": 18,
+      "character_count": 73
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/xlsx/xlsx_multisheet.txt",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/xlsx/xlsx_multisheet.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Column 1 Column 2 a 1 b 2 c 3</p>\n<p>Product Value Tomato 1 Potato 1 Beetroot 2</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Column 1 Column 2\\na 1\\nb 2\\nc 3\"},{\"type\":\"paragraph\",\"text\":\"Product Value\\nTomato 1\\nPotato 1\\nBeetroot 2\"}]}",
+    "markdown": "Column 1 Column 2 a 1 b 2 c 3\n\nProduct Value Tomato 1 Potato 1 Beetroot 2\n",
+    "plain": "Column 1 Column 2\na 1\nb 2\nc 3\n\nProduct Value\nTomato 1\nPotato 1\nBeetroot 2"
+  }
+}

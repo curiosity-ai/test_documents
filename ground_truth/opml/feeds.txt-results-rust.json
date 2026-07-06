@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/opml/feeds.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 19,
+      "word_count": 14,
+      "character_count": 120
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/opml/feeds.txt",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/opml/feeds.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Technology</p>\n<p>Hacker News</p>\n<p>TechCrunch</p>\n<p>The Verge</p>\n<p>Programming</p>\n<p>Rust Blog</p>\n<p>Dev.to</p>\n<p>InfoQ</p>\n<p>Uncategorized</p>\n<p>Reddit Programming</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Technology\"},{\"type\":\"paragraph\",\"text\":\"Hacker News\"},{\"type\":\"paragraph\",\"text\":\"TechCrunch\"},{\"type\":\"paragraph\",\"text\":\"The Verge\"},{\"type\":\"paragraph\",\"text\":\"Programming\"},{\"type\":\"paragraph\",\"text\":\"Rust Blog\"},{\"type\":\"paragraph\",\"text\":\"Dev.to\"},{\"type\":\"paragraph\",\"text\":\"InfoQ\"},{\"type\":\"paragraph\",\"text\":\"Uncategorized\"},{\"type\":\"paragraph\",\"text\":\"Reddit Programming\"}]}",
+    "markdown": "Technology\n\nHacker News\n\nTechCrunch\n\nThe Verge\n\nProgramming\n\nRust Blog\n\nDev.to\n\nInfoQ\n\nUncategorized\n\nReddit Programming\n",
+    "plain": "Technology\n\nHacker News\n\nTechCrunch\n\nThe Verge\n\nProgramming\n\nRust Blog\n\nDev.to\n\nInfoQ\n\nUncategorized\n\nReddit Programming"
+  }
+}

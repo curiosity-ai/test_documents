@@ -1,0 +1,32 @@
+{
+  "file": "odt/metadata_test.odt",
+  "mime_type": "application/vnd.oasis.opendocument.text",
+  "success": true,
+  "metadata": {
+    "title": "Test Metadata Document",
+    "subject": "Testing ODT Metadata Extraction",
+    "authors": [
+      "John Doe"
+    ],
+    "created_at": "2025-12-08T15:26:04Z",
+    "modified_at": "2025-12-08T15:26:04Z",
+    "created_by": "John Doe",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "initial_creator": "John Doe",
+      "generator": "Pandoc/3.8.3",
+      "final_uri": "odt/metadata_test.odt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "odt/metadata_test.odt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Test Metadata Document</p>\n<p>John Doe</p>\n<h1>Test Document</h1>\n<p>This is a test document to verify metadata extraction.</p>\n<h2>Section 1</h2>\n<p>Some content here.</p>\n<h2>Section 2</h2>\n<p>More content here.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test Metadata Document\"},{\"type\":\"paragraph\",\"text\":\"John Doe\"},{\"type\":\"section\",\"heading\":\"Test Document\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a test document to verify metadata extraction.\"},{\"type\":\"section\",\"heading\":\"Section 1\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Some content here.\"}]},{\"type\":\"section\",\"heading\":\"Section 2\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"More content here.\"}]}]}]}",
+    "markdown": "Test Metadata Document\n\nJohn Doe\n\n# Test Document\n\nThis is a test document to verify metadata extraction.\n\n## Section 1\n\nSome content here.\n\n## Section 2\n\nMore content here.\n",
+    "plain": "Test Metadata Document\n\nJohn Doe\n\nTest Document\nThis is a test document to verify metadata extraction.\n\n  Section 1\nSome content here.\n\n  Section 2\nMore content here."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/docx/list_after_num_headers.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/docx/list_after_num_headers.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/docx/list_after_num_headers.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Chính sách bảo hành</h2>\n<h3>ĐỐI TƯỢNG ÁP DỤNG</h3>\n<ul>\n<li>Chính sách bảo hành và các điều k</li>\n<li>Pin điện áp cao (sau đây gọi tắt là “</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Chính sách bảo hành\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"ĐỐI TƯỢNG ÁP DỤNG\",\"level\":3,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"Chính sách bảo hành và các điều k\",\"Pin điện áp cao (sau đây gọi tắt là “\"]}]}]}]}",
+    "markdown": "## Chính sách bảo hành\n\n### ĐỐI TƯỢNG ÁP DỤNG\n\n- Chính sách bảo hành và các điều k\n- Pin điện áp cao (sau đây gọi tắt là “\n",
+    "plain": "  Chính sách bảo hành\n    ĐỐI TƯỢNG ÁP DỤNG\nChính sách bảo hành và các điều k\nPin điện áp cao (sau đây gọi tắt là “"
+  }
+}

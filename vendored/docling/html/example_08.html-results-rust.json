@@ -1,0 +1,397 @@
+{
+  "file": "vendored/docling/html/example_08.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "html",
+      "keywords": [],
+      "open_graph": {},
+      "twitter_card": {},
+      "meta_tags": {},
+      "headers": [
+        {
+          "level": 2,
+          "text": "Pivot table with with 1 row header",
+          "depth": 2,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "Pivot table with 2 row headers",
+          "depth": 2,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "Equivalent pivot table",
+          "depth": 2,
+          "html_offset": 0
+        }
+      ],
+      "links": [],
+      "images": [],
+      "structured_data": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/docling/html/example_08.html",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "vendored/docling/html/example_08.html"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Year",
+          "Month",
+          "Revenue",
+          "Cost"
+        ],
+        [
+          "2025",
+          "",
+          "",
+          ""
+        ],
+        [
+          "January",
+          "$134",
+          "$162",
+          ""
+        ],
+        [
+          "February",
+          "$150",
+          "$155",
+          ""
+        ],
+        [
+          "March",
+          "$160",
+          "$143",
+          ""
+        ],
+        [
+          "April",
+          "$210",
+          "$150",
+          ""
+        ],
+        [
+          "May",
+          "$280",
+          "$120",
+          ""
+        ]
+      ],
+      "markdown": "| Year | Month | Revenue | Cost |\n| --- | --- | --- | --- |\n| 2025 |  |  |  |\n| January | $134 | $162 |  |\n| February | $150 | $155 |  |\n| March | $160 | $143 |  |\n| April | $210 | $150 |  |\n| May | $280 | $120 |  |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Year",
+          "Quarter",
+          "Month",
+          "Revenue",
+          "Cost"
+        ],
+        [
+          "2025",
+          "Q1",
+          "",
+          "",
+          ""
+        ],
+        [
+          "January",
+          "$134",
+          "$162",
+          "",
+          ""
+        ],
+        [
+          "February",
+          "$150",
+          "$155",
+          "",
+          ""
+        ],
+        [
+          "March",
+          "$160",
+          "$143",
+          "",
+          ""
+        ],
+        [
+          "Q2",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "April",
+          "$210",
+          "$150",
+          "",
+          ""
+        ],
+        [
+          "May",
+          "$280",
+          "$120",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| Year | Quarter | Month | Revenue | Cost |\n| --- | --- | --- | --- | --- |\n| 2025 | Q1 |  |  |  |\n| January | $134 | $162 |  |  |\n| February | $150 | $155 |  |  |\n| March | $160 | $143 |  |  |\n| Q2 |  |  |  |  |\n| April | $210 | $150 |  |  |\n| May | $280 | $120 |  |  |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Year",
+          "Quarter",
+          "Month",
+          "Revenue",
+          "Cost"
+        ],
+        [
+          "2025",
+          "Q1",
+          "",
+          "",
+          ""
+        ],
+        [
+          "January",
+          "$134",
+          "$162",
+          "",
+          ""
+        ],
+        [
+          "February",
+          "$150",
+          "$155",
+          "",
+          ""
+        ],
+        [
+          "March",
+          "$160",
+          "$143",
+          "",
+          ""
+        ],
+        [
+          "Q2",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "April",
+          "$210",
+          "$150",
+          "",
+          ""
+        ],
+        [
+          "May",
+          "$280",
+          "$120",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| Year | Quarter | Month | Revenue | Cost |\n| --- | --- | --- | --- | --- |\n| 2025 | Q1 |  |  |  |\n| January | $134 | $162 |  |  |\n| February | $150 | $155 |  |  |\n| March | $160 | $143 |  |  |\n| Q2 |  |  |  |  |\n| April | $210 | $150 |  |  |\n| May | $280 | $120 |  |  |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Year",
+          "Month",
+          "Revenue",
+          "Cost"
+        ],
+        [
+          "2025",
+          "",
+          "",
+          ""
+        ],
+        [
+          "January",
+          "$134",
+          "$162",
+          ""
+        ],
+        [
+          "February",
+          "$150",
+          "$155",
+          ""
+        ],
+        [
+          "March",
+          "$160",
+          "$143",
+          ""
+        ],
+        [
+          "April",
+          "$210",
+          "$150",
+          ""
+        ],
+        [
+          "May",
+          "$280",
+          "$120",
+          ""
+        ]
+      ],
+      "markdown": "| Year | Month | Revenue | Cost |\n| --- | --- | --- | --- |\n| 2025 |  |  |  |\n| January | $134 | $162 |  |\n| February | $150 | $155 |  |\n| March | $160 | $143 |  |\n| April | $210 | $150 |  |\n| May | $280 | $120 |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Year",
+          "Quarter",
+          "Month",
+          "Revenue",
+          "Cost"
+        ],
+        [
+          "2025",
+          "Q1",
+          "",
+          "",
+          ""
+        ],
+        [
+          "January",
+          "$134",
+          "$162",
+          "",
+          ""
+        ],
+        [
+          "February",
+          "$150",
+          "$155",
+          "",
+          ""
+        ],
+        [
+          "March",
+          "$160",
+          "$143",
+          "",
+          ""
+        ],
+        [
+          "Q2",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "April",
+          "$210",
+          "$150",
+          "",
+          ""
+        ],
+        [
+          "May",
+          "$280",
+          "$120",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| Year | Quarter | Month | Revenue | Cost |\n| --- | --- | --- | --- | --- |\n| 2025 | Q1 |  |  |  |\n| January | $134 | $162 |  |  |\n| February | $150 | $155 |  |  |\n| March | $160 | $143 |  |  |\n| Q2 |  |  |  |  |\n| April | $210 | $150 |  |  |\n| May | $280 | $120 |  |  |\n",
+      "page_number": 2
+    },
+    {
+      "cells": [
+        [
+          "Year",
+          "Quarter",
+          "Month",
+          "Revenue",
+          "Cost"
+        ],
+        [
+          "2025",
+          "Q1",
+          "",
+          "",
+          ""
+        ],
+        [
+          "January",
+          "$134",
+          "$162",
+          "",
+          ""
+        ],
+        [
+          "February",
+          "$150",
+          "$155",
+          "",
+          ""
+        ],
+        [
+          "March",
+          "$160",
+          "$143",
+          "",
+          ""
+        ],
+        [
+          "Q2",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "April",
+          "$210",
+          "$150",
+          "",
+          ""
+        ],
+        [
+          "May",
+          "$280",
+          "$120",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| Year | Quarter | Month | Revenue | Cost |\n| --- | --- | --- | --- | --- |\n| 2025 | Q1 |  |  |  |\n| January | $134 | $162 |  |  |\n| February | $150 | $155 |  |  |\n| March | $160 | $143 |  |  |\n| Q2 |  |  |  |  |\n| April | $210 | $150 |  |  |\n| May | $280 | $120 |  |  |\n",
+      "page_number": 3
+    }
+  ],
+  "content": {
+    "html": "<h2>Pivot table with with 1 row header</h2>\n<table>\n<thead>\n<tr>\n<th>Year</th>\n<th>Month</th>\n<th>Revenue</th>\n<th>Cost</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2025</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>January</td>\n<td>$134</td>\n<td>$162</td>\n<td></td>\n</tr>\n<tr>\n<td>February</td>\n<td>$150</td>\n<td>$155</td>\n<td></td>\n</tr>\n<tr>\n<td>March</td>\n<td>$160</td>\n<td>$143</td>\n<td></td>\n</tr>\n<tr>\n<td>April</td>\n<td>$210</td>\n<td>$150</td>\n<td></td>\n</tr>\n<tr>\n<td>May</td>\n<td>$280</td>\n<td>$120</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2>Pivot table with 2 row headers</h2>\n<table>\n<thead>\n<tr>\n<th>Year</th>\n<th>Quarter</th>\n<th>Month</th>\n<th>Revenue</th>\n<th>Cost</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2025</td>\n<td>Q1</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>January</td>\n<td>$134</td>\n<td>$162</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>February</td>\n<td>$150</td>\n<td>$155</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>March</td>\n<td>$160</td>\n<td>$143</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Q2</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>April</td>\n<td>$210</td>\n<td>$150</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>May</td>\n<td>$280</td>\n<td>$120</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2>Equivalent pivot table</h2>\n<table>\n<thead>\n<tr>\n<th>Year</th>\n<th>Quarter</th>\n<th>Month</th>\n<th>Revenue</th>\n<th>Cost</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2025</td>\n<td>Q1</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>January</td>\n<td>$134</td>\n<td>$162</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>February</td>\n<td>$150</td>\n<td>$155</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>March</td>\n<td>$160</td>\n<td>$143</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Q2</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>April</td>\n<td>$210</td>\n<td>$150</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>May</td>\n<td>$280</td>\n<td>$120</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Pivot table with with 1 row header\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Year\",\"Month\",\"Revenue\",\"Cost\"],\"rows\":[[\"2025\",\"\",\"\",\"\"],[\"January\",\"$134\",\"$162\",\"\"],[\"February\",\"$150\",\"$155\",\"\"],[\"March\",\"$160\",\"$143\",\"\"],[\"April\",\"$210\",\"$150\",\"\"],[\"May\",\"$280\",\"$120\",\"\"]]}]},{\"type\":\"section\",\"heading\":\"Pivot table with 2 row headers\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Year\",\"Quarter\",\"Month\",\"Revenue\",\"Cost\"],\"rows\":[[\"2025\",\"Q1\",\"\",\"\",\"\"],[\"January\",\"$134\",\"$162\",\"\",\"\"],[\"February\",\"$150\",\"$155\",\"\",\"\"],[\"March\",\"$160\",\"$143\",\"\",\"\"],[\"Q2\",\"\",\"\",\"\",\"\"],[\"April\",\"$210\",\"$150\",\"\",\"\"],[\"May\",\"$280\",\"$120\",\"\",\"\"]]}]},{\"type\":\"section\",\"heading\":\"Equivalent pivot table\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Year\",\"Quarter\",\"Month\",\"Revenue\",\"Cost\"],\"rows\":[[\"2025\",\"Q1\",\"\",\"\",\"\"],[\"January\",\"$134\",\"$162\",\"\",\"\"],[\"February\",\"$150\",\"$155\",\"\",\"\"],[\"March\",\"$160\",\"$143\",\"\",\"\"],[\"Q2\",\"\",\"\",\"\",\"\"],[\"April\",\"$210\",\"$150\",\"\",\"\"],[\"May\",\"$280\",\"$120\",\"\",\"\"]]}]}]}",
+    "markdown": "## Pivot table with with 1 row header\n\n| Year | Month    | Revenue | Cost |\n| ---- | -------- | ------- | ---- |\n| 2025 |\n|      | January  | $134    | $162 |\n|      | February | $150    | $155 |\n|      | March    | $160    | $143 |\n|      | April    | $210    | $150 |\n|      | May      | $280    | $120 |\n\n## Pivot table with 2 row headers\n\n| Year | Quarter | Month    | Revenue | Cost |\n| ---- | ------- | -------- | ------- | ---- |\n| 2025 | Q1      |\n|      |         | January  | $134    | $162 |\n|      |         | February | $150    | $155 |\n|      |         | March    | $160    | $143 |\n|      | Q2      |\n|      |         | April    | $210    | $150 |\n|      |         | May      | $280    | $120 |\n\n## Equivalent pivot table\n\n| Year | Quarter | Month    | Revenue | Cost |\n| ---- | ------- | -------- | ------- | ---- |\n| 2025 | Q1      |\n|      |         | January  | $134    | $162 |\n|      |         | February | $150    | $155 |\n|      |         | March    | $160    | $143 |\n|      | Q2      |\n|      |         | April    | $210    | $150 |\n|      |         | May      | $280    | $120 |\n",
+    "plain": "  Pivot table with with 1 row header\nYear Month Revenue Cost\n2025   \nJanuary $134 $162 \nFebruary $150 $155 \nMarch $160 $143 \nApril $210 $150 \nMay $280 $120 \n\n  Pivot table with 2 row headers\nYear Quarter Month Revenue Cost\n2025 Q1   \nJanuary $134 $162  \nFebruary $150 $155  \nMarch $160 $143  \nQ2    \nApril $210 $150  \nMay $280 $120  \n\n  Equivalent pivot table\nYear Quarter Month Revenue Cost\n2025 Q1   \nJanuary $134 $162  \nFebruary $150 $155  \nMarch $160 $143  \nQ2    \nApril $210 $150  \nMay $280 $120"
+  }
+}

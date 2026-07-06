@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/opml/podcasts.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 19,
+      "word_count": 29,
+      "character_count": 203
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/opml/podcasts.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/opml/podcasts.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Technology Podcasts</p>\n<p>The Joe Rogan Experience</p>\n<p>Syntax - Tasty Web Development Treats</p>\n<p>React Native Radio</p>\n<p>Business &amp; Startups</p>\n<p>Acquired</p>\n<p>Masters of Scale</p>\n<p>Science &amp; Nature</p>\n<p>StarTalk Radio</p>\n<p>Nature Podcast</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Technology Podcasts\"},{\"type\":\"paragraph\",\"text\":\"The Joe Rogan Experience\"},{\"type\":\"paragraph\",\"text\":\"Syntax - Tasty Web Development Treats\"},{\"type\":\"paragraph\",\"text\":\"React Native Radio\"},{\"type\":\"paragraph\",\"text\":\"Business & Startups\"},{\"type\":\"paragraph\",\"text\":\"Acquired\"},{\"type\":\"paragraph\",\"text\":\"Masters of Scale\"},{\"type\":\"paragraph\",\"text\":\"Science & Nature\"},{\"type\":\"paragraph\",\"text\":\"StarTalk Radio\"},{\"type\":\"paragraph\",\"text\":\"Nature Podcast\"}]}",
+    "markdown": "Technology Podcasts\n\nThe Joe Rogan Experience\n\nSyntax - Tasty Web Development Treats\n\nReact Native Radio\n\nBusiness & Startups\n\nAcquired\n\nMasters of Scale\n\nScience & Nature\n\nStarTalk Radio\n\nNature Podcast\n",
+    "plain": "Technology Podcasts\n\nThe Joe Rogan Experience\n\nSyntax - Tasty Web Development Treats\n\nReact Native Radio\n\nBusiness & Startups\n\nAcquired\n\nMasters of Scale\n\nScience & Nature\n\nStarTalk Radio\n\nNature Podcast"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/pdf/chart_bar.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Quarterly Revenue Performance",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/chart_bar.md",
+      "source_uri": "ground_truth/pdf/chart_bar.md",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Quarterly Revenue Performance</h1>\n<p>Bar chart showing quarterly revenue data for 2024.</p>\n<p><strong>Title:</strong> Quarterly Revenue Performance</p>\n<p><strong>X-axis:</strong> Quarter (Q1, Q2, Q3, Q4)</p>\n<p><strong>Y-axis:</strong> Revenue ($M)</p>\n<p><strong>Data Series:</strong></p>\n<ul>\n<li>Q1: 25</li>\n<li>Q2: 40</li>\n<li>Q3: 35</li>\n<li>Q4: 50</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Quarterly Revenue Performance\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Bar chart showing quarterly revenue data for 2024.\"},{\"type\":\"paragraph\",\"text\":\"Title: Quarterly Revenue Performance\"},{\"type\":\"paragraph\",\"text\":\"X-axis: Quarter (Q1, Q2, Q3, Q4)\"},{\"type\":\"paragraph\",\"text\":\"Y-axis: Revenue ($M)\"},{\"type\":\"paragraph\",\"text\":\"Data Series:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Q1: 25\",\"Q2: 40\",\"Q3: 35\",\"Q4: 50\"]}]}]}",
+    "markdown": "# Quarterly Revenue Performance\n\nBar chart showing quarterly revenue data for 2024.\n\n**Title:** Quarterly Revenue Performance\n\n**X-axis:** Quarter (Q1, Q2, Q3, Q4)\n\n**Y-axis:** Revenue ($M)\n\n**Data Series:**\n\n- Q1: 25\n- Q2: 40\n- Q3: 35\n- Q4: 50\n",
+    "plain": "Quarterly Revenue Performance\nBar chart showing quarterly revenue data for 2024.\n\nTitle: Quarterly Revenue Performance\n\nX-axis: Quarter (Q1, Q2, Q3, Q4)\n\nY-axis: Revenue ($M)\n\nData Series:\n\nQ1: 25\nQ2: 40\nQ3: 35\nQ4: 50"
+  }
+}

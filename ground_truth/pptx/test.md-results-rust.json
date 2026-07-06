@@ -1,0 +1,61 @@
+{
+  "file": "ground_truth/pptx/test.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/pptx/test.md",
+      "source_uri": "ground_truth/pptx/test.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "ColA",
+          "ColB",
+          "ColC",
+          "ColD",
+          "ColE",
+          "ColF"
+        ],
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        [
+          "7",
+          "8",
+          "9",
+          "1b92870d-e3b5-4e65-8153-919f4ff45592",
+          "11",
+          "12"
+        ],
+        [
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ]
+      ],
+      "markdown": "| ColA | ColB | ColC | ColD | ColE | ColF |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 | 6 |\n| 7 | 8 | 9 | 1b92870d-e3b5-4e65-8153-919f4ff45592 | 11 | 12 |\n| 13 | 14 | 15 | 16 | 17 | 18 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h2>AutoGen : Enabling Next-Gen LLM Applications via Multi-Agent Conversation</h2>\n<p>Qingyun Wu , Gagan Bansal , Jieyu Zhang, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu , Ahmed Awadallah, Ryen W. White, Doug Burger, Chi Wang</p>\n<h2>2cdda5c8-e50e-4db4-b5f0-9722a649f455</h2>\n<p>![The first page of the AutoGen ArXiv paper. 44bf7d06-5e7a-4a40-a2e1-a2e42ef28c8a](../media/image1.jpeg)</p>\n<p>AutoGen is an open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks. AutoGen agents are customizable, conversable, and can operate in various modes that employ combinations of LLMs, human inputs, and tools. Using AutoGen , developers can also flexibly define agent interaction behaviors. Both natural language and 04191ea8-5c73-4215-a1d3-1cfb43aaaf12 can be used to program flexible conversation patterns for different applications. AutoGen serves as a generic framework for building diverse applications of various complexities and LLM capacities. Empirical studies demonstrate the effectiveness of the framework in many example applications, with domains ranging from mathematics, coding, question answering, operations research, online decision-making, entertainment, etc.</p>\n<h2>A table to test parsing:</h2>\n<table>\n<thead>\n<tr>\n<th>ColA</th>\n<th>ColB</th>\n<th>ColC</th>\n<th>ColD</th>\n<th>ColE</th>\n<th>ColF</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n<td>1b92870d-e3b5-4e65-8153-919f4ff45592</td>\n<td>11</td>\n<td>12</td>\n</tr>\n<tr>\n<td>13</td>\n<td>14</td>\n<td>15</td>\n<td>16</td>\n<td>17</td>\n<td>18</td>\n</tr>\n</tbody>\n</table>\n<h2>A chart to test parsing:</h2>\n<h2>A Nested Shape parsing</h2>\n<ul>\n<li>Nested Shape</li>\n</ul>\n<p>This is a nested shape with content in 2 shapes</p>\n<ul>\n<li>**Comment 1</li>\n</ul>\n<p>**</p>\n<ul>\n<li>**Comment 2:</li>\n</ul>\n<p>**</p>\n<ul>\n<li>Sub comment 2</li>\n</ul>\n<p>-</p>\n<h2>These Test Strings are in the Image!</h2>\n<p>![This phrase of the caption is Human-written.](../media/image2.jpg)</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"AutoGen : Enabling Next-Gen LLM Applications via Multi-Agent Conversation\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Qingyun Wu , Gagan Bansal , Jieyu Zhang, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu , Ahmed Awadallah, Ryen W. White, Doug Burger, Chi Wang\"}]},{\"type\":\"section\",\"heading\":\"2cdda5c8-e50e-4db4-b5f0-9722a649f455\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"![The first page of the AutoGen ArXiv paper. 44bf7d06-5e7a-4a40-a2e1-a2e42ef28c8a](../media/image1.jpeg)\"},{\"type\":\"paragraph\",\"text\":\"AutoGen is an open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks. AutoGen agents are customizable, conversable, and can operate in various modes that employ combinations of LLMs, human inputs, and tools. Using AutoGen , developers can also flexibly define agent interaction behaviors. Both natural language and 04191ea8-5c73-4215-a1d3-1cfb43aaaf12 can be used to program flexible conversation patterns for different applications. AutoGen serves as a generic framework for building diverse applications of various complexities and LLM capacities. Empirical studies demonstrate the effectiveness of the framework in many example applications, with domains ranging from mathematics, coding, question answering, operations research, online decision-making, entertainment, etc.\"}]},{\"type\":\"section\",\"heading\":\"A table to test parsing:\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"ColA\",\"ColB\",\"ColC\",\"ColD\",\"ColE\",\"ColF\"],\"rows\":[[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\"],[\"7\",\"8\",\"9\",\"1b92870d-e3b5-4e65-8153-919f4ff45592\",\"11\",\"12\"],[\"13\",\"14\",\"15\",\"16\",\"17\",\"18\"]]}]},{\"type\":\"section\",\"heading\":\"A chart to test parsing:\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"A Nested Shape parsing\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"Nested Shape\"]},{\"type\":\"paragraph\",\"text\":\"This is a nested shape with content in 2 shapes\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"**Comment 1\"]},{\"type\":\"paragraph\",\"text\":\"**\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"**Comment 2:\"]},{\"type\":\"paragraph\",\"text\":\"**\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Sub comment 2\"]},{\"type\":\"paragraph\",\"text\":\"-\"}]},{\"type\":\"section\",\"heading\":\"These Test Strings are in the Image!\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"![This phrase of the caption is Human-written.](../media/image2.jpg)\"}]}]}",
+    "markdown": "## AutoGen : Enabling Next-Gen LLM Applications via Multi-Agent Conversation\n\nQingyun Wu , Gagan Bansal , Jieyu Zhang, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu , Ahmed Awadallah, Ryen W. White, Doug Burger, Chi Wang\n\n## 2cdda5c8-e50e-4db4-b5f0-9722a649f455\n\n\\![The first page of the AutoGen ArXiv paper. 44bf7d06-5e7a-4a40-a2e1-a2e42ef28c8a](../media/image1.jpeg)\n\nAutoGen is an open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks. AutoGen agents are customizable, conversable, and can operate in various modes that employ combinations of LLMs, human inputs, and tools. Using AutoGen , developers can also flexibly define agent interaction behaviors. Both natural language and 04191ea8-5c73-4215-a1d3-1cfb43aaaf12 can be used to program flexible conversation patterns for different applications. AutoGen serves as a generic framework for building diverse applications of various complexities and LLM capacities. Empirical studies demonstrate the effectiveness of the framework in many example applications, with domains ranging from mathematics, coding, question answering, operations research, online decision-making, entertainment, etc.\n\n## A table to test parsing:\n\n| ColA | ColB | ColC | ColD | ColE | ColF |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 | 6 |\n| 7 | 8 | 9 | 1b92870d-e3b5-4e65-8153-919f4ff45592 | 11 | 12 |\n| 13 | 14 | 15 | 16 | 17 | 18 |\n\n## A chart to test parsing:\n\n## A Nested Shape parsing\n\n- Nested Shape\n\nThis is a nested shape with content in 2 shapes\n\n- **Comment 1\n\n**\n\n- **Comment 2:\n\n**\n\n- Sub comment 2\n\n\\-\n\n## These Test Strings are in the Image\\!\n\n\\![This phrase of the caption is Human-written.](../media/image2.jpg)\n",
+    "plain": "  AutoGen : Enabling Next-Gen LLM Applications via Multi-Agent Conversation\nQingyun Wu , Gagan Bansal , Jieyu Zhang, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu , Ahmed Awadallah, Ryen W. White, Doug Burger, Chi Wang\n\n  2cdda5c8-e50e-4db4-b5f0-9722a649f455\n![The first page of the AutoGen ArXiv paper. 44bf7d06-5e7a-4a40-a2e1-a2e42ef28c8a](../media/image1.jpeg)\n\nAutoGen is an open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks. AutoGen agents are customizable, conversable, and can operate in various modes that employ combinations of LLMs, human inputs, and tools. Using AutoGen , developers can also flexibly define agent interaction behaviors. Both natural language and 04191ea8-5c73-4215-a1d3-1cfb43aaaf12 can be used to program flexible conversation patterns for different applications. AutoGen serves as a generic framework for building diverse applications of various complexities and LLM capacities. Empirical studies demonstrate the effectiveness of the framework in many example applications, with domains ranging from mathematics, coding, question answering, operations research, online decision-making, entertainment, etc.\n\n  A table to test parsing:\nColA ColB ColC ColD ColE ColF\n1 2 3 4 5 6\n7 8 9 1b92870d-e3b5-4e65-8153-919f4ff45592 11 12\n13 14 15 16 17 18\n\n  A chart to test parsing:\n\n  A Nested Shape parsing\nNested Shape\nThis is a nested shape with content in 2 shapes\n\n**Comment 1\n**\n\n**Comment 2:\n**\n\nSub comment 2\n-\n\n  These Test Strings are in the Image!\n![This phrase of the caption is Human-written.](../media/image2.jpg)"
+  }
+}

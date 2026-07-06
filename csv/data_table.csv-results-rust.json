@@ -1,0 +1,119 @@
+{
+  "file": "csv/data_table.csv",
+  "mime_type": "text/csv",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "csv",
+      "row_count": 11,
+      "column_count": 5,
+      "has_header": true,
+      "column_types": [
+        "text",
+        "text",
+        "numeric",
+        "date",
+        "text"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "csv/data_table.csv",
+      "final_uri": "csv/data_table.csv",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Name",
+          "Department",
+          "Salary",
+          "Start Date",
+          "Active"
+        ],
+        [
+          "Alice Johnson",
+          "Engineering",
+          "95000",
+          "2020-01-15",
+          "true"
+        ],
+        [
+          "Bob Smith",
+          "Marketing",
+          "75000",
+          "2019-06-01",
+          "true"
+        ],
+        [
+          "Carol White",
+          "Sales",
+          "82000",
+          "2021-03-10",
+          "false"
+        ],
+        [
+          "David Brown",
+          "Engineering",
+          "105000",
+          "2018-11-20",
+          "true"
+        ],
+        [
+          "Emily Chen",
+          "HR",
+          "70000",
+          "2022-02-28",
+          "true"
+        ],
+        [
+          "Frank Davis",
+          "Operations",
+          "88000",
+          "2020-07-15",
+          "false"
+        ],
+        [
+          "Grace Lee",
+          "Marketing",
+          "79000",
+          "2021-09-01",
+          "true"
+        ],
+        [
+          "Henry Wilson",
+          "Engineering",
+          "115000",
+          "2017-04-12",
+          "true"
+        ],
+        [
+          "Isabella Martinez",
+          "Sales",
+          "91000",
+          "2019-12-05",
+          "true"
+        ],
+        [
+          "Jack Thompson",
+          "HR",
+          "68000",
+          "2023-01-10",
+          "true"
+        ]
+      ],
+      "markdown": "| Name | Department | Salary | Start Date | Active |\n| --- | --- | --- | --- | --- |\n| Alice Johnson | Engineering | 95000 | 2020-01-15 | true |\n| Bob Smith | Marketing | 75000 | 2019-06-01 | true |\n| Carol White | Sales | 82000 | 2021-03-10 | false |\n| David Brown | Engineering | 105000 | 2018-11-20 | true |\n| Emily Chen | HR | 70000 | 2022-02-28 | true |\n| Frank Davis | Operations | 88000 | 2020-07-15 | false |\n| Grace Lee | Marketing | 79000 | 2021-09-01 | true |\n| Henry Wilson | Engineering | 115000 | 2017-04-12 | true |\n| Isabella Martinez | Sales | 91000 | 2019-12-05 | true |\n| Jack Thompson | HR | 68000 | 2023-01-10 | true |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>Row 1: Name: Alice Johnson Department: Engineering Salary: 95000 Start Date: 2020-01-15 Active: true Row 2: Name: Bob Smith Department: Marketing Salary: 75000 Start Date: 2019-06-01 Active: true Row 3: Name: Carol White Department: Sales Salary: 82000 Start Date: 2021-03-10 Active: false Row 4: Name: David Brown Department: Engineering Salary: 105000 Start Date: 2018-11-20 Active: true Row 5: Name: Emily Chen Department: HR Salary: 70000 Start Date: 2022-02-28 Active: true Row 6: Name: Frank Davis Department: Operations Salary: 88000 Start Date: 2020-07-15 Active: false Row 7: Name: Grace Lee Department: Marketing Salary: 79000 Start Date: 2021-09-01 Active: true Row 8: Name: Henry Wilson Department: Engineering Salary: 115000 Start Date: 2017-04-12 Active: true Row 9: Name: Isabella Martinez Department: Sales Salary: 91000 Start Date: 2019-12-05 Active: true Row 10: Name: Jack Thompson Department: HR Salary: 68000 Start Date: 2023-01-10 Active: true</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Row 1:\\nName: Alice Johnson\\nDepartment: Engineering\\nSalary: 95000\\nStart Date: 2020-01-15\\nActive: true\\n\\nRow 2:\\nName: Bob Smith\\nDepartment: Marketing\\nSalary: 75000\\nStart Date: 2019-06-01\\nActive: true\\n\\nRow 3:\\nName: Carol White\\nDepartment: Sales\\nSalary: 82000\\nStart Date: 2021-03-10\\nActive: false\\n\\nRow 4:\\nName: David Brown\\nDepartment: Engineering\\nSalary: 105000\\nStart Date: 2018-11-20\\nActive: true\\n\\nRow 5:\\nName: Emily Chen\\nDepartment: HR\\nSalary: 70000\\nStart Date: 2022-02-28\\nActive: true\\n\\nRow 6:\\nName: Frank Davis\\nDepartment: Operations\\nSalary: 88000\\nStart Date: 2020-07-15\\nActive: false\\n\\nRow 7:\\nName: Grace Lee\\nDepartment: Marketing\\nSalary: 79000\\nStart Date: 2021-09-01\\nActive: true\\n\\nRow 8:\\nName: Henry Wilson\\nDepartment: Engineering\\nSalary: 115000\\nStart Date: 2017-04-12\\nActive: true\\n\\nRow 9:\\nName: Isabella Martinez\\nDepartment: Sales\\nSalary: 91000\\nStart Date: 2019-12-05\\nActive: true\\n\\nRow 10:\\nName: Jack Thompson\\nDepartment: HR\\nSalary: 68000\\nStart Date: 2023-01-10\\nActive: true\"}]}",
+    "markdown": "Row 1: Name: Alice Johnson Department: Engineering Salary: 95000 Start Date: 2020-01-15 Active: true Row 2: Name: Bob Smith Department: Marketing Salary: 75000 Start Date: 2019-06-01 Active: true Row 3: Name: Carol White Department: Sales Salary: 82000 Start Date: 2021-03-10 Active: false Row 4: Name: David Brown Department: Engineering Salary: 105000 Start Date: 2018-11-20 Active: true Row 5: Name: Emily Chen Department: HR Salary: 70000 Start Date: 2022-02-28 Active: true Row 6: Name: Frank Davis Department: Operations Salary: 88000 Start Date: 2020-07-15 Active: false Row 7: Name: Grace Lee Department: Marketing Salary: 79000 Start Date: 2021-09-01 Active: true Row 8: Name: Henry Wilson Department: Engineering Salary: 115000 Start Date: 2017-04-12 Active: true Row 9: Name: Isabella Martinez Department: Sales Salary: 91000 Start Date: 2019-12-05 Active: true Row 10: Name: Jack Thompson Department: HR Salary: 68000 Start Date: 2023-01-10 Active: true\n",
+    "plain": "Row 1:\nName: Alice Johnson\nDepartment: Engineering\nSalary: 95000\nStart Date: 2020-01-15\nActive: true\n\nRow 2:\nName: Bob Smith\nDepartment: Marketing\nSalary: 75000\nStart Date: 2019-06-01\nActive: true\n\nRow 3:\nName: Carol White\nDepartment: Sales\nSalary: 82000\nStart Date: 2021-03-10\nActive: false\n\nRow 4:\nName: David Brown\nDepartment: Engineering\nSalary: 105000\nStart Date: 2018-11-20\nActive: true\n\nRow 5:\nName: Emily Chen\nDepartment: HR\nSalary: 70000\nStart Date: 2022-02-28\nActive: true\n\nRow 6:\nName: Frank Davis\nDepartment: Operations\nSalary: 88000\nStart Date: 2020-07-15\nActive: false\n\nRow 7:\nName: Grace Lee\nDepartment: Marketing\nSalary: 79000\nStart Date: 2021-09-01\nActive: true\n\nRow 8:\nName: Henry Wilson\nDepartment: Engineering\nSalary: 115000\nStart Date: 2017-04-12\nActive: true\n\nRow 9:\nName: Isabella Martinez\nDepartment: Sales\nSalary: 91000\nStart Date: 2019-12-05\nActive: true\n\nRow 10:\nName: Jack Thompson\nDepartment: HR\nSalary: 68000\nStart Date: 2023-01-10\nActive: true"
+  }
+}

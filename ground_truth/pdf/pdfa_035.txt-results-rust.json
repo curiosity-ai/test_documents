@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/pdfa_035.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 39,
+      "word_count": 65,
+      "character_count": 453
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/pdf/pdfa_035.txt",
+      "final_uri": "ground_truth/pdf/pdfa_035.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>MICHAEL TRINSEY MT24 MT04a fees. licensing of payment by obtained is Usage only. reference for is catalog online This Stock Laughing MT09 2003 © www.laughing-stock.com ph 508-460-6058 Trained as an illustrator but working as an art director� Michael creates his lively� colorful and conceptual illustrations to feel like cut paper��� although they are digital� He’s an accomplished woodworker� and spends many hours on house projects�</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"MICHAEL TRINSEY\\nMT24\\nMT04a\\nfees.\\nlicensing\\nof\\npayment\\nby\\nobtained\\nis\\nUsage\\nonly.\\nreference\\nfor\\nis\\ncatalog\\nonline\\nThis\\nStock\\nLaughing\\nMT09 2003\\n©\\nwww.laughing-stock.com\\nph 508-460-6058\\nTrained as an\\nillustrator but\\nworking as an art\\ndirector� Michael\\ncreates his lively�\\ncolorful and\\nconceptual\\nillustrations to feel\\nlike cut paper���\\nalthough they are\\ndigital� He’s an\\naccomplished\\nwoodworker� and\\nspends many hours\\non house projects�\"}]}",
+    "markdown": "MICHAEL TRINSEY MT24 MT04a fees. licensing of payment by obtained is Usage only. reference for is catalog online This Stock Laughing MT09 2003 © www.laughing-stock.com ph 508-460-6058 Trained as an illustrator but working as an art director� Michael creates his lively� colorful and conceptual illustrations to feel like cut paper��� although they are digital� He’s an accomplished woodworker� and spends many hours on house projects�\n",
+    "plain": "MICHAEL TRINSEY\nMT24\nMT04a\nfees.\nlicensing\nof\npayment\nby\nobtained\nis\nUsage\nonly.\nreference\nfor\nis\ncatalog\nonline\nThis\nStock\nLaughing\nMT09 2003\n©\nwww.laughing-stock.com\nph 508-460-6058\nTrained as an\nillustrator but\nworking as an art\ndirector� Michael\ncreates his lively�\ncolorful and\nconceptual\nillustrations to feel\nlike cut paper���\nalthough they are\ndigital� He’s an\naccomplished\nwoodworker� and\nspends many hours\non house projects�"
+  }
+}

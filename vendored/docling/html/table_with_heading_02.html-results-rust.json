@@ -1,0 +1,93 @@
+{
+  "file": "vendored/docling/html/table_with_heading_02.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "html",
+      "keywords": [],
+      "open_graph": {},
+      "twitter_card": {},
+      "meta_tags": {},
+      "headers": [
+        {
+          "level": 1,
+          "text": "Main Title",
+          "depth": 2,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "A",
+          "depth": 0,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "A",
+          "depth": 0,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "A",
+          "depth": 0,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "Section After",
+          "depth": 2,
+          "html_offset": 0
+        }
+      ],
+      "links": [],
+      "images": [],
+      "structured_data": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "vendored/docling/html/table_with_heading_02.html",
+      "final_uri": "vendored/docling/html/table_with_heading_02.html",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "A<br>text",
+          "B"
+        ],
+        [
+          "1...",
+          "2..."
+        ]
+      ],
+      "markdown": "| A<br>text | B |\n| --- | --- |\n| 1... | 2... |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "A<br>text",
+          "B"
+        ],
+        [
+          "1...",
+          "2..."
+        ]
+      ],
+      "markdown": "| A<br>text | B |\n| --- | --- |\n| 1... | 2... |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Main Title</h1>\n<p>Before the table</p>\n<table>\n<thead>\n<tr>\n<th>A&lt;br&gt;text</th>\n<th>B</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1...</td>\n<td>2...</td>\n</tr>\n</tbody>\n</table>\n<h2>Section After</h2>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Main Title\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Before the table\"},{\"type\":\"table\",\"headers\":[\"A<br>text\",\"B\"],\"rows\":[[\"1...\",\"2...\"]]},{\"type\":\"section\",\"heading\":\"Section After\",\"level\":2,\"body\":[]}]}]}",
+    "markdown": "# Main Title\n\nBefore the table\n\n| A<br>text | B    |\n| --------- | ---- |\n| 1...      | 2... |\n\n## Section After\n\nAfter the table\n",
+    "plain": "  Main Title\n  Before the table\n\nA<br>text B\n1... 2...\n\n    Section After"
+  }
+}

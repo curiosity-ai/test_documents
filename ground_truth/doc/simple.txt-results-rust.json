@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/doc/simple.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 10,
+      "word_count": 30,
+      "character_count": 169
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/doc/simple.txt",
+      "source_uri": "ground_truth/doc/simple.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>These are a few of my favorite things: Parrots Hockey</p>\n<p>Analysis</p>\n<p>This is my first thought. This is my second thought. This is my third thought. 2023 DOYLESTOWN, PA 18901</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"These are a few of my favorite things:\\nParrots\\nHockey\"},{\"type\":\"paragraph\",\"text\":\"Analysis\"},{\"type\":\"paragraph\",\"text\":\"This is my first thought. This is my second thought.\\nThis is my third thought.\\n2023\\nDOYLESTOWN, PA 18901\"}]}",
+    "markdown": "These are a few of my favorite things: Parrots Hockey\n\nAnalysis\n\nThis is my first thought. This is my second thought. This is my third thought. 2023 DOYLESTOWN, PA 18901\n",
+    "plain": "These are a few of my favorite things:\nParrots\nHockey\n\nAnalysis\n\nThis is my first thought. This is my second thought.\nThis is my third thought.\n2023\nDOYLESTOWN, PA 18901"
+  }
+}

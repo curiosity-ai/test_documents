@@ -1,0 +1,12 @@
+{
+  "file": "images_extra/ocr_image.mj2",
+  "mime_type": "image/mj2",
+  "success": false,
+  "error": "Unsupported format: image/mj2",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

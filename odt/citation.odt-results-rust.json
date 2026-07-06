@@ -1,0 +1,32 @@
+{
+  "file": "odt/citation.odt",
+  "mime_type": "application/vnd.oasis.opendocument.text",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Martin Linnemann"
+    ],
+    "created_at": "2015-03-01T17:26:12.31",
+    "modified_at": "2015-03-01T18:04:58.76",
+    "created_by": "Martin Linnemann",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "odt/citation.odt",
+      "source_uri": "odt/citation.odt",
+      "editing_duration": "PT10M3S",
+      "initial_creator": "Martin Linnemann",
+      "generator": "OpenOffice/4.0.1$Win32 OpenOffice.org_project/401m5$Build-9714",
+      "editing_cycles": "2"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Some text[Ex] with a citation.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Some text[Ex] with a citation.\"}]}",
+    "markdown": "Some text[Ex] with a citation.\n",
+    "plain": "Some text[Ex] with a citation."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "file": "vendored/docling/groundtruth/docling_v2/xlsx_05_table_with_title.xlsx.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/docling/groundtruth/docling_v2/xlsx_05_table_with_title.xlsx.md",
+      "source_index": 0,
+      "final_uri": "vendored/docling/groundtruth/docling_v2/xlsx_05_table_with_title.xlsx.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Number of freshwater ducks per year"
+        ]
+      ],
+      "markdown": "| Number of freshwater ducks per year |\n| --- |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Year",
+          "Freshwater Ducks"
+        ],
+        [
+          "2019",
+          "120"
+        ],
+        [
+          "2020",
+          "135"
+        ],
+        [
+          "2021",
+          "150"
+        ],
+        [
+          "2022",
+          "170"
+        ],
+        [
+          "2023",
+          "160"
+        ],
+        [
+          "2024",
+          "180"
+        ]
+      ],
+      "markdown": "| Year | Freshwater Ducks |\n| --- | --- |\n| 2019 | 120 |\n| 2020 | 135 |\n| 2021 | 150 |\n| 2022 | 170 |\n| 2023 | 160 |\n| 2024 | 180 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>Number of freshwater ducks per year</th>\n</tr>\n</thead>\n</table>\n<table>\n<thead>\n<tr>\n<th>Year</th>\n<th>Freshwater Ducks</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2019</td>\n<td>120</td>\n</tr>\n<tr>\n<td>2020</td>\n<td>135</td>\n</tr>\n<tr>\n<td>2021</td>\n<td>150</td>\n</tr>\n<tr>\n<td>2022</td>\n<td>170</td>\n</tr>\n<tr>\n<td>2023</td>\n<td>160</td>\n</tr>\n<tr>\n<td>2024</td>\n<td>180</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"Number of freshwater ducks per year\"],\"rows\":[]},{\"type\":\"table\",\"headers\":[\"Year\",\"Freshwater Ducks\"],\"rows\":[[\"2019\",\"120\"],[\"2020\",\"135\"],[\"2021\",\"150\"],[\"2022\",\"170\"],[\"2023\",\"160\"],[\"2024\",\"180\"]]}]}",
+    "markdown": "| Number of freshwater ducks per year |\n| --- |\n\n| Year | Freshwater Ducks |\n| --- | --- |\n| 2019 | 120 |\n| 2020 | 135 |\n| 2021 | 150 |\n| 2022 | 170 |\n| 2023 | 160 |\n| 2024 | 180 |\n",
+    "plain": "Number of freshwater ducks per year\n\nYear Freshwater Ducks\n2019 120\n2020 135\n2021 150\n2022 170\n2023 160\n2024 180"
+  }
+}

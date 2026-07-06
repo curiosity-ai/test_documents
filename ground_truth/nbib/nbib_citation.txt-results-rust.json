@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/nbib/nbib_citation.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 14,
+      "word_count": 66,
+      "character_count": 384
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/nbib/nbib_citation.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/nbib/nbib_citation.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>PMID- 12345678 OWN - NLM STAT- MEDLINE DA - 20240115 TI - A comprehensive study of document extraction techniques AB - This study examines various approaches to automated document extraction and text mining from heterogeneous document formats. AU - Smith J AU - Doe J LA - eng PT - Journal Article JT - Journal of information processing TA - J Inf Process JID - 1234567</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"PMID- 12345678\\nOWN - NLM\\nSTAT- MEDLINE\\nDA  - 20240115\\nTI  - A comprehensive study of document extraction techniques\\nAB  - This study examines various approaches to automated document extraction\\n      and text mining from heterogeneous document formats.\\nAU  - Smith J\\nAU  - Doe J\\nLA  - eng\\nPT  - Journal Article\\nJT  - Journal of information processing\\nTA  - J Inf Process\\nJID - 1234567\"}]}",
+    "markdown": "PMID- 12345678 OWN - NLM STAT- MEDLINE DA - 20240115 TI - A comprehensive study of document extraction techniques AB - This study examines various approaches to automated document extraction and text mining from heterogeneous document formats. AU - Smith J AU - Doe J LA - eng PT - Journal Article JT - Journal of information processing TA - J Inf Process JID - 1234567\n",
+    "plain": "PMID- 12345678\nOWN - NLM\nSTAT- MEDLINE\nDA  - 20240115\nTI  - A comprehensive study of document extraction techniques\nAB  - This study examines various approaches to automated document extraction\n      and text mining from heterogeneous document formats.\nAU  - Smith J\nAU  - Doe J\nLA  - eng\nPT  - Journal Article\nJT  - Journal of information processing\nTA  - J Inf Process\nJID - 1234567"
+  }
+}

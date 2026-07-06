@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/csv/csv-too-many-columns.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 6,
+      "word_count": 24,
+      "character_count": 97
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/csv/csv-too-many-columns.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/csv/csv-too-many-columns.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>1 2 3 4 --- --- --- --- a b c d a b c d a b c d a b c d</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"1   2   3   4\\n  --- --- --- ---\\n  a   b   c   d\\n  a   b   c   d\\n  a   b   c   d\\n  a   b   c   d\"}]}",
+    "markdown": "1 2 3 4 --- --- --- --- a b c d a b c d a b c d a b c d\n",
+    "plain": "1   2   3   4\n  --- --- --- ---\n  a   b   c   d\n  a   b   c   d\n  a   b   c   d\n  a   b   c   d"
+  }
+}

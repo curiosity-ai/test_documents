@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/html/formatting.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "HTML Text Formatting Examples",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/html/formatting.md",
+      "final_uri": "ground_truth/html/formatting.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>HTML Text Formatting Examples</h1>\n<p>This is a <strong>bold (b)</strong> example and right next to it we have a <strong>strong emphasis (strong)</strong>. Notice that *<strong>*strong + bold mixed**</strong> looks similar but carries additional semantic meaning.</p>\n<p>Here is an <em>italic (i)</em> word and an <em>emphasis (em)</em> example. Sometimes we combine them like italic + emphasis together.</p>\n<p>Now let's look at text that appears crossed out: <del>strikethrough with s</del> and <del>deleted with del</del>. You can also mix them: ~~~~double strikethrough (s + del)~~~~.</p>\n<p>To highlight insertions or underlines: underlined with u, inserted with ins. A combination could be: underline + insertion together.</p>\n<p>Subscript and superscript examples: Water is written as H2O using sub. The mathematical expression x2 + y3 uses sup. They can also be combined: CO2*.</p>\n<p>Mixing several: This sentence has <em><strong>strong + emphasis</strong></em>, some <strong>bold + underline</strong>, and a formula like a2 + b3.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"HTML Text Formatting Examples\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a bold (b) example and right next to it we have a strong emphasis (strong). Notice that **strong + bold mixed** looks similar but carries additional semantic meaning.\"},{\"type\":\"paragraph\",\"text\":\"Here is an italic (i) word and an emphasis (em) example. Sometimes we combine them like italic + emphasis together.\"},{\"type\":\"paragraph\",\"text\":\"Now let's look at text that appears crossed out: strikethrough with s and deleted with del. You can also mix them: ~~~~double strikethrough (s + del)~~~~.\"},{\"type\":\"paragraph\",\"text\":\"To highlight insertions or underlines: underlined with u, inserted with ins. A combination could be: underline + insertion together.\"},{\"type\":\"paragraph\",\"text\":\"Subscript and superscript examples: Water is written as H2O using sub. The mathematical expression x2 + y3 uses sup. They can also be combined: CO2*.\"},{\"type\":\"paragraph\",\"text\":\"Mixing several: This sentence has strong + emphasis, some bold + underline, and a formula like a2 + b3.\"}]}]}",
+    "markdown": "# HTML Text Formatting Examples\n\nThis is a **bold (b)** example and right next to it we have a **strong emphasis (strong)**. Notice that ****strong + bold mixed**** looks similar but carries additional semantic meaning.\n\nHere is an *italic (i)* word and an *emphasis (em)* example. Sometimes we combine them like italic + emphasis together.\n\nNow let's look at text that appears crossed out: ~~strikethrough with s~~ and ~~deleted with del~~. You can also mix them: \\~\\~\\~\\~double strikethrough (s + del)\\~\\~\\~\\~.\n\nTo highlight insertions or underlines: underlined with u, inserted with ins. A combination could be: underline + insertion together.\n\nSubscript and superscript examples: Water is written as H2O using sub. The mathematical expression x2 + y3 uses sup. They can also be combined: CO2*.\n\nMixing several: This sentence has ***strong + emphasis***, some **bold + underline**, and a formula like a2 + b3.\n",
+    "plain": "HTML Text Formatting Examples\nThis is a bold (b) example and right next to it we have a strong emphasis (strong). Notice that **strong + bold mixed** looks similar but carries additional semantic meaning.\n\nHere is an italic (i) word and an emphasis (em) example. Sometimes we combine them like italic + emphasis together.\n\nNow let's look at text that appears crossed out: strikethrough with s and deleted with del. You can also mix them: ~~~~double strikethrough (s + del)~~~~.\n\nTo highlight insertions or underlines: underlined with u, inserted with ins. A combination could be: underline + insertion together.\n\nSubscript and superscript examples: Water is written as H2O using sub. The mathematical expression x2 + y3 uses sup. They can also be combined: CO2*.\n\nMixing several: This sentence has strong + emphasis, some bold + underline, and a formula like a2 + b3."
+  }
+}

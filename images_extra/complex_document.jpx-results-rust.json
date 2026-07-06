@@ -1,0 +1,12 @@
+{
+  "file": "images_extra/complex_document.jpx",
+  "mime_type": "image/jpx",
+  "success": false,
+  "error": "Unsupported format: image/jpx",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

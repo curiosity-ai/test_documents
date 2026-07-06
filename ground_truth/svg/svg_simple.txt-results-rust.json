@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/svg/svg_simple.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 12,
+      "character_count": 64
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/svg/svg_simple.txt",
+      "final_uri": "ground_truth/svg/svg_simple.txt",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Simple SVG Example A simple SVG file with basic shapes Hello SVG</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Simple SVG Example A simple SVG file with basic shapes Hello SVG\"}]}",
+    "markdown": "Simple SVG Example A simple SVG file with basic shapes Hello SVG\n",
+    "plain": "Simple SVG Example A simple SVG file with basic shapes Hello SVG"
+  }
+}

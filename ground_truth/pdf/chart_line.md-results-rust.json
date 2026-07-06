@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/pdf/chart_line.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Monthly Sales Trend 2024",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/chart_line.md",
+      "final_uri": "ground_truth/pdf/chart_line.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Monthly Sales Trend 2024</h1>\n<p>Line chart showing monthly sales data throughout 2024.</p>\n<p><strong>Title:</strong> Monthly Sales Trend 2024</p>\n<p><strong>X-axis:</strong> Month (Jan, Feb, Mar, Apr, May, Jun)</p>\n<p><strong>Y-axis:</strong> Sales ($K)</p>\n<p><strong>Data Series:</strong></p>\n<ul>\n<li>Jan: 15</li>\n<li>Feb: 22</li>\n<li>Mar: 28</li>\n<li>Apr: 25</li>\n<li>May: 35</li>\n<li>Jun: 40</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Monthly Sales Trend 2024\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Line chart showing monthly sales data throughout 2024.\"},{\"type\":\"paragraph\",\"text\":\"Title: Monthly Sales Trend 2024\"},{\"type\":\"paragraph\",\"text\":\"X-axis: Month (Jan, Feb, Mar, Apr, May, Jun)\"},{\"type\":\"paragraph\",\"text\":\"Y-axis: Sales ($K)\"},{\"type\":\"paragraph\",\"text\":\"Data Series:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Jan: 15\",\"Feb: 22\",\"Mar: 28\",\"Apr: 25\",\"May: 35\",\"Jun: 40\"]}]}]}",
+    "markdown": "# Monthly Sales Trend 2024\n\nLine chart showing monthly sales data throughout 2024.\n\n**Title:** Monthly Sales Trend 2024\n\n**X-axis:** Month (Jan, Feb, Mar, Apr, May, Jun)\n\n**Y-axis:** Sales ($K)\n\n**Data Series:**\n\n- Jan: 15\n- Feb: 22\n- Mar: 28\n- Apr: 25\n- May: 35\n- Jun: 40\n",
+    "plain": "Monthly Sales Trend 2024\nLine chart showing monthly sales data throughout 2024.\n\nTitle: Monthly Sales Trend 2024\n\nX-axis: Month (Jan, Feb, Mar, Apr, May, Jun)\n\nY-axis: Sales ($K)\n\nData Series:\n\nJan: 15\nFeb: 22\nMar: 28\nApr: 25\nMay: 35\nJun: 40"
+  }
+}

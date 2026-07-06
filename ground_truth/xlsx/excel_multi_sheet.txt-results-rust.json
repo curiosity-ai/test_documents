@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/xlsx/excel_multi_sheet.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 15,
+      "word_count": 24,
+      "character_count": 215
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/xlsx/excel_multi_sheet.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/xlsx/excel_multi_sheet.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>first_sheet</p>\n<p>Column 1 Column 2 ---------- ---------- a 1.0 b 2.0 c 3.0</p>\n<p>second_sheet</p>\n<p>Product Value ---------- ------- Tomato 1.0 Potato 1.0 Beetroot 2.0</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"first_sheet\"},{\"type\":\"paragraph\",\"text\":\"Column 1   Column 2\\n  ---------- ----------\\n  a          1.0\\n  b          2.0\\n  c          3.0\"},{\"type\":\"paragraph\",\"text\":\"second_sheet\"},{\"type\":\"paragraph\",\"text\":\"Product    Value\\n  ---------- -------\\n  Tomato     1.0\\n  Potato     1.0\\n  Beetroot   2.0\"}]}",
+    "markdown": "first_sheet\n\nColumn 1 Column 2 ---------- ---------- a 1.0 b 2.0 c 3.0\n\nsecond_sheet\n\nProduct Value ---------- ------- Tomato 1.0 Potato 1.0 Beetroot 2.0\n",
+    "plain": "first_sheet\n\nColumn 1   Column 2\n  ---------- ----------\n  a          1.0\n  b          2.0\n  c          3.0\n\nsecond_sheet\n\nProduct    Value\n  ---------- -------\n  Tomato     1.0\n  Potato     1.0\n  Beetroot   2.0"
+  }
+}

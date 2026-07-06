@@ -1,0 +1,94 @@
+{
+  "file": "pdf/nougat_041.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "(27 August 2013)_Speakers (Professor Aditya Bhardwaj)_JGLS",
+    "authors": [
+      "M Kumar"
+    ],
+    "created_at": "2013-08-08T16:20:40Z",
+    "modified_at": "2013-08-08T16:20:40Z",
+    "created_by": "CorelDRAW X5",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.5",
+      "producer": "Corel PDF Engine Version 15.2.0.686",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "pdf/nougat_041.pdf",
+      "final_uri": "pdf/nougat_041.pdf",
+      "source_kind": "uri",
+      "extraction_method": "native",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Global Global Professor Justice of Programme",
+          "Law",
+          "& Director (GJP), Jindal Global Law School",
+          "Deputy msharma@jgu.edu.in",
+          "Registrar"
+        ],
+        [
+          "rkapur@jgu.edu.in,",
+          "+91",
+          "8930110903",
+          "+91",
+          "8930110713"
+        ]
+      ],
+      "markdown": "| Global Global Professor Justice of Programme | Law | & Director (GJP), Jindal Global Law School | Deputy msharma@jgu.edu.in | Registrar |\n| --- | --- | --- | --- | --- |\n| rkapur@jgu.edu.in, | +91 | 8930110903 | +91 | 8930110713 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 37.0,
+        "y0": 140.0,
+        "x1": 571.0,
+        "y1": 204.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "Jindal",
+          "School of",
+          ""
+        ],
+        [
+          "Liberal Arts",
+          "& Humanities",
+          ""
+        ],
+        [
+          "India's First T ransnational",
+          "Humanities",
+          "School"
+        ]
+      ],
+      "markdown": "| Jindal | School of |  |\n| --- | --- | --- |\n| Liberal Arts | & Humanities |  |\n| India's First T ransnational | Humanities | School |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 480.0,
+        "y0": 33.0,
+        "x1": 580.0,
+        "y1": 58.0
+      }
+    }
+  ],
+  "content": {
+    "html": "<h3>INAUGURAL LECTURE OF THE GLOBAL JUSTICE PROGRAMME</h3>\n<h3>Tuesday, 27 August 2013, 3:00 pm – 4:00 pm T2, 3rd Floor, Conference Room O.P. Jindal Global University</h3>\n<h3>Sonipat Narela Road, Near Jagdishpur Village, Sonipat, Haryana - 131001</h3>\n<h1>''Corporeity: Conceptualising Corporeal Citizenship in India''</h1>\n<h2>SPEAKER</h2>\n<h2>PROFESSOR ADITYA BHARDWAJ</h2>\n<h2>Research Professor, Anthropology and Sociology The Graduate Institute of International and Development Studies, Geneva</h2>\n<p>Aditya Bharadwaj is Research Professor of Anthropology and Sociology at the Graduate Institute of International and Development Studies, Geneva. His research is focused on the rapid spread of Assisted Reproductive and Stem Cell Biotechnologies around the globe. He has authored and co-authored several peer-reviewed journal articles and book chapters. He co-authored Risky Relations: Family, Kinship and the New Genetics (Berg, 2006) and is the lead author of the research monograph Local Cells, Global Science: The Proliferation of Stem Cell Technologies in India (Routledge, 2009). His forthcoming research monograph is titled Conceptions: Infertility and Technologies of Procreation in India (Berghahn, 2014).</p>\n<p>Abstract: The paper conceptualises corporeity as an emergent form of citizenship predicated on the liquidation of physical substance or existence. Drawing on three contemporary developments in the scientific capacity to harness biogenetic substance and support its gestation</p>\n<h3>– in vitro fertilization, stem cells and surrogacy</h3>\n<ul>\n<li>the paper shows how selective transference of neo-liberal policies is facilitating the 'birth' of a new class of corporeal subject citizens in India. The paper situates these developments on the intersections of local and global efforts to produce greater legal oversight to achieve ethical appropriation of human biogenetic substance and capacity. The argument charts the political expediency underscoring these moves and examines the frayed contours of governance structures enabling the appropriation and liquidation of citizen corporeality in an emerging global bioeconomy.</li>\n</ul>\n<table>\n<thead>\n<tr>\n<th>Global Global Professor Justice of Programme</th>\n<th>Law</th>\n<th>&amp; Director (GJP), Jindal Global Law School</th>\n<th>Deputy msharma@jgu.edu.in</th>\n<th>Registrar</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>rkapur@jgu.edu.in,</td>\n<td>+91</td>\n<td>8930110903</td>\n<td>+91</td>\n<td>8930110713</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Jindal</th>\n<th>School of</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Liberal Arts</td>\n<td>&amp; Humanities</td>\n<td></td>\n</tr>\n<tr>\n<td>India's First T ransnational</td>\n<td>Humanities</td>\n<td>School</td>\n</tr>\n</tbody>\n</table>\n<h3>www.jgu.edu.in</h3>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"INAUGURAL LECTURE OF THE GLOBAL JUSTICE PROGRAMME\"},{\"type\":\"paragraph\",\"text\":\"Tuesday, 27 August 2013, 3:00 pm – 4:00 pm \\nT2, 3rd Floor, Conference Room \\nO.P. Jindal Global University  \\nSonipat Narela Road, Near Jagdishpur Village, Sonipat, Haryana - 131001\"},{\"type\":\"paragraph\",\"text\":\"‘‘Corporeity: Conceptualising Corporeal Citizenship in India’’\"},{\"type\":\"paragraph\",\"text\":\"SPEAKER\"},{\"type\":\"paragraph\",\"text\":\"PROFESSOR ADITYA BHARDWAJ\\nResearch Professor, Anthropology and Sociology\\nThe Graduate Institute of International and Development Studies, Geneva\"},{\"type\":\"paragraph\",\"text\":\"Aditya Bharadwaj is Research Professor of Anthropology and Sociology at the Graduate Institute of International and \\nDevelopment Studies, Geneva. His research is focused on the rapid spread of Assisted Reproductive and Stem Cell \\nBiotechnologies around the globe. He has authored and co-authored several peer-reviewed journal articles and book \\nchapters. He co-authored Risky Relations: Family, Kinship and the New Genetics (Berg, 2006) and is the lead author of \\nthe research monograph Local Cells, Global Science: The Proliferation of Stem Cell Technologies in India (Routledge, \\n2009). His forthcoming research monograph is titled Conceptions: Infertility and Technologies of Procreation in India \\n(Berghahn, 2014).\"},{\"type\":\"paragraph\",\"text\":\"Abstract:\\nThe paper conceptualises corporeity as an emergent form of citizenship predicated on the liquidation of physical \\nsubstance or existence. Drawing on three contemporary developments in the scientific capacity to harness biogenetic \\nsubstance and support its gestation – in vitro fertilization, stem cells and surrogacy – the paper shows how selective \\ntransference of neo-liberal policies is facilitating the 'birth' of a new class of corporeal subject citizens in India. The \\npaper situates these developments on the intersections of local and global efforts to produce greater legal oversight to \\nachieve ethical appropriation of human biogenetic substance and capacity. The argument charts the political \\nexpediency underscoring these moves and examines the frayed contours of governance structures enabling the \\nappropriation and liquidation of citizen corporeality in an emerging global bioeconomy.\"},{\"type\":\"paragraph\",\"text\":\"RSVP:Faculty Co-ordinator:\\nLt. Dr. Mamta SharmaProfessor Ratna Kapur\\nDeputy RegistrarGlobal Professor of Law & Director\\nmsharma@jgu.edu.inGlobal Justice Programme (GJP), Jindal Global Law School\\n+91 8930110713  rkapur@jgu.edu.in, +91 8930110903\"},{\"type\":\"paragraph\",\"text\":\"Jindal School of \\nLiberal Arts & Humanities\\nIndia's First Transnational Humanities School\"},{\"type\":\"paragraph\",\"text\":\"www.jgu.edu.in\"},{\"type\":\"table\",\"headers\":[\"Global Global Professor Justice of Programme\",\"Law\",\"& Director (GJP), Jindal Global Law School\",\"Deputy msharma@jgu.edu.in\",\"Registrar\"],\"rows\":[[\"rkapur@jgu.edu.in,\",\"+91\",\"8930110903\",\"+91\",\"8930110713\"]]},{\"type\":\"table\",\"headers\":[\"Jindal\",\"School of\",\"\"],\"rows\":[[\"Liberal Arts\",\"& Humanities\",\"\"],[\"India's First T ransnational\",\"Humanities\",\"School\"]]}]}",
+    "markdown": "### INAUGURAL LECTURE OF THE GLOBAL JUSTICE PROGRAMME\n\n### Tuesday, 27 August 2013, 3:00 pm – 4:00 pm T2, 3rd Floor, Conference Room O.P. Jindal Global University\n\n### Sonipat Narela Road, Near Jagdishpur Village, Sonipat, Haryana - 131001\n\n# ''Corporeity: Conceptualising Corporeal Citizenship in India''\n\n## SPEAKER\n\n## PROFESSOR ADITYA BHARDWAJ\n\n## Research Professor, Anthropology and Sociology The Graduate Institute of International and Development Studies, Geneva\n\nAditya Bharadwaj is Research Professor of Anthropology and Sociology at the Graduate Institute of International and Development Studies, Geneva. His research is focused on the rapid spread of Assisted Reproductive and Stem Cell Biotechnologies around the globe. He has authored and co-authored several peer-reviewed journal articles and book chapters. He co-authored Risky Relations: Family, Kinship and the New Genetics (Berg, 2006) and is the lead author of the research monograph Local Cells, Global Science: The Proliferation of Stem Cell Technologies in India (Routledge, 2009). His forthcoming research monograph is titled Conceptions: Infertility and Technologies of Procreation in India (Berghahn, 2014).\n\nAbstract: The paper conceptualises corporeity as an emergent form of citizenship predicated on the liquidation of physical substance or existence. Drawing on three contemporary developments in the scientific capacity to harness biogenetic substance and support its gestation\n\n### – in vitro fertilization, stem cells and surrogacy\n\n- the paper shows how selective transference of neo-liberal policies is facilitating the 'birth' of a new class of corporeal subject citizens in India. The paper situates these developments on the intersections of local and global efforts to produce greater legal oversight to achieve ethical appropriation of human biogenetic substance and capacity. The argument charts the political expediency underscoring these moves and examines the frayed contours of governance structures enabling the appropriation and liquidation of citizen corporeality in an emerging global bioeconomy.\n\n| Global Global Professor Justice of Programme | Law | & Director (GJP), Jindal Global Law School | Deputy msharma@jgu.edu.in | Registrar |\n| --- | --- | --- | --- | --- |\n| rkapur@jgu.edu.in, | +91 | 8930110903 | +91 | 8930110713 |\n\n| Jindal | School of |  |\n| --- | --- | --- |\n| Liberal Arts | & Humanities |  |\n| India's First T ransnational | Humanities | School |\n\n### www.jgu.edu.in\n",
+    "plain": "INAUGURAL LECTURE OF THE GLOBAL JUSTICE PROGRAMME\n\nTuesday, 27 August 2013, 3:00 pm – 4:00 pm \nT2, 3rd Floor, Conference Room \nO.P. Jindal Global University  \nSonipat Narela Road, Near Jagdishpur Village, Sonipat, Haryana - 131001\n\n‘‘Corporeity: Conceptualising Corporeal Citizenship in India’’\n\nSPEAKER\n\nPROFESSOR ADITYA BHARDWAJ\nResearch Professor, Anthropology and Sociology\nThe Graduate Institute of International and Development Studies, Geneva\n\nAditya Bharadwaj is Research Professor of Anthropology and Sociology at the Graduate Institute of International and \nDevelopment Studies, Geneva. His research is focused on the rapid spread of Assisted Reproductive and Stem Cell \nBiotechnologies around the globe. He has authored and co-authored several peer-reviewed journal articles and book \nchapters. He co-authored Risky Relations: Family, Kinship and the New Genetics (Berg, 2006) and is the lead author of \nthe research monograph Local Cells, Global Science: The Proliferation of Stem Cell Technologies in India (Routledge, \n2009). His forthcoming research monograph is titled Conceptions: Infertility and Technologies of Procreation in India \n(Berghahn, 2014).\n\nAbstract:\nThe paper conceptualises corporeity as an emergent form of citizenship predicated on the liquidation of physical \nsubstance or existence. Drawing on three contemporary developments in the scientific capacity to harness biogenetic \nsubstance and support its gestation – in vitro fertilization, stem cells and surrogacy – the paper shows how selective \ntransference of neo-liberal policies is facilitating the 'birth' of a new class of corporeal subject citizens in India. The \npaper situates these developments on the intersections of local and global efforts to produce greater legal oversight to \nachieve ethical appropriation of human biogenetic substance and capacity. The argument charts the political \nexpediency underscoring these moves and examines the frayed contours of governance structures enabling the \nappropriation and liquidation of citizen corporeality in an emerging global bioeconomy.\n\nRSVP:Faculty Co-ordinator:\nLt. Dr. Mamta SharmaProfessor Ratna Kapur\nDeputy RegistrarGlobal Professor of Law & Director\nmsharma@jgu.edu.inGlobal Justice Programme (GJP), Jindal Global Law School\n+91 8930110713  rkapur@jgu.edu.in, +91 8930110903\n\nJindal School of \nLiberal Arts & Humanities\nIndia's First Transnational Humanities School\n\nwww.jgu.edu.in\n\nGlobal Global Professor Justice of Programme Law & Director (GJP), Jindal Global Law School Deputy msharma@jgu.edu.in Registrar\nrkapur@jgu.edu.in, +91 8930110903 +91 8930110713\n\nJindal School of \nLiberal Arts & Humanities \nIndia's First T ransnational Humanities School"
+  }
+}

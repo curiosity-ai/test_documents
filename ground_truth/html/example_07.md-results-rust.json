@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/html/example_07.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/html/example_07.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/html/example_07.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<ul>\n<li>Asia - China - Japan - Thailand</li>\n<li>Europe - UK - Germany - Switzerland - - Bern - Aargau - Italy - - Piedmont - Liguria</li>\n<li>Africa</li>\n</ul>\n<ul>\n<li>China</li>\n<li>Japan</li>\n<li>Thailand</li>\n</ul>\n<ul>\n<li>UK</li>\n<li>Germany</li>\n<li>Switzerland - - Bern - Aargau</li>\n<li>Italy - - Piedmont - Liguria</li>\n</ul>\n<ul>\n<li>- Bern - Aargau</li>\n</ul>\n<ul>\n<li>Bern</li>\n<li>Aargau</li>\n</ul>\n<ul>\n<li>- Piedmont - Liguria</li>\n</ul>\n<ul>\n<li>Piedmont</li>\n<li>Liguria</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"Asia - China - Japan - Thailand\",\"Europe - UK - Germany - Switzerland - - Bern - Aargau - Italy - - Piedmont - Liguria\",\"Africa\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"China\",\"Japan\",\"Thailand\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"UK\",\"Germany\",\"Switzerland - - Bern - Aargau\",\"Italy - - Piedmont - Liguria\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"- Bern - Aargau\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Bern\",\"Aargau\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"- Piedmont - Liguria\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Piedmont\",\"Liguria\"]}]}",
+    "markdown": "- Asia - China - Japan - Thailand\n- Europe - UK - Germany - Switzerland - - Bern - Aargau - Italy - - Piedmont - Liguria\n- Africa\n\n- China\n- Japan\n- Thailand\n\n- UK\n- Germany\n- Switzerland - - Bern - Aargau\n- Italy - - Piedmont - Liguria\n\n- \\- Bern - Aargau\n\n- Bern\n- Aargau\n\n- \\- Piedmont - Liguria\n\n- Piedmont\n- Liguria\n",
+    "plain": "Asia - China - Japan - Thailand\nEurope - UK - Germany - Switzerland - - Bern - Aargau - Italy - - Piedmont - Liguria\nAfrica\nChina\nJapan\nThailand\nUK\nGermany\nSwitzerland - - Bern - Aargau\nItaly - - Piedmont - Liguria\n- Bern - Aargau\nBern\nAargau\n- Piedmont - Liguria\nPiedmont\nLiguria"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "file": "pptx/sample.ppsx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.slideshow",
+  "success": true,
+  "metadata": {
+    "title": "Welcome to File Extension FYI Center!",
+    "created_at": "2008-01-04T03:52:57Z",
+    "modified_at": "2012-07-03T18:55:10Z",
+    "format": {
+      "format_type": "pptx",
+      "slide_count": 3,
+      "slide_names": [
+        "Times New Roman",
+        "Default Design",
+        "Welcome",
+        "PowerPoint Presentation",
+        "PowerPoint Presentation"
+      ],
+      "image_count": 2,
+      "table_count": 0
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "presentation_format": "On-screen Show (4:3)",
+      "revision": "3",
+      "slide_titles": "Times New Roman, Default Design, Welcome, PowerPoint Presentation, PowerPoint Presentation",
+      "source_kind": "uri",
+      "application": "Microsoft Office PowerPoint",
+      "source_index": 0,
+      "hidden_slides": 0,
+      "final_uri": "pptx/sample.ppsx",
+      "source_uri": "pptx/sample.ppsx",
+      "application_version": "14.0000",
+      "notes_count": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Welcome</h2>\n<p>To File Extension FYI Center</p>\n<p>![BD00017_](../media/image1.wmf)</p>\n<p>![BD00010_](../media/image2.wmf)</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Welcome\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"To File Extension FYI Center\"},{\"type\":\"paragraph\",\"text\":\"![BD00017_](../media/image1.wmf)\"},{\"type\":\"paragraph\",\"text\":\"![BD00010_](../media/image2.wmf)\"}]}]}",
+    "markdown": "## Welcome\n\nTo File Extension FYI Center\n\n\\![BD00017_](../media/image1.wmf)\n\n\\![BD00010_](../media/image2.wmf)\n",
+    "plain": "Welcome\n\nTo File Extension FYI Center"
+  }
+}

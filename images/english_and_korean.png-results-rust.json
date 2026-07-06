@@ -1,0 +1,12 @@
+{
+  "file": "images/english_and_korean.png",
+  "mime_type": "image/png",
+  "success": false,
+  "error": "Unsupported format: image/png",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

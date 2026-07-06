@@ -1,0 +1,80 @@
+{
+  "file": "xlsx/test_xlsb.xlsb",
+  "mime_type": "application/vnd.ms-excel.sheet.binary.macroEnabled.12",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "excel",
+      "sheet_count": 3,
+      "sheet_names": [
+        "Sheet1",
+        "Sheet2",
+        "Sheet3"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "xlsx/test_xlsb.xlsb",
+      "final_uri": "xlsx/test_xlsb.xlsb",
+      "source_index": 0,
+      "sheet_names": "Sheet1, Sheet2, Sheet3",
+      "source_kind": "uri",
+      "sheet_count": "3"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Welcome to File Extension FYI Center!",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "ID",
+          "Type",
+          "Description"
+        ],
+        [
+          "1",
+          "ASP",
+          "Active Server Pages"
+        ],
+        [
+          "2",
+          "JSP",
+          "JavaServer Pages"
+        ],
+        [
+          "3",
+          "PNG",
+          "Portable Network Graphics"
+        ],
+        [
+          "4",
+          "GIF",
+          "Graphics Interchange Format"
+        ],
+        [
+          "5",
+          "WMV",
+          "Windows Media Video"
+        ]
+      ],
+      "markdown": "| Welcome to File Extension FYI Center! |  |  |\n| --- | --- | --- |\n|  |  |  |\n| ID | Type | Description |\n| 1 | ASP | Active Server Pages |\n| 2 | JSP | JavaServer Pages |\n| 3 | PNG | Portable Network Graphics |\n| 4 | GIF | Graphics Interchange Format |\n| 5 | WMV | Windows Media Video |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h2>Sheet1</h2>\n<table>\n<thead>\n<tr>\n<th>Welcome to File Extension FYI Center!</th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>ID</td>\n<td>Type</td>\n<td>Description</td>\n</tr>\n<tr>\n<td>1</td>\n<td>ASP</td>\n<td>Active Server Pages</td>\n</tr>\n<tr>\n<td>2</td>\n<td>JSP</td>\n<td>JavaServer Pages</td>\n</tr>\n<tr>\n<td>3</td>\n<td>PNG</td>\n<td>Portable Network Graphics</td>\n</tr>\n<tr>\n<td>4</td>\n<td>GIF</td>\n<td>Graphics Interchange Format</td>\n</tr>\n<tr>\n<td>5</td>\n<td>WMV</td>\n<td>Windows Media Video</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Sheet1\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Welcome to File Extension FYI Center!\",\"\",\"\"],\"rows\":[[\"\",\"\",\"\"],[\"ID\",\"Type\",\"Description\"],[\"1\",\"ASP\",\"Active Server Pages\"],[\"2\",\"JSP\",\"JavaServer Pages\"],[\"3\",\"PNG\",\"Portable Network Graphics\"],[\"4\",\"GIF\",\"Graphics Interchange Format\"],[\"5\",\"WMV\",\"Windows Media Video\"]]}]}]}",
+    "markdown": "## Sheet1\n\n| Welcome to File Extension FYI Center\\! |  |  |\n| --- | --- | --- |\n|  |  |  |\n| ID | Type | Description |\n| 1 | ASP | Active Server Pages |\n| 2 | JSP | JavaServer Pages |\n| 3 | PNG | Portable Network Graphics |\n| 4 | GIF | Graphics Interchange Format |\n| 5 | WMV | Windows Media Video |\n",
+    "plain": "  Sheet1\nWelcome to File Extension FYI Center!  \n  \nID Type Description\n1 ASP Active Server Pages\n2 JSP JavaServer Pages\n3 PNG Portable Network Graphics\n4 GIF Graphics Interchange Format\n5 WMV Windows Media Video"
+  }
+}

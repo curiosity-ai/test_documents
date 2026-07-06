@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/mime-no-to.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 5,
+      "word_count": 22,
+      "character_count": 210
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/eml/mime-no-to.txt",
+      "final_uri": "ground_truth/eml/mime-no-to.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Example Plain-Text MIME Message From: sender@example.com CC: &quot;Tom&quot; &lt;tom@example.com&gt;, &quot;Alice&quot; &lt;alice@example.com&gt; BCC: &quot;John&quot; &lt;john@example.com&gt;, &quot;Mary&quot; &lt;mary@example.com&gt; This is a plain-text message.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Example Plain-Text MIME Message\\nFrom: sender@example.com\\nCC: \\\"Tom\\\" <tom@example.com>, \\\"Alice\\\" <alice@example.com>\\nBCC: \\\"John\\\" <john@example.com>, \\\"Mary\\\" <mary@example.com>\\nThis is a plain-text message.\"}]}",
+    "markdown": "Subject: Example Plain-Text MIME Message From: sender@example.com CC: \"Tom\" \\<tom@example.com\\>, \"Alice\" \\<alice@example.com\\> BCC: \"John\" \\<john@example.com\\>, \"Mary\" \\<mary@example.com\\> This is a plain-text message.\n",
+    "plain": "Subject: Example Plain-Text MIME Message\nFrom: sender@example.com\nCC: \"Tom\" <tom@example.com>, \"Alice\" <alice@example.com>\nBCC: \"John\" <john@example.com>, \"Mary\" <mary@example.com>\nThis is a plain-text message."
+  }
+}

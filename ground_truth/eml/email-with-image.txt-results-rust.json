@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/email-with-image.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 12,
+      "word_count": 33,
+      "character_count": 286
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/eml/email-with-image.txt",
+      "final_uri": "ground_truth/eml/email-with-image.txt",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: email-with-image From: &quot;Mallori Harrell&quot; &lt;mallori@unstructured.io&gt; To: &quot;Mallori Harrell&quot; &lt;mallori@unstructured.io&gt; Date: Wed, 4 Jan 2023 11:36:14 -0600 Hi, The unstructured logo is attached to this email. -- Mallori Harrell Unstructured Technologies Data Scientist</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: email-with-image\\r\\nFrom: \\\"Mallori Harrell\\\" <mallori@unstructured.io>\\r\\nTo: \\\"Mallori Harrell\\\" <mallori@unstructured.io>\\r\\nDate: Wed, 4 Jan 2023 11:36:14 -0600\\r\\nHi,\\r\\n\\r\\nThe unstructured logo is attached to this email.\\r\\n\\r\\n--\\r\\nMallori Harrell\\r\\nUnstructured Technologies\\r\\nData Scientist\"}]}",
+    "markdown": "Subject: email-with-image From: \"Mallori Harrell\" \\<mallori@unstructured.io\\> To: \"Mallori Harrell\" \\<mallori@unstructured.io\\> Date: Wed, 4 Jan 2023 11:36:14 -0600 Hi, The unstructured logo is attached to this email. -- Mallori Harrell Unstructured Technologies Data Scientist\n",
+    "plain": "Subject: email-with-image\r\nFrom: \"Mallori Harrell\" <mallori@unstructured.io>\r\nTo: \"Mallori Harrell\" <mallori@unstructured.io>\r\nDate: Wed, 4 Jan 2023 11:36:14 -0600\r\nHi,\r\n\r\nThe unstructured logo is attached to this email.\r\n\r\n--\r\nMallori Harrell\r\nUnstructured Technologies\r\nData Scientist"
+  }
+}

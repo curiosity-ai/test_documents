@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/rfc822-no-date.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 4,
+      "word_count": 34,
+      "character_count": 230
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/eml/rfc822-no-date.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/eml/rfc822-no-date.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Example Email Without Date Header From: sender@example.com To: recipient@example.com This is an example email message without a Date header. Note that this is non-standard and may be flagged or corrected by email servers.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Example Email Without Date Header\\nFrom: sender@example.com\\nTo: recipient@example.com\\nThis is an example email message without a Date header. Note that this is non-standard and may be flagged or corrected by email servers.\"}]}",
+    "markdown": "Subject: Example Email Without Date Header From: sender@example.com To: recipient@example.com This is an example email message without a Date header. Note that this is non-standard and may be flagged or corrected by email servers.\n",
+    "plain": "Subject: Example Email Without Date Header\nFrom: sender@example.com\nTo: recipient@example.com\nThis is an example email message without a Date header. Note that this is non-standard and may be flagged or corrected by email servers."
+  }
+}

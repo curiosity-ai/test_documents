@@ -1,0 +1,39 @@
+{
+  "file": "odt/simpleTableWithCaption.odt",
+  "mime_type": "application/vnd.oasis.opendocument.text",
+  "success": true,
+  "metadata": {
+    "created_at": "2015-03-01T17:26:12.31",
+    "modified_at": "2016-11-04T12:02:49.380088157",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "editing_cycles": "5",
+      "source_uri": "odt/simpleTableWithCaption.odt",
+      "source_index": 0,
+      "source_kind": "uri",
+      "editing_duration": "PT18M5S",
+      "initial_creator": "Martin Linnemann",
+      "final_uri": "odt/simpleTableWithCaption.odt",
+      "generator": "LibreOffice/4.4.6.3$Linux_X86_64 LibreOffice_project/40m0$Build-3"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Content",
+          "More content"
+        ]
+      ],
+      "markdown": "| Content | More content |\n",
+      "page_number": 0
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>Content</th>\n<th>More content</th>\n</tr>\n</thead>\n</table>\n<p>Table 1: Some caption for a table</p>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"Content\",\"More content\"],\"rows\":[]},{\"type\":\"paragraph\",\"text\":\"Table 1: Some caption for a table\"}]}",
+    "markdown": "| Content | More content |\n| --- | --- |\n\nTable 1: Some caption for a table\n",
+    "plain": "Content More content\n\nTable 1: Some caption for a table"
+  }
+}

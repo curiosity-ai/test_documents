@@ -1,0 +1,300 @@
+{
+  "file": "ground_truth/images/financial_table_1.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Walmart Inc.",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/images/financial_table_1.md",
+      "final_uri": "ground_truth/images/financial_table_1.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          "",
+          "Fiscal Years Ended January 31,",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "2023",
+          "",
+          "2022",
+          "",
+          "2021"
+        ],
+        [
+          ":---",
+          ":---:",
+          "---:",
+          ":---:",
+          "---:",
+          ":---:",
+          "---:"
+        ],
+        [
+          "Revenues:",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Net sales",
+          "$",
+          "605,881",
+          "$",
+          "567,762",
+          "$",
+          "555,233"
+        ],
+        [
+          "Membership and other income",
+          "",
+          "5,408",
+          "",
+          "4,992",
+          "",
+          "3,918"
+        ],
+        [
+          "Total revenues",
+          "",
+          "611,289",
+          "",
+          "572,754",
+          "",
+          "559,151"
+        ],
+        [
+          "Costs and expenses:",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Cost of sales",
+          "",
+          "463,721",
+          "",
+          "429,000",
+          "",
+          "420,315"
+        ],
+        [
+          "Operating, selling, general and administrative expenses",
+          "",
+          "127,140",
+          "",
+          "117,812",
+          "",
+          "116,288"
+        ],
+        [
+          "Operating income",
+          "",
+          "20,428",
+          "",
+          "25,942",
+          "",
+          "22,548"
+        ],
+        [
+          "Interest:",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Debt",
+          "",
+          "1,787",
+          "",
+          "1,674",
+          "",
+          "1,976"
+        ],
+        [
+          "Finance lease",
+          "",
+          "341",
+          "",
+          "320",
+          "",
+          "339"
+        ],
+        [
+          "Interest income",
+          "",
+          "(254)",
+          "",
+          "(158)",
+          "",
+          "(121)"
+        ],
+        [
+          "Interest, net",
+          "",
+          "1,874",
+          "",
+          "1,836",
+          "",
+          "2,194"
+        ],
+        [
+          "Loss on extinguishment of debt",
+          "",
+          "—",
+          "",
+          "2,410",
+          "",
+          "—"
+        ],
+        [
+          "Other (gains) and losses",
+          "",
+          "1,538",
+          "",
+          "3,000",
+          "",
+          "(210)"
+        ],
+        [
+          "Income before income taxes",
+          "",
+          "17,016",
+          "",
+          "18,696",
+          "",
+          "20,564"
+        ],
+        [
+          "Provision for income taxes",
+          "",
+          "5,724",
+          "",
+          "4,756",
+          "",
+          "6,858"
+        ],
+        [
+          "Consolidated net income",
+          "",
+          "11,292",
+          "",
+          "13,940",
+          "",
+          "13,706"
+        ],
+        [
+          "Consolidated net (income) loss attributable to noncontrolling interest",
+          "",
+          "388",
+          "",
+          "(267)",
+          "",
+          "(196)"
+        ],
+        [
+          "Consolidated net income attributable to Walmart",
+          "$",
+          "11,680",
+          "$",
+          "13,673",
+          "$",
+          "13,510"
+        ],
+        [
+          "Net income per common share:",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Basic net income per common share attributable to Walmart",
+          "$",
+          "4.29",
+          "$",
+          "4.90",
+          "$",
+          "4.77"
+        ],
+        [
+          "Diluted net income per common share attributable to Walmart",
+          "",
+          "4.27",
+          "",
+          "4.87",
+          "",
+          "4.75"
+        ],
+        [
+          "Weighted-average common shares outstanding:",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Basic",
+          "",
+          "2,724",
+          "",
+          "2,792",
+          "",
+          "2,831"
+        ],
+        [
+          "Diluted",
+          "",
+          "2,734",
+          "",
+          "2,805",
+          "",
+          "2,847"
+        ],
+        [
+          "Dividends declared per common share",
+          "$",
+          "2.24",
+          "$",
+          "2.20",
+          "$",
+          "2.16"
+        ]
+      ],
+      "markdown": "|  |  | Fiscal Years Ended January 31, |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 2023 |  | 2022 |  | 2021 |\n| :--- | :---: | ---: | :---: | ---: | :---: | ---: |\n| Revenues: |  |  |  |  |  |  |\n| Net sales | $ | 605,881 | $ | 567,762 | $ | 555,233 |\n| Membership and other income |  | 5,408 |  | 4,992 |  | 3,918 |\n| Total revenues |  | 611,289 |  | 572,754 |  | 559,151 |\n| Costs and expenses: |  |  |  |  |  |  |\n| Cost of sales |  | 463,721 |  | 429,000 |  | 420,315 |\n| Operating, selling, general and administrative expenses |  | 127,140 |  | 117,812 |  | 116,288 |\n| Operating income |  | 20,428 |  | 25,942 |  | 22,548 |\n| Interest: |  |  |  |  |  |  |\n| Debt |  | 1,787 |  | 1,674 |  | 1,976 |\n| Finance lease |  | 341 |  | 320 |  | 339 |\n| Interest income |  | (254) |  | (158) |  | (121) |\n| Interest, net |  | 1,874 |  | 1,836 |  | 2,194 |\n| Loss on extinguishment of debt |  | — |  | 2,410 |  | — |\n| Other (gains) and losses |  | 1,538 |  | 3,000 |  | (210) |\n| Income before income taxes |  | 17,016 |  | 18,696 |  | 20,564 |\n| Provision for income taxes |  | 5,724 |  | 4,756 |  | 6,858 |\n| Consolidated net income |  | 11,292 |  | 13,940 |  | 13,706 |\n| Consolidated net (income) loss attributable to noncontrolling interest |  | 388 |  | (267) |  | (196) |\n| Consolidated net income attributable to Walmart | $ | 11,680 | $ | 13,673 | $ | 13,510 |\n| Net income per common share: |  |  |  |  |  |  |\n| Basic net income per common share attributable to Walmart | $ | 4.29 | $ | 4.90 | $ | 4.77 |\n| Diluted net income per common share attributable to Walmart |  | 4.27 |  | 4.87 |  | 4.75 |\n| Weighted-average common shares outstanding: |  |  |  |  |  |  |\n| Basic |  | 2,724 |  | 2,792 |  | 2,831 |\n| Diluted |  | 2,734 |  | 2,805 |  | 2,847 |\n| Dividends declared per common share | $ | 2.24 | $ | 2.20 | $ | 2.16 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Walmart Inc.</h1>\n<h1>Consolidated Statements of Income</h1>\n<p>(Amounts in millions, except per share data)</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n<th>Fiscal Years Ended January 31,</th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td></td>\n<td>2023</td>\n<td></td>\n<td>2022</td>\n<td></td>\n<td>2021</td>\n</tr>\n<tr>\n<td>:---</td>\n<td>:---:</td>\n<td>---:</td>\n<td>:---:</td>\n<td>---:</td>\n<td>:---:</td>\n<td>---:</td>\n</tr>\n<tr>\n<td>Revenues:</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Net sales</td>\n<td>$</td>\n<td>605,881</td>\n<td>$</td>\n<td>567,762</td>\n<td>$</td>\n<td>555,233</td>\n</tr>\n<tr>\n<td>Membership and other income</td>\n<td></td>\n<td>5,408</td>\n<td></td>\n<td>4,992</td>\n<td></td>\n<td>3,918</td>\n</tr>\n<tr>\n<td>Total revenues</td>\n<td></td>\n<td>611,289</td>\n<td></td>\n<td>572,754</td>\n<td></td>\n<td>559,151</td>\n</tr>\n<tr>\n<td>Costs and expenses:</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Cost of sales</td>\n<td></td>\n<td>463,721</td>\n<td></td>\n<td>429,000</td>\n<td></td>\n<td>420,315</td>\n</tr>\n<tr>\n<td>Operating, selling, general and administrative expenses</td>\n<td></td>\n<td>127,140</td>\n<td></td>\n<td>117,812</td>\n<td></td>\n<td>116,288</td>\n</tr>\n<tr>\n<td>Operating income</td>\n<td></td>\n<td>20,428</td>\n<td></td>\n<td>25,942</td>\n<td></td>\n<td>22,548</td>\n</tr>\n<tr>\n<td>Interest:</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Debt</td>\n<td></td>\n<td>1,787</td>\n<td></td>\n<td>1,674</td>\n<td></td>\n<td>1,976</td>\n</tr>\n<tr>\n<td>Finance lease</td>\n<td></td>\n<td>341</td>\n<td></td>\n<td>320</td>\n<td></td>\n<td>339</td>\n</tr>\n<tr>\n<td>Interest income</td>\n<td></td>\n<td>(254)</td>\n<td></td>\n<td>(158)</td>\n<td></td>\n<td>(121)</td>\n</tr>\n<tr>\n<td>Interest, net</td>\n<td></td>\n<td>1,874</td>\n<td></td>\n<td>1,836</td>\n<td></td>\n<td>2,194</td>\n</tr>\n<tr>\n<td>Loss on extinguishment of debt</td>\n<td></td>\n<td>—</td>\n<td></td>\n<td>2,410</td>\n<td></td>\n<td>—</td>\n</tr>\n<tr>\n<td>Other (gains) and losses</td>\n<td></td>\n<td>1,538</td>\n<td></td>\n<td>3,000</td>\n<td></td>\n<td>(210)</td>\n</tr>\n<tr>\n<td>Income before income taxes</td>\n<td></td>\n<td>17,016</td>\n<td></td>\n<td>18,696</td>\n<td></td>\n<td>20,564</td>\n</tr>\n<tr>\n<td>Provision for income taxes</td>\n<td></td>\n<td>5,724</td>\n<td></td>\n<td>4,756</td>\n<td></td>\n<td>6,858</td>\n</tr>\n<tr>\n<td>Consolidated net income</td>\n<td></td>\n<td>11,292</td>\n<td></td>\n<td>13,940</td>\n<td></td>\n<td>13,706</td>\n</tr>\n<tr>\n<td>Consolidated net (income) loss attributable to noncontrolling interest</td>\n<td></td>\n<td>388</td>\n<td></td>\n<td>(267)</td>\n<td></td>\n<td>(196)</td>\n</tr>\n<tr>\n<td>Consolidated net income attributable to Walmart</td>\n<td>$</td>\n<td>11,680</td>\n<td>$</td>\n<td>13,673</td>\n<td>$</td>\n<td>13,510</td>\n</tr>\n<tr>\n<td>Net income per common share:</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Basic net income per common share attributable to Walmart</td>\n<td>$</td>\n<td>4.29</td>\n<td>$</td>\n<td>4.90</td>\n<td>$</td>\n<td>4.77</td>\n</tr>\n<tr>\n<td>Diluted net income per common share attributable to Walmart</td>\n<td></td>\n<td>4.27</td>\n<td></td>\n<td>4.87</td>\n<td></td>\n<td>4.75</td>\n</tr>\n<tr>\n<td>Weighted-average common shares outstanding:</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Basic</td>\n<td></td>\n<td>2,724</td>\n<td></td>\n<td>2,792</td>\n<td></td>\n<td>2,831</td>\n</tr>\n<tr>\n<td>Diluted</td>\n<td></td>\n<td>2,734</td>\n<td></td>\n<td>2,805</td>\n<td></td>\n<td>2,847</td>\n</tr>\n<tr>\n<td>Dividends declared per common share</td>\n<td>$</td>\n<td>2.24</td>\n<td>$</td>\n<td>2.20</td>\n<td>$</td>\n<td>2.16</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Walmart Inc.\",\"level\":1,\"body\":[]},{\"type\":\"section\",\"heading\":\"Consolidated Statements of Income\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"(Amounts in millions, except per share data)\"},{\"type\":\"table\",\"headers\":[\"\",\"\",\"Fiscal Years Ended January 31,\",\"\",\"\",\"\",\"\"],\"rows\":[[\"\",\"\",\"2023\",\"\",\"2022\",\"\",\"2021\"],[\":---\",\":---:\",\"---:\",\":---:\",\"---:\",\":---:\",\"---:\"],[\"Revenues:\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"Net sales\",\"$\",\"605,881\",\"$\",\"567,762\",\"$\",\"555,233\"],[\"Membership and other income\",\"\",\"5,408\",\"\",\"4,992\",\"\",\"3,918\"],[\"Total revenues\",\"\",\"611,289\",\"\",\"572,754\",\"\",\"559,151\"],[\"Costs and expenses:\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"Cost of sales\",\"\",\"463,721\",\"\",\"429,000\",\"\",\"420,315\"],[\"Operating, selling, general and administrative expenses\",\"\",\"127,140\",\"\",\"117,812\",\"\",\"116,288\"],[\"Operating income\",\"\",\"20,428\",\"\",\"25,942\",\"\",\"22,548\"],[\"Interest:\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"Debt\",\"\",\"1,787\",\"\",\"1,674\",\"\",\"1,976\"],[\"Finance lease\",\"\",\"341\",\"\",\"320\",\"\",\"339\"],[\"Interest income\",\"\",\"(254)\",\"\",\"(158)\",\"\",\"(121)\"],[\"Interest, net\",\"\",\"1,874\",\"\",\"1,836\",\"\",\"2,194\"],[\"Loss on extinguishment of debt\",\"\",\"—\",\"\",\"2,410\",\"\",\"—\"],[\"Other (gains) and losses\",\"\",\"1,538\",\"\",\"3,000\",\"\",\"(210)\"],[\"Income before income taxes\",\"\",\"17,016\",\"\",\"18,696\",\"\",\"20,564\"],[\"Provision for income taxes\",\"\",\"5,724\",\"\",\"4,756\",\"\",\"6,858\"],[\"Consolidated net income\",\"\",\"11,292\",\"\",\"13,940\",\"\",\"13,706\"],[\"Consolidated net (income) loss attributable to noncontrolling interest\",\"\",\"388\",\"\",\"(267)\",\"\",\"(196)\"],[\"Consolidated net income attributable to Walmart\",\"$\",\"11,680\",\"$\",\"13,673\",\"$\",\"13,510\"],[\"Net income per common share:\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"Basic net income per common share attributable to Walmart\",\"$\",\"4.29\",\"$\",\"4.90\",\"$\",\"4.77\"],[\"Diluted net income per common share attributable to Walmart\",\"\",\"4.27\",\"\",\"4.87\",\"\",\"4.75\"],[\"Weighted-average common shares outstanding:\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"Basic\",\"\",\"2,724\",\"\",\"2,792\",\"\",\"2,831\"],[\"Diluted\",\"\",\"2,734\",\"\",\"2,805\",\"\",\"2,847\"],[\"Dividends declared per common share\",\"$\",\"2.24\",\"$\",\"2.20\",\"$\",\"2.16\"]]}]}]}",
+    "markdown": "# Walmart Inc.\n\n# Consolidated Statements of Income\n\n(Amounts in millions, except per share data)\n\n|  |  | Fiscal Years Ended January 31, |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  | 2023 |  | 2022 |  | 2021 |\n| :--- | :---: | ---: | :---: | ---: | :---: | ---: |\n| Revenues: |  |  |  |  |  |  |\n| Net sales | $ | 605,881 | $ | 567,762 | $ | 555,233 |\n| Membership and other income |  | 5,408 |  | 4,992 |  | 3,918 |\n| Total revenues |  | 611,289 |  | 572,754 |  | 559,151 |\n| Costs and expenses: |  |  |  |  |  |  |\n| Cost of sales |  | 463,721 |  | 429,000 |  | 420,315 |\n| Operating, selling, general and administrative expenses |  | 127,140 |  | 117,812 |  | 116,288 |\n| Operating income |  | 20,428 |  | 25,942 |  | 22,548 |\n| Interest: |  |  |  |  |  |  |\n| Debt |  | 1,787 |  | 1,674 |  | 1,976 |\n| Finance lease |  | 341 |  | 320 |  | 339 |\n| Interest income |  | (254) |  | (158) |  | (121) |\n| Interest, net |  | 1,874 |  | 1,836 |  | 2,194 |\n| Loss on extinguishment of debt |  | — |  | 2,410 |  | — |\n| Other (gains) and losses |  | 1,538 |  | 3,000 |  | (210) |\n| Income before income taxes |  | 17,016 |  | 18,696 |  | 20,564 |\n| Provision for income taxes |  | 5,724 |  | 4,756 |  | 6,858 |\n| Consolidated net income |  | 11,292 |  | 13,940 |  | 13,706 |\n| Consolidated net (income) loss attributable to noncontrolling interest |  | 388 |  | (267) |  | (196) |\n| Consolidated net income attributable to Walmart | $ | 11,680 | $ | 13,673 | $ | 13,510 |\n| Net income per common share: |  |  |  |  |  |  |\n| Basic net income per common share attributable to Walmart | $ | 4.29 | $ | 4.90 | $ | 4.77 |\n| Diluted net income per common share attributable to Walmart |  | 4.27 |  | 4.87 |  | 4.75 |\n| Weighted-average common shares outstanding: |  |  |  |  |  |  |\n| Basic |  | 2,724 |  | 2,792 |  | 2,831 |\n| Diluted |  | 2,734 |  | 2,805 |  | 2,847 |\n| Dividends declared per common share | $ | 2.24 | $ | 2.20 | $ | 2.16 |\n",
+    "plain": "Walmart Inc.\n\nConsolidated Statements of Income\n(Amounts in millions, except per share data)\n\n  Fiscal Years Ended January 31,    \n  2023  2022  2021\n:--- :---: ---: :---: ---: :---: ---:\nRevenues:      \nNet sales $ 605,881 $ 567,762 $ 555,233\nMembership and other income  5,408  4,992  3,918\nTotal revenues  611,289  572,754  559,151\nCosts and expenses:      \nCost of sales  463,721  429,000  420,315\nOperating, selling, general and administrative expenses  127,140  117,812  116,288\nOperating income  20,428  25,942  22,548\nInterest:      \nDebt  1,787  1,674  1,976\nFinance lease  341  320  339\nInterest income  (254)  (158)  (121)\nInterest, net  1,874  1,836  2,194\nLoss on extinguishment of debt  —  2,410  —\nOther (gains) and losses  1,538  3,000  (210)\nIncome before income taxes  17,016  18,696  20,564\nProvision for income taxes  5,724  4,756  6,858\nConsolidated net income  11,292  13,940  13,706\nConsolidated net (income) loss attributable to noncontrolling interest  388  (267)  (196)\nConsolidated net income attributable to Walmart $ 11,680 $ 13,673 $ 13,510\nNet income per common share:      \nBasic net income per common share attributable to Walmart $ 4.29 $ 4.90 $ 4.77\nDiluted net income per common share attributable to Walmart  4.27  4.87  4.75\nWeighted-average common shares outstanding:      \nBasic  2,724  2,792  2,831\nDiluted  2,734  2,805  2,847\nDividends declared per common share $ 2.24 $ 2.20 $ 2.16"
+  }
+}

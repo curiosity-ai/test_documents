@@ -1,0 +1,12 @@
+{
+  "file": "images/test.avif",
+  "mime_type": "image/avif",
+  "success": false,
+  "error": "Unsupported format: image/avif",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/latex/basic_sections.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 25,
+      "word_count": 46,
+      "character_count": 344
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/latex/basic_sections.txt",
+      "final_uri": "ground_truth/latex/basic_sections.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>title: Test Document</p>\n<p>author: John Doe</p>\n<p>date: 2025-12-07</p>\n<p>Introduction</p>\n<p>This is the introduction paragraph with some basic text.</p>\n<p>Background</p>\n<p>This subsection provides background information.</p>\n<p>Historical Context</p>\n<p>This is a deeper level of organization.</p>\n<p>Methods</p>\n<p>This section describes the methods used.</p>\n<p>Results</p>\n<p>The results are presented here.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"title: Test Document\"},{\"type\":\"paragraph\",\"text\":\"author: John Doe\"},{\"type\":\"paragraph\",\"text\":\"date: 2025-12-07\"},{\"type\":\"paragraph\",\"text\":\"Introduction\"},{\"type\":\"paragraph\",\"text\":\"This is the introduction paragraph with some basic text.\"},{\"type\":\"paragraph\",\"text\":\"Background\"},{\"type\":\"paragraph\",\"text\":\"This subsection provides background information.\"},{\"type\":\"paragraph\",\"text\":\"Historical Context\"},{\"type\":\"paragraph\",\"text\":\"This is a deeper level of organization.\"},{\"type\":\"paragraph\",\"text\":\"Methods\"},{\"type\":\"paragraph\",\"text\":\"This section describes the methods used.\"},{\"type\":\"paragraph\",\"text\":\"Results\"},{\"type\":\"paragraph\",\"text\":\"The results are presented here.\"}]}",
+    "markdown": "title: Test Document\n\nauthor: John Doe\n\ndate: 2025-12-07\n\nIntroduction\n\nThis is the introduction paragraph with some basic text.\n\nBackground\n\nThis subsection provides background information.\n\nHistorical Context\n\nThis is a deeper level of organization.\n\nMethods\n\nThis section describes the methods used.\n\nResults\n\nThe results are presented here.\n",
+    "plain": "title: Test Document\n\nauthor: John Doe\n\ndate: 2025-12-07\n\nIntroduction\n\nThis is the introduction paragraph with some basic text.\n\nBackground\n\nThis subsection provides background information.\n\nHistorical Context\n\nThis is a deeper level of organization.\n\nMethods\n\nThis section describes the methods used.\n\nResults\n\nThe results are presented here."
+  }
+}

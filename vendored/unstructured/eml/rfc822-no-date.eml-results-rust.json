@@ -1,0 +1,33 @@
+{
+  "file": "vendored/unstructured/eml/rfc822-no-date.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Example Email Without Date Header",
+    "format": {
+      "format_type": "email",
+      "from_email": "sender@example.com",
+      "to_emails": [
+        "recipient@example.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "attachments": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "vendored/unstructured/eml/rfc822-no-date.eml",
+      "source_index": 0,
+      "source_uri": "vendored/unstructured/eml/rfc822-no-date.eml"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Example Email Without Date Header</p>\n<p><strong>From</strong>: sender@example.com</p>\n<p><strong>To</strong>: recipient@example.com</p>\n<p>This is an example email message without a Date header. Note that this is non-standard and may be flagged or corrected by email servers.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is an example email message without a Date header. Note that this is non-standard and may be flagged or corrected by email servers.\"}]}",
+    "markdown": "**Subject**: Example Email Without Date Header\n\n**From**: sender@example.com\n\n**To**: recipient@example.com\n\nThis is an example email message without a Date header. Note that this is non-standard and may be flagged or corrected by email servers.\n",
+    "plain": "Subject: Example Email Without Date Header\nFrom: sender@example.com\nTo: recipient@example.com\n\nThis is an example email message without a Date header. Note that this is non-standard and may be flagged or corrected by email servers."
+  }
+}

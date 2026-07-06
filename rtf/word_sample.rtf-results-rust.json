@@ -1,0 +1,63 @@
+{
+  "file": "rtf/word_sample.rtf",
+  "mime_type": "application/rtf",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Christoph Auer"
+    ],
+    "created_at": "2024-10-09T12:43:00Z",
+    "modified_at": "2024-10-15T11:34:00Z",
+    "created_by": "Christoph Auer",
+    "modified_by": "Maxim Lysak",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "character_count": 620,
+      "word_count": 108,
+      "source_index": 0,
+      "paragraph_count": 1,
+      "revision": "7",
+      "line_count": 5,
+      "final_uri": "rtf/word_sample.rtf",
+      "page_count": 2,
+      "source_kind": "uri",
+      "source_uri": "rtf/word_sample.rtf",
+      "generator": "pandoc-test"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          "Food",
+          "Calories per portion"
+        ],
+        [
+          "Leaves",
+          "Ash, Elm, Maple",
+          "50"
+        ],
+        [
+          "Berries",
+          "Blueberry, Strawberry, Cranberry",
+          "150"
+        ],
+        [
+          "Grain",
+          "Corn, Buckwheat, Barley",
+          "200"
+        ]
+      ],
+      "markdown": "|  | Food | Calories per portion |\n| --- | --- | --- |\n| Leaves | Ash, Elm, Maple | 50 |\n| Berries | Blueberry, Strawberry, Cranberry | 150 |\n| Grain | Corn, Buckwheat, Barley | 200 |\n",
+      "page_number": 0
+    }
+  ],
+  "content": {
+    "html": "<p><strong>Swimming in the lake</strong></p>\n<p>Duck</p>\n<p>Figure 1: This is a cute duckling</p>\n<h1>Let’s swim!</h1>\n<p>To get started with swimming, first lay down in a water and try not to drown:</p>\n<p>• You can relax and look around</p>\n<p>• Paddle about</p>\n<p>• Enjoy summer warmth</p>\n<p>Also, don’t forget:</p>\n<p>1. Wear sunglasses</p>\n<p>2. Don’t forget to drink water</p>\n<p>3. Use sun cream</p>\n<p>Hmm, what else…</p>\n<h2>Let’s eat</h2>\n<p>After we had a good day of swimming in the lake, it’s important to eat something nice</p>\n<p>I like to eat leaves</p>\n<p>Here are some interesting things a respectful duck could eat:</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Food</th>\n<th>Calories per portion</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Leaves</td>\n<td>Ash, Elm, Maple</td>\n<td>50</td>\n</tr>\n<tr>\n<td>Berries</td>\n<td>Blueberry, Strawberry, Cranberry</td>\n<td>150</td>\n</tr>\n<tr>\n<td>Grain</td>\n<td>Corn, Buckwheat, Barley</td>\n<td>200</td>\n</tr>\n</tbody>\n</table>\n<p>Content table</p>\n<p>And let’s add another list in the end:</p>\n<p>1. Leaves</p>\n<p>2. Berries</p>\n<p>3. Grain</p>\n<p><img src=\"image_0.png\" alt=\"image\" /></p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Swimming in the lake\"},{\"type\":\"paragraph\",\"text\":\"Duck\"},{\"type\":\"paragraph\",\"text\":\"Figure 1: This is a cute duckling\"},{\"type\":\"section\",\"heading\":\"Let’s swim!\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"To get started with swimming, first lay down in a water and try not to drown:\"},{\"type\":\"paragraph\",\"text\":\"• You can relax and look around\"},{\"type\":\"paragraph\",\"text\":\"• Paddle about\"},{\"type\":\"paragraph\",\"text\":\"• Enjoy summer warmth\"},{\"type\":\"paragraph\",\"text\":\"Also, don’t forget:\"},{\"type\":\"paragraph\",\"text\":\"1. Wear sunglasses\"},{\"type\":\"paragraph\",\"text\":\"2. Don’t forget to drink water\"},{\"type\":\"paragraph\",\"text\":\"3. Use sun cream\"},{\"type\":\"paragraph\",\"text\":\"Hmm, what else…\"},{\"type\":\"section\",\"heading\":\"Let’s eat\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"After we had a good day of swimming in the lake, it’s important to eat something nice\"},{\"type\":\"paragraph\",\"text\":\"I like to eat leaves\"},{\"type\":\"paragraph\",\"text\":\"Here are some interesting things a respectful duck could eat:\"},{\"type\":\"table\",\"headers\":[\"\",\"Food\",\"Calories per portion\"],\"rows\":[[\"Leaves\",\"Ash, Elm, Maple\",\"50\"],[\"Berries\",\"Blueberry, Strawberry, Cranberry\",\"150\"],[\"Grain\",\"Corn, Buckwheat, Barley\",\"200\"]]},{\"type\":\"paragraph\",\"text\":\"Content table\"},{\"type\":\"paragraph\",\"text\":\"And let’s add another list in the end:\"},{\"type\":\"paragraph\",\"text\":\"1. Leaves\"},{\"type\":\"paragraph\",\"text\":\"2. Berries\"},{\"type\":\"paragraph\",\"text\":\"3. Grain\"},{\"type\":\"image\",\"alt\":\"image\",\"src\":\"image_0.png\"}]}]}]}",
+    "markdown": "**Swimming in the lake**\n\nDuck\n\nFigure 1: This is a cute duckling\n\n# Let’s swim\\!\n\nTo get started with swimming, first lay down in a water and try not to drown:\n\n• You can relax and look around\n\n• Paddle about\n\n• Enjoy summer warmth\n\nAlso, don’t forget:\n\n1\\. Wear sunglasses\n\n2\\. Don’t forget to drink water\n\n3\\. Use sun cream\n\nHmm, what else…\n\n## Let’s eat\n\nAfter we had a good day of swimming in the lake, it’s important to eat something nice\n\nI like to eat leaves\n\nHere are some interesting things a respectful duck could eat:\n\n|  | Food | Calories per portion |\n| --- | --- | --- |\n| Leaves | Ash, Elm, Maple | 50 |\n| Berries | Blueberry, Strawberry, Cranberry | 150 |\n| Grain | Corn, Buckwheat, Barley | 200 |\n\nContent table\n\nAnd let’s add another list in the end:\n\n1\\. Leaves\n\n2\\. Berries\n\n3\\. Grain\n\n![image](image_0.png)\n",
+    "plain": "Swimming in the lake\n\nDuck\n\nFigure 1: This is a cute duckling\n\nLet’s swim!\nTo get started with swimming, first lay down in a water and try not to drown:\n\n• You can relax and look around\n\n• Paddle about\n\n• Enjoy summer warmth\n\nAlso, don’t forget:\n\n1. Wear sunglasses\n\n2. Don’t forget to drink water\n\n3. Use sun cream\n\nHmm, what else…\n\n  Let’s eat\nAfter we had a good day of swimming in the lake, it’s important to eat something nice\n\nI like to eat leaves\n\nHere are some interesting things a respectful duck could eat:\n\n Food Calories per portion\nLeaves Ash, Elm, Maple 50\nBerries Blueberry, Strawberry, Cranberry 150\nGrain Corn, Buckwheat, Barley 200\n\nContent table\n\nAnd let’s add another list in the end:\n\n1. Leaves\n\n2. Berries\n\n3. Grain\n\n[Image: image]"
+  }
+}

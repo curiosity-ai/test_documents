@@ -1,0 +1,55 @@
+{
+  "file": "pptx/powerpoint_bad_text.pptx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  "success": true,
+  "metadata": {
+    "title": "Title with image",
+    "authors": [
+      "Pia Bardesono"
+    ],
+    "created_at": "2023-11-02T11:31:14Z",
+    "modified_at": "2025-05-27T09:11:43Z",
+    "created_by": "Pia Bardesono",
+    "modified_by": "Wind, Martin",
+    "format": {
+      "format_type": "pptx",
+      "slide_count": 1,
+      "slide_names": [
+        "Calibri",
+        "Roboto",
+        "Roboto Light",
+        "191015_IMC_PPT_Master_Vs4",
+        "X-Library The fully customisable and copyright-free standard content template collection exclusively for our customers"
+      ],
+      "image_count": 0,
+      "table_count": 0
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "custom_xd_Signature": "false",
+      "source_uri": "pptx/powerpoint_bad_text.pptx",
+      "application_version": "16.0000",
+      "final_uri": "pptx/powerpoint_bad_text.pptx",
+      "custom_Tfs.IsStoryboard": "true",
+      "custom_Order": "30197800.0",
+      "notes_count": 0,
+      "hidden_slides": 0,
+      "revision": "154",
+      "source_index": 0,
+      "slide_titles": "Calibri, Roboto, Roboto Light, 191015_IMC_PPT_Master_Vs4, X-Library The fully customisable and copyright-free standard content template collection exclusively for our customers",
+      "source_kind": "uri",
+      "presentation_format": "Benutzerdefiniert",
+      "application": "Microsoft Macintosh PowerPoint",
+      "custom_ContentTypeId": "0x010100A5E288E95AFD244390D0791939D38F50",
+      "custom_Tfs.LastKnownPath": "https://imcoffice365.sharepoint.com/sites/Design/Freigegebene Dokumente/002 BRAND ASSETS 2020/IMC_Powerpoint/191125_IMC_PPT_Master_Vs4_English.pptx"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>**X-Library** The fully customisable and copyright- free standard content template collection exclusively for our customers</h2>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"**X-Library** The fully customisable and copyright- free standard content template collection exclusively for our customers\",\"level\":2,\"body\":[]}]}",
+    "markdown": "## **X-Library** The fully customisable and copyright- free standard content template collection exclusively for our customers\n",
+    "plain": "X-Library The fully customisable and copyright- free standard content template collection exclusively for our customers"
+  }
+}

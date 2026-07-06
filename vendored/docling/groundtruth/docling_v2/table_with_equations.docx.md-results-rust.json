@@ -1,0 +1,37 @@
+{
+  "file": "vendored/docling/groundtruth/docling_v2/table_with_equations.docx.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/docling/groundtruth/docling_v2/table_with_equations.docx.md",
+      "final_uri": "vendored/docling/groundtruth/docling_v2/table_with_equations.docx.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "The next cell has an equation",
+          "$A= \\pi r^{2}$"
+        ],
+        [
+          "The next cell has another equation",
+          "$x=\\frac{-b \\pm \\sqrt{b^{2}-4ac}}{2a}$"
+        ]
+      ],
+      "markdown": "| The next cell has an equation | $A= \\pi r^{2}$ |\n| --- | --- |\n| The next cell has another equation | $x=\\frac{-b \\pm \\sqrt{b^{2}-4ac}}{2a}$ |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>The next cell has an equation</th>\n<th>$A= \\pi r^{2}$</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>The next cell has another equation</td>\n<td>$x=\\frac{-b \\pm \\sqrt{b^{2}-4ac}}{2a}$</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"The next cell has an equation\",\"$A= \\\\pi r^{2}$\"],\"rows\":[[\"The next cell has another equation\",\"$x=\\\\frac{-b \\\\pm \\\\sqrt{b^{2}-4ac}}{2a}$\"]]}]}",
+    "markdown": "| The next cell has an equation | $A= \\\\pi r^{2}$ |\n| --- | --- |\n| The next cell has another equation | $x=\\\\frac{-b \\\\pm \\\\sqrt{b^{2}-4ac}}{2a}$ |\n",
+    "plain": "The next cell has an equation $A= \\pi r^{2}$\nThe next cell has another equation $x=\\frac{-b \\pm \\sqrt{b^{2}-4ac}}{2a}$"
+  }
+}

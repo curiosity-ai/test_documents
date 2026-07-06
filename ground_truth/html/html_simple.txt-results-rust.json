@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/html_simple.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 95,
+      "word_count": 37,
+      "character_count": 311
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/html/html_simple.txt",
+      "final_uri": "ground_truth/html/html_simple.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Sample Data Table</p>\n<p>Product</p>\n<p>Category</p>\n<p>Price</p>\n<p>Stock</p>\n<p>Laptop</p>\n<p>Electronics</p>\n<p>$999.99</p>\n<p>25</p>\n<p>Desk Chair</p>\n<p>Furniture</p>\n<p>$199.99</p>\n<p>8</p>\n<p>Coffee Mug</p>\n<p>Kitchen</p>\n<p>$9.99</p>\n<p>150</p>\n<p>Notebook</p>\n<p>Office</p>\n<p>$3.49</p>\n<p>75</p>\n<p>Summary Statistics</p>\n<p>Total Products:</p>\n<p>4</p>\n<p>Average Price:</p>\n<p>$303.12</p>\n<p>Total Stock:</p>\n<p>258 units</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Sample Data Table\"},{\"type\":\"paragraph\",\"text\":\"Product\"},{\"type\":\"paragraph\",\"text\":\"Category\"},{\"type\":\"paragraph\",\"text\":\"Price\"},{\"type\":\"paragraph\",\"text\":\"Stock\"},{\"type\":\"paragraph\",\"text\":\"Laptop\"},{\"type\":\"paragraph\",\"text\":\"Electronics\"},{\"type\":\"paragraph\",\"text\":\"$999.99\"},{\"type\":\"paragraph\",\"text\":\"25\"},{\"type\":\"paragraph\",\"text\":\"Desk Chair\"},{\"type\":\"paragraph\",\"text\":\"Furniture\"},{\"type\":\"paragraph\",\"text\":\"$199.99\"},{\"type\":\"paragraph\",\"text\":\"8\"},{\"type\":\"paragraph\",\"text\":\"Coffee Mug\"},{\"type\":\"paragraph\",\"text\":\"Kitchen\"},{\"type\":\"paragraph\",\"text\":\"$9.99\"},{\"type\":\"paragraph\",\"text\":\"150\"},{\"type\":\"paragraph\",\"text\":\"Notebook\"},{\"type\":\"paragraph\",\"text\":\"Office\"},{\"type\":\"paragraph\",\"text\":\"$3.49\"},{\"type\":\"paragraph\",\"text\":\"75\"},{\"type\":\"paragraph\",\"text\":\"Summary Statistics\"},{\"type\":\"paragraph\",\"text\":\"Total Products:\"},{\"type\":\"paragraph\",\"text\":\"4\"},{\"type\":\"paragraph\",\"text\":\"Average Price:\"},{\"type\":\"paragraph\",\"text\":\"$303.12\"},{\"type\":\"paragraph\",\"text\":\"Total Stock:\"},{\"type\":\"paragraph\",\"text\":\"258 units\"}]}",
+    "markdown": "Sample Data Table\n\nProduct\n\nCategory\n\nPrice\n\nStock\n\nLaptop\n\nElectronics\n\n$999.99\n\n25\n\nDesk Chair\n\nFurniture\n\n$199.99\n\n8\n\nCoffee Mug\n\nKitchen\n\n$9.99\n\n150\n\nNotebook\n\nOffice\n\n$3.49\n\n75\n\nSummary Statistics\n\nTotal Products:\n\n4\n\nAverage Price:\n\n$303.12\n\nTotal Stock:\n\n258 units\n",
+    "plain": "Sample Data Table\n\nProduct\n\nCategory\n\nPrice\n\nStock\n\nLaptop\n\nElectronics\n\n$999.99\n\n25\n\nDesk Chair\n\nFurniture\n\n$199.99\n\n8\n\nCoffee Mug\n\nKitchen\n\n$9.99\n\n150\n\nNotebook\n\nOffice\n\n$3.49\n\n75\n\nSummary Statistics\n\nTotal Products:\n\n4\n\nAverage Price:\n\n$303.12\n\nTotal Stock:\n\n258 units"
+  }
+}

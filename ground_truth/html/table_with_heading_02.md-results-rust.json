@@ -1,0 +1,38 @@
+{
+  "file": "ground_truth/html/table_with_heading_02.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Main Title",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/html/table_with_heading_02.md",
+      "source_index": 0,
+      "source_uri": "ground_truth/html/table_with_heading_02.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "A<br>text",
+          "B"
+        ],
+        [
+          "1...",
+          "2..."
+        ]
+      ],
+      "markdown": "| A<br>text | B |\n| --- | --- |\n| 1... | 2... |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Main Title</h1>\n<p>Before the table</p>\n<table>\n<thead>\n<tr>\n<th>A&lt;br&gt;text</th>\n<th>B</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1...</td>\n<td>2...</td>\n</tr>\n</tbody>\n</table>\n<h2>Section After</h2>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Main Title\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Before the table\"},{\"type\":\"table\",\"headers\":[\"A<br>text\",\"B\"],\"rows\":[[\"1...\",\"2...\"]]},{\"type\":\"section\",\"heading\":\"Section After\",\"level\":2,\"body\":[]}]}]}",
+    "markdown": "# Main Title\n\nBefore the table\n\n| A\\<br\\>text | B |\n| --- | --- |\n| 1... | 2... |\n\n## Section After\n",
+    "plain": "Main Title\nBefore the table\n\nA<br>text B\n1... 2...\n\n  Section After"
+  }
+}

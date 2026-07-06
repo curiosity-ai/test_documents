@@ -1,0 +1,118 @@
+{
+  "file": "pdf/issue-636-chunk-pages.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "authors": [
+      "ishbir"
+    ],
+    "created_at": "2026-03-25T17:09:42Z",
+    "modified_at": "2026-04-03T21:21:12Z",
+    "created_by": "UPDF",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.7",
+      "producer": "UPDF",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 2
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "extraction_method": "native",
+      "source_index": 0,
+      "final_uri": "pdf/issue-636-chunk-pages.pdf",
+      "source_kind": "uri",
+      "source_uri": "pdf/issue-636-chunk-pages.pdf"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Exercise",
+          "",
+          "Exercise",
+          ""
+        ],
+        [
+          "image step",
+          "",
+          "image step",
+          ""
+        ]
+      ],
+      "markdown": "| Exercise |  | Exercise |  |\n| --- | --- | --- | --- |\n| image step |  | image step |  |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 24.1200008392334,
+        "y0": 585.5999145507812,
+        "x1": 334.8777770996094,
+        "y1": 608.7599487304688
+      }
+    },
+    {
+      "cells": [
+        [
+          "REPS: 10",
+          "SETS: 3",
+          "HOLD: 2 SEC",
+          "DAILY: 1"
+        ],
+        [
+          "WEEKLY: 7",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| REPS: 10 | SETS: 3 | HOLD: 2 SEC | DAILY: 1 |\n| --- | --- | --- | --- |\n| WEEKLY: 7 |  |  |  |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 23.040000915527344,
+        "y0": 620.7598876953125,
+        "x1": 588.1799926757812,
+        "y1": 666.3599243164062
+      }
+    },
+    {
+      "cells": [
+        [
+          "Exercise",
+          "",
+          "Exercise",
+          ""
+        ],
+        [
+          "image step",
+          "",
+          "image step",
+          ""
+        ],
+        [
+          "REPS: 10",
+          "SETS: 3",
+          "HOLD: 2",
+          "DAILY: 1"
+        ]
+      ],
+      "markdown": "| Exercise |  | Exercise |  |\n| --- | --- | --- | --- |\n| image step |  | image step |  |\n| REPS: 10 | SETS: 3 | HOLD: 2 | DAILY: 1 |\n",
+      "page_number": 2,
+      "bounding_box": {
+        "x0": 23.040000915527344,
+        "y0": 664.1998901367188,
+        "x1": 588.1799926757812,
+        "y1": 722.159912109375
+      }
+    }
+  ],
+  "content": {
+    "html": "<h1>Supine Active Straight Leg Raise</h1>\n<table>\n<thead>\n<tr>\n<th>REPS: 10</th>\n<th>SETS: 3</th>\n<th>HOLD: 2 SEC</th>\n<th>DAILY: 1</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>WEEKLY: 7</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Exercise</th>\n<th></th>\n<th>Exercise</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>image step</td>\n<td></td>\n<td>image step</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2>Setup</h2>\n<h3>Begin lying on your back with one knee bent and your other leg straight.</h3>\n<h2>Movement</h2>\n<p>Engaging your thigh muscles, slowly lift your straight leg until it is parallel with your other thigh, then lower it back to the starting position and repeat.</p>\n<h2>Tip</h2>\n<h3>Make sure to keep your leg straight and do not let your back arch during the exercise.</h3>\n<p>Disclaimer: This program provides exercises related to preventative maintenance OR to your condition that you can perform at home. As there is a risk of injury with any activity, use caution when performing exercises. If you experience any pain or discomfort, discontinue the exercises and contact your healthcare provider.</p>\n<h1>Sidelying Hip Abduction</h1>\n<table>\n<thead>\n<tr>\n<th>Exercise</th>\n<th></th>\n<th>Exercise</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>image step</td>\n<td></td>\n<td>image step</td>\n<td></td>\n</tr>\n<tr>\n<td>REPS: 10</td>\n<td>SETS: 3</td>\n<td>HOLD: 2</td>\n<td>DAILY: 1</td>\n</tr>\n</tbody>\n</table>\n<h2>Setup</h2>\n<h3>Begin lying on your side with your top leg straight and your bottom leg bent.</h3>\n<h2>Movement</h2>\n<h3>Lift your top leg up toward the ceiling, then slowly lower it back down and repeat.</h3>\n<h2>Tip</h2>\n<h3>Make sure to keep your leg straight and do not let your hips roll backward or forward during the exercise.</h3>\n<p>Disclaimer: This program provides exercises related to preventative maintenance OR to your condition that you can perform at home. As there is a risk of injury with any activity, use caution when performing exercises. If you experience any pain or discomfort, discontinue the exercises and contact your healthcare provider.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Supine Active Straight Leg Raise\"},{\"type\":\"paragraph\",\"text\":\"REPS: 10 SETS: 3\"},{\"type\":\"paragraph\",\"text\":\"WEEKLY: 7\\nExercise\\nimage step\\n1\"},{\"type\":\"paragraph\",\"text\":\"Setup\\nBegin lying on your back with one knee bent and your other leg straight.\"},{\"type\":\"paragraph\",\"text\":\"Movement\\nEngaging your thigh muscles, slowly lift your straight leg until it is parallel with your\\nother thigh, then lower it back to the starting position and repeat.\"},{\"type\":\"paragraph\",\"text\":\"Tip\\nMake sure to keep your leg straight and do not let your back arch during the\\nexercise.\"},{\"type\":\"paragraph\",\"text\":\"Disclaimer: This program provides exercises related to preventative maintenance OR to your condition that you can perform at home. As there is a risk of injury\\nwith any activity, use caution when performing exercises. If you experience any pain or discomfort, discontinue the exercises and contact your healthcare\\nprovider.\"},{\"type\":\"paragraph\",\"text\":\"HOLD: 2 SEC\"},{\"type\":\"paragraph\",\"text\":\"Exercise\\nimage step\\n2\"},{\"type\":\"paragraph\",\"text\":\"DAILY: 1\"},{\"type\":\"paragraph\",\"text\":\"Page 1\"},{\"type\":\"paragraph\",\"text\":\"Sidelying Hip Abduction\"},{\"type\":\"paragraph\",\"text\":\"REPS: 10\\nExercise\\nimage step\\n1\"},{\"type\":\"paragraph\",\"text\":\"Setup\\nBegin lying on your side with your top leg straight and your bottom leg bent.\"},{\"type\":\"paragraph\",\"text\":\"Movement\\nLift your top leg up toward the ceiling, then slowly lower it back down and repeat.\"},{\"type\":\"paragraph\",\"text\":\"Tip\\nMake sure to keep your leg straight and do not let your hips roll backward or forward\\nduring the exercise.\"},{\"type\":\"paragraph\",\"text\":\"Disclaimer: This program provides exercises related to preventative maintenance OR to your condition that you can perform at home. As there is a risk of injury\\nwith any activity, use caution when performing exercises. If you experience any pain or discomfort, discontinue the exercises and contact your healthcare\\nprovider.\"},{\"type\":\"paragraph\",\"text\":\"SETS: 3 HOLD: 2\\n Exercise\\nimage step\\n2\"},{\"type\":\"paragraph\",\"text\":\"DAILY: 1\"},{\"type\":\"paragraph\",\"text\":\"Page 2\"},{\"type\":\"table\",\"headers\":[\"Exercise\",\"\",\"Exercise\",\"\"],\"rows\":[[\"image step\",\"\",\"image step\",\"\"]]},{\"type\":\"table\",\"headers\":[\"REPS: 10\",\"SETS: 3\",\"HOLD: 2 SEC\",\"DAILY: 1\"],\"rows\":[[\"WEEKLY: 7\",\"\",\"\",\"\"]]},{\"type\":\"table\",\"headers\":[\"Exercise\",\"\",\"Exercise\",\"\"],\"rows\":[[\"image step\",\"\",\"image step\",\"\"],[\"REPS: 10\",\"SETS: 3\",\"HOLD: 2\",\"DAILY: 1\"]]}]}",
+    "markdown": "# Supine Active Straight Leg Raise\n\n| REPS: 10 | SETS: 3 | HOLD: 2 SEC | DAILY: 1 |\n| --- | --- | --- | --- |\n| WEEKLY: 7 |  |  |  |\n\n| Exercise |  | Exercise |  |\n| --- | --- | --- | --- |\n| image step |  | image step |  |\n\n## Setup\n\n### Begin lying on your back with one knee bent and your other leg straight.\n\n## Movement\n\nEngaging your thigh muscles, slowly lift your straight leg until it is parallel with your other thigh, then lower it back to the starting position and repeat.\n\n## Tip\n\n### Make sure to keep your leg straight and do not let your back arch during the exercise.\n\nDisclaimer: This program provides exercises related to preventative maintenance OR to your condition that you can perform at home. As there is a risk of injury with any activity, use caution when performing exercises. If you experience any pain or discomfort, discontinue the exercises and contact your healthcare provider.\n\n# Sidelying Hip Abduction\n\n| Exercise |  | Exercise |  |\n| --- | --- | --- | --- |\n| image step |  | image step |  |\n| REPS: 10 | SETS: 3 | HOLD: 2 | DAILY: 1 |\n\n## Setup\n\n### Begin lying on your side with your top leg straight and your bottom leg bent.\n\n## Movement\n\n### Lift your top leg up toward the ceiling, then slowly lower it back down and repeat.\n\n## Tip\n\n### Make sure to keep your leg straight and do not let your hips roll backward or forward during the exercise.\n\nDisclaimer: This program provides exercises related to preventative maintenance OR to your condition that you can perform at home. As there is a risk of injury with any activity, use caution when performing exercises. If you experience any pain or discomfort, discontinue the exercises and contact your healthcare provider.\n",
+    "plain": "Supine Active Straight Leg Raise\n\nREPS: 10 SETS: 3\n\nWEEKLY: 7\nExercise\nimage step\n1\n\nSetup\nBegin lying on your back with one knee bent and your other leg straight.\n\nMovement\nEngaging your thigh muscles, slowly lift your straight leg until it is parallel with your\nother thigh, then lower it back to the starting position and repeat.\n\nTip\nMake sure to keep your leg straight and do not let your back arch during the\nexercise.\n\nDisclaimer: This program provides exercises related to preventative maintenance OR to your condition that you can perform at home. As there is a risk of injury\nwith any activity, use caution when performing exercises. If you experience any pain or discomfort, discontinue the exercises and contact your healthcare\nprovider.\n\nHOLD: 2 SEC\n\nExercise\nimage step\n2\n\nDAILY: 1\n\nPage 1\n\nSidelying Hip Abduction\n\nREPS: 10\nExercise\nimage step\n1\n\nSetup\nBegin lying on your side with your top leg straight and your bottom leg bent.\n\nMovement\nLift your top leg up toward the ceiling, then slowly lower it back down and repeat.\n\nTip\nMake sure to keep your leg straight and do not let your hips roll backward or forward\nduring the exercise.\n\nDisclaimer: This program provides exercises related to preventative maintenance OR to your condition that you can perform at home. As there is a risk of injury\nwith any activity, use caution when performing exercises. If you experience any pain or discomfort, discontinue the exercises and contact your healthcare\nprovider.\n\nSETS: 3 HOLD: 2\n Exercise\nimage step\n2\n\nDAILY: 1\n\nPage 2\n\nExercise  Exercise \nimage step  image step \n\nREPS: 10 SETS: 3 HOLD: 2 SEC DAILY: 1\nWEEKLY: 7   \n\nExercise  Exercise \nimage step  image step \nREPS: 10 SETS: 3 HOLD: 2 DAILY: 1"
+  }
+}

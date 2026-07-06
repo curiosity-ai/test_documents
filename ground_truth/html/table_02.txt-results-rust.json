@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/table_02.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 13,
+      "word_count": 21,
+      "character_count": 360
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/html/table_02.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/html/table_02.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Header</p>\n<p>This is the first paragraph.</p>\n<p>----------------------------------- ----------------------------------- A B</p>\n<p>First Paragraph 2... Second Paragraph Third Paragraph ----------------------------------- -----------------------------------</p>\n<p>After table</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Header\"},{\"type\":\"paragraph\",\"text\":\"This is the first paragraph.\"},{\"type\":\"paragraph\",\"text\":\"----------------------------------- -----------------------------------\\n  A                                   B\"},{\"type\":\"paragraph\",\"text\":\"First Paragraph                     2...\\n  Second Paragraph                    \\n  Third Paragraph                     \\n  ----------------------------------- -----------------------------------\"},{\"type\":\"paragraph\",\"text\":\"After table\"}]}",
+    "markdown": "Header\n\nThis is the first paragraph.\n\n\\----------------------------------- ----------------------------------- A B\n\nFirst Paragraph 2... Second Paragraph Third Paragraph ----------------------------------- -----------------------------------\n\nAfter table\n",
+    "plain": "Header\n\nThis is the first paragraph.\n\n----------------------------------- -----------------------------------\n  A                                   B\n\nFirst Paragraph                     2...\n  Second Paragraph                    \n  Third Paragraph                     \n  ----------------------------------- -----------------------------------\n\nAfter table"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "file": "images/chi_sim_image.jpeg",
+  "mime_type": "image/jpeg",
+  "success": false,
+  "error": "Unsupported format: image/jpeg",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

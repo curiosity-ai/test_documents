@@ -1,0 +1,131 @@
+{
+  "file": "docx/sample_document.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Christoph Auer"
+    ],
+    "created_at": "2024-10-09T12:43:00Z",
+    "modified_at": "2024-10-15T11:34:00Z",
+    "created_by": "Christoph Auer",
+    "modified_by": "Maxim Lysak",
+    "pages": {
+      "total_count": 2,
+      "unit_type": "page",
+      "boundaries": [
+        {
+          "byte_start": 0,
+          "byte_end": 414,
+          "page_number": 1
+        },
+        {
+          "byte_start": 415,
+          "byte_end": 816,
+          "page_number": 2
+        }
+      ],
+      "pages": [
+        {
+          "number": 1
+        },
+        {
+          "number": 2
+        }
+      ]
+    },
+    "format": {
+      "format_type": "docx",
+      "core_properties": {
+        "title": null,
+        "subject": null,
+        "creator": "Christoph Auer",
+        "keywords": null,
+        "description": null,
+        "last_modified_by": "Maxim Lysak",
+        "revision": "7",
+        "created": "2024-10-09T12:43:00Z",
+        "modified": "2024-10-15T11:34:00Z",
+        "category": null,
+        "content_status": null,
+        "language": null,
+        "identifier": null,
+        "version": null,
+        "last_printed": null
+      },
+      "app_properties": {
+        "application": "Microsoft Office Word",
+        "app_version": "16.0000",
+        "template": "{DCF1142C-8C1A-7A4A-A49D-0E6266B1CFAB}tf10002081.dotx",
+        "total_time": 3,
+        "pages": 2,
+        "words": 108,
+        "characters": 620,
+        "characters_with_spaces": 727,
+        "lines": 5,
+        "paragraphs": 1,
+        "company": null,
+        "doc_security": 0,
+        "scale_crop": false,
+        "links_up_to_date": false,
+        "shared_doc": false,
+        "hyperlinks_changed": false
+      },
+      "custom_properties": {
+        "AssetID": "TF10002040"
+      }
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "template": "{DCF1142C-8C1A-7A4A-A49D-0E6266B1CFAB}tf10002081.dotx",
+      "character_count": 620,
+      "page_count": 2,
+      "word_count": 108,
+      "final_uri": "docx/sample_document.docx",
+      "paragraph_count": 1,
+      "revision": "7",
+      "source_index": 0,
+      "custom_AssetID": "TF10002040",
+      "line_count": 5,
+      "source_kind": "uri",
+      "application": "Microsoft Office Word",
+      "source_uri": "docx/sample_document.docx",
+      "total_editing_time_minutes": 3
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          "Food",
+          "Calories per portion"
+        ],
+        [
+          "Leaves",
+          "Ash, Elm, Maple",
+          "50"
+        ],
+        [
+          "Berries",
+          "Blueberry, Strawberry, Cranberry",
+          "150"
+        ],
+        [
+          "Grain",
+          "Corn, Buckwheat, Barley",
+          "200"
+        ]
+      ],
+      "markdown": "|  | Food | Calories per portion |\n| --- | --- | --- |\n| Leaves | Ash, Elm, Maple | 50 |\n| Berries | Blueberry, Strawberry, Cranberry | 150 |\n| Grain | Corn, Buckwheat, Barley | 200 |\n",
+      "page_number": 0
+    }
+  ],
+  "content": {
+    "html": "<p>Summer activities</p>\n<h1>Swimming in the lake</h1>\n<p>Duck</p>\n<p><img src=\"media/image1.png\" alt=\"A cartoon duck holding a paper Description automatically generated\" /></p>\n<p>Figure 1: This is a cute duckling</p>\n<h1>Let’s swim!</h1>\n<p>To get started with swimming, first lay down in a water and try not to drown:</p>\n<ul>\n<li>You can relax and look around</li>\n<li>Paddle about</li>\n<li>Enjoy summer warmth</li>\n</ul>\n<ul>\n<li>Also, don’t forget:</li>\n</ul>\n<ol>\n<li>Wear sunglasses</li>\n<li>Don’t forget to drink water</li>\n<li>Use sun cream</li>\n</ol>\n<ul>\n<li>Hmm, what else…</li>\n</ul>\n<h2>Let’s eat</h2>\n<p>After we had a good day of swimming in the lake, it’s important to eat something nice</p>\n<blockquote>\n<p>I like to eat leaves</p>\n</blockquote>\n<p>Here are some interesting things a respectful duck could eat:</p>\n<p>Content table</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Food</th>\n<th>Calories per portion</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Leaves</td>\n<td>Ash, Elm, Maple</td>\n<td>50</td>\n</tr>\n<tr>\n<td>Berries</td>\n<td>Blueberry, Strawberry, Cranberry</td>\n<td>150</td>\n</tr>\n<tr>\n<td>Grain</td>\n<td>Corn, Buckwheat, Barley</td>\n<td>200</td>\n</tr>\n</tbody>\n</table>\n<p>And let’s add another list in the end:</p>\n<ol>\n<li>Leaves</li>\n<li>Berries</li>\n<li>Grain</li>\n</ol>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Summer activities\"},{\"type\":\"section\",\"heading\":\"Swimming in the lake\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Duck\"},{\"type\":\"image\",\"alt\":\"A cartoon duck holding a paper\\n\\nDescription automatically generated\",\"src\":\"media/image1.png\"},{\"type\":\"paragraph\",\"text\":\"Figure 1: This is a cute duckling\"}]},{\"type\":\"section\",\"heading\":\"Let’s swim!\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"To get started with swimming, first lay down in a water and try not to drown:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"You can relax and look around\",\"Paddle about\",\"Enjoy summer warmth\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Also, don’t forget:\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Wear sunglasses\",\"Don’t forget to drink water\",\"Use sun cream\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Hmm, what else…\"]},{\"type\":\"section\",\"heading\":\"Let’s eat\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"After we had a good day of swimming in the lake, it’s important to eat something nice\"},{\"type\":\"blockquote\",\"body\":[{\"type\":\"paragraph\",\"text\":\"I like to eat leaves\"}]},{\"type\":\"paragraph\",\"text\":\"Here are some interesting things a respectful duck could eat:\"},{\"type\":\"paragraph\",\"text\":\"Content table\"},{\"type\":\"table\",\"headers\":[\"\",\"Food\",\"Calories per portion\"],\"rows\":[[\"Leaves\",\"Ash, Elm, Maple\",\"50\"],[\"Berries\",\"Blueberry, Strawberry, Cranberry\",\"150\"],[\"Grain\",\"Corn, Buckwheat, Barley\",\"200\"]]},{\"type\":\"paragraph\",\"text\":\"And let’s add another list in the end:\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Leaves\",\"Berries\",\"Grain\"]}]}]}]}",
+    "markdown": "Summer activities\n\n# Swimming in the lake\n\nDuck\n\n![A cartoon duck holding a paper Description automatically generated](media/image1.png)\n\nFigure 1: This is a cute duckling\n\n# Let’s swim\\!\n\nTo get started with swimming, first lay down in a water and try not to drown:\n\n- You can relax and look around\n- Paddle about\n- Enjoy summer warmth\n\n- Also, don’t forget:\n\n1. Wear sunglasses\n2. Don’t forget to drink water\n3. Use sun cream\n\n- Hmm, what else…\n\n## Let’s eat\n\nAfter we had a good day of swimming in the lake, it’s important to eat something nice\n\n> I like to eat leaves\n\nHere are some interesting things a respectful duck could eat:\n\nContent table\n\n|  | Food | Calories per portion |\n| --- | --- | --- |\n| Leaves | Ash, Elm, Maple | 50 |\n| Berries | Blueberry, Strawberry, Cranberry | 150 |\n| Grain | Corn, Buckwheat, Barley | 200 |\n\nAnd let’s add another list in the end:\n\n1. Leaves\n2. Berries\n3. Grain\n",
+    "plain": "Summer activities\n\nSwimming in the lake\nDuck\n\n[Image: A cartoon duck holding a paper\n\nDescription automatically generated]\n\nFigure 1: This is a cute duckling\n\nLet’s swim!\nTo get started with swimming, first lay down in a water and try not to drown:\n\nYou can relax and look around\nPaddle about\nEnjoy summer warmth\nAlso, don’t forget:\nWear sunglasses\nDon’t forget to drink water\nUse sun cream\nHmm, what else…\n  Let’s eat\nAfter we had a good day of swimming in the lake, it’s important to eat something nice\n\n  I like to eat leaves\n\nHere are some interesting things a respectful duck could eat:\n\nContent table\n\n Food Calories per portion\nLeaves Ash, Elm, Maple 50\nBerries Blueberry, Strawberry, Cranberry 150\nGrain Corn, Buckwheat, Barley 200\n\nAnd let’s add another list in the end:\n\nLeaves\nBerries\nGrain"
+  }
+}

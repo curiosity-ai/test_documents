@@ -1,0 +1,61 @@
+{
+  "file": "pdf/pdfa_013.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2021-09-19T00:00:00Z",
+    "modified_at": "2021-09-19T00:00:00Z",
+    "created_by": "Navega Bem - Web Design - Portugal",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "mPDF 5.7.2",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 842,
+      "page_count": 3
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "pdf/pdfa_013.pdf",
+      "extraction_method": "native",
+      "source_uri": "pdf/pdfa_013.pdf",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Exterior",
+          ""
+        ],
+        [
+          "Parking",
+          ""
+        ],
+        [
+          "Private",
+          "pool"
+        ]
+      ],
+      "markdown": "| Exterior |  |\n| --- | --- |\n| Parking |  |\n| Private | pool |\n",
+      "page_number": 2,
+      "bounding_box": {
+        "x0": 43.0,
+        "y0": 408.0,
+        "x1": 89.0,
+        "y1": 433.0
+      }
+    }
+  ],
+  "content": {
+    "html": "<h1>Sea View Vila</h1>\n<h2>Bedrooms: Bathrooms: Ref: Condition:</h2>\n<h1>Ref: 114761/AL</h1>\n<h2>Type</h2>\n<p>For Rent 2</p>\n<p><strong>Area:</strong></p>\n<p>Beach 114761/AL</p>\n<p><strong>View:</strong></p>\n<p>Sea view Used</p>\n<p>Page</p>\n<p><strong>1</strong></p>\n<p>of</p>\n<p><strong>3</strong></p>\n<h2>2 bedroom and 2 bathroom charming vila with sea views, private swimming pool</h2>\n<p>This charming one storey end terrace house, completely renovated and decorated in an elegant style. BBQ and large sun terrace area, private swimming pool and with views of the sea, free wi-fi in a quiet location but only a few minutes walk from various amenities such as restaurants, mini market, diving centre, Lido swimming sea area where you can do diving or snorkling.</p>\n<p>This area offers a variety of activities where you can explore the mountains , enjoy water sports or just relax by the pool. Caniço de Baixo has also a variety of restaurants where you can enjoy the Portuguese and international cuisine, have fresh fish from the Atlantic waters and all delicious types of food.</p>\n<h2>No car is required, excellent bus services to Funchal City only a few minutes walk from the villa.</h2>\n<h2>Airport transfers and sight seeing tours can be organised.</h2>\n<h2>Location of the property</h2>\n<p>By the sea</p>\n<h2>Distances</h2>\n<p>Restaurant - 1kmm Bus stop - 1kmm Swimming Pool - 5mm Shops - 2kmm Rocky beach - 2kmm</p>\n<table>\n<thead>\n<tr>\n<th>Exterior</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Parking</td>\n<td></td>\n</tr>\n<tr>\n<td>Private</td>\n<td>pool</td>\n</tr>\n</tbody>\n</table>\n<h2>Interior</h2>\n<p>Non smokers</p>\n<h2>Equipment</h2>\n<p>Outdoor furniture</p>\n<h2>Bathroom</h2>\n<p>Bath with Shower Toilet Hairdryer</p>\n<h2>Bedroom</h2>\n<p>King Size Bed - 2</p>\n<h2>Living Room</h2>\n<p>Dining Table and Chairs Wi-Fi Internet Coffee Table Cable TV Internet TV SatelitteTV</p>\n<h2>Kitchen</h2>\n<p>Dishwasher Washing Machine Oven Kettle Toaster Freezer Microwave Coffee Machine Stovetop Electric Cooker Iron / Iron board Fitted Kitchen Stove Cooker</p>\n<h2>Page</h2>\n<p><strong>2</strong></p>\n<p>of</p>\n<p><strong>3</strong></p>\n<h2>Country:</h2>\n<p>Portugal</p>\n<p><strong>Region:</strong></p>\n<p>Madeira</p>\n<p><strong>City:</strong></p>\n<p>Caniço</p>\n<p><strong>Coordinates:</strong></p>\n<p>Latitude 32.641931617298546 Longitude -16.834424044936895</p>\n<p>Page</p>\n<p><strong>3</strong></p>\n<p>of</p>\n<p><strong>3</strong></p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Sea View Vila\"},{\"type\":\"paragraph\",\"text\":\"Bedrooms:\\nBathrooms:\\nRef:\\nCondition:\"},{\"type\":\"paragraph\",\"text\":\"Ref: 114761/AL\"},{\"type\":\"paragraph\",\"text\":\"2 Type For Rent\\n2 Area: Beach\\n114761/AL View: Sea view\\nUsed\"},{\"type\":\"paragraph\",\"text\":\"Page 1 of 3\"},{\"type\":\"paragraph\",\"text\":\"2 bedroom and 2 bathroom charming vila with sea views, private swimming pool\"},{\"type\":\"paragraph\",\"text\":\"This charming one storey end terrace house, completely renovated and decorated in an elegant style. BBQ and\\nlarge sun terrace area, private swimming pool and with views of the sea, free wi-fi in a quiet location but only a\\nfew minutes walk from various amenities such as restaurants, mini market, diving centre, Lido swimming sea\\narea where you can do diving or snorkling.\"},{\"type\":\"paragraph\",\"text\":\"This area offers a variety of activities where you can explore the mountains , enjoy water sports or just relax by\\nthe pool. Caniço de Baixo has also a variety of restaurants where you can enjoy the Portuguese and\\ninternational cuisine, have fresh fish from the Atlantic waters and all delicious types of food.\"},{\"type\":\"paragraph\",\"text\":\"No car is required, excellent bus services to Funchal City only a few minutes walk from the villa.\"},{\"type\":\"paragraph\",\"text\":\"Airport transfers and sight seeing tours can be organised.\"},{\"type\":\"paragraph\",\"text\":\"Location of the property\\n By the sea\"},{\"type\":\"paragraph\",\"text\":\"Distances\\n Restaurant - 1kmm\\n Bus stop - 1kmm\\n Swimming Pool - 5mm\\n Shops - 2kmm\\n Rocky beach - 2kmm\"},{\"type\":\"paragraph\",\"text\":\"Exterior\\n Parking\\n Private pool\"},{\"type\":\"paragraph\",\"text\":\"Interior\\n Non smokers\"},{\"type\":\"paragraph\",\"text\":\"Equipment\\n Outdoor furniture\"},{\"type\":\"paragraph\",\"text\":\"Bathroom\\n Bath with Shower\\n Toilet\\n Hairdryer\"},{\"type\":\"paragraph\",\"text\":\"Bedroom\\n King Size Bed - 2\"},{\"type\":\"paragraph\",\"text\":\"Living Room\\n Dining Table and Chairs\\n Wi-Fi Internet\\n Coffee Table\\n Cable TV\\n Internet\\n TV\\n SatelitteTV\"},{\"type\":\"paragraph\",\"text\":\"Kitchen\\n Dishwasher\\n Washing Machine\\n Oven\\n Kettle\\n Toaster\\n Freezer\\n Microwave\\n Coffee Machine\\n Stovetop\\n Electric Cooker\\n Iron / Iron board\\n Fitted Kitchen\\n Stove\\n Cooker\"},{\"type\":\"paragraph\",\"text\":\"Page 2 of 3\"},{\"type\":\"paragraph\",\"text\":\"Country:\"},{\"type\":\"paragraph\",\"text\":\"Portugal\"},{\"type\":\"paragraph\",\"text\":\"Region:\"},{\"type\":\"paragraph\",\"text\":\"Madeira\"},{\"type\":\"paragraph\",\"text\":\"City:\"},{\"type\":\"paragraph\",\"text\":\"Caniço\"},{\"type\":\"paragraph\",\"text\":\"Coordinates:\"},{\"type\":\"paragraph\",\"text\":\"Latitude 32.641931617298546\"},{\"type\":\"paragraph\",\"text\":\"Longitude -16.834424044936895\"},{\"type\":\"paragraph\",\"text\":\"Page 3 of 3\"},{\"type\":\"table\",\"headers\":[\"Exterior\",\"\"],\"rows\":[[\"Parking\",\"\"],[\"Private\",\"pool\"]]}]}",
+    "markdown": "# Sea View Vila\n\n## Bedrooms: Bathrooms: Ref: Condition:\n\n# Ref: 114761/AL\n\n## Type\n\nFor Rent 2\n\n**Area:**\n\nBeach 114761/AL\n\n**View:**\n\nSea view Used\n\nPage\n\n**1**\n\nof\n\n**3**\n\n## 2 bedroom and 2 bathroom charming vila with sea views, private swimming pool\n\nThis charming one storey end terrace house, completely renovated and decorated in an elegant style. BBQ and large sun terrace area, private swimming pool and with views of the sea, free wi-fi in a quiet location but only a few minutes walk from various amenities such as restaurants, mini market, diving centre, Lido swimming sea area where you can do diving or snorkling.\n\nThis area offers a variety of activities where you can explore the mountains , enjoy water sports or just relax by the pool. Caniço de Baixo has also a variety of restaurants where you can enjoy the Portuguese and international cuisine, have fresh fish from the Atlantic waters and all delicious types of food.\n\n## No car is required, excellent bus services to Funchal City only a few minutes walk from the villa.\n\n## Airport transfers and sight seeing tours can be organised.\n\n## Location of the property\n\nBy the sea\n\n## Distances\n\nRestaurant - 1kmm Bus stop - 1kmm Swimming Pool - 5mm Shops - 2kmm Rocky beach - 2kmm\n\n| Exterior |  |\n| --- | --- |\n| Parking |  |\n| Private | pool |\n\n## Interior\n\nNon smokers\n\n## Equipment\n\nOutdoor furniture\n\n## Bathroom\n\nBath with Shower Toilet Hairdryer\n\n## Bedroom\n\nKing Size Bed - 2\n\n## Living Room\n\nDining Table and Chairs Wi-Fi Internet Coffee Table Cable TV Internet TV SatelitteTV\n\n## Kitchen\n\nDishwasher Washing Machine Oven Kettle Toaster Freezer Microwave Coffee Machine Stovetop Electric Cooker Iron / Iron board Fitted Kitchen Stove Cooker\n\n## Page\n\n**2**\n\nof\n\n**3**\n\n## Country:\n\nPortugal\n\n**Region:**\n\nMadeira\n\n**City:**\n\nCaniço\n\n**Coordinates:**\n\nLatitude 32.641931617298546 Longitude -16.834424044936895\n\nPage\n\n**3**\n\nof\n\n**3**\n",
+    "plain": "Sea View Vila\n\nBedrooms:\nBathrooms:\nRef:\nCondition:\n\nRef: 114761/AL\n\n2 Type For Rent\n2 Area: Beach\n114761/AL View: Sea view\nUsed\n\nPage 1 of 3\n\n2 bedroom and 2 bathroom charming vila with sea views, private swimming pool\n\nThis charming one storey end terrace house, completely renovated and decorated in an elegant style. BBQ and\nlarge sun terrace area, private swimming pool and with views of the sea, free wi-fi in a quiet location but only a\nfew minutes walk from various amenities such as restaurants, mini market, diving centre, Lido swimming sea\narea where you can do diving or snorkling.\n\nThis area offers a variety of activities where you can explore the mountains , enjoy water sports or just relax by\nthe pool. Caniço de Baixo has also a variety of restaurants where you can enjoy the Portuguese and\ninternational cuisine, have fresh fish from the Atlantic waters and all delicious types of food.\n\nNo car is required, excellent bus services to Funchal City only a few minutes walk from the villa.\n\nAirport transfers and sight seeing tours can be organised.\n\nLocation of the property\n By the sea\n\nDistances\n Restaurant - 1kmm\n Bus stop - 1kmm\n Swimming Pool - 5mm\n Shops - 2kmm\n Rocky beach - 2kmm\n\nExterior\n Parking\n Private pool\n\nInterior\n Non smokers\n\nEquipment\n Outdoor furniture\n\nBathroom\n Bath with Shower\n Toilet\n Hairdryer\n\nBedroom\n King Size Bed - 2\n\nLiving Room\n Dining Table and Chairs\n Wi-Fi Internet\n Coffee Table\n Cable TV\n Internet\n TV\n SatelitteTV\n\nKitchen\n Dishwasher\n Washing Machine\n Oven\n Kettle\n Toaster\n Freezer\n Microwave\n Coffee Machine\n Stovetop\n Electric Cooker\n Iron / Iron board\n Fitted Kitchen\n Stove\n Cooker\n\nPage 2 of 3\n\nCountry:\n\nPortugal\n\nRegion:\n\nMadeira\n\nCity:\n\nCaniço\n\nCoordinates:\n\nLatitude 32.641931617298546\n\nLongitude -16.834424044936895\n\nPage 3 of 3\n\nExterior \nParking \nPrivate pool"
+  }
+}

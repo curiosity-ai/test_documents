@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/ppt/ppt_presentation.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 8,
+      "word_count": 33,
+      "character_count": 169
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/ppt/ppt_presentation.txt",
+      "source_uri": "ground_truth/ppt/ppt_presentation.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Title Slide With a subtitle Things to think about How much is enough? If not now when? Where have all the flowers gone? Who do you think you are? What were you thinking?</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Title Slide\\nWith a subtitle\\nThings to think about\\nHow much is enough?\\nIf not now when?\\nWhere have all the flowers gone?\\nWho do you think you are?\\nWhat were you thinking?\"}]}",
+    "markdown": "Title Slide With a subtitle Things to think about How much is enough? If not now when? Where have all the flowers gone? Who do you think you are? What were you thinking?\n",
+    "plain": "Title Slide\nWith a subtitle\nThings to think about\nHow much is enough?\nIf not now when?\nWhere have all the flowers gone?\nWho do you think you are?\nWhat were you thinking?"
+  }
+}

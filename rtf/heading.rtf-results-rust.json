@@ -1,0 +1,26 @@
+{
+  "file": "rtf/heading.rtf",
+  "mime_type": "application/rtf",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "paragraph_count": 4,
+      "source_uri": "rtf/heading.rtf",
+      "character_count": 42,
+      "line_count": 7,
+      "source_index": 0,
+      "word_count": 7,
+      "final_uri": "rtf/heading.rtf",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Heading 1</h1>\n<h2>Heading 2</h2>\n<h3>Heading 3</h3>\n<p>Paragraph</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Heading 1\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Heading 2\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"Heading 3\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Paragraph\"}]}]}]}]}",
+    "markdown": "# Heading 1\n\n## Heading 2\n\n### Heading 3\n\nParagraph\n",
+    "plain": "Heading 1\n  Heading 2\n    Heading 3\nParagraph"
+  }
+}

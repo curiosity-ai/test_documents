@@ -1,0 +1,40 @@
+{
+  "file": "vendored/unstructured/eml/email-equals-attachment-filename.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Odd filename example",
+    "created_at": "Sun, 13 Aug 2023 14:59:56 -0700",
+    "format": {
+      "format_type": "email",
+      "from_email": "testuser@example.com",
+      "to_emails": [
+        "recipient@example.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "message_id": "CABBgHeGAW=UW77EE7p4CsCuaudixAYUU8iPqsm3=4921Wc9Vxw@mail.gmail.com",
+      "attachments": [
+        "odd=file=name.txt"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "attachment_details": "odd=file=name.txt|text/plain|13",
+      "mime_version": "1.0",
+      "source_uri": "vendored/unstructured/eml/email-equals-attachment-filename.eml",
+      "content_type": "multipart/mixed; boundary=\"000000000000ac11b20602d51124\"",
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "vendored/unstructured/eml/email-equals-attachment-filename.eml"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Odd filename example</p>\n<p><strong>From</strong>: testuser@example.com</p>\n<p><strong>To</strong>: recipient@example.com</p>\n<p><strong>Date</strong>: Sun, 13 Aug 2023 14:59:56 -0700</p>\n<p>Below is an example of an odd filename</p>\n<p>Attachments:</p>\n<p> odd=file=name.txt (13B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Below is an example of an odd filename\"},{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  odd=file=name.txt (13B)\"}]}",
+    "markdown": "**Subject**: Odd filename example\n\n**From**: testuser@example.com\n\n**To**: recipient@example.com\n\n**Date**: Sun, 13 Aug 2023 14:59:56 -0700\n\nBelow is an example of an odd filename\n\nAttachments:\n\n odd=file=name.txt (13B)\n",
+    "plain": "Subject: Odd filename example\nFrom: testuser@example.com\nTo: recipient@example.com\nDate: Sun, 13 Aug 2023 14:59:56 -0700\n\nBelow is an example of an odd filename\n\nAttachments:\n\n  odd=file=name.txt (13B)"
+  }
+}

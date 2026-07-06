@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/tablecell.docx.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 11,
+      "word_count": 33,
+      "character_count": 175
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/md/tablecell.docx.txt",
+      "source_uri": "ground_truth/md/tablecell.docx.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>- Hello world1 - Hello2</p>\n<p>Some text before</p>\n<p>| Tab1 | Tab2 | Tab3 | |--------|--------|--------| | A | B | C | | D | E | F |</p>\n<p>Some text after</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"- Hello world1\\n- Hello2\"},{\"type\":\"paragraph\",\"text\":\"Some text before\"},{\"type\":\"paragraph\",\"text\":\"| Tab1   | Tab2   | Tab3   |\\n|--------|--------|--------|\\n| A      | B      | C      |\\n| D      | E      | F      |\"},{\"type\":\"paragraph\",\"text\":\"Some text after\"}]}",
+    "markdown": "\\- Hello world1 - Hello2\n\nSome text before\n\n| Tab1 | Tab2 | Tab3 | |--------|--------|--------| | A | B | C | | D | E | F |\n\nSome text after\n",
+    "plain": "- Hello world1\n- Hello2\n\nSome text before\n\n| Tab1   | Tab2   | Tab3   |\n|--------|--------|--------|\n| A      | B      | C      |\n| D      | E      | F      |\n\nSome text after"
+  }
+}

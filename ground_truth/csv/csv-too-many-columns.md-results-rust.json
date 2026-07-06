@@ -1,0 +1,64 @@
+{
+  "file": "ground_truth/csv/csv-too-many-columns.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/csv/csv-too-many-columns.md",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/csv/csv-too-many-columns.md",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          ""
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "d",
+          ""
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "d",
+          ""
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "d",
+          ""
+        ]
+      ],
+      "markdown": "| 1 | 2 | 3 | 4 |  |\n| --- | --- | --- | --- | --- |\n| a | b | c | d |  |\n| a | b | c | d | e |\n| a | b | c | d |  |\n| a | b | c | d |  |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th>4</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>a</td>\n<td>b</td>\n<td>c</td>\n<td>d</td>\n<td></td>\n</tr>\n<tr>\n<td>a</td>\n<td>b</td>\n<td>c</td>\n<td>d</td>\n<td>e</td>\n</tr>\n<tr>\n<td>a</td>\n<td>b</td>\n<td>c</td>\n<td>d</td>\n<td></td>\n</tr>\n<tr>\n<td>a</td>\n<td>b</td>\n<td>c</td>\n<td>d</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"1\",\"2\",\"3\",\"4\",\"\"],\"rows\":[[\"a\",\"b\",\"c\",\"d\",\"\"],[\"a\",\"b\",\"c\",\"d\",\"e\"],[\"a\",\"b\",\"c\",\"d\",\"\"],[\"a\",\"b\",\"c\",\"d\",\"\"]]}]}",
+    "markdown": "| 1 | 2 | 3 | 4 |  |\n| --- | --- | --- | --- | --- |\n| a | b | c | d |  |\n| a | b | c | d | e |\n| a | b | c | d |  |\n| a | b | c | d |  |\n",
+    "plain": "1 2 3 4 \na b c d \na b c d e\na b c d \na b c d"
+  }
+}

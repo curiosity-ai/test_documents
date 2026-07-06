@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/typ/typst_minimal.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 3,
+      "word_count": 15,
+      "character_count": 80
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/typ/typst_minimal.txt",
+      "final_uri": "ground_truth/typ/typst_minimal.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Hello World</p>\n<p>This is a minimal Typst document with just a heading and some text.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Hello World\"},{\"type\":\"paragraph\",\"text\":\"This is a minimal Typst document with just a heading and some text.\"}]}",
+    "markdown": "Hello World\n\nThis is a minimal Typst document with just a heading and some text.\n",
+    "plain": "Hello World\n\nThis is a minimal Typst document with just a heading and some text."
+  }
+}

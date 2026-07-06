@@ -1,0 +1,50 @@
+{
+  "file": "vendored/docling/pptx/powerpoint_issue_2663.pptx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Cesar Berrospi Ramis"
+    ],
+    "created_at": "2025-11-20T09:59:11Z",
+    "modified_at": "2025-11-20T10:30:27Z",
+    "created_by": "Cesar Berrospi Ramis",
+    "modified_by": "Cesar Berrospi Ramis",
+    "format": {
+      "format_type": "pptx",
+      "slide_count": 1,
+      "slide_names": [
+        "Aptos",
+        "Aptos Display",
+        "Arial",
+        "Office Theme",
+        "Open-Source Software"
+      ],
+      "image_count": 0,
+      "table_count": 0
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "notes_count": 0,
+      "source_uri": "vendored/docling/pptx/powerpoint_issue_2663.pptx",
+      "presentation_format": "Widescreen",
+      "hidden_slides": 0,
+      "organization": "IBM Research",
+      "revision": "3",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "vendored/docling/pptx/powerpoint_issue_2663.pptx",
+      "slide_titles": "Aptos, Aptos Display, Arial, Office Theme, Open-Source Software",
+      "application": "Microsoft Macintosh PowerPoint",
+      "application_version": "16.0000"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Open-Source Software</h2>\n<p>**Key Benefits:</p>\n<p>** Open-source software is cost-effective as it eliminates license fees, reducing overall expenses.</p>\n<p>Ehnhances security and transparency by allowing public access to source code</p>\n<p>Strong global community improves and maintains open-source projects.</p>\n<p>Offers flexibility, allowing users to customize and adapt the software</p>\n<p>**Considerations When Using Open-Source Software:</p>\n<p>** Open-source projects often rely on community support, which may not be as reliable as dedicated customer service.</p>\n<p>Some open-source solutions may require advanced technical expertise for implementation and maintenance.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Open-Source Software\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"**Key Benefits:\"},{\"type\":\"paragraph\",\"text\":\"** Open-source software is cost-effective as it eliminates license fees, reducing overall expenses.\"},{\"type\":\"paragraph\",\"text\":\"Ehnhances security and transparency by allowing public access to source code\"},{\"type\":\"paragraph\",\"text\":\"Strong global community improves and maintains open-source projects.\"},{\"type\":\"paragraph\",\"text\":\"Offers flexibility, allowing users to customize and adapt the software\"},{\"type\":\"paragraph\",\"text\":\"**Considerations When Using Open-Source Software:\"},{\"type\":\"paragraph\",\"text\":\"** Open-source projects often rely on community support, which may not be as reliable as dedicated customer service.\"},{\"type\":\"paragraph\",\"text\":\"Some open-source solutions may require advanced technical expertise for implementation and maintenance.\"}]}]}",
+    "markdown": "## Open-Source Software\n\n**Key Benefits:\n\n** Open-source software is cost-effective as it eliminates license fees, reducing overall expenses.\n\nEhnhances security and transparency by allowing public access to source code\n\nStrong global community improves and maintains open-source projects.\n\nOffers flexibility, allowing users to customize and adapt the software\n\n**Considerations When Using Open-Source Software:\n\n** Open-source projects often rely on community support, which may not be as reliable as dedicated customer service.\n\nSome open-source solutions may require advanced technical expertise for implementation and maintenance.\n",
+    "plain": "Open-Source Software\n\nKey Benefits:\n\nOpen-source software is cost-effective as it eliminates license fees, reducing overall expenses.\n\nEhnhances security and transparency by allowing public access to source code\n\nStrong global community improves and maintains open-source projects.\n\nOffers flexibility, allowing users to customize and adapt the software\n\nConsiderations When Using Open-Source Software:\n\nOpen-source projects often rely on community support, which may not be as reliable as dedicated customer service.\n\nSome open-source solutions may require advanced technical expertise for implementation and maintenance."
+  }
+}

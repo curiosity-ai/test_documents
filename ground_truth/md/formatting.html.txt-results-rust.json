@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/formatting.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 45,
+      "word_count": 163,
+      "character_count": 933
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/md/formatting.html.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/md/formatting.html.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># HTML Text Formatting Examples</p>\n<p>This is a **bold (b)** example and right next to it we have a **strong emphasis (strong)** .</p>\n<p>Notice that</p>\n<p>**strong + bold mixed** looks similar but carries additional semantic meaning.</p>\n<p>Here is an *italic (i)* word and an *emphasis (em)* example.</p>\n<p>Sometimes we combine them like</p>\n<p>*italic + emphasis together* .</p>\n<p>Now let's look at text that appears crossed out: ~~strikethrough with s~~ and ~~deleted with del~~ .</p>\n<p>You can also mix them:</p>\n<p>~~double strikethrough (s + del)~~ .</p>\n<p>To highlight insertions or underlines: underlined with u , inserted with ins .</p>\n<p>A combination could be:</p>\n<p>underline + insertion together .</p>\n<p>Subscript and superscript examples:</p>\n<p>Water is written as H</p>\n<p>2 O using sub.</p>\n<p>The mathematical expression x</p>\n<p>2 + y 3 uses sup.</p>\n<p>They can also be combined: CO</p>\n<p>2 * .</p>\n<p>Mixing several: This sentence has ***strong + emphasis*** ,</p>\n<p>some</p>\n<p>**bold + underline** , and a formula like a 2 + b 3 .</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# HTML Text Formatting Examples\"},{\"type\":\"paragraph\",\"text\":\"This is a **bold (b)** example and right next to it we have a **strong emphasis (strong)** .\"},{\"type\":\"paragraph\",\"text\":\"Notice that\"},{\"type\":\"paragraph\",\"text\":\"**strong + bold mixed** looks similar but carries additional semantic meaning.\"},{\"type\":\"paragraph\",\"text\":\"Here is an *italic (i)* word and an *emphasis (em)* example.\"},{\"type\":\"paragraph\",\"text\":\"Sometimes we combine them like\"},{\"type\":\"paragraph\",\"text\":\"*italic + emphasis together* .\"},{\"type\":\"paragraph\",\"text\":\"Now let's look at text that appears crossed out: ~~strikethrough with s~~ and ~~deleted with del~~ .\"},{\"type\":\"paragraph\",\"text\":\"You can also mix them:\"},{\"type\":\"paragraph\",\"text\":\"~~double strikethrough (s + del)~~ .\"},{\"type\":\"paragraph\",\"text\":\"To highlight insertions or underlines: underlined with u , inserted with ins .\"},{\"type\":\"paragraph\",\"text\":\"A combination could be:\"},{\"type\":\"paragraph\",\"text\":\"underline + insertion together .\"},{\"type\":\"paragraph\",\"text\":\"Subscript and superscript examples:\"},{\"type\":\"paragraph\",\"text\":\"Water is written as H\"},{\"type\":\"paragraph\",\"text\":\"2 O using sub.\"},{\"type\":\"paragraph\",\"text\":\"The mathematical expression x\"},{\"type\":\"paragraph\",\"text\":\"2 + y 3 uses sup.\"},{\"type\":\"paragraph\",\"text\":\"They can also be combined: CO\"},{\"type\":\"paragraph\",\"text\":\"2 * .\"},{\"type\":\"paragraph\",\"text\":\"Mixing several: This sentence has ***strong + emphasis*** ,\"},{\"type\":\"paragraph\",\"text\":\"some\"},{\"type\":\"paragraph\",\"text\":\"**bold + underline** , and a formula like a 2 + b 3 .\"}]}",
+    "markdown": "\\# HTML Text Formatting Examples\n\nThis is a **bold (b)** example and right next to it we have a **strong emphasis (strong)** .\n\nNotice that\n\n**strong + bold mixed** looks similar but carries additional semantic meaning.\n\nHere is an *italic (i)* word and an *emphasis (em)* example.\n\nSometimes we combine them like\n\n*italic + emphasis together* .\n\nNow let's look at text that appears crossed out: \\~\\~strikethrough with s\\~\\~ and \\~\\~deleted with del\\~\\~ .\n\nYou can also mix them:\n\n\\~\\~double strikethrough (s + del)\\~\\~ .\n\nTo highlight insertions or underlines: underlined with u , inserted with ins .\n\nA combination could be:\n\nunderline + insertion together .\n\nSubscript and superscript examples:\n\nWater is written as H\n\n2 O using sub.\n\nThe mathematical expression x\n\n2 + y 3 uses sup.\n\nThey can also be combined: CO\n\n2 * .\n\nMixing several: This sentence has ***strong + emphasis*** ,\n\nsome\n\n**bold + underline** , and a formula like a 2 + b 3 .\n",
+    "plain": "# HTML Text Formatting Examples\n\nThis is a **bold (b)** example and right next to it we have a **strong emphasis (strong)** .\n\nNotice that\n\n**strong + bold mixed** looks similar but carries additional semantic meaning.\n\nHere is an *italic (i)* word and an *emphasis (em)* example.\n\nSometimes we combine them like\n\n*italic + emphasis together* .\n\nNow let's look at text that appears crossed out: ~~strikethrough with s~~ and ~~deleted with del~~ .\n\nYou can also mix them:\n\n~~double strikethrough (s + del)~~ .\n\nTo highlight insertions or underlines: underlined with u , inserted with ins .\n\nA combination could be:\n\nunderline + insertion together .\n\nSubscript and superscript examples:\n\nWater is written as H\n\n2 O using sub.\n\nThe mathematical expression x\n\n2 + y 3 uses sup.\n\nThey can also be combined: CO\n\n2 * .\n\nMixing several: This sentence has ***strong + emphasis*** ,\n\nsome\n\n**bold + underline** , and a formula like a 2 + b 3 ."
+  }
+}

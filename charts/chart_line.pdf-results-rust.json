@@ -1,0 +1,32 @@
+{
+  "file": "charts/chart_line.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "charts/chart_line.pdf",
+      "source_kind": "uri",
+      "extraction_method": "native",
+      "final_uri": "charts/chart_line.pdf"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Monthly Sales Trend 2024</h1>\n<h2>Sales</h2>\n<p>22 Feb 15 Jan 40 35 25 Jun 28 May Apr Mar</p>\n<h2>Month</h2>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Monthly Sales Trend 2024\"},{\"type\":\"paragraph\",\"text\":\"Sales\"},{\"type\":\"paragraph\",\"text\":\"22\"},{\"type\":\"paragraph\",\"text\":\"Feb\"},{\"type\":\"paragraph\",\"text\":\"15\"},{\"type\":\"paragraph\",\"text\":\"Jan\"},{\"type\":\"paragraph\",\"text\":\"40\"},{\"type\":\"paragraph\",\"text\":\"35\"},{\"type\":\"paragraph\",\"text\":\"25\"},{\"type\":\"paragraph\",\"text\":\"Jun\"},{\"type\":\"paragraph\",\"text\":\"28\"},{\"type\":\"paragraph\",\"text\":\"May\"},{\"type\":\"paragraph\",\"text\":\"Apr\"},{\"type\":\"paragraph\",\"text\":\"Mar\"},{\"type\":\"paragraph\",\"text\":\"Month\"}]}",
+    "markdown": "# Monthly Sales Trend 2024\n\n## Sales\n\n22 Feb 15 Jan 40 35 25 Jun 28 May Apr Mar\n\n## Month\n",
+    "plain": "Monthly Sales Trend 2024\n\nSales\n\n22\n\nFeb\n\n15\n\nJan\n\n40\n\n35\n\n25\n\nJun\n\n28\n\nMay\n\nApr\n\nMar\n\nMonth"
+  }
+}

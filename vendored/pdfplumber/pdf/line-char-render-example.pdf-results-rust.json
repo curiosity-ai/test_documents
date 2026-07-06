@@ -1,0 +1,37 @@
+{
+  "file": "vendored/pdfplumber/pdf/line-char-render-example.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "line-char-render-example",
+    "created_at": "2024-03-07T00:43:24Z",
+    "modified_at": "2024-03-07T00:43:24Z",
+    "created_by": "TextEdit",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.3",
+      "producer": "macOS Version 14.3.1 (Build 23D60) Quartz PDFContext",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "extraction_method": "native",
+      "source_index": 0,
+      "source_uri": "vendored/pdfplumber/pdf/line-char-render-example.pdf",
+      "source_kind": "uri",
+      "final_uri": "vendored/pdfplumber/pdf/line-char-render-example.pdf"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>first line second line third line</h1>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"ﬁrst line\"},{\"type\":\"paragraph\",\"text\":\"second line\"},{\"type\":\"paragraph\",\"text\":\"third line\"}]}",
+    "markdown": "# first line second line third line\n",
+    "plain": "ﬁrst line\n\nsecond line\n\nthird line"
+  }
+}

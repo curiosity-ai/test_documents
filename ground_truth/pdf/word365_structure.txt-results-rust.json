@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/word365_structure.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 16,
+      "word_count": 37,
+      "character_count": 306
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/word365_structure.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/pdf/word365_structure.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Titre Lorem ipsum dolor</p>\n<p>• Liste • Liste 2 • Liste 3</p>\n<p>Lorem ipsum dolor sit amet</p>\n<p>1. Liste numérotée 2. Liste numérotée</p>\n<p>En-tête 1 En-tête 2 En-tête 3 Ligne 1 Alouette Farfadet Linge 2 Belette Bibitte</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Titre\\nLorem ipsum dolor\"},{\"type\":\"paragraph\",\"text\":\"•   Liste\\n   •   Liste 2\\n   •   Liste 3\"},{\"type\":\"paragraph\",\"text\":\"Lorem ipsum dolor sit amet\"},{\"type\":\"paragraph\",\"text\":\"1. Liste numérotée\\n   2. Liste numérotée\"},{\"type\":\"paragraph\",\"text\":\"En-tête 1                   En-tête 2   En-tête 3\\n Ligne 1                     Alouette    Farfadet\\n Linge 2                     Belette     Bibitte\"}]}",
+    "markdown": "Titre Lorem ipsum dolor\n\n• Liste • Liste 2 • Liste 3\n\nLorem ipsum dolor sit amet\n\n1\\. Liste numérotée 2. Liste numérotée\n\nEn-tête 1 En-tête 2 En-tête 3 Ligne 1 Alouette Farfadet Linge 2 Belette Bibitte\n",
+    "plain": "Titre\nLorem ipsum dolor\n\n•   Liste\n   •   Liste 2\n   •   Liste 3\n\nLorem ipsum dolor sit amet\n\n1. Liste numérotée\n   2. Liste numérotée\n\nEn-tête 1                   En-tête 2   En-tête 3\n Ligne 1                     Alouette    Farfadet\n Linge 2                     Belette     Bibitte"
+  }
+}

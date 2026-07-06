@@ -1,0 +1,24 @@
+{
+  "file": "test_fixtures/config.toml",
+  "mime_type": "application/toml",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "test_fixtures/config.toml",
+      "source_index": 0,
+      "field_count": 0,
+      "data_format": "toml",
+      "final_uri": "test_fixtures/config.toml",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<pre lang=\"toml\"><code>use_cache = false\nenable_quality_processing = true\nforce_ocr = false\nmax_concurrent_extractions = 4\n\n[ocr]\nbackend = &quot;tesseract&quot;\nlanguage = &quot;eng&quot;\n\n[ocr.tesseract_config]\npsm = 6\nenable_table_detection = true\ntessedit_char_whitelist = &quot;0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ&quot;\n\n[chunking]\nmax_chars = 1000\nmax_overlap = 200\n\n[images]\nextract_images = true\ntarget_dpi = 300\nmax_image_dimension = 4096\nauto_adjust_dpi = true\nmin_dpi = 72\nmax_dpi = 600\n\n[pdf_options]\nextract_images = true\nextract_metadata = true\npasswords = [&quot;password1&quot;, &quot;password2&quot;]\n\n[token_reduction]\nmode = &quot;moderate&quot;\npreserve_important_words = true\n\n[language_detection]\nenabled = true\nmin_confidence = 0.85\ndetect_multiple = false\n\n[postprocessor]\nenabled = true\nenabled_processors = [&quot;processor1&quot;, &quot;processor2&quot;]\ndisabled_processors = [&quot;processor3&quot;]\n</code></pre>\n",
+    "json": "{\"body\":[{\"type\":\"code\",\"text\":\"use_cache = false\\nenable_quality_processing = true\\nforce_ocr = false\\nmax_concurrent_extractions = 4\\n\\n[ocr]\\nbackend = \\\"tesseract\\\"\\nlanguage = \\\"eng\\\"\\n\\n[ocr.tesseract_config]\\npsm = 6\\nenable_table_detection = true\\ntessedit_char_whitelist = \\\"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ\\\"\\n\\n[chunking]\\nmax_chars = 1000\\nmax_overlap = 200\\n\\n[images]\\nextract_images = true\\ntarget_dpi = 300\\nmax_image_dimension = 4096\\nauto_adjust_dpi = true\\nmin_dpi = 72\\nmax_dpi = 600\\n\\n[pdf_options]\\nextract_images = true\\nextract_metadata = true\\npasswords = [\\\"password1\\\", \\\"password2\\\"]\\n\\n[token_reduction]\\nmode = \\\"moderate\\\"\\npreserve_important_words = true\\n\\n[language_detection]\\nenabled = true\\nmin_confidence = 0.85\\ndetect_multiple = false\\n\\n[postprocessor]\\nenabled = true\\nenabled_processors = [\\\"processor1\\\", \\\"processor2\\\"]\\ndisabled_processors = [\\\"processor3\\\"]\\n\",\"language\":\"toml\"}]}",
+    "markdown": "```toml\nuse_cache = false\nenable_quality_processing = true\nforce_ocr = false\nmax_concurrent_extractions = 4\n\n[ocr]\nbackend = \"tesseract\"\nlanguage = \"eng\"\n\n[ocr.tesseract_config]\npsm = 6\nenable_table_detection = true\ntessedit_char_whitelist = \"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ\"\n\n[chunking]\nmax_chars = 1000\nmax_overlap = 200\n\n[images]\nextract_images = true\ntarget_dpi = 300\nmax_image_dimension = 4096\nauto_adjust_dpi = true\nmin_dpi = 72\nmax_dpi = 600\n\n[pdf_options]\nextract_images = true\nextract_metadata = true\npasswords = [\"password1\", \"password2\"]\n\n[token_reduction]\nmode = \"moderate\"\npreserve_important_words = true\n\n[language_detection]\nenabled = true\nmin_confidence = 0.85\ndetect_multiple = false\n\n[postprocessor]\nenabled = true\nenabled_processors = [\"processor1\", \"processor2\"]\ndisabled_processors = [\"processor3\"]\n```\n",
+    "plain": "use_cache = false\nenable_quality_processing = true\nforce_ocr = false\nmax_concurrent_extractions = 4\n\n[ocr]\nbackend = \"tesseract\"\nlanguage = \"eng\"\n\n[ocr.tesseract_config]\npsm = 6\nenable_table_detection = true\ntessedit_char_whitelist = \"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ\"\n\n[chunking]\nmax_chars = 1000\nmax_overlap = 200\n\n[images]\nextract_images = true\ntarget_dpi = 300\nmax_image_dimension = 4096\nauto_adjust_dpi = true\nmin_dpi = 72\nmax_dpi = 600\n\n[pdf_options]\nextract_images = true\nextract_metadata = true\npasswords = [\"password1\", \"password2\"]\n\n[token_reduction]\nmode = \"moderate\"\npreserve_important_words = true\n\n[language_detection]\nenabled = true\nmin_confidence = 0.85\ndetect_multiple = false\n\n[postprocessor]\nenabled = true\nenabled_processors = [\"processor1\", \"processor2\"]\ndisabled_processors = [\"processor3\"]"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/docx/rlink.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/docx/rlink.md",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/docx/rlink.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Testing Linked Images</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Testing Linked Images\"},{\"type\":\"image\"}]}",
+    "markdown": "Testing Linked Images\n",
+    "plain": "Testing Linked Images"
+  }
+}

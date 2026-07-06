@@ -1,0 +1,58 @@
+{
+  "file": "jupyter/rank.ipynb",
+  "mime_type": "application/x-ipynb+json",
+  "success": true,
+  "metadata": {
+    "language": "python",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "jupyter/rank.ipynb",
+      "source_index": 0,
+      "source_kind": "uri",
+      "nbformat": 4,
+      "cell_count": 2,
+      "kernelspec": {
+        "display_name": "Python 3 (ipykernel)",
+        "language": "python",
+        "name": "python3"
+      },
+      "language_mimetype": "text/x-python",
+      "source_uri": "jupyter/rank.ipynb",
+      "language_version": "3.10.0",
+      "cells": [
+        {
+          "index": 0,
+          "cell_type": "code",
+          "execution_count": 1
+        },
+        {
+          "index": 1,
+          "cell_type": "code",
+          "execution_count": 2
+        }
+      ],
+      "nbformat_minor": 5,
+      "language_info": {
+        "codemirror_mode": {
+          "name": "ipython",
+          "version": 3
+        },
+        "file_extension": ".py",
+        "mimetype": "text/x-python",
+        "name": "python",
+        "nbconvert_exporter": "python",
+        "pygments_lexer": "ipython3",
+        "version": "3.10.0"
+      },
+      "language_name": "python"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>[kernel_language: python]</p>\n<p>[cell_id: 5cf8f54d-bf3c-4db2-996d-22662a86ad43]</p>\n<pre><code>import matplotlib.pyplot as plt</code></pre>\n<p>execution_count: 1</p>\n<p>[cell_id: a0228622-9ff8-4392-9ddd-f70a90f0e106]</p>\n<pre><code>fig, ax = plt.subplots(figsize=(1, 1), dpi=4)\nax.imshow([[0, 1], [2, 3]]);</code></pre>\n<p>execution_count: 2</p>\n<p>[output_type: display_data]</p>\n<p>[mime: text/html]</p>\n<p>[mime: image/png]</p>\n<p>[mime: text/plain]</p>\n<p>&lt;Figure size 4x4 with 1 Axes&gt;</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"[kernel_language: python]\"},{\"type\":\"paragraph\",\"text\":\"[cell_id: 5cf8f54d-bf3c-4db2-996d-22662a86ad43]\"},{\"type\":\"code\",\"text\":\"import matplotlib.pyplot as plt\"},{\"type\":\"paragraph\",\"text\":\"execution_count: 1\"},{\"type\":\"paragraph\",\"text\":\"[cell_id: a0228622-9ff8-4392-9ddd-f70a90f0e106]\"},{\"type\":\"code\",\"text\":\"fig, ax = plt.subplots(figsize=(1, 1), dpi=4)\\nax.imshow([[0, 1], [2, 3]]);\"},{\"type\":\"paragraph\",\"text\":\"execution_count: 2\"},{\"type\":\"paragraph\",\"text\":\"[output_type: display_data]\"},{\"type\":\"paragraph\",\"text\":\"[mime: text/html]\"},{\"type\":\"paragraph\",\"text\":\"[mime: image/png]\"},{\"type\":\"paragraph\",\"text\":\"[mime: text/plain]\"},{\"type\":\"paragraph\",\"text\":\"<Figure size 4x4 with 1 Axes>\"}]}",
+    "markdown": "[kernel_language: python]\n\n[cell_id: 5cf8f54d-bf3c-4db2-996d-22662a86ad43]\n\n```\nimport matplotlib.pyplot as plt\n```\n\nexecution_count: 1\n\n[cell_id: a0228622-9ff8-4392-9ddd-f70a90f0e106]\n\n```\nfig, ax = plt.subplots(figsize=(1, 1), dpi=4)\nax.imshow([[0, 1], [2, 3]]);\n```\n\nexecution_count: 2\n\n[output_type: display_data]\n\n[mime: text/html]\n\n[mime: image/png]\n\n[mime: text/plain]\n\n\\<Figure size 4x4 with 1 Axes\\>\n",
+    "plain": "[kernel_language: python]\n\n[cell_id: 5cf8f54d-bf3c-4db2-996d-22662a86ad43]\n\nimport matplotlib.pyplot as plt\n\nexecution_count: 1\n\n[cell_id: a0228622-9ff8-4392-9ddd-f70a90f0e106]\n\nfig, ax = plt.subplots(figsize=(1, 1), dpi=4)\nax.imshow([[0, 1], [2, 3]]);\n\nexecution_count: 2\n\n[output_type: display_data]\n\n[mime: text/html]\n\n[mime: image/png]\n\n[mime: text/plain]\n\n<Figure size 4x4 with 1 Axes>"
+  }
+}

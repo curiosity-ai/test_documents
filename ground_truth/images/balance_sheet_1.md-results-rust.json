@@ -1,0 +1,371 @@
+{
+  "file": "ground_truth/images/balance_sheet_1.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/images/balance_sheet_1.md",
+      "source_index": 0,
+      "source_uri": "ground_truth/images/balance_sheet_1.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          "2025/26Actual",
+          "Prior YearActual",
+          "Variance"
+        ],
+        [
+          "Current Assets",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Cash",
+          "99,528",
+          "733,968",
+          "-634,440"
+        ],
+        [
+          "Accounts receivable - trade, net",
+          "12,246,544",
+          "13,073,553",
+          "-827,009"
+        ],
+        [
+          "SSI & GIS Receivable",
+          "341,934",
+          "11,109",
+          "330,825"
+        ],
+        [
+          "Inventories - at cost",
+          "12,895,713",
+          "9,385,775",
+          "3,509,938"
+        ],
+        [
+          "A/R Lecol & Parent Co",
+          "868,318",
+          "899,519",
+          "-31,201"
+        ],
+        [
+          "Prepaid expense & Other Assets",
+          "948,937",
+          "816,610",
+          "132,327"
+        ],
+        [
+          "Total Current Assets",
+          "27,400,974",
+          "24,920,534",
+          "2,480,440"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Machinery and equipment - Hauling",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "Machinery and equipment -",
+          "6,787,311",
+          "6,759,645",
+          "27,666"
+        ],
+        [
+          "Buildings & Land",
+          "356,503",
+          "44,473",
+          "312,030"
+        ],
+        [
+          "Forms",
+          "1,207,103",
+          "614,346",
+          "592,757"
+        ],
+        [
+          "New Asset Purchases",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "Vehicles",
+          "604,062",
+          "337,522",
+          "266,540"
+        ],
+        [
+          "Office equipment",
+          "52,332",
+          "52,332",
+          "0"
+        ],
+        [
+          "Leasehold improvements",
+          "2,693,959",
+          "2,581,430",
+          "112,529"
+        ],
+        [
+          "Total property, plant and equipment",
+          "11,701,270",
+          "10,389,748",
+          "1,311,522"
+        ],
+        [
+          "Less: accumulated depreciation",
+          "4,510,081",
+          "3,384,201",
+          "1,125,881"
+        ],
+        [
+          "Net Property, plant and equipment",
+          "7,191,189",
+          "7,005,548",
+          "185,641"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Deposit",
+          "725,877",
+          "631,154",
+          "94,723"
+        ],
+        [
+          "Long Term Investments- and Right of Use Lifts",
+          "100",
+          "100",
+          "0"
+        ],
+        [
+          "Right of Use Asset-Rental Property",
+          "3,358,687",
+          "4,442,739",
+          "-1,084,052"
+        ],
+        [
+          "Total Other Assets",
+          "4,084,664",
+          "5,073,993",
+          "-989,329"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Total Assets",
+          "38,676,827",
+          "37,000,075",
+          "1,676,752"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "LIABILITIES AND STOCKHOLDERS' EQUITY",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Current Liabilities",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "Current portion of long-term debt",
+          "230,000",
+          "3,957,807",
+          "-3,727,807"
+        ],
+        [
+          "Line of credit",
+          "0",
+          "6,823,364",
+          "-6,823,364"
+        ],
+        [
+          "Production Billings / Billings in Excess",
+          "1,754,417",
+          "300,651",
+          "1,453,766"
+        ],
+        [
+          "Taxes",
+          "616,134",
+          "1,010,421",
+          "-394,287"
+        ],
+        [
+          "Accounts payable",
+          "5,632,981",
+          "5,352,922",
+          "280,059"
+        ],
+        [
+          "UnVouched Payables",
+          "153,364",
+          "159,504",
+          "-6,140"
+        ],
+        [
+          "Accrued payroll and payroll taxes withheld",
+          "595,591",
+          "438,053",
+          "157,538"
+        ],
+        [
+          "Accrued expenses - other",
+          "1,679,315",
+          "1,718,271",
+          "-38,956"
+        ],
+        [
+          "Total Current Liabilities",
+          "10,661,802",
+          "19,760,993",
+          "-9,099,191"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Long -Term Lease Obligations",
+          "2,444,960",
+          "3,379,661",
+          "-934,701"
+        ],
+        [
+          "Long - Term Debt CIBC and Vendor Note",
+          "0",
+          "11,955,499",
+          "-11,955,499"
+        ],
+        [
+          "Inter Co Loan",
+          "25,468,460",
+          "2,417,270",
+          "23,051,190"
+        ],
+        [
+          "Net Long-Term Debt",
+          "27,913,420",
+          "17,752,430",
+          "10,160,990"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Total Liabilities",
+          "38,575,222",
+          "37,513,423",
+          "1,061,799"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Stockholders' Equity",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Subordinate Debt",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "Common Stock",
+          "100",
+          "100",
+          "0"
+        ],
+        [
+          "Surplus",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "Retained earnings",
+          "101,505",
+          "-513,448",
+          "614,953"
+        ],
+        [
+          "Total Stockholders' Equity",
+          "101,605",
+          "-513,348",
+          "614,953"
+        ],
+        [
+          "",
+          "",
+          "",
+          "0"
+        ],
+        [
+          "Total Liabilities and Stockholders' Equity",
+          "38,676,827",
+          "37,000,075",
+          "1,676,752"
+        ]
+      ],
+      "markdown": "|  | 2025/26Actual | Prior YearActual | Variance |\n| --- | --- | --- | --- |\n| Current Assets |  |  |  |\n| Cash | 99,528 | 733,968 | -634,440 |\n| Accounts receivable - trade, net | 12,246,544 | 13,073,553 | -827,009 |\n| SSI & GIS Receivable | 341,934 | 11,109 | 330,825 |\n| Inventories - at cost | 12,895,713 | 9,385,775 | 3,509,938 |\n| A/R Lecol & Parent Co | 868,318 | 899,519 | -31,201 |\n| Prepaid expense & Other Assets | 948,937 | 816,610 | 132,327 |\n| Total Current Assets | 27,400,974 | 24,920,534 | 2,480,440 |\n|  |  |  |  |\n| Machinery and equipment - Hauling | 0 | 0 | 0 |\n| Machinery and equipment - | 6,787,311 | 6,759,645 | 27,666 |\n| Buildings & Land | 356,503 | 44,473 | 312,030 |\n| Forms | 1,207,103 | 614,346 | 592,757 |\n| New Asset Purchases | 0 | 0 | 0 |\n| Vehicles | 604,062 | 337,522 | 266,540 |\n| Office equipment | 52,332 | 52,332 | 0 |\n| Leasehold improvements | 2,693,959 | 2,581,430 | 112,529 |\n| Total property, plant and equipment | 11,701,270 | 10,389,748 | 1,311,522 |\n| Less: accumulated depreciation | 4,510,081 | 3,384,201 | 1,125,881 |\n| Net Property, plant and equipment | 7,191,189 | 7,005,548 | 185,641 |\n|  |  |  |  |\n| Deposit | 725,877 | 631,154 | 94,723 |\n| Long Term Investments- and Right of Use Lifts | 100 | 100 | 0 |\n| Right of Use Asset-Rental Property | 3,358,687 | 4,442,739 | -1,084,052 |\n| Total Other Assets | 4,084,664 | 5,073,993 | -989,329 |\n|  |  |  |  |\n| Total Assets | 38,676,827 | 37,000,075 | 1,676,752 |\n|  |  |  |  |\n| LIABILITIES AND STOCKHOLDERS' EQUITY |  |  |  |\n|  |  |  |  |\n| Current Liabilities | 0 | 0 | 0 |\n| Current portion of long-term debt | 230,000 | 3,957,807 | -3,727,807 |\n| Line of credit | 0 | 6,823,364 | -6,823,364 |\n| Production Billings / Billings in Excess | 1,754,417 | 300,651 | 1,453,766 |\n| Taxes | 616,134 | 1,010,421 | -394,287 |\n| Accounts payable | 5,632,981 | 5,352,922 | 280,059 |\n| UnVouched Payables | 153,364 | 159,504 | -6,140 |\n| Accrued payroll and payroll taxes withheld | 595,591 | 438,053 | 157,538 |\n| Accrued expenses - other | 1,679,315 | 1,718,271 | -38,956 |\n| Total Current Liabilities | 10,661,802 | 19,760,993 | -9,099,191 |\n|  |  |  |  |\n| Long -Term Lease Obligations | 2,444,960 | 3,379,661 | -934,701 |\n| Long - Term Debt CIBC and Vendor Note | 0 | 11,955,499 | -11,955,499 |\n| Inter Co Loan | 25,468,460 | 2,417,270 | 23,051,190 |\n| Net Long-Term Debt | 27,913,420 | 17,752,430 | 10,160,990 |\n|  |  |  |  |\n| Total Liabilities | 38,575,222 | 37,513,423 | 1,061,799 |\n|  |  |  |  |\n| Stockholders' Equity |  |  |  |\n| Subordinate Debt | 0 | 0 | 0 |\n| Common Stock | 100 | 100 | 0 |\n| Surplus | 0 | 0 | 0 |\n| Retained earnings | 101,505 | -513,448 | 614,953 |\n| Total Stockholders' Equity | 101,605 | -513,348 | 614,953 |\n|  |  |  | 0 |\n| Total Liabilities and Stockholders' Equity | 38,676,827 | 37,000,075 | 1,676,752 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>Balance Sheet May, 2025</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>2025/26Actual</th>\n<th>Prior YearActual</th>\n<th>Variance</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Current Assets</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Cash</td>\n<td>99,528</td>\n<td>733,968</td>\n<td>-634,440</td>\n</tr>\n<tr>\n<td>Accounts receivable - trade, net</td>\n<td>12,246,544</td>\n<td>13,073,553</td>\n<td>-827,009</td>\n</tr>\n<tr>\n<td>SSI &amp; GIS Receivable</td>\n<td>341,934</td>\n<td>11,109</td>\n<td>330,825</td>\n</tr>\n<tr>\n<td>Inventories - at cost</td>\n<td>12,895,713</td>\n<td>9,385,775</td>\n<td>3,509,938</td>\n</tr>\n<tr>\n<td>A/R Lecol &amp; Parent Co</td>\n<td>868,318</td>\n<td>899,519</td>\n<td>-31,201</td>\n</tr>\n<tr>\n<td>Prepaid expense &amp; Other Assets</td>\n<td>948,937</td>\n<td>816,610</td>\n<td>132,327</td>\n</tr>\n<tr>\n<td>Total Current Assets</td>\n<td>27,400,974</td>\n<td>24,920,534</td>\n<td>2,480,440</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Machinery and equipment - Hauling</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>Machinery and equipment -</td>\n<td>6,787,311</td>\n<td>6,759,645</td>\n<td>27,666</td>\n</tr>\n<tr>\n<td>Buildings &amp; Land</td>\n<td>356,503</td>\n<td>44,473</td>\n<td>312,030</td>\n</tr>\n<tr>\n<td>Forms</td>\n<td>1,207,103</td>\n<td>614,346</td>\n<td>592,757</td>\n</tr>\n<tr>\n<td>New Asset Purchases</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>Vehicles</td>\n<td>604,062</td>\n<td>337,522</td>\n<td>266,540</td>\n</tr>\n<tr>\n<td>Office equipment</td>\n<td>52,332</td>\n<td>52,332</td>\n<td>0</td>\n</tr>\n<tr>\n<td>Leasehold improvements</td>\n<td>2,693,959</td>\n<td>2,581,430</td>\n<td>112,529</td>\n</tr>\n<tr>\n<td>Total property, plant and equipment</td>\n<td>11,701,270</td>\n<td>10,389,748</td>\n<td>1,311,522</td>\n</tr>\n<tr>\n<td>Less: accumulated depreciation</td>\n<td>4,510,081</td>\n<td>3,384,201</td>\n<td>1,125,881</td>\n</tr>\n<tr>\n<td>Net Property, plant and equipment</td>\n<td>7,191,189</td>\n<td>7,005,548</td>\n<td>185,641</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Deposit</td>\n<td>725,877</td>\n<td>631,154</td>\n<td>94,723</td>\n</tr>\n<tr>\n<td>Long Term Investments- and Right of Use Lifts</td>\n<td>100</td>\n<td>100</td>\n<td>0</td>\n</tr>\n<tr>\n<td>Right of Use Asset-Rental Property</td>\n<td>3,358,687</td>\n<td>4,442,739</td>\n<td>-1,084,052</td>\n</tr>\n<tr>\n<td>Total Other Assets</td>\n<td>4,084,664</td>\n<td>5,073,993</td>\n<td>-989,329</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Total Assets</td>\n<td>38,676,827</td>\n<td>37,000,075</td>\n<td>1,676,752</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>LIABILITIES AND STOCKHOLDERS' EQUITY</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Current Liabilities</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>Current portion of long-term debt</td>\n<td>230,000</td>\n<td>3,957,807</td>\n<td>-3,727,807</td>\n</tr>\n<tr>\n<td>Line of credit</td>\n<td>0</td>\n<td>6,823,364</td>\n<td>-6,823,364</td>\n</tr>\n<tr>\n<td>Production Billings / Billings in Excess</td>\n<td>1,754,417</td>\n<td>300,651</td>\n<td>1,453,766</td>\n</tr>\n<tr>\n<td>Taxes</td>\n<td>616,134</td>\n<td>1,010,421</td>\n<td>-394,287</td>\n</tr>\n<tr>\n<td>Accounts payable</td>\n<td>5,632,981</td>\n<td>5,352,922</td>\n<td>280,059</td>\n</tr>\n<tr>\n<td>UnVouched Payables</td>\n<td>153,364</td>\n<td>159,504</td>\n<td>-6,140</td>\n</tr>\n<tr>\n<td>Accrued payroll and payroll taxes withheld</td>\n<td>595,591</td>\n<td>438,053</td>\n<td>157,538</td>\n</tr>\n<tr>\n<td>Accrued expenses - other</td>\n<td>1,679,315</td>\n<td>1,718,271</td>\n<td>-38,956</td>\n</tr>\n<tr>\n<td>Total Current Liabilities</td>\n<td>10,661,802</td>\n<td>19,760,993</td>\n<td>-9,099,191</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Long -Term Lease Obligations</td>\n<td>2,444,960</td>\n<td>3,379,661</td>\n<td>-934,701</td>\n</tr>\n<tr>\n<td>Long - Term Debt CIBC and Vendor Note</td>\n<td>0</td>\n<td>11,955,499</td>\n<td>-11,955,499</td>\n</tr>\n<tr>\n<td>Inter Co Loan</td>\n<td>25,468,460</td>\n<td>2,417,270</td>\n<td>23,051,190</td>\n</tr>\n<tr>\n<td>Net Long-Term Debt</td>\n<td>27,913,420</td>\n<td>17,752,430</td>\n<td>10,160,990</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Total Liabilities</td>\n<td>38,575,222</td>\n<td>37,513,423</td>\n<td>1,061,799</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Stockholders' Equity</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Subordinate Debt</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>Common Stock</td>\n<td>100</td>\n<td>100</td>\n<td>0</td>\n</tr>\n<tr>\n<td>Surplus</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>Retained earnings</td>\n<td>101,505</td>\n<td>-513,448</td>\n<td>614,953</td>\n</tr>\n<tr>\n<td>Total Stockholders' Equity</td>\n<td>101,605</td>\n<td>-513,348</td>\n<td>614,953</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>0</td>\n</tr>\n<tr>\n<td>Total Liabilities and Stockholders' Equity</td>\n<td>38,676,827</td>\n<td>37,000,075</td>\n<td>1,676,752</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Balance Sheet May, 2025\"},{\"type\":\"table\",\"headers\":[\"\",\"2025/26Actual\",\"Prior YearActual\",\"Variance\"],\"rows\":[[\"Current Assets\",\"\",\"\",\"\"],[\"Cash\",\"99,528\",\"733,968\",\"-634,440\"],[\"Accounts receivable - trade, net\",\"12,246,544\",\"13,073,553\",\"-827,009\"],[\"SSI & GIS Receivable\",\"341,934\",\"11,109\",\"330,825\"],[\"Inventories - at cost\",\"12,895,713\",\"9,385,775\",\"3,509,938\"],[\"A/R Lecol & Parent Co\",\"868,318\",\"899,519\",\"-31,201\"],[\"Prepaid expense & Other Assets\",\"948,937\",\"816,610\",\"132,327\"],[\"Total Current Assets\",\"27,400,974\",\"24,920,534\",\"2,480,440\"],[\"\",\"\",\"\",\"\"],[\"Machinery and equipment - Hauling\",\"0\",\"0\",\"0\"],[\"Machinery and equipment -\",\"6,787,311\",\"6,759,645\",\"27,666\"],[\"Buildings & Land\",\"356,503\",\"44,473\",\"312,030\"],[\"Forms\",\"1,207,103\",\"614,346\",\"592,757\"],[\"New Asset Purchases\",\"0\",\"0\",\"0\"],[\"Vehicles\",\"604,062\",\"337,522\",\"266,540\"],[\"Office equipment\",\"52,332\",\"52,332\",\"0\"],[\"Leasehold improvements\",\"2,693,959\",\"2,581,430\",\"112,529\"],[\"Total property, plant and equipment\",\"11,701,270\",\"10,389,748\",\"1,311,522\"],[\"Less: accumulated depreciation\",\"4,510,081\",\"3,384,201\",\"1,125,881\"],[\"Net Property, plant and equipment\",\"7,191,189\",\"7,005,548\",\"185,641\"],[\"\",\"\",\"\",\"\"],[\"Deposit\",\"725,877\",\"631,154\",\"94,723\"],[\"Long Term Investments- and Right of Use Lifts\",\"100\",\"100\",\"0\"],[\"Right of Use Asset-Rental Property\",\"3,358,687\",\"4,442,739\",\"-1,084,052\"],[\"Total Other Assets\",\"4,084,664\",\"5,073,993\",\"-989,329\"],[\"\",\"\",\"\",\"\"],[\"Total Assets\",\"38,676,827\",\"37,000,075\",\"1,676,752\"],[\"\",\"\",\"\",\"\"],[\"LIABILITIES AND STOCKHOLDERS' EQUITY\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"],[\"Current Liabilities\",\"0\",\"0\",\"0\"],[\"Current portion of long-term debt\",\"230,000\",\"3,957,807\",\"-3,727,807\"],[\"Line of credit\",\"0\",\"6,823,364\",\"-6,823,364\"],[\"Production Billings / Billings in Excess\",\"1,754,417\",\"300,651\",\"1,453,766\"],[\"Taxes\",\"616,134\",\"1,010,421\",\"-394,287\"],[\"Accounts payable\",\"5,632,981\",\"5,352,922\",\"280,059\"],[\"UnVouched Payables\",\"153,364\",\"159,504\",\"-6,140\"],[\"Accrued payroll and payroll taxes withheld\",\"595,591\",\"438,053\",\"157,538\"],[\"Accrued expenses - other\",\"1,679,315\",\"1,718,271\",\"-38,956\"],[\"Total Current Liabilities\",\"10,661,802\",\"19,760,993\",\"-9,099,191\"],[\"\",\"\",\"\",\"\"],[\"Long -Term Lease Obligations\",\"2,444,960\",\"3,379,661\",\"-934,701\"],[\"Long - Term Debt CIBC and Vendor Note\",\"0\",\"11,955,499\",\"-11,955,499\"],[\"Inter Co Loan\",\"25,468,460\",\"2,417,270\",\"23,051,190\"],[\"Net Long-Term Debt\",\"27,913,420\",\"17,752,430\",\"10,160,990\"],[\"\",\"\",\"\",\"\"],[\"Total Liabilities\",\"38,575,222\",\"37,513,423\",\"1,061,799\"],[\"\",\"\",\"\",\"\"],[\"Stockholders' Equity\",\"\",\"\",\"\"],[\"Subordinate Debt\",\"0\",\"0\",\"0\"],[\"Common Stock\",\"100\",\"100\",\"0\"],[\"Surplus\",\"0\",\"0\",\"0\"],[\"Retained earnings\",\"101,505\",\"-513,448\",\"614,953\"],[\"Total Stockholders' Equity\",\"101,605\",\"-513,348\",\"614,953\"],[\"\",\"\",\"\",\"0\"],[\"Total Liabilities and Stockholders' Equity\",\"38,676,827\",\"37,000,075\",\"1,676,752\"]]}]}",
+    "markdown": "Balance Sheet May, 2025\n\n|  | 2025/26Actual | Prior YearActual | Variance |\n| --- | --- | --- | --- |\n| Current Assets |  |  |  |\n| Cash | 99,528 | 733,968 | -634,440 |\n| Accounts receivable - trade, net | 12,246,544 | 13,073,553 | -827,009 |\n| SSI & GIS Receivable | 341,934 | 11,109 | 330,825 |\n| Inventories - at cost | 12,895,713 | 9,385,775 | 3,509,938 |\n| A/R Lecol & Parent Co | 868,318 | 899,519 | -31,201 |\n| Prepaid expense & Other Assets | 948,937 | 816,610 | 132,327 |\n| Total Current Assets | 27,400,974 | 24,920,534 | 2,480,440 |\n|  |  |  |  |\n| Machinery and equipment - Hauling | 0 | 0 | 0 |\n| Machinery and equipment - | 6,787,311 | 6,759,645 | 27,666 |\n| Buildings & Land | 356,503 | 44,473 | 312,030 |\n| Forms | 1,207,103 | 614,346 | 592,757 |\n| New Asset Purchases | 0 | 0 | 0 |\n| Vehicles | 604,062 | 337,522 | 266,540 |\n| Office equipment | 52,332 | 52,332 | 0 |\n| Leasehold improvements | 2,693,959 | 2,581,430 | 112,529 |\n| Total property, plant and equipment | 11,701,270 | 10,389,748 | 1,311,522 |\n| Less: accumulated depreciation | 4,510,081 | 3,384,201 | 1,125,881 |\n| Net Property, plant and equipment | 7,191,189 | 7,005,548 | 185,641 |\n|  |  |  |  |\n| Deposit | 725,877 | 631,154 | 94,723 |\n| Long Term Investments- and Right of Use Lifts | 100 | 100 | 0 |\n| Right of Use Asset-Rental Property | 3,358,687 | 4,442,739 | -1,084,052 |\n| Total Other Assets | 4,084,664 | 5,073,993 | -989,329 |\n|  |  |  |  |\n| Total Assets | 38,676,827 | 37,000,075 | 1,676,752 |\n|  |  |  |  |\n| LIABILITIES AND STOCKHOLDERS' EQUITY |  |  |  |\n|  |  |  |  |\n| Current Liabilities | 0 | 0 | 0 |\n| Current portion of long-term debt | 230,000 | 3,957,807 | -3,727,807 |\n| Line of credit | 0 | 6,823,364 | -6,823,364 |\n| Production Billings / Billings in Excess | 1,754,417 | 300,651 | 1,453,766 |\n| Taxes | 616,134 | 1,010,421 | -394,287 |\n| Accounts payable | 5,632,981 | 5,352,922 | 280,059 |\n| UnVouched Payables | 153,364 | 159,504 | -6,140 |\n| Accrued payroll and payroll taxes withheld | 595,591 | 438,053 | 157,538 |\n| Accrued expenses - other | 1,679,315 | 1,718,271 | -38,956 |\n| Total Current Liabilities | 10,661,802 | 19,760,993 | -9,099,191 |\n|  |  |  |  |\n| Long -Term Lease Obligations | 2,444,960 | 3,379,661 | -934,701 |\n| Long - Term Debt CIBC and Vendor Note | 0 | 11,955,499 | -11,955,499 |\n| Inter Co Loan | 25,468,460 | 2,417,270 | 23,051,190 |\n| Net Long-Term Debt | 27,913,420 | 17,752,430 | 10,160,990 |\n|  |  |  |  |\n| Total Liabilities | 38,575,222 | 37,513,423 | 1,061,799 |\n|  |  |  |  |\n| Stockholders' Equity |  |  |  |\n| Subordinate Debt | 0 | 0 | 0 |\n| Common Stock | 100 | 100 | 0 |\n| Surplus | 0 | 0 | 0 |\n| Retained earnings | 101,505 | -513,448 | 614,953 |\n| Total Stockholders' Equity | 101,605 | -513,348 | 614,953 |\n|  |  |  | 0 |\n| Total Liabilities and Stockholders' Equity | 38,676,827 | 37,000,075 | 1,676,752 |\n",
+    "plain": "Balance Sheet May, 2025\n\n 2025/26Actual Prior YearActual Variance\nCurrent Assets   \nCash 99,528 733,968 -634,440\nAccounts receivable - trade, net 12,246,544 13,073,553 -827,009\nSSI & GIS Receivable 341,934 11,109 330,825\nInventories - at cost 12,895,713 9,385,775 3,509,938\nA/R Lecol & Parent Co 868,318 899,519 -31,201\nPrepaid expense & Other Assets 948,937 816,610 132,327\nTotal Current Assets 27,400,974 24,920,534 2,480,440\n   \nMachinery and equipment - Hauling 0 0 0\nMachinery and equipment - 6,787,311 6,759,645 27,666\nBuildings & Land 356,503 44,473 312,030\nForms 1,207,103 614,346 592,757\nNew Asset Purchases 0 0 0\nVehicles 604,062 337,522 266,540\nOffice equipment 52,332 52,332 0\nLeasehold improvements 2,693,959 2,581,430 112,529\nTotal property, plant and equipment 11,701,270 10,389,748 1,311,522\nLess: accumulated depreciation 4,510,081 3,384,201 1,125,881\nNet Property, plant and equipment 7,191,189 7,005,548 185,641\n   \nDeposit 725,877 631,154 94,723\nLong Term Investments- and Right of Use Lifts 100 100 0\nRight of Use Asset-Rental Property 3,358,687 4,442,739 -1,084,052\nTotal Other Assets 4,084,664 5,073,993 -989,329\n   \nTotal Assets 38,676,827 37,000,075 1,676,752\n   \nLIABILITIES AND STOCKHOLDERS' EQUITY   \n   \nCurrent Liabilities 0 0 0\nCurrent portion of long-term debt 230,000 3,957,807 -3,727,807\nLine of credit 0 6,823,364 -6,823,364\nProduction Billings / Billings in Excess 1,754,417 300,651 1,453,766\nTaxes 616,134 1,010,421 -394,287\nAccounts payable 5,632,981 5,352,922 280,059\nUnVouched Payables 153,364 159,504 -6,140\nAccrued payroll and payroll taxes withheld 595,591 438,053 157,538\nAccrued expenses - other 1,679,315 1,718,271 -38,956\nTotal Current Liabilities 10,661,802 19,760,993 -9,099,191\n   \nLong -Term Lease Obligations 2,444,960 3,379,661 -934,701\nLong - Term Debt CIBC and Vendor Note 0 11,955,499 -11,955,499\nInter Co Loan 25,468,460 2,417,270 23,051,190\nNet Long-Term Debt 27,913,420 17,752,430 10,160,990\n   \nTotal Liabilities 38,575,222 37,513,423 1,061,799\n   \nStockholders' Equity   \nSubordinate Debt 0 0 0\nCommon Stock 100 100 0\nSurplus 0 0 0\nRetained earnings 101,505 -513,448 614,953\nTotal Stockholders' Equity 101,605 -513,348 614,953\n   0\nTotal Liabilities and Stockholders' Equity 38,676,827 37,000,075 1,676,752"
+  }
+}

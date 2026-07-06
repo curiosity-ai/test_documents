@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/xlsx/stanley_cups.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 17,
+      "word_count": 46,
+      "character_count": 510
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/xlsx/stanley_cups.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/xlsx/stanley_cups.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Stanley Cups</p>\n<p>Stanley Cups -------------- ---------- -------------- Team Location Stanley Cups Blues STL 1.0 Flyers PHI 2.0 Maple Leafs TOR 13.0</p>\n<p>Stanley Cups Since 67</p>\n<p>Stanley Cups Since 67 ----------------------- ---------- -------------- Team Location Stanley Cups Blues STL 1.0 Flyers PHI 2.0 Maple Leafs TOR 0.0</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Stanley Cups\"},{\"type\":\"paragraph\",\"text\":\"Stanley Cups              \\n  -------------- ---------- --------------\\n  Team           Location   Stanley Cups\\n  Blues          STL        1.0\\n  Flyers         PHI        2.0\\n  Maple Leafs    TOR        13.0\"},{\"type\":\"paragraph\",\"text\":\"Stanley Cups Since 67\"},{\"type\":\"paragraph\",\"text\":\"Stanley Cups Since 67              \\n  ----------------------- ---------- --------------\\n  Team                    Location   Stanley Cups\\n  Blues                   STL        1.0\\n  Flyers                  PHI        2.0\\n  Maple Leafs             TOR        0.0\"}]}",
+    "markdown": "Stanley Cups\n\nStanley Cups -------------- ---------- -------------- Team Location Stanley Cups Blues STL 1.0 Flyers PHI 2.0 Maple Leafs TOR 13.0\n\nStanley Cups Since 67\n\nStanley Cups Since 67 ----------------------- ---------- -------------- Team Location Stanley Cups Blues STL 1.0 Flyers PHI 2.0 Maple Leafs TOR 0.0\n",
+    "plain": "Stanley Cups\n\nStanley Cups              \n  -------------- ---------- --------------\n  Team           Location   Stanley Cups\n  Blues          STL        1.0\n  Flyers         PHI        2.0\n  Maple Leafs    TOR        13.0\n\nStanley Cups Since 67\n\nStanley Cups Since 67              \n  ----------------------- ---------- --------------\n  Team                    Location   Stanley Cups\n  Blues                   STL        1.0\n  Flyers                  PHI        2.0\n  Maple Leafs             TOR        0.0"
+  }
+}

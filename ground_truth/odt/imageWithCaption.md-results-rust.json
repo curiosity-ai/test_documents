@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/odt/imageWithCaption.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/odt/imageWithCaption.md",
+      "final_uri": "ground_truth/odt/imageWithCaption.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "",
+    "json": "{\"body\":[{\"type\":\"image\"},{\"type\":\"image\"}]}",
+    "markdown": "",
+    "plain": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/odt/paragraph.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/odt/paragraph.md",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/odt/paragraph.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>This is a paragraph.</p>\n<p>This is another paragraph.</p>\n<p>This is a third one.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a paragraph.\"},{\"type\":\"paragraph\",\"text\":\"This is another paragraph.\"},{\"type\":\"paragraph\",\"text\":\"This is a third one.\"}]}",
+    "markdown": "This is a paragraph.\n\nThis is another paragraph.\n\nThis is a third one.\n",
+    "plain": "This is a paragraph.\n\nThis is another paragraph.\n\nThis is a third one."
+  }
+}

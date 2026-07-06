@@ -1,0 +1,36 @@
+{
+  "file": "pdf/nougat_024.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2021-04-20T09:46:56Z",
+    "modified_at": "2021-04-20T09:46:56Z",
+    "created_by": "Nitro Pro 8  (8. 0. 10. 7)",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "Nitro Pro 8  (8. 0. 10. 7)",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "pdf/nougat_024.pdf",
+      "source_uri": "pdf/nougat_024.pdf",
+      "source_index": 0,
+      "extraction_method": "native"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h3>Tea Board India</h3>\n<p>(Under Ministry of Commerce &amp; Industry, Dept. of Commerce, Govt. of India) 14, B.T.M Sarani (Brabourne Road), Kolkata- 700 001 Website: www.teaboard.gov.in e-Mailtidipannita.teaboard@gmail.com</p>\n<p><strong>Tender No. 41(01)/2019/PROM</strong></p>\n<h1>Corrigendum No.2</h1>\n<h1>Cancellation of Tender for RFQ cum RFP for Empanelment of Branding Consultants/Agencies</h1>\n<p><strong>Tender No. 41(01)/2019/PROM Dated: 11/09/2020 CPP Portal Tender ID: 2020_TBI_582964_1 All the interested bidders are advised to make note that the Tender for RFQ cum RFP for Empanelment of Branding Consultants/ Agencies is hereby cancelled.</strong></p>\n<p><strong>Tea Board India appreciates the time and efforts of the in terested bidders and apologizes for any inconvenience this may have caused.</strong></p>\n<p>(Dr. Rishikesh Rai) Secretary</p>\n<p>Phone No. +91 33 2235 1331</p>\n<h2>Dated: 20</h2>\n<p><strong>th</strong></p>\n<p>Sd/- <strong>April, 2021 .</strong></p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Tea Board India\\n(Under Ministry of Commerce & Industry, Dept. of Commerce, Govt. of India)\\n14, B.T.M Sarani (Brabourne Road), Kolkata- 700 001\"},{\"type\":\"paragraph\",\"text\":\"Website: www.teaboard.gov.in e-Mail:dipannita.teaboard@gmail.com\"},{\"type\":\"paragraph\",\"text\":\"Tender No. 41(01)/2019/PROM\"},{\"type\":\"paragraph\",\"text\":\"Corrigendum No.2\"},{\"type\":\"paragraph\",\"text\":\"Cancellation of Tender for RFQ cum RFP for Empanelment of Branding\"},{\"type\":\"paragraph\",\"text\":\"Consultants/Agencies\"},{\"type\":\"paragraph\",\"text\":\"Tender No.\\n41(01)/2019/PROM\\nDated: 11/09/2020\\nCPP Portal Tender ID:\\n2020_TBI_582964_1\"},{\"type\":\"paragraph\",\"text\":\"All the interested bidders are advised to make note that the Tender for RFQ cum\"},{\"type\":\"paragraph\",\"text\":\"RFP for Empanelment of Branding Consultants/ Agencies is hereby cancelled.\"},{\"type\":\"paragraph\",\"text\":\"Tea Board India appreciates the time and efforts of the in terested bidders and\"},{\"type\":\"paragraph\",\"text\":\"apologizes for any inconvenience this may have caused.\"},{\"type\":\"paragraph\",\"text\":\"(Dr. Rishikesh Rai) Secretary\"},{\"type\":\"paragraph\",\"text\":\"Phone No. +91 33 2235 1331\"},{\"type\":\"paragraph\",\"text\":\"Dated: 20 th\"},{\"type\":\"paragraph\",\"text\":\"Sd/-\"},{\"type\":\"paragraph\",\"text\":\"April, 2021 .\"}]}",
+    "markdown": "### Tea Board India\n\n(Under Ministry of Commerce & Industry, Dept. of Commerce, Govt. of India) 14, B.T.M Sarani (Brabourne Road), Kolkata- 700 001 Website: www.teaboard.gov.in e-Mailtidipannita.teaboard@gmail.com\n\n**Tender No. 41(01)/2019/PROM**\n\n# Corrigendum No.2\n\n# Cancellation of Tender for RFQ cum RFP for Empanelment of Branding Consultants/Agencies\n\n**Tender No. 41(01)/2019/PROM Dated: 11/09/2020 CPP Portal Tender ID: 2020_TBI_582964_1 All the interested bidders are advised to make note that the Tender for RFQ cum RFP for Empanelment of Branding Consultants/ Agencies is hereby cancelled.**\n\n**Tea Board India appreciates the time and efforts of the in terested bidders and apologizes for any inconvenience this may have caused.**\n\n(Dr. Rishikesh Rai) Secretary\n\nPhone No. +91 33 2235 1331\n\n## Dated: 20\n\n**th**\n\nSd/- **April, 2021 .**\n",
+    "plain": "Tea Board India\n(Under Ministry of Commerce & Industry, Dept. of Commerce, Govt. of India)\n14, B.T.M Sarani (Brabourne Road), Kolkata- 700 001\n\nWebsite: www.teaboard.gov.in e-Mail:dipannita.teaboard@gmail.com\n\nTender No. 41(01)/2019/PROM\n\nCorrigendum No.2\n\nCancellation of Tender for RFQ cum RFP for Empanelment of Branding\n\nConsultants/Agencies\n\nTender No.\n41(01)/2019/PROM\nDated: 11/09/2020\nCPP Portal Tender ID:\n2020_TBI_582964_1\n\nAll the interested bidders are advised to make note that the Tender for RFQ cum\n\nRFP for Empanelment of Branding Consultants/ Agencies is hereby cancelled.\n\nTea Board India appreciates the time and efforts of the in terested bidders and\n\napologizes for any inconvenience this may have caused.\n\n(Dr. Rishikesh Rai) Secretary\n\nPhone No. +91 33 2235 1331\n\nDated: 20 th\n\nSd/-\n\nApril, 2021 ."
+  }
+}

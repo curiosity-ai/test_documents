@@ -1,0 +1,36 @@
+{
+  "file": "pdf/sharable_web_guide.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2021-06-10T13:50:54Z",
+    "modified_at": "2021-06-10T13:50:54Z",
+    "created_by": "Adobe Acrobat 21.5",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.6",
+      "producer": "Adobe Acrobat 21.5 Image Conversion Plug-in",
+      "is_encrypted": false,
+      "width": 1821,
+      "height": 1405,
+      "page_count": 13
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "pdf/sharable_web_guide.pdf",
+      "source_index": 0,
+      "source_kind": "uri",
+      "extraction_method": "native",
+      "final_uri": "pdf/sharable_web_guide.pdf"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "",
+    "json": "{\"body\":[]}",
+    "markdown": "",
+    "plain": ""
+  }
+}

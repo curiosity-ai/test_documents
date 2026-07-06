@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/docx/unit_test_formatting.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 25,
+      "word_count": 61,
+      "character_count": 360
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/docx/unit_test_formatting.txt",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/docx/unit_test_formatting.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>italic</p>\n<p>bold</p>\n<p>underline</p>\n<p>hyperlink</p>\n<p>italic and bold hyperlink</p>\n<p>Normal italic bold underline and hyperlink on the same line</p>\n<p>- Italic bullet 1</p>\n<p>- Bold bullet 2</p>\n<p>- Underline bullet 3</p>\n<p>- Some italic bold underline</p>\n<p>- Nested italic bold</p>\n<p>The second page of the document with same header and footer</p>\n<p>The third page of the document with different header and footer</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"italic\"},{\"type\":\"paragraph\",\"text\":\"bold\"},{\"type\":\"paragraph\",\"text\":\"underline\"},{\"type\":\"paragraph\",\"text\":\"hyperlink\"},{\"type\":\"paragraph\",\"text\":\"italic and bold hyperlink\"},{\"type\":\"paragraph\",\"text\":\"Normal italic bold underline and hyperlink on the same line\"},{\"type\":\"paragraph\",\"text\":\"- Italic bullet 1\"},{\"type\":\"paragraph\",\"text\":\"- Bold bullet 2\"},{\"type\":\"paragraph\",\"text\":\"- Underline bullet 3\"},{\"type\":\"paragraph\",\"text\":\"- Some italic bold underline\"},{\"type\":\"paragraph\",\"text\":\"- Nested italic bold\"},{\"type\":\"paragraph\",\"text\":\"The second page of the document with same header and footer\"},{\"type\":\"paragraph\",\"text\":\"The third page of the document with different header and footer\"}]}",
+    "markdown": "italic\n\nbold\n\nunderline\n\nhyperlink\n\nitalic and bold hyperlink\n\nNormal italic bold underline and hyperlink on the same line\n\n\\- Italic bullet 1\n\n\\- Bold bullet 2\n\n\\- Underline bullet 3\n\n\\- Some italic bold underline\n\n\\- Nested italic bold\n\nThe second page of the document with same header and footer\n\nThe third page of the document with different header and footer\n",
+    "plain": "italic\n\nbold\n\nunderline\n\nhyperlink\n\nitalic and bold hyperlink\n\nNormal italic bold underline and hyperlink on the same line\n\n- Italic bullet 1\n\n- Bold bullet 2\n\n- Underline bullet 3\n\n- Some italic bold underline\n\n- Nested italic bold\n\nThe second page of the document with same header and footer\n\nThe third page of the document with different header and footer"
+  }
+}

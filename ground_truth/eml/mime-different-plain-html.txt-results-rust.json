@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/mime-different-plain-html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 9,
+      "word_count": 92,
+      "character_count": 536
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/eml/mime-different-plain-html.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/eml/mime-different-plain-html.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Example MIME Email From: sender@example.com To: recipient@example.com Date: Tue, 01 Oct 2024 12:34:56 -0500 This is the text/plain part.</p>\n<p>Did you know that the first email was sent by Ray Tomlinson in 1971? He used the &quot;@&quot; symbol to separate the user's name from the computer name, a practice that is still in use today.</p>\n<p>Another interesting fact is that the first known instance of email spam occurred in 1978. A marketing message was sent to 393 recipients on ARPANET, marking the beginning of what we now know as email spam.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Example MIME Email\\nFrom: sender@example.com\\nTo: recipient@example.com\\nDate: Tue, 01 Oct 2024 12:34:56 -0500\\nThis is the text/plain part.\"},{\"type\":\"paragraph\",\"text\":\"Did you know that the first email was sent by Ray Tomlinson in 1971? He used the \\\"@\\\" symbol to separate the user's name from the computer name, a practice that is still in use today.\"},{\"type\":\"paragraph\",\"text\":\"Another interesting fact is that the first known instance of email spam occurred in 1978. A marketing message was sent to 393 recipients on ARPANET, marking the beginning of what we now know as email spam.\"}]}",
+    "markdown": "Subject: Example MIME Email From: sender@example.com To: recipient@example.com Date: Tue, 01 Oct 2024 12:34:56 -0500 This is the text/plain part.\n\nDid you know that the first email was sent by Ray Tomlinson in 1971? He used the \"@\" symbol to separate the user's name from the computer name, a practice that is still in use today.\n\nAnother interesting fact is that the first known instance of email spam occurred in 1978. A marketing message was sent to 393 recipients on ARPANET, marking the beginning of what we now know as email spam.\n",
+    "plain": "Subject: Example MIME Email\nFrom: sender@example.com\nTo: recipient@example.com\nDate: Tue, 01 Oct 2024 12:34:56 -0500\nThis is the text/plain part.\n\nDid you know that the first email was sent by Ray Tomlinson in 1971? He used the \"@\" symbol to separate the user's name from the computer name, a practice that is still in use today.\n\nAnother interesting fact is that the first known instance of email spam occurred in 1978. A marketing message was sent to 393 recipients on ARPANET, marking the beginning of what we now know as email spam."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/odt/endnote.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 3,
+      "word_count": 8,
+      "character_count": 47
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/odt/endnote.txt",
+      "source_uri": "ground_truth/odt/endnote.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Some text[1] with an endnote.</p>\n<p>[1] Endnote text</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Some text[1] with an endnote.\"},{\"type\":\"paragraph\",\"text\":\"[1] Endnote text\"}]}",
+    "markdown": "Some text[1] with an endnote.\n\n[1] Endnote text\n",
+    "plain": "Some text[1] with an endnote.\n\n[1] Endnote text"
+  }
+}

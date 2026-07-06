@@ -1,0 +1,215 @@
+{
+  "file": "pdf/total_order_panic_1198_tables_path.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.5",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 823,
+      "page_count": 5
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "extraction_method": "native",
+      "source_uri": "pdf/total_order_panic_1198_tables_path.pdf",
+      "final_uri": "pdf/total_order_panic_1198_tables_path.pdf"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Tema: Koury:",
+          "•",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1jaTa:",
+          "BTOpHIIK,",
+          "7  I410Ab",
+          "2009,",
+          "15:53"
+        ]
+      ],
+      "markdown": "| Tema: Koury: | • |  |  |  |\n| --- | --- | --- | --- | --- |\n| 1jaTa: | BTOpHIIK, | 7  I410Ab | 2009, | 15:53 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 78.0,
+        "y0": 471.0,
+        "x1": 296.0,
+        "y1": 524.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "TeMa: Komy:",
+          "Re: ' >",
+          "",
+          "",
+          ""
+        ],
+        [
+          "gara:",
+          "BocKpeceHbe,",
+          "5 imonb",
+          "2009,",
+          "17:44"
+        ]
+      ],
+      "markdown": "| TeMa: Komy: | Re: ' > |  |  |  |\n| --- | --- | --- | --- | --- |\n| gara: | BocKpeceHbe, | 5 imonb | 2009, | 17:44 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 85.0,
+        "y0": 181.0,
+        "x1": 452.0,
+        "y1": 234.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "TeMa: KoMy:",
+          "•",
+          "",
+          "< >",
+          ""
+        ],
+        [
+          "gam:",
+          "Cy66ora,",
+          "4 wionb",
+          "2009,",
+          "15:48"
+        ]
+      ],
+      "markdown": "| TeMa: KoMy: | • |  | < > |  |\n| --- | --- | --- | --- | --- |\n| gam: | Cy66ora, | 4 wionb | 2009, | 15:48 |\n",
+      "page_number": 2,
+      "bounding_box": {
+        "x0": 94.0,
+        "y0": 542.0,
+        "x1": 459.0,
+        "y1": 595.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "TeMa: KoMy:",
+          "Re: \"",
+          "",
+          "",
+          ""
+        ],
+        [
+          "gam:",
+          "gereepr,",
+          "25",
+          "woHb 2009,",
+          "17:16"
+        ]
+      ],
+      "markdown": "| TeMa: KoMy: | Re: \" |  |  |  |\n| --- | --- | --- | --- | --- |\n| gam: | gereepr, | 25 | woHb 2009, | 17:16 |\n",
+      "page_number": 2,
+      "bounding_box": {
+        "x0": 110.0,
+        "y0": 100.0,
+        "x1": 355.0,
+        "y1": 154.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "TeMa: KoMy:",
+          "Re: >",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ram:",
+          "BTOpHIAK,",
+          "23",
+          "2009, 111OHb",
+          "22:52"
+        ]
+      ],
+      "markdown": "| TeMa: KoMy: | Re: > |  |  |  |\n| --- | --- | --- | --- | --- |\n| Ram: | BTOpHIAK, | 23 | 2009, 111OHb | 22:52 |\n",
+      "page_number": 3,
+      "bounding_box": {
+        "x0": 118.0,
+        "y0": 514.0,
+        "x1": 485.0,
+        "y1": 568.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "Tema: Komy:",
+          "Re:",
+          "",
+          "",
+          ""
+        ],
+        [
+          ",gala:",
+          "Broprimx,",
+          "23 010Hb",
+          "2009,",
+          "5:07"
+        ]
+      ],
+      "markdown": "| Tema: Komy: | Re: |  |  |  |\n| --- | --- | --- | --- | --- |\n| ,gala: | Broprimx, | 23 010Hb | 2009, | 5:07 |\n",
+      "page_number": 3,
+      "bounding_box": {
+        "x0": 126.0,
+        "y0": 335.0,
+        "x1": 377.0,
+        "y1": 388.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "TeMa: KoMy: >",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          ",I:tara:",
+          "Ilsrifinua,",
+          "19 I41OHb",
+          "2009,",
+          "15:08"
+        ]
+      ],
+      "markdown": "| TeMa: KoMy: > |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| ,I:tara: | Ilsrifinua, | 19 I41OHb | 2009, | 15:08 |\n",
+      "page_number": 4,
+      "bounding_box": {
+        "x0": 143.0,
+        "y0": 431.0,
+        "x1": 509.0,
+        "y1": 485.0
+      }
+    }
+  ],
+  "content": {
+    "html": "<p>To: From: Sent: Thur 7/9/2009 7:50:20 AM Subject: Re: Hi Jeffrey, how arc you? in moscow rainy, staying in the country house with the family. Getting my passport tomorrow. Next week I nccd to go to Romc for the appointment for the UK visa. Can I ask if it s possible to get money for the ticket. the German agency hasnt paid me yet and i didnt make any money now in milan. Then I can go to London and in August Anastasia has some friends in France, I just need to get the ticket as well. miss you, kisses</p>\n<p>Br,</p>\n<p>7.7.09, Jeffrey Epstein leetweation(aginaitcona&gt; niiwet i'm glad you arc safe 2009/7/7 dear Jeffrey, i m already in moscow in my country house with my family, so nice here. how is everything with you? July 20th will come so soon! on July 16th i need to be in Rome, cause i have my appointment for the uk visa there. Before that i will stay in moscow. miss you, my russian cell</p>\n<table>\n<thead>\n<tr>\n<th>Tema: Koury:</th>\n<th>•</th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1jaTa:</td>\n<td>BTOpHIIK,</td>\n<td>7 I410Ab</td>\n<td>2009,</td>\n<td>15:53</td>\n</tr>\n</tbody>\n</table>\n<h1>nahoo.com&gt;</h1>\n<p>Ljerippl Inn IIIIII</p>\n<p>Bc, 5.7.09, Jeffrey Epstein &lt;jeevacationOcimaitcom&gt; rmwer: you need to decide what happens in september 2009/7/4a i will always come back to you! &gt;</p>\n<table>\n<thead>\n<tr>\n<th>TeMa: Komy:</th>\n<th>Re: ' &gt;</th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>gara:</td>\n<td>BocKpeceHbe,</td>\n<td>5 imonb</td>\n<td>2009,</td>\n<td>17:44</td>\n</tr>\n</tbody>\n</table>\n<h2>EFTA_R1_01513574 EFTA02439795</h2>\n<p>p.s.just went for a walk in the park, there was a guy asking me to take a photo with him, i refused, then he took a video camera and took a video when i was walking away. I though that this guy would bring bad luck. In 10 minutes i fell down the stairs in a open cafe in the park, all my knees bleeding hard..made a big mess there, everyone was so scared! clumsy girl! kiss, miss you --- C6, 4.7.09, Jeffrey Epstein &lt;jeevacation@qmaitcom&gt; muter: ok come back soon 2009/7/4 CeernaHa 11Ottwtiwen &lt; Caro Jeffre , i m flying to msc tomorrow, so will be on my russian cell baci --- Br, 30.6.09, Jeffrey Epstein cieevacation(&amp;qmaitcom&gt; nmwer OT: Jeffrey Epstein &lt;jeevacationemail.com&gt; Tema: Re: Kottiy: u pimmiga</p>\n<table>\n<thead>\n<tr>\n<th>TeMa: KoMy:</th>\n<th>•</th>\n<th></th>\n<th>&lt; &gt;</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>gam:</td>\n<td>Cy66ora,</td>\n<td>4 wionb</td>\n<td>2009,</td>\n<td>15:48</td>\n</tr>\n</tbody>\n</table>\n<p>I1</p>\n<h2>gara: TOpHK,</h2>\n<p>WIOHb , :18</p>\n<p>ok.. if thats what you want.. when can i call ? 2009/6/30 CeernaHa flowtigaeea &lt; hi Jeffrey, how are you? i m going to moscow this week, cant take this heat without conditioner anymore! my russian cell- miss you, dont know when i m gonna see you bisous --- LIT, 25.6.09, Jeffrey Epstein &lt;jeevacationeqmaitcorn&gt; rmwer:</p>\n<table>\n<thead>\n<tr>\n<th>TeMa: KoMy:</th>\n<th>Re: &quot;</th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>gam:</td>\n<td>gereepr,</td>\n<td>25</td>\n<td>woHb 2009,</td>\n<td>17:16</td>\n</tr>\n</tbody>\n</table>\n<h3>EFTA_R1_01513575</h3>\n<h2>EFTA02439796</h2>\n<p>what do you want to do.. stay there go to moscow? come to the states? 2009/6/25 Hi Jeffrey, how are you i m back to milan, so hot here! no jobs and millions of models who dont even look like models... kiss BT, 23.6.09, Jeffrey Epstein &lt;jeevacationOqmail. com&gt; nwwer: it looks like 30- 60 days out 2009/6/23 --- Br, 23.6.09, Jeffrey Epstein &lt;jeevacation(&amp;qmaitcom&gt; nmwer: send me a number o call , i'll call tomorrwo 2009/6/22 i m in liguria now, visiting friends that i met 5 years ago...at leats next ti sea getting brown, you would like it... i really want to see you or at least talk to you for more than 15 seconds...you are one of the most important people in my life and there are so many things I d like to share with you... or at least cook the potatoes or russian salad for you ( now i m gonna be better, the friends i m visiting have thier restaurent so i asked them to treach me to cook at least 1 dish but perfect!) no obig news, hope to see you soon love</p>\n<table>\n<thead>\n<tr>\n<th>TeMa: KoMy:</th>\n<th>Re: &gt;</th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Ram:</td>\n<td>BTOpHIAK,</td>\n<td>23</td>\n<td>2009, 111OHb</td>\n<td>22:52</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Tema: Komy:</th>\n<th>Re:</th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>,gala:</td>\n<td>Broprimx,</td>\n<td>23 010Hb</td>\n<td>2009,</td>\n<td>5:07</td>\n</tr>\n</tbody>\n</table>\n<h3>EFTA_R1_01513576</h3>\n<h2>EFTA02439797</h2>\n<h2>nH,</h2>\n<h2>22.6.09, Jeffrey Epstein icieevacation@qmaitcom&gt; nnwer: OT: Jeffrey Epstein &lt;jeevacation(asimail.com&gt; Tettia: Re: Kottiy: ,gala:</h2>\n<p>H %%MIK, Nf Hb</p>\n<p>so what are you going to do in the next month 2009/6/19 no idea...before MC2 had told me 3 weeks, b its been more than a month already and no news... do you miss me at least a bit? --- Fir, 19.6.09, Jeevacation &lt;ieevacationOqmaitcom&gt; rinier: When??? Sent from my iPhone</p>\n<table>\n<thead>\n<tr>\n<th>TeMa: KoMy: &gt;</th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>,I:tara:</td>\n<td>Ilsrifinua,</td>\n<td>19 I41OHb</td>\n<td>2009,</td>\n<td>15:08</td>\n</tr>\n</tbody>\n</table>\n<h2>Bbl wke c Yahoo!? l4cnbrrake o6Hoenemiwo</h2>\n<p>Li</p>\n<h2>ynyquiel-mwo. Yahoo! flogrv!</h2>\n<h2>Bbl ywe c Yahoo!? Mcnbirai/re othioenelmwo H ynytiweimwo. Yahoo!</h2>\n<p>Mowry!</p>\n<p>Bbl</p>\n<h2>ywe c Yahoo!? Mcnbirake oth-loanemiwo H ynwiweHriwo. Yahoo! flogry!</h2>\n<p>EFTA_R1_01513577</p>\n<h2>EFTA02439798</h2>\n<h3>丕m Um美＞ 읖卜6은m&gt; 득됴읔工工m듬0工딩m늪m느끄＝ 工工m크丁＞ 1오＞ m&gt; 中8=</h3>\n<p>0m委丕m m&gt; 스8= 工工m크三丘묘읔工工m듬0工口0m는m느끄C0도 1오＞ m&gt; m8=</p>\n<p>Um王丕m m&gt; 1오空工m크三丘5읔工工m듬오口0m늪m느끝읖스8= m8듦＞</p>\n<p>코m 0m놋＞ 읖卜6은m&gt; 丘三읔工工m듬0工딩m늪m느끄＝ 工工m크丁＞ 1오＞ m&gt; 中8= 卜弓二</p>\n<p>g蚤코쏘 乞8듬＞ U＝ 읔工工윽븜工띵g口胃코＝ ＝人득＝ 毛읖뜨才1오空공＝ m口弓＝</p>\n<p>U口Xm금 乞8듬＞ 읔工工읕m읒띵g뚫토5＝ 1오空五크互豆＝ 口읖르／ H丁口＝ 中？</p>\n<p>릍J은</p>\n<p>H丁은 m&gt;</p>\n<p>흩弓二</p>\n<p>H＞</p>\n<p>&lt;H止山 尸＝ 的卜山m下5</p>\n<h2>EFTA02439799</h2>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"To: \\nFrom: \\nSent: Thur 7/9/2009 7:50:20 AM \\nSubject: Re:\"},{\"type\":\"paragraph\",\"text\":\"Hi Jeffrey, how arc you? \\nin moscow rainy, staying in the country house with the family. Getting my passport tomorrow. \\nNext week I nccd to go to Romc for the appointment for the UK visa. Can I ask if it s possible \\nto get money for the ticket. the German agency hasnt paid me yet and i didnt make any money \\nnow in milan. \\nThen I can go to London and in August Anastasia has some friends in France, I just need to get \\nthe ticket as well. \\nmiss you, kisses\"},{\"type\":\"paragraph\",\"text\":\"Br, 7.7.09, Jeffrey Epstein leetweation(aginaitcona> niiwet\"},{\"type\":\"paragraph\",\"text\":\"Or: Jeffrey Epstein lemiacation@gmaii.com> \\nTema: • \\nKoury: \\n1jaTa: BTOpHIIK, 7 I410Ab\"},{\"type\":\"paragraph\",\"text\":\"i'm glad you arc safe\"},{\"type\":\"paragraph\",\"text\":\"2009/7/7\"},{\"type\":\"paragraph\",\"text\":\"dear Jeffrey, i m already in moscow in my country house with my family, so nice \\nhere. \\nhow is everything with you? July 20th will come so soon! \\non July 16th i need to be in Rome, cause i have my appointment for the uk visa \\nthere. Before that i will stay in moscow. \\nmiss you, \\nmy russian cell\"},{\"type\":\"paragraph\",\"text\":\"2009, 15:53\"},{\"type\":\"paragraph\",\"text\":\"nahoo.com>\"},{\"type\":\"paragraph\",\"text\":\"Ljerippl Inn IIIIII\"},{\"type\":\"paragraph\",\"text\":\"Bc, 5.7.09, Jeffrey Epstein <jeevacationOcimaitcom> rmwer:\"},{\"type\":\"paragraph\",\"text\":\"Or: Jeffrey Epstein <teevacationeamail.com>\\nTeMa: Re: \\nKomy: ' \\ngara: BocKpeceHbe, 5 imonb 2009, 17:44\"},{\"type\":\"paragraph\",\"text\":\"you need to decide what happens in september\"},{\"type\":\"paragraph\",\"text\":\"2009/7/4a\"},{\"type\":\"paragraph\",\"text\":\"i will always come back to you!\"},{\"type\":\"paragraph\",\"text\":\">\"},{\"type\":\"paragraph\",\"text\":\">\"},{\"type\":\"paragraph\",\"text\":\"EFTA_R1_01513574 \\nEFTA02439795\"},{\"type\":\"paragraph\",\"text\":\"p.s.just went for a walk in the park, there was a guy asking me to take a photo with \\nhim, i refused, then he took a video camera and took a video when i was walking \\naway. I though that this guy would bring bad luck. In 10 minutes i fell down the stairs \\nin a open cafe in the park, all my knees bleeding hard..made a big mess there, \\neveryone was so scared! clumsy girl!\"},{\"type\":\"paragraph\",\"text\":\"kiss, miss you\"},{\"type\":\"paragraph\",\"text\":\"--- C6, 4.7.09, Jeffrey Epstein <jeevacation@qmaitcom> muter:\"},{\"type\":\"paragraph\",\"text\":\"Or: Jeffrey Epstein <jeevacationqmail.com>\\nTeMa: • \\nKoMy: < \\ngam: Cy66ora, 4 wionb 2009, 15:48\"},{\"type\":\"paragraph\",\"text\":\"ok come back soon\"},{\"type\":\"paragraph\",\"text\":\"2009/7/4 CeernaHa 11O*w:wen <\"},{\"type\":\"paragraph\",\"text\":\"Caro Jeffre , i m flying to msc tomorrow, so will be on my russian cell\"},{\"type\":\"paragraph\",\"text\":\"baci\"},{\"type\":\"paragraph\",\"text\":\"--- Br, 30.6.09, Jeffrey Epstein cieevacation(&qmaitcom> nmwer\"},{\"type\":\"paragraph\",\"text\":\"OT: Jeffrey Epstein <jeevacationemail.com>\\nTema: Re: \\nKoMy: u pimmiga \\nI1gara: TOpHK, WIOHb , :18\"},{\"type\":\"paragraph\",\"text\":\"ok.. if thats what you want.. when can i call ?\"},{\"type\":\"paragraph\",\"text\":\"2009/6/30 CeernaHa flowtigaeea <\"},{\"type\":\"paragraph\",\"text\":\"hi Jeffrey, how are you? \\ni m going to moscow this week, cant take this heat without conditioner anymore! \\nmy russian cell-\\nmiss you, dont know when i m gonna see you\"},{\"type\":\"paragraph\",\"text\":\"bisous \\n--- LIT, 25.6.09, Jeffrey Epstein <jeevacationeqmaitcorn> rmwer:\"},{\"type\":\"paragraph\",\"text\":\"Or: Jeffrey Epstein <jeevacation@cimail.com>\\nTeMa: Re: \\nKoMy: \\\" \\ngam: gereepr, 25 woHb 2009, 17:16\"},{\"type\":\"paragraph\",\"text\":\">\"},{\"type\":\"paragraph\",\"text\":\"EFTA_R1_01513575 \\nEFTA02439796\"},{\"type\":\"paragraph\",\"text\":\"what do you want to do.. stay there go to moscow? come to the states?\"},{\"type\":\"paragraph\",\"text\":\"2009/6/25\"},{\"type\":\"paragraph\",\"text\":\"Hi Jeffrey, how are you \\ni m back to milan, so hot here! no jobs and millions of models who dont even look \\nlike models... \\nkiss\"},{\"type\":\"paragraph\",\"text\":\"BT, 23.6.09, Jeffrey Epstein <jeevacationOqmail. com> nwwer:\"},{\"type\":\"paragraph\",\"text\":\"OT: Jeffrey Epstein <jeevacationAqmail.com>\\nTeMa: Re: \\nKoMy: \\nRam: BTOpHIAK, 23 111OHb 2009, 22:52\"},{\"type\":\"paragraph\",\"text\":\"it looks like 30- 60 days out\"},{\"type\":\"paragraph\",\"text\":\"2009/6/23\"},{\"type\":\"paragraph\",\"text\":\"--- Br, 23.6.09, Jeffrey Epstein <jeevacation(&qmaitcom> nmwer:\"},{\"type\":\"paragraph\",\"text\":\"OT: Jeffrey Epstein <jeevacationernail.com>\\nTema: Re: \\nKomy: \\n,gala: Broprimx, 23 010Hb 2009, 5:07\"},{\"type\":\"paragraph\",\"text\":\"send me a number o call , i'll call tomorrwo\"},{\"type\":\"paragraph\",\"text\":\"2009/6/22\"},{\"type\":\"paragraph\",\"text\":\"i m in liguria now, visiting friends that i met 5 years ago...at leats next ti sea getting \\nbrown, you would like it... \\ni really want to see you or at least talk to you for more than 15 seconds...you are one \\nof the most important people in my life and there are so many things I d like to share \\nwith you... or at least cook the potatoes or russian salad for you ( now i m gonna be \\nbetter, the friends i m visiting have thier restaurent so i asked them to treach me to \\ncook at least 1 dish but perfect!)\"},{\"type\":\"paragraph\",\"text\":\"no obig news, hope to see you soon \\nlove\"},{\"type\":\"paragraph\",\"text\":\">\"},{\"type\":\"paragraph\",\"text\":\"EFTA_R1_01513576 \\nEFTA02439797\"},{\"type\":\"paragraph\",\"text\":\"nH, 22.6.09, Jeffrey Epstein icieevacation@qmaitcom> nnwer:\"},{\"type\":\"paragraph\",\"text\":\"OT: Jeffrey Epstein <jeevacation(asimail.com>\\nTeMa: Re: \\nKoMy: \\n,gala: H %%MIK, Nf Hb\"},{\"type\":\"paragraph\",\"text\":\"so what are you going to do in the next month\"},{\"type\":\"paragraph\",\"text\":\"2009/6/19\"},{\"type\":\"paragraph\",\"text\":\"no idea...before MC2 had told me 3 weeks, b its been more than a month already \\nand no news...\"},{\"type\":\"paragraph\",\"text\":\"do you miss me at least a bit?\"},{\"type\":\"paragraph\",\"text\":\"--- Fir, 19.6.09, Jeevacation <ieevacationOqmaitcom> rinier:\"},{\"type\":\"paragraph\",\"text\":\"Or: Jeevacation <jeevacation@gmail.com>\\nTeMa: \\nKoMy: \\n,I:tara: Ilsrifinua, 19 I41OHb\"},{\"type\":\"paragraph\",\"text\":\"When???\"},{\"type\":\"paragraph\",\"text\":\"Sent from my iPhone\"},{\"type\":\"paragraph\",\"text\":\"> \\n2009, 15:08\"},{\"type\":\"paragraph\",\"text\":\"Bbl wke c Yahoo!? l4cnbrrake o6Hoenemiwo\"},{\"type\":\"paragraph\",\"text\":\"Bbl ywe c Yahoo!? Mcnbirai/re othioenelmwo H ynytiweimwo. Yahoo!\"},{\"type\":\"paragraph\",\"text\":\"Bbl ywe c Yahoo!? Mcnbirake oth-loanemiwo H ynwiweHriwo. Yahoo! flogry!\"},{\"type\":\"paragraph\",\"text\":\"Li ynyquiel-mwo. Yahoo! flogrv!\"},{\"type\":\"paragraph\",\"text\":\"Mowry!\"},{\"type\":\"paragraph\",\"text\":\"EFTA_R1_01513577 \\nEFTA02439798\"},{\"type\":\"paragraph\",\"text\":\"丕m  Um美＞ 읖卜6은m> 득됴읔工工m듬0工딩m늪m느끄＝ 工工m크丁＞ 1오＞ m> 中8=\"},{\"type\":\"paragraph\",\"text\":\"0m委丕m  m> 스8= 工工m크三丘묘읔工工m듬0工口0m는m느끄C0도  1오＞ m> m8=\"},{\"type\":\"paragraph\",\"text\":\"Um王丕m  m> 1오空工m크三丘5읔工工m듬오口0m늪m느끝읖스8= m8듦＞\"},{\"type\":\"paragraph\",\"text\":\"코m  0m놋＞ 읖卜6은m> 丘三읔工工m듬0工딩m늪m느끄＝ 工工m크丁＞ 1오＞ m> 中8= 卜弓二\"},{\"type\":\"paragraph\",\"text\":\"g蚤코쏘  乞8듬＞ U＝ 읔工工윽븜工띵g口胃코＝ ＝人득＝ 毛읖뜨才1오空공＝ m口弓＝\"},{\"type\":\"paragraph\",\"text\":\"U口Xm금  乞8듬＞ 읔工工읕m읒띵g뚫토5＝ 1오空五크互豆＝ 口읖르／  H丁口＝  中？\"},{\"type\":\"paragraph\",\"text\":\"릍J은\"},{\"type\":\"paragraph\",\"text\":\"H丁은  m>\"},{\"type\":\"paragraph\",\"text\":\"흩弓二\"},{\"type\":\"paragraph\",\"text\":\"H＞\"},{\"type\":\"paragraph\",\"text\":\"<H止山  尸＝  的卜山m下5\"},{\"type\":\"paragraph\",\"text\":\"EFTA02439799\"},{\"type\":\"table\",\"headers\":[\"Tema: Koury:\",\"•\",\"\",\"\",\"\"],\"rows\":[[\"1jaTa:\",\"BTOpHIIK,\",\"7  I410Ab\",\"2009,\",\"15:53\"]]},{\"type\":\"table\",\"headers\":[\"TeMa: Komy:\",\"Re: ' >\",\"\",\"\",\"\"],\"rows\":[[\"gara:\",\"BocKpeceHbe,\",\"5 imonb\",\"2009,\",\"17:44\"]]},{\"type\":\"table\",\"headers\":[\"TeMa: KoMy:\",\"•\",\"\",\"< >\",\"\"],\"rows\":[[\"gam:\",\"Cy66ora,\",\"4 wionb\",\"2009,\",\"15:48\"]]},{\"type\":\"table\",\"headers\":[\"TeMa: KoMy:\",\"Re: \\\"\",\"\",\"\",\"\"],\"rows\":[[\"gam:\",\"gereepr,\",\"25\",\"woHb 2009,\",\"17:16\"]]},{\"type\":\"table\",\"headers\":[\"TeMa: KoMy:\",\"Re: >\",\"\",\"\",\"\"],\"rows\":[[\"Ram:\",\"BTOpHIAK,\",\"23\",\"2009, 111OHb\",\"22:52\"]]},{\"type\":\"table\",\"headers\":[\"Tema: Komy:\",\"Re:\",\"\",\"\",\"\"],\"rows\":[[\",gala:\",\"Broprimx,\",\"23 010Hb\",\"2009,\",\"5:07\"]]},{\"type\":\"table\",\"headers\":[\"TeMa: KoMy: >\",\"\",\"\",\"\",\"\"],\"rows\":[[\",I:tara:\",\"Ilsrifinua,\",\"19 I41OHb\",\"2009,\",\"15:08\"]]}]}",
+    "markdown": "To: From: Sent: Thur 7/9/2009 7:50:20 AM Subject: Re: Hi Jeffrey, how arc you? in moscow rainy, staying in the country house with the family. Getting my passport tomorrow. Next week I nccd to go to Romc for the appointment for the UK visa. Can I ask if it s possible to get money for the ticket. the German agency hasnt paid me yet and i didnt make any money now in milan. Then I can go to London and in August Anastasia has some friends in France, I just need to get the ticket as well. miss you, kisses\n\nBr,\n\n7.7.09, Jeffrey Epstein leetweation(aginaitcona\\> niiwet i'm glad you arc safe 2009/7/7 dear Jeffrey, i m already in moscow in my country house with my family, so nice here. how is everything with you? July 20th will come so soon\\! on July 16th i need to be in Rome, cause i have my appointment for the uk visa there. Before that i will stay in moscow. miss you, my russian cell\n\n| Tema: Koury: | • |  |  |  |\n| --- | --- | --- | --- | --- |\n| 1jaTa: | BTOpHIIK, | 7 I410Ab | 2009, | 15:53 |\n\n# nahoo.com\\>\n\nLjerippl Inn IIIIII\n\nBc, 5.7.09, Jeffrey Epstein \\<jeevacationOcimaitcom\\> rmwer: you need to decide what happens in september 2009/7/4a i will always come back to you\\! \\>\n\n| TeMa: Komy: | Re: ' \\> |  |  |  |\n| --- | --- | --- | --- | --- |\n| gara: | BocKpeceHbe, | 5 imonb | 2009, | 17:44 |\n\n## EFTA_R1_01513574 EFTA02439795\n\np.s.just went for a walk in the park, there was a guy asking me to take a photo with him, i refused, then he took a video camera and took a video when i was walking away. I though that this guy would bring bad luck. In 10 minutes i fell down the stairs in a open cafe in the park, all my knees bleeding hard..made a big mess there, everyone was so scared\\! clumsy girl\\! kiss, miss you --- C6, 4.7.09, Jeffrey Epstein \\<jeevacation@qmaitcom\\> muter: ok come back soon 2009/7/4 CeernaHa 11Ottwtiwen \\< Caro Jeffre , i m flying to msc tomorrow, so will be on my russian cell baci --- Br, 30.6.09, Jeffrey Epstein cieevacation(\\&qmaitcom\\> nmwer OT: Jeffrey Epstein \\<jeevacationemail.com\\> Tema: Re: Kottiy: u pimmiga\n\n| TeMa: KoMy: | • |  | \\< \\> |  |\n| --- | --- | --- | --- | --- |\n| gam: | Cy66ora, | 4 wionb | 2009, | 15:48 |\n\nI1\n\n## gara: TOpHK,\n\nWIOHb , :18\n\nok.. if thats what you want.. when can i call ? 2009/6/30 CeernaHa flowtigaeea \\< hi Jeffrey, how are you? i m going to moscow this week, cant take this heat without conditioner anymore\\! my russian cell- miss you, dont know when i m gonna see you bisous --- LIT, 25.6.09, Jeffrey Epstein \\<jeevacationeqmaitcorn\\> rmwer:\n\n| TeMa: KoMy: | Re: \" |  |  |  |\n| --- | --- | --- | --- | --- |\n| gam: | gereepr, | 25 | woHb 2009, | 17:16 |\n\n### EFTA_R1_01513575\n\n## EFTA02439796\n\nwhat do you want to do.. stay there go to moscow? come to the states? 2009/6/25 Hi Jeffrey, how are you i m back to milan, so hot here\\! no jobs and millions of models who dont even look like models... kiss BT, 23.6.09, Jeffrey Epstein \\<jeevacationOqmail. com\\> nwwer: it looks like 30- 60 days out 2009/6/23 --- Br, 23.6.09, Jeffrey Epstein \\<jeevacation(\\&qmaitcom\\> nmwer: send me a number o call , i'll call tomorrwo 2009/6/22 i m in liguria now, visiting friends that i met 5 years ago...at leats next ti sea getting brown, you would like it... i really want to see you or at least talk to you for more than 15 seconds...you are one of the most important people in my life and there are so many things I d like to share with you... or at least cook the potatoes or russian salad for you ( now i m gonna be better, the friends i m visiting have thier restaurent so i asked them to treach me to cook at least 1 dish but perfect\\!) no obig news, hope to see you soon love\n\n| TeMa: KoMy: | Re: \\> |  |  |  |\n| --- | --- | --- | --- | --- |\n| Ram: | BTOpHIAK, | 23 | 2009, 111OHb | 22:52 |\n\n| Tema: Komy: | Re: |  |  |  |\n| --- | --- | --- | --- | --- |\n| ,gala: | Broprimx, | 23 010Hb | 2009, | 5:07 |\n\n### EFTA_R1_01513576\n\n## EFTA02439797\n\n## nH,\n\n## 22.6.09, Jeffrey Epstein icieevacation@qmaitcom\\> nnwer: OT: Jeffrey Epstein \\<jeevacation(asimail.com\\> Tettia: Re: Kottiy: ,gala:\n\nH %%MIK, Nf Hb\n\nso what are you going to do in the next month 2009/6/19 no idea...before MC2 had told me 3 weeks, b its been more than a month already and no news... do you miss me at least a bit? --- Fir, 19.6.09, Jeevacation \\<ieevacationOqmaitcom\\> rinier: When??? Sent from my iPhone\n\n| TeMa: KoMy: \\> |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| ,I:tara: | Ilsrifinua, | 19 I41OHb | 2009, | 15:08 |\n\n## Bbl wke c Yahoo\\!? l4cnbrrake o6Hoenemiwo\n\nLi\n\n## ynyquiel-mwo. Yahoo\\! flogrv\\!\n\n## Bbl ywe c Yahoo\\!? Mcnbirai/re othioenelmwo H ynytiweimwo. Yahoo\\!\n\nMowry\\!\n\nBbl\n\n## ywe c Yahoo\\!? Mcnbirake oth-loanemiwo H ynwiweHriwo. Yahoo\\! flogry\\!\n\nEFTA_R1_01513577\n\n## EFTA02439798\n\n### 丕m Um美＞ 읖卜6은m\\> 득됴읔工工m듬0工딩m늪m느끄＝ 工工m크丁＞ 1오＞ m\\> 中8=\n\n0m委丕m m\\> 스8= 工工m크三丘묘읔工工m듬0工口0m는m느끄C0도 1오＞ m\\> m8=\n\nUm王丕m m\\> 1오空工m크三丘5읔工工m듬오口0m늪m느끝읖스8= m8듦＞\n\n코m 0m놋＞ 읖卜6은m\\> 丘三읔工工m듬0工딩m늪m느끄＝ 工工m크丁＞ 1오＞ m\\> 中8= 卜弓二\n\ng蚤코쏘 乞8듬＞ U＝ 읔工工윽븜工띵g口胃코＝ ＝人득＝ 毛읖뜨才1오空공＝ m口弓＝\n\nU口Xm금 乞8듬＞ 읔工工읕m읒띵g뚫토5＝ 1오空五크互豆＝ 口읖르／ H丁口＝ 中？\n\n릍J은\n\nH丁은 m\\>\n\n흩弓二\n\nH＞\n\n\\<H止山 尸＝ 的卜山m下5\n\n## EFTA02439799\n",
+    "plain": "To: \nFrom: \nSent: Thur 7/9/2009 7:50:20 AM \nSubject: Re:\n\nHi Jeffrey, how arc you? \nin moscow rainy, staying in the country house with the family. Getting my passport tomorrow. \nNext week I nccd to go to Romc for the appointment for the UK visa. Can I ask if it s possible \nto get money for the ticket. the German agency hasnt paid me yet and i didnt make any money \nnow in milan. \nThen I can go to London and in August Anastasia has some friends in France, I just need to get \nthe ticket as well. \nmiss you, kisses\n\nBr, 7.7.09, Jeffrey Epstein leetweation(aginaitcona> niiwet\n\nOr: Jeffrey Epstein lemiacation@gmaii.com> \nTema: • \nKoury: \n1jaTa: BTOpHIIK, 7 I410Ab\n\ni'm glad you arc safe\n\n2009/7/7\n\ndear Jeffrey, i m already in moscow in my country house with my family, so nice \nhere. \nhow is everything with you? July 20th will come so soon! \non July 16th i need to be in Rome, cause i have my appointment for the uk visa \nthere. Before that i will stay in moscow. \nmiss you, \nmy russian cell\n\n2009, 15:53\n\nnahoo.com>\n\nLjerippl Inn IIIIII\n\nBc, 5.7.09, Jeffrey Epstein <jeevacationOcimaitcom> rmwer:\n\nOr: Jeffrey Epstein <teevacationeamail.com>\nTeMa: Re: \nKomy: ' \ngara: BocKpeceHbe, 5 imonb 2009, 17:44\n\nyou need to decide what happens in september\n\n2009/7/4a\n\ni will always come back to you!\n\n>\n\n>\n\nEFTA_R1_01513574 \nEFTA02439795\n\np.s.just went for a walk in the park, there was a guy asking me to take a photo with \nhim, i refused, then he took a video camera and took a video when i was walking \naway. I though that this guy would bring bad luck. In 10 minutes i fell down the stairs \nin a open cafe in the park, all my knees bleeding hard..made a big mess there, \neveryone was so scared! clumsy girl!\n\nkiss, miss you\n\n--- C6, 4.7.09, Jeffrey Epstein <jeevacation@qmaitcom> muter:\n\nOr: Jeffrey Epstein <jeevacationqmail.com>\nTeMa: • \nKoMy: < \ngam: Cy66ora, 4 wionb 2009, 15:48\n\nok come back soon\n\n2009/7/4 CeernaHa 11O*w:wen <\n\nCaro Jeffre , i m flying to msc tomorrow, so will be on my russian cell\n\nbaci\n\n--- Br, 30.6.09, Jeffrey Epstein cieevacation(&qmaitcom> nmwer\n\nOT: Jeffrey Epstein <jeevacationemail.com>\nTema: Re: \nKoMy: u pimmiga \nI1gara: TOpHK, WIOHb , :18\n\nok.. if thats what you want.. when can i call ?\n\n2009/6/30 CeernaHa flowtigaeea <\n\nhi Jeffrey, how are you? \ni m going to moscow this week, cant take this heat without conditioner anymore! \nmy russian cell-\nmiss you, dont know when i m gonna see you\n\nbisous \n--- LIT, 25.6.09, Jeffrey Epstein <jeevacationeqmaitcorn> rmwer:\n\nOr: Jeffrey Epstein <jeevacation@cimail.com>\nTeMa: Re: \nKoMy: \" \ngam: gereepr, 25 woHb 2009, 17:16\n\n>\n\nEFTA_R1_01513575 \nEFTA02439796\n\nwhat do you want to do.. stay there go to moscow? come to the states?\n\n2009/6/25\n\nHi Jeffrey, how are you \ni m back to milan, so hot here! no jobs and millions of models who dont even look \nlike models... \nkiss\n\nBT, 23.6.09, Jeffrey Epstein <jeevacationOqmail. com> nwwer:\n\nOT: Jeffrey Epstein <jeevacationAqmail.com>\nTeMa: Re: \nKoMy: \nRam: BTOpHIAK, 23 111OHb 2009, 22:52\n\nit looks like 30- 60 days out\n\n2009/6/23\n\n--- Br, 23.6.09, Jeffrey Epstein <jeevacation(&qmaitcom> nmwer:\n\nOT: Jeffrey Epstein <jeevacationernail.com>\nTema: Re: \nKomy: \n,gala: Broprimx, 23 010Hb 2009, 5:07\n\nsend me a number o call , i'll call tomorrwo\n\n2009/6/22\n\ni m in liguria now, visiting friends that i met 5 years ago...at leats next ti sea getting \nbrown, you would like it... \ni really want to see you or at least talk to you for more than 15 seconds...you are one \nof the most important people in my life and there are so many things I d like to share \nwith you... or at least cook the potatoes or russian salad for you ( now i m gonna be \nbetter, the friends i m visiting have thier restaurent so i asked them to treach me to \ncook at least 1 dish but perfect!)\n\nno obig news, hope to see you soon \nlove\n\n>\n\nEFTA_R1_01513576 \nEFTA02439797\n\nnH, 22.6.09, Jeffrey Epstein icieevacation@qmaitcom> nnwer:\n\nOT: Jeffrey Epstein <jeevacation(asimail.com>\nTeMa: Re: \nKoMy: \n,gala: H %%MIK, Nf Hb\n\nso what are you going to do in the next month\n\n2009/6/19\n\nno idea...before MC2 had told me 3 weeks, b its been more than a month already \nand no news...\n\ndo you miss me at least a bit?\n\n--- Fir, 19.6.09, Jeevacation <ieevacationOqmaitcom> rinier:\n\nOr: Jeevacation <jeevacation@gmail.com>\nTeMa: \nKoMy: \n,I:tara: Ilsrifinua, 19 I41OHb\n\nWhen???\n\nSent from my iPhone\n\n> \n2009, 15:08\n\nBbl wke c Yahoo!? l4cnbrrake o6Hoenemiwo\n\nBbl ywe c Yahoo!? Mcnbirai/re othioenelmwo H ynytiweimwo. Yahoo!\n\nBbl ywe c Yahoo!? Mcnbirake oth-loanemiwo H ynwiweHriwo. Yahoo! flogry!\n\nLi ynyquiel-mwo. Yahoo! flogrv!\n\nMowry!\n\nEFTA_R1_01513577 \nEFTA02439798\n\n丕m  Um美＞ 읖卜6은m> 득됴읔工工m듬0工딩m늪m느끄＝ 工工m크丁＞ 1오＞ m> 中8=\n\n0m委丕m  m> 스8= 工工m크三丘묘읔工工m듬0工口0m는m느끄C0도  1오＞ m> m8=\n\nUm王丕m  m> 1오空工m크三丘5읔工工m듬오口0m늪m느끝읖스8= m8듦＞\n\n코m  0m놋＞ 읖卜6은m> 丘三읔工工m듬0工딩m늪m느끄＝ 工工m크丁＞ 1오＞ m> 中8= 卜弓二\n\ng蚤코쏘  乞8듬＞ U＝ 읔工工윽븜工띵g口胃코＝ ＝人득＝ 毛읖뜨才1오空공＝ m口弓＝\n\nU口Xm금  乞8듬＞ 읔工工읕m읒띵g뚫토5＝ 1오空五크互豆＝ 口읖르／  H丁口＝  中？\n\n릍J은\n\nH丁은  m>\n\n흩弓二\n\nH＞\n\n<H止山  尸＝  的卜山m下5\n\nEFTA02439799\n\nTema: Koury: •   \n1jaTa: BTOpHIIK, 7  I410Ab 2009, 15:53\n\nTeMa: Komy: Re: ' >   \ngara: BocKpeceHbe, 5 imonb 2009, 17:44\n\nTeMa: KoMy: •  < > \ngam: Cy66ora, 4 wionb 2009, 15:48\n\nTeMa: KoMy: Re: \"   \ngam: gereepr, 25 woHb 2009, 17:16\n\nTeMa: KoMy: Re: >   \nRam: BTOpHIAK, 23 2009, 111OHb 22:52\n\nTema: Komy: Re:   \n,gala: Broprimx, 23 010Hb 2009, 5:07\n\nTeMa: KoMy: >    \n,I:tara: Ilsrifinua, 19 I41OHb 2009, 15:08"
+  }
+}

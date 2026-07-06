@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/image_structure.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 2,
+      "word_count": 7,
+      "character_count": 40
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/image_structure.txt",
+      "final_uri": "ground_truth/pdf/image_structure.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Here is an image with some attributes:</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Here is an image with some attributes:\"}]}",
+    "markdown": "Here is an image with some attributes:\n",
+    "plain": "Here is an image with some attributes:"
+  }
+}

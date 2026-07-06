@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/latex/tables.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 16,
+      "word_count": 34,
+      "character_count": 166
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/latex/tables.txt",
+      "final_uri": "ground_truth/latex/tables.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Tables</p>\n<p>Simple Table</p>\n<p>Name Age Score Alice 30 95 Bob 25 87 Charlie 35 92</p>\n<p>Table with Caption</p>\n<p>Column 1 Column 2 Data 1 Data 2 Data 3 Data 4</p>\n<p>Sample table with caption</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Tables\"},{\"type\":\"paragraph\",\"text\":\"Simple Table\"},{\"type\":\"paragraph\",\"text\":\"Name Age Score\\nAlice 30 95\\nBob 25 87\\nCharlie 35 92\"},{\"type\":\"paragraph\",\"text\":\"Table with Caption\"},{\"type\":\"paragraph\",\"text\":\"Column 1 Column 2\\nData 1 Data 2\\nData 3 Data 4\"},{\"type\":\"paragraph\",\"text\":\"Sample table with caption\"}]}",
+    "markdown": "Tables\n\nSimple Table\n\nName Age Score Alice 30 95 Bob 25 87 Charlie 35 92\n\nTable with Caption\n\nColumn 1 Column 2 Data 1 Data 2 Data 3 Data 4\n\nSample table with caption\n",
+    "plain": "Tables\n\nSimple Table\n\nName Age Score\nAlice 30 95\nBob 25 87\nCharlie 35 92\n\nTable with Caption\n\nColumn 1 Column 2\nData 1 Data 2\nData 3 Data 4\n\nSample table with caption"
+  }
+}

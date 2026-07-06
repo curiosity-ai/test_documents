@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/odt/endnote.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/odt/endnote.md",
+      "final_uri": "ground_truth/odt/endnote.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><sup class=\"footnote-ref\"><a href=\"#fn-1\" id=\"fnref-1\" data-footnote-ref>1</a></sup></p>\n<p>Some text with an endnote.[^i]</p>\n<section class=\"footnotes\" data-footnotes>\n<ol>\n<li id=\"fn-1\">\n<p>Endnote text <a href=\"#fnref-1\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"1\" aria-label=\"Back to reference 1\">↩</a></p>\n</li>\n</ol>\n</section>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Some text with an endnote.[^i]\"}]}",
+    "markdown": "[^1]\n\nSome text with an endnote.[^i]\n\n[^1]:\n    Endnote text\n",
+    "plain": "Some text with an endnote.[^i]"
+  }
+}

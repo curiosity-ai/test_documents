@@ -1,0 +1,42 @@
+{
+  "file": "ground_truth/rtf/fake-doc.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "My First Heading",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/rtf/fake-doc.md",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/rtf/fake-doc.md",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Column 1",
+          "Column 2"
+        ],
+        [
+          "Row 1, Cell 1",
+          "Row 1, Cell 2"
+        ],
+        [
+          "Row 2, Cell 1",
+          "Row 2, Cell 2"
+        ]
+      ],
+      "markdown": "| Column 1 | Column 2 |\n| --- | --- |\n| Row 1, Cell 1 | Row 1, Cell 2 |\n| Row 2, Cell 1 | Row 2, Cell 2 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>My First Heading</h1>\n<p>My first paragraph.</p>\n<p><strong>Table Example:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Column 1</th>\n<th>Column 2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Row 1, Cell 1</td>\n<td>Row 1, Cell 2</td>\n</tr>\n<tr>\n<td>Row 2, Cell 1</td>\n<td>Row 2, Cell 2</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"My First Heading\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"My first paragraph.\"},{\"type\":\"paragraph\",\"text\":\"Table Example:\"},{\"type\":\"table\",\"headers\":[\"Column 1\",\"Column 2\"],\"rows\":[[\"Row 1, Cell 1\",\"Row 1, Cell 2\"],[\"Row 2, Cell 1\",\"Row 2, Cell 2\"]]}]}]}",
+    "markdown": "# My First Heading\n\nMy first paragraph.\n\n**Table Example:**\n\n| Column 1 | Column 2 |\n| --- | --- |\n| Row 1, Cell 1 | Row 1, Cell 2 |\n| Row 2, Cell 1 | Row 2, Cell 2 |\n",
+    "plain": "My First Heading\nMy first paragraph.\n\nTable Example:\n\nColumn 1 Column 2\nRow 1, Cell 1 Row 1, Cell 2\nRow 2, Cell 1 Row 2, Cell 2"
+  }
+}

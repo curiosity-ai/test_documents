@@ -1,0 +1,40 @@
+{
+  "file": "vendored/pdfplumber/pdfs/issue-842-example.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "上",
+    "authors": [
+      "Administrator"
+    ],
+    "created_at": "2012-03-26T19:37:25Z",
+    "modified_at": "2012-03-26T19:37:25Z",
+    "created_by": "PDFCreator Version 1.2.3",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "cpdf non-commercial use only. To buy: http://coherentpdf.com/",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 842,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "extraction_method": "native",
+      "final_uri": "vendored/pdfplumber/pdfs/issue-842-example.pdf",
+      "source_uri": "vendored/pdfplumber/pdfs/issue-842-example.pdf"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>安徽安利合成革股份有限公司 ANHUI ANLI ARTIFICIAL LEATHER CO.,LTD. 2011 年年度报告</h1>\n<p>股票代码： 股票简称： ：300218 ：300218 ：安利股份 ：安利股份披露日期： ：2012 ：2012 年 33 3 月 2727 27 日日日</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"安徽安利合成革股份有限公司\"},{\"type\":\"paragraph\",\"text\":\"ANHUI ANLI ARTIFICIAL LEATHER CO.,LTD.\"},{\"type\":\"paragraph\",\"text\":\"2011 年年度报告\"},{\"type\":\"paragraph\",\"text\":\"股票代码：\"},{\"type\":\"paragraph\",\"text\":\"股票简称：\"},{\"type\":\"paragraph\",\"text\":\"：300218：300218  \\n   \\n：安利股份：安利股份\"},{\"type\":\"paragraph\",\"text\":\"披露日期：\"},{\"type\":\"paragraph\",\"text\":\"：2012：2012 年 333 月 2727\"},{\"type\":\"paragraph\",\"text\":\"27 日日  日\"}]}",
+    "markdown": "# 安徽安利合成革股份有限公司 ANHUI ANLI ARTIFICIAL LEATHER CO.,LTD. 2011 年年度报告\n\n股票代码： 股票简称： ：300218 ：300218 ：安利股份 ：安利股份披露日期： ：2012 ：2012 年 33 3 月 2727 27 日日日\n",
+    "plain": "安徽安利合成革股份有限公司\n\nANHUI ANLI ARTIFICIAL LEATHER CO.,LTD.\n\n2011 年年度报告\n\n股票代码：\n\n股票简称：\n\n：300218：300218  \n   \n：安利股份：安利股份\n\n披露日期：\n\n：2012：2012 年 333 月 2727\n\n27 日日  日"
+  }
+}

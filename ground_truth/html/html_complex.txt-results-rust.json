@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/html_complex.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 177,
+      "word_count": 71,
+      "character_count": 515
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/html/html_complex.txt",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/html/html_complex.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Quarterly Sales Report</p>\n<p>Region</p>\n<p>2024 Sales (in thousands)</p>\n<p>Total</p>\n<p>Q1</p>\n<p>Q2</p>\n<p>Q3</p>\n<p>Q4</p>\n<p>North America</p>\n<p>USA</p>\n<p>$150</p>\n<p>$180</p>\n<p>$165</p>\n<p>$200</p>\n<p>$695</p>\n<p>Canada</p>\n<p>$45</p>\n<p>$52</p>\n<p>$48</p>\n<p>$60</p>\n<p>$205</p>\n<p>Europe</p>\n<p>UK</p>\n<p>$80</p>\n<p>$95</p>\n<p>$88</p>\n<p>$110</p>\n<p>$373</p>\n<p>Germany</p>\n<p>$65</p>\n<p>$75</p>\n<p>$70</p>\n<p>$85</p>\n<p>$295</p>\n<p>France</p>\n<p>$40</p>\n<p>$48</p>\n<p>$45</p>\n<p>$55</p>\n<p>$188</p>\n<p>Grand Total</p>\n<p>$380</p>\n<p>$450</p>\n<p>$416</p>\n<p>$510</p>\n<p>$1,756</p>\n<p>Performance Metrics</p>\n<p>Metric</p>\n<p>Target</p>\n<p>Actual</p>\n<p>Status</p>\n<p>Annual Revenue</p>\n<p>$1,500K</p>\n<p>$1,756K</p>\n<p>✓ Exceeded</p>\n<p>Growth Rate</p>\n<p>10%</p>\n<p>17%</p>\n<p>✓ Exceeded</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Quarterly Sales Report\"},{\"type\":\"paragraph\",\"text\":\"Region\"},{\"type\":\"paragraph\",\"text\":\"2024 Sales (in thousands)\"},{\"type\":\"paragraph\",\"text\":\"Total\"},{\"type\":\"paragraph\",\"text\":\"Q1\"},{\"type\":\"paragraph\",\"text\":\"Q2\"},{\"type\":\"paragraph\",\"text\":\"Q3\"},{\"type\":\"paragraph\",\"text\":\"Q4\"},{\"type\":\"paragraph\",\"text\":\"North America\"},{\"type\":\"paragraph\",\"text\":\"USA\"},{\"type\":\"paragraph\",\"text\":\"$150\"},{\"type\":\"paragraph\",\"text\":\"$180\"},{\"type\":\"paragraph\",\"text\":\"$165\"},{\"type\":\"paragraph\",\"text\":\"$200\"},{\"type\":\"paragraph\",\"text\":\"$695\"},{\"type\":\"paragraph\",\"text\":\"Canada\"},{\"type\":\"paragraph\",\"text\":\"$45\"},{\"type\":\"paragraph\",\"text\":\"$52\"},{\"type\":\"paragraph\",\"text\":\"$48\"},{\"type\":\"paragraph\",\"text\":\"$60\"},{\"type\":\"paragraph\",\"text\":\"$205\"},{\"type\":\"paragraph\",\"text\":\"Europe\"},{\"type\":\"paragraph\",\"text\":\"UK\"},{\"type\":\"paragraph\",\"text\":\"$80\"},{\"type\":\"paragraph\",\"text\":\"$95\"},{\"type\":\"paragraph\",\"text\":\"$88\"},{\"type\":\"paragraph\",\"text\":\"$110\"},{\"type\":\"paragraph\",\"text\":\"$373\"},{\"type\":\"paragraph\",\"text\":\"Germany\"},{\"type\":\"paragraph\",\"text\":\"$65\"},{\"type\":\"paragraph\",\"text\":\"$75\"},{\"type\":\"paragraph\",\"text\":\"$70\"},{\"type\":\"paragraph\",\"text\":\"$85\"},{\"type\":\"paragraph\",\"text\":\"$295\"},{\"type\":\"paragraph\",\"text\":\"France\"},{\"type\":\"paragraph\",\"text\":\"$40\"},{\"type\":\"paragraph\",\"text\":\"$48\"},{\"type\":\"paragraph\",\"text\":\"$45\"},{\"type\":\"paragraph\",\"text\":\"$55\"},{\"type\":\"paragraph\",\"text\":\"$188\"},{\"type\":\"paragraph\",\"text\":\"Grand Total\"},{\"type\":\"paragraph\",\"text\":\"$380\"},{\"type\":\"paragraph\",\"text\":\"$450\"},{\"type\":\"paragraph\",\"text\":\"$416\"},{\"type\":\"paragraph\",\"text\":\"$510\"},{\"type\":\"paragraph\",\"text\":\"$1,756\"},{\"type\":\"paragraph\",\"text\":\"Performance Metrics\"},{\"type\":\"paragraph\",\"text\":\"Metric\"},{\"type\":\"paragraph\",\"text\":\"Target\"},{\"type\":\"paragraph\",\"text\":\"Actual\"},{\"type\":\"paragraph\",\"text\":\"Status\"},{\"type\":\"paragraph\",\"text\":\"Annual Revenue\"},{\"type\":\"paragraph\",\"text\":\"$1,500K\"},{\"type\":\"paragraph\",\"text\":\"$1,756K\"},{\"type\":\"paragraph\",\"text\":\"✓ Exceeded\"},{\"type\":\"paragraph\",\"text\":\"Growth Rate\"},{\"type\":\"paragraph\",\"text\":\"10%\"},{\"type\":\"paragraph\",\"text\":\"17%\"},{\"type\":\"paragraph\",\"text\":\"✓ Exceeded\"}]}",
+    "markdown": "Quarterly Sales Report\n\nRegion\n\n2024 Sales (in thousands)\n\nTotal\n\nQ1\n\nQ2\n\nQ3\n\nQ4\n\nNorth America\n\nUSA\n\n$150\n\n$180\n\n$165\n\n$200\n\n$695\n\nCanada\n\n$45\n\n$52\n\n$48\n\n$60\n\n$205\n\nEurope\n\nUK\n\n$80\n\n$95\n\n$88\n\n$110\n\n$373\n\nGermany\n\n$65\n\n$75\n\n$70\n\n$85\n\n$295\n\nFrance\n\n$40\n\n$48\n\n$45\n\n$55\n\n$188\n\nGrand Total\n\n$380\n\n$450\n\n$416\n\n$510\n\n$1,756\n\nPerformance Metrics\n\nMetric\n\nTarget\n\nActual\n\nStatus\n\nAnnual Revenue\n\n$1,500K\n\n$1,756K\n\n✓ Exceeded\n\nGrowth Rate\n\n10%\n\n17%\n\n✓ Exceeded\n",
+    "plain": "Quarterly Sales Report\n\nRegion\n\n2024 Sales (in thousands)\n\nTotal\n\nQ1\n\nQ2\n\nQ3\n\nQ4\n\nNorth America\n\nUSA\n\n$150\n\n$180\n\n$165\n\n$200\n\n$695\n\nCanada\n\n$45\n\n$52\n\n$48\n\n$60\n\n$205\n\nEurope\n\nUK\n\n$80\n\n$95\n\n$88\n\n$110\n\n$373\n\nGermany\n\n$65\n\n$75\n\n$70\n\n$85\n\n$295\n\nFrance\n\n$40\n\n$48\n\n$45\n\n$55\n\n$188\n\nGrand Total\n\n$380\n\n$450\n\n$416\n\n$510\n\n$1,756\n\nPerformance Metrics\n\nMetric\n\nTarget\n\nActual\n\nStatus\n\nAnnual Revenue\n\n$1,500K\n\n$1,756K\n\n✓ Exceeded\n\nGrowth Rate\n\n10%\n\n17%\n\n✓ Exceeded"
+  }
+}

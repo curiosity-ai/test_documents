@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/fb2/meta.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Book title",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/fb2/meta.md",
+      "final_uri": "ground_truth/fb2/meta.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Book title</h1>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Book title\",\"level\":1,\"body\":[]}]}",
+    "markdown": "# Book title\n",
+    "plain": "Book title"
+  }
+}

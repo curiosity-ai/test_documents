@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pptx/powerpoint_with_image.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pptx/powerpoint_with_image.md",
+      "final_uri": "ground_truth/pptx/powerpoint_with_image.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Docling</h2>\n<p>Image test</p>\n<p>![](../media/image1.png)</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Docling\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Image test\"},{\"type\":\"paragraph\",\"text\":\"![](../media/image1.png)\"}]}]}",
+    "markdown": "## Docling\n\nImage test\n\n\\![](../media/image1.png)\n",
+    "plain": "  Docling\nImage test\n\n![](../media/image1.png)"
+  }
+}

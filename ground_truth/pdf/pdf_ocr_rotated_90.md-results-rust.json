@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/pdf/pdf_ocr_rotated_90.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "OCR Test Rotated 90 Degrees",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/pdf_ocr_rotated_90.md",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/pdf_ocr_rotated_90.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>OCR Test Rotated 90 Degrees</h1>\n<p>Docling bundles PDF document conversion to JSON and Markdown in an easy self contained package</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"OCR Test Rotated 90 Degrees\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Docling bundles PDF document conversion to JSON and Markdown in an easy self contained package\"}]}]}",
+    "markdown": "# OCR Test Rotated 90 Degrees\n\nDocling bundles PDF document conversion to JSON and Markdown in an easy self contained package\n",
+    "plain": "OCR Test Rotated 90 Degrees\nDocling bundles PDF document conversion to JSON and Markdown in an easy self contained package"
+  }
+}

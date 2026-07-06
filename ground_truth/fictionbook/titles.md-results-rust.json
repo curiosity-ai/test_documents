@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/fictionbook/titles.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/fictionbook/titles.md",
+      "final_uri": "ground_truth/fictionbook/titles.md",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Simple title</h2>\n<p>This example tests FictionBook titles.</p>\n<h2><em>Emphasized</em> <strong>Strong</strong> Title</h2>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Simple title\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"This example tests FictionBook titles.\"}]},{\"type\":\"section\",\"heading\":\"Emphasized Strong Title\",\"level\":2,\"body\":[]}]}",
+    "markdown": "## Simple title\n\nThis example tests FictionBook titles.\n\n## *Emphasized* **Strong** Title\n",
+    "plain": "  Simple title\nThis example tests FictionBook titles.\n\n  Emphasized Strong Title"
+  }
+}

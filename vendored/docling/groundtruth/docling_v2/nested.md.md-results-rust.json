@@ -1,0 +1,23 @@
+{
+  "file": "vendored/docling/groundtruth/docling_v2/nested.md.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Nesting",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/docling/groundtruth/docling_v2/nested.md.md",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "vendored/docling/groundtruth/docling_v2/nested.md.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Nesting</h1>\n<p>A list featuring nesting:</p>\n<ul>\n<li>\n<ul>\n<li>\n<ul>\n<li>\n<ul>\n<li>\n<ul>\n<li>a.</li>\n<li>b.</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>\n<ul>\n<li>a.</li>\n<li>b.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>\n<ul>\n<li>def12345。</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>foo</li>\n</ul>\n<ul>\n<li>bar</li>\n</ul>\n</li>\n<li>changing symbol</li>\n</ul>\n<p>A nested HTML list:</p>\n<ul>\n<li>First item\n<ul>\n<li>Subitem 1</li>\n<li>Subitem 2</li>\n</ul>\n</li>\n<li>Last list item</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Nesting\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"A list featuring nesting:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[]},{\"type\":\"list\",\"ordered\":false,\"items\":[]},{\"type\":\"list\",\"ordered\":false,\"items\":[]},{\"type\":\"list\",\"ordered\":false,\"items\":[]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"a.\",\"b.\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"a.\",\"b.\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"def12345。\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"foo\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"bar\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"changing symbol\"]},{\"type\":\"paragraph\",\"text\":\"A nested HTML list:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"First item\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Subitem 1\",\"Subitem 2\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Last list item\"]}]}]}",
+    "markdown": "# Nesting\n\nA list featuring nesting:\n\n- - - - - a.\n        - b.\n      - - a.\n        - b.\n  - - def12345。\n  - foo\n  - bar\n- changing symbol\n\nA nested HTML list:\n\n- First item\n  - Subitem 1\n  - Subitem 2\n- Last list item\n",
+    "plain": "Nesting\nA list featuring nesting:\n\na.\nb.\na.\nb.\ndef12345。\nfoo\nbar\nchanging symbol\nA nested HTML list:\n\nFirst item\nSubitem 1\nSubitem 2\nLast list item"
+  }
+}

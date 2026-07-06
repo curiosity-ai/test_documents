@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/ipynb/simple.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/ipynb/simple.md",
+      "final_uri": "ground_truth/ipynb/simple.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Lorem ipsum =========== <strong>Lorem ipsum</strong> dolor sit amet, consectetur adipiscing elit. Nunc luctus bibendum felis dictum sodales.</p>\n<p>Pyout -----</p>\n<pre><code>from IPython.display import HTML\n\nHTML(&quot;&quot;&quot;\n&lt;script&gt;\nconsole.log(&quot;hello&quot;);\n&lt;/script&gt;\n&lt;b&gt;HTML&lt;/b&gt;\n&quot;&quot;&quot;)</code></pre>\n<p>Image ----- This image ![the moon](attachment:lalune.jpg) will be included as a cell attachment.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Lorem ipsum =========== Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc luctus bibendum felis dictum sodales.\"},{\"type\":\"paragraph\",\"text\":\"Pyout -----\"},{\"type\":\"code\",\"text\":\"from IPython.display import HTML\\n\\nHTML(\\\"\\\"\\\"\\n<script>\\nconsole.log(\\\"hello\\\");\\n</script>\\n<b>HTML</b>\\n\\\"\\\"\\\")\"},{\"type\":\"paragraph\",\"text\":\"Image ----- This image ![the moon](attachment:lalune.jpg) will be included as a cell attachment.\"}]}",
+    "markdown": "Lorem ipsum =========== **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Nunc luctus bibendum felis dictum sodales.\n\nPyout -----\n\n```\nfrom IPython.display import HTML\n\nHTML(\"\"\"\n<script>\nconsole.log(\"hello\");\n</script>\n<b>HTML</b>\n\"\"\")\n```\n\nImage ----- This image \\![the moon](attachment:lalune.jpg) will be included as a cell attachment.\n",
+    "plain": "Lorem ipsum =========== Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc luctus bibendum felis dictum sodales.\n\nPyout -----\n\nfrom IPython.display import HTML\n\nHTML(\"\"\"\n<script>\nconsole.log(\"hello\");\n</script>\n<b>HTML</b>\n\"\"\")\n\nImage ----- This image ![the moon](attachment:lalune.jpg) will be included as a cell attachment."
+  }
+}

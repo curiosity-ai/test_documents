@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/example_07.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 14,
+      "word_count": 28,
+      "character_count": 201
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/md/example_07.html.txt",
+      "source_uri": "ground_truth/md/example_07.html.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>- Asia - China - Japan - Thailand - Europe - UK - Germany - Switzerland - Bern - Aargau - Italy - Piedmont - Liguria - Africa</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"- Asia\\n    - China\\n    - Japan\\n    - Thailand\\n- Europe\\n    - UK\\n    - Germany\\n    - Switzerland\\n            - Bern\\n            - Aargau\\n    - Italy\\n            - Piedmont\\n            - Liguria\\n- Africa\"}]}",
+    "markdown": "\\- Asia - China - Japan - Thailand - Europe - UK - Germany - Switzerland - Bern - Aargau - Italy - Piedmont - Liguria - Africa\n",
+    "plain": "- Asia\n    - China\n    - Japan\n    - Thailand\n- Europe\n    - UK\n    - Germany\n    - Switzerland\n            - Bern\n            - Aargau\n    - Italy\n            - Piedmont\n            - Liguria\n- Africa"
+  }
+}

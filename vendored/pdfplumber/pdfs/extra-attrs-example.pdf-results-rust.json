@@ -1,0 +1,37 @@
+{
+  "file": "vendored/pdfplumber/pdfs/extra-attrs-example.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "extra-attrs",
+    "created_at": "2023-10-27T12:42:56Z",
+    "modified_at": "2023-10-27T12:42:56Z",
+    "created_by": "Keynote",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.3",
+      "producer": "macOS Version 13.4.1 (c) (Build 22F770820d) Quartz PDFContext",
+      "is_encrypted": false,
+      "width": 1920,
+      "height": 1080,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/pdfplumber/pdfs/extra-attrs-example.pdf",
+      "extraction_method": "native",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "vendored/pdfplumber/pdfs/extra-attrs-example.pdf"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Black Red Arial</h1>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"BlackRedArial\"}]}",
+    "markdown": "# Black Red Arial\n",
+    "plain": "BlackRedArial"
+  }
+}

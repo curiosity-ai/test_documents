@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/mime-html-only.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 7,
+      "word_count": 65,
+      "character_count": 388
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/eml/mime-html-only.txt",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/eml/mime-html-only.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Example HTML Only MIME Email From: sender@example.com To: recipient@example.com Date: Tue, 01 Oct 2024 12:34:56 -0500 This is a text/html part. The first emoticon, :) , was proposed by Scott Fahlman in 1982 to indicate just or sarcasm in text emails. Gmail was launched by Google in 2004 with 1 GB of free storage, significantly more than what other services offered at the time.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Example HTML Only MIME Email\\nFrom: sender@example.com\\nTo: recipient@example.com\\nDate: Tue, 01 Oct 2024 12:34:56 -0500\\nThis is a text/html part.\\nThe first emoticon, :) , was proposed by Scott Fahlman in 1982 to indicate just or sarcasm in text emails.\\nGmail was launched by Google in 2004 with 1 GB of free storage, significantly more than what other services offered at the time.\"}]}",
+    "markdown": "Subject: Example HTML Only MIME Email From: sender@example.com To: recipient@example.com Date: Tue, 01 Oct 2024 12:34:56 -0500 This is a text/html part. The first emoticon, :) , was proposed by Scott Fahlman in 1982 to indicate just or sarcasm in text emails. Gmail was launched by Google in 2004 with 1 GB of free storage, significantly more than what other services offered at the time.\n",
+    "plain": "Subject: Example HTML Only MIME Email\nFrom: sender@example.com\nTo: recipient@example.com\nDate: Tue, 01 Oct 2024 12:34:56 -0500\nThis is a text/html part.\nThe first emoticon, :) , was proposed by Scott Fahlman in 1982 to indicate just or sarcasm in text emails.\nGmail was launched by Google in 2004 with 1 GB of free storage, significantly more than what other services offered at the time."
+  }
+}

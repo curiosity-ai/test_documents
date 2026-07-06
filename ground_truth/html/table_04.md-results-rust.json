@@ -1,0 +1,38 @@
+{
+  "file": "ground_truth/html/table_04.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Header",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/html/table_04.md",
+      "final_uri": "ground_truth/html/table_04.md",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "A",
+          "B"
+        ],
+        [
+          "Some text before list First itemSecond itemThird item",
+          "2..."
+        ]
+      ],
+      "markdown": "| A | B |\n| --- | --- |\n| Some text before list First itemSecond itemThird item | 2... |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Header</h1>\n<p>This is the first paragraph.</p>\n<table>\n<thead>\n<tr>\n<th>A</th>\n<th>B</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Some text before list First itemSecond itemThird item</td>\n<td>2...</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Header\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is the first paragraph.\"},{\"type\":\"table\",\"headers\":[\"A\",\"B\"],\"rows\":[[\"Some text before list First itemSecond itemThird item\",\"2...\"]]}]}]}",
+    "markdown": "# Header\n\nThis is the first paragraph.\n\n| A | B |\n| --- | --- |\n| Some text before list First itemSecond itemThird item | 2... |\n",
+    "plain": "Header\nThis is the first paragraph.\n\nA B\nSome text before list First itemSecond itemThird item 2..."
+  }
+}

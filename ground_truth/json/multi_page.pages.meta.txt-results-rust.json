@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/json/multi_page.pages.meta.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 17,
+      "word_count": 22,
+      "character_count": 146
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/json/multi_page.pages.meta.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/json/multi_page.pages.meta.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>[ { &quot;num_cells&quot;: 49 }, { &quot;num_cells&quot;: 42 }, { &quot;num_cells&quot;: 62 }, { &quot;num_cells&quot;: 74 }, { &quot;num_cells&quot;: 7 } ]</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"[\\n  {\\n    \\\"num_cells\\\": 49\\n  },\\n  {\\n    \\\"num_cells\\\": 42\\n  },\\n  {\\n    \\\"num_cells\\\": 62\\n  },\\n  {\\n    \\\"num_cells\\\": 74\\n  },\\n  {\\n    \\\"num_cells\\\": 7\\n  }\\n]\"}]}",
+    "markdown": "[ { \"num_cells\": 49 }, { \"num_cells\": 42 }, { \"num_cells\": 62 }, { \"num_cells\": 74 }, { \"num_cells\": 7 } ]\n",
+    "plain": "[\n  {\n    \"num_cells\": 49\n  },\n  {\n    \"num_cells\": 42\n  },\n  {\n    \"num_cells\": 62\n  },\n  {\n    \"num_cells\": 74\n  },\n  {\n    \"num_cells\": 7\n  }\n]"
+  }
+}

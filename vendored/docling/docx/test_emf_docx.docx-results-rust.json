@@ -1,0 +1,77 @@
+{
+  "file": "vendored/docling/docx/test_emf_docx.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Maxim Lysak"
+    ],
+    "created_at": "2024-11-26T09:00:00Z",
+    "modified_at": "2024-11-26T09:02:00Z",
+    "created_by": "Maxim Lysak",
+    "modified_by": "Maxim Lysak",
+    "format": {
+      "format_type": "docx",
+      "core_properties": {
+        "title": null,
+        "subject": null,
+        "creator": "Maxim Lysak",
+        "keywords": null,
+        "description": null,
+        "last_modified_by": "Maxim Lysak",
+        "revision": "1",
+        "created": "2024-11-26T09:00:00Z",
+        "modified": "2024-11-26T09:02:00Z",
+        "category": null,
+        "content_status": null,
+        "language": null,
+        "identifier": null,
+        "version": null,
+        "last_printed": null
+      },
+      "app_properties": {
+        "application": "Microsoft Office Word",
+        "app_version": "16.0000",
+        "template": "Normal.dotm",
+        "total_time": 2,
+        "pages": 1,
+        "words": 14,
+        "characters": 80,
+        "characters_with_spaces": 93,
+        "lines": 1,
+        "paragraphs": 1,
+        "company": null,
+        "doc_security": 0,
+        "scale_crop": false,
+        "links_up_to_date": false,
+        "shared_doc": false,
+        "hyperlinks_changed": false
+      },
+      "custom_properties": {}
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "page_count": 1,
+      "word_count": 14,
+      "final_uri": "vendored/docling/docx/test_emf_docx.docx",
+      "source_kind": "uri",
+      "revision": "1",
+      "total_editing_time_minutes": 2,
+      "character_count": 80,
+      "application": "Microsoft Office Word",
+      "paragraph_count": 1,
+      "source_uri": "vendored/docling/docx/test_emf_docx.docx",
+      "source_index": 0,
+      "template": "Normal.dotm",
+      "line_count": 1
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Test with three images in unusual formats</p>\n<p>Raster in emf:</p>\n<p><img src=\"media/image1.emf\" alt=\"\" /></p>\n<p>Vector in emf:</p>\n<p><img src=\"media/image2.emf\" alt=\"\" /></p>\n<p>Raster in webp:</p>\n<p><img src=\"media/image3.png\" alt=\"A cartoon duck holding a paper Description automatically generated\" /></p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test with three images in unusual formats\"},{\"type\":\"paragraph\",\"text\":\"Raster in emf:\"},{\"type\":\"image\",\"src\":\"media/image1.emf\"},{\"type\":\"paragraph\",\"text\":\"Vector in emf:\"},{\"type\":\"image\",\"src\":\"media/image2.emf\"},{\"type\":\"paragraph\",\"text\":\"Raster in webp:\"},{\"type\":\"image\",\"alt\":\"A cartoon duck holding a paper\\n\\nDescription automatically generated\",\"src\":\"media/image3.png\"}]}",
+    "markdown": "Test with three images in unusual formats\n\nRaster in emf:\n\n![](media/image1.emf)\n\nVector in emf:\n\n![](media/image2.emf)\n\nRaster in webp:\n\n![A cartoon duck holding a paper Description automatically generated](media/image3.png)\n",
+    "plain": "Test with three images in unusual formats\n\nRaster in emf:\n\nVector in emf:\n\nRaster in webp:\n\n[Image: A cartoon duck holding a paper\n\nDescription automatically generated]"
+  }
+}

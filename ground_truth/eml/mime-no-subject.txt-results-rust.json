@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/mime-no-subject.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 3,
+      "word_count": 13,
+      "character_count": 100
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/eml/mime-no-subject.txt",
+      "final_uri": "ground_truth/eml/mime-no-subject.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>From: sender@example.com To: recipient@example.com This is a simple email message without a subject.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"From: sender@example.com\\nTo: recipient@example.com\\nThis is a simple email message without a subject.\"}]}",
+    "markdown": "From: sender@example.com To: recipient@example.com This is a simple email message without a subject.\n",
+    "plain": "From: sender@example.com\nTo: recipient@example.com\nThis is a simple email message without a subject."
+  }
+}

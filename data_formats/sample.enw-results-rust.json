@@ -1,0 +1,27 @@
+{
+  "file": "data_formats/sample.enw",
+  "mime_type": "application/x-endnote+xml",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "citation",
+      "citation_count": 0,
+      "format": "EndNote XML"
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "data_formats/sample.enw",
+      "source_kind": "uri",
+      "final_uri": "data_formats/sample.enw"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "",
+    "json": "{\"body\":[]}",
+    "markdown": "",
+    "plain": ""
+  }
+}

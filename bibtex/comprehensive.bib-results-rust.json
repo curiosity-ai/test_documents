@@ -1,0 +1,311 @@
+{
+  "file": "bibtex/comprehensive.bib",
+  "mime_type": "application/x-bibtex",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Alice Smith",
+      "Bob Johnson",
+      "Carla Ruiz",
+      "Deepak Patel",
+      "Ethan Lee",
+      "Fatima Khan",
+      "Grace Muller",
+      "Hugo Silva",
+      "Ingrid Novak",
+      "Javier Torres",
+      "Keiko Tanaka",
+      "Liam O'Connor",
+      "Mei Huang",
+      "Noah Becker",
+      "Priya Desai",
+      "Quinn Parker",
+      "Rina Haddad",
+      "Samuel Ortega",
+      "Talia Cohen",
+      "Umar Farouk",
+      "Valeria Costa",
+      "Wei Zhang"
+    ],
+    "format": {
+      "format_type": "bibtex",
+      "entry_count": 20,
+      "citation_keys": [
+        "entry_article_one",
+        "entry_book_foundations",
+        "entry_inproceedings_parallel",
+        "entry_phdthesis_semantics",
+        "entry_mastersthesis_design",
+        "entry_techreport_scalability",
+        "entry_manual_reference",
+        "entry_misc_dataset",
+        "entry_unpublished_notes",
+        "entry_incollection_story",
+        "entry_inbook_chapter",
+        "entry_proceedings_ai",
+        "entry_booklet_summary",
+        "entry_article_modern",
+        "entry_book_distributed",
+        "entry_inproceedings_reproducibility",
+        "entry_article_architecture",
+        "entry_techreport_innovation",
+        "entry_booklet_research",
+        "entry_article_future"
+      ],
+      "authors": [
+        "Alice Smith",
+        "Bob Johnson",
+        "Carla Ruiz",
+        "Deepak Patel",
+        "Ethan Lee",
+        "Fatima Khan",
+        "Grace Muller",
+        "Hugo Silva",
+        "Ingrid Novak",
+        "Javier Torres",
+        "Keiko Tanaka",
+        "Liam O'Connor",
+        "Mei Huang",
+        "Noah Becker",
+        "Priya Desai",
+        "Quinn Parker",
+        "Rina Haddad",
+        "Samuel Ortega",
+        "Talia Cohen",
+        "Umar Farouk",
+        "Valeria Costa",
+        "Wei Zhang"
+      ],
+      "year_range": {
+        "min": 1998,
+        "max": 2024,
+        "years": [
+          1998,
+          2002,
+          2005,
+          2006,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2024
+        ]
+      },
+      "entry_types": {
+        "article": 4,
+        "book": 2,
+        "booklet": 2,
+        "inbook": 1,
+        "incollection": 1,
+        "inproceedings": 2,
+        "manual": 1,
+        "mastersthesis": 1,
+        "misc": 1,
+        "phdthesis": 1,
+        "proceedings": 1,
+        "techreport": 2,
+        "unpublished": 1
+      }
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "entries": [
+        {
+          "key": "entry_article_one",
+          "title": "Exploring Article Formats",
+          "author": "Alice Smith and Bob Johnson",
+          "pages": "101-120",
+          "year": "2012",
+          "volume": "42",
+          "journal": "Journal of Examples",
+          "entry_type": "article",
+          "number": "3"
+        },
+        {
+          "key": "entry_book_foundations",
+          "address": "Berlin",
+          "entry_type": "book",
+          "publisher": "Example Press",
+          "year": "2010",
+          "author": "Carla Ruiz and Deepak Patel",
+          "title": "Foundations of Structured Documents"
+        },
+        {
+          "key": "entry_inproceedings_parallel",
+          "pages": "55-68",
+          "entry_type": "inproceedings",
+          "booktitle": "Proceedings of the Structured Data Conference",
+          "title": "Parallel Parsing Techniques",
+          "year": "2019",
+          "author": "Ethan Lee and Fatima Khan"
+        },
+        {
+          "key": "entry_phdthesis_semantics",
+          "entry_type": "phdthesis",
+          "school": "University of Hamburg",
+          "year": "2015",
+          "title": "Semantics Aware Document Pipelines",
+          "author": "Grace Muller"
+        },
+        {
+          "key": "entry_mastersthesis_design",
+          "author": "Hugo Silva",
+          "school": "Technical University of Lisbon",
+          "year": "2018",
+          "entry_type": "mastersthesis",
+          "title": "Designing Resilient Extraction Systems"
+        },
+        {
+          "key": "entry_techreport_scalability",
+          "title": "Scalability Benchmarks for Extraction Engines",
+          "institution": "Alpine Research Labs",
+          "author": "Ingrid Novak",
+          "year": "2011",
+          "entry_type": "techreport",
+          "number": "ARL-TR-011"
+        },
+        {
+          "key": "entry_manual_reference",
+          "title": "Xberg Reference Manual",
+          "organization": "Xberg Labs",
+          "year": "2005",
+          "entry_type": "manual",
+          "author": "Javier Torres"
+        },
+        {
+          "key": "entry_misc_dataset",
+          "author": "Keiko Tanaka",
+          "year": "2022",
+          "note": "Version 3.2",
+          "howpublished": "Dataset Repository",
+          "title": "Annotated Extraction Dataset",
+          "entry_type": "misc"
+        },
+        {
+          "key": "entry_unpublished_notes",
+          "year": "2021",
+          "title": "Notes on Incremental Extraction",
+          "entry_type": "unpublished",
+          "author": "Liam O'Connor",
+          "note": "Draft manuscript"
+        },
+        {
+          "key": "entry_incollection_story",
+          "year": "2016",
+          "publisher": "Insight Publishing",
+          "author": "Mei Huang",
+          "entry_type": "incollection",
+          "booktitle": "Modern Document Pipelines",
+          "chapter": "4",
+          "title": "Story Driven Testing"
+        },
+        {
+          "key": "entry_inbook_chapter",
+          "author": "Noah Becker",
+          "year": "2009",
+          "chapter": "11",
+          "publisher": "TechWorks",
+          "entry_type": "inbook",
+          "title": "Advanced Pipeline Patterns"
+        },
+        {
+          "key": "entry_proceedings_ai",
+          "title": "Proceedings of the AI Extraction Summit",
+          "editor": "Olivia Rossi",
+          "entry_type": "proceedings",
+          "year": "2017"
+        },
+        {
+          "key": "entry_booklet_summary",
+          "author": "Priya Desai",
+          "howpublished": "Internal Memo",
+          "entry_type": "booklet",
+          "title": "Summary of Extraction Benchmarks",
+          "year": "2014"
+        },
+        {
+          "key": "entry_article_modern",
+          "number": "1",
+          "title": "Modern Approaches to Layout Analysis",
+          "year": "2020",
+          "entry_type": "article",
+          "journal": "International Journal of OCR",
+          "volume": "7",
+          "author": "Quinn Parker"
+        },
+        {
+          "key": "entry_book_distributed",
+          "author": "Rina Haddad",
+          "entry_type": "book",
+          "title": "Distributed Text Processing",
+          "year": "2002",
+          "publisher": "Northern Lights"
+        },
+        {
+          "key": "entry_inproceedings_reproducibility",
+          "booktitle": "Workshop on Reliable NLP",
+          "title": "Reproducible Extraction Pipelines",
+          "entry_type": "inproceedings",
+          "author": "Samuel Ortega",
+          "pages": "12-20",
+          "year": "2013"
+        },
+        {
+          "key": "entry_article_architecture",
+          "author": "Talia Cohen",
+          "title": "Architecture Patterns for Extractors",
+          "journal": "Systems Journal",
+          "year": "2008",
+          "entry_type": "article"
+        },
+        {
+          "key": "entry_techreport_innovation",
+          "author": "Umar Farouk",
+          "title": "Innovation in Document Processing",
+          "institution": "Global Research Institute",
+          "year": "2006",
+          "entry_type": "techreport"
+        },
+        {
+          "key": "entry_booklet_research",
+          "year": "1998",
+          "title": "Research Highlights in OCR",
+          "author": "Valeria Costa",
+          "note": "Conference supplement",
+          "entry_type": "booklet"
+        },
+        {
+          "key": "entry_article_future",
+          "author": "Wei Zhang",
+          "entry_type": "article",
+          "title": "Future of Unified Extraction",
+          "year": "2024",
+          "journal": "Journal of Pipeline Research"
+        }
+      ],
+      "source_index": 0,
+      "final_uri": "bibtex/comprehensive.bib",
+      "source_uri": "bibtex/comprehensive.bib",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<section class=\"footnotes\" data-footnotes>\n<ol>\n<li id=\"fn-entry_article_one\">\n<p>@article{entry_article_one, author = {Alice Smith and Bob Johnson}, journal = {Journal of Examples}, number = {3}, pages = {101-120}, title = {Exploring Article Formats}, volume = {42}, year = {2012}, } <a href=\"#fnref-entry_article_one\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"1\" aria-label=\"Back to reference 1\">↩</a></p>\n</li>\n<li id=\"fn-entry_book_foundations\">\n<p>@book{entry_book_foundations, address = {Berlin}, author = {Carla Ruiz and Deepak Patel}, publisher = {Example Press}, title = {Foundations of Structured Documents}, year = {2010}, } <a href=\"#fnref-entry_book_foundations\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"2\" aria-label=\"Back to reference 2\">↩</a></p>\n</li>\n<li id=\"fn-entry_inproceedings_parallel\">\n<p>@inproceedings{entry_inproceedings_parallel, author = {Ethan Lee and Fatima Khan}, booktitle = {Proceedings of the Structured Data Conference}, pages = {55-68}, title = {Parallel Parsing Techniques}, year = {2019}, } <a href=\"#fnref-entry_inproceedings_parallel\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"3\" aria-label=\"Back to reference 3\">↩</a></p>\n</li>\n<li id=\"fn-entry_phdthesis_semantics\">\n<p>@phdthesis{entry_phdthesis_semantics, author = {Grace Muller}, school = {University of Hamburg}, title = {Semantics Aware Document Pipelines}, year = {2015}, } <a href=\"#fnref-entry_phdthesis_semantics\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"4\" aria-label=\"Back to reference 4\">↩</a></p>\n</li>\n<li id=\"fn-entry_mastersthesis_design\">\n<p>@mastersthesis{entry_mastersthesis_design, author = {Hugo Silva}, school = {Technical University of Lisbon}, title = {Designing Resilient Extraction Systems}, year = {2018}, } <a href=\"#fnref-entry_mastersthesis_design\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"5\" aria-label=\"Back to reference 5\">↩</a></p>\n</li>\n<li id=\"fn-entry_techreport_scalability\">\n<p>@techreport{entry_techreport_scalability, author = {Ingrid Novak}, institution = {Alpine Research Labs}, number = {ARL-TR-011}, title = {Scalability Benchmarks for Extraction Engines}, year = {2011}, } <a href=\"#fnref-entry_techreport_scalability\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"6\" aria-label=\"Back to reference 6\">↩</a></p>\n</li>\n<li id=\"fn-entry_manual_reference\">\n<p>@manual{entry_manual_reference, author = {Javier Torres}, organization = {Xberg Labs}, title = {Xberg Reference Manual}, year = {2005}, } <a href=\"#fnref-entry_manual_reference\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"7\" aria-label=\"Back to reference 7\">↩</a></p>\n</li>\n<li id=\"fn-entry_misc_dataset\">\n<p>@misc{entry_misc_dataset, author = {Keiko Tanaka}, howpublished = {Dataset Repository}, note = {Version 3.2}, title = {Annotated Extraction Dataset}, year = {2022}, } <a href=\"#fnref-entry_misc_dataset\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"8\" aria-label=\"Back to reference 8\">↩</a></p>\n</li>\n<li id=\"fn-entry_unpublished_notes\">\n<p>@unpublished{entry_unpublished_notes, author = {Liam O'Connor}, note = {Draft manuscript}, title = {Notes on Incremental Extraction}, year = {2021}, } <a href=\"#fnref-entry_unpublished_notes\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"9\" aria-label=\"Back to reference 9\">↩</a></p>\n</li>\n<li id=\"fn-entry_incollection_story\">\n<p>@incollection{entry_incollection_story, author = {Mei Huang}, booktitle = {Modern Document Pipelines}, chapter = {4}, publisher = {Insight Publishing}, title = {Story Driven Testing}, year = {2016}, } <a href=\"#fnref-entry_incollection_story\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"10\" aria-label=\"Back to reference 10\">↩</a></p>\n</li>\n<li id=\"fn-entry_inbook_chapter\">\n<p>@inbook{entry_inbook_chapter, author = {Noah Becker}, chapter = {11}, publisher = {TechWorks}, title = {Advanced Pipeline Patterns}, year = {2009}, } <a href=\"#fnref-entry_inbook_chapter\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"11\" aria-label=\"Back to reference 11\">↩</a></p>\n</li>\n<li id=\"fn-entry_proceedings_ai\">\n<p>@proceedings{entry_proceedings_ai, editor = {Olivia Rossi}, title = {Proceedings of the AI Extraction Summit}, year = {2017}, } <a href=\"#fnref-entry_proceedings_ai\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"12\" aria-label=\"Back to reference 12\">↩</a></p>\n</li>\n<li id=\"fn-entry_booklet_summary\">\n<p>@booklet{entry_booklet_summary, author = {Priya Desai}, howpublished = {Internal Memo}, title = {Summary of Extraction Benchmarks}, year = {2014}, } <a href=\"#fnref-entry_booklet_summary\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"13\" aria-label=\"Back to reference 13\">↩</a></p>\n</li>\n<li id=\"fn-entry_article_modern\">\n<p>@article{entry_article_modern, author = {Quinn Parker}, journal = {International Journal of OCR}, number = {1}, title = {Modern Approaches to Layout Analysis}, volume = {7}, year = {2020}, } <a href=\"#fnref-entry_article_modern\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"14\" aria-label=\"Back to reference 14\">↩</a></p>\n</li>\n<li id=\"fn-entry_book_distributed\">\n<p>@book{entry_book_distributed, author = {Rina Haddad}, publisher = {Northern Lights}, title = {Distributed Text Processing}, year = {2002}, } <a href=\"#fnref-entry_book_distributed\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"15\" aria-label=\"Back to reference 15\">↩</a></p>\n</li>\n<li id=\"fn-entry_inproceedings_reproducibility\">\n<p>@inproceedings{entry_inproceedings_reproducibility, author = {Samuel Ortega}, booktitle = {Workshop on Reliable NLP}, pages = {12-20}, title = {Reproducible Extraction Pipelines}, year = {2013}, } <a href=\"#fnref-entry_inproceedings_reproducibility\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"16\" aria-label=\"Back to reference 16\">↩</a></p>\n</li>\n<li id=\"fn-entry_article_architecture\">\n<p>@article{entry_article_architecture, author = {Talia Cohen}, journal = {Systems Journal}, title = {Architecture Patterns for Extractors}, year = {2008}, } <a href=\"#fnref-entry_article_architecture\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"17\" aria-label=\"Back to reference 17\">↩</a></p>\n</li>\n<li id=\"fn-entry_techreport_innovation\">\n<p>@techreport{entry_techreport_innovation, author = {Umar Farouk}, institution = {Global Research Institute}, title = {Innovation in Document Processing}, year = {2006}, } <a href=\"#fnref-entry_techreport_innovation\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"18\" aria-label=\"Back to reference 18\">↩</a></p>\n</li>\n<li id=\"fn-entry_booklet_research\">\n<p>@booklet{entry_booklet_research, author = {Valeria Costa}, note = {Conference supplement}, title = {Research Highlights in OCR}, year = {1998}, } <a href=\"#fnref-entry_booklet_research\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"19\" aria-label=\"Back to reference 19\">↩</a></p>\n</li>\n<li id=\"fn-entry_article_future\">\n<p>@article{entry_article_future, author = {Wei Zhang}, journal = {Journal of Pipeline Research}, title = {Future of Unified Extraction}, year = {2024}, } <a href=\"#fnref-entry_article_future\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"20\" aria-label=\"Back to reference 20\">↩</a></p>\n</li>\n</ol>\n</section>\n",
+    "json": "{\"body\":[]}",
+    "markdown": "[^entry_article_one]:\n    @article{entry_article_one, author = {Alice Smith and Bob Johnson}, journal = {Journal of Examples}, number = {3}, pages = {101-120}, title = {Exploring Article Formats}, volume = {42}, year = {2012}, }\n\n[^entry_book_foundations]:\n    @book{entry_book_foundations, address = {Berlin}, author = {Carla Ruiz and Deepak Patel}, publisher = {Example Press}, title = {Foundations of Structured Documents}, year = {2010}, }\n\n[^entry_inproceedings_parallel]:\n    @inproceedings{entry_inproceedings_parallel, author = {Ethan Lee and Fatima Khan}, booktitle = {Proceedings of the Structured Data Conference}, pages = {55-68}, title = {Parallel Parsing Techniques}, year = {2019}, }\n\n[^entry_phdthesis_semantics]:\n    @phdthesis{entry_phdthesis_semantics, author = {Grace Muller}, school = {University of Hamburg}, title = {Semantics Aware Document Pipelines}, year = {2015}, }\n\n[^entry_mastersthesis_design]:\n    @mastersthesis{entry_mastersthesis_design, author = {Hugo Silva}, school = {Technical University of Lisbon}, title = {Designing Resilient Extraction Systems}, year = {2018}, }\n\n[^entry_techreport_scalability]:\n    @techreport{entry_techreport_scalability, author = {Ingrid Novak}, institution = {Alpine Research Labs}, number = {ARL-TR-011}, title = {Scalability Benchmarks for Extraction Engines}, year = {2011}, }\n\n[^entry_manual_reference]:\n    @manual{entry_manual_reference, author = {Javier Torres}, organization = {Xberg Labs}, title = {Xberg Reference Manual}, year = {2005}, }\n\n[^entry_misc_dataset]:\n    @misc{entry_misc_dataset, author = {Keiko Tanaka}, howpublished = {Dataset Repository}, note = {Version 3.2}, title = {Annotated Extraction Dataset}, year = {2022}, }\n\n[^entry_unpublished_notes]:\n    @unpublished{entry_unpublished_notes, author = {Liam O'Connor}, note = {Draft manuscript}, title = {Notes on Incremental Extraction}, year = {2021}, }\n\n[^entry_incollection_story]:\n    @incollection{entry_incollection_story, author = {Mei Huang}, booktitle = {Modern Document Pipelines}, chapter = {4}, publisher = {Insight Publishing}, title = {Story Driven Testing}, year = {2016}, }\n\n[^entry_inbook_chapter]:\n    @inbook{entry_inbook_chapter, author = {Noah Becker}, chapter = {11}, publisher = {TechWorks}, title = {Advanced Pipeline Patterns}, year = {2009}, }\n\n[^entry_proceedings_ai]:\n    @proceedings{entry_proceedings_ai, editor = {Olivia Rossi}, title = {Proceedings of the AI Extraction Summit}, year = {2017}, }\n\n[^entry_booklet_summary]:\n    @booklet{entry_booklet_summary, author = {Priya Desai}, howpublished = {Internal Memo}, title = {Summary of Extraction Benchmarks}, year = {2014}, }\n\n[^entry_article_modern]:\n    @article{entry_article_modern, author = {Quinn Parker}, journal = {International Journal of OCR}, number = {1}, title = {Modern Approaches to Layout Analysis}, volume = {7}, year = {2020}, }\n\n[^entry_book_distributed]:\n    @book{entry_book_distributed, author = {Rina Haddad}, publisher = {Northern Lights}, title = {Distributed Text Processing}, year = {2002}, }\n\n[^entry_inproceedings_reproducibility]:\n    @inproceedings{entry_inproceedings_reproducibility, author = {Samuel Ortega}, booktitle = {Workshop on Reliable NLP}, pages = {12-20}, title = {Reproducible Extraction Pipelines}, year = {2013}, }\n\n[^entry_article_architecture]:\n    @article{entry_article_architecture, author = {Talia Cohen}, journal = {Systems Journal}, title = {Architecture Patterns for Extractors}, year = {2008}, }\n\n[^entry_techreport_innovation]:\n    @techreport{entry_techreport_innovation, author = {Umar Farouk}, institution = {Global Research Institute}, title = {Innovation in Document Processing}, year = {2006}, }\n\n[^entry_booklet_research]:\n    @booklet{entry_booklet_research, author = {Valeria Costa}, note = {Conference supplement}, title = {Research Highlights in OCR}, year = {1998}, }\n\n[^entry_article_future]:\n    @article{entry_article_future, author = {Wei Zhang}, journal = {Journal of Pipeline Research}, title = {Future of Unified Extraction}, year = {2024}, }\n",
+    "plain": "@article{entry_article_one,\n  author = {Alice Smith and Bob Johnson},\n  journal = {Journal of Examples},\n  number = {3},\n  pages = {101-120},\n  title = {Exploring Article Formats},\n  volume = {42},\n  year = {2012},\n}\n\n@book{entry_book_foundations,\n  address = {Berlin},\n  author = {Carla Ruiz and Deepak Patel},\n  publisher = {Example Press},\n  title = {Foundations of Structured Documents},\n  year = {2010},\n}\n\n@inproceedings{entry_inproceedings_parallel,\n  author = {Ethan Lee and Fatima Khan},\n  booktitle = {Proceedings of the Structured Data Conference},\n  pages = {55-68},\n  title = {Parallel Parsing Techniques},\n  year = {2019},\n}\n\n@phdthesis{entry_phdthesis_semantics,\n  author = {Grace Muller},\n  school = {University of Hamburg},\n  title = {Semantics Aware Document Pipelines},\n  year = {2015},\n}\n\n@mastersthesis{entry_mastersthesis_design,\n  author = {Hugo Silva},\n  school = {Technical University of Lisbon},\n  title = {Designing Resilient Extraction Systems},\n  year = {2018},\n}\n\n@techreport{entry_techreport_scalability,\n  author = {Ingrid Novak},\n  institution = {Alpine Research Labs},\n  number = {ARL-TR-011},\n  title = {Scalability Benchmarks for Extraction Engines},\n  year = {2011},\n}\n\n@manual{entry_manual_reference,\n  author = {Javier Torres},\n  organization = {Xberg Labs},\n  title = {Xberg Reference Manual},\n  year = {2005},\n}\n\n@misc{entry_misc_dataset,\n  author = {Keiko Tanaka},\n  howpublished = {Dataset Repository},\n  note = {Version 3.2},\n  title = {Annotated Extraction Dataset},\n  year = {2022},\n}\n\n@unpublished{entry_unpublished_notes,\n  author = {Liam O'Connor},\n  note = {Draft manuscript},\n  title = {Notes on Incremental Extraction},\n  year = {2021},\n}\n\n@incollection{entry_incollection_story,\n  author = {Mei Huang},\n  booktitle = {Modern Document Pipelines},\n  chapter = {4},\n  publisher = {Insight Publishing},\n  title = {Story Driven Testing},\n  year = {2016},\n}\n\n@inbook{entry_inbook_chapter,\n  author = {Noah Becker},\n  chapter = {11},\n  publisher = {TechWorks},\n  title = {Advanced Pipeline Patterns},\n  year = {2009},\n}\n\n@proceedings{entry_proceedings_ai,\n  editor = {Olivia Rossi},\n  title = {Proceedings of the AI Extraction Summit},\n  year = {2017},\n}\n\n@booklet{entry_booklet_summary,\n  author = {Priya Desai},\n  howpublished = {Internal Memo},\n  title = {Summary of Extraction Benchmarks},\n  year = {2014},\n}\n\n@article{entry_article_modern,\n  author = {Quinn Parker},\n  journal = {International Journal of OCR},\n  number = {1},\n  title = {Modern Approaches to Layout Analysis},\n  volume = {7},\n  year = {2020},\n}\n\n@book{entry_book_distributed,\n  author = {Rina Haddad},\n  publisher = {Northern Lights},\n  title = {Distributed Text Processing},\n  year = {2002},\n}\n\n@inproceedings{entry_inproceedings_reproducibility,\n  author = {Samuel Ortega},\n  booktitle = {Workshop on Reliable NLP},\n  pages = {12-20},\n  title = {Reproducible Extraction Pipelines},\n  year = {2013},\n}\n\n@article{entry_article_architecture,\n  author = {Talia Cohen},\n  journal = {Systems Journal},\n  title = {Architecture Patterns for Extractors},\n  year = {2008},\n}\n\n@techreport{entry_techreport_innovation,\n  author = {Umar Farouk},\n  institution = {Global Research Institute},\n  title = {Innovation in Document Processing},\n  year = {2006},\n}\n\n@booklet{entry_booklet_research,\n  author = {Valeria Costa},\n  note = {Conference supplement},\n  title = {Research Highlights in OCR},\n  year = {1998},\n}\n\n@article{entry_article_future,\n  author = {Wei Zhang},\n  journal = {Journal of Pipeline Research},\n  title = {Future of Unified Extraction},\n  year = {2024},\n}"
+  }
+}

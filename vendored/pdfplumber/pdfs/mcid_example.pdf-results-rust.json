@@ -1,0 +1,35 @@
+{
+  "file": "vendored/pdfplumber/pdfs/mcid_example.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2023-08-09T14:14:59Z",
+    "created_by": "Writer",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.6",
+      "producer": "LibreOffice 7.3",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "extraction_method": "native",
+      "source_uri": "vendored/pdfplumber/pdfs/mcid_example.pdf",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "vendored/pdfplumber/pdfs/mcid_example.pdf"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Test of figures</h2>\n<h1>Figure 1: Chart</h1>\n<p>2 ligne 3 ligne 1 colonne 2 colonne 3 colonne 4 ligne</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test of figures\"},{\"type\":\"paragraph\",\"text\":\"12\"},{\"type\":\"paragraph\",\"text\":\"10\"},{\"type\":\"paragraph\",\"text\":\"8\"},{\"type\":\"paragraph\",\"text\":\"6\"},{\"type\":\"paragraph\",\"text\":\"4\"},{\"type\":\"paragraph\",\"text\":\"2\"},{\"type\":\"paragraph\",\"text\":\"0\\n1 ligne\"},{\"type\":\"paragraph\",\"text\":\"Figure 1: Chart\"},{\"type\":\"paragraph\",\"text\":\"2 ligne 3 ligne\"},{\"type\":\"paragraph\",\"text\":\"1 colonne\\n2 colonne\\n3 colonne\"},{\"type\":\"paragraph\",\"text\":\"4 ligne\"}]}",
+    "markdown": "## Test of figures\n\n# Figure 1: Chart\n\n2 ligne 3 ligne 1 colonne 2 colonne 3 colonne 4 ligne\n",
+    "plain": "Test of figures\n\n12\n\n10\n\n8\n\n6\n\n4\n\n2\n\n0\n1 ligne\n\nFigure 1: Chart\n\n2 ligne 3 ligne\n\n1 colonne\n2 colonne\n3 colonne\n\n4 ligne"
+  }
+}

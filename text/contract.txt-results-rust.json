@@ -1,0 +1,28 @@
+{
+  "file": "text/contract.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 5,
+      "character_count": 34
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "text/contract.txt",
+      "final_uri": "text/contract.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Test content for contract.txt file</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test content for contract.txt file\"}]}",
+    "markdown": "Test content for contract.txt file\n",
+    "plain": "Test content for contract.txt file"
+  }
+}

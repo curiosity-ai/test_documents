@@ -1,0 +1,23 @@
+{
+  "file": "vendored/docling/md/powerpoint_with_image.pptx.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Docling",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "vendored/docling/md/powerpoint_with_image.pptx.md",
+      "source_uri": "vendored/docling/md/powerpoint_with_image.pptx.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Docling</h1>\n<p>Image test</p>\n<p>Image linked to file</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Docling\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Image test\"},{\"type\":\"paragraph\",\"text\":\"Image linked to file\"}]}]}",
+    "markdown": "# Docling\n\nImage test\n\nImage linked to file\n",
+    "plain": "Docling\nImage test\n\nImage linked to file"
+  }
+}

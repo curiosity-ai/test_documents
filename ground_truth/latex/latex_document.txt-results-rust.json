@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/latex/latex_document.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 47,
+      "word_count": 129,
+      "character_count": 842
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/latex/latex_document.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/latex/latex_document.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>title: LaTeX Test Document</p>\n<p>author: Dr. Carol White and Prof. David Brown</p>\n<p>date: September 2025</p>\n<p>This is a LaTeX document for testing pandoc extraction. It includes mathematical equations and special formatting.</p>\n<p>Introduction</p>\n<p>LaTeX is widely used for academic and scientific documents. This document tests pandoc's ability to extract content and metadata from LaTeX sources.</p>\n<p>Mathematical Content</p>\n<p>The quadratic formula is given by:</p>\n<p>x = (-b +/- sqrt(b^2-4ac)) / 2a</p>\n<p>Inline math also works: E = mc^2.</p>\n<p>Lists and Formatting</p>\n<p>Enumerated List</p>\n<p>First item Second item with bold text Third item with italic text</p>\n<p>Itemized List</p>\n<p>Bullet point one Bullet point two Nested items: Sub-item A Sub-item B</p>\n<p>Tables</p>\n<p>Left Center Right A1 B1 C1 A2 B2 C2</p>\n<p>Sample Table</p>\n<p>Conclusion</p>\n<p>This document demonstrates LaTeX features for pandoc extraction testing.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"title: LaTeX Test Document\"},{\"type\":\"paragraph\",\"text\":\"author: Dr. Carol White and Prof. David Brown\"},{\"type\":\"paragraph\",\"text\":\"date: September 2025\"},{\"type\":\"paragraph\",\"text\":\"This is a LaTeX document for testing pandoc extraction. It includes mathematical equations and special formatting.\"},{\"type\":\"paragraph\",\"text\":\"Introduction\"},{\"type\":\"paragraph\",\"text\":\"LaTeX is widely used for academic and scientific documents. This document tests pandoc's ability to extract content and metadata from LaTeX sources.\"},{\"type\":\"paragraph\",\"text\":\"Mathematical Content\"},{\"type\":\"paragraph\",\"text\":\"The quadratic formula is given by:\"},{\"type\":\"paragraph\",\"text\":\"x = (-b +/- sqrt(b^2-4ac)) / 2a\"},{\"type\":\"paragraph\",\"text\":\"Inline math also works: E = mc^2.\"},{\"type\":\"paragraph\",\"text\":\"Lists and Formatting\"},{\"type\":\"paragraph\",\"text\":\"Enumerated List\"},{\"type\":\"paragraph\",\"text\":\"First item\\nSecond item with bold text\\nThird item with italic text\"},{\"type\":\"paragraph\",\"text\":\"Itemized List\"},{\"type\":\"paragraph\",\"text\":\"Bullet point one\\nBullet point two\\nNested items:\\n  Sub-item A\\n  Sub-item B\"},{\"type\":\"paragraph\",\"text\":\"Tables\"},{\"type\":\"paragraph\",\"text\":\"Left Center Right\\nA1 B1 C1\\nA2 B2 C2\"},{\"type\":\"paragraph\",\"text\":\"Sample Table\"},{\"type\":\"paragraph\",\"text\":\"Conclusion\"},{\"type\":\"paragraph\",\"text\":\"This document demonstrates LaTeX features for pandoc extraction testing.\"}]}",
+    "markdown": "title: LaTeX Test Document\n\nauthor: Dr. Carol White and Prof. David Brown\n\ndate: September 2025\n\nThis is a LaTeX document for testing pandoc extraction. It includes mathematical equations and special formatting.\n\nIntroduction\n\nLaTeX is widely used for academic and scientific documents. This document tests pandoc's ability to extract content and metadata from LaTeX sources.\n\nMathematical Content\n\nThe quadratic formula is given by:\n\nx = (-b +/- sqrt(b^2-4ac)) / 2a\n\nInline math also works: E = mc^2.\n\nLists and Formatting\n\nEnumerated List\n\nFirst item Second item with bold text Third item with italic text\n\nItemized List\n\nBullet point one Bullet point two Nested items: Sub-item A Sub-item B\n\nTables\n\nLeft Center Right A1 B1 C1 A2 B2 C2\n\nSample Table\n\nConclusion\n\nThis document demonstrates LaTeX features for pandoc extraction testing.\n",
+    "plain": "title: LaTeX Test Document\n\nauthor: Dr. Carol White and Prof. David Brown\n\ndate: September 2025\n\nThis is a LaTeX document for testing pandoc extraction. It includes mathematical equations and special formatting.\n\nIntroduction\n\nLaTeX is widely used for academic and scientific documents. This document tests pandoc's ability to extract content and metadata from LaTeX sources.\n\nMathematical Content\n\nThe quadratic formula is given by:\n\nx = (-b +/- sqrt(b^2-4ac)) / 2a\n\nInline math also works: E = mc^2.\n\nLists and Formatting\n\nEnumerated List\n\nFirst item\nSecond item with bold text\nThird item with italic text\n\nItemized List\n\nBullet point one\nBullet point two\nNested items:\n  Sub-item A\n  Sub-item B\n\nTables\n\nLeft Center Right\nA1 B1 C1\nA2 B2 C2\n\nSample Table\n\nConclusion\n\nThis document demonstrates LaTeX features for pandoc extraction testing."
+  }
+}

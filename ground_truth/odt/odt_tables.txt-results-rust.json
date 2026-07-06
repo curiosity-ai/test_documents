@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/odt/odt_tables.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 7,
+      "word_count": 7,
+      "character_count": 51
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/odt/odt_tables.txt",
+      "final_uri": "ground_truth/odt/odt_tables.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Table header</p>\n<p>Another header</p>\n<p>Content</p>\n<p>More content</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Table header\"},{\"type\":\"paragraph\",\"text\":\"Another header\"},{\"type\":\"paragraph\",\"text\":\"Content\"},{\"type\":\"paragraph\",\"text\":\"More content\"}]}",
+    "markdown": "Table header\n\nAnother header\n\nContent\n\nMore content\n",
+    "plain": "Table header\n\nAnother header\n\nContent\n\nMore content"
+  }
+}

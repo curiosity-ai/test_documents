@@ -1,0 +1,22 @@
+{
+  "file": "vendored/docling/groundtruth/docling_v2/example_06.html.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "vendored/docling/groundtruth/docling_v2/example_06.html.md",
+      "source_uri": "vendored/docling/groundtruth/docling_v2/example_06.html.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>This is a div with text.</p>\n<p>This is another div with text.</p>\n<p>This is a regular paragraph.</p>\n<p>This is a third div</p>\n<p>with a new line.</p>\n<p>Heading for the details element</p>\n<p>Description of the details element.</p>\n<p>This is a fourth div with a <strong>bold</strong> paragraph.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a div with text.\"},{\"type\":\"paragraph\",\"text\":\"This is another div with text.\"},{\"type\":\"paragraph\",\"text\":\"This is a regular paragraph.\"},{\"type\":\"paragraph\",\"text\":\"This is a third div\"},{\"type\":\"paragraph\",\"text\":\"with a new line.\"},{\"type\":\"paragraph\",\"text\":\"Heading for the details element\"},{\"type\":\"paragraph\",\"text\":\"Description of the details element.\"},{\"type\":\"paragraph\",\"text\":\"This is a fourth div with a bold paragraph.\"}]}",
+    "markdown": "This is a div with text.\n\nThis is another div with text.\n\nThis is a regular paragraph.\n\nThis is a third div\n\nwith a new line.\n\nHeading for the details element\n\nDescription of the details element.\n\nThis is a fourth div with a **bold** paragraph.\n",
+    "plain": "This is a div with text.\n\nThis is another div with text.\n\nThis is a regular paragraph.\n\nThis is a third div\n\nwith a new line.\n\nHeading for the details element\n\nDescription of the details element.\n\nThis is a fourth div with a bold paragraph."
+  }
+}

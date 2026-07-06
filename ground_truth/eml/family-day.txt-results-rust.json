@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/family-day.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 18,
+      "word_count": 52,
+      "character_count": 364
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/eml/family-day.txt",
+      "final_uri": "ground_truth/eml/family-day.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Family Day From: &quot;Mallori Harrell&quot; &lt;mallori@unstructured.io&gt; To: &quot;Mallori Harrell&quot; &lt;mallori@unstructured.io&gt; Date: Wed, 21 Dec 2022 10:28:53 -0600 Hi All,</p>\n<p>Get excited for our first annual family day!</p>\n<p>There will be face painting, a petting zoo, funnel cake and more.</p>\n<p>Make sure to RSVP!</p>\n<p>Best.</p>\n<p>-- Mallori Harrell Unstructured Technologies Data Scientist</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Family Day\\nFrom: \\\"Mallori Harrell\\\" <mallori@unstructured.io>\\nTo: \\\"Mallori Harrell\\\" <mallori@unstructured.io>\\nDate: Wed, 21 Dec 2022 10:28:53 -0600\\nHi All,\"},{\"type\":\"paragraph\",\"text\":\"Get excited for our first annual family day!\"},{\"type\":\"paragraph\",\"text\":\"There will be face painting, a petting zoo, funnel cake and more.\"},{\"type\":\"paragraph\",\"text\":\"Make sure to RSVP!\"},{\"type\":\"paragraph\",\"text\":\"Best.\"},{\"type\":\"paragraph\",\"text\":\"--\\nMallori Harrell\\nUnstructured Technologies\\nData Scientist\"}]}",
+    "markdown": "Subject: Family Day From: \"Mallori Harrell\" \\<mallori@unstructured.io\\> To: \"Mallori Harrell\" \\<mallori@unstructured.io\\> Date: Wed, 21 Dec 2022 10:28:53 -0600 Hi All,\n\nGet excited for our first annual family day\\!\n\nThere will be face painting, a petting zoo, funnel cake and more.\n\nMake sure to RSVP\\!\n\nBest.\n\n\\-- Mallori Harrell Unstructured Technologies Data Scientist\n",
+    "plain": "Subject: Family Day\nFrom: \"Mallori Harrell\" <mallori@unstructured.io>\nTo: \"Mallori Harrell\" <mallori@unstructured.io>\nDate: Wed, 21 Dec 2022 10:28:53 -0600\nHi All,\n\nGet excited for our first annual family day!\n\nThere will be face painting, a petting zoo, funnel cake and more.\n\nMake sure to RSVP!\n\nBest.\n\n--\nMallori Harrell\nUnstructured Technologies\nData Scientist"
+  }
+}

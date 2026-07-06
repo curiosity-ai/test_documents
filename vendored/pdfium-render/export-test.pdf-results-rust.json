@@ -1,0 +1,210 @@
+{
+  "file": "vendored/pdfium-render/export-test.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2021-12-31T10:54:28Z",
+    "modified_at": "2021-12-31T10:54:28Z",
+    "created_by": "pdftk-java 3.3.2",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.6",
+      "producer": "itext-paulo-155 (itextpdf.sf.net - lowagie.com)",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 842,
+      "page_count": 7
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/pdfium-render/export-test.pdf",
+      "source_uri": "vendored/pdfium-render/export-test.pdf",
+      "source_kind": "uri",
+      "source_index": 0,
+      "extraction_method": "native"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Basso Bass 4 [ ] 2",
+          ""
+        ],
+        [
+          "QVem",
+          "vidifti"
+        ]
+      ],
+      "markdown": "| Basso Bass 4 [ ] 2 |  |\n| --- | --- |\n| QVem | vidifti |\n",
+      "page_number": 3,
+      "bounding_box": {
+        "x0": 76.0,
+        "y0": 598.1739501953125,
+        "x1": 343.0,
+        "y1": 633.1739501953125
+      }
+    },
+    {
+      "cells": [
+        [
+          "7",
+          "8",
+          "9",
+          ""
+        ],
+        [
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "di res,",
+          "ci te, di",
+          "ci te,",
+          "an"
+        ]
+      ],
+      "markdown": "| 7 | 8 | 9 |  |\n| --- | --- | --- | --- |\n| S |  |  |  |\n| di res, | ci te, di | ci te, | an |\n",
+      "page_number": 3,
+      "bounding_box": {
+        "x0": 69.0,
+        "y0": 321.1739501953125,
+        "x1": 498.0,
+        "y1": 361.1739501953125
+      }
+    },
+    {
+      "cells": [
+        [
+          "Cento",
+          "Concerti Ecclesiastici",
+          "",
+          "a Una, a Due, a Tre, e a Quattro voci"
+        ],
+        [
+          "Giacomo",
+          "Vincenti,",
+          "Venice,",
+          "1605"
+        ],
+        [
+          "Edited",
+          "by Alastair",
+          "Carey",
+          ""
+        ]
+      ],
+      "markdown": "| Cento | Concerti Ecclesiastici |  | a Una, a Due, a Tre, e a Quattro voci |\n| --- | --- | --- | --- |\n| Giacomo | Vincenti, | Venice, | 1605 |\n| Edited | by Alastair | Carey |  |\n",
+      "page_number": 6,
+      "bounding_box": {
+        "x0": 57.0,
+        "y0": 356.97198486328125,
+        "x1": 260.0,
+        "y1": 387.97198486328125
+      }
+    },
+    {
+      "cells": [
+        [
+          "Source",
+          "is the 1605",
+          "reprint",
+          "of the",
+          "original",
+          "1602 publication.",
+          "",
+          "Item #2",
+          "in the",
+          "source.",
+          "Folio pages",
+          "f5r (binding",
+          "B1) in both",
+          "Canto",
+          "and"
+        ],
+        [
+          "Basso",
+          "partbooks.",
+          "The Basso",
+          "partbook",
+          "is",
+          "barred; the",
+          "Canto",
+          "partbook",
+          "is not.",
+          "The",
+          "piece is marked",
+          "ªCanto",
+          "solo, ó Tenoreº",
+          "in",
+          "the Basso"
+        ],
+        [
+          "partbook,",
+          "indicating",
+          "it",
+          "can be sung",
+          "either",
+          "by a Soprano",
+          "",
+          "or by a Tenor",
+          "down",
+          "an",
+          "octave.",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| Source | is the 1605 | reprint | of the | original | 1602 publication. |  | Item #2 | in the | source. | Folio pages | f5r (binding | B1) in both | Canto | and |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Basso | partbooks. | The Basso | partbook | is | barred; the | Canto | partbook | is not. | The | piece is marked | ªCanto | solo, ó Tenoreº | in | the Basso |\n| partbook, | indicating | it | can be sung | either | by a Soprano |  | or by a Tenor | down | an | octave. |  |  |  |  |\n",
+      "page_number": 6,
+      "bounding_box": {
+        "x0": 57.0,
+        "y0": 315.97198486328125,
+        "x1": 508.0,
+        "y1": 346.97198486328125
+      }
+    },
+    {
+      "cells": [
+        [
+          "V. Quem vidistis,",
+          "pastores,",
+          "What did you",
+          "see, shepherds,"
+        ],
+        [
+          "dicite, annuntiate",
+          "nobis:",
+          "speak, tell us:",
+          ""
+        ],
+        [
+          "in terris quis",
+          "apparuit?",
+          "who has appeared",
+          "on earth?"
+        ]
+      ],
+      "markdown": "| V. Quem vidistis, | pastores, | What did you | see, shepherds, |\n| --- | --- | --- | --- |\n| dicite, annuntiate | nobis: | speak, tell us: |  |\n| in terris quis | apparuit? | who has appeared | on earth? |\n",
+      "page_number": 6,
+      "bounding_box": {
+        "x0": 57.0,
+        "y0": 270.97198486328125,
+        "x1": 324.0,
+        "y1": 301.97198486328125
+      }
+    }
+  ],
+  "content": {
+    "html": "<h2>Ludovico Grossi da Viadana</h2>\n<h3>c. 1560 – 1627</h3>\n<h2>Quem vidistis, pastores?</h2>\n<h2>from &quot;Cento Concerti Ecclesiastici a Una, a Due, a Tre, e a Quattro voci&quot; (1602)</h2>\n<p>E D I T I O N</p>\n<h1>Sarum</h1>\n<h2>3</h2>\n<h2>Quem vidistis, pastores?</h2>\n<h3>Ludovico Grossi da Viadana</h3>\n<h2>2</h2>\n<h2>4</h2>\n<p><strong>Soprano Canto</strong> <strong><em>ij QVem vidiftis paftores</em></strong> <strong>stis, pa vi ªQuem di 3 4 S res, sto Org.</strong> <strong><em>c. 1560 ± 1627</em></strong></p>\n<h2>2</h2>\n<p><strong>4 Organ 2</strong></p>\n<table>\n<thead>\n<tr>\n<th>Basso Bass 4 [ ] 2</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>QVem</td>\n<td>vidifti</td>\n</tr>\n</tbody>\n</table>\n<p><strong>5</strong></p>\n<h2>6</h2>\n<p><strong><em>vi quem di</em></strong> <strong>Org.</strong></p>\n<p><strong>stis, pa</strong></p>\n<p><strong><em>sto</em></strong> <strong>bis: no te</strong></p>\n<table>\n<thead>\n<tr>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>S</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>di res,</td>\n<td>ci te, di</td>\n<td>ci te,</td>\n<td>an</td>\n</tr>\n</tbody>\n</table>\n<p><strong>10 11</strong></p>\n<h2>13</h2>\n<h2>12</h2>\n<ul>\n<li><strong>(1) S no bis, te nun ti a</strong></li>\n</ul>\n<p><strong>ti an nun a te no bis, nun ti an a Org.</strong></p>\n<p><strong>1 Canto, bar 10 et al: source consistently underlays ªannunciateº rather than ªannuntiateº.</strong></p>\n<h2>4</h2>\n<h2>14</h2>\n<p><strong>S ter in Org.</strong></p>\n<h2>18</h2>\n<p><strong>S ap quis pa Org.</strong></p>\n<h2>21</h2>\n<p><strong>S pa Org.</strong></p>\n<h2>25</h2>\n<p><strong>S mus,</strong> <strong><em>na</em></strong> <strong>Org.</strong></p>\n<h2>15</h2>\n<p><strong>quis ap ris</strong></p>\n<h2>19</h2>\n<p><strong>23 22 it?º ru 26 27 di mus, vi tum</strong></p>\n<h2>16</h2>\n<p><strong>ru it, pa</strong></p>\n<h2>20</h2>\n<p><strong>ru it,</strong></p>\n<h2>24</h2>\n<p><strong>Quem vidistis, pastores?</strong></p>\n<h2>17</h2>\n<p><strong>ap quis tum di ªNa vi</strong></p>\n<h2>28</h2>\n<p><strong>na tum vi</strong></p>\n<h2>Ludovico Grossi da Viadana</h2>\n<h2>29</h2>\n<h2>S</h2>\n<p><strong>Org.</strong></p>\n<h2>33</h2>\n<h2>S</h2>\n<p><strong>Org.</strong></p>\n<h2>37</h2>\n<h2>S</h2>\n<p><strong>Org.</strong></p>\n<h2>41</h2>\n<h2>S</h2>\n<p><strong>Org. mus, di et minum,</strong> <strong><em>et</em></strong> <strong>col lau dan tes Do</strong></p>\n<h2>30</h2>\n<p><strong>cho et</strong></p>\n<h2>34</h2>\n<p><strong>cho ros An</strong></p>\n<h2>38</h2>\n<p><strong>An cho ros</strong></p>\n<h2>42</h2>\n<p><strong>num.º mi</strong></p>\n<h2>31</h2>\n<p><strong>ge ros An</strong></p>\n<h2>35</h2>\n<p><strong>gel lo</strong></p>\n<h2>39</h2>\n<p><strong>ge lo</strong></p>\n<h2>Al</h2>\n<h2>5</h2>\n<h2>32</h2>\n<p><strong>col laudan rum tes lo Do</strong></p>\n<h2>36</h2>\n<p><strong>col lau tes Do mi num, dan rum</strong></p>\n<h2>40</h2>\n<p><strong>dan rum col lau mi num, tes Do</strong></p>\n<h2>43</h2>\n<p><strong>le</strong></p>\n<h2>6</h2>\n<p><strong>Quem vidistis, pastores? al ia, 45 46 44 S lu le lu al ia, Org.</strong></p>\n<p><strong><em>Possible editorial alternative underlay</em></strong> <strong>49 48 le lu ia, al lu - al le</strong></p>\n<h2>50</h2>\n<h2>47</h2>\n<p><strong>S le lu ia, lu le al Org. (2)</strong> <strong><em>We saw the new-born,</em></strong> <strong>R. Natum vidimus,</strong> <strong><em>and choirs of angels praising the Lord.</em></strong> <strong>et choros angelorum collaudantes Dominum.</strong> <strong><em>Alleluia.</em></strong> <strong>Alleluia.</strong> <strong><em>Third responsory 2</em></strong> <strong>Basso, bar 47: one tone lower in source.</strong></p>\n<p><strong>ia.</strong> <strong><em>at Matins on Christmas Day</em></strong></p>\n<table>\n<thead>\n<tr>\n<th>Cento</th>\n<th>Concerti Ecclesiastici</th>\n<th></th>\n<th>a Una, a Due, a Tre, e a Quattro voci</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Giacomo</td>\n<td>Vincenti,</td>\n<td>Venice,</td>\n<td>1605</td>\n</tr>\n<tr>\n<td>Edited</td>\n<td>by Alastair</td>\n<td>Carey</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Source</th>\n<th>is the 1605</th>\n<th>reprint</th>\n<th>of the</th>\n<th>original</th>\n<th>1602 publication.</th>\n<th></th>\n<th>Item #2</th>\n<th>in the</th>\n<th>source.</th>\n<th>Folio pages</th>\n<th>f5r (binding</th>\n<th>B1) in both</th>\n<th>Canto</th>\n<th>and</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Basso</td>\n<td>partbooks.</td>\n<td>The Basso</td>\n<td>partbook</td>\n<td>is</td>\n<td>barred; the</td>\n<td>Canto</td>\n<td>partbook</td>\n<td>is not.</td>\n<td>The</td>\n<td>piece is marked</td>\n<td>ªCanto</td>\n<td>solo, ó Tenoreº</td>\n<td>in</td>\n<td>the Basso</td>\n</tr>\n<tr>\n<td>partbook,</td>\n<td>indicating</td>\n<td>it</td>\n<td>can be sung</td>\n<td>either</td>\n<td>by a Soprano</td>\n<td></td>\n<td>or by a Tenor</td>\n<td>down</td>\n<td>an</td>\n<td>octave.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>V. Quem vidistis,</th>\n<th>pastores,</th>\n<th>What did you</th>\n<th>see, shepherds,</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>dicite, annuntiate</td>\n<td>nobis:</td>\n<td>speak, tell us:</td>\n<td></td>\n</tr>\n<tr>\n<td>in terris quis</td>\n<td>apparuit?</td>\n<td>who has appeared</td>\n<td>on earth?</td>\n</tr>\n</tbody>\n</table>\n<p>E D I T I O N</p>\n<h1>Sarum</h1>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Ludovico Grossi da Viadana   c. 1560 – 1627\"},{\"type\":\"paragraph\",\"text\":\"Quem vidistis, pastores?\\nfrom “Cento Concerti Ecclesiastici a Una, a Due,\\na Tre, e a Quattro voci” (1602)\"},{\"type\":\"paragraph\",\"text\":\"E  D  I  T  I  O  N\"},{\"type\":\"paragraph\",\"text\":\"Sarum\"},{\"type\":\"paragraph\",\"text\":\"3\\nQuem vidistis, pastores?\\nLudovico Grossi da Viadana c. 1560 ± 1627\\n\\t \\t 2\\nCanto   \\t \\n \\t  Soprano 42\\nQVem vidiftis paftores  ij ªQuem vi di stis, pa\\nOrgan   42\\n\\t \\t\\t\\nBasso \\r \\t   Bass [42]\\nQVem vidifti\\n3 4 5 6\\nS\\nsto res, quem  vi di stis, pa sto\\nOrg. \\n7 \\n 8 9\\nS\\nres, di ci te, di ci te, an\"},{\"type\":\"paragraph\",\"text\":\"Org. \\n10 (1) 11 12 13\\nS\\nnun ti a te no bis, an nun ti a te no bis, an nun ti a te no bis:\\n \\nOrg.\"},{\"type\":\"paragraph\",\"text\":\"1 Canto, bar 10 et al: source consistently underlays ªannunciateº rather than ªannuntiateº.\"},{\"type\":\"paragraph\",\"text\":\"4  Quem vidistis, pastores?\\n14 15 16 17\\nS\\nin ter ris quis ap pa ru it,\"},{\"type\":\"paragraph\",\"text\":\"Org.\"},{\"type\":\"paragraph\",\"text\":\"18 19 20\\nS\\nquis ap pa ru it, quis ap\\n\\t\\nOrg. \\n21 22 23 24\\nS\\npa ru it?º ªNa tum vi di\"},{\"type\":\"paragraph\",\"text\":\"Org.\"},{\"type\":\"paragraph\",\"text\":\"25 26 27 28\\nS\\nmus, na tum vi di mus, na tum vi\\nOrg.\"},{\"type\":\"paragraph\",\"text\":\"Ludovico Grossi da Viadana  5\\n29 30 31 32\\nS\\ndi mus, et cho ros An ge lo  rum col laudan tes Do\"},{\"type\":\"paragraph\",\"text\":\"Org. \\n33 34 35 36\\nS  \\nminum, et cho ros An gel lo rum col lau dan tes Do mi num,\"},{\"type\":\"paragraph\",\"text\":\"Org. \\n37 38 39 40\\nS\\net cho ros An ge lo rum col lau dan tes Do mi num,\"},{\"type\":\"paragraph\",\"text\":\"Org.\"},{\"type\":\"paragraph\",\"text\":\"41 42 43\\nS\\ncol lau dan tes Do mi num.º Al le\"},{\"type\":\"paragraph\",\"text\":\"Org.\"},{\"type\":\"paragraph\",\"text\":\"6  Quem vidistis, pastores?\\n44 45 46\\nS\\nlu ia, al le lu ia, al\"},{\"type\":\"paragraph\",\"text\":\"Org.\"},{\"type\":\"paragraph\",\"text\":\"Possible editorial alternative underlay\\n \\n48 49 50\\n\\r\\nal le lu ia, al le lu     -\\n47\\nS\\nle lu ia, al le lu ia.\\nOrg.  (2)\\nCento Concerti Ecclesiastici a Una, a Due, a Tre, e a Quattro voci\\nGiacomo Vincenti, Venice, 1605\\nEdited by Alastair Carey\\nSource is the 1605 reprint of the original 1602 publication. Item #2 in the source. Folio pages f5r (binding B1) in both Canto and\\nBasso partbooks. The Basso partbook is barred; the Canto partbook is not. The piece is marked ªCanto solo, ó Tenoreº in the Basso\\npartbook, indicating it can be sung either by a Soprano or by a Tenor down an octave.\\nV.Quem vidistis, pastores, What did you see, shepherds,\\ndicite, annuntiate nobis: speak, tell us:\\nin terris quis apparuit? who has appeared on earth?\\nR.Natum vidimus, We saw the new-born,\\net choros angelorum collaudantes Dominum. and choirs of angels praising the Lord.\\nAlleluia. Alleluia.\\nThird responsory at Matins on Christmas Day\\n2 Basso, bar 47: one tone lower in source.\"},{\"type\":\"paragraph\",\"text\":\"E  D  I  T  I  O  N\\nSarum\"},{\"type\":\"table\",\"headers\":[\"Basso Bass 4 [ ] 2\",\"\"],\"rows\":[[\"QVem\",\"vidifti\"]]},{\"type\":\"table\",\"headers\":[\"7\",\"8\",\"9\",\"\"],\"rows\":[[\"S\",\"\",\"\",\"\"],[\"di res,\",\"ci te, di\",\"ci te,\",\"an\"]]},{\"type\":\"table\",\"headers\":[\"Cento\",\"Concerti Ecclesiastici\",\"\",\"a Una, a Due, a Tre, e a Quattro voci\"],\"rows\":[[\"Giacomo\",\"Vincenti,\",\"Venice,\",\"1605\"],[\"Edited\",\"by Alastair\",\"Carey\",\"\"]]},{\"type\":\"table\",\"headers\":[\"Source\",\"is the 1605\",\"reprint\",\"of the\",\"original\",\"1602 publication.\",\"\",\"Item #2\",\"in the\",\"source.\",\"Folio pages\",\"f5r (binding\",\"B1) in both\",\"Canto\",\"and\"],\"rows\":[[\"Basso\",\"partbooks.\",\"The Basso\",\"partbook\",\"is\",\"barred; the\",\"Canto\",\"partbook\",\"is not.\",\"The\",\"piece is marked\",\"ªCanto\",\"solo, ó Tenoreº\",\"in\",\"the Basso\"],[\"partbook,\",\"indicating\",\"it\",\"can be sung\",\"either\",\"by a Soprano\",\"\",\"or by a Tenor\",\"down\",\"an\",\"octave.\",\"\",\"\",\"\",\"\"]]},{\"type\":\"table\",\"headers\":[\"V. Quem vidistis,\",\"pastores,\",\"What did you\",\"see, shepherds,\"],\"rows\":[[\"dicite, annuntiate\",\"nobis:\",\"speak, tell us:\",\"\"],[\"in terris quis\",\"apparuit?\",\"who has appeared\",\"on earth?\"]]}]}",
+    "markdown": "## Ludovico Grossi da Viadana\n\n### c. 1560 – 1627\n\n## Quem vidistis, pastores?\n\n## from \"Cento Concerti Ecclesiastici a Una, a Due, a Tre, e a Quattro voci\" (1602)\n\nE D I T I O N\n\n# Sarum\n\n## 3\n\n## Quem vidistis, pastores?\n\n### Ludovico Grossi da Viadana\n\n## 2\n\n## 4\n\n**Soprano Canto** ***ij QVem vidiftis paftores*** **stis, pa vi ªQuem di 3 4 S res, sto Org.** ***c. 1560 ± 1627***\n\n## 2\n\n**4 Organ 2**\n\n| Basso Bass 4 [ ] 2 |  |\n| --- | --- |\n| QVem | vidifti |\n\n**5**\n\n## 6\n\n***vi quem di*** **Org.**\n\n**stis, pa**\n\n***sto*** **bis: no te**\n\n| 7 | 8 | 9 |  |\n| --- | --- | --- | --- |\n| S |  |  |  |\n| di res, | ci te, di | ci te, | an |\n\n**10 11**\n\n## 13\n\n## 12\n\n- **(1) S no bis, te nun ti a**\n\n**ti an nun a te no bis, nun ti an a Org.**\n\n**1 Canto, bar 10 et al: source consistently underlays ªannunciateº rather than ªannuntiateº.**\n\n## 4\n\n## 14\n\n**S ter in Org.**\n\n## 18\n\n**S ap quis pa Org.**\n\n## 21\n\n**S pa Org.**\n\n## 25\n\n**S mus,** ***na*** **Org.**\n\n## 15\n\n**quis ap ris**\n\n## 19\n\n**23 22 it?º ru 26 27 di mus, vi tum**\n\n## 16\n\n**ru it, pa**\n\n## 20\n\n**ru it,**\n\n## 24\n\n**Quem vidistis, pastores?**\n\n## 17\n\n**ap quis tum di ªNa vi**\n\n## 28\n\n**na tum vi**\n\n## Ludovico Grossi da Viadana\n\n## 29\n\n## S\n\n**Org.**\n\n## 33\n\n## S\n\n**Org.**\n\n## 37\n\n## S\n\n**Org.**\n\n## 41\n\n## S\n\n**Org. mus, di et minum,** ***et*** **col lau dan tes Do**\n\n## 30\n\n**cho et**\n\n## 34\n\n**cho ros An**\n\n## 38\n\n**An cho ros**\n\n## 42\n\n**num.º mi**\n\n## 31\n\n**ge ros An**\n\n## 35\n\n**gel lo**\n\n## 39\n\n**ge lo**\n\n## Al\n\n## 5\n\n## 32\n\n**col laudan rum tes lo Do**\n\n## 36\n\n**col lau tes Do mi num, dan rum**\n\n## 40\n\n**dan rum col lau mi num, tes Do**\n\n## 43\n\n**le**\n\n## 6\n\n**Quem vidistis, pastores? al ia, 45 46 44 S lu le lu al ia, Org.**\n\n***Possible editorial alternative underlay*** **49 48 le lu ia, al lu - al le**\n\n## 50\n\n## 47\n\n**S le lu ia, lu le al Org. (2)** ***We saw the new-born,*** **R. Natum vidimus,** ***and choirs of angels praising the Lord.*** **et choros angelorum collaudantes Dominum.** ***Alleluia.*** **Alleluia.** ***Third responsory 2*** **Basso, bar 47: one tone lower in source.**\n\n**ia.** ***at Matins on Christmas Day***\n\n| Cento | Concerti Ecclesiastici |  | a Una, a Due, a Tre, e a Quattro voci |\n| --- | --- | --- | --- |\n| Giacomo | Vincenti, | Venice, | 1605 |\n| Edited | by Alastair | Carey |  |\n\n| Source | is the 1605 | reprint | of the | original | 1602 publication. |  | Item \\#2 | in the | source. | Folio pages | f5r (binding | B1) in both | Canto | and |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Basso | partbooks. | The Basso | partbook | is | barred; the | Canto | partbook | is not. | The | piece is marked | ªCanto | solo, ó Tenoreº | in | the Basso |\n| partbook, | indicating | it | can be sung | either | by a Soprano |  | or by a Tenor | down | an | octave. |  |  |  |  |\n\n| V. Quem vidistis, | pastores, | What did you | see, shepherds, |\n| --- | --- | --- | --- |\n| dicite, annuntiate | nobis: | speak, tell us: |  |\n| in terris quis | apparuit? | who has appeared | on earth? |\n\nE D I T I O N\n\n# Sarum\n",
+    "plain": "Ludovico Grossi da Viadana   c. 1560 – 1627\n\nQuem vidistis, pastores?\nfrom “Cento Concerti Ecclesiastici a Una, a Due,\na Tre, e a Quattro voci” (1602)\n\nE  D  I  T  I  O  N\n\nSarum\n\n3\nQuem vidistis, pastores?\nLudovico Grossi da Viadana c. 1560 ± 1627\n\t \t 2\nCanto   \t \n \t  Soprano 42\nQVem vidiftis paftores  ij ªQuem vi di stis, pa\nOrgan   42\n\t \t\t\nBasso \r \t   Bass [42]\nQVem vidifti\n3 4 5 6\nS\nsto res, quem  vi di stis, pa sto\nOrg. \n7 \n 8 9\nS\nres, di ci te, di ci te, an\n\nOrg. \n10 (1) 11 12 13\nS\nnun ti a te no bis, an nun ti a te no bis, an nun ti a te no bis:\n \nOrg.\n\n1 Canto, bar 10 et al: source consistently underlays ªannunciateº rather than ªannuntiateº.\n\n4  Quem vidistis, pastores?\n14 15 16 17\nS\nin ter ris quis ap pa ru it,\n\nOrg.\n\n18 19 20\nS\nquis ap pa ru it, quis ap\n\t\nOrg. \n21 22 23 24\nS\npa ru it?º ªNa tum vi di\n\nOrg.\n\n25 26 27 28\nS\nmus, na tum vi di mus, na tum vi\nOrg.\n\nLudovico Grossi da Viadana  5\n29 30 31 32\nS\ndi mus, et cho ros An ge lo  rum col laudan tes Do\n\nOrg. \n33 34 35 36\nS  \nminum, et cho ros An gel lo rum col lau dan tes Do mi num,\n\nOrg. \n37 38 39 40\nS\net cho ros An ge lo rum col lau dan tes Do mi num,\n\nOrg.\n\n41 42 43\nS\ncol lau dan tes Do mi num.º Al le\n\nOrg.\n\n6  Quem vidistis, pastores?\n44 45 46\nS\nlu ia, al le lu ia, al\n\nOrg.\n\nPossible editorial alternative underlay\n \n48 49 50\n\r\nal le lu ia, al le lu     -\n47\nS\nle lu ia, al le lu ia.\nOrg.  (2)\nCento Concerti Ecclesiastici a Una, a Due, a Tre, e a Quattro voci\nGiacomo Vincenti, Venice, 1605\nEdited by Alastair Carey\nSource is the 1605 reprint of the original 1602 publication. Item #2 in the source. Folio pages f5r (binding B1) in both Canto and\nBasso partbooks. The Basso partbook is barred; the Canto partbook is not. The piece is marked ªCanto solo, ó Tenoreº in the Basso\npartbook, indicating it can be sung either by a Soprano or by a Tenor down an octave.\nV.Quem vidistis, pastores, What did you see, shepherds,\ndicite, annuntiate nobis: speak, tell us:\nin terris quis apparuit? who has appeared on earth?\nR.Natum vidimus, We saw the new-born,\net choros angelorum collaudantes Dominum. and choirs of angels praising the Lord.\nAlleluia. Alleluia.\nThird responsory at Matins on Christmas Day\n2 Basso, bar 47: one tone lower in source.\n\nE  D  I  T  I  O  N\nSarum\n\nBasso Bass 4 [ ] 2 \nQVem vidifti\n\n7 8 9 \nS   \ndi res, ci te, di ci te, an\n\nCento Concerti Ecclesiastici  a Una, a Due, a Tre, e a Quattro voci\nGiacomo Vincenti, Venice, 1605\nEdited by Alastair Carey \n\nSource is the 1605 reprint of the original 1602 publication.  Item #2 in the source. Folio pages f5r (binding B1) in both Canto and\nBasso partbooks. The Basso partbook is barred; the Canto partbook is not. The piece is marked ªCanto solo, ó Tenoreº in the Basso\npartbook, indicating it can be sung either by a Soprano  or by a Tenor down an octave.    \n\nV. Quem vidistis, pastores, What did you see, shepherds,\ndicite, annuntiate nobis: speak, tell us: \nin terris quis apparuit? who has appeared on earth?"
+  }
+}

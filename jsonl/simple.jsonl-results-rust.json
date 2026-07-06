@@ -1,0 +1,25 @@
+{
+  "file": "jsonl/simple.jsonl",
+  "mime_type": "application/x-ndjson",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "jsonl/simple.jsonl",
+      "data_format": "jsonl",
+      "field_count": 3,
+      "source_kind": "uri",
+      "source_index": 0,
+      "name": "Carol",
+      "source_uri": "jsonl/simple.jsonl"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<pre lang=\"json\"><code>[\n  {\n    &quot;name&quot;: &quot;Alice&quot;,\n    &quot;age&quot;: 30\n  },\n  {\n    &quot;name&quot;: &quot;Bob&quot;,\n    &quot;age&quot;: 25\n  },\n  {\n    &quot;name&quot;: &quot;Carol&quot;,\n    &quot;age&quot;: 35\n  }\n]</code></pre>\n",
+    "json": "{\"body\":[{\"type\":\"code\",\"text\":\"[\\n  {\\n    \\\"name\\\": \\\"Alice\\\",\\n    \\\"age\\\": 30\\n  },\\n  {\\n    \\\"name\\\": \\\"Bob\\\",\\n    \\\"age\\\": 25\\n  },\\n  {\\n    \\\"name\\\": \\\"Carol\\\",\\n    \\\"age\\\": 35\\n  }\\n]\",\"language\":\"json\"}]}",
+    "markdown": "```json\n[\n  {\n    \"name\": \"Alice\",\n    \"age\": 30\n  },\n  {\n    \"name\": \"Bob\",\n    \"age\": 25\n  },\n  {\n    \"name\": \"Carol\",\n    \"age\": 35\n  }\n]\n```\n",
+    "plain": "[\n  {\n    \"name\": \"Alice\",\n    \"age\": 30\n  },\n  {\n    \"name\": \"Bob\",\n    \"age\": 25\n  },\n  {\n    \"name\": \"Carol\",\n    \"age\": 35\n  }\n]"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "file": "jats/sample_article.nxml",
+  "mime_type": "application/octet-stream",
+  "success": false,
+  "error": "Unsupported format: Unknown extension: .nxml",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "file": "typst/minimal.typ",
+  "mime_type": "application/x-typst",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "typst/minimal.typ",
+      "source_index": 0,
+      "final_uri": "typst/minimal.typ"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>= Hello World</h1>\n<p>This is a minimal Typst document with just a heading and some text.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"= Hello World\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a minimal Typst document with just a heading and some text.\"}]}]}",
+    "markdown": "# = Hello World\n\nThis is a minimal Typst document with just a heading and some text.\n",
+    "plain": "= Hello World\nThis is a minimal Typst document with just a heading and some text."
+  }
+}

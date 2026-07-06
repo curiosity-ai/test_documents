@@ -1,0 +1,32 @@
+{
+  "file": "pdf/flattened_form.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "extraction_method": "native",
+      "source_index": 0,
+      "source_uri": "pdf/flattened_form.pdf",
+      "final_uri": "pdf/flattened_form.pdf"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Name: Jane Doe</h1>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Name: Jane Doe\"}]}",
+    "markdown": "# Name: Jane Doe\n",
+    "plain": "Name: Jane Doe"
+  }
+}

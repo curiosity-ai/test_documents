@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/odt/bold.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/odt/bold.md",
+      "source_uri": "ground_truth/odt/bold.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Here comes <strong>bold</strong> text</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Here comes bold text\"}]}",
+    "markdown": "Here comes **bold** text\n",
+    "plain": "Here comes bold text"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "file": "rtf/unicode.rtf",
+  "mime_type": "application/rtf",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "character_count": 11,
+      "word_count": 1,
+      "final_uri": "rtf/unicode.rtf",
+      "source_kind": "uri",
+      "source_uri": "rtf/unicode.rtf",
+      "line_count": 1,
+      "paragraph_count": 1
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>“hi”‘hi’αä</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"“hi”‘hi’αä\"}]}",
+    "markdown": "“hi”‘hi’αä\n",
+    "plain": "“hi”‘hi’αä"
+  }
+}

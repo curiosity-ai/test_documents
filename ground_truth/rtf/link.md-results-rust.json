@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/rtf/link.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/rtf/link.md",
+      "final_uri": "ground_truth/rtf/link.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><a href=\"http://pandoc.org\">pandoc</a></p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"pandoc\"}]}",
+    "markdown": "[pandoc](http://pandoc.org)\n",
+    "plain": "pandoc"
+  }
+}

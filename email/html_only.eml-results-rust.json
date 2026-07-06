@@ -1,0 +1,36 @@
+{
+  "file": "email/html_only.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "HTML Only Email",
+    "created_at": "Fri, 10 May 2024 16:45:00 +0000",
+    "format": {
+      "format_type": "email",
+      "from_email": "html-sender@example.com",
+      "to_emails": [
+        "html-recipient@example.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "attachments": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "mime_version": "1.0",
+      "source_index": 0,
+      "source_uri": "email/html_only.eml",
+      "final_uri": "email/html_only.eml",
+      "source_kind": "uri",
+      "content_type": "text/html; charset=utf-8"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: HTML Only Email</p>\n<p><strong>From</strong>: html-sender@example.com</p>\n<p><strong>To</strong>: html-recipient@example.com</p>\n<p><strong>Date</strong>: Fri, 10 May 2024 16:45:00 +0000</p>\n<p>body { font-family: Arial, sans-serif; } .header { color: blue; } .content { margin: 10px; }</p>\n<p>HTML Email</p>\n<h1>Welcome to Our Service</h1>\n<p>This email contains <strong>only HTML</strong> content.</p>\n<p>It includes:</p>\n<ul>\n<li>HTML entities: &lt;, &gt;, &amp;, &quot;</li>\n<li>Special characters: €, ©, ®</li>\n<li>Formatting: italic, bold</li>\n</ul>\n<p>The Rust implementation should clean this HTML and extract meaningful text.</p>\n<p>// This script should be removed during HTML cleaning alert('Should not appear in extracted text');</p>\n<p>© 2024 Example Company</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"body { font-family: Arial, sans-serif; }\\n        .header { color: blue; }\\n        .content { margin: 10px; }\"},{\"type\":\"paragraph\",\"text\":\"HTML Email\"},{\"type\":\"section\",\"heading\":\"Welcome to Our Service\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This email contains only HTML content.\"},{\"type\":\"paragraph\",\"text\":\"It includes:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"HTML entities: <, >, &, \\\"\",\"Special characters: €, ©, ®\",\"Formatting: italic, bold\"]},{\"type\":\"paragraph\",\"text\":\"The Rust implementation should clean this HTML and extract meaningful text.\"},{\"type\":\"paragraph\",\"text\":\"// This script should be removed during HTML cleaning\\n            alert('Should not appear in extracted text');\"},{\"type\":\"paragraph\",\"text\":\"© 2024 Example Company\"}]}]}",
+    "markdown": "**Subject**: HTML Only Email\n\n**From**: html-sender@example.com\n\n**To**: html-recipient@example.com\n\n**Date**: Fri, 10 May 2024 16:45:00 +0000\n\nbody { font-family: Arial, sans-serif; } .header { color: blue; } .content { margin: 10px; }\n\nHTML Email\n\n# Welcome to Our Service\n\nThis email contains **only HTML** content.\n\nIt includes:\n\n- HTML entities: \\<, \\>, &, \"\n- Special characters: €, ©, ®\n- Formatting: italic, bold\n\nThe Rust implementation should clean this HTML and extract meaningful text.\n\n// This script should be removed during HTML cleaning alert('Should not appear in extracted text');\n\n© 2024 Example Company\n",
+    "plain": "Subject: HTML Only Email\nFrom: html-sender@example.com\nTo: html-recipient@example.com\nDate: Fri, 10 May 2024 16:45:00 +0000\n\nbody { font-family: Arial, sans-serif; }\n        .header { color: blue; }\n        .content { margin: 10px; }\n\nHTML Email\n\n  Welcome to Our Service\n  This email contains only HTML content.\n\n  It includes:\n\nHTML entities: <, >, &, \"\nSpecial characters: €, ©, ®\nFormatting: italic, bold\n  The Rust implementation should clean this HTML and extract meaningful text.\n\n  // This script should be removed during HTML cleaning\n            alert('Should not appear in extracted text');\n\n  © 2024 Example Company"
+  }
+}

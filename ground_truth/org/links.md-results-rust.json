@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/org/links.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Links Section",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/org/links.md",
+      "source_uri": "ground_truth/org/links.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>TITLE</strong>: Links Test Document</p>\n<p><strong>AUTHOR</strong>: Test Author</p>\n<h1>Links Section</h1>\n<h2>With ampersands</h2>\n<p>Here's a <a href=\"http://example.com/?foo=1&amp;bar=2\">link with an ampersand in the URL</a>.</p>\n<p>Here's a link with an ampersand in the link text: <a href=\"http://att.com/\">AT&amp;T</a>.</p>\n<h2>Regular links</h2>\n<p>Just a <a href=\"https://example.com\">URL</a>.</p>\n<p>Contact us via <a href=\"mailto:example@example.com\">email</a>.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"TITLE: Links Test Document\"},{\"type\":\"paragraph\",\"text\":\"AUTHOR: Test Author\"},{\"type\":\"section\",\"heading\":\"Links Section\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"With ampersands\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Here's a link with an ampersand in the URL.\"},{\"type\":\"paragraph\",\"text\":\"Here's a link with an ampersand in the link text: AT&T.\"}]},{\"type\":\"section\",\"heading\":\"Regular links\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Just a URL.\"},{\"type\":\"paragraph\",\"text\":\"Contact us via email.\"}]}]}]}",
+    "markdown": "**TITLE**: Links Test Document\n\n**AUTHOR**: Test Author\n\n# Links Section\n\n## With ampersands\n\nHere's a [link with an ampersand in the URL](http://example.com/?foo=1&bar=2).\n\nHere's a link with an ampersand in the link text: [AT\\&T](http://att.com/).\n\n## Regular links\n\nJust a [URL](https://example.com).\n\nContact us via [email](mailto:example@example.com).\n",
+    "plain": "TITLE: Links Test Document\n\nAUTHOR: Test Author\n\nLinks Section\n  With ampersands\nHere's a link with an ampersand in the URL.\n\nHere's a link with an ampersand in the link text: AT&T.\n\n  Regular links\nJust a URL.\n\nContact us via email."
+  }
+}

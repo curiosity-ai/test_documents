@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/pdf/pdf_non_searchable.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Non-text-searchable PDF",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/pdf_non_searchable.md",
+      "final_uri": "ground_truth/pdf/pdf_non_searchable.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Non-text-searchable PDF</h1>\n<p><strong>IDRH</strong></p>\n<p>This is an example of a non-text-searchable PDF. Because it was created from an image rather than a text document, it cannot be rendered as plain text by the PDF reader. Thus, attempting to select the text on the page as though it were a text document or website will not work, regardless of how neatly it is organized.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Non-text-searchable PDF\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"IDRH\"},{\"type\":\"paragraph\",\"text\":\"This is an example of a non-text-searchable PDF. Because it was created from an image rather than a text document, it cannot be rendered as plain text by the PDF reader. Thus, attempting to select the text on the page as though it were a text document or website will not work, regardless of how neatly it is organized.\"}]}]}",
+    "markdown": "# Non-text-searchable PDF\n\n**IDRH**\n\nThis is an example of a non-text-searchable PDF. Because it was created from an image rather than a text document, it cannot be rendered as plain text by the PDF reader. Thus, attempting to select the text on the page as though it were a text document or website will not work, regardless of how neatly it is organized.\n",
+    "plain": "Non-text-searchable PDF\nIDRH\n\nThis is an example of a non-text-searchable PDF. Because it was created from an image rather than a text document, it cannot be rendered as plain text by the PDF reader. Thus, attempting to select the text on the page as though it were a text document or website will not work, regardless of how neatly it is organized."
+  }
+}

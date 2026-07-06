@@ -1,0 +1,25 @@
+{
+  "file": "odt/simple.odt",
+  "mime_type": "application/vnd.oasis.opendocument.text",
+  "success": true,
+  "metadata": {
+    "created_at": "2024-05-15T21:26:37Z",
+    "modified_at": "2024-05-15T21:26:37Z",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "odt/simple.odt",
+      "generator": "Pandoc/3.1.11.1",
+      "source_index": 0,
+      "final_uri": "odt/simple.odt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>These are a few of my favorite things:</h1>\n<p>• Parrots</p>\n<p>•</p>\n<ul>\n<li>Hockey</li>\n</ul>\n<p>Analysis</p>\n<p>This is my first thought. This is my second thought.</p>\n<p>This is my third thought.</p>\n<p>2023</p>\n<p>DOYLESTOWN, PA 18901</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"These are a few of my favorite things:\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"• Parrots\"},{\"type\":\"paragraph\",\"text\":\"•\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Hockey\"]},{\"type\":\"paragraph\",\"text\":\"Analysis\"},{\"type\":\"paragraph\",\"text\":\"This is my first thought. This is my second thought.\"},{\"type\":\"paragraph\",\"text\":\"This is my third thought.\"},{\"type\":\"paragraph\",\"text\":\"2023\"},{\"type\":\"paragraph\",\"text\":\"DOYLESTOWN, PA 18901\"}]}]}",
+    "markdown": "# These are a few of my favorite things:\n\n• Parrots\n\n•\n\n- Hockey\n\nAnalysis\n\nThis is my first thought. This is my second thought.\n\nThis is my third thought.\n\n2023\n\nDOYLESTOWN, PA 18901\n",
+    "plain": "These are a few of my favorite things:\n• Parrots\n\n•\n\nHockey\nAnalysis\n\nThis is my first thought. This is my second thought.\n\nThis is my third thought.\n\n2023\n\nDOYLESTOWN, PA 18901"
+  }
+}

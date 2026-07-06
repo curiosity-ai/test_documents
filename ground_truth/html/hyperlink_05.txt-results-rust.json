@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/hyperlink_05.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 5,
+      "word_count": 13,
+      "character_count": 86
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/html/hyperlink_05.txt",
+      "final_uri": "ground_truth/html/hyperlink_05.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>[Clickable Example]</p>\n<p>[This is an example caption for the image.]</p>\n<p>[Image with Caption]</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"[Clickable Example]\"},{\"type\":\"paragraph\",\"text\":\"[This is an example caption for the image.]\"},{\"type\":\"paragraph\",\"text\":\"[Image with Caption]\"}]}",
+    "markdown": "[Clickable Example]\n\n[This is an example caption for the image.]\n\n[Image with Caption]\n",
+    "plain": "[Clickable Example]\n\n[This is an example caption for the image.]\n\n[Image with Caption]"
+  }
+}

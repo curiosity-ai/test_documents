@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/pdf/pdfa_033.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "The Virgin Mary Had a Baby Boy",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/pdfa_033.md",
+      "final_uri": "ground_truth/pdf/pdfa_033.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>1</p>\n<h1>The Virgin Mary Had a Baby Boy</h1>\n<h2>Unison or Solo Melody - either octave</h2>\n<h2>Transposing Eb</h2>\n<p>Arr: PKN Traditional Spiritual</p>\n<p>Organists Online - organistsonline.org.uk Philip Norman Music Services - pnms.co.uk</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"1\"},{\"type\":\"section\",\"heading\":\"The Virgin Mary Had a Baby Boy\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Unison or Solo Melody - either octave\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Transposing Eb\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Arr: PKN Traditional Spiritual\"},{\"type\":\"image\"},{\"type\":\"image\"},{\"type\":\"image\"},{\"type\":\"image\"},{\"type\":\"image\"},{\"type\":\"image\"},{\"type\":\"paragraph\",\"text\":\"Organists Online - organistsonline.org.uk Philip Norman Music Services - pnms.co.uk\"}]}]}]}",
+    "markdown": "1\n\n# The Virgin Mary Had a Baby Boy\n\n## Unison or Solo Melody - either octave\n\n## Transposing Eb\n\nArr: PKN Traditional Spiritual\n\nOrganists Online - organistsonline.org.uk Philip Norman Music Services - pnms.co.uk\n",
+    "plain": "1\n\nThe Virgin Mary Had a Baby Boy\n  Unison or Solo Melody - either octave\n\n  Transposing Eb\nArr: PKN Traditional Spiritual\n\nOrganists Online - organistsonline.org.uk Philip Norman Music Services - pnms.co.uk"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "file": "ground_truth/docbook/docbook-xref.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "An Example Book",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/docbook/docbook-xref.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/docbook/docbook-xref.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Version",
+          "Feat"
+        ],
+        [
+          "Free",
+          "no"
+        ]
+      ],
+      "markdown": "| Version | Feat |\n| --- | --- |\n| Free | no |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>An Example Book</h1>\n<h2>XRef Samples</h2>\n<p>This paragraph demonstrates several features of XRef .</p>\n<ul>\n<li>A straight link generates the cross-reference text: .</li>\n<li>A link to an element with an XRefLabel : .</li>\n<li>A link with an EndTerm : .</li>\n<li>A link to an cmdsynopsis element: .</li>\n<li>A link to an funcsynopsis element: .</li>\n<li>A link to a figure element: .</li>\n<li>A link to a table element: .</li>\n<li>A link to a part element: .</li>\n<li>A link to a book element: .</li>\n</ul>\n<h2>The Second Chapter</h2>\n<p>Some content here</p>\n<h1>Later Part</h1>\n<h2>The Third Chapter</h2>\n<p>Some content here</p>\n<h2>The Fourth Chapter</h2>\n<p>Some content here</p>\n<p>[Figure: The Pythagorean Theorem Illustrated]</p>\n<h2>Supported features by version</h2>\n<table>\n<thead>\n<tr>\n<th>Version</th>\n<th>Feat</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Free</td>\n<td>no</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"An Example Book\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"XRef Samples\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"This paragraph demonstrates several features of XRef .\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"A straight link generates the cross-reference text: .\",\"A link to an element with an XRefLabel : .\",\"A link with an EndTerm : .\",\"A link to an cmdsynopsis element: .\",\"A link to an funcsynopsis element: .\",\"A link to a figure element: .\",\"A link to a table element: .\",\"A link to a part element: .\",\"A link to a book element: .\"]}]},{\"type\":\"section\",\"heading\":\"The Second Chapter\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Some content here\"}]}]},{\"type\":\"section\",\"heading\":\"Later Part\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"The Third Chapter\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Some content here\"}]},{\"type\":\"section\",\"heading\":\"The Fourth Chapter\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Some content here\"},{\"type\":\"paragraph\",\"text\":\"[Figure: The Pythagorean Theorem Illustrated]\"}]},{\"type\":\"section\",\"heading\":\"Supported features by version\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Version\",\"Feat\"],\"rows\":[[\"Free\",\"no\"]]}]}]}]}",
+    "markdown": "# An Example Book\n\n## XRef Samples\n\nThis paragraph demonstrates several features of XRef .\n\n- A straight link generates the cross-reference text: .\n- A link to an element with an XRefLabel : .\n- A link with an EndTerm : .\n- A link to an cmdsynopsis element: .\n- A link to an funcsynopsis element: .\n- A link to a figure element: .\n- A link to a table element: .\n- A link to a part element: .\n- A link to a book element: .\n\n## The Second Chapter\n\nSome content here\n\n# Later Part\n\n## The Third Chapter\n\nSome content here\n\n## The Fourth Chapter\n\nSome content here\n\n[Figure: The Pythagorean Theorem Illustrated]\n\n## Supported features by version\n\n| Version | Feat |\n| --- | --- |\n| Free | no |\n",
+    "plain": "An Example Book\n  XRef Samples\nThis paragraph demonstrates several features of XRef .\n\nA straight link generates the cross-reference text: .\nA link to an element with an XRefLabel : .\nA link with an EndTerm : .\nA link to an cmdsynopsis element: .\nA link to an funcsynopsis element: .\nA link to a figure element: .\nA link to a table element: .\nA link to a part element: .\nA link to a book element: .\n\n  The Second Chapter\nSome content here\n\nLater Part\n  The Third Chapter\nSome content here\n\n  The Fourth Chapter\nSome content here\n\n[Figure: The Pythagorean Theorem Illustrated]\n\n  Supported features by version\nVersion Feat\nFree no"
+  }
+}

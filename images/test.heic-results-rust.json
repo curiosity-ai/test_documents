@@ -1,0 +1,12 @@
+{
+  "file": "images/test.heic",
+  "mime_type": "image/heic",
+  "success": false,
+  "error": "Unsupported format: image/heic",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

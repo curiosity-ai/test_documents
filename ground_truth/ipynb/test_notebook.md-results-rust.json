@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/ipynb/test_notebook.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Test Notebook",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/ipynb/test_notebook.md",
+      "source_index": 0,
+      "source_uri": "ground_truth/ipynb/test_notebook.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Test Notebook</h1>\n<pre><code>print(&quot;markitdown&quot;)</code></pre>\n<p>markitdown</p>\n<h2>Code Cell Below</h2>\n<pre><code># comment in code\nprint(42)</code></pre>\n<p>42</p>\n<p>End ---</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Test Notebook\",\"level\":1,\"body\":[{\"type\":\"code\",\"text\":\"print(\\\"markitdown\\\")\"},{\"type\":\"paragraph\",\"text\":\"markitdown\"},{\"type\":\"section\",\"heading\":\"Code Cell Below\",\"level\":2,\"body\":[{\"type\":\"code\",\"text\":\"# comment in code\\nprint(42)\"},{\"type\":\"paragraph\",\"text\":\"42\"},{\"type\":\"paragraph\",\"text\":\"End ---\"}]}]}]}",
+    "markdown": "# Test Notebook\n\n```\nprint(\"markitdown\")\n```\n\nmarkitdown\n\n## Code Cell Below\n\n```\n# comment in code\nprint(42)\n```\n\n42\n\nEnd ---\n",
+    "plain": "Test Notebook\nprint(\"markitdown\")\n\nmarkitdown\n\n  Code Cell Below\n# comment in code\nprint(42)\n\n42\n\nEnd ---"
+  }
+}

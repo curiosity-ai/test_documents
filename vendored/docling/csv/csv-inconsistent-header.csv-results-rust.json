@@ -1,0 +1,70 @@
+{
+  "file": "vendored/docling/csv/csv-inconsistent-header.csv",
+  "mime_type": "text/csv",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "csv",
+      "row_count": 5,
+      "column_count": 4,
+      "has_header": false,
+      "column_types": [
+        "text",
+        "text",
+        "text",
+        "text"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "vendored/docling/csv/csv-inconsistent-header.csv",
+      "final_uri": "vendored/docling/csv/csv-inconsistent-header.csv"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "1",
+          "2",
+          "3"
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      ],
+      "markdown": "| 1 | 2 | 3 |  |\n| --- | --- | --- | --- |\n| a | b | c | d |\n| a | b | c | d |\n| a | b | c | d |\n| a | b | c | d |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>1 2 3 a b c d a b c d a b c d a b c d</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"1 2 3\\na b c d\\na b c d\\na b c d\\na b c d\"}]}",
+    "markdown": "1 2 3 a b c d a b c d a b c d a b c d\n",
+    "plain": "1 2 3\na b c d\na b c d\na b c d\na b c d"
+  }
+}

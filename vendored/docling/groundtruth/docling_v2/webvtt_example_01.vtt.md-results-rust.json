@@ -1,0 +1,22 @@
+{
+  "file": "vendored/docling/groundtruth/docling_v2/webvtt_example_01.vtt.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "vendored/docling/groundtruth/docling_v2/webvtt_example_01.vtt.md",
+      "source_index": 0,
+      "source_uri": "vendored/docling/groundtruth/docling_v2/webvtt_example_01.vtt.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>We are in New York City</p>\n<p>We’re actually at the Lucern Hotel, just down the street</p>\n<p>from the American Museum of Natural History</p>\n<p>And with me is Neil deGrasse Tyson</p>\n<p>Astrophysicist, Director of the Hayden Planetarium</p>\n<p>at the AMNH.</p>\n<p>Thank you for walking down here.</p>\n<p>And I want to do a follow-up on the last conversation we did.</p>\n<p>When we e-mailed—</p>\n<p>Didn’t we talk about enough in that conversation?</p>\n<p>No! No no no no; 'cos 'cos obviously 'cos</p>\n<p><em>Laughs</em></p>\n<p>You know I’m so excited my glasses are falling off here.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"We are in New York City\"},{\"type\":\"paragraph\",\"text\":\"We’re actually at the Lucern Hotel, just down the street\"},{\"type\":\"paragraph\",\"text\":\"from the American Museum of Natural History\"},{\"type\":\"paragraph\",\"text\":\"And with me is Neil deGrasse Tyson\"},{\"type\":\"paragraph\",\"text\":\"Astrophysicist, Director of the Hayden Planetarium\"},{\"type\":\"paragraph\",\"text\":\"at the AMNH.\"},{\"type\":\"paragraph\",\"text\":\"Thank you for walking down here.\"},{\"type\":\"paragraph\",\"text\":\"And I want to do a follow-up on the last conversation we did.\"},{\"type\":\"paragraph\",\"text\":\"When we e-mailed—\"},{\"type\":\"paragraph\",\"text\":\"Didn’t we talk about enough in that conversation?\"},{\"type\":\"paragraph\",\"text\":\"No! No no no no; 'cos 'cos obviously 'cos\"},{\"type\":\"paragraph\",\"text\":\"Laughs\"},{\"type\":\"paragraph\",\"text\":\"You know I’m so excited my glasses are falling off here.\"}]}",
+    "markdown": "We are in New York City\n\nWe’re actually at the Lucern Hotel, just down the street\n\nfrom the American Museum of Natural History\n\nAnd with me is Neil deGrasse Tyson\n\nAstrophysicist, Director of the Hayden Planetarium\n\nat the AMNH.\n\nThank you for walking down here.\n\nAnd I want to do a follow-up on the last conversation we did.\n\nWhen we e-mailed—\n\nDidn’t we talk about enough in that conversation?\n\nNo\\! No no no no; 'cos 'cos obviously 'cos\n\n*Laughs*\n\nYou know I’m so excited my glasses are falling off here.\n",
+    "plain": "We are in New York City\n\nWe’re actually at the Lucern Hotel, just down the street\n\nfrom the American Museum of Natural History\n\nAnd with me is Neil deGrasse Tyson\n\nAstrophysicist, Director of the Hayden Planetarium\n\nat the AMNH.\n\nThank you for walking down here.\n\nAnd I want to do a follow-up on the last conversation we did.\n\nWhen we e-mailed—\n\nDidn’t we talk about enough in that conversation?\n\nNo! No no no no; 'cos 'cos obviously 'cos\n\nLaughs\n\nYou know I’m so excited my glasses are falling off here."
+  }
+}

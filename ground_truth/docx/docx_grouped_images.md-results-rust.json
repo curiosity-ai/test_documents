@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/docx/docx_grouped_images.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Grouped images",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/docx/docx_grouped_images.md",
+      "final_uri": "ground_truth/docx/docx_grouped_images.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Grouped images</h1>\n<p>There are 2 pictures grouped together</p>\n<p>There are 2 pictures ungrouped, each wrapped “Top and bottom”</p>\n<h1>Ungrouped images</h1>\n<p>There are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Grouped images\",\"level\":1,\"body\":[{\"type\":\"image\"},{\"type\":\"paragraph\",\"text\":\"There are 2 pictures grouped together\"},{\"type\":\"image\"},{\"type\":\"image\"},{\"type\":\"paragraph\",\"text\":\"There are 2 pictures ungrouped, each wrapped “Top and bottom”\"}]},{\"type\":\"section\",\"heading\":\"Ungrouped images\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"There are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs\"},{\"type\":\"image\"},{\"type\":\"image\"}]}]}",
+    "markdown": "# Grouped images\n\nThere are 2 pictures grouped together\n\nThere are 2 pictures ungrouped, each wrapped “Top and bottom”\n\n# Ungrouped images\n\nThere are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs\n",
+    "plain": "Grouped images\nThere are 2 pictures grouped together\n\nThere are 2 pictures ungrouped, each wrapped “Top and bottom”\n\nUngrouped images\nThere are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs"
+  }
+}

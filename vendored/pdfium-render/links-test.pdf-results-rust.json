@@ -1,0 +1,44 @@
+{
+  "file": "vendored/pdfium-render/links-test.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "Untitled design",
+    "authors": [
+      "Rey Bumalay"
+    ],
+    "keywords": [
+      "DAFaMRobFUk",
+      "BAD7shGxOhY"
+    ],
+    "created_at": "2023-02-10T17:26:00Z",
+    "modified_at": "2023-02-10T17:26:00Z",
+    "created_by": "Canva",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "Canva",
+      "is_encrypted": false,
+      "width": 540,
+      "height": 787,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "extraction_method": "native",
+      "source_uri": "vendored/pdfium-render/links-test.pdf",
+      "final_uri": "vendored/pdfium-render/links-test.pdf"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Example Link</h1>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Example Link\"}]}",
+    "markdown": "# Example Link\n",
+    "plain": "Example Link"
+  }
+}

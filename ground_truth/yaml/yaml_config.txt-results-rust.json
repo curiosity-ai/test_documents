@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/yaml/yaml_config.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 15,
+      "word_count": 33,
+      "character_count": 269
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/yaml/yaml_config.txt",
+      "final_uri": "ground_truth/yaml/yaml_config.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>title: Sample Configuration description: This is a sample YAML configuration file server: host: localhost port: 8080 ssl: true database: name: testdb credentials: username: admin password: secret features: - authentication - logging - monitoring</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"title: Sample Configuration\\ndescription: This is a sample YAML configuration file\\nserver:\\n  host: localhost\\n  port: 8080\\n  ssl: true\\ndatabase:\\n  name: testdb\\n  credentials:\\n    username: admin\\n    password: secret\\nfeatures:\\n  - authentication\\n  - logging\\n  - monitoring\"}]}",
+    "markdown": "title: Sample Configuration description: This is a sample YAML configuration file server: host: localhost port: 8080 ssl: true database: name: testdb credentials: username: admin password: secret features: - authentication - logging - monitoring\n",
+    "plain": "title: Sample Configuration\ndescription: This is a sample YAML configuration file\nserver:\n  host: localhost\n  port: 8080\n  ssl: true\ndatabase:\n  name: testdb\n  credentials:\n    username: admin\n    password: secret\nfeatures:\n  - authentication\n  - logging\n  - monitoring"
+  }
+}

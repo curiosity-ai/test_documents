@@ -1,0 +1,44 @@
+{
+  "file": "vendored/docling/md/tablecell.docx.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/docling/md/tablecell.docx.md",
+      "source_uri": "vendored/docling/md/tablecell.docx.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Tab1",
+          "Tab2",
+          "Tab3"
+        ],
+        [
+          "A",
+          "B",
+          "C"
+        ],
+        [
+          "D",
+          "E",
+          "F"
+        ]
+      ],
+      "markdown": "| Tab1 | Tab2 | Tab3 |\n| --- | --- | --- |\n| A | B | C |\n| D | E | F |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<ul>\n<li>Hello world1</li>\n<li>Hello2</li>\n</ul>\n<p>Some text before</p>\n<table>\n<thead>\n<tr>\n<th>Tab1</th>\n<th>Tab2</th>\n<th>Tab3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A</td>\n<td>B</td>\n<td>C</td>\n</tr>\n<tr>\n<td>D</td>\n<td>E</td>\n<td>F</td>\n</tr>\n</tbody>\n</table>\n<p>Some text after</p>\n",
+    "json": "{\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"Hello world1\",\"Hello2\"]},{\"type\":\"paragraph\",\"text\":\"Some text before\"},{\"type\":\"table\",\"headers\":[\"Tab1\",\"Tab2\",\"Tab3\"],\"rows\":[[\"A\",\"B\",\"C\"],[\"D\",\"E\",\"F\"]]},{\"type\":\"paragraph\",\"text\":\"Some text after\"}]}",
+    "markdown": "- Hello world1\n- Hello2\n\nSome text before\n\n| Tab1 | Tab2 | Tab3 |\n| --- | --- | --- |\n| A | B | C |\n| D | E | F |\n\nSome text after\n",
+    "plain": "Hello world1\nHello2\nSome text before\n\nTab1 Tab2 Tab3\nA B C\nD E F\n\nSome text after"
+  }
+}

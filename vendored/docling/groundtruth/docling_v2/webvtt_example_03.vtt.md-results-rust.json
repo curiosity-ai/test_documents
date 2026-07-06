@@ -1,0 +1,22 @@
+{
+  "file": "vendored/docling/groundtruth/docling_v2/webvtt_example_03.vtt.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "vendored/docling/groundtruth/docling_v2/webvtt_example_03.vtt.md",
+      "source_index": 0,
+      "final_uri": "vendored/docling/groundtruth/docling_v2/webvtt_example_03.vtt.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>OK,</p>\n<p>I think now we should be recording</p>\n<p>properly.</p>\n<p>Good.</p>\n<p>Yeah.</p>\n<p>I was also thinking.</p>\n<p>Would be maybe good to create items,</p>\n<p>some metadata,</p>\n<p>some options that can be specific.</p>\n<p>Yeah,</p>\n<p>I mean I think you went even more than</p>\n<p>But we preserved the atoms.</p>\n<p>than me.</p>\n<p>I just opened the format.</p>\n<p>give it a try, yeah.</p>\n<p>Okay, talk to you later.</p>\n<p>See you.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"OK,\"},{\"type\":\"paragraph\",\"text\":\"I think now we should be recording\"},{\"type\":\"paragraph\",\"text\":\"properly.\"},{\"type\":\"paragraph\",\"text\":\"Good.\"},{\"type\":\"paragraph\",\"text\":\"Yeah.\"},{\"type\":\"paragraph\",\"text\":\"I was also thinking.\"},{\"type\":\"paragraph\",\"text\":\"Would be maybe good to create items,\"},{\"type\":\"paragraph\",\"text\":\"some metadata,\"},{\"type\":\"paragraph\",\"text\":\"some options that can be specific.\"},{\"type\":\"paragraph\",\"text\":\"Yeah,\"},{\"type\":\"paragraph\",\"text\":\"I mean I think you went even more than\"},{\"type\":\"paragraph\",\"text\":\"But we preserved the atoms.\"},{\"type\":\"paragraph\",\"text\":\"than me.\"},{\"type\":\"paragraph\",\"text\":\"I just opened the format.\"},{\"type\":\"paragraph\",\"text\":\"give it a try, yeah.\"},{\"type\":\"paragraph\",\"text\":\"Okay, talk to you later.\"},{\"type\":\"paragraph\",\"text\":\"See you.\"}]}",
+    "markdown": "OK,\n\nI think now we should be recording\n\nproperly.\n\nGood.\n\nYeah.\n\nI was also thinking.\n\nWould be maybe good to create items,\n\nsome metadata,\n\nsome options that can be specific.\n\nYeah,\n\nI mean I think you went even more than\n\nBut we preserved the atoms.\n\nthan me.\n\nI just opened the format.\n\ngive it a try, yeah.\n\nOkay, talk to you later.\n\nSee you.\n",
+    "plain": "OK,\n\nI think now we should be recording\n\nproperly.\n\nGood.\n\nYeah.\n\nI was also thinking.\n\nWould be maybe good to create items,\n\nsome metadata,\n\nsome options that can be specific.\n\nYeah,\n\nI mean I think you went even more than\n\nBut we preserved the atoms.\n\nthan me.\n\nI just opened the format.\n\ngive it a try, yeah.\n\nOkay, talk to you later.\n\nSee you."
+  }
+}

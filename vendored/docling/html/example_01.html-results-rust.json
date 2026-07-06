@@ -1,0 +1,59 @@
+{
+  "file": "vendored/docling/html/example_01.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "html",
+      "keywords": [],
+      "open_graph": {},
+      "twitter_card": {},
+      "meta_tags": {},
+      "headers": [
+        {
+          "level": 1,
+          "text": "Introduction",
+          "depth": 2,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "Background",
+          "depth": 2,
+          "html_offset": 0
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "src": "example_image_01.png",
+          "alt": "Example image",
+          "dimensions": null,
+          "image_type": "relative",
+          "attributes": [
+            [
+              "alt",
+              "Example image"
+            ]
+          ]
+        }
+      ],
+      "structured_data": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "vendored/docling/html/example_01.html",
+      "source_uri": "vendored/docling/html/example_01.html"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Introduction</h1>\n<p>This is the first paragraph of the introduction.</p>\n<h2>Background</h2>\n<p>Some background information here.</p>\n<p>![Example image](example_image_01.png)</p>\n<ul>\n<li>First item in unordered list</li>\n<li>Second item in unordered list</li>\n</ul>\n<ol>\n<li>First item in ordered list</li>\n<li>Second item in ordered list</li>\n</ol>\n<ol>\n<li>First item in ordered list with start</li>\n<li>Second item in ordered list with start</li>\n</ol>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Introduction\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is the first paragraph of the introduction.\"},{\"type\":\"section\",\"heading\":\"Background\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Some background information here.\"},{\"type\":\"paragraph\",\"text\":\"![Example image](example_image_01.png)\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"First item in unordered list\",\"Second item in unordered list\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"First item in ordered list\",\"Second item in ordered list\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"First item in ordered list with start\",\"Second item in ordered list with start\"]}]}]}]}",
+    "markdown": "# Introduction\n\nThis is the first paragraph of the introduction.\n\n## Background\n\nSome background information here.\n\n![Example image](example_image_01.png)\n\n- First item in unordered list\n- Second item in unordered list\n\n1. First item in ordered list\n2. Second item in ordered list\n\n42. First item in ordered list with start\n43. Second item in ordered list with start\n",
+    "plain": "  Introduction\n  This is the first paragraph of the introduction.\n\n    Background\n    Some background information here.\n\n    ![Example image](example_image_01.png)\n\nFirst item in unordered list\nSecond item in unordered list\nFirst item in ordered list\nSecond item in ordered list\nFirst item in ordered list with start\nSecond item in ordered list with start"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "file": "yaml/sample_config.yml",
+  "mime_type": "application/x-yaml",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "data_format": "yaml",
+      "source_index": 0,
+      "title": "Sample Configuration",
+      "field_count": 3,
+      "database.name": "testdb",
+      "source_uri": "yaml/sample_config.yml",
+      "description": "This is a sample YAML configuration file",
+      "final_uri": "yaml/sample_config.yml"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<pre lang=\"yaml\"><code>title: Sample Configuration\ndescription: This is a sample YAML configuration file\nserver:\n  host: localhost\n  port: 8080\n  ssl: true\ndatabase:\n  name: testdb\n  credentials:\n    username: admin\n    password: secret\nfeatures:\n  - authentication\n  - logging\n  - monitoring\n</code></pre>\n",
+    "json": "{\"body\":[{\"type\":\"code\",\"text\":\"title: Sample Configuration\\ndescription: This is a sample YAML configuration file\\nserver:\\n  host: localhost\\n  port: 8080\\n  ssl: true\\ndatabase:\\n  name: testdb\\n  credentials:\\n    username: admin\\n    password: secret\\nfeatures:\\n  - authentication\\n  - logging\\n  - monitoring\\n\",\"language\":\"yaml\"}]}",
+    "markdown": "```yaml\ntitle: Sample Configuration\ndescription: This is a sample YAML configuration file\nserver:\n  host: localhost\n  port: 8080\n  ssl: true\ndatabase:\n  name: testdb\n  credentials:\n    username: admin\n    password: secret\nfeatures:\n  - authentication\n  - logging\n  - monitoring\n```\n",
+    "plain": "title: Sample Configuration\ndescription: This is a sample YAML configuration file\nserver:\n  host: localhost\n  port: 8080\n  ssl: true\ndatabase:\n  name: testdb\n  credentials:\n    username: admin\n    password: secret\nfeatures:\n  - authentication\n  - logging\n  - monitoring"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "file": "vendored/unstructured/eml/mime-multipart-digest.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Example Multipart Digest Email",
+    "format": {
+      "format_type": "email",
+      "from_email": "alice@example.com",
+      "to_emails": [
+        "bob@example.com"
+      ],
+      "cc_emails": [
+        "carol@example.com"
+      ],
+      "bcc_emails": [
+        "dave@example.com"
+      ],
+      "message_id": "1234567890@example.com",
+      "attachments": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "attachment_details": "unnamed|message/rfc822|109; unnamed|message/rfc822|111; unnamed|message/rfc822|111",
+      "content_type": "multipart/digest; boundary=\"boundary123\"",
+      "source_kind": "uri",
+      "mime_version": "1.0",
+      "final_uri": "vendored/unstructured/eml/mime-multipart-digest.eml",
+      "source_uri": "vendored/unstructured/eml/mime-multipart-digest.eml",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Example Multipart Digest Email</p>\n<p><strong>From</strong>: alice@example.com</p>\n<p><strong>To</strong>: bob@example.com</p>\n<p><strong>CC</strong>: carol@example.com</p>\n<p>Attachments:</p>\n<p> unnamed (109B)</p>\n<p> unnamed (111B)</p>\n<p> unnamed (111B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  unnamed (109B)\"},{\"type\":\"paragraph\",\"text\":\"  unnamed (111B)\"},{\"type\":\"paragraph\",\"text\":\"  unnamed (111B)\"}]}",
+    "markdown": "**Subject**: Example Multipart Digest Email\n\n**From**: alice@example.com\n\n**To**: bob@example.com\n\n**CC**: carol@example.com\n\nAttachments:\n\n unnamed (109B)\n\n unnamed (111B)\n\n unnamed (111B)\n",
+    "plain": "Subject: Example Multipart Digest Email\nFrom: alice@example.com\nTo: bob@example.com\nCC: carol@example.com\n\nAttachments:\n\n  unnamed (109B)\n\n  unnamed (111B)\n\n  unnamed (111B)"
+  }
+}

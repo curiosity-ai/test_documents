@@ -1,0 +1,118 @@
+{
+  "file": "vendored/pdfplumber/pdf/issue-463-example.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "grasshopper",
+    "created_at": "2021-06-07T11:53:02Z",
+    "modified_at": "2021-07-05T15:22:10Z",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.6",
+      "producer": "Skia/PDF m93 Google Docs Renderer",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 3
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/pdfplumber/pdf/issue-463-example.pdf",
+      "final_uri": "vendored/pdfplumber/pdf/issue-463-example.pdf",
+      "source_index": 0,
+      "source_kind": "uri",
+      "extraction_method": "native"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Header",
+          "Header",
+          "Header"
+        ],
+        [
+          "Cell",
+          "Cell",
+          "Cell"
+        ],
+        [
+          "Cell",
+          "Cell",
+          "Cell"
+        ],
+        [
+          "Cell",
+          "Cell",
+          "Cell"
+        ],
+        [
+          "Cell",
+          "Cell",
+          "Cell"
+        ]
+      ],
+      "markdown": "| Header | Header | Header |\n| --- | --- | --- |\n| Cell | Cell | Cell |\n| Cell | Cell | Cell |\n| Cell | Cell | Cell |\n| Cell | Cell | Cell |\n",
+      "page_number": 2,
+      "bounding_box": {
+        "x0": 72.5,
+        "y0": 75.5,
+        "x1": 540.5,
+        "y1": 229.5
+      }
+    },
+    {
+      "cells": [
+        [
+          "Header",
+          "Header",
+          "Header"
+        ],
+        [
+          "Cell",
+          "Cell",
+          "Cell"
+        ]
+      ],
+      "markdown": "| Header | Header | Header |\n| --- | --- | --- |\n| Cell | Cell | Cell |\n",
+      "page_number": 3,
+      "bounding_box": {
+        "x0": 72.5,
+        "y0": 500.5,
+        "x1": 540.5,
+        "y1": 561.5
+      }
+    },
+    {
+      "cells": [
+        [
+          "Cell",
+          "Cell",
+          "Cell"
+        ],
+        [
+          "Cell",
+          "Cell",
+          "Cell"
+        ]
+      ],
+      "markdown": "| Cell | Cell | Cell |\n| --- | --- | --- |\n| Cell | Cell | Cell |\n",
+      "page_number": 3,
+      "bounding_box": {
+        "x0": 72.5,
+        "y0": 658.5,
+        "x1": 540.5,
+        "y1": 719.5
+      }
+    }
+  ],
+  "content": {
+    "html": "<h1>THE GRASSHOPPER</h1>\n<p>A grasshopper spent the summer hopping about in the sun and singing to his heart's content. One day , an ant went hurrying by</p>\n<h2>Header 1</h2>\n<p>Header 1.1 &quot;Why are you working on such a lovely day?&quot; Said the grasshopper 「私は冬の餌を集めています。同じことをすることをお勧めします」 とアリは言いました。 べ物を運ぶのを手伝いました。 た。 冬が来ると、地面は雪で覆われていました。 物がなく、お腹がすいた。 を求めました . Header 1.2 &quot;¿Qué hiciste todo el verano cuando estábamos trabajando para recolectar nuestra comida?&quot; dijo una de las hormigas. &quot;Estaba ocupado saltando y cantando&quot;, dijo el saltamontes. &quot;Bueno&quot;, dijo la hormiga, &quot;si saltas y cantas todo el verano, y no trabajas, entonces debes morir de hambre en el invierno&quot;. . そして彼女は去り、他のアリが彼らの店に食 バッタはホッピングと歌を続けまし それで彼はアリのところへ行き、食べ物 , looking very hot and weary . バッタには食べ</p>\n<p>Y se fue, ayudando a las otras hormigas a llevar comida a su tienda. El saltamontes siguió saltando y cantando. Cuando llegó el invierno, el suelo estaba cubierto de nieve. El saltamontes no tenía comida y tenía hambre. las hormigas y les pidió comida.</p>\n<h3>Así que fue a</h3>\n<h2>Header 2</h2>\n<p>Header 2.1 In another moment. Down went Alice after it. Header 2.2 Never once considering how in the world she was to get out again.</p>\n<p>Header 2.3 The rabbit-hole went straight on like a tunnel for some way , and then dipped suddenly down, So suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.</p>\n<table>\n<thead>\n<tr>\n<th>Header</th>\n<th>Header</th>\n<th>Header</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Cell</td>\n<td>Cell</td>\n<td>Cell</td>\n</tr>\n<tr>\n<td>Cell</td>\n<td>Cell</td>\n<td>Cell</td>\n</tr>\n<tr>\n<td>Cell</td>\n<td>Cell</td>\n<td>Cell</td>\n</tr>\n<tr>\n<td>Cell</td>\n<td>Cell</td>\n<td>Cell</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Cell</th>\n<th>Cell</th>\n<th>Cell</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Cell</td>\n<td>Cell</td>\n<td>Cell</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Header</th>\n<th>Header</th>\n<th>Header</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Cell</td>\n<td>Cell</td>\n<td>Cell</td>\n</tr>\n</tbody>\n</table>\n<p>Noise, should be ignore</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"THE GRASSHOPPER\"},{\"type\":\"paragraph\",\"text\":\"A grasshopper spent the summer hopping about in the sun\\nand singing to his heart's content.\"},{\"type\":\"paragraph\",\"text\":\"One day, an ant went hurrying by\"},{\"type\":\"paragraph\",\"text\":\"Header 1\"},{\"type\":\"paragraph\",\"text\":\"Header 1.1\"},{\"type\":\"paragraph\",\"text\":\"\\\"Why are you working on such a lovely day?\\\"\"},{\"type\":\"paragraph\",\"text\":\"Said the grasshopper\"},{\"type\":\"paragraph\",\"text\":\"「私は冬の餌を集めています。同じことをすることをお勧めします」\\nとアリは言いました。 \\nべ物を運ぶのを手伝いました。\\nた。 冬が来ると、地面は雪で覆われていました。\\n物がなく、お腹がすいた。\\nを求めました.\"},{\"type\":\"paragraph\",\"text\":\"Header 1.2\"},{\"type\":\"paragraph\",\"text\":\"\\\"¿Qué hiciste todo el verano cuando estábamos trabajando\\npara recolectar nuestra comida?\\\" dijo una de las hormigas.\\n\\\"Estaba ocupado saltando y cantando\\\", dijo el saltamontes.\\n\\\"Bueno\\\", dijo la hormiga, \\\"si saltas y cantas todo el verano, y\\nno trabajas, entonces debes morir de hambre en el invierno\\\".\"},{\"type\":\"paragraph\",\"text\":\".\"},{\"type\":\"paragraph\",\"text\":\"そして彼女は去り、他のアリが彼らの店に食\\n バッタはホッピングと歌を続けまし\"},{\"type\":\"paragraph\",\"text\":\"それで彼はアリのところへ行き、食べ物\"},{\"type\":\"paragraph\",\"text\":\", looking very hot and weary.\"},{\"type\":\"paragraph\",\"text\":\"バッタには食べ\"},{\"type\":\"paragraph\",\"text\":\"Y se fue, ayudando a las otras hormigas a llevar comida a su\\ntienda. El saltamontes siguió saltando y cantando. Cuando\\nllegó el invierno, el suelo estaba cubierto de nieve. El\\nsaltamontes no tenía comida y tenía hambre. \\nlas hormigas y les pidió comida.\"},{\"type\":\"paragraph\",\"text\":\"Header 2\"},{\"type\":\"paragraph\",\"text\":\"Header 2.1\"},{\"type\":\"paragraph\",\"text\":\"In another moment.\"},{\"type\":\"paragraph\",\"text\":\"Down went Alice after it.\"},{\"type\":\"paragraph\",\"text\":\"Header 2.2\"},{\"type\":\"paragraph\",\"text\":\"Never once considering how\\nin the world she was to get\\nout again.\"},{\"type\":\"paragraph\",\"text\":\"Header Header\"},{\"type\":\"paragraph\",\"text\":\"Cell Cell\"},{\"type\":\"paragraph\",\"text\":\"Cell Cell\"},{\"type\":\"paragraph\",\"text\":\"Cell Cell\"},{\"type\":\"paragraph\",\"text\":\"Cell Cell\"},{\"type\":\"paragraph\",\"text\":\"Así que fue a\"},{\"type\":\"paragraph\",\"text\":\"Header 2.3\"},{\"type\":\"paragraph\",\"text\":\"The rabbit-hole went straight\\non like a tunnel for some\\nway, and then dipped\\nsuddenly down,\"},{\"type\":\"paragraph\",\"text\":\"So suddenly that Alice had\\nnot a moment to think about\\nstopping herself before she\\nfound herself falling down a\\nvery deep well.\"},{\"type\":\"paragraph\",\"text\":\"Header\"},{\"type\":\"paragraph\",\"text\":\"Cell\"},{\"type\":\"paragraph\",\"text\":\"Cell\"},{\"type\":\"paragraph\",\"text\":\"Cell\"},{\"type\":\"paragraph\",\"text\":\"Cell\"},{\"type\":\"paragraph\",\"text\":\"Cell Cell\"},{\"type\":\"paragraph\",\"text\":\"Cell Cell\"},{\"type\":\"paragraph\",\"text\":\"Header Header\"},{\"type\":\"paragraph\",\"text\":\"Cell Cell\"},{\"type\":\"paragraph\",\"text\":\"Cell\"},{\"type\":\"paragraph\",\"text\":\"Cell\"},{\"type\":\"paragraph\",\"text\":\"Header\"},{\"type\":\"paragraph\",\"text\":\"Cell\"},{\"type\":\"paragraph\",\"text\":\"Noise, should be ignore\"},{\"type\":\"table\",\"headers\":[\"Header\",\"Header\",\"Header\"],\"rows\":[[\"Cell\",\"Cell\",\"Cell\"],[\"Cell\",\"Cell\",\"Cell\"],[\"Cell\",\"Cell\",\"Cell\"],[\"Cell\",\"Cell\",\"Cell\"]]},{\"type\":\"table\",\"headers\":[\"Header\",\"Header\",\"Header\"],\"rows\":[[\"Cell\",\"Cell\",\"Cell\"]]},{\"type\":\"table\",\"headers\":[\"Cell\",\"Cell\",\"Cell\"],\"rows\":[[\"Cell\",\"Cell\",\"Cell\"]]}]}",
+    "markdown": "# THE GRASSHOPPER\n\nA grasshopper spent the summer hopping about in the sun and singing to his heart's content. One day , an ant went hurrying by\n\n## Header 1\n\nHeader 1.1 \"Why are you working on such a lovely day?\" Said the grasshopper 「私は冬の餌を集めています。同じことをすることをお勧めします」 とアリは言いました。 べ物を運ぶのを手伝いました。 た。 冬が来ると、地面は雪で覆われていました。 物がなく、お腹がすいた。 を求めました . Header 1.2 \"¿Qué hiciste todo el verano cuando estábamos trabajando para recolectar nuestra comida?\" dijo una de las hormigas. \"Estaba ocupado saltando y cantando\", dijo el saltamontes. \"Bueno\", dijo la hormiga, \"si saltas y cantas todo el verano, y no trabajas, entonces debes morir de hambre en el invierno\". . そして彼女は去り、他のアリが彼らの店に食 バッタはホッピングと歌を続けまし それで彼はアリのところへ行き、食べ物 , looking very hot and weary . バッタには食べ\n\nY se fue, ayudando a las otras hormigas a llevar comida a su tienda. El saltamontes siguió saltando y cantando. Cuando llegó el invierno, el suelo estaba cubierto de nieve. El saltamontes no tenía comida y tenía hambre. las hormigas y les pidió comida.\n\n### Así que fue a\n\n## Header 2\n\nHeader 2.1 In another moment. Down went Alice after it. Header 2.2 Never once considering how in the world she was to get out again.\n\nHeader 2.3 The rabbit-hole went straight on like a tunnel for some way , and then dipped suddenly down, So suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.\n\n| Header | Header | Header |\n| --- | --- | --- |\n| Cell | Cell | Cell |\n| Cell | Cell | Cell |\n| Cell | Cell | Cell |\n| Cell | Cell | Cell |\n\n| Cell | Cell | Cell |\n| --- | --- | --- |\n| Cell | Cell | Cell |\n\n| Header | Header | Header |\n| --- | --- | --- |\n| Cell | Cell | Cell |\n\nNoise, should be ignore\n",
+    "plain": "THE GRASSHOPPER\n\nA grasshopper spent the summer hopping about in the sun\nand singing to his heart's content.\n\nOne day, an ant went hurrying by\n\nHeader 1\n\nHeader 1.1\n\n\"Why are you working on such a lovely day?\"\n\nSaid the grasshopper\n\n「私は冬の餌を集めています。同じことをすることをお勧めします」\nとアリは言いました。 \nべ物を運ぶのを手伝いました。\nた。 冬が来ると、地面は雪で覆われていました。\n物がなく、お腹がすいた。\nを求めました.\n\nHeader 1.2\n\n\"¿Qué hiciste todo el verano cuando estábamos trabajando\npara recolectar nuestra comida?\" dijo una de las hormigas.\n\"Estaba ocupado saltando y cantando\", dijo el saltamontes.\n\"Bueno\", dijo la hormiga, \"si saltas y cantas todo el verano, y\nno trabajas, entonces debes morir de hambre en el invierno\".\n\n.\n\nそして彼女は去り、他のアリが彼らの店に食\n バッタはホッピングと歌を続けまし\n\nそれで彼はアリのところへ行き、食べ物\n\n, looking very hot and weary.\n\nバッタには食べ\n\nY se fue, ayudando a las otras hormigas a llevar comida a su\ntienda. El saltamontes siguió saltando y cantando. Cuando\nllegó el invierno, el suelo estaba cubierto de nieve. El\nsaltamontes no tenía comida y tenía hambre. \nlas hormigas y les pidió comida.\n\nHeader 2\n\nHeader 2.1\n\nIn another moment.\n\nDown went Alice after it.\n\nHeader 2.2\n\nNever once considering how\nin the world she was to get\nout again.\n\nHeader Header\n\nCell Cell\n\nCell Cell\n\nCell Cell\n\nCell Cell\n\nAsí que fue a\n\nHeader 2.3\n\nThe rabbit-hole went straight\non like a tunnel for some\nway, and then dipped\nsuddenly down,\n\nSo suddenly that Alice had\nnot a moment to think about\nstopping herself before she\nfound herself falling down a\nvery deep well.\n\nHeader\n\nCell\n\nCell\n\nCell\n\nCell\n\nCell Cell\n\nCell Cell\n\nHeader Header\n\nCell Cell\n\nCell\n\nCell\n\nHeader\n\nCell\n\nNoise, should be ignore\n\nHeader Header Header\nCell Cell Cell\nCell Cell Cell\nCell Cell Cell\nCell Cell Cell\n\nHeader Header Header\nCell Cell Cell\n\nCell Cell Cell\nCell Cell Cell"
+  }
+}

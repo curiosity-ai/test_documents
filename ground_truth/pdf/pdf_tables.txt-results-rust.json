@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/pdf_tables.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 13,
+      "word_count": 31,
+      "character_count": 318
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/pdf_tables.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/pdf/pdf_tables.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Simple document</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>\n<p>Table 1. Selected Numbers</p>\n<p>Name Celsius Fahrenheit</p>\n<p>Water Freezing Point 0 32</p>\n<p>Water Boiling Point 100 212</p>\n<p>Body Temperature 37 98.6</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Simple document\"},{\"type\":\"paragraph\",\"text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit\"},{\"type\":\"paragraph\",\"text\":\"Table 1. Selected Numbers\"},{\"type\":\"paragraph\",\"text\":\"Name                    Celsius                 Fahrenheit\"},{\"type\":\"paragraph\",\"text\":\"Water Freezing Point    0                       32\"},{\"type\":\"paragraph\",\"text\":\"Water Boiling Point     100                     212\"},{\"type\":\"paragraph\",\"text\":\"Body Temperature        37                      98.6\"}]}",
+    "markdown": "Simple document\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit\n\nTable 1. Selected Numbers\n\nName Celsius Fahrenheit\n\nWater Freezing Point 0 32\n\nWater Boiling Point 100 212\n\nBody Temperature 37 98.6\n",
+    "plain": "Simple document\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit\n\nTable 1. Selected Numbers\n\nName                    Celsius                 Fahrenheit\n\nWater Freezing Point    0                       32\n\nWater Boiling Point     100                     212\n\nBody Temperature        37                      98.6"
+  }
+}

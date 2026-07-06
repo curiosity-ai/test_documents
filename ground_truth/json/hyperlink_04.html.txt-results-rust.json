@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/json/hyperlink_04.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 49,
+      "word_count": 92,
+      "character_count": 979
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/json/hyperlink_04.html.txt",
+      "source_uri": "ground_truth/json/hyperlink_04.html.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>{ &quot;schema_name&quot;: &quot;DoclingDocument&quot;, &quot;version&quot;: &quot;1.8.0&quot;, &quot;name&quot;: &quot;hyperlink_04&quot;, &quot;origin&quot;: { &quot;mimetype&quot;: &quot;text/html&quot;, &quot;binary_hash&quot;: 14205970924528394626, &quot;filename&quot;: &quot;hyperlink_04.html&quot; }, &quot;furniture&quot;: { &quot;self_ref&quot;: &quot;#/furniture&quot;, &quot;children&quot;: [], &quot;content_layer&quot;: &quot;furniture&quot;, &quot;name&quot;: &quot;_root_&quot;, &quot;label&quot;: &quot;unspecified&quot; }, &quot;body&quot;: { &quot;self_ref&quot;: &quot;#/body&quot;, &quot;children&quot;: [ { &quot;$ref&quot;: &quot;#/texts/0&quot; } ], &quot;content_layer&quot;: &quot;body&quot;, &quot;name&quot;: &quot;_root_&quot;, &quot;label&quot;: &quot;unspecified&quot; }, &quot;groups&quot;: [], &quot;texts&quot;: [ { &quot;self_ref&quot;: &quot;#/texts/0&quot;, &quot;parent&quot;: { &quot;$ref&quot;: &quot;#/body&quot; }, &quot;children&quot;: [], &quot;content_layer&quot;: &quot;body&quot;, &quot;label&quot;: &quot;text&quot;, &quot;prov&quot;: [], &quot;orig&quot;: &quot;This is some text.&quot;, &quot;text&quot;: &quot;This is some text.&quot;, &quot;hyperlink&quot;: &quot;/start.html&quot; } ], &quot;pictures&quot;: [], &quot;tables&quot;: [], &quot;key_value_items&quot;: [], &quot;form_items&quot;: [], &quot;pages&quot;: {} }</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"{\\n  \\\"schema_name\\\": \\\"DoclingDocument\\\",\\n  \\\"version\\\": \\\"1.8.0\\\",\\n  \\\"name\\\": \\\"hyperlink_04\\\",\\n  \\\"origin\\\": {\\n    \\\"mimetype\\\": \\\"text/html\\\",\\n    \\\"binary_hash\\\": 14205970924528394626,\\n    \\\"filename\\\": \\\"hyperlink_04.html\\\"\\n  },\\n  \\\"furniture\\\": {\\n    \\\"self_ref\\\": \\\"#/furniture\\\",\\n    \\\"children\\\": [],\\n    \\\"content_layer\\\": \\\"furniture\\\",\\n    \\\"name\\\": \\\"_root_\\\",\\n    \\\"label\\\": \\\"unspecified\\\"\\n  },\\n  \\\"body\\\": {\\n    \\\"self_ref\\\": \\\"#/body\\\",\\n    \\\"children\\\": [\\n      {\\n        \\\"$ref\\\": \\\"#/texts/0\\\"\\n      }\\n    ],\\n    \\\"content_layer\\\": \\\"body\\\",\\n    \\\"name\\\": \\\"_root_\\\",\\n    \\\"label\\\": \\\"unspecified\\\"\\n  },\\n  \\\"groups\\\": [],\\n  \\\"texts\\\": [\\n    {\\n      \\\"self_ref\\\": \\\"#/texts/0\\\",\\n      \\\"parent\\\": {\\n        \\\"$ref\\\": \\\"#/body\\\"\\n      },\\n      \\\"children\\\": [],\\n      \\\"content_layer\\\": \\\"body\\\",\\n      \\\"label\\\": \\\"text\\\",\\n      \\\"prov\\\": [],\\n      \\\"orig\\\": \\\"This is some text.\\\",\\n      \\\"text\\\": \\\"This is some text.\\\",\\n      \\\"hyperlink\\\": \\\"/start.html\\\"\\n    }\\n  ],\\n  \\\"pictures\\\": [],\\n  \\\"tables\\\": [],\\n  \\\"key_value_items\\\": [],\\n  \\\"form_items\\\": [],\\n  \\\"pages\\\": {}\\n}\"}]}",
+    "markdown": "{ \"schema_name\": \"DoclingDocument\", \"version\": \"1.8.0\", \"name\": \"hyperlink_04\", \"origin\": { \"mimetype\": \"text/html\", \"binary_hash\": 14205970924528394626, \"filename\": \"hyperlink_04.html\" }, \"furniture\": { \"self_ref\": \"\\#/furniture\", \"children\": [], \"content_layer\": \"furniture\", \"name\": \"_root_\", \"label\": \"unspecified\" }, \"body\": { \"self_ref\": \"\\#/body\", \"children\": [ { \"$ref\": \"\\#/texts/0\" } ], \"content_layer\": \"body\", \"name\": \"_root_\", \"label\": \"unspecified\" }, \"groups\": [], \"texts\": [ { \"self_ref\": \"\\#/texts/0\", \"parent\": { \"$ref\": \"\\#/body\" }, \"children\": [], \"content_layer\": \"body\", \"label\": \"text\", \"prov\": [], \"orig\": \"This is some text.\", \"text\": \"This is some text.\", \"hyperlink\": \"/start.html\" } ], \"pictures\": [], \"tables\": [], \"key_value_items\": [], \"form_items\": [], \"pages\": {} }\n",
+    "plain": "{\n  \"schema_name\": \"DoclingDocument\",\n  \"version\": \"1.8.0\",\n  \"name\": \"hyperlink_04\",\n  \"origin\": {\n    \"mimetype\": \"text/html\",\n    \"binary_hash\": 14205970924528394626,\n    \"filename\": \"hyperlink_04.html\"\n  },\n  \"furniture\": {\n    \"self_ref\": \"#/furniture\",\n    \"children\": [],\n    \"content_layer\": \"furniture\",\n    \"name\": \"_root_\",\n    \"label\": \"unspecified\"\n  },\n  \"body\": {\n    \"self_ref\": \"#/body\",\n    \"children\": [\n      {\n        \"$ref\": \"#/texts/0\"\n      }\n    ],\n    \"content_layer\": \"body\",\n    \"name\": \"_root_\",\n    \"label\": \"unspecified\"\n  },\n  \"groups\": [],\n  \"texts\": [\n    {\n      \"self_ref\": \"#/texts/0\",\n      \"parent\": {\n        \"$ref\": \"#/body\"\n      },\n      \"children\": [],\n      \"content_layer\": \"body\",\n      \"label\": \"text\",\n      \"prov\": [],\n      \"orig\": \"This is some text.\",\n      \"text\": \"This is some text.\",\n      \"hyperlink\": \"/start.html\"\n    }\n  ],\n  \"pictures\": [],\n  \"tables\": [],\n  \"key_value_items\": [],\n  \"form_items\": [],\n  \"pages\": {}\n}"
+  }
+}

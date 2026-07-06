@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/nougat_025.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 27,
+      "word_count": 93,
+      "character_count": 719
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/nougat_025.txt",
+      "source_uri": "ground_truth/pdf/nougat_025.txt",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Central Depository Company of Pakistan Limited Non Free Float Security Wise Summary Report Security Symbol : PKGP PAKGEN POWER LIMITED Page# Non Free Float Date : 31/12/2020 User Date Time Category No. Category Description No. Of Shares ---------------------------------- --------------------- ---------------------------------------------------- Issued Share / Certificate Capital of the Company / Modaraba / Mutual Funds Less: Physical Shares CAT02 Directors, Sponsors and Senior Management Officers and their Associates CAT04 Associate companies / Group Companies (cross holdings) Free Float Shares Confidential : 1 of 1 : C0069419 : 08/01/2021 : 11:24:23 372,081,591 (381,003) (14,933,840) (199,565,474) 157,201,274</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Central Depository Company of Pakistan Limited\\nNon Free Float Security Wise Summary Report\\nSecurity Symbol : PKGP PAKGEN POWER LIMITED Page#\\nNon Free Float Date : 31/12/2020 User\\nDate\\nTime\\nCategory No. Category Description No. Of Shares\\n---------------------------------- --------------------- ----------------------------------------------------\\nIssued Share / Certificate Capital of the Company / Modaraba / Mutual Funds\\nLess:\\nPhysical Shares\\nCAT02\\nDirectors, Sponsors and Senior Management\\nOfficers and their Associates\\nCAT04 Associate companies / Group Companies (cross\\nholdings)\\nFree Float Shares\\nConfidential\\n: 1 of 1\\n: C0069419\\n: 08/01/2021\\n: 11:24:23\\n372,081,591\\n(381,003)\\n(14,933,840)\\n(199,565,474)\\n157,201,274\"}]}",
+    "markdown": "Central Depository Company of Pakistan Limited Non Free Float Security Wise Summary Report Security Symbol : PKGP PAKGEN POWER LIMITED Page\\# Non Free Float Date : 31/12/2020 User Date Time Category No. Category Description No. Of Shares ---------------------------------- --------------------- ---------------------------------------------------- Issued Share / Certificate Capital of the Company / Modaraba / Mutual Funds Less: Physical Shares CAT02 Directors, Sponsors and Senior Management Officers and their Associates CAT04 Associate companies / Group Companies (cross holdings) Free Float Shares Confidential : 1 of 1 : C0069419 : 08/01/2021 : 11:24:23 372,081,591 (381,003) (14,933,840) (199,565,474) 157,201,274\n",
+    "plain": "Central Depository Company of Pakistan Limited\nNon Free Float Security Wise Summary Report\nSecurity Symbol : PKGP PAKGEN POWER LIMITED Page#\nNon Free Float Date : 31/12/2020 User\nDate\nTime\nCategory No. Category Description No. Of Shares\n---------------------------------- --------------------- ----------------------------------------------------\nIssued Share / Certificate Capital of the Company / Modaraba / Mutual Funds\nLess:\nPhysical Shares\nCAT02\nDirectors, Sponsors and Senior Management\nOfficers and their Associates\nCAT04 Associate companies / Group Companies (cross\nholdings)\nFree Float Shares\nConfidential\n: 1 of 1\n: C0069419\n: 08/01/2021\n: 11:24:23\n372,081,591\n(381,003)\n(14,933,840)\n(199,565,474)\n157,201,274"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/mcid_example.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 25,
+      "word_count": 27,
+      "character_count": 429
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/pdf/mcid_example.txt",
+      "final_uri": "ground_truth/pdf/mcid_example.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Test of figures</p>\n<p>Figure 1: Chart 12</p>\n<p>10</p>\n<p>8 1 colonne 2 colonne 6 3 colonne</p>\n<p>4</p>\n<p>2</p>\n<p>0 1 ligne 2 ligne 3 ligne 4 ligne</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test of figures\"},{\"type\":\"paragraph\",\"text\":\"Figure 1: Chart\\n      12\"},{\"type\":\"paragraph\",\"text\":\"10\"},{\"type\":\"paragraph\",\"text\":\"8\\n                                                                  1 colonne\\n                                                                  2 colonne\\n       6                                                          3 colonne\"},{\"type\":\"paragraph\",\"text\":\"4\"},{\"type\":\"paragraph\",\"text\":\"2\"},{\"type\":\"paragraph\",\"text\":\"0\\n                  1 ligne   2 ligne           3 ligne   4 ligne\"}]}",
+    "markdown": "Test of figures\n\nFigure 1: Chart 12\n\n10\n\n8 1 colonne 2 colonne 6 3 colonne\n\n4\n\n2\n\n0 1 ligne 2 ligne 3 ligne 4 ligne\n",
+    "plain": "Test of figures\n\nFigure 1: Chart\n      12\n\n10\n\n8\n                                                                  1 colonne\n                                                                  2 colonne\n       6                                                          3 colonne\n\n4\n\n2\n\n0\n                  1 ligne   2 ligne           3 ligne   4 ligne"
+  }
+}

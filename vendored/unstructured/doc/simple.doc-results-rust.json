@@ -1,0 +1,28 @@
+{
+  "file": "vendored/unstructured/doc/simple.doc",
+  "mime_type": "application/msword",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "python-docx"
+    ],
+    "created_by": "python-docx",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "revision": "4",
+      "source_index": 0,
+      "source_kind": "uri",
+      "extraction_method": "native_ole",
+      "source_uri": "vendored/unstructured/doc/simple.doc",
+      "final_uri": "vendored/unstructured/doc/simple.doc"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>These are a few of my favorite things: • Parrots • Hockey</p>\n<h2>Analysis</h2>\n<p>This is my first thought. This is my second thought. This is my third thought. 2023 DOYLESTOWN, PA 18901</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"These are a few of my favorite things:\\n• Parrots\\n• \\nHockey\"},{\"type\":\"section\",\"heading\":\"Analysis\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is my first thought. This is my second thought.\\nThis is my third thought.\\n2023\\nDOYLESTOWN, PA 18901\"}]}]}",
+    "markdown": "These are a few of my favorite things: • Parrots • Hockey\n\n## Analysis\n\nThis is my first thought. This is my second thought. This is my third thought. 2023 DOYLESTOWN, PA 18901\n",
+    "plain": "These are a few of my favorite things:\n• Parrots\n• \nHockey\n\nAnalysis\nThis is my first thought. This is my second thought.\nThis is my third thought.\n2023\nDOYLESTOWN, PA 18901"
+  }
+}

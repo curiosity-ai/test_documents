@@ -1,0 +1,760 @@
+{
+  "file": "pdf/pdfa_005.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "Microsoft Word - Texas F&G Stamps",
+    "authors": [
+      "Marcy"
+    ],
+    "created_at": "2018-11-26T00:50:29Z",
+    "modified_at": "2018-11-26T00:51:58Z",
+    "created_by": "Microsoft Word - Texas F&G Stamps",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.5",
+      "producer": "Nuance PDF Create 8",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 8
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "extraction_method": "native",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "pdf/pdfa_005.pdf",
+      "final_uri": "pdf/pdfa_005.pdf"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "TX Quail Unlimited",
+          "1990-2005",
+          "16"
+        ],
+        [
+          "TX Nat’ l Wild Turkey Fed.",
+          "1984-1990",
+          "7"
+        ]
+      ],
+      "markdown": "| TX Quail Unlimited | 1990-2005 | 16 |\n| --- | --- | --- |\n| TX Nat’ l Wild Turkey Fed. | 1984-1990 | 7 |\n",
+      "page_number": 3,
+      "bounding_box": {
+        "x0": 153.11996459960938,
+        "y0": 311.76007080078125,
+        "x1": 454.30902099609375,
+        "y1": 340.30908203125
+      }
+    },
+    {
+      "cells": [
+        [
+          "Muzzleloader hunting",
+          "1994-2003",
+          "10"
+        ],
+        [
+          "Freshwater fishing",
+          "2004-2015",
+          "12"
+        ]
+      ],
+      "markdown": "| Muzzleloader hunting | 1994-2003 | 10 |\n| --- | --- | --- |\n| Freshwater fishing | 2004-2015 | 12 |\n",
+      "page_number": 3,
+      "bounding_box": {
+        "x0": 153.11996459960938,
+        "y0": 411.830078125,
+        "x1": 454.30902099609375,
+        "y1": 440.39007568359375
+      }
+    },
+    {
+      "cells": [
+        [
+          "Ira",
+          "W. Cotton",
+          ""
+        ],
+        [
+          "PaperQuest",
+          "",
+          "Press"
+        ],
+        [
+          "Naples,",
+          "Florida",
+          ""
+        ]
+      ],
+      "markdown": "| Ira | W. Cotton |  |\n| --- | --- | --- |\n| PaperQuest |  | Press |\n| Naples, | Florida |  |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 227.0,
+        "y0": 344.0,
+        "x1": 403.0,
+        "y1": 433.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "Abbett, Robert,",
+          "43",
+          "",
+          "Helgren, Kenneth,",
+          "9, 22, 27,",
+          "34"
+        ],
+        [
+          "Agnew, Al, 23,",
+          "30, 41",
+          "",
+          "Holcomb, Sharlee",
+          "H., 7, 20",
+          ""
+        ],
+        [
+          "Barnes, Al, 25,",
+          "28, 29, 30, 31,",
+          "32, 33, 37,",
+          "Kuhn, Bob,",
+          "23",
+          ""
+        ],
+        [
+          "44, 45",
+          "",
+          "",
+          "LeRoy, Eddie,",
+          "13, 35",
+          ""
+        ],
+        [
+          "Bateman, Robert,",
+          "16",
+          "",
+          "Maass, David",
+          "A., 15, 16, 17,",
+          "37, 41, 42"
+        ],
+        [
+          "Beckendorff, Charles,",
+          "12, 23,",
+          "24",
+          "Martin, Pris,",
+          "8",
+          ""
+        ],
+        [
+          "Booth, Herb, 13,",
+          "15, 17, 29,",
+          "31, 35, 37, 38,",
+          "Mathios, Peter,",
+          "18, 25",
+          ""
+        ],
+        [
+          "42, 44, 45",
+          "",
+          "",
+          "McGovern,",
+          "Randy, 32",
+          ""
+        ],
+        [
+          "Brasch, D., 19,",
+          "20",
+          "",
+          "Mckissick,",
+          "Randall,  44",
+          ""
+        ],
+        [
+          "Carlson, Ken,",
+          "12, 13, 15, 16,",
+          "23, 24, 33,",
+          "McLeroy, Reggie,",
+          "13, 36",
+          ""
+        ],
+        [
+          "35, 41, 43",
+          "",
+          "",
+          "Meline, Sherrie",
+          "Russell, 17,",
+          "23, 24, 25, 35,"
+        ],
+        [
+          "Carter, Calvin,",
+          "14, 15, 29,",
+          "32",
+          "36, 37, 43,",
+          "45",
+          ""
+        ],
+        [
+          "Cleland-Hura,",
+          "D. J., 24, 37",
+          "",
+          "Meltzoff, Stanley,",
+          "44",
+          ""
+        ],
+        [
+          "Cowan, John, 15,",
+          "16, 23, 29,",
+          "30, 41, 42, 44",
+          "Miller, Bruce,",
+          "14, 17, 25,",
+          "38"
+        ],
+        [
+          "Crowe, Phillip,",
+          "17, 34, 43",
+          "",
+          "Morel, Chris,",
+          "26",
+          ""
+        ],
+        [
+          "Cruwys, Robert,",
+          "29",
+          "",
+          "Morgan, Elishea,",
+          "21",
+          ""
+        ],
+        [
+          "Davis-King, Pamela,",
+          "23, 24",
+          "",
+          "Moss, Gary,",
+          "14, 16, 23",
+          ""
+        ],
+        [
+          "Dearman, John,",
+          "12, 13, 17,",
+          "24, 28, 29, 30,",
+          "Neal, Annette",
+          "M., 7, 20",
+          ""
+        ],
+        [
+          "31, 34, 35,",
+          "36, 37, 38, 39,",
+          "40, 42, 44, 45",
+          "Pasqua, Lou,",
+          "43",
+          ""
+        ],
+        [
+          "Drinkard, David,",
+          "12, 24, 29,",
+          "30, 31, 33,",
+          "Peebles, Diane",
+          "Rome, 31,",
+          "35, 45"
+        ],
+        [
+          "34, 38, 42",
+          "",
+          "",
+          "Piersal, Laura,",
+          "21",
+          ""
+        ],
+        [
+          "Faulk, Jared,",
+          "27, 33",
+          "",
+          "Quinn, Thomas,",
+          "24, 25, 35,",
+          "38, 39, 40"
+        ],
+        [
+          "Fleming, Rob,",
+          "8, 9, 11, 12,",
+          "21, 22, 27, 28,",
+          "Ray, Don, 28,",
+          "30, 31, 32, 34,",
+          "36, 38, 39,"
+        ],
+        [
+          "33, 34, 35,",
+          "36",
+          "",
+          "40, 44, 45",
+          "",
+          ""
+        ],
+        [
+          "Gennusa, Ragan,",
+          "12, 13, 19,",
+          "34",
+          "Reece, Maynard,",
+          "15",
+          ""
+        ],
+        [
+          "Gentling, Scott",
+          "& Stuart, 14,",
+          "17, 36, 37, 45",
+          "Salas-Cox, Josie,",
+          "7, 8",
+          ""
+        ],
+        [
+          "Guzman, Clemente,",
+          "8, 9, 10,",
+          "11, 12, 21,",
+          "Saldana, 7",
+          "",
+          ""
+        ],
+        [
+          "22, 26, 27,",
+          "28, 33, 34, 35,",
+          "36, 37, 38, 39,",
+          "Sloan, Helen,",
+          "7",
+          ""
+        ],
+        [
+          "40",
+          "",
+          "",
+          "Smith, Daniel,",
+          "16, 17, 33",
+          ""
+        ],
+        [
+          "Hall, Dave, 32",
+          "",
+          "",
+          "Smith, Dee,",
+          "23",
+          ""
+        ],
+        [
+          "Hardie, Eldridge,",
+          "13, 14, 36,",
+          "38, 41, 42, 43",
+          "Stark, Pat,",
+          "8, 21, 26",
+          ""
+        ],
+        [
+          "Hautman, James,",
+          "14, 16, 17,",
+          "18, 24, 25,",
+          "Stidham, Mike,",
+          "30, 31, 34,",
+          "42, 44"
+        ],
+        [
+          "34, 37, 38,",
+          "39, 40, 42",
+          "",
+          "Storm, Scot,",
+          "18, 38, 39, 40",
+          ""
+        ],
+        [
+          "Hautman, Joseph,",
+          "14, 17, 24,",
+          "34, 35, 36,",
+          "Sussino, Mark,",
+          "28, 30, 31,",
+          "36, 38"
+        ],
+        [
+          "45",
+          "",
+          "",
+          "Wells, Linda,",
+          "8, 11, 21, 22,",
+          "27, 33, 34"
+        ],
+        [
+          "Hautman, Robert,",
+          "13, 14, 17,",
+          "18, 34, 38",
+          "Wells, Ronnie,",
+          "31, 44",
+          ""
+        ],
+        [
+          "Hayden, Larry,",
+          "15, 16",
+          "",
+          "Wilson, Greg,",
+          "25",
+          ""
+        ]
+      ],
+      "markdown": "| Abbett, Robert, | 43 |  | Helgren, Kenneth, | 9, 22, 27, | 34 |\n| --- | --- | --- | --- | --- | --- |\n| Agnew, Al, 23, | 30, 41 |  | Holcomb, Sharlee | H., 7, 20 |  |\n| Barnes, Al, 25, | 28, 29, 30, 31, | 32, 33, 37, | Kuhn, Bob, | 23 |  |\n| 44, 45 |  |  | LeRoy, Eddie, | 13, 35 |  |\n| Bateman, Robert, | 16 |  | Maass, David | A., 15, 16, 17, | 37, 41, 42 |\n| Beckendorff, Charles, | 12, 23, | 24 | Martin, Pris, | 8 |  |\n| Booth, Herb, 13, | 15, 17, 29, | 31, 35, 37, 38, | Mathios, Peter, | 18, 25 |  |\n| 42, 44, 45 |  |  | McGovern, | Randy, 32 |  |\n| Brasch, D., 19, | 20 |  | Mckissick, | Randall,  44 |  |\n| Carlson, Ken, | 12, 13, 15, 16, | 23, 24, 33, | McLeroy, Reggie, | 13, 36 |  |\n| 35, 41, 43 |  |  | Meline, Sherrie | Russell, 17, | 23, 24, 25, 35, |\n| Carter, Calvin, | 14, 15, 29, | 32 | 36, 37, 43, | 45 |  |\n| Cleland-Hura, | D. J., 24, 37 |  | Meltzoff, Stanley, | 44 |  |\n| Cowan, John, 15, | 16, 23, 29, | 30, 41, 42, 44 | Miller, Bruce, | 14, 17, 25, | 38 |\n| Crowe, Phillip, | 17, 34, 43 |  | Morel, Chris, | 26 |  |\n| Cruwys, Robert, | 29 |  | Morgan, Elishea, | 21 |  |\n| Davis-King, Pamela, | 23, 24 |  | Moss, Gary, | 14, 16, 23 |  |\n| Dearman, John, | 12, 13, 17, | 24, 28, 29, 30, | Neal, Annette | M., 7, 20 |  |\n| 31, 34, 35, | 36, 37, 38, 39, | 40, 42, 44, 45 | Pasqua, Lou, | 43 |  |\n| Drinkard, David, | 12, 24, 29, | 30, 31, 33, | Peebles, Diane | Rome, 31, | 35, 45 |\n| 34, 38, 42 |  |  | Piersal, Laura, | 21 |  |\n| Faulk, Jared, | 27, 33 |  | Quinn, Thomas, | 24, 25, 35, | 38, 39, 40 |\n| Fleming, Rob, | 8, 9, 11, 12, | 21, 22, 27, 28, | Ray, Don, 28, | 30, 31, 32, 34, | 36, 38, 39, |\n| 33, 34, 35, | 36 |  | 40, 44, 45 |  |  |\n| Gennusa, Ragan, | 12, 13, 19, | 34 | Reece, Maynard, | 15 |  |\n| Gentling, Scott | & Stuart, 14, | 17, 36, 37, 45 | Salas-Cox, Josie, | 7, 8 |  |\n| Guzman, Clemente, | 8, 9, 10, | 11, 12, 21, | Saldana, 7 |  |  |\n| 22, 26, 27, | 28, 33, 34, 35, | 36, 37, 38, 39, | Sloan, Helen, | 7 |  |\n| 40 |  |  | Smith, Daniel, | 16, 17, 33 |  |\n| Hall, Dave, 32 |  |  | Smith, Dee, | 23 |  |\n| Hardie, Eldridge, | 13, 14, 36, | 38, 41, 42, 43 | Stark, Pat, | 8, 21, 26 |  |\n| Hautman, James, | 14, 16, 17, | 18, 24, 25, | Stidham, Mike, | 30, 31, 34, | 42, 44 |\n| 34, 37, 38, | 39, 40, 42 |  | Storm, Scot, | 18, 38, 39, 40 |  |\n| Hautman, Joseph, | 14, 17, 24, | 34, 35, 36, | Sussino, Mark, | 28, 30, 31, | 36, 38 |\n| 45 |  |  | Wells, Linda, | 8, 11, 21, 22, | 27, 33, 34 |\n| Hautman, Robert, | 13, 14, 17, | 18, 34, 38 | Wells, Ronnie, | 31, 44 |  |\n| Hayden, Larry, | 15, 16 |  | Wilson, Greg, | 25 |  |\n",
+      "page_number": 7,
+      "bounding_box": {
+        "x0": 90.0,
+        "y0": 183.0,
+        "x1": 539.0,
+        "y1": 692.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "Coil binding Black",
+          "(opens flat) & White edition",
+          "(color cover)",
+          "________ X ________ X",
+          "$37.00 = $20.00 =",
+          "$________ $________"
+        ],
+        [
+          "No. 2-Michigan",
+          "Fish & Game",
+          "Licenses & Club",
+          "Badges, 2 Ed. nd",
+          "(2010)",
+          ""
+        ],
+        [
+          "Saddle-stitched",
+          "binding",
+          "",
+          "________ X",
+          "$35.00  =",
+          "$ ________"
+        ],
+        [
+          "Coil binding",
+          "(opens flat)",
+          "",
+          "________ X",
+          "$37.00  =",
+          "$ ________"
+        ],
+        [
+          "Black",
+          "& White edition",
+          "(color  cover)",
+          "________ X",
+          "$20.00  =",
+          "$ ________"
+        ],
+        [
+          "No. 3-National",
+          "Wildlife Federation®",
+          "Christmas",
+          "Stamps (2009)",
+          "",
+          ""
+        ],
+        [
+          "Saddle-stitched",
+          "binding",
+          "",
+          "________ X",
+          "$35.00  =",
+          "$ ________"
+        ],
+        [
+          "Coil binding",
+          "(opens flat)",
+          "",
+          "________ X",
+          "$37.00  =",
+          "$ ________"
+        ],
+        [
+          "Hard Cover",
+          "",
+          "",
+          "________ X",
+          "$45.00  =",
+          "$ ________"
+        ],
+        [
+          "No. 4-Voluntary",
+          "Wildlife Conservation",
+          "Stamps,",
+          "Vol I-Gov’t",
+          "Issues (2010)",
+          ""
+        ],
+        [
+          "Saddle-stitched",
+          "binding",
+          "",
+          "________ X",
+          "$35.00  =",
+          "$ ________"
+        ],
+        [
+          "Coil binding",
+          "(opens flat)",
+          "",
+          "________ X",
+          "$37.00  =",
+          "$ ________"
+        ],
+        [
+          "No. 5-Pennsylvania",
+          "Fishing",
+          "License Badges &",
+          "Patches (2011)",
+          "",
+          ""
+        ],
+        [
+          "Saddle-stitched",
+          "binding",
+          "",
+          "________ X",
+          "$35.00  =",
+          "$ ________"
+        ],
+        [
+          "Coil binding",
+          "(opens flat)",
+          "",
+          "________ X",
+          "$37.00  =",
+          "$ ________"
+        ],
+        [
+          "Black",
+          "& White edition",
+          "(color  cover)",
+          "________ X",
+          "$20.00  =",
+          "$ ________"
+        ],
+        [
+          "No. 6-Catalog",
+          "of State Fish",
+          "& Game License Badges,",
+          "Tokens &",
+          "Tags, 2 Ed. nd",
+          "(2015)"
+        ],
+        [
+          "Saddle-stitched",
+          "binding",
+          "",
+          "________ X",
+          "$35.00  =",
+          "$ ________"
+        ],
+        [
+          "Coil binding",
+          "(opens flat)",
+          "",
+          "________ X",
+          "$37.00  =",
+          "$ ________"
+        ],
+        [
+          "Black",
+          "& White edition",
+          "(color  cover)",
+          "________ X",
+          "$20.00  =",
+          "$ ________"
+        ],
+        [
+          "No. 7-Nebraska",
+          "Small Game,",
+          "Fishing & Trapping",
+          "Licenses, 1901-2009",
+          "(2015)",
+          ""
+        ],
+        [
+          "Perfect",
+          "binding",
+          "",
+          "________ X",
+          "$65.00  =",
+          "________ $"
+        ],
+        [
+          "Coil binding",
+          "(opens flat)",
+          "",
+          "________ X",
+          "$65.00  =",
+          "$ ________"
+        ],
+        [
+          "Black",
+          "& White edition",
+          "(color  cover)",
+          "________ X",
+          "$25.00  =",
+          "$ ________"
+        ],
+        [
+          "Hard Cover",
+          "",
+          "",
+          "________ X",
+          "$80.00  =",
+          "$ ________"
+        ],
+        [
+          "No. 8-Texas",
+          "Fish & Game Stamps",
+          "(2018)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Saddle-stitched",
+          "binding",
+          "",
+          "________ X",
+          "$35.00  =",
+          "$ ________"
+        ],
+        [
+          "Coil binding",
+          "(opens flat)",
+          "",
+          "________ X",
+          "$37.00  =",
+          "$ ________"
+        ],
+        [
+          "Black",
+          "& White edition",
+          "(color  cover)",
+          "________ X",
+          "$20.00  =",
+          "$ ________"
+        ],
+        [
+          "Hard Cover",
+          "",
+          "",
+          "________ X",
+          "$45.00  =",
+          "$ ________"
+        ],
+        [
+          "Eric Dolan &",
+          "Bob Dumaine, The",
+          "Duck Stamp Story,",
+          "Krause Publications",
+          "(2000)",
+          ""
+        ],
+        [
+          "Hard Cover",
+          "",
+          "",
+          "________ X",
+          "$44.00  =",
+          "$ ________"
+        ],
+        [
+          "Soft Cover",
+          "",
+          "",
+          "________ X",
+          "$20.00  =",
+          "$ ________"
+        ],
+        [
+          "Terence Hines,",
+          "Old Home Week",
+          "Seals (2012)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Saddle-stitched",
+          "binding",
+          "",
+          "________ X",
+          "$25.00  =",
+          "$ ________"
+        ],
+        [
+          "Terence Hines,",
+          "A History of Postal",
+          "Service in Hanover,",
+          "New Hampshire",
+          "Since",
+          "1761 (2016)"
+        ],
+        [
+          "Perfect",
+          "binding",
+          "",
+          "________ X",
+          "$50.00  =",
+          "$ ________"
+        ],
+        [
+          "Coil binding",
+          "(opens flat)",
+          "",
+          "________ X",
+          "$52.00  =",
+          "$ ________"
+        ],
+        [
+          "Domestic shipping",
+          "for first handbook",
+          "(please email",
+          "us for foreign shipping",
+          "rates.)",
+          "$  5.00"
+        ],
+        [
+          "Shipping for each",
+          "additional handbook",
+          "",
+          "________ X",
+          "$ 2.00 =",
+          "$ ________"
+        ],
+        [
+          "Total remitted",
+          "by check or money",
+          "order",
+          "",
+          "",
+          "$ ________"
+        ]
+      ],
+      "markdown": "| Coil binding Black | (opens flat) & White edition | (color cover) | ________ X ________ X | $37.00 = $20.00 = | $________ $________ |\n| --- | --- | --- | --- | --- | --- |\n| No. 2-Michigan | Fish & Game | Licenses & Club | Badges, 2 Ed. nd | (2010) |  |\n| Saddle-stitched | binding |  | ________ X | $35.00  = | $ ________ |\n| Coil binding | (opens flat) |  | ________ X | $37.00  = | $ ________ |\n| Black | & White edition | (color  cover) | ________ X | $20.00  = | $ ________ |\n| No. 3-National | Wildlife Federation® | Christmas | Stamps (2009) |  |  |\n| Saddle-stitched | binding |  | ________ X | $35.00  = | $ ________ |\n| Coil binding | (opens flat) |  | ________ X | $37.00  = | $ ________ |\n| Hard Cover |  |  | ________ X | $45.00  = | $ ________ |\n| No. 4-Voluntary | Wildlife Conservation | Stamps, | Vol I-Gov’t | Issues (2010) |  |\n| Saddle-stitched | binding |  | ________ X | $35.00  = | $ ________ |\n| Coil binding | (opens flat) |  | ________ X | $37.00  = | $ ________ |\n| No. 5-Pennsylvania | Fishing | License Badges & | Patches (2011) |  |  |\n| Saddle-stitched | binding |  | ________ X | $35.00  = | $ ________ |\n| Coil binding | (opens flat) |  | ________ X | $37.00  = | $ ________ |\n| Black | & White edition | (color  cover) | ________ X | $20.00  = | $ ________ |\n| No. 6-Catalog | of State Fish | & Game License Badges, | Tokens & | Tags, 2 Ed. nd | (2015) |\n| Saddle-stitched | binding |  | ________ X | $35.00  = | $ ________ |\n| Coil binding | (opens flat) |  | ________ X | $37.00  = | $ ________ |\n| Black | & White edition | (color  cover) | ________ X | $20.00  = | $ ________ |\n| No. 7-Nebraska | Small Game, | Fishing & Trapping | Licenses, 1901-2009 | (2015) |  |\n| Perfect | binding |  | ________ X | $65.00  = | ________ $ |\n| Coil binding | (opens flat) |  | ________ X | $65.00  = | $ ________ |\n| Black | & White edition | (color  cover) | ________ X | $25.00  = | $ ________ |\n| Hard Cover |  |  | ________ X | $80.00  = | $ ________ |\n| No. 8-Texas | Fish & Game Stamps | (2018) |  |  |  |\n| Saddle-stitched | binding |  | ________ X | $35.00  = | $ ________ |\n| Coil binding | (opens flat) |  | ________ X | $37.00  = | $ ________ |\n| Black | & White edition | (color  cover) | ________ X | $20.00  = | $ ________ |\n| Hard Cover |  |  | ________ X | $45.00  = | $ ________ |\n| Eric Dolan & | Bob Dumaine, The | Duck Stamp Story, | Krause Publications | (2000) |  |\n| Hard Cover |  |  | ________ X | $44.00  = | $ ________ |\n| Soft Cover |  |  | ________ X | $20.00  = | $ ________ |\n| Terence Hines, | Old Home Week | Seals (2012) |  |  |  |\n| Saddle-stitched | binding |  | ________ X | $25.00  = | $ ________ |\n| Terence Hines, | A History of Postal | Service in Hanover, | New Hampshire | Since | 1761 (2016) |\n| Perfect | binding |  | ________ X | $50.00  = | $ ________ |\n| Coil binding | (opens flat) |  | ________ X | $52.00  = | $ ________ |\n| Domestic shipping | for first handbook | (please email | us for foreign shipping | rates.) | $  5.00 |\n| Shipping for each | additional handbook |  | ________ X | $ 2.00 = | $ ________ |\n| Total remitted | by check or money | order |  |  | $ ________ |\n",
+      "page_number": 8,
+      "bounding_box": {
+        "x0": 90.0,
+        "y0": 130.0,
+        "x1": 495.0,
+        "y1": 719.0
+      }
+    }
+  ],
+  "content": {
+    "html": "<h1>Texas Fish &amp; Game Stamps</h1>\n<table>\n<thead>\n<tr>\n<th>Ira</th>\n<th>W. Cotton</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>PaperQuest</td>\n<td></td>\n<td>Press</td>\n</tr>\n<tr>\n<td>Naples,</td>\n<td>Florida</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3>Fish &amp; Game Collector Handbook Number 8</h3>\n<h2>Contents</h2>\n<p><strong>Introduction.....................................................................4 Texas Hunting Stamps ....................................................7 Archery Stamps........................................................7 Muzzleloader Hunting Stamps ..............................11 Turkey Stamps .......................................................12 Upland Game Bird Stamps....................................14 Waterfowl Stamps..................................................15 White-Winged Dove ...............................................19 Non-Game Stamps .................................................23 Texas Fishing Stamps....................................................26 Freshwater Trout ...................................................26 Freshwater Fishing.................................................28 Saltwater Fishing....................................................29 Texas Collector Booklets...............................................33 Texas Society Labels......................................................41 Wild Turkey Federation Labels.............................41 Quail Unlimited Labels ..........................................42 Black Bass Unlimited Label...................................43 Gulf Coast Conservation Association Labels ........44 Artist Cross Reference ........</strong></p>\n<p>Error! Bookmark not defined.</p>\n<p><strong>About the Author ..........................................................51 About PaperQuest Press ...............................................51</strong></p>\n<p>* * * * *</p>\n<p>Texas issued its first license stamp in 1971 for a long-running Archery hunting stamps followed in 1975 and waterfowl hunting stamps in 1981, later than most states. Three additional series were inaugurated in 1985 – trout fishing, saltwater fishing, and nongame stamps. Wild turkey hunting stamps were introduced in 1991, followed by muzzleloader hunting stamps in 1994. In 1996, the era of mandatory stamps for hunting and fishing ended, as the individual stamp series changed to voluntary collector stamps that were all printed in a single booklet pane that over time shrunk from eight stamps to seven stamps with a blank label, and finally to just series ended in 2003. In 2004 the collector trout stamp fishing stamp and in 2005 the turkey and white-winged dove collector stamps were replaced by a collector upland game bird stamp. Finally, in 2015 the last stamps was printed and all the stamp series ended.</p>\n<p>six stamps. The muzzleloader collector stamp was replaced by a collector freshwater</p>\n<h2>Series</h2>\n<h2>Duration</h2>\n<p>White-winged dove hunting Archery hunting Waterfowl hunting Freshwater trout fishing Saltwater fishing Nongame Wild turkey hunting Upland game bird hunting <strong>Total stamps</strong> Collector booklets <strong>Total state-issued items</strong> Texas Black Bass Unlimited Coastal Conservation Ass'n To<strong>tal society items Total collectable items</strong></p>\n<p>1971-2004 1975-2015 1981-2015 1985-2003 1985-2015 1985-2015 1991-2004 2005-2015 1996-2015 1987 1983-2004</p>\n<table>\n<thead>\n<tr>\n<th>Muzzleloader hunting</th>\n<th>1994-2003</th>\n<th>10</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Freshwater fishing</td>\n<td>2004-2015</td>\n<td>12</td>\n</tr>\n</tbody>\n</table>\n<h2>238</h2>\n<p><strong>258</strong></p>\n<p>1 22</p>\n<table>\n<thead>\n<tr>\n<th>TX Quail Unlimited</th>\n<th>1990-2005</th>\n<th>16</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>TX Nat’ l Wild Turkey Fed.</td>\n<td>1984-1990</td>\n<td>7</td>\n</tr>\n</tbody>\n</table>\n<p><strong>46 304</strong></p>\n<p>* *</p>\n<p>* * *</p>\n<h2>Muzzleloader Hunting Stamps</h2>\n<p>The Texas Muzzleloader Hunting Stamp series began in 1994 but only the first two stamps were required to validate licenses. As described above, in 1996 all license stamp series were replaced by collector stamps that were neither required nor valid for hunting.</p>\n<h3>Muzzleloader License Stamps</h3>\n<h2>1994-95 1995-96</h2>\n<p><strong>Rob Fleming Rob Fleming</strong></p>\n<h3>Muzzleloader Collector Stamps</h3>\n<h2>199619971998</h2>\n<p><strong>Clemente Guzman Linda Wells Rob 1999 2000 Clemente Guzman Rob Fleming Clemente</strong> 11 <strong>Fleming 2001</strong></p>\n<h2>Guzman</h2>\n<h3>Waterfowl</h3>\n<p>As noted previously, Texas ended all mandatory license stamp series in 1995 and replaced them with collector stamps printed se-tenant in a single booklet pane. Throughout the series, the waterfowl collector stamps always occupied the top right position in the pane, so they all have straight edges at the top and right side of the stamp.</p>\n<h2>199619971998</h2>\n<p><strong>Daniel Smith 199920002001 Robert Hautman 200220032004 Joseph Hautman 20052006 Herb Booth</strong></p>\n<h3>Collector Stamps</h3>\n<p><strong>James Hautman Sherrie Russell Meline Sherrie Russell Meline David A. Maass</strong> 17 <strong>Phillip Crowe John Dearman Scott and Stuart Gentling</strong> 2007 <strong>Bruce Miller</strong></p>\n<h2>Archery</h2>\n<p>Black serial numbers. 1975 $3.25, Archer [Helen Sloan] 1976 $3.25, Arrows [Annette</p>\n<ul>\n<li>M. Neal] 1977 $3.25, Native Archer [Sharlee H. Holcomb] 1978 $3.25, Arrowhead [Annette M. Neal] 1979 $3.25, Hunter/deer [Annette</li>\n<li>M. Neal] 5.00 1980 $3.25, Nocked arrow [Saldana] 1981 $3.25, Arrowhead [Josie Salas-Cox] 1982 $3.25, Bow &amp; arrow [Josie Salas-Cox] 1983 $6.00, Arrow parts [Josie Salas-Cox] 1984 $6.00, Archer [] 1985 $6.00, Archer [Josie Salas—Cox] 1986 $6.00, Arrow parts [Pat Stark] 1987 $6.00, Hunters [] 1988 $6.00, Arrow parts [Pris Martin] 1989 $6.00, Arrowhead [Pat Stark] 1990 $6.00, Handling arrow [Rob Fleming] 12.00 1991 $6.00, Hunters [Clemente Guzman] 1992 $6.00, Arrows [Clemente Guzman] 1993 $6.00, Hunting buffalo [Rob Fleming] 12.00 1994 $6.00, Deer [Linda Wells] 1995 $6.00, Arrow &amp; bow [Linda Wells] Change to collector-only stamps, issued on calendar year basis 1996 $3.00, Arrows &amp; antler [Rob Fleming] 1997 $3.00, Arrowheads [Clemente Guzman] 1998 $3.00, Hunters [Kenneth Helgren] 1999 $3.00, Indian [Clemente Guzman] 2000 $3.00, Deer [Rob Fleming] 2001 $3.00, Deer [Clemente Guzman] 2002 $3.00, Young archer [Rob Fleming] 2003 $3.00, Chief [Clemente Guzman] 2004 $3.00, Camo [Clemente Guzman] 2005 $7.00, Woman [Clemente Guzman] 2006 $7.00, Hat [Clemente Guzman] 2007 $7.00, T-shirt [Clemente Guzman] 2008 $7.00, Cave [Clemente Guzman] 2009 $7.00, Woman [Clemente Guzman] 2010 $7.00, Deer [Clemente Guzman] 2011 $7.00, Hog [Clemente Guzman] 2012 $7.00, Hunters [Clemente Guzman] 2013 $7.00, Rattling for Deer [Guzman] 2014 $7.00, Turkey [Clemente Guzman] 2015 $7.00, Antelope [Clemente Guzman] Series ended</li>\n</ul>\n<p><strong>Muzzleloader Hunting</strong> <em>Black serial numbers. Required for hunting; show expiration date on stamp.</em> 1994 $10, Mountain Man [Rob Fleming] 1995 $10, Flintlock [Rob Fleming] <em>Change to collector-only stamps, issued on calendar year basis</em> 1996 $3, Hunter [Clemente Guzman] 1997 $3, Flintlock &amp; Powder [Linda Wells] 2.50 1998 $3, Mountain Man [Rob Fleming] 1999 $3, Hunter [Clemente Guzman] 2000 $3, Riding hunter [Rob Fleming] 2001 $3, Flintlock [Clemente Guzman] 2002 $3, Pack train [Rob Fleming]</p>\n<h3>Catalog</h3>\n<p>3.00</p>\n<ul>\n<li>3.00</li>\n<li>5.00</li>\n<li></li>\n<li>25.00</li>\n<li>15.00</li>\n<li>4.00</li>\n<li>25.00</li>\n<li>22.00</li>\n<li>22.50</li>\n<li>15.00</li>\n<li></li>\n<li>12.00</li>\n<li></li>\n<li>12.00</li>\n<li>2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 25.00</li>\n<li>25.00</li>\n<li>2.50 2.50 2.50 2.50 2.50 2.50</li>\n</ul>\n<h3>Listings</h3>\n<p>2004 $3, Coaching [Clemente Series ended</p>\n<h2>Non-game</h2>\n<p>Black serial numbers. 1985 $5.00, Cranes [Ken Carlson] 1986 $5.00, Prairie Chickens 1987 $5.00, Eagle [Bob Kuhn] 1988 $5.00, Kestrel [Charles Beckendorff] 1989 $5.00, Ocelot [Al Agnew] 1990 $5.00, Quail [Sherrie Russell Meline] 1991 $5.00, Hawk [Pamela Davis-King] 1992 $5.00, Heron [Gary Moss] 1993 $5.00, Red Egret [Dee Kelley] 1994 $5.00, Horn. Owl [Pamela Davis-King] 1995 $5.00, Road Runners [C. Beckendorff] Change to collector-only 1996 $3.00, Cardinals [David Drinkard] 1997 $3.00, Golden Eagle [Joseph 1998 $3.00, Mockinbirds 1999 $3.00, White Ibis [James Hautman] 2000 $3.00, Scissortail [Ken Carlson] 2001 $3.00, Shrike [Thomas 2002 $3.00, Avocet [Sherrie Russell Meline] 2003 $3.00, Green Jay [John Dearman] 2004 $3.00, Kingfisher [Joseph Hautman] 2005 $3.00, Curlew [D.J. Cleland-Hura] 2006$3.00, Barn Owl [Sherrie R. Meline] 2007 $3.00, Red-tail Hawk [James Hautman] 2008 $3.00, Heron [Bruce 2009 $3.00, Harris Hawk [Thomas 2010 $3.00, Cedar Waxwing [Peter Mathios] 2011 $3.00, Black Skimmers 2012 $3.00, Blackbird [Greg Wilson] 2013 $3.00, Goldfinches [Bruce Miller] 2014 $3.00, Owl [Thomas 2015 $3.00, Wading birds [Thomas Series ended</p>\n<h2>Turkey</h2>\n<p><em>Black serial numbers. Required for hunting; show expiration date on stamp.</em> 1991 $5, Turkey pair [John Dearman] 1992 $5, Turkey [Ken Carlson] 1993 $5, Turkey [Reagan Gennusa] 1994 $5, Turkey strutting [David Drinkard] 1995 $5, Turkey Trio [Charles Beckendorff]11.00 <em>Change to collector-only</em> 1996 $3, Turkey pair [Ken Carlson] 1997 $3, Turkey &amp; cactus [John Dearman] 1998 $3, Turkey pair [Robert 1999 $3, Turkey [Ragan Gennusa] 2000 $3, Turkey trio [Eddie LeRoy] 2001 $3, Turkey pair [Herb Booth] 2002 $3, Turkey [John Dearman] 2003 $3, Turkey [Reggie McLeroy] 2004 $3, Turkey strutting [Eldridge Hardie] 2.50 <em>Series ended</em> <strong>Upland Game Bird Stamp</strong> <em>Successor to Turkey Stamp series. All are collector stamps with no hunting validity. Black serial numbers.</em></p>\n<ul>\n<li>16.00</li>\n<li>11.00</li>\n<li></li>\n<li>stamps, calendar year basis 2.50 2.50 Hautman] 2.50 2.50 2.50 2.50 2.50 2.50</li>\n</ul>\n<h3>Artist Cross</h3>\n<h3>Reference</h3>\n<table>\n<thead>\n<tr>\n<th>Abbett, Robert,</th>\n<th>43</th>\n<th></th>\n<th>Helgren, Kenneth,</th>\n<th>9, 22, 27,</th>\n<th>34</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Agnew, Al, 23,</td>\n<td>30, 41</td>\n<td></td>\n<td>Holcomb, Sharlee</td>\n<td>H., 7, 20</td>\n<td></td>\n</tr>\n<tr>\n<td>Barnes, Al, 25,</td>\n<td>28, 29, 30, 31,</td>\n<td>32, 33, 37,</td>\n<td>Kuhn, Bob,</td>\n<td>23</td>\n<td></td>\n</tr>\n<tr>\n<td>44, 45</td>\n<td></td>\n<td></td>\n<td>LeRoy, Eddie,</td>\n<td>13, 35</td>\n<td></td>\n</tr>\n<tr>\n<td>Bateman, Robert,</td>\n<td>16</td>\n<td></td>\n<td>Maass, David</td>\n<td>A., 15, 16, 17,</td>\n<td>37, 41, 42</td>\n</tr>\n<tr>\n<td>Beckendorff, Charles,</td>\n<td>12, 23,</td>\n<td>24</td>\n<td>Martin, Pris,</td>\n<td>8</td>\n<td></td>\n</tr>\n<tr>\n<td>Booth, Herb, 13,</td>\n<td>15, 17, 29,</td>\n<td>31, 35, 37, 38,</td>\n<td>Mathios, Peter,</td>\n<td>18, 25</td>\n<td></td>\n</tr>\n<tr>\n<td>42, 44, 45</td>\n<td></td>\n<td></td>\n<td>McGovern,</td>\n<td>Randy, 32</td>\n<td></td>\n</tr>\n<tr>\n<td>Brasch, D., 19,</td>\n<td>20</td>\n<td></td>\n<td>Mckissick,</td>\n<td>Randall, 44</td>\n<td></td>\n</tr>\n<tr>\n<td>Carlson, Ken,</td>\n<td>12, 13, 15, 16,</td>\n<td>23, 24, 33,</td>\n<td>McLeroy, Reggie,</td>\n<td>13, 36</td>\n<td></td>\n</tr>\n<tr>\n<td>35, 41, 43</td>\n<td></td>\n<td></td>\n<td>Meline, Sherrie</td>\n<td>Russell, 17,</td>\n<td>23, 24, 25, 35,</td>\n</tr>\n<tr>\n<td>Carter, Calvin,</td>\n<td>14, 15, 29,</td>\n<td>32</td>\n<td>36, 37, 43,</td>\n<td>45</td>\n<td></td>\n</tr>\n<tr>\n<td>Cleland-Hura,</td>\n<td>D. J., 24, 37</td>\n<td></td>\n<td>Meltzoff, Stanley,</td>\n<td>44</td>\n<td></td>\n</tr>\n<tr>\n<td>Cowan, John, 15,</td>\n<td>16, 23, 29,</td>\n<td>30, 41, 42, 44</td>\n<td>Miller, Bruce,</td>\n<td>14, 17, 25,</td>\n<td>38</td>\n</tr>\n<tr>\n<td>Crowe, Phillip,</td>\n<td>17, 34, 43</td>\n<td></td>\n<td>Morel, Chris,</td>\n<td>26</td>\n<td></td>\n</tr>\n<tr>\n<td>Cruwys, Robert,</td>\n<td>29</td>\n<td></td>\n<td>Morgan, Elishea,</td>\n<td>21</td>\n<td></td>\n</tr>\n<tr>\n<td>Davis-King, Pamela,</td>\n<td>23, 24</td>\n<td></td>\n<td>Moss, Gary,</td>\n<td>14, 16, 23</td>\n<td></td>\n</tr>\n<tr>\n<td>Dearman, John,</td>\n<td>12, 13, 17,</td>\n<td>24, 28, 29, 30,</td>\n<td>Neal, Annette</td>\n<td>M., 7, 20</td>\n<td></td>\n</tr>\n<tr>\n<td>31, 34, 35,</td>\n<td>36, 37, 38, 39,</td>\n<td>40, 42, 44, 45</td>\n<td>Pasqua, Lou,</td>\n<td>43</td>\n<td></td>\n</tr>\n<tr>\n<td>Drinkard, David,</td>\n<td>12, 24, 29,</td>\n<td>30, 31, 33,</td>\n<td>Peebles, Diane</td>\n<td>Rome, 31,</td>\n<td>35, 45</td>\n</tr>\n<tr>\n<td>34, 38, 42</td>\n<td></td>\n<td></td>\n<td>Piersal, Laura,</td>\n<td>21</td>\n<td></td>\n</tr>\n<tr>\n<td>Faulk, Jared,</td>\n<td>27, 33</td>\n<td></td>\n<td>Quinn, Thomas,</td>\n<td>24, 25, 35,</td>\n<td>38, 39, 40</td>\n</tr>\n<tr>\n<td>Fleming, Rob,</td>\n<td>8, 9, 11, 12,</td>\n<td>21, 22, 27, 28,</td>\n<td>Ray, Don, 28,</td>\n<td>30, 31, 32, 34,</td>\n<td>36, 38, 39,</td>\n</tr>\n<tr>\n<td>33, 34, 35,</td>\n<td>36</td>\n<td></td>\n<td>40, 44, 45</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Gennusa, Ragan,</td>\n<td>12, 13, 19,</td>\n<td>34</td>\n<td>Reece, Maynard,</td>\n<td>15</td>\n<td></td>\n</tr>\n<tr>\n<td>Gentling, Scott</td>\n<td>&amp; Stuart, 14,</td>\n<td>17, 36, 37, 45</td>\n<td>Salas-Cox, Josie,</td>\n<td>7, 8</td>\n<td></td>\n</tr>\n<tr>\n<td>Guzman, Clemente,</td>\n<td>8, 9, 10,</td>\n<td>11, 12, 21,</td>\n<td>Saldana, 7</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>22, 26, 27,</td>\n<td>28, 33, 34, 35,</td>\n<td>36, 37, 38, 39,</td>\n<td>Sloan, Helen,</td>\n<td>7</td>\n<td></td>\n</tr>\n<tr>\n<td>40</td>\n<td></td>\n<td></td>\n<td>Smith, Daniel,</td>\n<td>16, 17, 33</td>\n<td></td>\n</tr>\n<tr>\n<td>Hall, Dave, 32</td>\n<td></td>\n<td></td>\n<td>Smith, Dee,</td>\n<td>23</td>\n<td></td>\n</tr>\n<tr>\n<td>Hardie, Eldridge,</td>\n<td>13, 14, 36,</td>\n<td>38, 41, 42, 43</td>\n<td>Stark, Pat,</td>\n<td>8, 21, 26</td>\n<td></td>\n</tr>\n<tr>\n<td>Hautman, James,</td>\n<td>14, 16, 17,</td>\n<td>18, 24, 25,</td>\n<td>Stidham, Mike,</td>\n<td>30, 31, 34,</td>\n<td>42, 44</td>\n</tr>\n<tr>\n<td>34, 37, 38,</td>\n<td>39, 40, 42</td>\n<td></td>\n<td>Storm, Scot,</td>\n<td>18, 38, 39, 40</td>\n<td></td>\n</tr>\n<tr>\n<td>Hautman, Joseph,</td>\n<td>14, 17, 24,</td>\n<td>34, 35, 36,</td>\n<td>Sussino, Mark,</td>\n<td>28, 30, 31,</td>\n<td>36, 38</td>\n</tr>\n<tr>\n<td>45</td>\n<td></td>\n<td></td>\n<td>Wells, Linda,</td>\n<td>8, 11, 21, 22,</td>\n<td>27, 33, 34</td>\n</tr>\n<tr>\n<td>Hautman, Robert,</td>\n<td>13, 14, 17,</td>\n<td>18, 34, 38</td>\n<td>Wells, Ronnie,</td>\n<td>31, 44</td>\n<td></td>\n</tr>\n<tr>\n<td>Hayden, Larry,</td>\n<td>15, 16</td>\n<td></td>\n<td>Wilson, Greg,</td>\n<td>25</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>* *</p>\n<p>* * * 50</p>\n<p><strong>Order Form for Collector Handbooks</strong> (Check/money order appreciated. Please visit www.PaperQuestPress.comto pay by credit card.) <strong>Please include name, address, email and telephone number with your order. Email us for a discount for 5 or more books at one time. Thank you for your order!</strong></p>\n<table>\n<thead>\n<tr>\n<th>Coil binding Black</th>\n<th>(opens flat) &amp; White edition</th>\n<th>(color cover)</th>\n<th>________ X ________ X</th>\n<th>$37.00 = $20.00 =</th>\n<th>$________ $________</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>No. 2-Michigan</td>\n<td>Fish &amp; Game</td>\n<td>Licenses &amp; Club</td>\n<td>Badges, 2 Ed. nd</td>\n<td>(2010)</td>\n<td></td>\n</tr>\n<tr>\n<td>Saddle-stitched</td>\n<td>binding</td>\n<td></td>\n<td>________ X</td>\n<td>$35.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Coil binding</td>\n<td>(opens flat)</td>\n<td></td>\n<td>________ X</td>\n<td>$37.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Black</td>\n<td>&amp; White edition</td>\n<td>(color cover)</td>\n<td>________ X</td>\n<td>$20.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>No. 3-National</td>\n<td>Wildlife Federation®</td>\n<td>Christmas</td>\n<td>Stamps (2009)</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Saddle-stitched</td>\n<td>binding</td>\n<td></td>\n<td>________ X</td>\n<td>$35.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Coil binding</td>\n<td>(opens flat)</td>\n<td></td>\n<td>________ X</td>\n<td>$37.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Hard Cover</td>\n<td></td>\n<td></td>\n<td>________ X</td>\n<td>$45.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>No. 4-Voluntary</td>\n<td>Wildlife Conservation</td>\n<td>Stamps,</td>\n<td>Vol I-Gov’t</td>\n<td>Issues (2010)</td>\n<td></td>\n</tr>\n<tr>\n<td>Saddle-stitched</td>\n<td>binding</td>\n<td></td>\n<td>________ X</td>\n<td>$35.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Coil binding</td>\n<td>(opens flat)</td>\n<td></td>\n<td>________ X</td>\n<td>$37.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>No. 5-Pennsylvania</td>\n<td>Fishing</td>\n<td>License Badges &amp;</td>\n<td>Patches (2011)</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Saddle-stitched</td>\n<td>binding</td>\n<td></td>\n<td>________ X</td>\n<td>$35.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Coil binding</td>\n<td>(opens flat)</td>\n<td></td>\n<td>________ X</td>\n<td>$37.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Black</td>\n<td>&amp; White edition</td>\n<td>(color cover)</td>\n<td>________ X</td>\n<td>$20.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>No. 6-Catalog</td>\n<td>of State Fish</td>\n<td>&amp; Game License Badges,</td>\n<td>Tokens &amp;</td>\n<td>Tags, 2 Ed. nd</td>\n<td>(2015)</td>\n</tr>\n<tr>\n<td>Saddle-stitched</td>\n<td>binding</td>\n<td></td>\n<td>________ X</td>\n<td>$35.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Coil binding</td>\n<td>(opens flat)</td>\n<td></td>\n<td>________ X</td>\n<td>$37.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Black</td>\n<td>&amp; White edition</td>\n<td>(color cover)</td>\n<td>________ X</td>\n<td>$20.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>No. 7-Nebraska</td>\n<td>Small Game,</td>\n<td>Fishing &amp; Trapping</td>\n<td>Licenses, 1901-2009</td>\n<td>(2015)</td>\n<td></td>\n</tr>\n<tr>\n<td>Perfect</td>\n<td>binding</td>\n<td></td>\n<td>________ X</td>\n<td>$65.00 =</td>\n<td>________ $</td>\n</tr>\n<tr>\n<td>Coil binding</td>\n<td>(opens flat)</td>\n<td></td>\n<td>________ X</td>\n<td>$65.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Black</td>\n<td>&amp; White edition</td>\n<td>(color cover)</td>\n<td>________ X</td>\n<td>$25.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Hard Cover</td>\n<td></td>\n<td></td>\n<td>________ X</td>\n<td>$80.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>No. 8-Texas</td>\n<td>Fish &amp; Game Stamps</td>\n<td>(2018)</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Saddle-stitched</td>\n<td>binding</td>\n<td></td>\n<td>________ X</td>\n<td>$35.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Coil binding</td>\n<td>(opens flat)</td>\n<td></td>\n<td>________ X</td>\n<td>$37.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Black</td>\n<td>&amp; White edition</td>\n<td>(color cover)</td>\n<td>________ X</td>\n<td>$20.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Hard Cover</td>\n<td></td>\n<td></td>\n<td>________ X</td>\n<td>$45.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Eric Dolan &amp;</td>\n<td>Bob Dumaine, The</td>\n<td>Duck Stamp Story,</td>\n<td>Krause Publications</td>\n<td>(2000)</td>\n<td></td>\n</tr>\n<tr>\n<td>Hard Cover</td>\n<td></td>\n<td></td>\n<td>________ X</td>\n<td>$44.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Soft Cover</td>\n<td></td>\n<td></td>\n<td>________ X</td>\n<td>$20.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Terence Hines,</td>\n<td>Old Home Week</td>\n<td>Seals (2012)</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Saddle-stitched</td>\n<td>binding</td>\n<td></td>\n<td>________ X</td>\n<td>$25.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Terence Hines,</td>\n<td>A History of Postal</td>\n<td>Service in Hanover,</td>\n<td>New Hampshire</td>\n<td>Since</td>\n<td>1761 (2016)</td>\n</tr>\n<tr>\n<td>Perfect</td>\n<td>binding</td>\n<td></td>\n<td>________ X</td>\n<td>$50.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Coil binding</td>\n<td>(opens flat)</td>\n<td></td>\n<td>________ X</td>\n<td>$52.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Domestic shipping</td>\n<td>for first handbook</td>\n<td>(please email</td>\n<td>us for foreign shipping</td>\n<td>rates.)</td>\n<td>$ 5.00</td>\n</tr>\n<tr>\n<td>Shipping for each</td>\n<td>additional handbook</td>\n<td></td>\n<td>________ X</td>\n<td>$ 2.00 =</td>\n<td>$ ________</td>\n</tr>\n<tr>\n<td>Total remitted</td>\n<td>by check or money</td>\n<td>order</td>\n<td></td>\n<td></td>\n<td>$ ________</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Texas Fish & Game Stamps\"},{\"type\":\"paragraph\",\"text\":\"Ira W. Cotton\"},{\"type\":\"paragraph\",\"text\":\"PaperQuest Press\"},{\"type\":\"paragraph\",\"text\":\"Naples, Florida\"},{\"type\":\"paragraph\",\"text\":\"Fish & Game Collector Handbook Number 8\"},{\"type\":\"paragraph\",\"text\":\"Contents\"},{\"type\":\"paragraph\",\"text\":\"Introduction.....................................................................4\\nTexas Hunting Stamps ....................................................7\\nArchery Stamps........................................................7\\nMuzzleloader Hunting Stamps ..............................11\\nTurkey Stamps .......................................................12\\nUpland Game Bird Stamps....................................14\\nWaterfowl Stamps..................................................15\\nWhite-Winged Dove ...............................................19\\nNon-Game Stamps .................................................23\\nTexas Fishing Stamps....................................................26\\nFreshwater Trout ...................................................26\\nFreshwater Fishing.................................................28\\nSaltwater Fishing....................................................29\\nTexas Collector Booklets...............................................33\\nTexas Society Labels......................................................41\\nWild Turkey Federation Labels.............................41\\nQuail Unlimited Labels ..........................................42\\nBlack Bass Unlimited Label...................................43\\nGulf Coast Conservation Association Labels ........44\\nArtist Cross Reference ........Error! Bookmark not defined.\\nAbout the Author ..........................................................51\\nAbout PaperQuest Press ...............................................51\"},{\"type\":\"paragraph\",\"text\":\"*  *  *  *  *\"},{\"type\":\"paragraph\",\"text\":\"iii\"},{\"type\":\"paragraph\",\"text\":\"Texas issued its first license stamp in 1971 for a long-running\\nArchery hunting stamps followed in 1975 and waterfowl hunting stamps in 1981, later than\\nmost states. Three additional series were inaugurated in 1985 – trout fishing, saltwater\\nfishing, and nongame stamps. Wild turkey hunting stamps were introduced in 1991, followed\\nby muzzleloader hunting stamps in 1994. In 1996, the era of mandatory stamps for hunting\\nand fishing ended, as the individual stamp series changed to voluntary collector stamps that\\nwere all printed in a single booklet pane that over time shrunk from eight stamps to seven\\nstamps with a blank label, and finally to just\\nseries ended in 2003. In 2004 the collector trout stamp\\nfishing stamp and in 2005 the turkey and white-winged dove collector stamps were replaced\\nby a collector upland game bird stamp. Finally, in 2015 the last\\nstamps was printed and all the stamp series ended.\"},{\"type\":\"paragraph\",\"text\":\"Series\\nWhite-winged dove hunting \\nArchery hunting\\nWaterfowl hunting \\nFreshwater trout fishing\\nSaltwater fishing \\nNongame\\nWild turkey hunting\\nMuzzleloader hunting \\nFreshwater fishing\\nUpland game bird hunting \\nTotal stamps\\nCollector booklets \\nTotal state-issued items\\nTexas Black Bass Unlimited\\nTX Quail Unlimited \\nTX Nat’l Wild Turkey Fed.\\nCoastal Conservation Ass’n \\nTotal society items\\nTotal collectable items\"},{\"type\":\"paragraph\",\"text\":\"*  *\"},{\"type\":\"paragraph\",\"text\":\"six stamps. The muzzleloader collector stamp\\n was replaced by a collector freshwater\"},{\"type\":\"paragraph\",\"text\":\"Duration\\n1971-2004 \\n1975-2015\\n1981-2015 \\n1985-2003\\n1985-2015 \\n1985-2015\\n1991-2004\\n1994-2003 \\n2004-2015\\n2005-2015\"},{\"type\":\"paragraph\",\"text\":\"1996-2015\"},{\"type\":\"paragraph\",\"text\":\"1987\\n1990-2005 \\n1984-1990\\n1983-2004\"},{\"type\":\"paragraph\",\"text\":\"*  *  *\"},{\"type\":\"paragraph\",\"text\":\"6\"},{\"type\":\"paragraph\",\"text\":\"series of dove hunting stamps.\"},{\"type\":\"paragraph\",\"text\":\"collector booklet pane of six\"},{\"type\":\"paragraph\",\"text\":\"# of Issues\\n34\\n41\\n35\\n19\\n31\\n31\\n14\\n10\\n12\\n11\\n238\\n20\\n258\\n1\\n16\\n7\\n22\\n46\\n304\"},{\"type\":\"paragraph\",\"text\":\"Muzzleloader Hunting Stamps\"},{\"type\":\"paragraph\",\"text\":\"The Texas Muzzleloader Hunting Stamp series began in 1994 but only the\\nfirst two stamps were required to validate licenses. As described above, in\\n1996 all license stamp series were replaced by collector stamps that were\\nneither required nor valid for hunting.\"},{\"type\":\"paragraph\",\"text\":\"Muzzleloader License Stamps\"},{\"type\":\"paragraph\",\"text\":\"1994-95  1995-96\"},{\"type\":\"paragraph\",\"text\":\"Rob Fleming  Rob Fleming\"},{\"type\":\"paragraph\",\"text\":\"Muzzleloader Collector Stamps\"},{\"type\":\"paragraph\",\"text\":\"199619971998\"},{\"type\":\"paragraph\",\"text\":\"Clemente Guzman  Linda Wells  Rob\"},{\"type\":\"paragraph\",\"text\":\"1999  2000\"},{\"type\":\"paragraph\",\"text\":\"Clemente Guzman  Rob Fleming  Clemente\"},{\"type\":\"paragraph\",\"text\":\"11\"},{\"type\":\"paragraph\",\"text\":\"Fleming\"},{\"type\":\"paragraph\",\"text\":\"2001\"},{\"type\":\"paragraph\",\"text\":\"Guzman\"},{\"type\":\"paragraph\",\"text\":\"Waterfowl\"},{\"type\":\"paragraph\",\"text\":\"As noted previously, Texas ended all mandatory license stamp series in 1995 and replaced\\nthem with collector stamps printed se-tenant in a single booklet pane. Throughout the series,\\nthe waterfowl collector stamps always occupied the top right position in the pane, so they all\\nhave straight edges at the top and right side of the stamp.\"},{\"type\":\"paragraph\",\"text\":\"199619971998\"},{\"type\":\"paragraph\",\"text\":\"Daniel Smith\"},{\"type\":\"paragraph\",\"text\":\"199920002001\"},{\"type\":\"paragraph\",\"text\":\"Robert Hautman\"},{\"type\":\"paragraph\",\"text\":\"200220032004\"},{\"type\":\"paragraph\",\"text\":\"Joseph Hautman\"},{\"type\":\"paragraph\",\"text\":\"20052006\"},{\"type\":\"paragraph\",\"text\":\"Herb Booth\"},{\"type\":\"paragraph\",\"text\":\"Collector Stamps\"},{\"type\":\"paragraph\",\"text\":\"James Hautman\"},{\"type\":\"paragraph\",\"text\":\"Sherrie Russell Meline\"},{\"type\":\"paragraph\",\"text\":\"Sherrie Russell Meline\"},{\"type\":\"paragraph\",\"text\":\"David A. Maass\"},{\"type\":\"paragraph\",\"text\":\"17\"},{\"type\":\"paragraph\",\"text\":\"Phillip Crowe\"},{\"type\":\"paragraph\",\"text\":\"John Dearman\"},{\"type\":\"paragraph\",\"text\":\"Scott and Stuart Gentling\"},{\"type\":\"paragraph\",\"text\":\"2007\"},{\"type\":\"paragraph\",\"text\":\"Bruce Miller\"},{\"type\":\"paragraph\",\"text\":\"Archery\\nBlack serial numbers.\\n1975 $3.25, Archer [Helen Sloan] \\n1976 $3.25, Arrows [Annette M. Neal] \\n1977 $3.25, Native Archer [Sharlee H. Holcomb]\\n1978 $3.25, Arrowhead [Annette M. Neal] \\n1979 $3.25, Hunter/deer [Annette M. Neal] 5.00 \\n1980 $3.25, Nocked arrow [Saldana] \\n1981 $3.25, Arrowhead [Josie Salas-Cox] \\n1982 $3.25, Bow & arrow [Josie Salas-Cox]\\n1983 $6.00, Arrow parts [Josie Salas-Cox]\\n1984 $6.00, Archer [] \\n1985 $6.00, Archer [Josie Salas—Cox] \\n1986 $6.00, Arrow parts [Pat Stark] \\n1987 $6.00, Hunters [] \\n1988 $6.00, Arrow parts [Pris Martin] \\n1989 $6.00, Arrowhead [Pat Stark] \\n1990 $6.00, Handling arrow [Rob Fleming] 12.00 \\n1991 $6.00, Hunters [Clemente Guzman] \\n1992 $6.00, Arrows [Clemente Guzman] \\n1993 $6.00, Hunting buffalo [Rob Fleming] 12.00 \\n1994 $6.00, Deer [Linda Wells] \\n1995 $6.00, Arrow & bow [Linda Wells] \\nChange to collector-only stamps, issued on calendar\\nyear basis\\n1996 $3.00, Arrows & antler [Rob Fleming]\\n1997 $3.00, Arrowheads [Clemente Guzman]\\n1998 $3.00, Hunters [Kenneth Helgren] \\n1999 $3.00, Indian [Clemente Guzman] \\n2000 $3.00, Deer [Rob Fleming] \\n2001 $3.00, Deer [Clemente Guzman] \\n2002 $3.00, Young archer [Rob Fleming] \\n2003 $3.00, Chief [Clemente Guzman] \\n2004 $3.00, Camo [Clemente Guzman] \\n2005 $7.00, Woman [Clemente Guzman] \\n2006 $7.00, Hat [Clemente Guzman] \\n2007 $7.00, T-shirt [Clemente Guzman] \\n2008 $7.00, Cave [Clemente Guzman] \\n2009 $7.00, Woman [Clemente Guzman] \\n2010 $7.00, Deer [Clemente Guzman] \\n2011 $7.00, Hog [Clemente Guzman] \\n2012 $7.00, Hunters [Clemente Guzman] \\n2013 $7.00, Rattling for Deer [Guzman] \\n2014 $7.00, Turkey [Clemente Guzman] \\n2015 $7.00, Antelope [Clemente Guzman] \\nSeries ended\"},{\"type\":\"paragraph\",\"text\":\"Muzzleloader Hunting\\nBlack serial numbers.\\nRequired for hunting; show expiration date on stamp.\\n1994 $10, Mountain Man [Rob Fleming] \\n1995 $10, Flintlock [Rob Fleming] \\nChange to collector-only stamps, issued on calendar\\nyear basis\\n1996 $3, Hunter [Clemente Guzman] \\n1997 $3, Flintlock & Powder [Linda Wells] 2.50\\n1998 $3, Mountain Man [Rob Fleming] \\n1999 $3, Hunter [Clemente Guzman] \\n2000 $3, Riding hunter [Rob Fleming] \\n2001 $3, Flintlock [Clemente Guzman] \\n2002 $3, Pack train [Rob Fleming]\"},{\"type\":\"paragraph\",\"text\":\"Catalog\"},{\"type\":\"paragraph\",\"text\":\"3.00  —\\n3.00  —\\n5.00  —\\n5.00  —\\n—\\n25.00  —\\n15.00  —\\n 4.00  —\\n  25.00  —\\n25.00  —\\n22.00  —\\n22.50  —\\n22.50  —\\n15.00  —\\n15.00  —\\n—\\n12.00  —\\n12.00  —\\n—\\n12.00  —\\n12.00  —\"},{\"type\":\"paragraph\",\"text\":\"2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\"},{\"type\":\"paragraph\",\"text\":\"25.00  —\\n25.00  —\"},{\"type\":\"paragraph\",\"text\":\"2.50\"},{\"type\":\"paragraph\",\"text\":\"2.50\\n2.50\\n2.50\\n2.50\\n2.50\"},{\"type\":\"paragraph\",\"text\":\"Listings\"},{\"type\":\"paragraph\",\"text\":\"2004 $3, Coaching [Clemente\\nSeries ended\"},{\"type\":\"paragraph\",\"text\":\"Non-game\\nBlack serial numbers.\\n1985 $5.00, Cranes [Ken Carlson]\\n1986 $5.00, Prairie Chickens\\n1987 $5.00, Eagle [Bob Kuhn] \\n1988 $5.00, Kestrel [Charles Beckendorff]\\n1989 $5.00, Ocelot [Al Agnew]\\n1990 $5.00, Quail [Sherrie Russell Meline] \\n1991 $5.00, Hawk [Pamela Davis-King]\\n1992 $5.00, Heron [Gary Moss] \\n1993 $5.00, Red Egret [Dee Kelley]\\n1994 $5.00, Horn. Owl [Pamela Davis-King]\\n1995 $5.00, Road Runners [C. Beckendorff]\\nChange to collector-only\\n1996 $3.00, Cardinals [David Drinkard]\\n1997 $3.00, Golden Eagle [Joseph\\n1998 $3.00, Mockinbirds\\n1999 $3.00, White Ibis [James Hautman]\\n2000 $3.00, Scissortail [Ken Carlson] \\n2001 $3.00, Shrike [Thomas\\n2002 $3.00, Avocet [Sherrie Russell Meline] \\n2003 $3.00, Green Jay [John Dearman] \\n2004 $3.00, Kingfisher [Joseph Hautman] \\n2005 $3.00, Curlew [D.J. Cleland-Hura] \\n2006$3.00, Barn Owl [Sherrie R. Meline] \\n2007 $3.00, Red-tail Hawk [James Hautman]\\n2008 $3.00, Heron [Bruce\\n2009 $3.00, Harris Hawk [Thomas\\n2010 $3.00, Cedar Waxwing [Peter Mathios] \\n2011 $3.00, Black Skimmers\\n2012 $3.00, Blackbird [Greg Wilson] \\n2013 $3.00, Goldfinches [Bruce Miller] \\n2014 $3.00, Owl [Thomas\\n2015 $3.00, Wading birds [Thomas\\nSeries ended\"},{\"type\":\"paragraph\",\"text\":\"Turkey\\nBlack serial numbers.\\nRequired for hunting; show expiration date on stamp.\\n1991 $5, Turkey pair [John Dearman]\\n1992 $5, Turkey [Ken Carlson] \\n1993 $5, Turkey [Reagan Gennusa] \\n1994 $5, Turkey strutting [David Drinkard]\\n1995 $5, Turkey Trio [Charles Beckendorff]11.00\\nChange to collector-only\\n1996 $3, Turkey pair [Ken Carlson]\\n1997 $3, Turkey & cactus [John Dearman]\\n1998 $3, Turkey pair [Robert\\n1999 $3, Turkey [Ragan Gennusa] \\n2000 $3, Turkey trio [Eddie LeRoy]\\n2001 $3, Turkey pair [Herb Booth] \\n2002 $3, Turkey [John Dearman] \\n2003 $3, Turkey [Reggie McLeroy]\\n2004 $3, Turkey strutting [Eldridge Hardie] 2.50\\nSeries ended\"},{\"type\":\"paragraph\",\"text\":\"Upland Game Bird Stamp\\nSuccessor to Turkey Stamp series. All are collector\\nstamps with no hunting validity. Black serial numbers.\"},{\"type\":\"paragraph\",\"text\":\"46\"},{\"type\":\"paragraph\",\"text\":\"Guzman]  2.50\"},{\"type\":\"paragraph\",\"text\":\"17.00\\n [John Cowan]  12.00\\n12.00\\n  10.00\\n  10.00\\n10.00\\n  10.00\\n10.00\\n  8.00\\n  8.00\\n  8.00\\n stamps\\n  2.50\\n Hautman]  2.50\\n [John Dearman]  2.50\\n  2.50\\n2.50\\n Quinn]  2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n2.50\\n  2.50\\n Miller]  2.50\\n Quinn]  2.50\\n2.50\\n [Al Barnes]  2.50\\n2.50\\n2.50\\n Quinn]  2.50\\n Quinn]  2.50\"},{\"type\":\"paragraph\",\"text\":\"14.00  —\\n16.00  —\\n16.00  —\\n 11.00  —\\n  —\\n stamps, calendar year basis\\n  2.50\\n  2.50\\n Hautman]  2.50\\n2.50\\n  2.50\\n2.50\\n2.50\\n  2.50\"},{\"type\":\"paragraph\",\"text\":\"Abbett, Robert, 43\\nAgnew, Al, 23, 30, 41\\nBarnes, Al, 25, 28, 29, 30, 31, 32, 33, 37,\"},{\"type\":\"paragraph\",\"text\":\"Artist Cross\"},{\"type\":\"paragraph\",\"text\":\"44, 45\\nBateman, Robert, 16\\nBeckendorff, Charles, 12, 23, 24\\nBooth, Herb, 13, 15, 17, 29, 31, 35, 37, 38,\\n42, 44, 45\\nBrasch, D., 19, 20\\nCarlson, Ken, 12, 13, 15, 16, 23, 24, 33,\\n35, 41, 43\\nCarter, Calvin, 14, 15, 29, 32\\nCleland-Hura, D. J., 24, 37\\nCowan, John, 15, 16, 23, 29, 30, 41, 42, 44\\nCrowe, Phillip, 17, 34, 43\\nCruwys, Robert, 29\\nDavis-King, Pamela, 23, 24\\nDearman, John, 12, 13, 17, 24, 28, 29, 30,\\n31, 34, 35, 36, 37, 38, 39, 40, 42, 44, 45\\nDrinkard, David, 12, 24, 29, 30, 31, 33,\\n34, 38, 42\\nFaulk, Jared, 27, 33\\nFleming, Rob, 8, 9, 11, 12, 21, 22, 27, 28,\\n33, 34, 35, 36\\nGennusa, Ragan, 12, 13, 19, 34\\nGentling, Scott & Stuart, 14, 17, 36, 37, 45\\nGuzman, Clemente, 8, 9, 10, 11, 12, 21,\\n22, 26, 27, 28, 33, 34, 35, 36, 37, 38, 39,\\n40\\nHall, Dave, 32\\nHardie, Eldridge, 13, 14, 36, 38, 41, 42, 43\\nHautman, James, 14, 16, 17, 18, 24, 25,\\n34, 37, 38, 39, 40, 42\\nHautman, Joseph, 14, 17, 24, 34, 35, 36,\\n45\\nHautman, Robert, 13, 14, 17, 18, 34, 38\\nHayden, Larry, 15, 16\"},{\"type\":\"paragraph\",\"text\":\"*  *\"},{\"type\":\"paragraph\",\"text\":\"Reference\"},{\"type\":\"paragraph\",\"text\":\"Helgren, Kenneth, 9, 22, 27, 34\\nHolcomb, Sharlee H., 7, 20\\nKuhn, Bob, 23\\nLeRoy, Eddie, 13, 35\\nMaass, David A., 15, 16, 17, 37, 41, 42\\nMartin, Pris, 8\\nMathios, Peter, 18, 25\\nMcGovern, Randy, 32\\nMckissick, Randall, 44\\nMcLeroy, Reggie, 13, 36\\nMeline, Sherrie Russell, 17, 23, 24, 25, 35,\\n36, 37, 43, 45\\nMeltzoff, Stanley, 44\\nMiller, Bruce, 14, 17, 25, 38\\nMorel, Chris, 26\\nMorgan, Elishea, 21\\nMoss, Gary, 14, 16, 23\\nNeal, Annette M., 7, 20\\nPasqua, Lou, 43\\nPeebles, Diane Rome, 31, 35, 45\\nPiersal, Laura, 21\\nQuinn, Thomas, 24, 25, 35, 38, 39, 40\\nRay, Don, 28, 30, 31, 32, 34, 36, 38, 39,\\n40, 44, 45\\nReece, Maynard, 15\\nSalas-Cox, Josie, 7, 8\\nSaldana, 7\\nSloan, Helen, 7\\nSmith, Daniel, 16, 17, 33\\nSmith, Dee, 23\\nStark, Pat, 8, 21, 26\\nStidham, Mike, 30, 31, 34, 42, 44\\nStorm, Scot, 18, 38, 39, 40\\nSussino, Mark, 28, 30, 31, 36, 38\\nWells, Linda, 8, 11, 21, 22, 27, 33, 34\\nWells, Ronnie, 31, 44\\nWilson, Greg, 25\"},{\"type\":\"paragraph\",\"text\":\"*  *  *\"},{\"type\":\"paragraph\",\"text\":\"50\"},{\"type\":\"paragraph\",\"text\":\"Order Form for Collector Handbooks\"},{\"type\":\"paragraph\",\"text\":\"PaperQuest Press\\n3685 Pleasant Springs Drive\\nNaples, FL 34119\\niwcotton@centurylink.net\\n402-871-4015\"},{\"type\":\"paragraph\",\"text\":\"Quantity  Price  Total\\nNo. 1 – California Pictorial Hunting & Fishing Licenses (2007)\\nSaddle-stitched binding  ________ X  $35.00  =  $________\\nCoil binding (opens flat)  ________ X  $37.00  =  $________\\nBlack & White edition (color cover)  ________ X  $20.00  =  $________\\nNo. 2 - Michigan Fish & Game Licenses & Club Badges, 2nd Ed. (2010)\\nSaddle-stitched binding  ________ X  $35.00  =  $________\\nCoil binding (opens flat)  ________ X  $37.00  =  $________\\nBlack & White edition (color cover)  ________ X  $20.00  =  $________\\nNo. 3 – National Wildlife Federation® Christmas Stamps (2009)\\nSaddle-stitched binding  ________ X  $35.00  =  $________\\nCoil binding (opens flat)  ________ X  $37.00  =  $________\\nHard Cover  ________ X  $45.00  =  $________\\nNo. 4 – Voluntary Wildlife Conservation Stamps, Vol I – Gov’t Issues (2010)\\nSaddle-stitched binding  ________ X  $35.00  =  $________\\nCoil binding (opens flat)  ________ X  $37.00  =  $________\\nNo. 5 – Pennsylvania Fishing License Badges & Patches (2011)\\nSaddle-stitched binding  ________ X  $35.00  =  $________\\nCoil binding (opens flat)  ________ X  $37.00  =  $________\\nBlack & White edition (color cover)  ________ X  $20.00  =  $________\\nNo. 6 – Catalog of State Fish & Game License Badges, Tokens & Tags, 2nd Ed. (2015)\\nSaddle-stitched binding  ________ X  $35.00  =  $________\\nCoil binding (opens flat)  ________ X  $37.00  =  $________\\nBlack & White edition (color cover)  ________ X  $20.00  =  $________\\nNo. 7 – Nebraska Small Game, Fishing & Trapping Licenses, 1901-2009 (2015)\\nPerfect binding  ________ X  $65.00  =  $________\\nCoil binding (opens flat)  ________ X  $65.00  =  $________\\nBlack & White edition (color cover)  ________ X  $25.00  =  $________\\nHard Cover  ________ X  $80.00  =  $________\\nNo. 8 – Texas Fish & Game Stamps (2018)\\nSaddle-stitched binding  ________ X  $35.00  =  $________\\nCoil binding (opens flat)  ________ X  $37.00  =  $________\\nBlack & White edition (color cover)  ________ X  $20.00  =  $________\\nHard Cover  ________ X  $45.00  =  $________\\nEric Dolan & Bob Dumaine, The Duck Stamp Story, Krause Publications (2000)\\nHard Cover  ________ X  $44.00  =  $________\\nSoft Cover  ________ X  $20.00  =  $________\\nTerence Hines, Old Home Week Seals (2012)\\nSaddle-stitched binding  ________ X  $25.00  =  $________\\nTerence Hines, A History of Postal Service in Hanover, New Hampshire Since 1761 (2016)\\nPerfect binding  ________ X  $50.00  =  $________\\nCoil binding (opens flat)  ________ X  $52.00  =  $________\\nDomestic shipping for first handbook (please email us for foreign shipping rates.)  $  5.00\\nShipping for each additional handbook  ________ X  $ 2.00  =  $________\\nTotal remitted by check or money order  $________\"},{\"type\":\"paragraph\",\"text\":\"(Check/money order appreciated. Please visit www.PaperQuestPress.comto pay by credit card.)\"},{\"type\":\"paragraph\",\"text\":\"Please include name, address, email and telephone number with your order.\"},{\"type\":\"paragraph\",\"text\":\"Email us for a discount for 5 or more books at one time. Thank you for your order!\"},{\"type\":\"paragraph\",\"text\":\"52\"},{\"type\":\"table\",\"headers\":[\"TX Quail Unlimited\",\"1990-2005\",\"16\"],\"rows\":[[\"TX Nat’ l Wild Turkey Fed.\",\"1984-1990\",\"7\"]]},{\"type\":\"table\",\"headers\":[\"Muzzleloader hunting\",\"1994-2003\",\"10\"],\"rows\":[[\"Freshwater fishing\",\"2004-2015\",\"12\"]]},{\"type\":\"table\",\"headers\":[\"Ira\",\"W. Cotton\",\"\"],\"rows\":[[\"PaperQuest\",\"\",\"Press\"],[\"Naples,\",\"Florida\",\"\"]]},{\"type\":\"table\",\"headers\":[\"Abbett, Robert,\",\"43\",\"\",\"Helgren, Kenneth,\",\"9, 22, 27,\",\"34\"],\"rows\":[[\"Agnew, Al, 23,\",\"30, 41\",\"\",\"Holcomb, Sharlee\",\"H., 7, 20\",\"\"],[\"Barnes, Al, 25,\",\"28, 29, 30, 31,\",\"32, 33, 37,\",\"Kuhn, Bob,\",\"23\",\"\"],[\"44, 45\",\"\",\"\",\"LeRoy, Eddie,\",\"13, 35\",\"\"],[\"Bateman, Robert,\",\"16\",\"\",\"Maass, David\",\"A., 15, 16, 17,\",\"37, 41, 42\"],[\"Beckendorff, Charles,\",\"12, 23,\",\"24\",\"Martin, Pris,\",\"8\",\"\"],[\"Booth, Herb, 13,\",\"15, 17, 29,\",\"31, 35, 37, 38,\",\"Mathios, Peter,\",\"18, 25\",\"\"],[\"42, 44, 45\",\"\",\"\",\"McGovern,\",\"Randy, 32\",\"\"],[\"Brasch, D., 19,\",\"20\",\"\",\"Mckissick,\",\"Randall,  44\",\"\"],[\"Carlson, Ken,\",\"12, 13, 15, 16,\",\"23, 24, 33,\",\"McLeroy, Reggie,\",\"13, 36\",\"\"],[\"35, 41, 43\",\"\",\"\",\"Meline, Sherrie\",\"Russell, 17,\",\"23, 24, 25, 35,\"],[\"Carter, Calvin,\",\"14, 15, 29,\",\"32\",\"36, 37, 43,\",\"45\",\"\"],[\"Cleland-Hura,\",\"D. J., 24, 37\",\"\",\"Meltzoff, Stanley,\",\"44\",\"\"],[\"Cowan, John, 15,\",\"16, 23, 29,\",\"30, 41, 42, 44\",\"Miller, Bruce,\",\"14, 17, 25,\",\"38\"],[\"Crowe, Phillip,\",\"17, 34, 43\",\"\",\"Morel, Chris,\",\"26\",\"\"],[\"Cruwys, Robert,\",\"29\",\"\",\"Morgan, Elishea,\",\"21\",\"\"],[\"Davis-King, Pamela,\",\"23, 24\",\"\",\"Moss, Gary,\",\"14, 16, 23\",\"\"],[\"Dearman, John,\",\"12, 13, 17,\",\"24, 28, 29, 30,\",\"Neal, Annette\",\"M., 7, 20\",\"\"],[\"31, 34, 35,\",\"36, 37, 38, 39,\",\"40, 42, 44, 45\",\"Pasqua, Lou,\",\"43\",\"\"],[\"Drinkard, David,\",\"12, 24, 29,\",\"30, 31, 33,\",\"Peebles, Diane\",\"Rome, 31,\",\"35, 45\"],[\"34, 38, 42\",\"\",\"\",\"Piersal, Laura,\",\"21\",\"\"],[\"Faulk, Jared,\",\"27, 33\",\"\",\"Quinn, Thomas,\",\"24, 25, 35,\",\"38, 39, 40\"],[\"Fleming, Rob,\",\"8, 9, 11, 12,\",\"21, 22, 27, 28,\",\"Ray, Don, 28,\",\"30, 31, 32, 34,\",\"36, 38, 39,\"],[\"33, 34, 35,\",\"36\",\"\",\"40, 44, 45\",\"\",\"\"],[\"Gennusa, Ragan,\",\"12, 13, 19,\",\"34\",\"Reece, Maynard,\",\"15\",\"\"],[\"Gentling, Scott\",\"& Stuart, 14,\",\"17, 36, 37, 45\",\"Salas-Cox, Josie,\",\"7, 8\",\"\"],[\"Guzman, Clemente,\",\"8, 9, 10,\",\"11, 12, 21,\",\"Saldana, 7\",\"\",\"\"],[\"22, 26, 27,\",\"28, 33, 34, 35,\",\"36, 37, 38, 39,\",\"Sloan, Helen,\",\"7\",\"\"],[\"40\",\"\",\"\",\"Smith, Daniel,\",\"16, 17, 33\",\"\"],[\"Hall, Dave, 32\",\"\",\"\",\"Smith, Dee,\",\"23\",\"\"],[\"Hardie, Eldridge,\",\"13, 14, 36,\",\"38, 41, 42, 43\",\"Stark, Pat,\",\"8, 21, 26\",\"\"],[\"Hautman, James,\",\"14, 16, 17,\",\"18, 24, 25,\",\"Stidham, Mike,\",\"30, 31, 34,\",\"42, 44\"],[\"34, 37, 38,\",\"39, 40, 42\",\"\",\"Storm, Scot,\",\"18, 38, 39, 40\",\"\"],[\"Hautman, Joseph,\",\"14, 17, 24,\",\"34, 35, 36,\",\"Sussino, Mark,\",\"28, 30, 31,\",\"36, 38\"],[\"45\",\"\",\"\",\"Wells, Linda,\",\"8, 11, 21, 22,\",\"27, 33, 34\"],[\"Hautman, Robert,\",\"13, 14, 17,\",\"18, 34, 38\",\"Wells, Ronnie,\",\"31, 44\",\"\"],[\"Hayden, Larry,\",\"15, 16\",\"\",\"Wilson, Greg,\",\"25\",\"\"]]},{\"type\":\"table\",\"headers\":[\"Coil binding Black\",\"(opens flat) & White edition\",\"(color cover)\",\"________ X ________ X\",\"$37.00 = $20.00 =\",\"$________ $________\"],\"rows\":[[\"No. 2-Michigan\",\"Fish & Game\",\"Licenses & Club\",\"Badges, 2 Ed. nd\",\"(2010)\",\"\"],[\"Saddle-stitched\",\"binding\",\"\",\"________ X\",\"$35.00  =\",\"$ ________\"],[\"Coil binding\",\"(opens flat)\",\"\",\"________ X\",\"$37.00  =\",\"$ ________\"],[\"Black\",\"& White edition\",\"(color  cover)\",\"________ X\",\"$20.00  =\",\"$ ________\"],[\"No. 3-National\",\"Wildlife Federation®\",\"Christmas\",\"Stamps (2009)\",\"\",\"\"],[\"Saddle-stitched\",\"binding\",\"\",\"________ X\",\"$35.00  =\",\"$ ________\"],[\"Coil binding\",\"(opens flat)\",\"\",\"________ X\",\"$37.00  =\",\"$ ________\"],[\"Hard Cover\",\"\",\"\",\"________ X\",\"$45.00  =\",\"$ ________\"],[\"No. 4-Voluntary\",\"Wildlife Conservation\",\"Stamps,\",\"Vol I-Gov’t\",\"Issues (2010)\",\"\"],[\"Saddle-stitched\",\"binding\",\"\",\"________ X\",\"$35.00  =\",\"$ ________\"],[\"Coil binding\",\"(opens flat)\",\"\",\"________ X\",\"$37.00  =\",\"$ ________\"],[\"No. 5-Pennsylvania\",\"Fishing\",\"License Badges &\",\"Patches (2011)\",\"\",\"\"],[\"Saddle-stitched\",\"binding\",\"\",\"________ X\",\"$35.00  =\",\"$ ________\"],[\"Coil binding\",\"(opens flat)\",\"\",\"________ X\",\"$37.00  =\",\"$ ________\"],[\"Black\",\"& White edition\",\"(color  cover)\",\"________ X\",\"$20.00  =\",\"$ ________\"],[\"No. 6-Catalog\",\"of State Fish\",\"& Game License Badges,\",\"Tokens &\",\"Tags, 2 Ed. nd\",\"(2015)\"],[\"Saddle-stitched\",\"binding\",\"\",\"________ X\",\"$35.00  =\",\"$ ________\"],[\"Coil binding\",\"(opens flat)\",\"\",\"________ X\",\"$37.00  =\",\"$ ________\"],[\"Black\",\"& White edition\",\"(color  cover)\",\"________ X\",\"$20.00  =\",\"$ ________\"],[\"No. 7-Nebraska\",\"Small Game,\",\"Fishing & Trapping\",\"Licenses, 1901-2009\",\"(2015)\",\"\"],[\"Perfect\",\"binding\",\"\",\"________ X\",\"$65.00  =\",\"________ $\"],[\"Coil binding\",\"(opens flat)\",\"\",\"________ X\",\"$65.00  =\",\"$ ________\"],[\"Black\",\"& White edition\",\"(color  cover)\",\"________ X\",\"$25.00  =\",\"$ ________\"],[\"Hard Cover\",\"\",\"\",\"________ X\",\"$80.00  =\",\"$ ________\"],[\"No. 8-Texas\",\"Fish & Game Stamps\",\"(2018)\",\"\",\"\",\"\"],[\"Saddle-stitched\",\"binding\",\"\",\"________ X\",\"$35.00  =\",\"$ ________\"],[\"Coil binding\",\"(opens flat)\",\"\",\"________ X\",\"$37.00  =\",\"$ ________\"],[\"Black\",\"& White edition\",\"(color  cover)\",\"________ X\",\"$20.00  =\",\"$ ________\"],[\"Hard Cover\",\"\",\"\",\"________ X\",\"$45.00  =\",\"$ ________\"],[\"Eric Dolan &\",\"Bob Dumaine, The\",\"Duck Stamp Story,\",\"Krause Publications\",\"(2000)\",\"\"],[\"Hard Cover\",\"\",\"\",\"________ X\",\"$44.00  =\",\"$ ________\"],[\"Soft Cover\",\"\",\"\",\"________ X\",\"$20.00  =\",\"$ ________\"],[\"Terence Hines,\",\"Old Home Week\",\"Seals (2012)\",\"\",\"\",\"\"],[\"Saddle-stitched\",\"binding\",\"\",\"________ X\",\"$25.00  =\",\"$ ________\"],[\"Terence Hines,\",\"A History of Postal\",\"Service in Hanover,\",\"New Hampshire\",\"Since\",\"1761 (2016)\"],[\"Perfect\",\"binding\",\"\",\"________ X\",\"$50.00  =\",\"$ ________\"],[\"Coil binding\",\"(opens flat)\",\"\",\"________ X\",\"$52.00  =\",\"$ ________\"],[\"Domestic shipping\",\"for first handbook\",\"(please email\",\"us for foreign shipping\",\"rates.)\",\"$  5.00\"],[\"Shipping for each\",\"additional handbook\",\"\",\"________ X\",\"$ 2.00 =\",\"$ ________\"],[\"Total remitted\",\"by check or money\",\"order\",\"\",\"\",\"$ ________\"]]}]}",
+    "markdown": "# Texas Fish & Game Stamps\n\n| Ira | W. Cotton |  |\n| --- | --- | --- |\n| PaperQuest |  | Press |\n| Naples, | Florida |  |\n\n### Fish & Game Collector Handbook Number 8\n\n## Contents\n\n**Introduction.....................................................................4 Texas Hunting Stamps ....................................................7 Archery Stamps........................................................7 Muzzleloader Hunting Stamps ..............................11 Turkey Stamps .......................................................12 Upland Game Bird Stamps....................................14 Waterfowl Stamps..................................................15 White-Winged Dove ...............................................19 Non-Game Stamps .................................................23 Texas Fishing Stamps....................................................26 Freshwater Trout ...................................................26 Freshwater Fishing.................................................28 Saltwater Fishing....................................................29 Texas Collector Booklets...............................................33 Texas Society Labels......................................................41 Wild Turkey Federation Labels.............................41 Quail Unlimited Labels ..........................................42 Black Bass Unlimited Label...................................43 Gulf Coast Conservation Association Labels ........44 Artist Cross Reference ........**\n\nError\\! Bookmark not defined.\n\n**About the Author ..........................................................51 About PaperQuest Press ...............................................51**\n\n* * * * *\n\nTexas issued its first license stamp in 1971 for a long-running Archery hunting stamps followed in 1975 and waterfowl hunting stamps in 1981, later than most states. Three additional series were inaugurated in 1985 – trout fishing, saltwater fishing, and nongame stamps. Wild turkey hunting stamps were introduced in 1991, followed by muzzleloader hunting stamps in 1994. In 1996, the era of mandatory stamps for hunting and fishing ended, as the individual stamp series changed to voluntary collector stamps that were all printed in a single booklet pane that over time shrunk from eight stamps to seven stamps with a blank label, and finally to just series ended in 2003. In 2004 the collector trout stamp fishing stamp and in 2005 the turkey and white-winged dove collector stamps were replaced by a collector upland game bird stamp. Finally, in 2015 the last stamps was printed and all the stamp series ended.\n\nsix stamps. The muzzleloader collector stamp was replaced by a collector freshwater\n\n## Series\n\n## Duration\n\nWhite-winged dove hunting Archery hunting Waterfowl hunting Freshwater trout fishing Saltwater fishing Nongame Wild turkey hunting Upland game bird hunting **Total stamps** Collector booklets **Total state-issued items** Texas Black Bass Unlimited Coastal Conservation Ass'n To**tal society items Total collectable items**\n\n1971-2004 1975-2015 1981-2015 1985-2003 1985-2015 1985-2015 1991-2004 2005-2015 1996-2015 1987 1983-2004\n\n| Muzzleloader hunting | 1994-2003 | 10 |\n| --- | --- | --- |\n| Freshwater fishing | 2004-2015 | 12 |\n\n## 238\n\n**258**\n\n1 22\n\n| TX Quail Unlimited | 1990-2005 | 16 |\n| --- | --- | --- |\n| TX Nat’ l Wild Turkey Fed. | 1984-1990 | 7 |\n\n**46 304**\n\n* *\n\n* * *\n\n## Muzzleloader Hunting Stamps\n\nThe Texas Muzzleloader Hunting Stamp series began in 1994 but only the first two stamps were required to validate licenses. As described above, in 1996 all license stamp series were replaced by collector stamps that were neither required nor valid for hunting.\n\n### Muzzleloader License Stamps\n\n## 1994-95 1995-96\n\n**Rob Fleming Rob Fleming**\n\n### Muzzleloader Collector Stamps\n\n## 199619971998\n\n**Clemente Guzman Linda Wells Rob 1999 2000 Clemente Guzman Rob Fleming Clemente** 11 **Fleming 2001**\n\n## Guzman\n\n### Waterfowl\n\nAs noted previously, Texas ended all mandatory license stamp series in 1995 and replaced them with collector stamps printed se-tenant in a single booklet pane. Throughout the series, the waterfowl collector stamps always occupied the top right position in the pane, so they all have straight edges at the top and right side of the stamp.\n\n## 199619971998\n\n**Daniel Smith 199920002001 Robert Hautman 200220032004 Joseph Hautman 20052006 Herb Booth**\n\n### Collector Stamps\n\n**James Hautman Sherrie Russell Meline Sherrie Russell Meline David A. Maass** 17 **Phillip Crowe John Dearman Scott and Stuart Gentling** 2007 **Bruce Miller**\n\n## Archery\n\nBlack serial numbers. 1975 $3.25, Archer [Helen Sloan] 1976 $3.25, Arrows [Annette\n\n- M. Neal] 1977 $3.25, Native Archer [Sharlee H. Holcomb] 1978 $3.25, Arrowhead [Annette M. Neal] 1979 $3.25, Hunter/deer [Annette\n- M. Neal] 5.00 1980 $3.25, Nocked arrow [Saldana] 1981 $3.25, Arrowhead [Josie Salas-Cox] 1982 $3.25, Bow & arrow [Josie Salas-Cox] 1983 $6.00, Arrow parts [Josie Salas-Cox] 1984 $6.00, Archer [] 1985 $6.00, Archer [Josie Salas—Cox] 1986 $6.00, Arrow parts [Pat Stark] 1987 $6.00, Hunters [] 1988 $6.00, Arrow parts [Pris Martin] 1989 $6.00, Arrowhead [Pat Stark] 1990 $6.00, Handling arrow [Rob Fleming] 12.00 1991 $6.00, Hunters [Clemente Guzman] 1992 $6.00, Arrows [Clemente Guzman] 1993 $6.00, Hunting buffalo [Rob Fleming] 12.00 1994 $6.00, Deer [Linda Wells] 1995 $6.00, Arrow & bow [Linda Wells] Change to collector-only stamps, issued on calendar year basis 1996 $3.00, Arrows & antler [Rob Fleming] 1997 $3.00, Arrowheads [Clemente Guzman] 1998 $3.00, Hunters [Kenneth Helgren] 1999 $3.00, Indian [Clemente Guzman] 2000 $3.00, Deer [Rob Fleming] 2001 $3.00, Deer [Clemente Guzman] 2002 $3.00, Young archer [Rob Fleming] 2003 $3.00, Chief [Clemente Guzman] 2004 $3.00, Camo [Clemente Guzman] 2005 $7.00, Woman [Clemente Guzman] 2006 $7.00, Hat [Clemente Guzman] 2007 $7.00, T-shirt [Clemente Guzman] 2008 $7.00, Cave [Clemente Guzman] 2009 $7.00, Woman [Clemente Guzman] 2010 $7.00, Deer [Clemente Guzman] 2011 $7.00, Hog [Clemente Guzman] 2012 $7.00, Hunters [Clemente Guzman] 2013 $7.00, Rattling for Deer [Guzman] 2014 $7.00, Turkey [Clemente Guzman] 2015 $7.00, Antelope [Clemente Guzman] Series ended\n\n**Muzzleloader Hunting** *Black serial numbers. Required for hunting; show expiration date on stamp.* 1994 $10, Mountain Man [Rob Fleming] 1995 $10, Flintlock [Rob Fleming] *Change to collector-only stamps, issued on calendar year basis* 1996 $3, Hunter [Clemente Guzman] 1997 $3, Flintlock & Powder [Linda Wells] 2.50 1998 $3, Mountain Man [Rob Fleming] 1999 $3, Hunter [Clemente Guzman] 2000 $3, Riding hunter [Rob Fleming] 2001 $3, Flintlock [Clemente Guzman] 2002 $3, Pack train [Rob Fleming]\n\n### Catalog\n\n3.00\n\n- 3.00\n- 5.00\n- \n- 25.00\n- 15.00\n- 4.00\n- 25.00\n- 22.00\n- 22.50\n- 15.00\n- \n- 12.00\n- \n- 12.00\n- 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 2.50 25.00\n- 25.00\n- 2.50 2.50 2.50 2.50 2.50 2.50\n\n### Listings\n\n2004 $3, Coaching [Clemente Series ended\n\n## Non-game\n\nBlack serial numbers. 1985 $5.00, Cranes [Ken Carlson] 1986 $5.00, Prairie Chickens 1987 $5.00, Eagle [Bob Kuhn] 1988 $5.00, Kestrel [Charles Beckendorff] 1989 $5.00, Ocelot [Al Agnew] 1990 $5.00, Quail [Sherrie Russell Meline] 1991 $5.00, Hawk [Pamela Davis-King] 1992 $5.00, Heron [Gary Moss] 1993 $5.00, Red Egret [Dee Kelley] 1994 $5.00, Horn. Owl [Pamela Davis-King] 1995 $5.00, Road Runners [C. Beckendorff] Change to collector-only 1996 $3.00, Cardinals [David Drinkard] 1997 $3.00, Golden Eagle [Joseph 1998 $3.00, Mockinbirds 1999 $3.00, White Ibis [James Hautman] 2000 $3.00, Scissortail [Ken Carlson] 2001 $3.00, Shrike [Thomas 2002 $3.00, Avocet [Sherrie Russell Meline] 2003 $3.00, Green Jay [John Dearman] 2004 $3.00, Kingfisher [Joseph Hautman] 2005 $3.00, Curlew [D.J. Cleland-Hura] 2006$3.00, Barn Owl [Sherrie R. Meline] 2007 $3.00, Red-tail Hawk [James Hautman] 2008 $3.00, Heron [Bruce 2009 $3.00, Harris Hawk [Thomas 2010 $3.00, Cedar Waxwing [Peter Mathios] 2011 $3.00, Black Skimmers 2012 $3.00, Blackbird [Greg Wilson] 2013 $3.00, Goldfinches [Bruce Miller] 2014 $3.00, Owl [Thomas 2015 $3.00, Wading birds [Thomas Series ended\n\n## Turkey\n\n*Black serial numbers. Required for hunting; show expiration date on stamp.* 1991 $5, Turkey pair [John Dearman] 1992 $5, Turkey [Ken Carlson] 1993 $5, Turkey [Reagan Gennusa] 1994 $5, Turkey strutting [David Drinkard] 1995 $5, Turkey Trio [Charles Beckendorff]11.00 *Change to collector-only* 1996 $3, Turkey pair [Ken Carlson] 1997 $3, Turkey & cactus [John Dearman] 1998 $3, Turkey pair [Robert 1999 $3, Turkey [Ragan Gennusa] 2000 $3, Turkey trio [Eddie LeRoy] 2001 $3, Turkey pair [Herb Booth] 2002 $3, Turkey [John Dearman] 2003 $3, Turkey [Reggie McLeroy] 2004 $3, Turkey strutting [Eldridge Hardie] 2.50 *Series ended* **Upland Game Bird Stamp** *Successor to Turkey Stamp series. All are collector stamps with no hunting validity. Black serial numbers.*\n\n- 16.00\n- 11.00\n- \n- stamps, calendar year basis 2.50 2.50 Hautman] 2.50 2.50 2.50 2.50 2.50 2.50\n\n### Artist Cross\n\n### Reference\n\n| Abbett, Robert, | 43 |  | Helgren, Kenneth, | 9, 22, 27, | 34 |\n| --- | --- | --- | --- | --- | --- |\n| Agnew, Al, 23, | 30, 41 |  | Holcomb, Sharlee | H., 7, 20 |  |\n| Barnes, Al, 25, | 28, 29, 30, 31, | 32, 33, 37, | Kuhn, Bob, | 23 |  |\n| 44, 45 |  |  | LeRoy, Eddie, | 13, 35 |  |\n| Bateman, Robert, | 16 |  | Maass, David | A., 15, 16, 17, | 37, 41, 42 |\n| Beckendorff, Charles, | 12, 23, | 24 | Martin, Pris, | 8 |  |\n| Booth, Herb, 13, | 15, 17, 29, | 31, 35, 37, 38, | Mathios, Peter, | 18, 25 |  |\n| 42, 44, 45 |  |  | McGovern, | Randy, 32 |  |\n| Brasch, D., 19, | 20 |  | Mckissick, | Randall, 44 |  |\n| Carlson, Ken, | 12, 13, 15, 16, | 23, 24, 33, | McLeroy, Reggie, | 13, 36 |  |\n| 35, 41, 43 |  |  | Meline, Sherrie | Russell, 17, | 23, 24, 25, 35, |\n| Carter, Calvin, | 14, 15, 29, | 32 | 36, 37, 43, | 45 |  |\n| Cleland-Hura, | D. J., 24, 37 |  | Meltzoff, Stanley, | 44 |  |\n| Cowan, John, 15, | 16, 23, 29, | 30, 41, 42, 44 | Miller, Bruce, | 14, 17, 25, | 38 |\n| Crowe, Phillip, | 17, 34, 43 |  | Morel, Chris, | 26 |  |\n| Cruwys, Robert, | 29 |  | Morgan, Elishea, | 21 |  |\n| Davis-King, Pamela, | 23, 24 |  | Moss, Gary, | 14, 16, 23 |  |\n| Dearman, John, | 12, 13, 17, | 24, 28, 29, 30, | Neal, Annette | M., 7, 20 |  |\n| 31, 34, 35, | 36, 37, 38, 39, | 40, 42, 44, 45 | Pasqua, Lou, | 43 |  |\n| Drinkard, David, | 12, 24, 29, | 30, 31, 33, | Peebles, Diane | Rome, 31, | 35, 45 |\n| 34, 38, 42 |  |  | Piersal, Laura, | 21 |  |\n| Faulk, Jared, | 27, 33 |  | Quinn, Thomas, | 24, 25, 35, | 38, 39, 40 |\n| Fleming, Rob, | 8, 9, 11, 12, | 21, 22, 27, 28, | Ray, Don, 28, | 30, 31, 32, 34, | 36, 38, 39, |\n| 33, 34, 35, | 36 |  | 40, 44, 45 |  |  |\n| Gennusa, Ragan, | 12, 13, 19, | 34 | Reece, Maynard, | 15 |  |\n| Gentling, Scott | & Stuart, 14, | 17, 36, 37, 45 | Salas-Cox, Josie, | 7, 8 |  |\n| Guzman, Clemente, | 8, 9, 10, | 11, 12, 21, | Saldana, 7 |  |  |\n| 22, 26, 27, | 28, 33, 34, 35, | 36, 37, 38, 39, | Sloan, Helen, | 7 |  |\n| 40 |  |  | Smith, Daniel, | 16, 17, 33 |  |\n| Hall, Dave, 32 |  |  | Smith, Dee, | 23 |  |\n| Hardie, Eldridge, | 13, 14, 36, | 38, 41, 42, 43 | Stark, Pat, | 8, 21, 26 |  |\n| Hautman, James, | 14, 16, 17, | 18, 24, 25, | Stidham, Mike, | 30, 31, 34, | 42, 44 |\n| 34, 37, 38, | 39, 40, 42 |  | Storm, Scot, | 18, 38, 39, 40 |  |\n| Hautman, Joseph, | 14, 17, 24, | 34, 35, 36, | Sussino, Mark, | 28, 30, 31, | 36, 38 |\n| 45 |  |  | Wells, Linda, | 8, 11, 21, 22, | 27, 33, 34 |\n| Hautman, Robert, | 13, 14, 17, | 18, 34, 38 | Wells, Ronnie, | 31, 44 |  |\n| Hayden, Larry, | 15, 16 |  | Wilson, Greg, | 25 |  |\n\n* *\n\n* * * 50\n\n**Order Form for Collector Handbooks** (Check/money order appreciated. Please visit www.PaperQuestPress.comto pay by credit card.) **Please include name, address, email and telephone number with your order. Email us for a discount for 5 or more books at one time. Thank you for your order\\!**\n\n| Coil binding Black | (opens flat) & White edition | (color cover) | ________ X ________ X | $37.00 = $20.00 = | $________ $________ |\n| --- | --- | --- | --- | --- | --- |\n| No. 2-Michigan | Fish & Game | Licenses & Club | Badges, 2 Ed. nd | (2010) |  |\n| Saddle-stitched | binding |  | ________ X | $35.00 = | $ ________ |\n| Coil binding | (opens flat) |  | ________ X | $37.00 = | $ ________ |\n| Black | & White edition | (color cover) | ________ X | $20.00 = | $ ________ |\n| No. 3-National | Wildlife Federation® | Christmas | Stamps (2009) |  |  |\n| Saddle-stitched | binding |  | ________ X | $35.00 = | $ ________ |\n| Coil binding | (opens flat) |  | ________ X | $37.00 = | $ ________ |\n| Hard Cover |  |  | ________ X | $45.00 = | $ ________ |\n| No. 4-Voluntary | Wildlife Conservation | Stamps, | Vol I-Gov’t | Issues (2010) |  |\n| Saddle-stitched | binding |  | ________ X | $35.00 = | $ ________ |\n| Coil binding | (opens flat) |  | ________ X | $37.00 = | $ ________ |\n| No. 5-Pennsylvania | Fishing | License Badges & | Patches (2011) |  |  |\n| Saddle-stitched | binding |  | ________ X | $35.00 = | $ ________ |\n| Coil binding | (opens flat) |  | ________ X | $37.00 = | $ ________ |\n| Black | & White edition | (color cover) | ________ X | $20.00 = | $ ________ |\n| No. 6-Catalog | of State Fish | & Game License Badges, | Tokens & | Tags, 2 Ed. nd | (2015) |\n| Saddle-stitched | binding |  | ________ X | $35.00 = | $ ________ |\n| Coil binding | (opens flat) |  | ________ X | $37.00 = | $ ________ |\n| Black | & White edition | (color cover) | ________ X | $20.00 = | $ ________ |\n| No. 7-Nebraska | Small Game, | Fishing & Trapping | Licenses, 1901-2009 | (2015) |  |\n| Perfect | binding |  | ________ X | $65.00 = | ________ $ |\n| Coil binding | (opens flat) |  | ________ X | $65.00 = | $ ________ |\n| Black | & White edition | (color cover) | ________ X | $25.00 = | $ ________ |\n| Hard Cover |  |  | ________ X | $80.00 = | $ ________ |\n| No. 8-Texas | Fish & Game Stamps | (2018) |  |  |  |\n| Saddle-stitched | binding |  | ________ X | $35.00 = | $ ________ |\n| Coil binding | (opens flat) |  | ________ X | $37.00 = | $ ________ |\n| Black | & White edition | (color cover) | ________ X | $20.00 = | $ ________ |\n| Hard Cover |  |  | ________ X | $45.00 = | $ ________ |\n| Eric Dolan & | Bob Dumaine, The | Duck Stamp Story, | Krause Publications | (2000) |  |\n| Hard Cover |  |  | ________ X | $44.00 = | $ ________ |\n| Soft Cover |  |  | ________ X | $20.00 = | $ ________ |\n| Terence Hines, | Old Home Week | Seals (2012) |  |  |  |\n| Saddle-stitched | binding |  | ________ X | $25.00 = | $ ________ |\n| Terence Hines, | A History of Postal | Service in Hanover, | New Hampshire | Since | 1761 (2016) |\n| Perfect | binding |  | ________ X | $50.00 = | $ ________ |\n| Coil binding | (opens flat) |  | ________ X | $52.00 = | $ ________ |\n| Domestic shipping | for first handbook | (please email | us for foreign shipping | rates.) | $ 5.00 |\n| Shipping for each | additional handbook |  | ________ X | $ 2.00 = | $ ________ |\n| Total remitted | by check or money | order |  |  | $ ________ |\n",
+    "plain": "Texas Fish & Game Stamps\n\nIra W. Cotton\n\nPaperQuest Press\n\nNaples, Florida\n\nFish & Game Collector Handbook Number 8\n\nContents\n\nIntroduction.....................................................................4\nTexas Hunting Stamps ....................................................7\nArchery Stamps........................................................7\nMuzzleloader Hunting Stamps ..............................11\nTurkey Stamps .......................................................12\nUpland Game Bird Stamps....................................14\nWaterfowl Stamps..................................................15\nWhite-Winged Dove ...............................................19\nNon-Game Stamps .................................................23\nTexas Fishing Stamps....................................................26\nFreshwater Trout ...................................................26\nFreshwater Fishing.................................................28\nSaltwater Fishing....................................................29\nTexas Collector Booklets...............................................33\nTexas Society Labels......................................................41\nWild Turkey Federation Labels.............................41\nQuail Unlimited Labels ..........................................42\nBlack Bass Unlimited Label...................................43\nGulf Coast Conservation Association Labels ........44\nArtist Cross Reference ........Error! Bookmark not defined.\nAbout the Author ..........................................................51\nAbout PaperQuest Press ...............................................51\n\n*  *  *  *  *\n\niii\n\nTexas issued its first license stamp in 1971 for a long-running\nArchery hunting stamps followed in 1975 and waterfowl hunting stamps in 1981, later than\nmost states. Three additional series were inaugurated in 1985 – trout fishing, saltwater\nfishing, and nongame stamps. Wild turkey hunting stamps were introduced in 1991, followed\nby muzzleloader hunting stamps in 1994. In 1996, the era of mandatory stamps for hunting\nand fishing ended, as the individual stamp series changed to voluntary collector stamps that\nwere all printed in a single booklet pane that over time shrunk from eight stamps to seven\nstamps with a blank label, and finally to just\nseries ended in 2003. In 2004 the collector trout stamp\nfishing stamp and in 2005 the turkey and white-winged dove collector stamps were replaced\nby a collector upland game bird stamp. Finally, in 2015 the last\nstamps was printed and all the stamp series ended.\n\nSeries\nWhite-winged dove hunting \nArchery hunting\nWaterfowl hunting \nFreshwater trout fishing\nSaltwater fishing \nNongame\nWild turkey hunting\nMuzzleloader hunting \nFreshwater fishing\nUpland game bird hunting \nTotal stamps\nCollector booklets \nTotal state-issued items\nTexas Black Bass Unlimited\nTX Quail Unlimited \nTX Nat’l Wild Turkey Fed.\nCoastal Conservation Ass’n \nTotal society items\nTotal collectable items\n\n*  *\n\nsix stamps. The muzzleloader collector stamp\n was replaced by a collector freshwater\n\nDuration\n1971-2004 \n1975-2015\n1981-2015 \n1985-2003\n1985-2015 \n1985-2015\n1991-2004\n1994-2003 \n2004-2015\n2005-2015\n\n1996-2015\n\n1987\n1990-2005 \n1984-1990\n1983-2004\n\n*  *  *\n\n6\n\nseries of dove hunting stamps.\n\ncollector booklet pane of six\n\n# of Issues\n34\n41\n35\n19\n31\n31\n14\n10\n12\n11\n238\n20\n258\n1\n16\n7\n22\n46\n304\n\nMuzzleloader Hunting Stamps\n\nThe Texas Muzzleloader Hunting Stamp series began in 1994 but only the\nfirst two stamps were required to validate licenses. As described above, in\n1996 all license stamp series were replaced by collector stamps that were\nneither required nor valid for hunting.\n\nMuzzleloader License Stamps\n\n1994-95  1995-96\n\nRob Fleming  Rob Fleming\n\nMuzzleloader Collector Stamps\n\n199619971998\n\nClemente Guzman  Linda Wells  Rob\n\n1999  2000\n\nClemente Guzman  Rob Fleming  Clemente\n\n11\n\nFleming\n\n2001\n\nGuzman\n\nWaterfowl\n\nAs noted previously, Texas ended all mandatory license stamp series in 1995 and replaced\nthem with collector stamps printed se-tenant in a single booklet pane. Throughout the series,\nthe waterfowl collector stamps always occupied the top right position in the pane, so they all\nhave straight edges at the top and right side of the stamp.\n\n199619971998\n\nDaniel Smith\n\n199920002001\n\nRobert Hautman\n\n200220032004\n\nJoseph Hautman\n\n20052006\n\nHerb Booth\n\nCollector Stamps\n\nJames Hautman\n\nSherrie Russell Meline\n\nSherrie Russell Meline\n\nDavid A. Maass\n\n17\n\nPhillip Crowe\n\nJohn Dearman\n\nScott and Stuart Gentling\n\n2007\n\nBruce Miller\n\nArchery\nBlack serial numbers.\n1975 $3.25, Archer [Helen Sloan] \n1976 $3.25, Arrows [Annette M. Neal] \n1977 $3.25, Native Archer [Sharlee H. Holcomb]\n1978 $3.25, Arrowhead [Annette M. Neal] \n1979 $3.25, Hunter/deer [Annette M. Neal] 5.00 \n1980 $3.25, Nocked arrow [Saldana] \n1981 $3.25, Arrowhead [Josie Salas-Cox] \n1982 $3.25, Bow & arrow [Josie Salas-Cox]\n1983 $6.00, Arrow parts [Josie Salas-Cox]\n1984 $6.00, Archer [] \n1985 $6.00, Archer [Josie Salas—Cox] \n1986 $6.00, Arrow parts [Pat Stark] \n1987 $6.00, Hunters [] \n1988 $6.00, Arrow parts [Pris Martin] \n1989 $6.00, Arrowhead [Pat Stark] \n1990 $6.00, Handling arrow [Rob Fleming] 12.00 \n1991 $6.00, Hunters [Clemente Guzman] \n1992 $6.00, Arrows [Clemente Guzman] \n1993 $6.00, Hunting buffalo [Rob Fleming] 12.00 \n1994 $6.00, Deer [Linda Wells] \n1995 $6.00, Arrow & bow [Linda Wells] \nChange to collector-only stamps, issued on calendar\nyear basis\n1996 $3.00, Arrows & antler [Rob Fleming]\n1997 $3.00, Arrowheads [Clemente Guzman]\n1998 $3.00, Hunters [Kenneth Helgren] \n1999 $3.00, Indian [Clemente Guzman] \n2000 $3.00, Deer [Rob Fleming] \n2001 $3.00, Deer [Clemente Guzman] \n2002 $3.00, Young archer [Rob Fleming] \n2003 $3.00, Chief [Clemente Guzman] \n2004 $3.00, Camo [Clemente Guzman] \n2005 $7.00, Woman [Clemente Guzman] \n2006 $7.00, Hat [Clemente Guzman] \n2007 $7.00, T-shirt [Clemente Guzman] \n2008 $7.00, Cave [Clemente Guzman] \n2009 $7.00, Woman [Clemente Guzman] \n2010 $7.00, Deer [Clemente Guzman] \n2011 $7.00, Hog [Clemente Guzman] \n2012 $7.00, Hunters [Clemente Guzman] \n2013 $7.00, Rattling for Deer [Guzman] \n2014 $7.00, Turkey [Clemente Guzman] \n2015 $7.00, Antelope [Clemente Guzman] \nSeries ended\n\nMuzzleloader Hunting\nBlack serial numbers.\nRequired for hunting; show expiration date on stamp.\n1994 $10, Mountain Man [Rob Fleming] \n1995 $10, Flintlock [Rob Fleming] \nChange to collector-only stamps, issued on calendar\nyear basis\n1996 $3, Hunter [Clemente Guzman] \n1997 $3, Flintlock & Powder [Linda Wells] 2.50\n1998 $3, Mountain Man [Rob Fleming] \n1999 $3, Hunter [Clemente Guzman] \n2000 $3, Riding hunter [Rob Fleming] \n2001 $3, Flintlock [Clemente Guzman] \n2002 $3, Pack train [Rob Fleming]\n\nCatalog\n\n3.00  —\n3.00  —\n5.00  —\n5.00  —\n—\n25.00  —\n15.00  —\n 4.00  —\n  25.00  —\n25.00  —\n22.00  —\n22.50  —\n22.50  —\n15.00  —\n15.00  —\n—\n12.00  —\n12.00  —\n—\n12.00  —\n12.00  —\n\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n\n25.00  —\n25.00  —\n\n2.50\n\n2.50\n2.50\n2.50\n2.50\n2.50\n\nListings\n\n2004 $3, Coaching [Clemente\nSeries ended\n\nNon-game\nBlack serial numbers.\n1985 $5.00, Cranes [Ken Carlson]\n1986 $5.00, Prairie Chickens\n1987 $5.00, Eagle [Bob Kuhn] \n1988 $5.00, Kestrel [Charles Beckendorff]\n1989 $5.00, Ocelot [Al Agnew]\n1990 $5.00, Quail [Sherrie Russell Meline] \n1991 $5.00, Hawk [Pamela Davis-King]\n1992 $5.00, Heron [Gary Moss] \n1993 $5.00, Red Egret [Dee Kelley]\n1994 $5.00, Horn. Owl [Pamela Davis-King]\n1995 $5.00, Road Runners [C. Beckendorff]\nChange to collector-only\n1996 $3.00, Cardinals [David Drinkard]\n1997 $3.00, Golden Eagle [Joseph\n1998 $3.00, Mockinbirds\n1999 $3.00, White Ibis [James Hautman]\n2000 $3.00, Scissortail [Ken Carlson] \n2001 $3.00, Shrike [Thomas\n2002 $3.00, Avocet [Sherrie Russell Meline] \n2003 $3.00, Green Jay [John Dearman] \n2004 $3.00, Kingfisher [Joseph Hautman] \n2005 $3.00, Curlew [D.J. Cleland-Hura] \n2006$3.00, Barn Owl [Sherrie R. Meline] \n2007 $3.00, Red-tail Hawk [James Hautman]\n2008 $3.00, Heron [Bruce\n2009 $3.00, Harris Hawk [Thomas\n2010 $3.00, Cedar Waxwing [Peter Mathios] \n2011 $3.00, Black Skimmers\n2012 $3.00, Blackbird [Greg Wilson] \n2013 $3.00, Goldfinches [Bruce Miller] \n2014 $3.00, Owl [Thomas\n2015 $3.00, Wading birds [Thomas\nSeries ended\n\nTurkey\nBlack serial numbers.\nRequired for hunting; show expiration date on stamp.\n1991 $5, Turkey pair [John Dearman]\n1992 $5, Turkey [Ken Carlson] \n1993 $5, Turkey [Reagan Gennusa] \n1994 $5, Turkey strutting [David Drinkard]\n1995 $5, Turkey Trio [Charles Beckendorff]11.00\nChange to collector-only\n1996 $3, Turkey pair [Ken Carlson]\n1997 $3, Turkey & cactus [John Dearman]\n1998 $3, Turkey pair [Robert\n1999 $3, Turkey [Ragan Gennusa] \n2000 $3, Turkey trio [Eddie LeRoy]\n2001 $3, Turkey pair [Herb Booth] \n2002 $3, Turkey [John Dearman] \n2003 $3, Turkey [Reggie McLeroy]\n2004 $3, Turkey strutting [Eldridge Hardie] 2.50\nSeries ended\n\nUpland Game Bird Stamp\nSuccessor to Turkey Stamp series. All are collector\nstamps with no hunting validity. Black serial numbers.\n\n46\n\nGuzman]  2.50\n\n17.00\n [John Cowan]  12.00\n12.00\n  10.00\n  10.00\n10.00\n  10.00\n10.00\n  8.00\n  8.00\n  8.00\n stamps\n  2.50\n Hautman]  2.50\n [John Dearman]  2.50\n  2.50\n2.50\n Quinn]  2.50\n2.50\n2.50\n2.50\n2.50\n2.50\n  2.50\n Miller]  2.50\n Quinn]  2.50\n2.50\n [Al Barnes]  2.50\n2.50\n2.50\n Quinn]  2.50\n Quinn]  2.50\n\n14.00  —\n16.00  —\n16.00  —\n 11.00  —\n  —\n stamps, calendar year basis\n  2.50\n  2.50\n Hautman]  2.50\n2.50\n  2.50\n2.50\n2.50\n  2.50\n\nAbbett, Robert, 43\nAgnew, Al, 23, 30, 41\nBarnes, Al, 25, 28, 29, 30, 31, 32, 33, 37,\n\nArtist Cross\n\n44, 45\nBateman, Robert, 16\nBeckendorff, Charles, 12, 23, 24\nBooth, Herb, 13, 15, 17, 29, 31, 35, 37, 38,\n42, 44, 45\nBrasch, D., 19, 20\nCarlson, Ken, 12, 13, 15, 16, 23, 24, 33,\n35, 41, 43\nCarter, Calvin, 14, 15, 29, 32\nCleland-Hura, D. J., 24, 37\nCowan, John, 15, 16, 23, 29, 30, 41, 42, 44\nCrowe, Phillip, 17, 34, 43\nCruwys, Robert, 29\nDavis-King, Pamela, 23, 24\nDearman, John, 12, 13, 17, 24, 28, 29, 30,\n31, 34, 35, 36, 37, 38, 39, 40, 42, 44, 45\nDrinkard, David, 12, 24, 29, 30, 31, 33,\n34, 38, 42\nFaulk, Jared, 27, 33\nFleming, Rob, 8, 9, 11, 12, 21, 22, 27, 28,\n33, 34, 35, 36\nGennusa, Ragan, 12, 13, 19, 34\nGentling, Scott & Stuart, 14, 17, 36, 37, 45\nGuzman, Clemente, 8, 9, 10, 11, 12, 21,\n22, 26, 27, 28, 33, 34, 35, 36, 37, 38, 39,\n40\nHall, Dave, 32\nHardie, Eldridge, 13, 14, 36, 38, 41, 42, 43\nHautman, James, 14, 16, 17, 18, 24, 25,\n34, 37, 38, 39, 40, 42\nHautman, Joseph, 14, 17, 24, 34, 35, 36,\n45\nHautman, Robert, 13, 14, 17, 18, 34, 38\nHayden, Larry, 15, 16\n\n*  *\n\nReference\n\nHelgren, Kenneth, 9, 22, 27, 34\nHolcomb, Sharlee H., 7, 20\nKuhn, Bob, 23\nLeRoy, Eddie, 13, 35\nMaass, David A., 15, 16, 17, 37, 41, 42\nMartin, Pris, 8\nMathios, Peter, 18, 25\nMcGovern, Randy, 32\nMckissick, Randall, 44\nMcLeroy, Reggie, 13, 36\nMeline, Sherrie Russell, 17, 23, 24, 25, 35,\n36, 37, 43, 45\nMeltzoff, Stanley, 44\nMiller, Bruce, 14, 17, 25, 38\nMorel, Chris, 26\nMorgan, Elishea, 21\nMoss, Gary, 14, 16, 23\nNeal, Annette M., 7, 20\nPasqua, Lou, 43\nPeebles, Diane Rome, 31, 35, 45\nPiersal, Laura, 21\nQuinn, Thomas, 24, 25, 35, 38, 39, 40\nRay, Don, 28, 30, 31, 32, 34, 36, 38, 39,\n40, 44, 45\nReece, Maynard, 15\nSalas-Cox, Josie, 7, 8\nSaldana, 7\nSloan, Helen, 7\nSmith, Daniel, 16, 17, 33\nSmith, Dee, 23\nStark, Pat, 8, 21, 26\nStidham, Mike, 30, 31, 34, 42, 44\nStorm, Scot, 18, 38, 39, 40\nSussino, Mark, 28, 30, 31, 36, 38\nWells, Linda, 8, 11, 21, 22, 27, 33, 34\nWells, Ronnie, 31, 44\nWilson, Greg, 25\n\n*  *  *\n\n50\n\nOrder Form for Collector Handbooks\n\nPaperQuest Press\n3685 Pleasant Springs Drive\nNaples, FL 34119\niwcotton@centurylink.net\n402-871-4015\n\nQuantity  Price  Total\nNo. 1 – California Pictorial Hunting & Fishing Licenses (2007)\nSaddle-stitched binding  ________ X  $35.00  =  $________\nCoil binding (opens flat)  ________ X  $37.00  =  $________\nBlack & White edition (color cover)  ________ X  $20.00  =  $________\nNo. 2 - Michigan Fish & Game Licenses & Club Badges, 2nd Ed. (2010)\nSaddle-stitched binding  ________ X  $35.00  =  $________\nCoil binding (opens flat)  ________ X  $37.00  =  $________\nBlack & White edition (color cover)  ________ X  $20.00  =  $________\nNo. 3 – National Wildlife Federation® Christmas Stamps (2009)\nSaddle-stitched binding  ________ X  $35.00  =  $________\nCoil binding (opens flat)  ________ X  $37.00  =  $________\nHard Cover  ________ X  $45.00  =  $________\nNo. 4 – Voluntary Wildlife Conservation Stamps, Vol I – Gov’t Issues (2010)\nSaddle-stitched binding  ________ X  $35.00  =  $________\nCoil binding (opens flat)  ________ X  $37.00  =  $________\nNo. 5 – Pennsylvania Fishing License Badges & Patches (2011)\nSaddle-stitched binding  ________ X  $35.00  =  $________\nCoil binding (opens flat)  ________ X  $37.00  =  $________\nBlack & White edition (color cover)  ________ X  $20.00  =  $________\nNo. 6 – Catalog of State Fish & Game License Badges, Tokens & Tags, 2nd Ed. (2015)\nSaddle-stitched binding  ________ X  $35.00  =  $________\nCoil binding (opens flat)  ________ X  $37.00  =  $________\nBlack & White edition (color cover)  ________ X  $20.00  =  $________\nNo. 7 – Nebraska Small Game, Fishing & Trapping Licenses, 1901-2009 (2015)\nPerfect binding  ________ X  $65.00  =  $________\nCoil binding (opens flat)  ________ X  $65.00  =  $________\nBlack & White edition (color cover)  ________ X  $25.00  =  $________\nHard Cover  ________ X  $80.00  =  $________\nNo. 8 – Texas Fish & Game Stamps (2018)\nSaddle-stitched binding  ________ X  $35.00  =  $________\nCoil binding (opens flat)  ________ X  $37.00  =  $________\nBlack & White edition (color cover)  ________ X  $20.00  =  $________\nHard Cover  ________ X  $45.00  =  $________\nEric Dolan & Bob Dumaine, The Duck Stamp Story, Krause Publications (2000)\nHard Cover  ________ X  $44.00  =  $________\nSoft Cover  ________ X  $20.00  =  $________\nTerence Hines, Old Home Week Seals (2012)\nSaddle-stitched binding  ________ X  $25.00  =  $________\nTerence Hines, A History of Postal Service in Hanover, New Hampshire Since 1761 (2016)\nPerfect binding  ________ X  $50.00  =  $________\nCoil binding (opens flat)  ________ X  $52.00  =  $________\nDomestic shipping for first handbook (please email us for foreign shipping rates.)  $  5.00\nShipping for each additional handbook  ________ X  $ 2.00  =  $________\nTotal remitted by check or money order  $________\n\n(Check/money order appreciated. Please visit www.PaperQuestPress.comto pay by credit card.)\n\nPlease include name, address, email and telephone number with your order.\n\nEmail us for a discount for 5 or more books at one time. Thank you for your order!\n\n52\n\nTX Quail Unlimited 1990-2005 16\nTX Nat’ l Wild Turkey Fed. 1984-1990 7\n\nMuzzleloader hunting 1994-2003 10\nFreshwater fishing 2004-2015 12\n\nIra W. Cotton \nPaperQuest  Press\nNaples, Florida \n\nAbbett, Robert, 43  Helgren, Kenneth, 9, 22, 27, 34\nAgnew, Al, 23, 30, 41  Holcomb, Sharlee H., 7, 20 \nBarnes, Al, 25, 28, 29, 30, 31, 32, 33, 37, Kuhn, Bob, 23 \n44, 45   LeRoy, Eddie, 13, 35 \nBateman, Robert, 16  Maass, David A., 15, 16, 17, 37, 41, 42\nBeckendorff, Charles, 12, 23, 24 Martin, Pris, 8 \nBooth, Herb, 13, 15, 17, 29, 31, 35, 37, 38, Mathios, Peter, 18, 25 \n42, 44, 45   McGovern, Randy, 32 \nBrasch, D., 19, 20  Mckissick, Randall,  44 \nCarlson, Ken, 12, 13, 15, 16, 23, 24, 33, McLeroy, Reggie, 13, 36 \n35, 41, 43   Meline, Sherrie Russell, 17, 23, 24, 25, 35,\nCarter, Calvin, 14, 15, 29, 32 36, 37, 43, 45 \nCleland-Hura, D. J., 24, 37  Meltzoff, Stanley, 44 \nCowan, John, 15, 16, 23, 29, 30, 41, 42, 44 Miller, Bruce, 14, 17, 25, 38\nCrowe, Phillip, 17, 34, 43  Morel, Chris, 26 \nCruwys, Robert, 29  Morgan, Elishea, 21 \nDavis-King, Pamela, 23, 24  Moss, Gary, 14, 16, 23 \nDearman, John, 12, 13, 17, 24, 28, 29, 30, Neal, Annette M., 7, 20 \n31, 34, 35, 36, 37, 38, 39, 40, 42, 44, 45 Pasqua, Lou, 43 \nDrinkard, David, 12, 24, 29, 30, 31, 33, Peebles, Diane Rome, 31, 35, 45\n34, 38, 42   Piersal, Laura, 21 \nFaulk, Jared, 27, 33  Quinn, Thomas, 24, 25, 35, 38, 39, 40\nFleming, Rob, 8, 9, 11, 12, 21, 22, 27, 28, Ray, Don, 28, 30, 31, 32, 34, 36, 38, 39,\n33, 34, 35, 36  40, 44, 45  \nGennusa, Ragan, 12, 13, 19, 34 Reece, Maynard, 15 \nGentling, Scott & Stuart, 14, 17, 36, 37, 45 Salas-Cox, Josie, 7, 8 \nGuzman, Clemente, 8, 9, 10, 11, 12, 21, Saldana, 7  \n22, 26, 27, 28, 33, 34, 35, 36, 37, 38, 39, Sloan, Helen, 7 \n40   Smith, Daniel, 16, 17, 33 \nHall, Dave, 32   Smith, Dee, 23 \nHardie, Eldridge, 13, 14, 36, 38, 41, 42, 43 Stark, Pat, 8, 21, 26 \nHautman, James, 14, 16, 17, 18, 24, 25, Stidham, Mike, 30, 31, 34, 42, 44\n34, 37, 38, 39, 40, 42  Storm, Scot, 18, 38, 39, 40 \nHautman, Joseph, 14, 17, 24, 34, 35, 36, Sussino, Mark, 28, 30, 31, 36, 38\n45   Wells, Linda, 8, 11, 21, 22, 27, 33, 34\nHautman, Robert, 13, 14, 17, 18, 34, 38 Wells, Ronnie, 31, 44 \nHayden, Larry, 15, 16  Wilson, Greg, 25 \n\nCoil binding Black (opens flat) & White edition (color cover) ________ X ________ X $37.00 = $20.00 = $________ $________\nNo. 2-Michigan Fish & Game Licenses & Club Badges, 2 Ed. nd (2010) \nSaddle-stitched binding  ________ X $35.00  = $ ________\nCoil binding (opens flat)  ________ X $37.00  = $ ________\nBlack & White edition (color  cover) ________ X $20.00  = $ ________\nNo. 3-National Wildlife Federation® Christmas Stamps (2009)  \nSaddle-stitched binding  ________ X $35.00  = $ ________\nCoil binding (opens flat)  ________ X $37.00  = $ ________\nHard Cover   ________ X $45.00  = $ ________\nNo. 4-Voluntary Wildlife Conservation Stamps, Vol I-Gov’t Issues (2010) \nSaddle-stitched binding  ________ X $35.00  = $ ________\nCoil binding (opens flat)  ________ X $37.00  = $ ________\nNo. 5-Pennsylvania Fishing License Badges & Patches (2011)  \nSaddle-stitched binding  ________ X $35.00  = $ ________\nCoil binding (opens flat)  ________ X $37.00  = $ ________\nBlack & White edition (color  cover) ________ X $20.00  = $ ________\nNo. 6-Catalog of State Fish & Game License Badges, Tokens & Tags, 2 Ed. nd (2015)\nSaddle-stitched binding  ________ X $35.00  = $ ________\nCoil binding (opens flat)  ________ X $37.00  = $ ________\nBlack & White edition (color  cover) ________ X $20.00  = $ ________\nNo. 7-Nebraska Small Game, Fishing & Trapping Licenses, 1901-2009 (2015) \nPerfect binding  ________ X $65.00  = ________ $\nCoil binding (opens flat)  ________ X $65.00  = $ ________\nBlack & White edition (color  cover) ________ X $25.00  = $ ________\nHard Cover   ________ X $80.00  = $ ________\nNo. 8-Texas Fish & Game Stamps (2018)   \nSaddle-stitched binding  ________ X $35.00  = $ ________\nCoil binding (opens flat)  ________ X $37.00  = $ ________\nBlack & White edition (color  cover) ________ X $20.00  = $ ________\nHard Cover   ________ X $45.00  = $ ________\nEric Dolan & Bob Dumaine, The Duck Stamp Story, Krause Publications (2000) \nHard Cover   ________ X $44.00  = $ ________\nSoft Cover   ________ X $20.00  = $ ________\nTerence Hines, Old Home Week Seals (2012)   \nSaddle-stitched binding  ________ X $25.00  = $ ________\nTerence Hines, A History of Postal Service in Hanover, New Hampshire Since 1761 (2016)\nPerfect binding  ________ X $50.00  = $ ________\nCoil binding (opens flat)  ________ X $52.00  = $ ________\nDomestic shipping for first handbook (please email us for foreign shipping rates.) $  5.00\nShipping for each additional handbook  ________ X $ 2.00 = $ ________\nTotal remitted by check or money order   $ ________"
+  }
+}

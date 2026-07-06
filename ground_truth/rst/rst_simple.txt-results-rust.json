@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/rst/rst_simple.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 28,
+      "word_count": 134,
+      "character_count": 902
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/rst/rst_simple.txt",
+      "source_uri": "ground_truth/rst/rst_simple.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Example Docs ------------</p>\n<p>The sample docs directory contains the following files:</p>\n<p>- ``example-10k.html`` - A 10-K SEC filing in HTML format - ``layout-parser-paper.pdf`` - A PDF copy of the layout parser paper - ``factbook.xml``/``factbook.xsl`` - Example XML/XLS files that you can use to test stylesheets</p>\n<p>These documents can be used to test out the parsers in the library. In addition, here are instructions for pulling in some sample docs that are too big to store in the repo.</p>\n<p>XBRL 10-K ^^^^^^^^^</p>\n<p>You can get an example 10-K in inline XBRL format using the following ``curl``. Note, you need to have the user agent set in the header or the SEC site will reject your request.</p>\n<p>.. code:: bash</p>\n<p>curl -O \\ -A '${organization} ${email}' https://www.sec.gov/Archives/edgar/data/311094/000117184321001344/0001171843-21-001344.txt</p>\n<p>You can parse this document using the HTML parser.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Example Docs\\n------------\"},{\"type\":\"paragraph\",\"text\":\"The sample docs directory contains the following files:\"},{\"type\":\"paragraph\",\"text\":\"-  ``example-10k.html`` - A 10-K SEC filing in HTML format\\n-  ``layout-parser-paper.pdf`` - A PDF copy of the layout parser paper\\n-  ``factbook.xml``/``factbook.xsl`` - Example XML/XLS files that you\\n   can use to test stylesheets\"},{\"type\":\"paragraph\",\"text\":\"These documents can be used to test out the parsers in the library. In\\naddition, here are instructions for pulling in some sample docs that are\\ntoo big to store in the repo.\"},{\"type\":\"paragraph\",\"text\":\"XBRL 10-K\\n^^^^^^^^^\"},{\"type\":\"paragraph\",\"text\":\"You can get an example 10-K in inline XBRL format using the following\\n``curl``. Note, you need to have the user agent set in the header or the\\nSEC site will reject your request.\"},{\"type\":\"paragraph\",\"text\":\".. code:: bash\"},{\"type\":\"paragraph\",\"text\":\"curl -O \\\\\\n     -A '${organization} ${email}'\\n     https://www.sec.gov/Archives/edgar/data/311094/000117184321001344/0001171843-21-001344.txt\"},{\"type\":\"paragraph\",\"text\":\"You can parse this document using the HTML parser.\"}]}",
+    "markdown": "Example Docs ------------\n\nThe sample docs directory contains the following files:\n\n\\- \\`\\`example-10k.html\\`\\` - A 10-K SEC filing in HTML format - \\`\\`layout-parser-paper.pdf\\`\\` - A PDF copy of the layout parser paper - \\`\\`factbook.xml\\`\\`/\\`\\`factbook.xsl\\`\\` - Example XML/XLS files that you can use to test stylesheets\n\nThese documents can be used to test out the parsers in the library. In addition, here are instructions for pulling in some sample docs that are too big to store in the repo.\n\nXBRL 10-K ^^^^^^^^^\n\nYou can get an example 10-K in inline XBRL format using the following \\`\\`curl\\`\\`. Note, you need to have the user agent set in the header or the SEC site will reject your request.\n\n.. code:: bash\n\ncurl -O \\\\ -A '${organization} ${email}' https://www.sec.gov/Archives/edgar/data/311094/000117184321001344/0001171843-21-001344.txt\n\nYou can parse this document using the HTML parser.\n",
+    "plain": "Example Docs\n------------\n\nThe sample docs directory contains the following files:\n\n-  ``example-10k.html`` - A 10-K SEC filing in HTML format\n-  ``layout-parser-paper.pdf`` - A PDF copy of the layout parser paper\n-  ``factbook.xml``/``factbook.xsl`` - Example XML/XLS files that you\n   can use to test stylesheets\n\nThese documents can be used to test out the parsers in the library. In\naddition, here are instructions for pulling in some sample docs that are\ntoo big to store in the repo.\n\nXBRL 10-K\n^^^^^^^^^\n\nYou can get an example 10-K in inline XBRL format using the following\n``curl``. Note, you need to have the user agent set in the header or the\nSEC site will reject your request.\n\n.. code:: bash\n\ncurl -O \\\n     -A '${organization} ${email}'\n     https://www.sec.gov/Archives/edgar/data/311094/000117184321001344/0001171843-21-001344.txt\n\nYou can parse this document using the HTML parser."
+  }
+}

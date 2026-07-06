@@ -1,0 +1,36 @@
+{
+  "file": "rtf/list_complex.rtf",
+  "mime_type": "application/rtf",
+  "success": true,
+  "metadata": {
+    "title": "Text before list",
+    "authors": [
+      "Cynthia Johnson"
+    ],
+    "created_at": "2003-10-13T19:55:00Z",
+    "modified_at": "2021-08-09T10:28:00Z",
+    "created_by": "Cynthia Johnson",
+    "modified_by": "John MacFarlane",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "line_count": 31,
+      "revision": "4",
+      "paragraph_count": 16,
+      "word_count": 15,
+      "source_index": 0,
+      "source_uri": "rtf/list_complex.rtf",
+      "final_uri": "rtf/list_complex.rtf",
+      "page_count": 1,
+      "source_kind": "uri",
+      "character_count": 87
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>One</p>\n<p>Two</p>\n<ul>\n<li>\n<ul>\n<li>Three</li>\n<li>Four\n<ul>\n<li>Five</li>\n<li>Six\n<ul>\n<li>Seven</li>\n<li>Eight\n<ul>\n<li>Nine</li>\n<li>Ten\n<ul>\n<li>Eleven</li>\n<li>Twelve</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p>Out of list!</p>\n<p>Start with</p>\n<p>Seven Start</p>\n<p>Eight Continue</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"One\"},{\"type\":\"paragraph\",\"text\":\"Two\"},{\"type\":\"list\",\"ordered\":false,\"items\":[]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Three\",\"Four\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Five\",\"Six\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Seven\",\"Eight\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Nine\",\"Ten\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Eleven\",\"Twelve\"]},{\"type\":\"paragraph\",\"text\":\"Out of list!\"},{\"type\":\"paragraph\",\"text\":\"Start with\"},{\"type\":\"paragraph\",\"text\":\"Seven Start\"},{\"type\":\"paragraph\",\"text\":\"Eight Continue\"}]}",
+    "markdown": "One\n\nTwo\n\n- - Three\n  - Four\n    - Five\n    - Six\n      - Seven\n      - Eight\n        - Nine\n        - Ten\n          - Eleven\n          - Twelve\n\nOut of list\\!\n\nStart with\n\nSeven Start\n\nEight Continue\n",
+    "plain": "One\n\nTwo\n\nThree\nFour\nFive\nSix\nSeven\nEight\nNine\nTen\nEleven\nTwelve\nOut of list!\n\nStart with\n\nSeven Start\n\nEight Continue"
+  }
+}

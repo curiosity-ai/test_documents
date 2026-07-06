@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pdf/page-boxes-example.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/page-boxes-example.md",
+      "source_uri": "ground_truth/pdf/page-boxes-example.md",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>PDF Page Boxes Demonstration</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"PDF Page Boxes Demonstration\"}]}",
+    "markdown": "PDF Page Boxes Demonstration\n",
+    "plain": "PDF Page Boxes Demonstration"
+  }
+}

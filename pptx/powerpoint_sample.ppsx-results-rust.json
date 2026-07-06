@@ -1,0 +1,41 @@
+{
+  "file": "pptx/powerpoint_sample.ppsx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.slideshow",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Maxim Lysak"
+    ],
+    "created_at": "2024-09-26T09:15:16Z",
+    "modified_at": "2024-10-23T12:37:59Z",
+    "created_by": "Maxim Lysak",
+    "modified_by": "Maxim Lysak",
+    "format": {
+      "format_type": "pptx",
+      "slide_count": 0,
+      "slide_names": [],
+      "image_count": 0,
+      "table_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "revision": "21",
+      "source_uri": "pptx/powerpoint_sample.ppsx",
+      "custom_Slides": "3.0",
+      "application_version": "15.0000",
+      "source_kind": "uri",
+      "application": "LibreOffice/25.8.4.2$MacOSX_AARCH64 LibreOffice_project/290daaa01b999472f0c7a3890eb6a550fd74c6df",
+      "final_uri": "pptx/powerpoint_sample.ppsx",
+      "custom_PresentationFormat": "Widescreen"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Test Table Slide</h2>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>**Class1**</th>\n<th></th>\n<th></th>\n<th>**Class2**</th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>A merged with B</td>\n<td></td>\n<td>C</td>\n<td>A</td>\n<td>B</td>\n<td>C</td>\n</tr>\n<tr>\n<td>R1</td>\n<td>True</td>\n<td>False</td>\n<td></td>\n<td>False</td>\n<td>True</td>\n<td>True</td>\n</tr>\n<tr>\n<td>R2</td>\n<td></td>\n<td></td>\n<td>True</td>\n<td>False</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>R3</td>\n<td>False</td>\n<td></td>\n<td></td>\n<td></td>\n<td>False</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>True</td>\n<td></td>\n<td>True</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>R4</td>\n<td></td>\n<td></td>\n<td>False</td>\n<td></td>\n<td>False</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>True</td>\n<td></td>\n<td>True</td>\n<td>False</td>\n<td>False</td>\n</tr>\n<tr>\n<td></td>\n<td>True</td>\n<td>False</td>\n<td>True</td>\n<td>False</td>\n<td>True</td>\n<td>False</td>\n</tr>\n</tbody>\n</table>\n<p>With footnote</p>\n<h2>Second slide title</h2>\n<p>A rectangle shape with this text inside.</p>\n<p>Let’s introduce a list</p>\n<ul>\n<li>With foo</li>\n<li>Bar</li>\n<li>And baz things</li>\n</ul>\n<ol>\n<li>List item4</li>\n<li>List item5</li>\n<li>List item6</li>\n</ol>\n<ul>\n<li>l1</li>\n<li>l2</li>\n<li>l3</li>\n<li>I 1</li>\n<li>I2</li>\n<li>I3</li>\n<li>I4</li>\n</ul>\n<p>S ome info:</p>\n<ul>\n<li>I tem A</li>\n<li>Item B</li>\n</ul>\n<p>M aybe a list?</p>\n<ol>\n<li>List1</li>\n<li>List2</li>\n<li>List3</li>\n</ol>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Test Table Slide\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"\",\"**Class1**\",\"\",\"\",\"**Class2**\",\"\",\"\"],\"rows\":[[\"\",\"A merged with B\",\"\",\"C\",\"A\",\"B\",\"C\"],[\"R1\",\"True\",\"False\",\"\",\"False\",\"True\",\"True\"],[\"R2\",\"\",\"\",\"True\",\"False\",\"\",\"\"],[\"R3\",\"False\",\"\",\"\",\"\",\"False\",\"\"],[\"\",\"\",\"True\",\"\",\"True\",\"\",\"\"],[\"R4\",\"\",\"\",\"False\",\"\",\"False\",\"\"],[\"\",\"\",\"True\",\"\",\"True\",\"False\",\"False\"],[\"\",\"True\",\"False\",\"True\",\"False\",\"True\",\"False\"]]},{\"type\":\"paragraph\",\"text\":\"With footnote\"}]},{\"type\":\"section\",\"heading\":\"Second slide title\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"A rectangle shape with this text inside.\"},{\"type\":\"paragraph\",\"text\":\"Let’s introduce a list\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"With foo\",\"Bar\",\"And baz things\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"List item4\",\"List item5\",\"List item6\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"l1\",\"l2\",\"l3\",\"I 1\",\"I2\",\"I3\",\"I4\"]},{\"type\":\"paragraph\",\"text\":\"S ome info:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"I tem A\",\"Item B\"]},{\"type\":\"paragraph\",\"text\":\"M aybe a list?\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"List1\",\"List2\",\"List3\"]}]}]}",
+    "markdown": "## Test Table Slide\n\n|  | **Class1** |  |  | **Class2** |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  | A merged with B |  | C | A | B | C |\n| R1 | True | False |  | False | True | True |\n| R2 |  |  | True | False |  |  |\n| R3 | False |  |  |  | False |  |\n|  |  | True |  | True |  |  |\n| R4 |  |  | False |  | False |  |\n|  |  | True |  | True | False | False |\n|  | True | False | True | False | True | False |\n\nWith footnote\n\n## Second slide title\n\nA rectangle shape with this text inside.\n\nLet’s introduce a list\n\n- With foo\n- Bar\n- And baz things\n\n1. List item4\n2. List item5\n3. List item6\n\n- l1\n- l2\n- l3\n- I 1\n- I2\n- I3\n- I4\n\nS ome info:\n\n- I tem A\n- Item B\n\nM aybe a list?\n\n1. List1\n2. List2\n3. List3\n",
+    "plain": "Test Table Slide\n\nClass1\t\t\tClass2\n\nA merged with B\t\tC\tA\tB\tC\n\nR1\tTrue\tFalse\t\tFalse\tTrue\tTrue\n\nR2\t\t\tTrue\tFalse\n\nR3\tFalse\t\t\t\tFalse\n\nTrue\t\tTrue\n\nR4\t\t\tFalse\t\tFalse\n\nTrue\t\tTrue\tFalse\tFalse\n\nTrue\tFalse\tTrue\tFalse\tTrue\tFalse\n\nWith footnote\n\nSecond slide title\n\nA rectangle shape with this text inside.\n\nLet’s introduce a list\n\nWith foo\n\nBar\n\nAnd baz things\n\nNotes:\n\nSome notes on the second slide. <number>\n\nList item4\n\nList item5\n\nList item6\n\nl1\n\nl2\n\nl3\n\nI 1\n\nI2\n\nI3\n\nI4\n\nS ome info:\n\nI tem A\n\nItem B\n\nM aybe a list?\n\nList1\n\nList2\n\nList3\n\nNotes:\n\nFinal notes on the third slide. Second line of notes. <number>"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "file": "vendored/unstructured/eml/mime-attach-mp3.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Email with MP3 Attachment",
+    "format": {
+      "format_type": "email",
+      "from_email": "sender@example.com",
+      "to_emails": [
+        "recipient@example.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "attachments": [
+        "sample-3s.mp3"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "mime_version": "1.0",
+      "source_kind": "uri",
+      "source_uri": "vendored/unstructured/eml/mime-attach-mp3.eml",
+      "content_type": "multipart/mixed; boundary=\"===============6149310949458043093==\"",
+      "attachment_details": "sample-3s.mp3|audio/mpeg|52079",
+      "final_uri": "vendored/unstructured/eml/mime-attach-mp3.eml"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Email with MP3 Attachment</p>\n<p><strong>From</strong>: sender@example.com</p>\n<p><strong>To</strong>: recipient@example.com</p>\n<p>This is an email with an MP3 attachment.</p>\n<p>Attachments:</p>\n<p> sample-3s.mp3 (52079B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is an email with an MP3 attachment.\"},{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  sample-3s.mp3 (52079B)\"}]}",
+    "markdown": "**Subject**: Email with MP3 Attachment\n\n**From**: sender@example.com\n\n**To**: recipient@example.com\n\nThis is an email with an MP3 attachment.\n\nAttachments:\n\n sample-3s.mp3 (52079B)\n",
+    "plain": "Subject: Email with MP3 Attachment\nFrom: sender@example.com\nTo: recipient@example.com\n\nThis is an email with an MP3 attachment.\n\nAttachments:\n\n  sample-3s.mp3 (52079B)"
+  }
+}

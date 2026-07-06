@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/hyperlink_01.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 3,
+      "word_count": 9,
+      "character_count": 49
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/html/hyperlink_01.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/html/hyperlink_01.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Something</p>\n<p>Please follow the link to: This page .</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Something\"},{\"type\":\"paragraph\",\"text\":\"Please follow the link to: This page .\"}]}",
+    "markdown": "Something\n\nPlease follow the link to: This page .\n",
+    "plain": "Something\n\nPlease follow the link to: This page ."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "file": "vendored/docling/md/test_emf_docx.docx.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/docling/md/test_emf_docx.docx.md",
+      "source_kind": "uri",
+      "final_uri": "vendored/docling/md/test_emf_docx.docx.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Test with three images in unusual formats</p>\n<p>Raster in emf:</p>\n<p>Vector in emf:</p>\n<p>Raster in webp:</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test with three images in unusual formats\"},{\"type\":\"paragraph\",\"text\":\"Raster in emf:\"},{\"type\":\"paragraph\",\"text\":\"Vector in emf:\"},{\"type\":\"paragraph\",\"text\":\"Raster in webp:\"}]}",
+    "markdown": "Test with three images in unusual formats\n\nRaster in emf:\n\nVector in emf:\n\nRaster in webp:\n",
+    "plain": "Test with three images in unusual formats\n\nRaster in emf:\n\nVector in emf:\n\nRaster in webp:"
+  }
+}

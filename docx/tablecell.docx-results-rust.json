@@ -1,0 +1,96 @@
+{
+  "file": "docx/tablecell.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Maxim Lysak"
+    ],
+    "created_at": "2024-11-12T09:31:00Z",
+    "modified_at": "2024-11-12T13:03:00Z",
+    "created_by": "Maxim Lysak",
+    "modified_by": "Maxim Lysak",
+    "format": {
+      "format_type": "docx",
+      "core_properties": {
+        "title": null,
+        "subject": null,
+        "creator": "Maxim Lysak",
+        "keywords": null,
+        "description": null,
+        "last_modified_by": "Maxim Lysak",
+        "revision": "7",
+        "created": "2024-11-12T09:31:00Z",
+        "modified": "2024-11-12T13:03:00Z",
+        "category": null,
+        "content_status": null,
+        "language": null,
+        "identifier": null,
+        "version": null,
+        "last_printed": null
+      },
+      "app_properties": {
+        "application": "Microsoft Office Word",
+        "app_version": "16.0000",
+        "template": "Normal.dotm",
+        "total_time": 1,
+        "pages": 1,
+        "words": 13,
+        "characters": 75,
+        "characters_with_spaces": 87,
+        "lines": 1,
+        "paragraphs": 1,
+        "company": null,
+        "doc_security": 0,
+        "scale_crop": false,
+        "links_up_to_date": false,
+        "shared_doc": false,
+        "hyperlinks_changed": false
+      },
+      "custom_properties": {}
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "revision": "7",
+      "source_kind": "uri",
+      "paragraph_count": 1,
+      "page_count": 1,
+      "total_editing_time_minutes": 1,
+      "source_index": 0,
+      "word_count": 13,
+      "application": "Microsoft Office Word",
+      "source_uri": "docx/tablecell.docx",
+      "final_uri": "docx/tablecell.docx",
+      "character_count": 75,
+      "line_count": 1,
+      "template": "Normal.dotm"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Hello world1 Hello2"
+        ]
+      ],
+      "markdown": "| Hello world1 Hello2 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Tab1 Tab2 Tab3 A B C D E F"
+        ]
+      ],
+      "markdown": "| Tab1 Tab2 Tab3 A B C D E F |\n",
+      "page_number": 0
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>Hello world1 Hello2</th>\n</tr>\n</thead>\n</table>\n<p>Some text before</p>\n<table>\n<thead>\n<tr>\n<th>Tab1 Tab2 Tab3 A B C D E F</th>\n</tr>\n</thead>\n</table>\n<p>Some text after</p>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"Hello world1 Hello2\"],\"rows\":[]},{\"type\":\"paragraph\",\"text\":\"Some text before\"},{\"type\":\"table\",\"headers\":[\"Tab1 Tab2 Tab3 A B C D E F\"],\"rows\":[]},{\"type\":\"paragraph\",\"text\":\"Some text after\"}]}",
+    "markdown": "| Hello world1 Hello2 |\n| --- |\n\nSome text before\n\n| Tab1 Tab2 Tab3 A B C D E F |\n| --- |\n\nSome text after\n",
+    "plain": "Hello world1 Hello2\n\nSome text before\n\nTab1 Tab2 Tab3 A B C D E F\n\nSome text after"
+  }
+}

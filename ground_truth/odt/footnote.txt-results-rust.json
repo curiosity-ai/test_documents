@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/odt/footnote.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 3,
+      "word_count": 8,
+      "character_count": 48
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/odt/footnote.txt",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/odt/footnote.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Some text[1] with a footnote.</p>\n<p>[1] Footnote text</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Some text[1] with a footnote.\"},{\"type\":\"paragraph\",\"text\":\"[1] Footnote text\"}]}",
+    "markdown": "Some text[1] with a footnote.\n\n[1] Footnote text\n",
+    "plain": "Some text[1] with a footnote.\n\n[1] Footnote text"
+  }
+}

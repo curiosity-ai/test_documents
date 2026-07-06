@@ -1,0 +1,34 @@
+{
+  "file": "xml/flowchart.svg",
+  "mime_type": "image/svg+xml",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "xml",
+      "element_count": 19,
+      "unique_elements": [
+        "desc",
+        "line",
+        "rect",
+        "svg",
+        "text",
+        "title"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "xml/flowchart.svg",
+      "final_uri": "xml/flowchart.svg",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>svg</h1>\n<h2>title</h2>\n<p>Software Development Lifecycle</p>\n<h2>desc</h2>\n<p>A flowchart showing the stages of software development</p>\n<h2>rect</h2>\n<h2>text</h2>\n<p>Requirements</p>\n<h2>rect</h2>\n<h2>text</h2>\n<p>Design</p>\n<h2>rect</h2>\n<h2>text</h2>\n<p>Implementation</p>\n<h2>rect</h2>\n<h2>text</h2>\n<p>Testing</p>\n<h2>line</h2>\n<h2>line</h2>\n<h2>line</h2>\n<h2>text</h2>\n<p>Gather user needs and constraints</p>\n<h2>text</h2>\n<p>Architecture and interface planning</p>\n<h2>text</h2>\n<p>Write and review source code</p>\n<h2>text</h2>\n<p>Verify correctness and performance</p>\n<h2>text</h2>\n<p>Software Development Lifecycle v2.0</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"svg\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"title\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Software Development Lifecycle\"}]},{\"type\":\"section\",\"heading\":\"desc\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"A flowchart showing the stages of software development\"}]},{\"type\":\"section\",\"heading\":\"rect\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"text\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Requirements\"}]},{\"type\":\"section\",\"heading\":\"rect\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"text\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Design\"}]},{\"type\":\"section\",\"heading\":\"rect\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"text\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Implementation\"}]},{\"type\":\"section\",\"heading\":\"rect\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"text\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Testing\"}]},{\"type\":\"section\",\"heading\":\"line\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"line\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"line\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"text\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Gather user needs and constraints\"}]},{\"type\":\"section\",\"heading\":\"text\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Architecture and interface planning\"}]},{\"type\":\"section\",\"heading\":\"text\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Write and review source code\"}]},{\"type\":\"section\",\"heading\":\"text\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Verify correctness and performance\"}]},{\"type\":\"section\",\"heading\":\"text\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Software Development Lifecycle v2.0\"}]}]}]}",
+    "markdown": "# svg\n\n## title\n\nSoftware Development Lifecycle\n\n## desc\n\nA flowchart showing the stages of software development\n\n## rect\n\n## text\n\nRequirements\n\n## rect\n\n## text\n\nDesign\n\n## rect\n\n## text\n\nImplementation\n\n## rect\n\n## text\n\nTesting\n\n## line\n\n## line\n\n## line\n\n## text\n\nGather user needs and constraints\n\n## text\n\nArchitecture and interface planning\n\n## text\n\nWrite and review source code\n\n## text\n\nVerify correctness and performance\n\n## text\n\nSoftware Development Lifecycle v2.0\n",
+    "plain": "svg (height: 400, viewBox: 0 0 600 400, width: 600)\n  title\n  Software Development Lifecycle\n\n  desc\n  A flowchart showing the stages of software development\n\n  rect (fill: #4a90d9, height: 50, rx: 10, stroke: #2c5f8a, stroke-width: 2, width: 150, x: 50, y: 30)\n\n  text (fill: white, font-family: Arial, font-size: 14, text-anchor: middle, x: 125, y: 60)\n  Requirements\n\n  rect (fill: #50b848, height: 50, rx: 10, stroke: #357a2e, stroke-width: 2, width: 150, x: 50, y: 120)\n\n  text (fill: white, font-family: Arial, font-size: 14, text-anchor: middle, x: 125, y: 150)\n  Design\n\n  rect (fill: #f5a623, height: 50, rx: 10, stroke: #c17d0e, stroke-width: 2, width: 150, x: 50, y: 210)\n\n  text (fill: white, font-family: Arial, font-size: 14, text-anchor: middle, x: 125, y: 240)\n  Implementation\n\n  rect (fill: #d0021b, height: 50, rx: 10, stroke: #8e0112, stroke-width: 2, width: 150, x: 50, y: 300)\n\n  text (fill: white, font-family: Arial, font-size: 14, text-anchor: middle, x: 125, y: 330)\n  Testing\n\n  line (marker-end: url(#arrow), stroke: #333, stroke-width: 2, x1: 125, x2: 125, y1: 80, y2: 120)\n\n  line (stroke: #333, stroke-width: 2, x1: 125, x2: 125, y1: 170, y2: 210)\n\n  line (stroke: #333, stroke-width: 2, x1: 125, x2: 125, y1: 260, y2: 300)\n\n  text (fill: #666, font-family: Arial, font-size: 12, x: 250, y: 60)\n  Gather user needs and constraints\n\n  text (fill: #666, font-family: Arial, font-size: 12, x: 250, y: 150)\n  Architecture and interface planning\n\n  text (fill: #666, font-family: Arial, font-size: 12, x: 250, y: 240)\n  Write and review source code\n\n  text (fill: #666, font-family: Arial, font-size: 12, x: 250, y: 330)\n  Verify correctness and performance\n\n  text (fill: #999, font-family: Arial, font-size: 11, text-anchor: middle, x: 300, y: 385)\n  Software Development Lifecycle v2.0"
+  }
+}

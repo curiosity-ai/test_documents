@@ -1,0 +1,32 @@
+{
+  "file": "epub/img.epub",
+  "mime_type": "application/epub+zip",
+  "success": true,
+  "metadata": {
+    "title": "EPUBTEST 0100 - Reflowable Content Tests",
+    "authors": [
+      "Ori Idan"
+    ],
+    "language": "jp",
+    "format": {
+      "format_type": "epub"
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "epub/img.epub",
+      "source_index": 0,
+      "final_uri": "epub/img.epub",
+      "source_kind": "uri",
+      "description": "Tests for Content Documents in a reflowable context [UNDER CONSTRUCTION]",
+      "identifier": "com.github.epub-testsuite.epub30-test-0100"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Multimedia</h2>\n<h3>Images</h3>\n<h4>[REQUIRED] img-010 GIF</h4>\n<p>Tests whether the GIF image format is supported.</p>\n<p><img src=\"image_0.gif\" alt=\"gif test\" /></p>\n<p>If a checkmark precedes this paragaph, the test passes.</p>\n<h4>[REQUIRED] img-020 PNG</h4>\n<p>Tests whether the PNG image format is supported.</p>\n<p><img src=\"image_1.png\" alt=\"png test\" /></p>\n<p>If a checkmark precedes this paragaph, the test passes.</p>\n<h4>[REQUIRED] img-030 JPEG</h4>\n<p>Tests whether the JPEG image format is supported.</p>\n<p><img src=\"image_2.jpeg\" alt=\"jpeg test\" /></p>\n<p>If a checkmark precedes this paragaph, the test passes.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Multimedia\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"Images\",\"level\":3,\"body\":[{\"type\":\"section\",\"heading\":\"[REQUIRED] img-010 GIF\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"Tests whether the GIF image format is supported.\"},{\"type\":\"image\",\"alt\":\"gif test\",\"src\":\"image_0.gif\"},{\"type\":\"paragraph\",\"text\":\"If a checkmark precedes this paragaph, the test passes.\"}]},{\"type\":\"section\",\"heading\":\"[REQUIRED] img-020 PNG\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"Tests whether the PNG image format is supported.\"},{\"type\":\"image\",\"alt\":\"png test\",\"src\":\"image_1.png\"},{\"type\":\"paragraph\",\"text\":\"If a checkmark precedes this paragaph, the test passes.\"}]},{\"type\":\"section\",\"heading\":\"[REQUIRED] img-030 JPEG\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"Tests whether the JPEG image format is supported.\"},{\"type\":\"image\",\"alt\":\"jpeg test\",\"src\":\"image_2.jpeg\"},{\"type\":\"paragraph\",\"text\":\"If a checkmark precedes this paragaph, the test passes.\"}]}]}]}]}",
+    "markdown": "## Multimedia\n\n### Images\n\n#### [REQUIRED] img-010 GIF\n\nTests whether the GIF image format is supported.\n\n![gif test](../img/check.gif)\n\nIf a checkmark precedes this paragaph, the test passes.\n\n#### [REQUIRED] img-020 PNG\n\nTests whether the PNG image format is supported.\n\n![png test](../img/check.png)\n\nIf a checkmark precedes this paragaph, the test passes.\n\n#### [REQUIRED] img-030 JPEG\n\nTests whether the JPEG image format is supported.\n\n![jpeg test](../img/check.jpg)\n\nIf a checkmark precedes this paragaph, the test passes.\n",
+    "plain": "  Multimedia\n    Images\n      [REQUIRED] img-010 GIF\nTests whether the GIF image format is supported.\n\n[Image: gif test]\n\nIf a checkmark precedes this paragaph, the test passes.\n\n      [REQUIRED] img-020 PNG\nTests whether the PNG image format is supported.\n\n[Image: png test]\n\nIf a checkmark precedes this paragaph, the test passes.\n\n      [REQUIRED] img-030 JPEG\nTests whether the JPEG image format is supported.\n\n[Image: jpeg test]\n\nIf a checkmark precedes this paragaph, the test passes."
+  }
+}

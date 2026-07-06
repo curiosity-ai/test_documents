@@ -1,0 +1,41 @@
+{
+  "file": "pdf/pdfa_035.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "Cat.11, PGS  1-37",
+    "subject": "Cat.11, PGS  1-37",
+    "authors": [
+      "C Ross"
+    ],
+    "created_at": "2003-09-11T16:13:45Z",
+    "modified_at": "2003-09-11T16:14:37Z",
+    "created_by": "Adobe PageMaker 7.0",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.3",
+      "producer": "Acrobat Distiller 5.0.2 for Macintosh",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "pdf/pdfa_035.pdf",
+      "source_index": 0,
+      "extraction_method": "native",
+      "final_uri": "pdf/pdfa_035.pdf"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>MICHAEL TRINSEY</h2>\n<p><strong>MT24 MT04a</strong> . Usage is obtained by payment of licensing fees.</p>\n<h2>MT09</h2>\n<p>© 2003 Laughing Stock This online catalog is for reference only</p>\n<h1>www.laughing-stock.com</h1>\n<p><strong>ph 508-460-6058</strong> Trained as an illustrator but working as an art director Michael creates his lively colorful and conceptual illustrations to feel like cut paper although they are digital He's an accomplished woodworker and spends many hours on house projects</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"MICHAEL TRINSEY\"},{\"type\":\"paragraph\",\"text\":\"MT24\\nMT04a\"},{\"type\":\"paragraph\",\"text\":\". Usage is obtained by payment of licensing fees.\"},{\"type\":\"paragraph\",\"text\":\"MT09\"},{\"type\":\"paragraph\",\"text\":\"© 2003 Laughing Stock  This online catalog is for reference only\"},{\"type\":\"paragraph\",\"text\":\"www.laughing-stock.com\"},{\"type\":\"paragraph\",\"text\":\"ph 508-460-6058\"},{\"type\":\"paragraph\",\"text\":\"Trained as an\\nillustrator but\\nworking as an art\\ndirector Michael\\ncreates his lively\\ncolorful and\\nconceptual\\nillustrations to feel\\nlike cut paper\\nalthough they  are\\ndigital He’s an\\naccomplished\\nwoodworker and\\nspends many hours\\non house projects\"}]}",
+    "markdown": "## MICHAEL TRINSEY\n\n**MT24 MT04a** . Usage is obtained by payment of licensing fees.\n\n## MT09\n\n© 2003 Laughing Stock This online catalog is for reference only\n\n# www.laughing-stock.com\n\n**ph 508-460-6058** Trained as an illustrator but working as an art director Michael creates his lively colorful and conceptual illustrations to feel like cut paper although they are digital He's an accomplished woodworker and spends many hours on house projects\n",
+    "plain": "MICHAEL TRINSEY\n\nMT24\nMT04a\n\n. Usage is obtained by payment of licensing fees.\n\nMT09\n\n© 2003 Laughing Stock  This online catalog is for reference only\n\nwww.laughing-stock.com\n\nph 508-460-6058\n\nTrained as an\nillustrator but\nworking as an art\ndirector Michael\ncreates his lively\ncolorful and\nconceptual\nillustrations to feel\nlike cut paper\nalthough they  are\ndigital He’s an\naccomplished\nwoodworker and\nspends many hours\non house projects"
+  }
+}

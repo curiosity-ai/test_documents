@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/fake-email-utf-16-be.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 10,
+      "word_count": 38,
+      "character_count": 266
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/eml/fake-email-utf-16-be.txt",
+      "final_uri": "ground_truth/eml/fake-email-utf-16-be.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Test Email From: &quot;Matthew Robinson&quot; &lt;mrobinson@unstructured.io&gt; To: &quot;Matthew Robinson&quot; &lt;mrobinson@unstructured.io&gt; Date: Fri, 16 Dec 2022 17:04:16 -0500 This is a test email to use for unit tests.</p>\n<p>Important points:</p>\n<p>- Roses are red - Violets are blue</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Test Email\\nFrom: \\\"Matthew Robinson\\\" <mrobinson@unstructured.io>\\nTo: \\\"Matthew Robinson\\\" <mrobinson@unstructured.io>\\nDate: Fri, 16 Dec 2022 17:04:16 -0500\\nThis is a test email to use for unit tests.\"},{\"type\":\"paragraph\",\"text\":\"Important points:\"},{\"type\":\"paragraph\",\"text\":\"- Roses are red\\n   - Violets are blue\"}]}",
+    "markdown": "Subject: Test Email From: \"Matthew Robinson\" \\<mrobinson@unstructured.io\\> To: \"Matthew Robinson\" \\<mrobinson@unstructured.io\\> Date: Fri, 16 Dec 2022 17:04:16 -0500 This is a test email to use for unit tests.\n\nImportant points:\n\n\\- Roses are red - Violets are blue\n",
+    "plain": "Subject: Test Email\nFrom: \"Matthew Robinson\" <mrobinson@unstructured.io>\nTo: \"Matthew Robinson\" <mrobinson@unstructured.io>\nDate: Fri, 16 Dec 2022 17:04:16 -0500\nThis is a test email to use for unit tests.\n\nImportant points:\n\n- Roses are red\n   - Violets are blue"
+  }
+}

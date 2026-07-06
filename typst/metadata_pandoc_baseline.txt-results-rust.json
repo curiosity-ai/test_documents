@@ -1,0 +1,28 @@
+{
+  "file": "typst/metadata_pandoc_baseline.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 17,
+      "word_count": 39,
+      "character_count": 321
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "typst/metadata_pandoc_baseline.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "typst/metadata_pandoc_baseline.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Document Content</p>\n<p>This document tests metadata extraction from Typst files.</p>\n<p>The metadata should contain:</p>\n<p>- Title: “Metadata Example Document”</p>\n<p>- Author: “John Doe”</p>\n<p>- Subject: “Testing Document Metadata”</p>\n<p>- Keywords: “metadata”, “testing”, “extraction”</p>\n<p>## Details</p>\n<p>Additional content follows.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Document Content\"},{\"type\":\"paragraph\",\"text\":\"This document tests metadata extraction from Typst files.\"},{\"type\":\"paragraph\",\"text\":\"The metadata should contain:\"},{\"type\":\"paragraph\",\"text\":\"- Title: “Metadata Example Document”\"},{\"type\":\"paragraph\",\"text\":\"- Author: “John Doe”\"},{\"type\":\"paragraph\",\"text\":\"- Subject: “Testing Document Metadata”\"},{\"type\":\"paragraph\",\"text\":\"- Keywords: “metadata”, “testing”, “extraction”\"},{\"type\":\"paragraph\",\"text\":\"## Details\"},{\"type\":\"paragraph\",\"text\":\"Additional content follows.\"}]}",
+    "markdown": "\\# Document Content\n\nThis document tests metadata extraction from Typst files.\n\nThe metadata should contain:\n\n\\- Title: “Metadata Example Document”\n\n\\- Author: “John Doe”\n\n\\- Subject: “Testing Document Metadata”\n\n\\- Keywords: “metadata”, “testing”, “extraction”\n\n\\#\\# Details\n\nAdditional content follows.\n",
+    "plain": "# Document Content\n\nThis document tests metadata extraction from Typst files.\n\nThe metadata should contain:\n\n- Title: “Metadata Example Document”\n\n- Author: “John Doe”\n\n- Subject: “Testing Document Metadata”\n\n- Keywords: “metadata”, “testing”, “extraction”\n\n## Details\n\nAdditional content follows."
+  }
+}

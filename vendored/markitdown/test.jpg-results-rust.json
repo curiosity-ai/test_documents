@@ -1,0 +1,12 @@
+{
+  "file": "vendored/markitdown/test.jpg",
+  "mime_type": "image/jpeg",
+  "success": false,
+  "error": "Unsupported format: image/jpeg",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

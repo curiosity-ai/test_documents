@@ -1,0 +1,22 @@
+{
+  "file": "vendored/docling/md/webvtt_example_04.vtt.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "vendored/docling/md/webvtt_example_04.vtt.md",
+      "final_uri": "vendored/docling/md/webvtt_example_04.vtt.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Last night the chef surprised us with a culinary adventure.</p>\n<p>The waiter offered a _steaming bowl of _ <em>paella</em> that instantly transported the diners to a sunny Mediterranean coast.</p>\n<p>The dessert’s <em><strong>unexpected</strong></em> * * <em>arcobaleno</em> _ of flavors_ left everyone in awe.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Last night the chef surprised us with a culinary adventure.\"},{\"type\":\"paragraph\",\"text\":\"The waiter offered a _steaming bowl of _ paella that instantly transported the diners to a sunny Mediterranean coast.\"},{\"type\":\"paragraph\",\"text\":\"The dessert’s unexpected * * arcobaleno _ of flavors_ left everyone in awe.\"}]}",
+    "markdown": "Last night the chef surprised us with a culinary adventure.\n\nThe waiter offered a _steaming bowl of _ *paella* that instantly transported the diners to a sunny Mediterranean coast.\n\nThe dessert’s ***unexpected*** * * *arcobaleno* _ of flavors_ left everyone in awe.\n",
+    "plain": "Last night the chef surprised us with a culinary adventure.\n\nThe waiter offered a _steaming bowl of _ paella that instantly transported the diners to a sunny Mediterranean coast.\n\nThe dessert’s unexpected * * arcobaleno _ of flavors_ left everyone in awe."
+  }
+}

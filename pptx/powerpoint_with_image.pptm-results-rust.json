@@ -1,0 +1,41 @@
+{
+  "file": "pptx/powerpoint_with_image.pptm",
+  "mime_type": "application/vnd.ms-powerpoint.presentation.macroEnabled.12",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Maxim Lysak"
+    ],
+    "created_at": "2024-11-15T16:22:00Z",
+    "modified_at": "2024-11-15T16:31:42Z",
+    "created_by": "Maxim Lysak",
+    "modified_by": "Maxim Lysak",
+    "format": {
+      "format_type": "pptx",
+      "slide_count": 0,
+      "slide_names": [],
+      "image_count": 1,
+      "table_count": 0
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "pptx/powerpoint_with_image.pptm",
+      "source_kind": "uri",
+      "application": "LibreOffice/25.8.4.2$MacOSX_AARCH64 LibreOffice_project/290daaa01b999472f0c7a3890eb6a550fd74c6df",
+      "revision": "1",
+      "custom_Slides": "1.0",
+      "source_index": 0,
+      "final_uri": "pptx/powerpoint_with_image.pptm",
+      "custom_PresentationFormat": "Widescreen",
+      "application_version": "15.0000"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Docling</h2>\n<p>Image test</p>\n<p>![](../media/image1.png)</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Docling\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Image test\"},{\"type\":\"paragraph\",\"text\":\"![](../media/image1.png)\"}]}]}",
+    "markdown": "## Docling\n\nImage test\n\n\\![](../media/image1.png)\n",
+    "plain": "Docling\n\nImage test"
+  }
+}

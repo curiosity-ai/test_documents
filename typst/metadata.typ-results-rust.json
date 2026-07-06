@@ -1,0 +1,32 @@
+{
+  "file": "typst/metadata.typ",
+  "mime_type": "application/x-typst",
+  "success": true,
+  "metadata": {
+    "title": "Metadata Example Document",
+    "subject": "Testing Document Metadata",
+    "authors": [
+      "John Doe"
+    ],
+    "keywords": [
+      "metadata",
+      "testing",
+      "extraction"
+    ],
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "typst/metadata.typ",
+      "source_index": 0,
+      "source_uri": "typst/metadata.typ",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>= Document Content</h1>\n<p>This document tests metadata extraction from Typst files.</p>\n<p>The metadata should contain:</p>\n<ul>\n<li>Title: &quot;Metadata Example Document&quot;</li>\n<li>Author: &quot;John Doe&quot;</li>\n<li>Subject: &quot;Testing Document Metadata&quot;</li>\n<li>Keywords: &quot;metadata&quot;, &quot;testing&quot;, &quot;extraction&quot;</li>\n</ul>\n<h2>== Details</h2>\n<p>Additional content follows.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"= Document Content\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This document tests metadata extraction from Typst files.\"},{\"type\":\"paragraph\",\"text\":\"The metadata should contain:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Title: \\\"Metadata Example Document\\\"\",\"Author: \\\"John Doe\\\"\",\"Subject: \\\"Testing Document Metadata\\\"\",\"Keywords: \\\"metadata\\\", \\\"testing\\\", \\\"extraction\\\"\"]},{\"type\":\"section\",\"heading\":\"== Details\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Additional content follows.\"}]}]}]}",
+    "markdown": "# = Document Content\n\nThis document tests metadata extraction from Typst files.\n\nThe metadata should contain:\n\n- Title: \"Metadata Example Document\"\n- Author: \"John Doe\"\n- Subject: \"Testing Document Metadata\"\n- Keywords: \"metadata\", \"testing\", \"extraction\"\n\n## == Details\n\nAdditional content follows.\n",
+    "plain": "= Document Content\nThis document tests metadata extraction from Typst files.\n\nThe metadata should contain:\n\nTitle: \"Metadata Example Document\"\nAuthor: \"John Doe\"\nSubject: \"Testing Document Metadata\"\nKeywords: \"metadata\", \"testing\", \"extraction\"\n  == Details\nAdditional content follows."
+  }
+}

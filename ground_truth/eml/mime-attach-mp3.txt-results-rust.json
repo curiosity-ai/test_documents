@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/mime-attach-mp3.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 4,
+      "word_count": 17,
+      "character_count": 126
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/eml/mime-attach-mp3.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/eml/mime-attach-mp3.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Email with MP3 Attachment From: sender@example.com To: recipient@example.com This is an email with an MP3 attachment.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Email with MP3 Attachment\\nFrom: sender@example.com\\nTo: recipient@example.com\\nThis is an email with an MP3 attachment.\"}]}",
+    "markdown": "Subject: Email with MP3 Attachment From: sender@example.com To: recipient@example.com This is an email with an MP3 attachment.\n",
+    "plain": "Subject: Email with MP3 Attachment\nFrom: sender@example.com\nTo: recipient@example.com\nThis is an email with an MP3 attachment."
+  }
+}

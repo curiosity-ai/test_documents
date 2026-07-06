@@ -1,0 +1,12 @@
+{
+  "file": "pdf/corrupt_truncated.pdf",
+  "mime_type": "application/pdf",
+  "success": false,
+  "error": "Parsing error: pdf_oxide: failed to load bytes: Invalid cross-reference table",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/powerpoint_sample.pptx.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 48,
+      "word_count": 191,
+      "character_count": 1183
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/md/powerpoint_sample.pptx.txt",
+      "final_uri": "ground_truth/md/powerpoint_sample.pptx.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Test Table Slide</p>\n<p>With footnote</p>\n<p>| | Class1 | Class1 | Class1 | Class2 | Class2 | Class2 | |----|-----------------|-----------------|----------|----------|----------|----------| | | A merged with B | A merged with B | C | A | B | C | | R1 | True | False | | False | True | True | | R2 | | | True | False | | | | R3 | False | | | | False | | | R3 | | True | | True | | | | R4 | | | False | | False | | | R4 | | True | | True | False | False | | R4 | True | False | True | False | True | False |</p>\n<p># Second slide title</p>\n<p>Let’s introduce a list</p>\n<p>- With foo - Bar - And baz things</p>\n<p>A rectangle shape with this text inside.</p>\n<p>1. List item4 2. List item5 3. List item6</p>\n<p>- I1 - I2 - I3 - I4</p>\n<p>Some info:</p>\n<p>- Item A - Item B</p>\n<p>Maybe a list?</p>\n<p>1. List1 2. List2 3. List3</p>\n<p>- l1 - l2 - l3</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Test Table Slide\"},{\"type\":\"paragraph\",\"text\":\"With footnote\"},{\"type\":\"paragraph\",\"text\":\"|    | Class1          | Class1          | Class1   | Class2   | Class2   | Class2   |\\n|----|-----------------|-----------------|----------|----------|----------|----------|\\n|    | A merged with B | A merged with B | C        | A        | B        | C        |\\n| R1 | True            | False           |          | False    | True     | True     |\\n| R2 |                 |                 | True     | False    |          |          |\\n| R3 | False           |                 |          |          | False    |          |\\n| R3 |                 | True            |          | True     |          |          |\\n| R4 |                 |                 | False    |          | False    |          |\\n| R4 |                 | True            |          | True     | False    | False    |\\n| R4 | True            | False           | True     | False    | True     | False    |\"},{\"type\":\"paragraph\",\"text\":\"# Second slide title\"},{\"type\":\"paragraph\",\"text\":\"Let’s introduce a list\"},{\"type\":\"paragraph\",\"text\":\"- With foo\\n- Bar\\n- And baz things\"},{\"type\":\"paragraph\",\"text\":\"A rectangle shape with this text inside.\"},{\"type\":\"paragraph\",\"text\":\"1. List item4\\n2. List item5\\n3. List item6\"},{\"type\":\"paragraph\",\"text\":\"- I1\\n- I2\\n- I3\\n- I4\"},{\"type\":\"paragraph\",\"text\":\"Some info:\"},{\"type\":\"paragraph\",\"text\":\"- Item A\\n- Item B\"},{\"type\":\"paragraph\",\"text\":\"Maybe a list?\"},{\"type\":\"paragraph\",\"text\":\"1. List1\\n2. List2\\n3. List3\"},{\"type\":\"paragraph\",\"text\":\"- l1\\n- l2\\n- l3\"}]}",
+    "markdown": "\\# Test Table Slide\n\nWith footnote\n\n| | Class1 | Class1 | Class1 | Class2 | Class2 | Class2 | |----|-----------------|-----------------|----------|----------|----------|----------| | | A merged with B | A merged with B | C | A | B | C | | R1 | True | False | | False | True | True | | R2 | | | True | False | | | | R3 | False | | | | False | | | R3 | | True | | True | | | | R4 | | | False | | False | | | R4 | | True | | True | False | False | | R4 | True | False | True | False | True | False |\n\n\\# Second slide title\n\nLet’s introduce a list\n\n\\- With foo - Bar - And baz things\n\nA rectangle shape with this text inside.\n\n1\\. List item4 2. List item5 3. List item6\n\n\\- I1 - I2 - I3 - I4\n\nSome info:\n\n\\- Item A - Item B\n\nMaybe a list?\n\n1\\. List1 2. List2 3. List3\n\n\\- l1 - l2 - l3\n",
+    "plain": "# Test Table Slide\n\nWith footnote\n\n|    | Class1          | Class1          | Class1   | Class2   | Class2   | Class2   |\n|----|-----------------|-----------------|----------|----------|----------|----------|\n|    | A merged with B | A merged with B | C        | A        | B        | C        |\n| R1 | True            | False           |          | False    | True     | True     |\n| R2 |                 |                 | True     | False    |          |          |\n| R3 | False           |                 |          |          | False    |          |\n| R3 |                 | True            |          | True     |          |          |\n| R4 |                 |                 | False    |          | False    |          |\n| R4 |                 | True            |          | True     | False    | False    |\n| R4 | True            | False           | True     | False    | True     | False    |\n\n# Second slide title\n\nLet’s introduce a list\n\n- With foo\n- Bar\n- And baz things\n\nA rectangle shape with this text inside.\n\n1. List item4\n2. List item5\n3. List item6\n\n- I1\n- I2\n- I3\n- I4\n\nSome info:\n\n- Item A\n- Item B\n\nMaybe a list?\n\n1. List1\n2. List2\n3. List3\n\n- l1\n- l2\n- l3"
+  }
+}

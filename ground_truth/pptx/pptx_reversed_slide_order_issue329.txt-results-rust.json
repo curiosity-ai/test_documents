@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pptx/pptx_reversed_slide_order_issue329.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 7,
+      "word_count": 17,
+      "character_count": 123
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pptx/pptx_reversed_slide_order_issue329.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/pptx/pptx_reversed_slide_order_issue329.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Slide 1</p>\n<p>[Ein Bild, das Wolke, Wasser, Himmel, draußen enthält.</p>\n<p>KI-generierte Inhalte können fehlerhaft sein.]</p>\n<p>Slide 2</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Slide 1\"},{\"type\":\"paragraph\",\"text\":\"[Ein Bild, das Wolke, Wasser, Himmel, draußen enthält.\"},{\"type\":\"paragraph\",\"text\":\"KI-generierte Inhalte können fehlerhaft sein.]\"},{\"type\":\"paragraph\",\"text\":\"Slide 2\"}]}",
+    "markdown": "Slide 1\n\n[Ein Bild, das Wolke, Wasser, Himmel, draußen enthält.\n\nKI-generierte Inhalte können fehlerhaft sein.]\n\nSlide 2\n",
+    "plain": "Slide 1\n\n[Ein Bild, das Wolke, Wasser, Himmel, draußen enthält.\n\nKI-generierte Inhalte können fehlerhaft sein.]\n\nSlide 2"
+  }
+}

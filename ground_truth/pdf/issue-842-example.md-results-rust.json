@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pdf/issue-842-example.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/issue-842-example.md",
+      "final_uri": "ground_truth/pdf/issue-842-example.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>安徽安利合成革股份有限公司 ANHUI ANLI ARTIFICIAL LEATHER CO., LTD. 2011年年度报告</p>\n<p>股票代码:300218 股票简称:安利股份 披露日期:2012年3月27</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"安徽安利合成革股份有限公司 ANHUI ANLI ARTIFICIAL LEATHER CO., LTD. 2011年年度报告\"},{\"type\":\"paragraph\",\"text\":\"股票代码:300218 股票简称:安利股份 披露日期:2012年3月27\"}]}",
+    "markdown": "安徽安利合成革股份有限公司 ANHUI ANLI ARTIFICIAL LEATHER CO., LTD. 2011年年度报告\n\n股票代码:300218 股票简称:安利股份 披露日期:2012年3月27\n",
+    "plain": "安徽安利合成革股份有限公司 ANHUI ANLI ARTIFICIAL LEATHER CO., LTD. 2011年年度报告\n\n股票代码:300218 股票简称:安利股份 披露日期:2012年3月27"
+  }
+}

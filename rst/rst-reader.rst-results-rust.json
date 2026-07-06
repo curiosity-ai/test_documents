@@ -1,0 +1,452 @@
+{
+  "file": "rst/rst-reader.rst",
+  "mime_type": "text/x-rst",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "John MacFarlane; Anonymous"
+    ],
+    "created_at": "July 17, 2006",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "field_city": "*Nowhere*, MA,\n    USA",
+      "final_uri": "rst/rst-reader.rst",
+      "field_phone": "",
+      "source_kind": "uri",
+      "version": "3",
+      "field_height": "2343\n   :alt: Voyage dans la Lune",
+      "field_address": "61 Main St.",
+      "source_uri": "rst/rst-reader.rst",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "col 1",
+          "col 2",
+          "col 3"
+        ],
+        [
+          "r1 a",
+          "b",
+          "c"
+        ],
+        [
+          "r2 d",
+          "e",
+          "f"
+        ]
+      ],
+      "markdown": "| col 1 | col 2 | col 3 |\n| --- | --- | --- |\n| r1 a | b | c |\n| r2 d | e | f |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "r1 a",
+          "b",
+          "c"
+        ],
+        [
+          "r2 d",
+          "e",
+          "f"
+        ]
+      ],
+      "markdown": "| r1 a | b | c |\n| --- | --- | --- |\n| r2 d | e | f |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "col 1",
+          "col 2",
+          "col 3"
+        ],
+        [
+          "r1 a",
+          "b",
+          "c"
+        ],
+        [
+          "r1 bis",
+          "b 2",
+          "c 2"
+        ],
+        [
+          "r2 d",
+          "e",
+          "f"
+        ]
+      ],
+      "markdown": "| col 1 | col 2 | col 3 |\n| --- | --- | --- |\n| r1 a | b | c |\n| r1 bis | b 2 | c 2 |\n| r2 d | e | f |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "r1 a",
+          "b",
+          "c"
+        ],
+        [
+          "r1 bis",
+          "b 2",
+          "c 2"
+        ],
+        [
+          "r2 d",
+          "e",
+          "f"
+        ]
+      ],
+      "markdown": "| r1 a | b | c |\n| --- | --- | --- |\n| r1 bis | b 2 | c 2 |\n| r2 d | e | f |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "r1 a",
+          "b",
+          "c"
+        ],
+        [
+          "r1 bis",
+          "b 2",
+          "c 2"
+        ],
+        [
+          "r2 d",
+          "e",
+          "f"
+        ]
+      ],
+      "markdown": "| r1 a | b | c |\n| --- | --- | --- |\n| r1 bis | b 2 | c 2 |\n| r2 d | e | f |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "r1 a",
+          "- b",
+          "c"
+        ],
+        [
+          "- b 2",
+          "c 2"
+        ],
+        [
+          "r1 bis",
+          "- b 2",
+          "c 2"
+        ]
+      ],
+      "markdown": "| r1 a | - b | c |\n| --- | --- | --- |\n| - b 2 | c 2 |\n| r1 bis | - b 2 | c 2 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Property",
+          "Earth"
+        ],
+        [
+          "min",
+          "-89.2 °C"
+        ],
+        [
+          "Temperature +-------+----------+"
+        ],
+        [
+          "1961-1990",
+          "mean",
+          "14 °C"
+        ],
+        [
+          "min",
+          "56.7 °C"
+        ]
+      ],
+      "markdown": "| Property | Earth |\n| --- | --- |\n| min | -89.2 °C |\n| Temperature +-------+----------+ |\n| 1961-1990 | mean | 14 °C |\n| min | 56.7 °C |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Location",
+          "Temperature 1961-1990"
+        ],
+        [
+          "in degree Celsius"
+        ],
+        [
+          "min",
+          "mean",
+          "max"
+        ],
+        [
+          "Antarctica",
+          "-89.2",
+          "N/A",
+          "19.8"
+        ],
+        [
+          "Earth",
+          "-89.2",
+          "14",
+          "56.7"
+        ]
+      ],
+      "markdown": "| Location | Temperature 1961-1990 |\n| --- | --- |\n| in degree Celsius |\n| min | mean | max |\n| Antarctica | -89.2 | N/A | 19.8 |\n| Earth | -89.2 | 14 | 56.7 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "col 1",
+          "col 2",
+          "col 3"
+        ]
+      ],
+      "markdown": "| col 1 | col 2 | col 3 |\n| --- | --- | --- |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "r1 a",
+          "b",
+          "c"
+        ],
+        [
+          "r2 d",
+          "e",
+          "f"
+        ]
+      ],
+      "markdown": "| r1 a | b | c |\n| --- | --- | --- |\n| r2 d | e | f |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "------------------+-----------+------------"
+        ],
+        [
+          "col 1",
+          "col 2",
+          "col 3"
+        ],
+        [
+          "==================+===========+============"
+        ],
+        [
+          "r1 a",
+          "b",
+          "c"
+        ],
+        [
+          "r1 bis",
+          "b 2",
+          "c 2"
+        ],
+        [
+          "------------------+-----------+------------"
+        ],
+        [
+          "r2 d",
+          "e",
+          "f"
+        ],
+        [
+          "------------------+-----------+------------"
+        ]
+      ],
+      "markdown": "| ------------------+-----------+------------ |\n| --- |\n| col 1 | col 2 | col 3 |\n| ==================+===========+============ |\n| r1 a | b | c |\n| r1 bis | b 2 | c 2 |\n| ------------------+-----------+------------ |\n| r2 d | e | f |\n| ------------------+-----------+------------ |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "------------------+-----------+------------"
+        ],
+        [
+          "r1 a",
+          "b",
+          "c"
+        ],
+        [
+          "r1 bis",
+          "b 2",
+          "c 2"
+        ],
+        [
+          "------------------+-----------+------------"
+        ],
+        [
+          "r2 d",
+          "e",
+          "f"
+        ],
+        [
+          "------------------+-----------+------------"
+        ]
+      ],
+      "markdown": "| ------------------+-----------+------------ |\n| --- |\n| r1 a | b | c |\n| r1 bis | b 2 | c 2 |\n| ------------------+-----------+------------ |\n| r2 d | e | f |\n| ------------------+-----------+------------ |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "------------------+-----------+------------"
+        ],
+        [
+          "r1 a",
+          "b",
+          "c"
+        ],
+        [
+          "r1 bis",
+          "b 2",
+          "c 2"
+        ],
+        [
+          "------------------+-----------+------------"
+        ],
+        [
+          "r2 d",
+          "e",
+          "f"
+        ],
+        [
+          "------------------+-----------+------------"
+        ]
+      ],
+      "markdown": "| ------------------+-----------+------------ |\n| --- |\n| r1 a | b | c |\n| r1 bis | b 2 | c 2 |\n| ------------------+-----------+------------ |\n| r2 d | e | f |\n| ------------------+-----------+------------ |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "------------------+-----------+------------"
+        ],
+        [
+          "r1 a",
+          "- b",
+          "c"
+        ],
+        [
+          "",
+          "- b 2",
+          "c 2"
+        ],
+        [
+          "r1 bis",
+          "- b 2",
+          "c 2"
+        ],
+        [
+          "------------------+-----------+------------"
+        ]
+      ],
+      "markdown": "| ------------------+-----------+------------ |\n| --- |\n| r1 a | - b | c |\n|  | - b 2 | c 2 |\n| r1 bis | - b 2 | c 2 |\n| ------------------+-----------+------------ |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "---------------------+----------"
+        ],
+        [
+          "Property",
+          "Earth"
+        ],
+        [
+          "=============+=======+=========="
+        ],
+        [
+          "",
+          "min",
+          "-89.2 °C"
+        ],
+        [
+          "Temperature +-------+----------"
+        ],
+        [
+          "1961-1990",
+          "mean",
+          "14 °C"
+        ],
+        [
+          "+-------+----------"
+        ],
+        [
+          "",
+          "min",
+          "56.7 °C"
+        ],
+        [
+          "-------------+-------+----------"
+        ]
+      ],
+      "markdown": "| ---------------------+---------- |\n| --- |\n| Property | Earth |\n| =============+=======+========== |\n|  | min | -89.2 °C |\n| Temperature +-------+---------- |\n| 1961-1990 | mean | 14 °C |\n| +-------+---------- |\n|  | min | 56.7 °C |\n| -------------+-------+---------- |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "---------------------+-----------------------"
+        ],
+        [
+          "Location",
+          "Temperature 1961-1990"
+        ],
+        [
+          "",
+          "in degree Celsius"
+        ],
+        [
+          "+-------+-------+-------"
+        ],
+        [
+          "",
+          "min",
+          "mean",
+          "max"
+        ],
+        [
+          "=====================+=======+=======+======="
+        ],
+        [
+          "Antarctica",
+          "-89.2",
+          "N/A",
+          "19.8"
+        ],
+        [
+          "---------------------+-------+-------+-------"
+        ],
+        [
+          "Earth",
+          "-89.2",
+          "14",
+          "56.7"
+        ],
+        [
+          "---------------------+-------+-------+-------"
+        ]
+      ],
+      "markdown": "| ---------------------+----------------------- |\n| --- |\n| Location | Temperature 1961-1990 |\n|  | in degree Celsius |\n| +-------+-------+------- |\n|  | min | mean | max |\n| =====================+=======+=======+======= |\n| Antarctica | -89.2 | N/A | 19.8 |\n| ---------------------+-------+-------+------- |\n| Earth | -89.2 | 14 | 56.7 |\n| ---------------------+-------+-------+------- |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Pandoc Test Suite</h1>\n<h2>Subtitle</h2>\n<p><strong>Authors</strong>: John MacFarlane; Anonymous</p>\n<p><strong>Date</strong>: July 17, 2006</p>\n<p><strong>Revision</strong>: 3</p>\n<h3>Level one header</h3>\n<p>This is a set of tests for pandoc. Most of them are adapted from John Gruber's markdown test suite.</p>\n<h4>Level two header</h4>\n<h5>Level three</h5>\n<h6>Level four with *emphasis*</h6>\n<p>Level five ''''''''''</p>\n<h3>Paragraphs</h3>\n<p>Here's a regular paragraph.</p>\n<p>In Markdown 1.0.0 and earlier. Version</p>\n<ol>\n<li>This line turns into a list item.</li>\n</ol>\n<p>Because a hard-wrapped line in the middle of a paragraph looked like a list item.</p>\n<p>Here's one with a bullet.</p>\n<ul>\n<li>criminey.</li>\n</ul>\n<p>Horizontal rule:</p>\n<p>Another:</p>\n<h3>Block Quotes</h3>\n<p>Here's a block quote:</p>\n<p>This is a block quote.</p>\n<p>It is pretty short.</p>\n<p>Here's another, differently indented:</p>\n<p>This is a block quote.</p>\n<p>It's indented with a tab.</p>\n<p>Code in a block quote</p>\n<pre><code>sub status {\n    print &quot;working&quot;;\n}</code></pre>\n<p>List in a block quote:</p>\n<ol>\n<li>item one</li>\n<li>item two</li>\n</ol>\n<p>Nested block quotes:</p>\n<p>nested</p>\n<p>nested</p>\n<h3>Code Blocks</h3>\n<p>Code:</p>\n<pre><code>---- (should be four hyphens)\n\nsub status {\n    print &quot;working&quot;;\n}</code></pre>\n<pre><code>this code block is indented by one tab</code></pre>\n<p>And</p>\n<pre><code>\tthis block is indented by two tabs\n\n      These should not be escaped:  \\$ \\\\ \\&gt; \\[ \\{</code></pre>\n<p>And:</p>\n<pre lang=\"python\"><code>def my_function(x):\n    return x + 1</code></pre>\n<p>If we use the highlight directive, we can specify a default language for literate blocks.</p>\n<pre lang=\"haskell\"><code>-- this code is in haskell\ndata Tree = Leaf | Node Tree Tree</code></pre>\n<pre lang=\"haskell\"><code>-- this code is in haskell too\ndata Nat = Zero | Succ Nat</code></pre>\n<pre lang=\"javascript\"><code>-- this code is in javascript\nlet f = (x, y) =&gt; x + y</code></pre>\n<h3>Lists</h3>\n<h4>Unordered</h4>\n<p>Asterisks tight:</p>\n<ul>\n<li>asterisk 1</li>\n<li>asterisk 2</li>\n<li>asterisk 3</li>\n</ul>\n<p>Asterisks loose:</p>\n<ul>\n<li>asterisk 1</li>\n</ul>\n<ul>\n<li>asterisk 2</li>\n</ul>\n<ul>\n<li>asterisk 3</li>\n</ul>\n<p>Pluses tight:</p>\n<ul>\n<li>Plus 1</li>\n<li>Plus 2</li>\n<li>Plus 3</li>\n</ul>\n<p>Pluses loose:</p>\n<ul>\n<li>Plus 1</li>\n</ul>\n<ul>\n<li>Plus 2</li>\n</ul>\n<ul>\n<li>Plus 3</li>\n</ul>\n<p>Minuses tight:</p>\n<ul>\n<li>Minus 1</li>\n<li>Minus 2</li>\n<li>Minus 3</li>\n</ul>\n<p>Minuses loose:</p>\n<ul>\n<li>Minus 1</li>\n</ul>\n<ul>\n<li>Minus 2</li>\n</ul>\n<ul>\n<li>Minus 3</li>\n</ul>\n<h4>Ordered</h4>\n<p>Tight:</p>\n<ol>\n<li>First</li>\n<li>Second</li>\n<li>Third</li>\n</ol>\n<p>and:</p>\n<ol>\n<li>One</li>\n<li>Two</li>\n<li>Three</li>\n</ol>\n<p>Loose using tabs:</p>\n<ol>\n<li>First</li>\n</ol>\n<ol>\n<li>Second</li>\n</ol>\n<ol>\n<li>Third</li>\n</ol>\n<p>and using spaces:</p>\n<ol>\n<li>One</li>\n</ol>\n<ol>\n<li>Two</li>\n</ol>\n<ol>\n<li>Three</li>\n</ol>\n<p>Multiple paragraphs:</p>\n<ol>\n<li>Item 1, graf one.</li>\n</ol>\n<p>Item 1. graf two. The quick brown fox jumped over the lazy dog's</p>\n<p>back.</p>\n<ol>\n<li>Item 2.</li>\n</ol>\n<ol>\n<li>Item 3.</li>\n</ol>\n<p>Nested:</p>\n<ul>\n<li>Tab</li>\n</ul>\n<ul>\n<li>Tab</li>\n</ul>\n<ul>\n<li>Tab</li>\n</ul>\n<p>Here's another:</p>\n<ol>\n<li>First</li>\n</ol>\n<ol>\n<li>Second:</li>\n</ol>\n<ul>\n<li>Fee</li>\n<li>Fie</li>\n<li>Foe</li>\n</ul>\n<ol>\n<li>Third</li>\n</ol>\n<h4>Fancy list markers</h4>\n<ol>\n<li>begins with 2</li>\n<li>and now 3</li>\n</ol>\n<p>with a continuation</p>\n<ol>\n<li>sublist with roman numerals, starting with 4</li>\n<li> more items</li>\n</ol>\n<ol>\n<li>a subsublist</li>\n<li>a subsublist</li>\n</ol>\n<p>Nesting:</p>\n<ol>\n<li> Upper Alpha</li>\n</ol>\n<ol>\n<li> Upper Roman.</li>\n</ol>\n<ol>\n<li>Decimal start with 6</li>\n</ol>\n<ol>\n<li>Lower alpha with paren</li>\n</ol>\n<p>Autonumbering:</p>\n<ol>\n<li>Autonumber.</li>\n<li> More.</li>\n</ol>\n<ol>\n<li>Nested.</li>\n</ol>\n<p>Autonumbering with explicit start:</p>\n<ol>\n<li> item 1</li>\n<li> item 2</li>\n</ol>\n<h4>Definition</h4>\n<p>term 1</p>\n<p>Definition 1.</p>\n<p>term 2</p>\n<p>Definition 2, paragraph 1.</p>\n<p>Definition 2, paragraph 2.</p>\n<p>term with <em>emphasis</em></p>\n<p>Definition 3.</p>\n<h3>Field Lists</h3>\n<p><strong>address</strong>: 61 Main St.</p>\n<p><strong>city</strong>: *Nowhere*, MA, USA</p>\n<p><strong>phone</strong>: 123-4567</p>\n<p><strong>address</strong>: 61 Main St.</p>\n<p><strong>city</strong>: *Nowhere*, MA, USA</p>\n<p><strong>phone</strong>: </p>\n<p>123-4567</p>\n<h3>HTML Blocks</h3>\n<p>Simple block on one line:</p>\n<p>Now, nested:</p>\n<h3>LaTeX Block</h3>\n<h3>Inline Markup</h3>\n<p>This is <em>emphasized</em>. This is <strong>strong</strong>.</p>\n<p>This is code: <code>&gt;</code>, <code>$</code>, <code>\\</code>, <code>\\$</code>, <code>&lt;html&gt;</code>.</p>\n<p>This is\\ :sub:<code>subscripted</code> and this is :sup:<code>superscripted</code>\\ .</p>\n<h3>Special Characters</h3>\n<p>Here is some unicode:</p>\n<ul>\n<li>I hat: Î</li>\n<li>o umlaut: ö</li>\n<li>section: §</li>\n<li>set membership: ∈</li>\n<li>copyright: ©</li>\n</ul>\n<p>AT&amp;T has an ampersand in their name.</p>\n<p>This &amp; that.</p>\n<p>4 &lt; 5.</p>\n<p>6 &gt; 5.</p>\n<p>Backslash: \\\\</p>\n<p>Backtick: \\`</p>\n<p>Asterisk: \\*</p>\n<p>Underscore: \\_</p>\n<p>Left brace: \\{</p>\n<p>Right brace: \\}</p>\n<p>Left bracket: \\[</p>\n<p>Right bracket: \\]</p>\n<p>Left paren: \\(</p>\n<p>Right paren: \\)</p>\n<p>Greater-than: \\&gt;</p>\n<p>Hash: \\#</p>\n<p>Period: \\.</p>\n<p>Bang: \\!</p>\n<p>Plus: \\+</p>\n<p>Minus: \\-</p>\n<h3>Links</h3>\n<p>Explicit: a <a href=\"/url/\">URL</a>.</p>\n<p>Explicit with no label: .</p>\n<p>Two anonymous links: <code>the first</code>_ and <code>the second</code>_</p>\n<p>__ /url1/ __ /url2/</p>\n<p>Reference links: <code>link1</code> and <code>link2</code> and link1_ again.</p>\n<p><a href=\"/url1/\">link1</a></p>\n<p><a href=\"/url2/\">`link2`</a></p>\n<p>Another <a href=\"link1_\">style of reference link</a>.</p>\n<p>Here's a <code>link with an ampersand in the URL</code>.</p>\n<p>Here's a link with an amersand in the link text: <a href=\"/url/\">AT&amp;T</a>.</p>\n<p><a href=\"http://example.com/?foo=1&amp;bar=2\">link with an ampersand in the URL</a></p>\n<p>Autolinks: http://example.com/?foo=1&amp;bar=2 and nobody@nowhere.net.</p>\n<p>But not here</p>\n<pre><code>http://example.com/</code></pre>\n<h3>Images</h3>\n<p>From &quot;Voyage dans la Lune&quot; by Georges Melies (1902):</p>\n<p>[image: lalune.jpg]</p>\n<p>[image: Voyage dans la Lune]</p>\n<p>Here is a movie |movie| icon.</p>\n<p>And an |image with a link|.</p>\n<h3>Comments</h3>\n<p>First paragraph</p>\n<p>Another paragraph</p>\n<p>A third paragraph</p>\n<h3>Line blocks</h3>\n<p>| But can a bee be said to be | or not to be an entire bee, | when half the bee is not a bee, | due to some ancient injury? | | Continuation</p>\n<p>line | and</p>\n<p>another</p>\n<h3>Simple Tables</h3>\n<table>\n<thead>\n<tr>\n<th>col 1</th>\n<th>col 2</th>\n<th>col 3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>r1 a</td>\n<td>b</td>\n<td>c</td>\n</tr>\n<tr>\n<td>r2 d</td>\n<td>e</td>\n<td>f</td>\n</tr>\n</tbody>\n</table>\n<p>Headless</p>\n<table>\n<thead>\n<tr>\n<th>r1 a</th>\n<th>b</th>\n<th>c</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>r2 d</td>\n<td>e</td>\n<td>f</td>\n</tr>\n</tbody>\n</table>\n<h3>Grid Tables</h3>\n<table>\n<thead>\n<tr>\n<th>col 1</th>\n<th>col 2</th>\n<th>col 3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>r1 a</td>\n<td>b</td>\n<td>c</td>\n</tr>\n<tr>\n<td>r1 bis</td>\n<td>b 2</td>\n<td>c 2</td>\n</tr>\n<tr>\n<td>r2 d</td>\n<td>e</td>\n<td>f</td>\n</tr>\n</tbody>\n</table>\n<p>Headless</p>\n<table>\n<thead>\n<tr>\n<th>r1 a</th>\n<th>b</th>\n<th>c</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>r1 bis</td>\n<td>b 2</td>\n<td>c 2</td>\n</tr>\n<tr>\n<td>r2 d</td>\n<td>e</td>\n<td>f</td>\n</tr>\n</tbody>\n</table>\n<p>Spaces at ends of lines</p>\n<table>\n<thead>\n<tr>\n<th>r1 a</th>\n<th>b</th>\n<th>c</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>r1 bis</td>\n<td>b 2</td>\n<td>c 2</td>\n</tr>\n<tr>\n<td>r2 d</td>\n<td>e</td>\n<td>f</td>\n</tr>\n</tbody>\n</table>\n<p>Multiple blocks in a cell</p>\n<table>\n<thead>\n<tr>\n<th>r1 a</th>\n<th>- b</th>\n<th>c</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>- b 2</td>\n<td>c 2</td>\n<td></td>\n</tr>\n<tr>\n<td>r1 bis</td>\n<td>- b 2</td>\n<td>c 2</td>\n</tr>\n</tbody>\n</table>\n<p>Table with cells spanning multiple rows or columns:</p>\n<table>\n<thead>\n<tr>\n<th>Property</th>\n<th>Earth</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>min</td>\n<td>-89.2 °C</td>\n<td></td>\n</tr>\n<tr>\n<td>Temperature +-------+----------+</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>1961-1990</td>\n<td>mean</td>\n<td>14 °C</td>\n</tr>\n<tr>\n<td>min</td>\n<td>56.7 °C</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>Table with complex header:</p>\n<table>\n<thead>\n<tr>\n<th>Location</th>\n<th>Temperature 1961-1990</th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>in degree Celsius</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>min</td>\n<td>mean</td>\n<td>max</td>\n<td></td>\n</tr>\n<tr>\n<td>Antarctica</td>\n<td>-89.2</td>\n<td>N/A</td>\n<td>19.8</td>\n</tr>\n<tr>\n<td>Earth</td>\n<td>-89.2</td>\n<td>14</td>\n<td>56.7</td>\n</tr>\n</tbody>\n</table>\n<h3>Footnotes</h3>\n<p>[1]<sup class=\"footnote-ref\"><a href=\"#fn-1\" id=\"fnref-1\" data-footnote-ref>1</a></sup></p>\n<p>[#]<sup class=\"footnote-ref\"><a href=\"#fn-2\" id=\"fnref-2-2\" data-footnote-ref>2</a></sup></p>\n<p>[#]<sup class=\"footnote-ref\"><a href=\"#fn-2\" id=\"fnref-2-2\" data-footnote-ref>2</a></sup></p>\n<p>[*]</p>\n<p>continuation line.</p>\n<p>continuation block.</p>\n<p>and a second para.</p>\n<p>Not in note.</p>\n<h3>Math</h3>\n<p>Some inline math :math:<code>E=mc^2</code>\\ . Now some display math:</p>\n<p><span data-math-style=\"display\">E=mc^2</span></p>\n<p><span data-math-style=\"display\">E = mc^2</span></p>\n<p><span data-math-style=\"display\">E = mc^2</span></p>\n<p><span data-math-style=\"display\">\\alpha = \\beta</span></p>\n<p><span data-math-style=\"display\">E &amp;= mc^2\\\\\nF &amp;= \\pi E</span></p>\n<p><span data-math-style=\"display\">F &amp;= \\gamma \\alpha^2</span></p>\n<p>All done.</p>\n<h3>Default-Role</h3>\n<p>Try changing the default role to a few different things.</p>\n<h4>Doesn't Break Title Parsing</h4>\n<p>Inline math: <code>E=mc^2</code> or :math:<code>E=mc^2</code> or <code>E=mc^2</code>:math:. Other roles: :sup:<code>super</code>, <code>sub</code>:sub:.</p>\n<p><span data-math-style=\"display\">\\alpha = beta</span></p>\n<p><span data-math-style=\"display\">E = mc^2</span></p>\n<p>Some <code>of</code> these :sup:<code>words</code> are in <code>superscript</code>:sup:.</p>\n<p>Reset default-role to the default default.</p>\n<p>And now <code>some-invalid-string-3231231</code> is nonsense.</p>\n<p>And now with :html:<code>&lt;b&gt;inline&lt;/b&gt; &lt;span id=&quot;test&quot;&gt;HTML&lt;/span&gt;</code>.</p>\n<p>And some inline haskell :haskell:<code>fmap id [1,2..10]</code>.</p>\n<p>Indirect python role :py:<code>[x*x for x in [1,2,3,4,5]]</code>.</p>\n<p>Different indirect C :c:<code>int x = 15;</code>.</p>\n<h4>Literal symbols</h4>\n<p>2<em>2 = 4</em>1</p>\n<section class=\"footnotes\" data-footnotes>\n<ol>\n<li id=\"fn-1\">\n<p>Note with one line. <a href=\"#fnref-1\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"1\" aria-label=\"Back to reference 1\">↩</a></p>\n</li>\n<li id=\"fn-2\">\n<p>Note with <a href=\"#fnref-2\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"2\" aria-label=\"Back to reference 2\">↩</a></p>\n</li>\n</ol>\n</section>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Pandoc Test Suite\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Subtitle\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"Level one header\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a set of tests for pandoc.  Most of them are adapted from John Gruber's markdown test suite.\"},{\"type\":\"section\",\"heading\":\"Level two header\",\"level\":4,\"body\":[{\"type\":\"section\",\"heading\":\"Level three\",\"level\":5,\"body\":[{\"type\":\"section\",\"heading\":\"Level four with *emphasis*\",\"level\":6,\"body\":[{\"type\":\"paragraph\",\"text\":\"Level five ''''''''''\"}]}]}]}]},{\"type\":\"section\",\"heading\":\"Paragraphs\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Here's a regular paragraph.\"},{\"type\":\"paragraph\",\"text\":\"In Markdown 1.0.0 and earlier. Version\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"This line turns into a list item.\"]},{\"type\":\"paragraph\",\"text\":\"Because a hard-wrapped line in the middle of a paragraph looked like a list item.\"},{\"type\":\"paragraph\",\"text\":\"Here's one with a bullet.\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"criminey.\"]},{\"type\":\"paragraph\",\"text\":\"Horizontal rule:\"},{\"type\":\"paragraph\",\"text\":\"Another:\"}]},{\"type\":\"section\",\"heading\":\"Block Quotes\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Here's a block quote:\"},{\"type\":\"paragraph\",\"text\":\"This is a block quote.\"},{\"type\":\"paragraph\",\"text\":\"It is pretty short.\"},{\"type\":\"paragraph\",\"text\":\"Here's another, differently indented:\"},{\"type\":\"paragraph\",\"text\":\"This is a block quote.\"},{\"type\":\"paragraph\",\"text\":\"It's indented with a tab.\"},{\"type\":\"paragraph\",\"text\":\"Code in a block quote\"},{\"type\":\"code\",\"text\":\"sub status {\\n    print \\\"working\\\";\\n}\"},{\"type\":\"paragraph\",\"text\":\"List in a block quote:\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"item one\",\"item two\"]},{\"type\":\"paragraph\",\"text\":\"Nested block quotes:\"},{\"type\":\"paragraph\",\"text\":\"nested\"},{\"type\":\"paragraph\",\"text\":\"nested\"}]},{\"type\":\"section\",\"heading\":\"Code Blocks\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Code:\"},{\"type\":\"code\",\"text\":\"---- (should be four hyphens)\\n\\nsub status {\\n    print \\\"working\\\";\\n}\"},{\"type\":\"code\",\"text\":\"this code block is indented by one tab\"},{\"type\":\"paragraph\",\"text\":\"And\"},{\"type\":\"code\",\"text\":\"\\tthis block is indented by two tabs\\n\\n      These should not be escaped:  \\\\$ \\\\\\\\ \\\\> \\\\[ \\\\{\"},{\"type\":\"paragraph\",\"text\":\"And:\"},{\"type\":\"code\",\"text\":\"def my_function(x):\\n    return x + 1\",\"language\":\"python\"},{\"type\":\"paragraph\",\"text\":\"If we use the highlight directive, we can specify a default language for literate blocks.\"},{\"type\":\"code\",\"text\":\"-- this code is in haskell\\ndata Tree = Leaf | Node Tree Tree\",\"language\":\"haskell\"},{\"type\":\"code\",\"text\":\"-- this code is in haskell too\\ndata Nat = Zero | Succ Nat\",\"language\":\"haskell\"},{\"type\":\"code\",\"text\":\"-- this code is in javascript\\nlet f = (x, y) => x + y\",\"language\":\"javascript\"}]},{\"type\":\"section\",\"heading\":\"Lists\",\"level\":3,\"body\":[{\"type\":\"section\",\"heading\":\"Unordered\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"Asterisks tight:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"asterisk 1\",\"asterisk 2\",\"asterisk 3\"]},{\"type\":\"paragraph\",\"text\":\"Asterisks loose:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"asterisk 1\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"asterisk 2\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"asterisk 3\"]},{\"type\":\"paragraph\",\"text\":\"Pluses tight:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Plus 1\",\"Plus 2\",\"Plus 3\"]},{\"type\":\"paragraph\",\"text\":\"Pluses loose:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Plus 1\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Plus 2\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Plus 3\"]},{\"type\":\"paragraph\",\"text\":\"Minuses tight:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Minus 1\",\"Minus 2\",\"Minus 3\"]},{\"type\":\"paragraph\",\"text\":\"Minuses loose:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Minus 1\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Minus 2\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Minus 3\"]}]},{\"type\":\"section\",\"heading\":\"Ordered\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"Tight:\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"First\",\"Second\",\"Third\"]},{\"type\":\"paragraph\",\"text\":\"and:\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"One\",\"Two\",\"Three\"]},{\"type\":\"paragraph\",\"text\":\"Loose using tabs:\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"First\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Second\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Third\"]},{\"type\":\"paragraph\",\"text\":\"and using spaces:\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"One\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Two\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Three\"]},{\"type\":\"paragraph\",\"text\":\"Multiple paragraphs:\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Item 1, graf one.\"]},{\"type\":\"paragraph\",\"text\":\"Item 1. graf two. The quick brown fox jumped over the lazy dog's\"},{\"type\":\"paragraph\",\"text\":\"back.\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Item 2.\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Item 3.\"]},{\"type\":\"paragraph\",\"text\":\"Nested:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Tab\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Tab\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Tab\"]},{\"type\":\"paragraph\",\"text\":\"Here's another:\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"First\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Second:\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Fee\",\"Fie\",\"Foe\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Third\"]}]},{\"type\":\"section\",\"heading\":\"Fancy list markers\",\"level\":4,\"body\":[{\"type\":\"list\",\"ordered\":true,\"items\":[\"begins with 2\",\"and now 3\"]},{\"type\":\"paragraph\",\"text\":\"with a continuation\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"sublist with roman numerals, starting with 4\",\" more items\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"a subsublist\",\"a subsublist\"]},{\"type\":\"paragraph\",\"text\":\"Nesting:\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\" Upper Alpha\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\" Upper Roman.\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Decimal start with 6\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Lower alpha with paren\"]},{\"type\":\"paragraph\",\"text\":\"Autonumbering:\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Autonumber.\",\" More.\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Nested.\"]},{\"type\":\"paragraph\",\"text\":\"Autonumbering with explicit start:\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\" item 1\",\" item 2\"]}]},{\"type\":\"section\",\"heading\":\"Definition\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"term 1\"},{\"type\":\"paragraph\",\"text\":\"Definition 1.\"},{\"type\":\"paragraph\",\"text\":\"term 2\"},{\"type\":\"paragraph\",\"text\":\"Definition 2, paragraph 1.\"},{\"type\":\"paragraph\",\"text\":\"Definition 2, paragraph 2.\"},{\"type\":\"paragraph\",\"text\":\"term with emphasis\"},{\"type\":\"paragraph\",\"text\":\"Definition 3.\"}]}]},{\"type\":\"section\",\"heading\":\"Field Lists\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"123-4567\"}]},{\"type\":\"section\",\"heading\":\"HTML Blocks\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Simple block on one line:\"},{\"type\":\"paragraph\",\"text\":\"Now, nested:\"}]},{\"type\":\"section\",\"heading\":\"LaTeX Block\",\"level\":3,\"body\":[]},{\"type\":\"section\",\"heading\":\"Inline Markup\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is emphasized. This is strong.\"},{\"type\":\"paragraph\",\"text\":\"This is code: >, $, \\\\, \\\\$, <html>.\"},{\"type\":\"paragraph\",\"text\":\"This is\\\\ :sub:subscripted and this is :sup:superscripted\\\\ .\"}]},{\"type\":\"section\",\"heading\":\"Special Characters\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Here is some unicode:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"I hat: Î\",\"o umlaut: ö\",\"section: §\",\"set membership: ∈\",\"copyright: ©\"]},{\"type\":\"paragraph\",\"text\":\"AT&T has an ampersand in their name.\"},{\"type\":\"paragraph\",\"text\":\"This & that.\"},{\"type\":\"paragraph\",\"text\":\"4 < 5.\"},{\"type\":\"paragraph\",\"text\":\"6 > 5.\"},{\"type\":\"paragraph\",\"text\":\"Backslash: \\\\\\\\\"},{\"type\":\"paragraph\",\"text\":\"Backtick: \\\\`\"},{\"type\":\"paragraph\",\"text\":\"Asterisk: \\\\*\"},{\"type\":\"paragraph\",\"text\":\"Underscore: \\\\_\"},{\"type\":\"paragraph\",\"text\":\"Left brace: \\\\{\"},{\"type\":\"paragraph\",\"text\":\"Right brace: \\\\}\"},{\"type\":\"paragraph\",\"text\":\"Left bracket: \\\\[\"},{\"type\":\"paragraph\",\"text\":\"Right bracket: \\\\]\"},{\"type\":\"paragraph\",\"text\":\"Left paren: \\\\(\"},{\"type\":\"paragraph\",\"text\":\"Right paren: \\\\)\"},{\"type\":\"paragraph\",\"text\":\"Greater-than: \\\\>\"},{\"type\":\"paragraph\",\"text\":\"Hash: \\\\#\"},{\"type\":\"paragraph\",\"text\":\"Period: \\\\.\"},{\"type\":\"paragraph\",\"text\":\"Bang: \\\\!\"},{\"type\":\"paragraph\",\"text\":\"Plus: \\\\+\"},{\"type\":\"paragraph\",\"text\":\"Minus: \\\\-\"}]},{\"type\":\"section\",\"heading\":\"Links\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Explicit:  a URL.\"},{\"type\":\"paragraph\",\"text\":\"Explicit with no label:  .\"},{\"type\":\"paragraph\",\"text\":\"Two anonymous links:  the first_ and the second_\"},{\"type\":\"paragraph\",\"text\":\"__ /url1/ __ /url2/\"},{\"type\":\"paragraph\",\"text\":\"Reference links:  link1 and link2 and link1_ again.\"},{\"type\":\"paragraph\",\"text\":\"link1\"},{\"type\":\"paragraph\",\"text\":\"`link2`\"},{\"type\":\"paragraph\",\"text\":\"Another style of reference link.\"},{\"type\":\"paragraph\",\"text\":\"Here's a link with an ampersand in the URL.\"},{\"type\":\"paragraph\",\"text\":\"Here's a link with an amersand in the link text: AT&T.\"},{\"type\":\"paragraph\",\"text\":\"link with an ampersand in the URL\"},{\"type\":\"paragraph\",\"text\":\"Autolinks: http://example.com/?foo=1&bar=2 and nobody@nowhere.net.\"},{\"type\":\"paragraph\",\"text\":\"But not here\"},{\"type\":\"code\",\"text\":\"http://example.com/\"}]},{\"type\":\"section\",\"heading\":\"Images\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"From \\\"Voyage dans la Lune\\\" by Georges Melies (1902):\"},{\"type\":\"paragraph\",\"text\":\"[image: lalune.jpg]\"},{\"type\":\"paragraph\",\"text\":\"[image: Voyage dans la Lune]\"},{\"type\":\"paragraph\",\"text\":\"Here is a movie |movie| icon.\"},{\"type\":\"paragraph\",\"text\":\"And an |image with a link|.\"}]},{\"type\":\"section\",\"heading\":\"Comments\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"First paragraph\"},{\"type\":\"paragraph\",\"text\":\"Another paragraph\"},{\"type\":\"paragraph\",\"text\":\"A third paragraph\"}]},{\"type\":\"section\",\"heading\":\"Line blocks\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"| But can a bee be said to be |     or not to be an entire bee, |         when half the bee is not a bee, |             due to some ancient injury? | | Continuation\"},{\"type\":\"paragraph\",\"text\":\"line |   and\"},{\"type\":\"paragraph\",\"text\":\"another\"}]},{\"type\":\"section\",\"heading\":\"Simple Tables\",\"level\":3,\"body\":[{\"type\":\"table\",\"headers\":[\"col 1\",\"col 2\",\"col 3\"],\"rows\":[[\"r1 a\",\"b\",\"c\"],[\"r2 d\",\"e\",\"f\"]]},{\"type\":\"paragraph\",\"text\":\"Headless\"},{\"type\":\"table\",\"headers\":[\"r1 a\",\"b\",\"c\"],\"rows\":[[\"r2 d\",\"e\",\"f\"]]}]},{\"type\":\"section\",\"heading\":\"Grid Tables\",\"level\":3,\"body\":[{\"type\":\"table\",\"headers\":[\"col 1\",\"col 2\",\"col 3\"],\"rows\":[[\"r1 a\",\"b\",\"c\"],[\"r1 bis\",\"b 2\",\"c 2\"],[\"r2 d\",\"e\",\"f\"]]},{\"type\":\"paragraph\",\"text\":\"Headless\"},{\"type\":\"table\",\"headers\":[\"r1 a\",\"b\",\"c\"],\"rows\":[[\"r1 bis\",\"b 2\",\"c 2\"],[\"r2 d\",\"e\",\"f\"]]},{\"type\":\"paragraph\",\"text\":\"Spaces at ends of lines\"},{\"type\":\"table\",\"headers\":[\"r1 a\",\"b\",\"c\"],\"rows\":[[\"r1 bis\",\"b 2\",\"c 2\"],[\"r2 d\",\"e\",\"f\"]]},{\"type\":\"paragraph\",\"text\":\"Multiple blocks in a cell\"},{\"type\":\"table\",\"headers\":[\"r1 a\",\"- b\",\"c\"],\"rows\":[[\"- b 2\",\"c 2\"],[\"r1 bis\",\"- b 2\",\"c 2\"]]},{\"type\":\"paragraph\",\"text\":\"Table with cells spanning multiple rows or columns:\"},{\"type\":\"table\",\"headers\":[\"Property\",\"Earth\"],\"rows\":[[\"min\",\"-89.2 °C\"],[\"Temperature +-------+----------+\"],[\"1961-1990\",\"mean\",\"14 °C\"],[\"min\",\"56.7 °C\"]]},{\"type\":\"paragraph\",\"text\":\"Table with complex header:\"},{\"type\":\"table\",\"headers\":[\"Location\",\"Temperature 1961-1990\"],\"rows\":[[\"in degree Celsius\"],[\"min\",\"mean\",\"max\"],[\"Antarctica\",\"-89.2\",\"N/A\",\"19.8\"],[\"Earth\",\"-89.2\",\"14\",\"56.7\"]]}]},{\"type\":\"section\",\"heading\":\"Footnotes\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"[1]\"},{\"type\":\"paragraph\",\"text\":\"[#]\"},{\"type\":\"paragraph\",\"text\":\"[#]\"},{\"type\":\"paragraph\",\"text\":\"[*]\"},{\"type\":\"paragraph\",\"text\":\"continuation line.\"},{\"type\":\"paragraph\",\"text\":\"continuation block.\"},{\"type\":\"paragraph\",\"text\":\"and a second para.\"},{\"type\":\"paragraph\",\"text\":\"Not in note.\"}]},{\"type\":\"section\",\"heading\":\"Math\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Some inline math :math:E=mc^2\\\\ .  Now some display math:\"},{\"type\":\"formula\",\"text\":\"E=mc^2\"},{\"type\":\"formula\",\"text\":\"E = mc^2\"},{\"type\":\"formula\",\"text\":\"E = mc^2\"},{\"type\":\"formula\",\"text\":\"\\\\alpha = \\\\beta\"},{\"type\":\"formula\",\"text\":\"E &= mc^2\\\\\\\\\\nF &= \\\\pi E\"},{\"type\":\"formula\",\"text\":\"F &= \\\\gamma \\\\alpha^2\"},{\"type\":\"paragraph\",\"text\":\"All done.\"}]},{\"type\":\"section\",\"heading\":\"Default-Role\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Try changing the default role to a few different things.\"},{\"type\":\"section\",\"heading\":\"Doesn't Break Title Parsing\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"Inline math: E=mc^2 or :math:E=mc^2 or E=mc^2:math:. Other roles: :sup:super, sub:sub:.\"},{\"type\":\"formula\",\"text\":\"\\\\alpha = beta\"},{\"type\":\"formula\",\"text\":\"E = mc^2\"},{\"type\":\"paragraph\",\"text\":\"Some of these :sup:words are in superscript:sup:.\"},{\"type\":\"paragraph\",\"text\":\"Reset default-role to the default default.\"},{\"type\":\"paragraph\",\"text\":\"And now some-invalid-string-3231231 is nonsense.\"},{\"type\":\"paragraph\",\"text\":\"And now with :html:<b>inline</b> <span id=\\\"test\\\">HTML</span>.\"},{\"type\":\"paragraph\",\"text\":\"And some inline haskell :haskell:fmap id [1,2..10].\"},{\"type\":\"paragraph\",\"text\":\"Indirect python role :py:[x*x for x in [1,2,3,4,5]].\"},{\"type\":\"paragraph\",\"text\":\"Different indirect C :c:int x = 15;.\"}]},{\"type\":\"section\",\"heading\":\"Literal symbols\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"22 = 41\"}]}]}]}]}]}",
+    "markdown": "# Pandoc Test Suite\n\n## Subtitle\n\n**Authors**: John MacFarlane; Anonymous\n\n**Date**: July 17, 2006\n\n**Revision**: 3\n\n### Level one header\n\nThis is a set of tests for pandoc. Most of them are adapted from John Gruber's markdown test suite.\n\n#### Level two header\n\n##### Level three\n\n###### Level four with *emphasis*\n\nLevel five ''''''''''\n\n### Paragraphs\n\nHere's a regular paragraph.\n\nIn Markdown 1.0.0 and earlier. Version\n\n1. This line turns into a list item.\n\nBecause a hard-wrapped line in the middle of a paragraph looked like a list item.\n\nHere's one with a bullet.\n\n- criminey.\n\nHorizontal rule:\n\nAnother:\n\n### Block Quotes\n\nHere's a block quote:\n\nThis is a block quote.\n\nIt is pretty short.\n\nHere's another, differently indented:\n\nThis is a block quote.\n\nIt's indented with a tab.\n\nCode in a block quote\n\n```\nsub status {\n    print \"working\";\n}\n```\n\nList in a block quote:\n\n1. item one\n2. item two\n\nNested block quotes:\n\nnested\n\nnested\n\n### Code Blocks\n\nCode:\n\n```\n---- (should be four hyphens)\n\nsub status {\n    print \"working\";\n}\n```\n\n```\nthis code block is indented by one tab\n```\n\nAnd\n\n```\n\tthis block is indented by two tabs\n\n      These should not be escaped:  \\$ \\\\ \\> [ \\{\n```\n\nAnd:\n\n```python\ndef my_function(x):\n    return x + 1\n```\n\nIf we use the highlight directive, we can specify a default language for literate blocks.\n\n```haskell\n-- this code is in haskell\ndata Tree = Leaf | Node Tree Tree\n```\n\n```haskell\n-- this code is in haskell too\ndata Nat = Zero | Succ Nat\n```\n\n```javascript\n-- this code is in javascript\nlet f = (x, y) => x + y\n```\n\n### Lists\n\n#### Unordered\n\nAsterisks tight:\n\n- asterisk 1\n- asterisk 2\n- asterisk 3\n\nAsterisks loose:\n\n- asterisk 1\n\n- asterisk 2\n\n- asterisk 3\n\nPluses tight:\n\n- Plus 1\n- Plus 2\n- Plus 3\n\nPluses loose:\n\n- Plus 1\n\n- Plus 2\n\n- Plus 3\n\nMinuses tight:\n\n- Minus 1\n- Minus 2\n- Minus 3\n\nMinuses loose:\n\n- Minus 1\n\n- Minus 2\n\n- Minus 3\n\n#### Ordered\n\nTight:\n\n1. First\n2. Second\n3. Third\n\nand:\n\n1. One\n2. Two\n3. Three\n\nLoose using tabs:\n\n1. First\n\n1. Second\n\n1. Third\n\nand using spaces:\n\n1. One\n\n1. Two\n\n1. Three\n\nMultiple paragraphs:\n\n1. Item 1, graf one.\n\nItem 1. graf two. The quick brown fox jumped over the lazy dog's\n\nback.\n\n1. Item 2.\n\n1. Item 3.\n\nNested:\n\n- Tab\n\n- Tab\n\n- Tab\n\nHere's another:\n\n1. First\n\n1. Second:\n\n- Fee\n- Fie\n- Foe\n\n1. Third\n\n#### Fancy list markers\n\n1. begins with 2\n2. and now 3\n\nwith a continuation\n\n1. sublist with roman numerals, starting with 4\n2.  more items\n\n1. a subsublist\n2. a subsublist\n\nNesting:\n\n1.  Upper Alpha\n\n1.  Upper Roman.\n\n1. Decimal start with 6\n\n1. Lower alpha with paren\n\nAutonumbering:\n\n1. Autonumber.\n2.  More.\n\n1. Nested.\n\nAutonumbering with explicit start:\n\n1.  item 1\n2.  item 2\n\n#### Definition\n\nterm 1\n\nDefinition 1.\n\nterm 2\n\nDefinition 2, paragraph 1.\n\nDefinition 2, paragraph 2.\n\nterm with *emphasis*\n\nDefinition 3.\n\n### Field Lists\n\n**address**: 61 Main St.\n\n**city**: *Nowhere*, MA, USA\n\n**phone**: 123-4567\n\n**address**: 61 Main St.\n\n**city**: *Nowhere*, MA, USA\n\n**phone**: \n\n123-4567\n\n### HTML Blocks\n\nSimple block on one line:\n\nNow, nested:\n\n### LaTeX Block\n\n### Inline Markup\n\nThis is *emphasized*. This is **strong**.\n\nThis is code: `>`, `$`, `\\`, `\\$`, `<html>`.\n\nThis is\\\\ :sub:`subscripted` and this is :sup:`superscripted`\\\\ .\n\n### Special Characters\n\nHere is some unicode:\n\n- I hat: Î\n- o umlaut: ö\n- section: §\n- set membership: ∈\n- copyright: ©\n\nAT\\&T has an ampersand in their name.\n\nThis & that.\n\n4 \\< 5.\n\n6 \\> 5.\n\nBackslash: \\\\\\\\\n\nBacktick: \\\\\\`\n\nAsterisk: \\\\*\n\nUnderscore: \\\\_\n\nLeft brace: \\\\{\n\nRight brace: \\\\}\n\nLeft bracket: \\\\[\n\nRight bracket: \\\\]\n\nLeft paren: \\(\n\nRight paren: \\)\n\nGreater-than: \\\\\\>\n\nHash: \\\\\\#\n\nPeriod: \\\\.\n\nBang: \\\\\\!\n\nPlus: \\\\+\n\nMinus: \\\\-\n\n### Links\n\nExplicit: a [URL](/url/).\n\nExplicit with no label: .\n\nTwo anonymous links: `the first`_ and `the second`_\n\n__ /url1/ __ /url2/\n\nReference links: `link1` and `link2` and link1_ again.\n\n[link1](/url1/)\n\n[\\`link2\\`](/url2/)\n\nAnother [style of reference link](link1_).\n\nHere's a `link with an ampersand in the URL`.\n\nHere's a link with an amersand in the link text: [AT\\&T](/url/).\n\n[link with an ampersand in the URL](http://example.com/?foo=1&bar=2)\n\nAutolinks: http://example.com/?foo=1\\&bar=2 and nobody@nowhere.net.\n\nBut not here\n\n```\nhttp://example.com/\n```\n\n### Images\n\nFrom \"Voyage dans la Lune\" by Georges Melies (1902):\n\n[image: lalune.jpg]\n\n[image: Voyage dans la Lune]\n\nHere is a movie |movie| icon.\n\nAnd an |image with a link|.\n\n### Comments\n\nFirst paragraph\n\nAnother paragraph\n\nA third paragraph\n\n### Line blocks\n\n| But can a bee be said to be | or not to be an entire bee, | when half the bee is not a bee, | due to some ancient injury? | | Continuation\n\nline | and\n\nanother\n\n### Simple Tables\n\n| col 1 | col 2 | col 3 |\n| --- | --- | --- |\n| r1 a | b | c |\n| r2 d | e | f |\n\nHeadless\n\n| r1 a | b | c |\n| --- | --- | --- |\n| r2 d | e | f |\n\n### Grid Tables\n\n| col 1 | col 2 | col 3 |\n| --- | --- | --- |\n| r1 a | b | c |\n| r1 bis | b 2 | c 2 |\n| r2 d | e | f |\n\nHeadless\n\n| r1 a | b | c |\n| --- | --- | --- |\n| r1 bis | b 2 | c 2 |\n| r2 d | e | f |\n\nSpaces at ends of lines\n\n| r1 a | b | c |\n| --- | --- | --- |\n| r1 bis | b 2 | c 2 |\n| r2 d | e | f |\n\nMultiple blocks in a cell\n\n| r1 a | - b | c |\n| --- | --- | --- |\n| - b 2 | c 2 |  |\n| r1 bis | - b 2 | c 2 |\n\nTable with cells spanning multiple rows or columns:\n\n| Property | Earth |  |\n| --- | --- | --- |\n| min | -89.2 °C |  |\n| Temperature +-------+----------+ |  |  |\n| 1961-1990 | mean | 14 °C |\n| min | 56.7 °C |  |\n\nTable with complex header:\n\n| Location | Temperature 1961-1990 |  |  |\n| --- | --- | --- | --- |\n| in degree Celsius |  |  |  |\n| min | mean | max |  |\n| Antarctica | -89.2 | N/A | 19.8 |\n| Earth | -89.2 | 14 | 56.7 |\n\n### Footnotes\n\n[1][^1]\n\n[\\#][^2]\n\n[\\#][^2]\n\n[*]\n\ncontinuation line.\n\ncontinuation block.\n\nand a second para.\n\nNot in note.\n\n### Math\n\nSome inline math :math:`E=mc^2`\\\\ . Now some display math:\n\n$$E=mc^2$$\n\n$$E = mc^2$$\n\n$$E = mc^2$$\n\n$$\\alpha = \\beta$$\n\n$$E &= mc^2\\\\\nF &= \\pi E$$\n\n$$F &= \\gamma \\alpha^2$$\n\nAll done.\n\n### Default-Role\n\nTry changing the default role to a few different things.\n\n#### Doesn't Break Title Parsing\n\nInline math: `E=mc^2` or :math:`E=mc^2` or `E=mc^2`:math:. Other roles: :sup:`super`, `sub`:sub:.\n\n$$\\alpha = beta$$\n\n$$E = mc^2$$\n\nSome `of` these :sup:`words` are in `superscript`:sup:.\n\nReset default-role to the default default.\n\nAnd now `some-invalid-string-3231231` is nonsense.\n\nAnd now with :html:`<b>inline</b> <span id=\"test\">HTML</span>`.\n\nAnd some inline haskell :haskell:`fmap id [1,2..10]`.\n\nIndirect python role :py:`[x*x for x in [1,2,3,4,5]]`.\n\nDifferent indirect C :c:`int x = 15;`.\n\n#### Literal symbols\n\n2*2 = 4*1\n\n[^1]:\n    Note with one line.\n\n[^2]:\n    Note with\n",
+    "plain": "Pandoc Test Suite\n  Subtitle\nAuthors: John MacFarlane; Anonymous\n\nDate: July 17, 2006\n\nRevision: 3\n\n    Level one header\nThis is a set of tests for pandoc.  Most of them are adapted from John Gruber's markdown test suite.\n\n      Level two header\n        Level three\n          Level four with *emphasis*\nLevel five ''''''''''\n\n    Paragraphs\nHere's a regular paragraph.\n\nIn Markdown 1.0.0 and earlier. Version\n\nThis line turns into a list item.\nBecause a hard-wrapped line in the middle of a paragraph looked like a list item.\n\nHere's one with a bullet.\n\ncriminey.\nHorizontal rule:\n\nAnother:\n\n    Block Quotes\nHere's a block quote:\n\nThis is a block quote.\n\nIt is pretty short.\n\nHere's another, differently indented:\n\nThis is a block quote.\n\nIt's indented with a tab.\n\nCode in a block quote\n\nsub status {\n    print \"working\";\n}\n\nList in a block quote:\n\nitem one\nitem two\nNested block quotes:\n\nnested\n\nnested\n\n    Code Blocks\nCode:\n\n---- (should be four hyphens)\n\nsub status {\n    print \"working\";\n}\n\nthis code block is indented by one tab\n\nAnd\n\n\tthis block is indented by two tabs\n\n      These should not be escaped:  \\$ \\\\ \\> \\[ \\{\n\nAnd:\n\ndef my_function(x):\n    return x + 1\n\nIf we use the highlight directive, we can specify a default language for literate blocks.\n\n-- this code is in haskell\ndata Tree = Leaf | Node Tree Tree\n\n-- this code is in haskell too\ndata Nat = Zero | Succ Nat\n\n-- this code is in javascript\nlet f = (x, y) => x + y\n\n    Lists\n      Unordered\nAsterisks tight:\n\nasterisk 1\nasterisk 2\nasterisk 3\nAsterisks loose:\n\nasterisk 1\nasterisk 2\nasterisk 3\nPluses tight:\n\nPlus 1\nPlus 2\nPlus 3\nPluses loose:\n\nPlus 1\nPlus 2\nPlus 3\nMinuses tight:\n\nMinus 1\nMinus 2\nMinus 3\nMinuses loose:\n\nMinus 1\nMinus 2\nMinus 3\n      Ordered\nTight:\n\nFirst\nSecond\nThird\nand:\n\nOne\nTwo\nThree\nLoose using tabs:\n\nFirst\nSecond\nThird\nand using spaces:\n\nOne\nTwo\nThree\nMultiple paragraphs:\n\nItem 1, graf one.\nItem 1. graf two. The quick brown fox jumped over the lazy dog's\n\nback.\n\nItem 2.\nItem 3.\nNested:\n\nTab\nTab\nTab\nHere's another:\n\nFirst\nSecond:\nFee\nFie\nFoe\nThird\n      Fancy list markers\nbegins with 2\nand now 3\nwith a continuation\n\nsublist with roman numerals, starting with 4\n more items\na subsublist\na subsublist\nNesting:\n\n Upper Alpha\n Upper Roman.\nDecimal start with 6\nLower alpha with paren\nAutonumbering:\n\nAutonumber.\n More.\nNested.\nAutonumbering with explicit start:\n\n item 1\n item 2\n      Definition\nterm 1\n\nDefinition 1.\n\nterm 2\n\nDefinition 2, paragraph 1.\n\nDefinition 2, paragraph 2.\n\nterm with emphasis\n\nDefinition 3.\n\n    Field Lists\naddress: 61 Main St.\n\ncity: *Nowhere*, MA, USA\n\nphone: 123-4567\n\naddress: 61 Main St.\n\ncity: *Nowhere*, MA, USA\n\nphone: \n\n123-4567\n\n    HTML Blocks\nSimple block on one line:\n\nNow, nested:\n\n    LaTeX Block\n    Inline Markup\nThis is emphasized. This is strong.\n\nThis is code: >, $, \\, \\$, <html>.\n\nThis is\\ :sub:subscripted and this is :sup:superscripted\\ .\n\n    Special Characters\nHere is some unicode:\n\nI hat: Î\no umlaut: ö\nsection: §\nset membership: ∈\ncopyright: ©\nAT&T has an ampersand in their name.\n\nThis & that.\n\n4 < 5.\n\n6 > 5.\n\nBackslash: \\\\\n\nBacktick: \\`\n\nAsterisk: \\*\n\nUnderscore: \\_\n\nLeft brace: \\{\n\nRight brace: \\}\n\nLeft bracket: \\[\n\nRight bracket: \\]\n\nLeft paren: \\(\n\nRight paren: \\)\n\nGreater-than: \\>\n\nHash: \\#\n\nPeriod: \\.\n\nBang: \\!\n\nPlus: \\+\n\nMinus: \\-\n\n    Links\nExplicit:  a URL.\n\nExplicit with no label:  .\n\nTwo anonymous links:  the first_ and the second_\n\n__ /url1/ __ /url2/\n\nReference links:  link1 and link2 and link1_ again.\n\nlink1\n\n`link2`\n\nAnother style of reference link.\n\nHere's a link with an ampersand in the URL.\n\nHere's a link with an amersand in the link text: AT&T.\n\nlink with an ampersand in the URL\n\nAutolinks: http://example.com/?foo=1&bar=2 and nobody@nowhere.net.\n\nBut not here\n\nhttp://example.com/\n\n    Images\nFrom \"Voyage dans la Lune\" by Georges Melies (1902):\n\n[image: lalune.jpg]\n\n[image: Voyage dans la Lune]\n\nHere is a movie |movie| icon.\n\nAnd an |image with a link|.\n\n    Comments\nFirst paragraph\n\nAnother paragraph\n\nA third paragraph\n\n    Line blocks\n| But can a bee be said to be |     or not to be an entire bee, |         when half the bee is not a bee, |             due to some ancient injury? | | Continuation\n\nline |   and\n\nanother\n\n    Simple Tables\ncol 1 col 2 col 3\nr1 a b c\nr2 d e f\n\nHeadless\n\nr1 a b c\nr2 d e f\n\n    Grid Tables\ncol 1 col 2 col 3\nr1 a b c\nr1 bis b 2 c 2\nr2 d e f\n\nHeadless\n\nr1 a b c\nr1 bis b 2 c 2\nr2 d e f\n\nSpaces at ends of lines\n\nr1 a b c\nr1 bis b 2 c 2\nr2 d e f\n\nMultiple blocks in a cell\n\nr1 a - b c\n- b 2 c 2\nr1 bis - b 2 c 2\n\nTable with cells spanning multiple rows or columns:\n\nProperty Earth\nmin -89.2 °C\nTemperature +-------+----------+\n1961-1990 mean 14 °C\nmin 56.7 °C\n\nTable with complex header:\n\nLocation Temperature 1961-1990\nin degree Celsius\nmin mean max\nAntarctica -89.2 N/A 19.8\nEarth -89.2 14 56.7\n\n    Footnotes\n[1]\n\n[#]\n\n[#]\n\n[*]\n\ncontinuation line.\n\ncontinuation block.\n\nand a second para.\n\nNot in note.\n\n    Math\nSome inline math :math:E=mc^2\\ .  Now some display math:\n\nE=mc^2\n\nE = mc^2\n\nE = mc^2\n\n\\alpha = \\beta\n\nE &= mc^2\\\\\nF &= \\pi E\n\nF &= \\gamma \\alpha^2\n\nAll done.\n\n    Default-Role\nTry changing the default role to a few different things.\n\n      Doesn't Break Title Parsing\nInline math: E=mc^2 or :math:E=mc^2 or E=mc^2:math:. Other roles: :sup:super, sub:sub:.\n\n\\alpha = beta\n\nE = mc^2\n\nSome of these :sup:words are in superscript:sup:.\n\nReset default-role to the default default.\n\nAnd now some-invalid-string-3231231 is nonsense.\n\nAnd now with :html:<b>inline</b> <span id=\"test\">HTML</span>.\n\nAnd some inline haskell :haskell:fmap id [1,2..10].\n\nIndirect python role :py:[x*x for x in [1,2,3,4,5]].\n\nDifferent indirect C :c:int x = 15;.\n\n      Literal symbols\n22 = 41"
+  }
+}

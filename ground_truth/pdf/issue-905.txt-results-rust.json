@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/issue-905.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 2,
+      "word_count": 1,
+      "character_count": 5
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/issue-905.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/pdf/issue-905.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>;;</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\";;\"}]}",
+    "markdown": ";;\n",
+    "plain": ";;"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pdf/nougat_004.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/nougat_004.md",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/pdf/nougat_004.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Coating Curve</p>\n<p>Edmund Optics Inc.</p>\n<p>USA | Asia | Europe</p>\n<p>45° Blue Reflective Dichroic Color Filter Coating Performance FOR REFERENCE ONLY</p>\n<p>E0</p>\n<p>Edmund</p>\n<p>optics | worldwide</p>\n<p>www.edmundoptics.com</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Coating Curve\"},{\"type\":\"paragraph\",\"text\":\"Edmund Optics Inc.\"},{\"type\":\"paragraph\",\"text\":\"USA | Asia | Europe\"},{\"type\":\"image\"},{\"type\":\"paragraph\",\"text\":\"45° Blue Reflective Dichroic Color Filter Coating Performance FOR REFERENCE ONLY\"},{\"type\":\"paragraph\",\"text\":\"E0\"},{\"type\":\"paragraph\",\"text\":\"Edmund\"},{\"type\":\"paragraph\",\"text\":\"optics | worldwide\"},{\"type\":\"paragraph\",\"text\":\"www.edmundoptics.com\"}]}",
+    "markdown": "Coating Curve\n\nEdmund Optics Inc.\n\nUSA | Asia | Europe\n\n45° Blue Reflective Dichroic Color Filter Coating Performance FOR REFERENCE ONLY\n\nE0\n\nEdmund\n\noptics | worldwide\n\nwww.edmundoptics.com\n",
+    "plain": "Coating Curve\n\nEdmund Optics Inc.\n\nUSA | Asia | Europe\n\n45° Blue Reflective Dichroic Color Filter Coating Performance FOR REFERENCE ONLY\n\nE0\n\nEdmund\n\noptics | worldwide\n\nwww.edmundoptics.com"
+  }
+}

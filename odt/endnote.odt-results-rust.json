@@ -1,0 +1,32 @@
+{
+  "file": "odt/endnote.odt",
+  "mime_type": "application/vnd.oasis.opendocument.text",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Martin Linnemann"
+    ],
+    "created_at": "2015-03-01T17:26:12.31",
+    "modified_at": "2015-03-01T18:06:33.87",
+    "created_by": "Martin Linnemann",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "editing_duration": "PT10M3S",
+      "source_index": 0,
+      "source_kind": "uri",
+      "generator": "OpenOffice/4.0.1$Win32 OpenOffice.org_project/401m5$Build-9714",
+      "source_uri": "odt/endnote.odt",
+      "editing_cycles": "2",
+      "final_uri": "odt/endnote.odt",
+      "initial_creator": "Martin Linnemann"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><sup class=\"footnote-ref\"><a href=\"#fn-1\" id=\"fnref-1\" data-footnote-ref>1</a></sup></p>\n<p>Some text with an endnote.[^i]</p>\n<section class=\"footnotes\" data-footnotes>\n<ol>\n<li id=\"fn-1\">\n<p>Endnote text <a href=\"#fnref-1\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"1\" aria-label=\"Back to reference 1\">↩</a></p>\n</li>\n</ol>\n</section>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Some text with an endnote.[^i]\"}]}",
+    "markdown": "[^1]\n\nSome text with an endnote.[^i]\n\n[^1]:\n    Endnote text\n",
+    "plain": "Some text with an endnote.[^i]\n\n\nEndnote text"
+  }
+}

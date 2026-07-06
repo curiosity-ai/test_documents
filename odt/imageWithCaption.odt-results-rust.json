@@ -1,0 +1,32 @@
+{
+  "file": "odt/imageWithCaption.odt",
+  "mime_type": "application/vnd.oasis.opendocument.text",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Martin Linnemann"
+    ],
+    "created_at": "2015-03-01T17:26:12.31",
+    "modified_at": "2015-03-01T18:21:10.37",
+    "created_by": "Martin Linnemann",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "editing_cycles": "2",
+      "source_kind": "uri",
+      "generator": "OpenOffice/4.0.1$Win32 OpenOffice.org_project/401m5$Build-9714",
+      "final_uri": "odt/imageWithCaption.odt",
+      "initial_creator": "Martin Linnemann",
+      "editing_duration": "PT10M3S",
+      "source_uri": "odt/imageWithCaption.odt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><img src=\"image_0.jpeg\" alt=\"\" /></p>\n<p><img src=\"image_1.jpeg\" alt=\"\" /></p>\n<p>Abbildung 1: Image caption</p>\n",
+    "json": "{\"body\":[{\"type\":\"image\",\"src\":\"image_0.jpeg\"},{\"type\":\"image\",\"src\":\"image_1.jpeg\"},{\"type\":\"paragraph\",\"text\":\"Abbildung 1: Image caption\"}]}",
+    "markdown": "![](image_0.jpeg)\n\n![](image_1.jpeg)\n\nAbbildung 1: Image caption\n",
+    "plain": "Abbildung 1: Image caption"
+  }
+}

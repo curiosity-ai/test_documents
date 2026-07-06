@@ -1,0 +1,26 @@
+{
+  "file": "ground_truth/pdf/interactive_form.fields.json",
+  "mime_type": "application/json",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/pdf/interactive_form.fields.json",
+      "field_count": 2,
+      "source_kind": "uri",
+      "data_format": "json",
+      "source_uri": "ground_truth/pdf/interactive_form.fields.json",
+      "email": "john@example.com",
+      "name": "John Smith"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>name: John Smith</p>\n<p>email: john@example.com</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"name: John Smith\"},{\"type\":\"paragraph\",\"text\":\"email: john@example.com\"}]}",
+    "markdown": "name: John Smith\n\nemail: john@example.com\n",
+    "plain": "name: John Smith\n\nemail: john@example.com"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "file": "pdf/pdfa_044.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "authors": [
+      "user"
+    ],
+    "created_at": "2021-06-30T18:32:12Z",
+    "modified_at": "2021-06-30T18:32:12Z",
+    "created_by": "Microsoft® Word 2013",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.5",
+      "producer": "Microsoft® Word 2013",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 842,
+      "page_count": 2
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "extraction_method": "native",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "pdf/pdfa_044.pdf",
+      "final_uri": "pdf/pdfa_044.pdf"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "1.",
+          "",
+          "185,396,300",
+          "86,440,000"
+        ],
+        [
+          "",
+          "To receive and consider the audited financial statements and",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "(68.201 %)",
+          "(31.799%)"
+        ],
+        [
+          "",
+          "the report of the directors and independent auditor’s report for",
+          "",
+          ""
+        ],
+        [
+          "",
+          "the year ended 31 December 2020.",
+          "",
+          ""
+        ],
+        [
+          "2.",
+          "",
+          "185,396,300",
+          "86,440,000"
+        ],
+        [
+          "",
+          "(a) To re-elect Mr. Yang Yongcheng as director",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "(68.201%)",
+          "(31.799%)"
+        ]
+      ],
+      "markdown": "| 1. |  | 185,396,300 | 86,440,000 |\n| --- | --- | --- | --- |\n|  | To receive and consider the audited financial statements and |  |  |\n|  |  | (68.201 %) | (31.799%) |\n|  | the report of the directors and independent auditor’s report for |  |  |\n|  | the year ended 31 December 2020. |  |  |\n| 2. |  | 185,396,300 | 86,440,000 |\n|  | (a) To re-elect Mr. Yang Yongcheng as director |  |  |\n|  |  | (68.201%) | (31.799%) |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 41.87999725341797,
+        "y0": 74.90399169921875,
+        "x1": 567.0999755859375,
+        "y1": 166.57998657226562
+      }
+    },
+    {
+      "cells": [
+        [
+          "3.",
+          "",
+          "185,396,300",
+          "86,440,000"
+        ],
+        [
+          "",
+          "To re-appoint the auditors and to authorize the board of",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "(68.201 %)",
+          "(31.799%)"
+        ],
+        [
+          "",
+          "directors to fix the remuneration of the auditors",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| 3. |  | 185,396,300 | 86,440,000 |\n| --- | --- | --- | --- |\n|  | To re-appoint the auditors and to authorize the board of |  |  |\n|  |  | (68.201 %) | (31.799%) |\n|  | directors to fix the remuneration of the auditors |  |  |\n",
+      "page_number": 2,
+      "bounding_box": {
+        "x0": 42.12000274658203,
+        "y0": 584.3800048828125,
+        "x1": 567.0999755859375,
+        "y1": 621.4599609375
+      }
+    },
+    {
+      "cells": [
+        [
+          "4.",
+          "",
+          "185,396,300",
+          "86,440,000"
+        ],
+        [
+          "",
+          "Ordinary Resolution in item 4 of the notice of annual general",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "(68.201 %)",
+          "(31.799%)"
+        ],
+        [
+          "",
+          "meeting (To grant a general mandate to the directors to allot",
+          "",
+          ""
+        ],
+        [
+          "",
+          "and issue new shares of the Company)",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| 4. |  | 185,396,300 | 86,440,000 |\n| --- | --- | --- | --- |\n|  | Ordinary Resolution in item 4 of the notice of annual general |  |  |\n|  |  | (68.201 %) | (31.799%) |\n|  | meeting (To grant a general mandate to the directors to allot |  |  |\n|  | and issue new shares of the Company) |  |  |\n",
+      "page_number": 2,
+      "bounding_box": {
+        "x0": 42.12000274658203,
+        "y0": 529.8699951171875,
+        "x1": 567.0999755859375,
+        "y1": 584.3800048828125
+      }
+    },
+    {
+      "cells": [
+        [
+          "5.",
+          "",
+          "185,396,300",
+          "86,440,000"
+        ],
+        [
+          "",
+          "Ordinary Resolution in item 5 of the notice of annual general",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "(68.201 %)",
+          "(31.799%)"
+        ],
+        [
+          "",
+          "meeting (To grant a general mandate to the directors to",
+          "",
+          ""
+        ],
+        [
+          "",
+          "repurchase shares of the Company)",
+          "",
+          ""
+        ],
+        [
+          "6.",
+          "",
+          "185,396,300",
+          "86,440,000"
+        ],
+        [
+          "",
+          "Ordinary Resolution in item 6 of the notice of annual general",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "(68.201 %)",
+          "(31.799%)"
+        ],
+        [
+          "",
+          "meeting (To extend the general mandate granted to the",
+          "",
+          ""
+        ],
+        [
+          "",
+          "directors to issue new shares of the Company)",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| 5. |  | 185,396,300 | 86,440,000 |\n| --- | --- | --- | --- |\n|  | Ordinary Resolution in item 5 of the notice of annual general |  |  |\n|  |  | (68.201 %) | (31.799%) |\n|  | meeting (To grant a general mandate to the directors to |  |  |\n|  | repurchase shares of the Company) |  |  |\n| 6. |  | 185,396,300 | 86,440,000 |\n|  | Ordinary Resolution in item 6 of the notice of annual general |  |  |\n|  |  | (68.201 %) | (31.799%) |\n|  | meeting (To extend the general mandate granted to the |  |  |\n|  | directors to issue new shares of the Company) |  |  |\n",
+      "page_number": 2,
+      "bounding_box": {
+        "x0": 42.12000274658203,
+        "y0": 420.9100341796875,
+        "x1": 567.0999755859375,
+        "y1": 529.8699951171875
+      }
+    }
+  ],
+  "content": {
+    "html": "<p>Hong Kong Exchange s and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents of this announcement, make no representation as to its accuracy or completeness and expressly disclaims any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the contents of this announcement.</p>\n<h1>KAISUN HOLDINGS LIMITED 凱順 控股 有限公司</h1>\n<p><strong>*</strong></p>\n<p>(Incorporated in the Cayman Islands with limited liability) (Stock code: 8203)</p>\n<h2>POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 30 JUNE 2021</h2>\n<p>The Board is pleased to announce that all the resolutions proposed at the AGM as set out in the Notice of AGM were duly passed by the Shareholders by way of poll at the AGM.</p>\n<p>The board (the &quot;Board&quot;) of directors (&quot;Dir ectors&quot;) of Kaisun Holdings Limited (the &quot;Company&quot;) is pleased to announce the poll results of the annual general meeting of the Compa n y he ld on 30 June 202 1 (the &quot;AGM&quot;).</p>\n<p>As at the date of the AGM, the total number of issued shares of the Company was 576,566,0 55 shares, which was the total number of shares entitling the holders to attend and vote for or against any of the resolution s proposed at the AGM. There were no restrictions on any shareholders to cast votes on any of the proposed resolutions at the AGM.</p>\n<p>Computershare Hong Kong Investor Services Limited , the share registrar of the Company in Hong Kong, was appointed as scruti neer for the purpose of vote - taking at the AGM. The poll results were as follows:</p>\n<h3>Number of votes (%) Ordinary Resolutions For Against</h3>\n<table>\n<thead>\n<tr>\n<th>1.</th>\n<th></th>\n<th>185,396,300</th>\n<th>86,440,000</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>To receive and consider the audited financial statements and</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>(68.201 %)</td>\n<td>(31.799%)</td>\n</tr>\n<tr>\n<td></td>\n<td>the report of the directors and independent auditor’s report for</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>the year ended 31 December 2020.</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2.</td>\n<td></td>\n<td>185,396,300</td>\n<td>86,440,000</td>\n</tr>\n<tr>\n<td></td>\n<td>(a) To re-elect Mr. Yang Yongcheng as director</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>(68.201%)</td>\n<td>(31.799%)</td>\n</tr>\n</tbody>\n</table>\n<h3>185,396,300 (68.201 %) 185,396,300 (68.201 %) 185,396,300 (68.201 %) 185,396,300 (68.201 %) the above re solution nos. 1 to 6</h3>\n<h3>86,440,000 (31.799%) 86,440,000 (31.799%) 86,440,000 (31.799%) 86,440,000 (31.799%) , the</h3>\n<h3>(b) To re-elect Mr. Liew Swee Yean as a director</h3>\n<h3>(c) To re-elect Dr. Wong Yun Kuen as a director</h3>\n<h3>(d) To re-elect Mr. Anderson Brian Ralph as a director</h3>\n<ul>\n<li>(e) To authorize the board of directors to fix the remuneration of the directors As more than 50% of the votes were cast in favour of each of resolutions were duly passed as ordi nary resolutions .</li>\n</ul>\n<table>\n<thead>\n<tr>\n<th>3.</th>\n<th></th>\n<th>185,396,300</th>\n<th>86,440,000</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>To re-appoint the auditors and to authorize the board of</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>(68.201 %)</td>\n<td>(31.799%)</td>\n</tr>\n<tr>\n<td></td>\n<td>directors to fix the remuneration of the auditors</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>4.</th>\n<th></th>\n<th>185,396,300</th>\n<th>86,440,000</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>Ordinary Resolution in item 4 of the notice of annual general</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>(68.201 %)</td>\n<td>(31.799%)</td>\n</tr>\n<tr>\n<td></td>\n<td>meeting (To grant a general mandate to the directors to allot</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>and issue new shares of the Company)</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>5.</th>\n<th></th>\n<th>185,396,300</th>\n<th>86,440,000</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>Ordinary Resolution in item 5 of the notice of annual general</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>(68.201 %)</td>\n<td>(31.799%)</td>\n</tr>\n<tr>\n<td></td>\n<td>meeting (To grant a general mandate to the directors to</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>repurchase shares of the Company)</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>6.</td>\n<td></td>\n<td>185,396,300</td>\n<td>86,440,000</td>\n</tr>\n<tr>\n<td></td>\n<td>Ordinary Resolution in item 6 of the notice of annual general</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>(68.201 %)</td>\n<td>(31.799%)</td>\n</tr>\n<tr>\n<td></td>\n<td>meeting (To extend the general mandate granted to the</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>directors to issue new shares of the Company)</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>By Order of the Board <strong>Kaisun Holdings CHAN Nap Kee, Joseph</strong></p>\n<h2>Limited</h2>\n<h3>Chairman</h3>\n<p>Hong Kong, 30 June , 202 1 <em>As of the date of this announcement, the executive Directo rs are Mr. Chan Nap Kee independent non-executive Directors are Mr. Liew Swee Ye an, Dr. Wong Yun Kuen * for identification purpose only</em></p>\n<p>Joseph , and Mr. Yang Yongcheng and Mr. Anderson Brian Ralph</p>\n<p>. The .</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Hong Kong Exchange s and Clearing Limited and  The Stock Exchange of Hong Kong Limited take no responsibility for the \\ncontents of this announcement, make no representation as to its accuracy or completeness and expressly disclaims any \\nliability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the contents of this \\nannouncement.\"},{\"type\":\"paragraph\",\"text\":\"KAISUN HOLDINGS LIMITED\"},{\"type\":\"paragraph\",\"text\":\"凱順控股有限公司*\"},{\"type\":\"paragraph\",\"text\":\"(Incorporated in the Cayman Islands with limited liability) \\n(Stock code: 8203)\"},{\"type\":\"paragraph\",\"text\":\"POLL RESULTS OF THE ANNUAL GENERAL MEETING\"},{\"type\":\"paragraph\",\"text\":\"HELD ON 30 JUNE 2021 \\n \\nThe Board is pleased to announce that all the resolutions  proposed at the AGM as set out in the Notice \\nof AGM were duly passed by the Shareholders by way of poll at the AGM. \\n \\nThe board (the “Board”) of directors (“Directors”) of Kaisun Holdings  Limited (the “Company”) is \\npleased to announce the poll results of the annual general meeting of the Company held on 30 June 2021 \\n(the “AGM”).\"},{\"type\":\"paragraph\",\"text\":\"As at the date of the AGM, the total number of issued shares of the Company was  576,566,055 shares, \\nwhich was the total number of shares entitling the holders to attend and vote for or against any of the \\nresolutions proposed at the AGM. There were no restrictions on any shareholders to cast votes on any of \\nthe proposed resolutions at the AGM.\"},{\"type\":\"paragraph\",\"text\":\"Computershare Hong Kong Investor Services Limited, the share registrar of the Company in Hong \\nKong, was appointed as scruti neer for the purpose of vote -taking at the AGM. The poll results were as \\nfollows: \\n \\nNumber of votes (%)  \\nOrdinary Resolutions \\nFor  Against \\n1.  185,396,300   86,440,000 To receive and consider the audited financial statements  and \\n(68.201 %)     (31.799%)  the report of the directors and independent auditor’s report for\"},{\"type\":\"paragraph\",\"text\":\"the year ended 31 December 2020. \\n2.  185,396,300   86,440,000 (a) To re-elect Mr. Yang Yongcheng as director \\n(68.201%)     (31.799%)\"},{\"type\":\"paragraph\",\"text\":\"(b) To re-elect Mr. Liew Swee Yean as a director\"},{\"type\":\"paragraph\",\"text\":\"(c) To re-elect Dr. Wong Yun Kuen as a director\"},{\"type\":\"paragraph\",\"text\":\"(d) To re-elect Mr. Anderson Brian Ralph as a director\"},{\"type\":\"paragraph\",\"text\":\"(e) To authorize the board of directors to fix the remuneration \\nof the directors \\n3.  To re-appoint the auditors and to authorize the board of \\ndirectors to fix the remuneration of the auditors \\n4.  Ordinary Resolution in item 4 of the notice of annual general\"},{\"type\":\"paragraph\",\"text\":\"meeting (To grant a general mandate to the directors to allot\\nand issue new shares of the Company) \\n5.  Ordinary Resolution in item 5 of the notice of annual general \\nmeeting (To grant a general mandate to the directors to \\nrepurchase shares of the Company) \\n6.  Ordinary Resolution in item 6 of the notice of annual general \\nmeeting (To extend the general mandate granted to the \\ndirectors to issue new shares of the Company) \\nAs more than 50% of the votes were cast in favour of each of \\nresolutions were duly passed as ordinary resolutions.\"},{\"type\":\"paragraph\",\"text\":\"Hong Kong, 30 June, 2021\"},{\"type\":\"paragraph\",\"text\":\"As of the date of this announcement, the executive Directo rs are Mr. Chan Nap Kee\\nindependent non-executive Directors are Mr. Liew Swee Ye an, Dr. Wong Yun Kuen\\n \\n*   for identification purpose only\"},{\"type\":\"paragraph\",\"text\":\"185,396,300 \\n(68.201 %)\"},{\"type\":\"paragraph\",\"text\":\"185,396,300 \\n(68.201 %)\"},{\"type\":\"paragraph\",\"text\":\"185,396,300 \\n(68.201 %)\"},{\"type\":\"paragraph\",\"text\":\"185,396,300 \\n(68.201 %)\"},{\"type\":\"paragraph\",\"text\":\"185,396,300 \\n(68.201 %)\"},{\"type\":\"paragraph\",\"text\":\"185,396,300 \\n(68.201 %)\"},{\"type\":\"paragraph\",\"text\":\"185,396,300 \\n(68.201 %)\"},{\"type\":\"paragraph\",\"text\":\"185,396,300 \\n(68.201 %)\"},{\"type\":\"paragraph\",\"text\":\"the above resolution nos. 1 to 6\"},{\"type\":\"paragraph\",\"text\":\"By Order of the Board\\nKaisun Holdings\\nCHAN Nap Kee, Joseph\\nChairman\"},{\"type\":\"paragraph\",\"text\":\"Joseph , and Mr. Yang Yongcheng\\n and Mr. Anderson Brian Ralph\"},{\"type\":\"paragraph\",\"text\":\"86,440,000 \\n  (31.799%)\"},{\"type\":\"paragraph\",\"text\":\"86,440,000 \\n  (31.799%)\"},{\"type\":\"paragraph\",\"text\":\"86,440,000 \\n  (31.799%)\"},{\"type\":\"paragraph\",\"text\":\"86,440,000 \\n  (31.799%)\"},{\"type\":\"paragraph\",\"text\":\"86,440,000 \\n  (31.799%)\"},{\"type\":\"paragraph\",\"text\":\"86,440,000 \\n  (31.799%)\"},{\"type\":\"paragraph\",\"text\":\"86,440,000 \\n  (31.799%)\"},{\"type\":\"paragraph\",\"text\":\"86,440,000 \\n  (31.799%)\"},{\"type\":\"paragraph\",\"text\":\", the\"},{\"type\":\"paragraph\",\"text\":\"Limited\"},{\"type\":\"paragraph\",\"text\":\". The \\n.\"},{\"type\":\"table\",\"headers\":[\"1.\",\"\",\"185,396,300\",\"86,440,000\"],\"rows\":[[\"\",\"To receive and consider the audited financial statements and\",\"\",\"\"],[\"\",\"\",\"(68.201 %)\",\"(31.799%)\"],[\"\",\"the report of the directors and independent auditor’s report for\",\"\",\"\"],[\"\",\"the year ended 31 December 2020.\",\"\",\"\"],[\"2.\",\"\",\"185,396,300\",\"86,440,000\"],[\"\",\"(a) To re-elect Mr. Yang Yongcheng as director\",\"\",\"\"],[\"\",\"\",\"(68.201%)\",\"(31.799%)\"]]},{\"type\":\"table\",\"headers\":[\"3.\",\"\",\"185,396,300\",\"86,440,000\"],\"rows\":[[\"\",\"To re-appoint the auditors and to authorize the board of\",\"\",\"\"],[\"\",\"\",\"(68.201 %)\",\"(31.799%)\"],[\"\",\"directors to fix the remuneration of the auditors\",\"\",\"\"]]},{\"type\":\"table\",\"headers\":[\"4.\",\"\",\"185,396,300\",\"86,440,000\"],\"rows\":[[\"\",\"Ordinary Resolution in item 4 of the notice of annual general\",\"\",\"\"],[\"\",\"\",\"(68.201 %)\",\"(31.799%)\"],[\"\",\"meeting (To grant a general mandate to the directors to allot\",\"\",\"\"],[\"\",\"and issue new shares of the Company)\",\"\",\"\"]]},{\"type\":\"table\",\"headers\":[\"5.\",\"\",\"185,396,300\",\"86,440,000\"],\"rows\":[[\"\",\"Ordinary Resolution in item 5 of the notice of annual general\",\"\",\"\"],[\"\",\"\",\"(68.201 %)\",\"(31.799%)\"],[\"\",\"meeting (To grant a general mandate to the directors to\",\"\",\"\"],[\"\",\"repurchase shares of the Company)\",\"\",\"\"],[\"6.\",\"\",\"185,396,300\",\"86,440,000\"],[\"\",\"Ordinary Resolution in item 6 of the notice of annual general\",\"\",\"\"],[\"\",\"\",\"(68.201 %)\",\"(31.799%)\"],[\"\",\"meeting (To extend the general mandate granted to the\",\"\",\"\"],[\"\",\"directors to issue new shares of the Company)\",\"\",\"\"]]}]}",
+    "markdown": "Hong Kong Exchange s and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents of this announcement, make no representation as to its accuracy or completeness and expressly disclaims any liability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the contents of this announcement.\n\n# KAISUN HOLDINGS LIMITED 凱順 控股 有限公司\n\n*****\n\n(Incorporated in the Cayman Islands with limited liability) (Stock code: 8203)\n\n## POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 30 JUNE 2021\n\nThe Board is pleased to announce that all the resolutions proposed at the AGM as set out in the Notice of AGM were duly passed by the Shareholders by way of poll at the AGM.\n\nThe board (the \"Board\") of directors (\"Dir ectors\") of Kaisun Holdings Limited (the \"Company\") is pleased to announce the poll results of the annual general meeting of the Compa n y he ld on 30 June 202 1 (the \"AGM\").\n\nAs at the date of the AGM, the total number of issued shares of the Company was 576,566,0 55 shares, which was the total number of shares entitling the holders to attend and vote for or against any of the resolution s proposed at the AGM. There were no restrictions on any shareholders to cast votes on any of the proposed resolutions at the AGM.\n\nComputershare Hong Kong Investor Services Limited , the share registrar of the Company in Hong Kong, was appointed as scruti neer for the purpose of vote - taking at the AGM. The poll results were as follows:\n\n### Number of votes (%) Ordinary Resolutions For Against\n\n| 1. |  | 185,396,300 | 86,440,000 |\n| --- | --- | --- | --- |\n|  | To receive and consider the audited financial statements and |  |  |\n|  |  | (68.201 %) | (31.799%) |\n|  | the report of the directors and independent auditor’s report for |  |  |\n|  | the year ended 31 December 2020. |  |  |\n| 2. |  | 185,396,300 | 86,440,000 |\n|  | (a) To re-elect Mr. Yang Yongcheng as director |  |  |\n|  |  | (68.201%) | (31.799%) |\n\n### 185,396,300 (68.201 %) 185,396,300 (68.201 %) 185,396,300 (68.201 %) 185,396,300 (68.201 %) the above re solution nos. 1 to 6\n\n### 86,440,000 (31.799%) 86,440,000 (31.799%) 86,440,000 (31.799%) 86,440,000 (31.799%) , the\n\n### (b) To re-elect Mr. Liew Swee Yean as a director\n\n### (c) To re-elect Dr. Wong Yun Kuen as a director\n\n### (d) To re-elect Mr. Anderson Brian Ralph as a director\n\n- (e) To authorize the board of directors to fix the remuneration of the directors As more than 50% of the votes were cast in favour of each of resolutions were duly passed as ordi nary resolutions .\n\n| 3. |  | 185,396,300 | 86,440,000 |\n| --- | --- | --- | --- |\n|  | To re-appoint the auditors and to authorize the board of |  |  |\n|  |  | (68.201 %) | (31.799%) |\n|  | directors to fix the remuneration of the auditors |  |  |\n\n| 4. |  | 185,396,300 | 86,440,000 |\n| --- | --- | --- | --- |\n|  | Ordinary Resolution in item 4 of the notice of annual general |  |  |\n|  |  | (68.201 %) | (31.799%) |\n|  | meeting (To grant a general mandate to the directors to allot |  |  |\n|  | and issue new shares of the Company) |  |  |\n\n| 5. |  | 185,396,300 | 86,440,000 |\n| --- | --- | --- | --- |\n|  | Ordinary Resolution in item 5 of the notice of annual general |  |  |\n|  |  | (68.201 %) | (31.799%) |\n|  | meeting (To grant a general mandate to the directors to |  |  |\n|  | repurchase shares of the Company) |  |  |\n| 6. |  | 185,396,300 | 86,440,000 |\n|  | Ordinary Resolution in item 6 of the notice of annual general |  |  |\n|  |  | (68.201 %) | (31.799%) |\n|  | meeting (To extend the general mandate granted to the |  |  |\n|  | directors to issue new shares of the Company) |  |  |\n\nBy Order of the Board **Kaisun Holdings CHAN Nap Kee, Joseph**\n\n## Limited\n\n### Chairman\n\nHong Kong, 30 June , 202 1 *As of the date of this announcement, the executive Directo rs are Mr. Chan Nap Kee independent non-executive Directors are Mr. Liew Swee Ye an, Dr. Wong Yun Kuen * for identification purpose only*\n\nJoseph , and Mr. Yang Yongcheng and Mr. Anderson Brian Ralph\n\n. The .\n",
+    "plain": "Hong Kong Exchange s and Clearing Limited and  The Stock Exchange of Hong Kong Limited take no responsibility for the \ncontents of this announcement, make no representation as to its accuracy or completeness and expressly disclaims any \nliability whatsoever for any loss howsoever arising from or in reliance upon the whole or any part of the contents of this \nannouncement.\n\nKAISUN HOLDINGS LIMITED\n\n凱順控股有限公司*\n\n(Incorporated in the Cayman Islands with limited liability) \n(Stock code: 8203)\n\nPOLL RESULTS OF THE ANNUAL GENERAL MEETING\n\nHELD ON 30 JUNE 2021 \n \nThe Board is pleased to announce that all the resolutions  proposed at the AGM as set out in the Notice \nof AGM were duly passed by the Shareholders by way of poll at the AGM. \n \nThe board (the “Board”) of directors (“Directors”) of Kaisun Holdings  Limited (the “Company”) is \npleased to announce the poll results of the annual general meeting of the Company held on 30 June 2021 \n(the “AGM”).\n\nAs at the date of the AGM, the total number of issued shares of the Company was  576,566,055 shares, \nwhich was the total number of shares entitling the holders to attend and vote for or against any of the \nresolutions proposed at the AGM. There were no restrictions on any shareholders to cast votes on any of \nthe proposed resolutions at the AGM.\n\nComputershare Hong Kong Investor Services Limited, the share registrar of the Company in Hong \nKong, was appointed as scruti neer for the purpose of vote -taking at the AGM. The poll results were as \nfollows: \n \nNumber of votes (%)  \nOrdinary Resolutions \nFor  Against \n1.  185,396,300   86,440,000 To receive and consider the audited financial statements  and \n(68.201 %)     (31.799%)  the report of the directors and independent auditor’s report for\n\nthe year ended 31 December 2020. \n2.  185,396,300   86,440,000 (a) To re-elect Mr. Yang Yongcheng as director \n(68.201%)     (31.799%)\n\n(b) To re-elect Mr. Liew Swee Yean as a director\n\n(c) To re-elect Dr. Wong Yun Kuen as a director\n\n(d) To re-elect Mr. Anderson Brian Ralph as a director\n\n(e) To authorize the board of directors to fix the remuneration \nof the directors \n3.  To re-appoint the auditors and to authorize the board of \ndirectors to fix the remuneration of the auditors \n4.  Ordinary Resolution in item 4 of the notice of annual general\n\nmeeting (To grant a general mandate to the directors to allot\nand issue new shares of the Company) \n5.  Ordinary Resolution in item 5 of the notice of annual general \nmeeting (To grant a general mandate to the directors to \nrepurchase shares of the Company) \n6.  Ordinary Resolution in item 6 of the notice of annual general \nmeeting (To extend the general mandate granted to the \ndirectors to issue new shares of the Company) \nAs more than 50% of the votes were cast in favour of each of \nresolutions were duly passed as ordinary resolutions.\n\nHong Kong, 30 June, 2021\n\nAs of the date of this announcement, the executive Directo rs are Mr. Chan Nap Kee\nindependent non-executive Directors are Mr. Liew Swee Ye an, Dr. Wong Yun Kuen\n \n*   for identification purpose only\n\n185,396,300 \n(68.201 %)\n\n185,396,300 \n(68.201 %)\n\n185,396,300 \n(68.201 %)\n\n185,396,300 \n(68.201 %)\n\n185,396,300 \n(68.201 %)\n\n185,396,300 \n(68.201 %)\n\n185,396,300 \n(68.201 %)\n\n185,396,300 \n(68.201 %)\n\nthe above resolution nos. 1 to 6\n\nBy Order of the Board\nKaisun Holdings\nCHAN Nap Kee, Joseph\nChairman\n\nJoseph , and Mr. Yang Yongcheng\n and Mr. Anderson Brian Ralph\n\n86,440,000 \n  (31.799%)\n\n86,440,000 \n  (31.799%)\n\n86,440,000 \n  (31.799%)\n\n86,440,000 \n  (31.799%)\n\n86,440,000 \n  (31.799%)\n\n86,440,000 \n  (31.799%)\n\n86,440,000 \n  (31.799%)\n\n86,440,000 \n  (31.799%)\n\n, the\n\nLimited\n\n. The \n.\n\n1.  185,396,300 86,440,000\n To receive and consider the audited financial statements and  \n  (68.201 %) (31.799%)\n the report of the directors and independent auditor’s report for  \n the year ended 31 December 2020.  \n2.  185,396,300 86,440,000\n (a) To re-elect Mr. Yang Yongcheng as director  \n  (68.201%) (31.799%)\n\n3.  185,396,300 86,440,000\n To re-appoint the auditors and to authorize the board of  \n  (68.201 %) (31.799%)\n directors to fix the remuneration of the auditors  \n\n4.  185,396,300 86,440,000\n Ordinary Resolution in item 4 of the notice of annual general  \n  (68.201 %) (31.799%)\n meeting (To grant a general mandate to the directors to allot  \n and issue new shares of the Company)  \n\n5.  185,396,300 86,440,000\n Ordinary Resolution in item 5 of the notice of annual general  \n  (68.201 %) (31.799%)\n meeting (To grant a general mandate to the directors to  \n repurchase shares of the Company)  \n6.  185,396,300 86,440,000\n Ordinary Resolution in item 6 of the notice of annual general  \n  (68.201 %) (31.799%)\n meeting (To extend the general mandate granted to the  \n directors to issue new shares of the Company)"
+  }
+}

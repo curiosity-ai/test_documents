@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/json/right_to_left_01.pages.meta.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 5,
+      "word_count": 6,
+      "character_count": 31
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/json/right_to_left_01.pages.meta.txt",
+      "source_uri": "ground_truth/json/right_to_left_01.pages.meta.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>[ { &quot;num_cells&quot;: 46 } ]</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"[\\n  {\\n    \\\"num_cells\\\": 46\\n  }\\n]\"}]}",
+    "markdown": "[ { \"num_cells\": 46 } ]\n",
+    "plain": "[\n  {\n    \"num_cells\": 46\n  }\n]"
+  }
+}

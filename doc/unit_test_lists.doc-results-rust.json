@@ -1,0 +1,29 @@
+{
+  "file": "doc/unit_test_lists.doc",
+  "mime_type": "application/msword",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Peter Staar"
+    ],
+    "created_by": "Peter Staar",
+    "modified_by": "Peter Staar",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "extraction_method": "native_ole",
+      "final_uri": "doc/unit_test_lists.doc",
+      "source_uri": "doc/unit_test_lists.doc",
+      "source_index": 0,
+      "revision": "14"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Test Document</h2>\n<p>Paragraph 2.1.1</p>\n<h2>Paragraph 2.1.2</h2>\n<p>Test 1: List item 1 List item 2 List item 3</p>\n<p>Test 2: List item a List item b List item c</p>\n<p>Test 3: List item 1 List item 2 List item 1.1 List item 1.2 List item 1.3 List item 3</p>\n<p>Test 4: List item 1 List item 1.1 List item 2</p>\n<p>Test 5: List item 1 List item 1.1 List item 1.1.1 List item 3</p>\n<p>Test 6: List item 1 List item 2 List item 1.1 List item 1.2 List item 1.2.1 List item 3</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Test Document\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1.1\"}]},{\"type\":\"section\",\"heading\":\"Paragraph 2.1.2\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Test 1:\\nList item 1\\nList item 2\\nList item 3\"},{\"type\":\"paragraph\",\"text\":\"Test 2:\\nList item a\\nList item b\\nList item c\"},{\"type\":\"paragraph\",\"text\":\"Test 3:\\nList item 1\\nList item 2\\nList item 1.1\\nList item 1.2\\nList item 1.3\\nList item 3\"},{\"type\":\"paragraph\",\"text\":\"Test 4:\\nList item 1\\nList item 1.1\\nList item 2\"},{\"type\":\"paragraph\",\"text\":\"Test 5:\\nList item 1\\nList item 1.1\\nList item 1.1.1\\nList item 3\"},{\"type\":\"paragraph\",\"text\":\"Test 6:\\nList item 1\\nList item 2\\nList item 1.1\\nList item 1.2\\nList item 1.2.1\\nList item 3\"}]}]}",
+    "markdown": "## Test Document\n\nParagraph 2.1.1\n\n## Paragraph 2.1.2\n\nTest 1: List item 1 List item 2 List item 3\n\nTest 2: List item a List item b List item c\n\nTest 3: List item 1 List item 2 List item 1.1 List item 1.2 List item 1.3 List item 3\n\nTest 4: List item 1 List item 1.1 List item 2\n\nTest 5: List item 1 List item 1.1 List item 1.1.1 List item 3\n\nTest 6: List item 1 List item 2 List item 1.1 List item 1.2 List item 1.2.1 List item 3\n",
+    "plain": "Test Document\nParagraph 2.1.1\n\nParagraph 2.1.2\nTest 1:\nList item 1\nList item 2\nList item 3\n\nTest 2:\nList item a\nList item b\nList item c\n\nTest 3:\nList item 1\nList item 2\nList item 1.1\nList item 1.2\nList item 1.3\nList item 3\n\nTest 4:\nList item 1\nList item 1.1\nList item 2\n\nTest 5:\nList item 1\nList item 1.1\nList item 1.1.1\nList item 3\n\nTest 6:\nList item 1\nList item 2\nList item 1.1\nList item 1.2\nList item 1.2.1\nList item 3"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "file": "typst/headings.typ",
+  "mime_type": "application/x-typst",
+  "success": true,
+  "metadata": {
+    "title": "Heading Test",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "typst/headings.typ",
+      "source_kind": "uri",
+      "source_uri": "typst/headings.typ",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>= Level 1 Heading</h1>\n<p>Content under level 1.</p>\n<h2>== Level 2 Heading</h2>\n<p>Content under level 2.</p>\n<h3>=== Level 3 Heading</h3>\n<p>Content under level 3.</p>\n<h4>==== Level 4 Heading</h4>\n<p>Content under level 4.</p>\n<h5>===== Level 5 Heading</h5>\n<p>Content under level 5.</p>\n<h6>====== Level 6 Heading</h6>\n<p>Content under level 6.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"= Level 1 Heading\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Content under level 1.\"},{\"type\":\"section\",\"heading\":\"== Level 2 Heading\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Content under level 2.\"},{\"type\":\"section\",\"heading\":\"=== Level 3 Heading\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Content under level 3.\"},{\"type\":\"section\",\"heading\":\"==== Level 4 Heading\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"Content under level 4.\"},{\"type\":\"section\",\"heading\":\"===== Level 5 Heading\",\"level\":5,\"body\":[{\"type\":\"paragraph\",\"text\":\"Content under level 5.\"},{\"type\":\"section\",\"heading\":\"====== Level 6 Heading\",\"level\":6,\"body\":[{\"type\":\"paragraph\",\"text\":\"Content under level 6.\"}]}]}]}]}]}]}]}",
+    "markdown": "# = Level 1 Heading\n\nContent under level 1.\n\n## == Level 2 Heading\n\nContent under level 2.\n\n### === Level 3 Heading\n\nContent under level 3.\n\n#### ==== Level 4 Heading\n\nContent under level 4.\n\n##### ===== Level 5 Heading\n\nContent under level 5.\n\n###### ====== Level 6 Heading\n\nContent under level 6.\n",
+    "plain": "= Level 1 Heading\nContent under level 1.\n\n  == Level 2 Heading\nContent under level 2.\n\n    === Level 3 Heading\nContent under level 3.\n\n      ==== Level 4 Heading\nContent under level 4.\n\n        ===== Level 5 Heading\nContent under level 5.\n\n          ====== Level 6 Heading\nContent under level 6."
+  }
+}

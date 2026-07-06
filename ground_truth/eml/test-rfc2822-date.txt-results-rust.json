@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/test-rfc2822-date.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 5,
+      "word_count": 21,
+      "character_count": 149
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/eml/test-rfc2822-date.txt",
+      "source_uri": "ground_truth/eml/test-rfc2822-date.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Test a standard RFC-2822 date From: sender@example.com To: recipient@example.com Date: Tue, 29 Jul 2025 12:42:06 +0000 This is a test-email.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Test a standard RFC-2822 date\\nFrom: sender@example.com\\nTo: recipient@example.com\\nDate: Tue, 29 Jul 2025 12:42:06 +0000\\nThis is a test-email.\"}]}",
+    "markdown": "Subject: Test a standard RFC-2822 date From: sender@example.com To: recipient@example.com Date: Tue, 29 Jul 2025 12:42:06 +0000 This is a test-email.\n",
+    "plain": "Subject: Test a standard RFC-2822 date\nFrom: sender@example.com\nTo: recipient@example.com\nDate: Tue, 29 Jul 2025 12:42:06 +0000\nThis is a test-email."
+  }
+}

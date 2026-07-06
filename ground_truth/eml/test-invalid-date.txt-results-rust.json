@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/test-invalid-date.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 5,
+      "word_count": 20,
+      "character_count": 160
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/eml/test-invalid-date.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/eml/test-invalid-date.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Test invalid date format From: sender@example.com To: recipient@example.com Date: INVALID-DATE-FORMAT This is a test-email with an invalid date format.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Test invalid date format\\nFrom: sender@example.com\\nTo: recipient@example.com\\nDate: INVALID-DATE-FORMAT\\nThis is a test-email with an invalid date format.\"}]}",
+    "markdown": "Subject: Test invalid date format From: sender@example.com To: recipient@example.com Date: INVALID-DATE-FORMAT This is a test-email with an invalid date format.\n",
+    "plain": "Subject: Test invalid date format\nFrom: sender@example.com\nTo: recipient@example.com\nDate: INVALID-DATE-FORMAT\nThis is a test-email with an invalid date format."
+  }
+}

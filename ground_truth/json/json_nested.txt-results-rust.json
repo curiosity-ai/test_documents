@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/json/json_nested.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 41,
+      "word_count": 85,
+      "character_count": 741
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/json/json_nested.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/json/json_nested.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>{ \t&quot;title&quot;: &quot;Complex Document&quot;, \t&quot;description&quot;: &quot;This document tests nested object processing&quot;, \t&quot;metadata&quot;: { \t\t&quot;author&quot;: &quot;Test Author&quot;, \t\t&quot;version&quot;: 2.1, \t\t&quot;tags&quot;: [&quot;test&quot;, &quot;nested&quot;, &quot;complex&quot;], \t\t&quot;config&quot;: { \t\t\t&quot;enabled&quot;: true, \t\t\t&quot;settings&quot;: { \t\t\t\t&quot;theme&quot;: &quot;dark&quot;, \t\t\t\t&quot;language&quot;: &quot;en&quot; \t\t\t} \t\t} \t}, \t&quot;sections&quot;: [ \t\t{ \t\t\t&quot;name&quot;: &quot;Introduction&quot;, \t\t\t&quot;content&quot;: &quot;Introduction text content&quot;, \t\t\t&quot;subsections&quot;: [ \t\t\t\t{ \t\t\t\t\t&quot;title&quot;: &quot;Overview&quot;, \t\t\t\t\t&quot;body&quot;: &quot;Overview body text&quot; \t\t\t\t}, \t\t\t\t{ \t\t\t\t\t&quot;title&quot;: &quot;Goals&quot;, \t\t\t\t\t&quot;body&quot;: &quot;Goals body text&quot; \t\t\t\t} \t\t\t] \t\t}, \t\t{ \t\t\t&quot;name&quot;: &quot;Details&quot;, \t\t\t&quot;description&quot;: &quot;Detailed section description&quot;, \t\t\t&quot;data&quot;: { \t\t\t\t&quot;count&quot;: 42, \t\t\t\t&quot;active&quot;: true, \t\t\t\t&quot;items&quot;: [&quot;item1&quot;, &quot;item2&quot;, &quot;item3&quot;] \t\t\t} \t\t} \t] }</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"{\\n\\t\\\"title\\\": \\\"Complex Document\\\",\\n\\t\\\"description\\\": \\\"This document tests nested object processing\\\",\\n\\t\\\"metadata\\\": {\\n\\t\\t\\\"author\\\": \\\"Test Author\\\",\\n\\t\\t\\\"version\\\": 2.1,\\n\\t\\t\\\"tags\\\": [\\\"test\\\", \\\"nested\\\", \\\"complex\\\"],\\n\\t\\t\\\"config\\\": {\\n\\t\\t\\t\\\"enabled\\\": true,\\n\\t\\t\\t\\\"settings\\\": {\\n\\t\\t\\t\\t\\\"theme\\\": \\\"dark\\\",\\n\\t\\t\\t\\t\\\"language\\\": \\\"en\\\"\\n\\t\\t\\t}\\n\\t\\t}\\n\\t},\\n\\t\\\"sections\\\": [\\n\\t\\t{\\n\\t\\t\\t\\\"name\\\": \\\"Introduction\\\",\\n\\t\\t\\t\\\"content\\\": \\\"Introduction text content\\\",\\n\\t\\t\\t\\\"subsections\\\": [\\n\\t\\t\\t\\t{\\n\\t\\t\\t\\t\\t\\\"title\\\": \\\"Overview\\\",\\n\\t\\t\\t\\t\\t\\\"body\\\": \\\"Overview body text\\\"\\n\\t\\t\\t\\t},\\n\\t\\t\\t\\t{\\n\\t\\t\\t\\t\\t\\\"title\\\": \\\"Goals\\\",\\n\\t\\t\\t\\t\\t\\\"body\\\": \\\"Goals body text\\\"\\n\\t\\t\\t\\t}\\n\\t\\t\\t]\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\\"name\\\": \\\"Details\\\",\\n\\t\\t\\t\\\"description\\\": \\\"Detailed section description\\\",\\n\\t\\t\\t\\\"data\\\": {\\n\\t\\t\\t\\t\\\"count\\\": 42,\\n\\t\\t\\t\\t\\\"active\\\": true,\\n\\t\\t\\t\\t\\\"items\\\": [\\\"item1\\\", \\\"item2\\\", \\\"item3\\\"]\\n\\t\\t\\t}\\n\\t\\t}\\n\\t]\\n}\"}]}",
+    "markdown": "{ &#9;\"title\": \"Complex Document\", &#9;\"description\": \"This document tests nested object processing\", &#9;\"metadata\": { &#9;&#9;\"author\": \"Test Author\", &#9;&#9;\"version\": 2.1, &#9;&#9;\"tags\": [\"test\", \"nested\", \"complex\"], &#9;&#9;\"config\": { &#9;&#9;&#9;\"enabled\": true, &#9;&#9;&#9;\"settings\": { &#9;&#9;&#9;&#9;\"theme\": \"dark\", &#9;&#9;&#9;&#9;\"language\": \"en\" &#9;&#9;&#9;} &#9;&#9;} &#9;}, &#9;\"sections\": [ &#9;&#9;{ &#9;&#9;&#9;\"name\": \"Introduction\", &#9;&#9;&#9;\"content\": \"Introduction text content\", &#9;&#9;&#9;\"subsections\": [ &#9;&#9;&#9;&#9;{ &#9;&#9;&#9;&#9;&#9;\"title\": \"Overview\", &#9;&#9;&#9;&#9;&#9;\"body\": \"Overview body text\" &#9;&#9;&#9;&#9;}, &#9;&#9;&#9;&#9;{ &#9;&#9;&#9;&#9;&#9;\"title\": \"Goals\", &#9;&#9;&#9;&#9;&#9;\"body\": \"Goals body text\" &#9;&#9;&#9;&#9;} &#9;&#9;&#9;] &#9;&#9;}, &#9;&#9;{ &#9;&#9;&#9;\"name\": \"Details\", &#9;&#9;&#9;\"description\": \"Detailed section description\", &#9;&#9;&#9;\"data\": { &#9;&#9;&#9;&#9;\"count\": 42, &#9;&#9;&#9;&#9;\"active\": true, &#9;&#9;&#9;&#9;\"items\": [\"item1\", \"item2\", \"item3\"] &#9;&#9;&#9;} &#9;&#9;} &#9;] }\n",
+    "plain": "{\n\t\"title\": \"Complex Document\",\n\t\"description\": \"This document tests nested object processing\",\n\t\"metadata\": {\n\t\t\"author\": \"Test Author\",\n\t\t\"version\": 2.1,\n\t\t\"tags\": [\"test\", \"nested\", \"complex\"],\n\t\t\"config\": {\n\t\t\t\"enabled\": true,\n\t\t\t\"settings\": {\n\t\t\t\t\"theme\": \"dark\",\n\t\t\t\t\"language\": \"en\"\n\t\t\t}\n\t\t}\n\t},\n\t\"sections\": [\n\t\t{\n\t\t\t\"name\": \"Introduction\",\n\t\t\t\"content\": \"Introduction text content\",\n\t\t\t\"subsections\": [\n\t\t\t\t{\n\t\t\t\t\t\"title\": \"Overview\",\n\t\t\t\t\t\"body\": \"Overview body text\"\n\t\t\t\t},\n\t\t\t\t{\n\t\t\t\t\t\"title\": \"Goals\",\n\t\t\t\t\t\"body\": \"Goals body text\"\n\t\t\t\t}\n\t\t\t]\n\t\t},\n\t\t{\n\t\t\t\"name\": \"Details\",\n\t\t\t\"description\": \"Detailed section description\",\n\t\t\t\"data\": {\n\t\t\t\t\"count\": 42,\n\t\t\t\t\"active\": true,\n\t\t\t\t\"items\": [\"item1\", \"item2\", \"item3\"]\n\t\t\t}\n\t\t}\n\t]\n}"
+  }
+}

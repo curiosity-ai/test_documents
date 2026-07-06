@@ -1,0 +1,34 @@
+{
+  "file": "pdf_scanned/nougat_002_scanned.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2026-05-14T14:14:16Z",
+    "modified_at": "2026-05-14T14:14:16Z",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.3",
+      "is_encrypted": false,
+      "width": 1275,
+      "height": 1650,
+      "page_count": 3
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "pdf_scanned/nougat_002_scanned.pdf",
+      "source_uri": "pdf_scanned/nougat_002_scanned.pdf",
+      "source_kind": "uri",
+      "extraction_method": "native",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "",
+    "json": "{\"body\":[]}",
+    "markdown": "",
+    "plain": ""
+  }
+}

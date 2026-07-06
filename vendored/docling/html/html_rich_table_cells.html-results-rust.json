@@ -1,0 +1,487 @@
+{
+  "file": "vendored/docling/html/html_rich_table_cells.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "title": "Rich Table Cells in HTML",
+    "language": "en",
+    "format": {
+      "format_type": "html",
+      "title": "Rich Table Cells in HTML",
+      "keywords": [],
+      "language": "en",
+      "open_graph": {},
+      "twitter_card": {},
+      "meta_tags": {},
+      "headers": [
+        {
+          "level": 1,
+          "text": "Rich Table Cells in HTML",
+          "depth": 2,
+          "html_offset": 0
+        }
+      ],
+      "links": [
+        {
+          "href": "https://en.wikipedia.org/wiki/Donald_Duck#/media/File:Donald_Duck_angry_transparent_background.png",
+          "text": "View PNG",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-1920px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg",
+          "text": "![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mandarin_duck_%28Aix_galericulata%29.jpg/250px-Mandarin_duck_%28Aix_galericulata%29.jpg",
+          "text": "View Full‑Size Image",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "https://en.wikipedia.org/wiki/Donald_Duck#/media/File:Donald_Duck_angry_transparent_background.png",
+          "text": "View PNG",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-1920px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg",
+          "text": "![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mandarin_duck_%28Aix_galericulata%29.jpg/250px-Mandarin_duck_%28Aix_galericulata%29.jpg",
+          "text": "View Full‑Size Image",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "https://en.wikipedia.org/wiki/Donald_Duck#/media/File:Donald_Duck_angry_transparent_background.png",
+          "text": "View PNG",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-1920px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg",
+          "text": "![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mandarin_duck_%28Aix_galericulata%29.jpg/250px-Mandarin_duck_%28Aix_galericulata%29.jpg",
+          "text": "View Full‑Size Image",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg",
+          "alt": "White-headed duck thumbnail",
+          "dimensions": null,
+          "image_type": "external",
+          "attributes": [
+            [
+              "alt",
+              "White-headed duck thumbnail"
+            ],
+            [
+              "class",
+              "thumb"
+            ]
+          ]
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg",
+          "alt": "White-headed duck thumbnail",
+          "dimensions": null,
+          "image_type": "external",
+          "attributes": [
+            [
+              "alt",
+              "White-headed duck thumbnail"
+            ],
+            [
+              "class",
+              "thumb"
+            ]
+          ]
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg",
+          "alt": "White-headed duck thumbnail",
+          "dimensions": null,
+          "image_type": "external",
+          "attributes": [
+            [
+              "alt",
+              "White-headed duck thumbnail"
+            ],
+            [
+              "class",
+              "thumb"
+            ]
+          ]
+        }
+      ],
+      "structured_data": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/docling/html/html_rich_table_cells.html",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "vendored/docling/html/html_rich_table_cells.html"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Name",
+          "Habitat",
+          "Comment"
+        ],
+        [
+          "Wood Duck",
+          "",
+          "Often seen near ponds."
+        ],
+        [
+          "Mallard",
+          "Ponds, lakes, rivers",
+          "Quack"
+        ],
+        [
+          "Goose (not a duck!)",
+          "Water & wetlands",
+          "**Large**, *loud*, noisy, ~~small~~"
+        ],
+        [
+          "Teal",
+          "PondMarshRiverbank",
+          "Fly south in winterBuild nest on ground"
+        ]
+      ],
+      "markdown": "| Name | Habitat | Comment |\n| --- | --- | --- |\n| Wood Duck |  | Often seen near ponds. |\n| Mallard | Ponds, lakes, rivers | Quack |\n| Goose (not a duck!) | Water & wetlands | **Large**, *loud*, noisy, ~~small~~ |\n| Teal | PondMarshRiverbank | Fly south in winterBuild nest on ground |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Genus",
+          "Species"
+        ],
+        [
+          "Aythya \n(Diving ducks)",
+          "Hawser, Common Pochard"
+        ],
+        [
+          "Lophonetta \n(Pintail group)",
+          "Fulvous Whistling Duck"
+        ],
+        [
+          "Oxyura \n(Benthic ducks)",
+          "Wigee, Banded Water‑screw"
+        ]
+      ],
+      "markdown": "| Genus | Species |\n| --- | --- |\n| Aythya \n(Diving ducks) | Hawser, Common Pochard |\n| Lophonetta \n(Pintail group) | Fulvous Whistling Duck |\n| Oxyura \n(Benthic ducks) | Wigee, Banded Water‑screw |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Type",
+          "Sound"
+        ],
+        [
+          "Short",
+          "“quak”"
+        ],
+        [
+          "Long",
+          "“quaaaaaack”"
+        ]
+      ],
+      "markdown": "| Type | Sound |\n| --- | --- |\n| Short | “quak” |\n| Long | “quaaaaaack” |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Type",
+          "Sound"
+        ],
+        [
+          "Short",
+          "“quak”"
+        ],
+        [
+          "Long",
+          "“quaaaaaack”"
+        ]
+      ],
+      "markdown": "| Type | Sound |\n| --- | --- |\n| Short | “quak” |\n| Long | “quaaaaaack” |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Action",
+          ""
+        ],
+        [
+          "**Swim**",
+          "Gracefully glide on H2O surfaces."
+        ],
+        [
+          "*Fly*",
+          ""
+        ],
+        [
+          "Quack",
+          "| Type | Sound |\n| ----- | ------------ |\n| Short | “quak” |\n| Long | “quaaaaaack” |"
+        ]
+      ],
+      "markdown": "| Action |  |\n| --- | --- |\n| **Swim** | Gracefully glide on H2O surfaces. |\n| *Fly* |  |\n| Quack | | Type | Sound |\n| ----- | ------------ |\n| Short | “quak” |\n| Long | “quaaaaaack” | |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Name",
+          "Description",
+          "Image"
+        ],
+        [
+          "Donald Duck",
+          "Cartoon character.",
+          "[View PNG](https://en.wikipedia.org/wiki/Donald_Duck#/media/File:Donald_Duck_angry_transparent_background.png)"
+        ],
+        [
+          "White-headed duck",
+          "A small diving duck some 45 cm (18 in) long.",
+          "[![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-1920px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)"
+        ],
+        [
+          "Mandarin Duck",
+          "Known for its striking plumage.",
+          "[View Full‑Size Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mandarin_duck_%28Aix_galericulata%29.jpg/250px-Mandarin_duck_%28Aix_galericulata%29.jpg)"
+        ],
+        [
+          "Unknown Duck",
+          "No photo available.",
+          ""
+        ]
+      ],
+      "markdown": "| Name | Description | Image |\n| --- | --- | --- |\n| Donald Duck | Cartoon character. | [View PNG](https://en.wikipedia.org/wiki/Donald_Duck#/media/File:Donald_Duck_angry_transparent_background.png) |\n| White-headed duck | A small diving duck some 45 cm (18 in) long. | [![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-1920px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg) |\n| Mandarin Duck | Known for its striking plumage. | [View Full‑Size Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mandarin_duck_%28Aix_galericulata%29.jpg/250px-Mandarin_duck_%28Aix_galericulata%29.jpg) |\n| Unknown Duck | No photo available. |  |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Name",
+          "Habitat",
+          "Comment"
+        ],
+        [
+          "Wood Duck",
+          "",
+          "Often seen near ponds."
+        ],
+        [
+          "Mallard",
+          "Ponds, lakes, rivers",
+          "Quack"
+        ],
+        [
+          "Goose (not a duck!)",
+          "Water & wetlands",
+          "**Large**, *loud*, noisy, ~~small~~"
+        ],
+        [
+          "Teal",
+          "PondMarshRiverbank",
+          "Fly south in winterBuild nest on ground"
+        ]
+      ],
+      "markdown": "| Name | Habitat | Comment |\n| --- | --- | --- |\n| Wood Duck |  | Often seen near ponds. |\n| Mallard | Ponds, lakes, rivers | Quack |\n| Goose (not a duck!) | Water & wetlands | **Large**, *loud*, noisy, ~~small~~ |\n| Teal | PondMarshRiverbank | Fly south in winterBuild nest on ground |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Genus",
+          "Species"
+        ],
+        [
+          "Aythya \n(Diving ducks)",
+          "Hawser, Common Pochard"
+        ],
+        [
+          "Lophonetta \n(Pintail group)",
+          "Fulvous Whistling Duck"
+        ],
+        [
+          "Oxyura \n(Benthic ducks)",
+          "Wigee, Banded Water‑screw"
+        ]
+      ],
+      "markdown": "| Genus | Species |\n| --- | --- |\n| Aythya \n(Diving ducks) | Hawser, Common Pochard |\n| Lophonetta \n(Pintail group) | Fulvous Whistling Duck |\n| Oxyura \n(Benthic ducks) | Wigee, Banded Water‑screw |\n",
+      "page_number": 2
+    },
+    {
+      "cells": [
+        [
+          "Type",
+          "Sound"
+        ],
+        [
+          "Short",
+          "“quak”"
+        ],
+        [
+          "Long",
+          "“quaaaaaack”"
+        ]
+      ],
+      "markdown": "| Type | Sound |\n| --- | --- |\n| Short | “quak” |\n| Long | “quaaaaaack” |\n",
+      "page_number": 3
+    },
+    {
+      "cells": [
+        [
+          "Type",
+          "Sound"
+        ],
+        [
+          "Short",
+          "“quak”"
+        ],
+        [
+          "Long",
+          "“quaaaaaack”"
+        ]
+      ],
+      "markdown": "| Type | Sound |\n| --- | --- |\n| Short | “quak” |\n| Long | “quaaaaaack” |\n",
+      "page_number": 4
+    },
+    {
+      "cells": [
+        [
+          "Action",
+          ""
+        ],
+        [
+          "**Swim**",
+          "Gracefully glide on H2O surfaces."
+        ],
+        [
+          "*Fly*",
+          ""
+        ],
+        [
+          "Quack",
+          "| Type | Sound |\n| ----- | ------------ |\n| Short | “quak” |\n| Long | “quaaaaaack” |"
+        ]
+      ],
+      "markdown": "| Action |  |\n| --- | --- |\n| **Swim** | Gracefully glide on H2O surfaces. |\n| *Fly* |  |\n| Quack | | Type | Sound |\n| ----- | ------------ |\n| Short | “quak” |\n| Long | “quaaaaaack” | |\n",
+      "page_number": 5
+    },
+    {
+      "cells": [
+        [
+          "Name",
+          "Description",
+          "Image"
+        ],
+        [
+          "Donald Duck",
+          "Cartoon character.",
+          "[View PNG](https://en.wikipedia.org/wiki/Donald_Duck#/media/File:Donald_Duck_angry_transparent_background.png)"
+        ],
+        [
+          "White-headed duck",
+          "A small diving duck some 45 cm (18 in) long.",
+          "[![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-1920px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)"
+        ],
+        [
+          "Mandarin Duck",
+          "Known for its striking plumage.",
+          "[View Full‑Size Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mandarin_duck_%28Aix_galericulata%29.jpg/250px-Mandarin_duck_%28Aix_galericulata%29.jpg)"
+        ],
+        [
+          "Unknown Duck",
+          "No photo available.",
+          ""
+        ]
+      ],
+      "markdown": "| Name | Description | Image |\n| --- | --- | --- |\n| Donald Duck | Cartoon character. | [View PNG](https://en.wikipedia.org/wiki/Donald_Duck#/media/File:Donald_Duck_angry_transparent_background.png) |\n| White-headed duck | A small diving duck some 45 cm (18 in) long. | [![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-1920px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg) |\n| Mandarin Duck | Known for its striking plumage. | [View Full‑Size Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mandarin_duck_%28Aix_galericulata%29.jpg/250px-Mandarin_duck_%28Aix_galericulata%29.jpg) |\n| Unknown Duck | No photo available. |  |\n",
+      "page_number": 6
+    }
+  ],
+  "content": {
+    "html": "<h1>Rich Table Cells in HTML</h1>\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Habitat</th>\n<th>Comment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Wood Duck</td>\n<td></td>\n<td>Often seen near ponds.</td>\n</tr>\n<tr>\n<td>Mallard</td>\n<td>Ponds, lakes, rivers</td>\n<td>Quack</td>\n</tr>\n<tr>\n<td>Goose (not a duck!)</td>\n<td>Water &amp; wetlands</td>\n<td>**Large**, *loud*, noisy, ~~small~~</td>\n</tr>\n<tr>\n<td>Teal</td>\n<td>PondMarshRiverbank</td>\n<td>Fly south in winterBuild nest on ground</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Genus</th>\n<th>Species</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Aythya (Diving ducks)</td>\n<td>Hawser, Common Pochard</td>\n</tr>\n<tr>\n<td>Lophonetta (Pintail group)</td>\n<td>Fulvous Whistling Duck</td>\n</tr>\n<tr>\n<td>Oxyura (Benthic ducks)</td>\n<td>Wigee, Banded Water‑screw</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Type</th>\n<th>Sound</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Short</td>\n<td>“quak”</td>\n</tr>\n<tr>\n<td>Long</td>\n<td>“quaaaaaack”</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Type</th>\n<th>Sound</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Short</td>\n<td>“quak”</td>\n</tr>\n<tr>\n<td>Long</td>\n<td>“quaaaaaack”</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Action</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>**Swim**</td>\n<td>Gracefully glide on H2O surfaces.</td>\n</tr>\n<tr>\n<td>*Fly*</td>\n<td></td>\n</tr>\n<tr>\n<td>Quack</td>\n<td>| Type | Sound | | ----- | ------------ | | Short | “quak” | | Long | “quaaaaaack” |</td>\n</tr>\n</tbody>\n</table>\n<p>![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)</p>\n<p>![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)</p>\n<p>![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)</p>\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Description</th>\n<th>Image</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Donald Duck</td>\n<td>Cartoon character.</td>\n<td>[View PNG](https://en.wikipedia.org/wiki/Donald_Duck#/media/File:Donald_Duck_angry_transparent_background.png)</td>\n</tr>\n<tr>\n<td>White-headed duck</td>\n<td>A small diving duck some 45 cm (18 in) long.</td>\n<td>[![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-1920px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)</td>\n</tr>\n<tr>\n<td>Mandarin Duck</td>\n<td>Known for its striking plumage.</td>\n<td>[View Full‑Size Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mandarin_duck_%28Aix_galericulata%29.jpg/250px-Mandarin_duck_%28Aix_galericulata%29.jpg)</td>\n</tr>\n<tr>\n<td>Unknown Duck</td>\n<td>No photo available.</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Rich Table Cells in HTML\",\"level\":1,\"body\":[{\"type\":\"table\",\"headers\":[\"Name\",\"Habitat\",\"Comment\"],\"rows\":[[\"Wood Duck\",\"\",\"Often seen near ponds.\"],[\"Mallard\",\"Ponds, lakes, rivers\",\"Quack\"],[\"Goose (not a duck!)\",\"Water & wetlands\",\"**Large**, *loud*, noisy, ~~small~~\"],[\"Teal\",\"PondMarshRiverbank\",\"Fly south in winterBuild nest on ground\"]]},{\"type\":\"table\",\"headers\":[\"Genus\",\"Species\"],\"rows\":[[\"Aythya \\n(Diving ducks)\",\"Hawser, Common Pochard\"],[\"Lophonetta \\n(Pintail group)\",\"Fulvous Whistling Duck\"],[\"Oxyura \\n(Benthic ducks)\",\"Wigee, Banded Water‑screw\"]]},{\"type\":\"table\",\"headers\":[\"Type\",\"Sound\"],\"rows\":[[\"Short\",\"“quak”\"],[\"Long\",\"“quaaaaaack”\"]]},{\"type\":\"table\",\"headers\":[\"Type\",\"Sound\"],\"rows\":[[\"Short\",\"“quak”\"],[\"Long\",\"“quaaaaaack”\"]]},{\"type\":\"table\",\"headers\":[\"Action\",\"\"],\"rows\":[[\"**Swim**\",\"Gracefully glide on H2O surfaces.\"],[\"*Fly*\",\"\"],[\"Quack\",\"| Type | Sound |\\n| ----- | ------------ |\\n| Short | “quak” |\\n| Long | “quaaaaaack” |\"]]},{\"type\":\"paragraph\",\"text\":\"![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)\"},{\"type\":\"paragraph\",\"text\":\"![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)\"},{\"type\":\"paragraph\",\"text\":\"![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)\"},{\"type\":\"table\",\"headers\":[\"Name\",\"Description\",\"Image\"],\"rows\":[[\"Donald Duck\",\"Cartoon character.\",\"[View PNG](https://en.wikipedia.org/wiki/Donald_Duck#/media/File:Donald_Duck_angry_transparent_background.png)\"],[\"White-headed duck\",\"A small diving duck some 45 cm (18 in) long.\",\"[![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-1920px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)\"],[\"Mandarin Duck\",\"Known for its striking plumage.\",\"[View Full‑Size Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mandarin_duck_%28Aix_galericulata%29.jpg/250px-Mandarin_duck_%28Aix_galericulata%29.jpg)\"],[\"Unknown Duck\",\"No photo available.\",\"\"]]}]}]}",
+    "markdown": "---\n\n## title: Rich Table Cells in HTML\n\n# Rich Table Cells in HTML\n\n*Basic duck facts*\n\n| Name                | Habitat              | Comment                                 |\n| ------------------- | -------------------- | --------------------------------------- |\n| Wood Duck           |                      | Often seen near ponds.                  |\n| Mallard             | Ponds, lakes, rivers | Quack                                   |\n| Goose (not a duck!) | Water & wetlands     | **Large**, *loud*, noisy, ~~small~~     |\n| Teal                | PondMarshRiverbank   | Fly south in winterBuild nest on ground |\n\n*Duck family tree (simplified)*\n\n| Genus                        | Species                   |\n| ---------------------------- | ------------------------- |\n| Aythya   (Diving ducks)      | Hawser, Common Pochard    |\n| Lophonetta   (Pintail group) | Fulvous Whistling Duck    |\n| Oxyura   (Benthic ducks)     | Wigee, Banded Water‑screw |\n\n*Duck‑related actions*\n\n| Action   | |\n| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **Swim** | Gracefully glide on H2O surfaces.                                                                                                                                                                        |\n| *Fly*    |                                                                                                                                                                                                          |\n| Quack    | | Type  | Sound        | | ----- | ------------ | | Short | “quak”       | | Long  | “quaaaaaack” |                                                                                                      |\n\n*Famous Ducks with Images*\n\n| Name              | Description                                  | Image                                                                                                                                                                                                    |\n| ----------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| Donald Duck       | Cartoon character.                           | [View PNG](https://en.wikipedia.org/wiki/Donald_Duck#/media/File:Donald_Duck_angry_transparent_background.png)                                                                                           |\n| White-headed duck | A small diving duck some 45 cm (18 in) long. | [![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-1920px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg) |\n| Mandarin Duck     | Known for its striking plumage.              | [View Full‑Size Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mandarin_duck_%28Aix_galericulata%29.jpg/250px-Mandarin_duck_%28Aix_galericulata%29.jpg)                                |\n| Unknown Duck      | No photo available.                          |                                                                                                                                                                                                          |\n",
+    "plain": "  Rich Table Cells in HTML\nName Habitat Comment\nWood Duck  Often seen near ponds.\nMallard Ponds, lakes, rivers Quack\nGoose (not a duck!) Water & wetlands **Large**, *loud*, noisy, ~~small~~\nTeal PondMarshRiverbank Fly south in winterBuild nest on ground\n\nGenus Species\nAythya \n(Diving ducks) Hawser, Common Pochard\nLophonetta \n(Pintail group) Fulvous Whistling Duck\nOxyura \n(Benthic ducks) Wigee, Banded Water‑screw\n\nType Sound\nShort “quak”\nLong “quaaaaaack”\n\nType Sound\nShort “quak”\nLong “quaaaaaack”\n\nAction \n**Swim** Gracefully glide on H2O surfaces.\n*Fly* \nQuack | Type | Sound |\n| ----- | ------------ |\n| Short | “quak” |\n| Long | “quaaaaaack” |\n\n  ![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)\n\n  ![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)\n\n  ![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)\n\nName Description Image\nDonald Duck Cartoon character. [View PNG](https://en.wikipedia.org/wiki/Donald_Duck#/media/File:Donald_Duck_angry_transparent_background.png)\nWhite-headed duck A small diving duck some 45 cm (18 in) long. [![White-headed duck thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-250px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif/lossy-page1-1920px-Witkopeend_-_white-headed_duck_-_Oxyura_leucocephala_3.tif.jpg)\nMandarin Duck Known for its striking plumage. [View Full‑Size Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mandarin_duck_%28Aix_galericulata%29.jpg/250px-Mandarin_duck_%28Aix_galericulata%29.jpg)\nUnknown Duck No photo available."
+  }
+}

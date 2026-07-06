@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/issue-1054-example.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 10,
+      "word_count": 32,
+      "character_count": 274
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/pdf/issue-1054-example.txt",
+      "source_uri": "ground_truth/pdf/issue-1054-example.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Seite 1092 GMBl 2008 Nr. 52</p>\n<p>HERAUSGEBER: Bundesministerium des Innern 11014 Berlin (Postanschrift) Alt-Moabit 101 D, 10559 Berlin (Hausanschrift) Fernruf: 0 18 88/6 81-0 Telefax: 0 18 88/6 81-29 26 e-mail: poststelle@bmi.bund400.de</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Seite 1092                                       GMBl 2008   Nr. 52\"},{\"type\":\"paragraph\",\"text\":\"HERAUSGEBER:\\nBundesministerium des Innern\\n11014 Berlin (Postanschrift)\\nAlt-Moabit 101 D, 10559 Berlin (Hausanschrift)\\nFernruf: 0 18 88/6 81-0\\nTelefax: 0 18 88/6 81-29 26\\ne-mail: poststelle@bmi.bund400.de\"}]}",
+    "markdown": "Seite 1092 GMBl 2008 Nr. 52\n\nHERAUSGEBER: Bundesministerium des Innern 11014 Berlin (Postanschrift) Alt-Moabit 101 D, 10559 Berlin (Hausanschrift) Fernruf: 0 18 88/6 81-0 Telefax: 0 18 88/6 81-29 26 e-mail: poststelle@bmi.bund400.de\n",
+    "plain": "Seite 1092                                       GMBl 2008   Nr. 52\n\nHERAUSGEBER:\nBundesministerium des Innern\n11014 Berlin (Postanschrift)\nAlt-Moabit 101 D, 10559 Berlin (Hausanschrift)\nFernruf: 0 18 88/6 81-0\nTelefax: 0 18 88/6 81-29 26\ne-mail: poststelle@bmi.bund400.de"
+  }
+}

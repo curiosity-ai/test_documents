@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/mixed.md.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 25,
+      "word_count": 85,
+      "character_count": 609
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/md/mixed.md.txt",
+      "final_uri": "ground_truth/md/mixed.md.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Title</p>\n<p>Some text</p>\n<p>## Famous ducks</p>\n<p>Here is a table:</p>\n<p>| Character | Name in German | Name in French | Name in Italian | |----------------|------------------|------------------|-------------------| | Scrooge McDuck | Dagobert Duck | Balthazar Picsou | Paperone | | Huey | Tick | Riri | Qui | | Dewey | Trick | Fifi | Quo | | Louie | Track | Loulou | Qua |</p>\n<p>And here is more HTML:</p>\n<p>Some paragraph.</p>\n<p>Now a div - almost there...</p>\n<p>- foo - bar</p>\n<p>The end!</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Title\"},{\"type\":\"paragraph\",\"text\":\"Some text\"},{\"type\":\"paragraph\",\"text\":\"## Famous ducks\"},{\"type\":\"paragraph\",\"text\":\"Here is a table:\"},{\"type\":\"paragraph\",\"text\":\"| Character      | Name in German   | Name in French   | Name in Italian   |\\n|----------------|------------------|------------------|-------------------|\\n| Scrooge McDuck | Dagobert Duck    | Balthazar Picsou | Paperone          |\\n| Huey           | Tick             | Riri             | Qui               |\\n| Dewey          | Trick            | Fifi             | Quo               |\\n| Louie          | Track            | Loulou           | Qua               |\"},{\"type\":\"paragraph\",\"text\":\"And here is more HTML:\"},{\"type\":\"paragraph\",\"text\":\"Some paragraph.\"},{\"type\":\"paragraph\",\"text\":\"Now a div - almost there...\"},{\"type\":\"paragraph\",\"text\":\"- foo\\n- bar\"},{\"type\":\"paragraph\",\"text\":\"The end!\"}]}",
+    "markdown": "\\# Title\n\nSome text\n\n\\#\\# Famous ducks\n\nHere is a table:\n\n| Character | Name in German | Name in French | Name in Italian | |----------------|------------------|------------------|-------------------| | Scrooge McDuck | Dagobert Duck | Balthazar Picsou | Paperone | | Huey | Tick | Riri | Qui | | Dewey | Trick | Fifi | Quo | | Louie | Track | Loulou | Qua |\n\nAnd here is more HTML:\n\nSome paragraph.\n\nNow a div - almost there...\n\n\\- foo - bar\n\nThe end\\!\n",
+    "plain": "# Title\n\nSome text\n\n## Famous ducks\n\nHere is a table:\n\n| Character      | Name in German   | Name in French   | Name in Italian   |\n|----------------|------------------|------------------|-------------------|\n| Scrooge McDuck | Dagobert Duck    | Balthazar Picsou | Paperone          |\n| Huey           | Tick             | Riri             | Qui               |\n| Dewey          | Trick            | Fifi             | Quo               |\n| Louie          | Track            | Loulou           | Qua               |\n\nAnd here is more HTML:\n\nSome paragraph.\n\nNow a div - almost there...\n\n- foo\n- bar\n\nThe end!"
+  }
+}

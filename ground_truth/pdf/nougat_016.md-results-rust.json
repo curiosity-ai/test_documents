@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pdf/nougat_016.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/pdf/nougat_016.md",
+      "source_uri": "ground_truth/pdf/nougat_016.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Lake Washington Moss Bay Everest</p>\n<p>Lakeview Neighborhood</p>\n<p>Produced by the City of Kirkland. © 2020. The City of Kirkland, all rights reserved. No warranties of any sort, including but not limited to accuracy, fitness or merchantability, accompany this product. Path: M\\IT\\Meds\\Planning\\MerhoodAcc\\Map\\Lakeview.msd</p>\n<p>Phyllis A. Needy</p>\n<ul>\n<li>Houghton Neighborhood Park</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Lake Washington Moss Bay Everest\"},{\"type\":\"image\"},{\"type\":\"paragraph\",\"text\":\"Lakeview Neighborhood\"},{\"type\":\"image\"},{\"type\":\"paragraph\",\"text\":\"Produced by the City of Kirkland. © 2020. The City of Kirkland, all rights reserved. No warranties of any sort, including but not limited to accuracy, fitness or merchantability, accompany this product. Path: M\\\\IT\\\\Meds\\\\Planning\\\\MerhoodAcc\\\\Map\\\\Lakeview.msd\"},{\"type\":\"image\"},{\"type\":\"paragraph\",\"text\":\"Phyllis A. Needy\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Houghton Neighborhood Park\"]}]}",
+    "markdown": "Lake Washington Moss Bay Everest\n\nLakeview Neighborhood\n\nProduced by the City of Kirkland. © 2020. The City of Kirkland, all rights reserved. No warranties of any sort, including but not limited to accuracy, fitness or merchantability, accompany this product. Path: M\\\\IT\\\\Meds\\\\Planning\\\\MerhoodAcc\\\\Map\\\\Lakeview.msd\n\nPhyllis A. Needy\n\n- Houghton Neighborhood Park\n",
+    "plain": "Lake Washington Moss Bay Everest\n\nLakeview Neighborhood\n\nProduced by the City of Kirkland. © 2020. The City of Kirkland, all rights reserved. No warranties of any sort, including but not limited to accuracy, fitness or merchantability, accompany this product. Path: M\\IT\\Meds\\Planning\\MerhoodAcc\\Map\\Lakeview.msd\n\nPhyllis A. Needy\n\nHoughton Neighborhood Park"
+  }
+}

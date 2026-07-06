@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pptx/powerpoint_sample.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 56,
+      "word_count": 109,
+      "character_count": 919
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/pptx/powerpoint_sample.txt",
+      "source_uri": "ground_truth/pptx/powerpoint_sample.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Test Table Slide</p>\n<p>With footnote</p>\n<p>Class1 Class2 ---- ----------------- ------- ------- -------- ------- ------- A merged with B C A B C R1 True False False True True R2 True False R3 False False True True R4 False False True True False False True False True False True False</p>\n<p>Second slide title</p>\n<p>Let’s introduce a list</p>\n<p>With foo</p>\n<p>Bar</p>\n<p>And baz things</p>\n<p>A rectangle shape with this text inside.</p>\n<p>Slide 3</p>\n<p>List item4</p>\n<p>List item5</p>\n<p>List item6</p>\n<p>- I 1 - I2 - I3 - I4</p>\n<p>S ome info:</p>\n<p>- I tem A - Item B</p>\n<p>M aybe a list?</p>\n<p>List1</p>\n<p>List2</p>\n<p>List3</p>\n<p>- l1 - l2 - l3</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test Table Slide\"},{\"type\":\"paragraph\",\"text\":\"With footnote\"},{\"type\":\"paragraph\",\"text\":\"Class1                            Class2           \\n  ---- ----------------- ------- ------- -------- ------- -------\\n       A merged with B           C       A        B       C\\n  R1   True              False           False    True    True\\n  R2                             True    False            \\n  R3   False                                      False   \\n                         True            True             \\n  R4                             False            False   \\n                         True            True     False   False\\n       True              False   True    False    True    False\"},{\"type\":\"paragraph\",\"text\":\"Second slide title\"},{\"type\":\"paragraph\",\"text\":\"Let’s introduce a list\"},{\"type\":\"paragraph\",\"text\":\"With foo\"},{\"type\":\"paragraph\",\"text\":\"Bar\"},{\"type\":\"paragraph\",\"text\":\"And  baz  things\"},{\"type\":\"paragraph\",\"text\":\"A rectangle shape with this text inside.\"},{\"type\":\"paragraph\",\"text\":\"Slide 3\"},{\"type\":\"paragraph\",\"text\":\"List item4\"},{\"type\":\"paragraph\",\"text\":\"List item5\"},{\"type\":\"paragraph\",\"text\":\"List item6\"},{\"type\":\"paragraph\",\"text\":\"- I 1\\n- I2\\n- I3\\n- I4\"},{\"type\":\"paragraph\",\"text\":\"S ome info:\"},{\"type\":\"paragraph\",\"text\":\"- I tem A\\n- Item B\"},{\"type\":\"paragraph\",\"text\":\"M aybe a list?\"},{\"type\":\"paragraph\",\"text\":\"List1\"},{\"type\":\"paragraph\",\"text\":\"List2\"},{\"type\":\"paragraph\",\"text\":\"List3\"},{\"type\":\"paragraph\",\"text\":\"- l1 \\n- l2\\n- l3\"}]}",
+    "markdown": "Test Table Slide\n\nWith footnote\n\nClass1 Class2 ---- ----------------- ------- ------- -------- ------- ------- A merged with B C A B C R1 True False False True True R2 True False R3 False False True True R4 False False True True False False True False True False True False\n\nSecond slide title\n\nLet’s introduce a list\n\nWith foo\n\nBar\n\nAnd baz things\n\nA rectangle shape with this text inside.\n\nSlide 3\n\nList item4\n\nList item5\n\nList item6\n\n\\- I 1 - I2 - I3 - I4\n\nS ome info:\n\n\\- I tem A - Item B\n\nM aybe a list?\n\nList1\n\nList2\n\nList3\n\n\\- l1 - l2 - l3\n",
+    "plain": "Test Table Slide\n\nWith footnote\n\nClass1                            Class2           \n  ---- ----------------- ------- ------- -------- ------- -------\n       A merged with B           C       A        B       C\n  R1   True              False           False    True    True\n  R2                             True    False            \n  R3   False                                      False   \n                         True            True             \n  R4                             False            False   \n                         True            True     False   False\n       True              False   True    False    True    False\n\nSecond slide title\n\nLet’s introduce a list\n\nWith foo\n\nBar\n\nAnd  baz  things\n\nA rectangle shape with this text inside.\n\nSlide 3\n\nList item4\n\nList item5\n\nList item6\n\n- I 1\n- I2\n- I3\n- I4\n\nS ome info:\n\n- I tem A\n- Item B\n\nM aybe a list?\n\nList1\n\nList2\n\nList3\n\n- l1 \n- l2\n- l3"
+  }
+}

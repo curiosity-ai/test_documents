@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/rtf/link.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 1,
+      "character_count": 6
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/rtf/link.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/rtf/link.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>pandoc</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"pandoc\"}]}",
+    "markdown": "pandoc\n",
+    "plain": "pandoc"
+  }
+}

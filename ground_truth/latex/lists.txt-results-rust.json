@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/latex/lists.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 21,
+      "word_count": 42,
+      "character_count": 254
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/latex/lists.txt",
+      "final_uri": "ground_truth/latex/lists.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Lists</p>\n<p>Itemize</p>\n<p>First item Second item Third item with nested list: Nested item 1 Nested item 2 Fourth item</p>\n<p>Enumerate</p>\n<p>First numbered item Second numbered item Third numbered item</p>\n<p>Description</p>\n<p>Term 1 Definition of term 1 Term 2 Definition of term 2</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Lists\"},{\"type\":\"paragraph\",\"text\":\"Itemize\"},{\"type\":\"paragraph\",\"text\":\"First item\\nSecond item\\nThird item with nested list:\\n  Nested item 1\\n  Nested item 2\\nFourth item\"},{\"type\":\"paragraph\",\"text\":\"Enumerate\"},{\"type\":\"paragraph\",\"text\":\"First numbered item\\nSecond numbered item\\nThird numbered item\"},{\"type\":\"paragraph\",\"text\":\"Description\"},{\"type\":\"paragraph\",\"text\":\"Term 1 Definition of term 1\\nTerm 2 Definition of term 2\"}]}",
+    "markdown": "Lists\n\nItemize\n\nFirst item Second item Third item with nested list: Nested item 1 Nested item 2 Fourth item\n\nEnumerate\n\nFirst numbered item Second numbered item Third numbered item\n\nDescription\n\nTerm 1 Definition of term 1 Term 2 Definition of term 2\n",
+    "plain": "Lists\n\nItemize\n\nFirst item\nSecond item\nThird item with nested list:\n  Nested item 1\n  Nested item 2\nFourth item\n\nEnumerate\n\nFirst numbered item\nSecond numbered item\nThird numbered item\n\nDescription\n\nTerm 1 Definition of term 1\nTerm 2 Definition of term 2"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/pdf/pdfa_035.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "MICHAEL TRINSEY",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/pdfa_035.md",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/pdf/pdfa_035.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>© 2003 Laughing Stock This online catalog is for reference only. Usage is obtained by payment of licensing fees.</p>\n<p>MT24</p>\n<p>MT04a</p>\n<h1>MICHAEL TRINSEY</h1>\n<p>Trained as an illustrator but working as an art director, Michael creates his lively, colorful and conceptual illustrations to feel like cut paper... although they are digital. He's an accomplished woodworker, and spends many hours on house projects.</p>\n<p>www.laughing-stock.com</p>\n<p>ph 508-460-6058</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"© 2003 Laughing Stock This online catalog is for reference only. Usage is obtained by payment of licensing fees.\"},{\"type\":\"image\"},{\"type\":\"paragraph\",\"text\":\"MT24\"},{\"type\":\"image\"},{\"type\":\"paragraph\",\"text\":\"MT04a\"},{\"type\":\"section\",\"heading\":\"MICHAEL TRINSEY\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Trained as an illustrator but working as an art director, Michael creates his lively, colorful and conceptual illustrations to feel like cut paper... although they are digital. He's an accomplished woodworker, and spends many hours on house projects.\"},{\"type\":\"image\"},{\"type\":\"image\"},{\"type\":\"paragraph\",\"text\":\"www.laughing-stock.com\"},{\"type\":\"paragraph\",\"text\":\"ph 508-460-6058\"}]}]}",
+    "markdown": "© 2003 Laughing Stock This online catalog is for reference only. Usage is obtained by payment of licensing fees.\n\nMT24\n\nMT04a\n\n# MICHAEL TRINSEY\n\nTrained as an illustrator but working as an art director, Michael creates his lively, colorful and conceptual illustrations to feel like cut paper... although they are digital. He's an accomplished woodworker, and spends many hours on house projects.\n\nwww.laughing-stock.com\n\nph 508-460-6058\n",
+    "plain": "© 2003 Laughing Stock This online catalog is for reference only. Usage is obtained by payment of licensing fees.\n\nMT24\n\nMT04a\n\nMICHAEL TRINSEY\nTrained as an illustrator but working as an art director, Michael creates his lively, colorful and conceptual illustrations to feel like cut paper... although they are digital. He's an accomplished woodworker, and spends many hours on house projects.\n\nwww.laughing-stock.com\n\nph 508-460-6058"
+  }
+}

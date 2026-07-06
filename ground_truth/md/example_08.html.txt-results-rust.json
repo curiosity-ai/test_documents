@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/example_08.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 29,
+      "word_count": 208,
+      "character_count": 1173
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/md/example_08.html.txt",
+      "source_uri": "ground_truth/md/example_08.html.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>## Pivot table with with 1 row header</p>\n<p>| Year | Month | Revenue | Cost | |--------|----------|-----------|--------| | 2025 | January | $134 | $162 | | 2025 | February | $150 | $155 | | 2025 | March | $160 | $143 | | 2025 | April | $210 | $150 | | 2025 | May | $280 | $120 |</p>\n<p>## Pivot table with 2 row headers</p>\n<p>| Year | Quarter | Month | Revenue | Cost | |--------|-----------|----------|-----------|--------| | 2025 | Q1 | January | $134 | $162 | | 2025 | Q1 | February | $150 | $155 | | 2025 | Q1 | March | $160 | $143 | | 2025 | Q2 | April | $210 | $150 | | 2025 | Q2 | May | $280 | $120 |</p>\n<p>## Equivalent pivot table</p>\n<p>| Year | Quarter | Month | Revenue | Cost | |--------|-----------|----------|-----------|--------| | 2025 | Q1 | January | $134 | $162 | | 2025 | Q1 | February | $150 | $155 | | 2025 | Q1 | March | $160 | $143 | | 2025 | Q2 | April | $210 | $150 | | 2025 | Q2 | May | $280 | $120 |</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"## Pivot table with with 1 row header\"},{\"type\":\"paragraph\",\"text\":\"|   Year | Month    | Revenue   | Cost   |\\n|--------|----------|-----------|--------|\\n|   2025 | January  | $134      | $162   |\\n|   2025 | February | $150      | $155   |\\n|   2025 | March    | $160      | $143   |\\n|   2025 | April    | $210      | $150   |\\n|   2025 | May      | $280      | $120   |\"},{\"type\":\"paragraph\",\"text\":\"## Pivot table with 2 row headers\"},{\"type\":\"paragraph\",\"text\":\"|   Year | Quarter   | Month    | Revenue   | Cost   |\\n|--------|-----------|----------|-----------|--------|\\n|   2025 | Q1        | January  | $134      | $162   |\\n|   2025 | Q1        | February | $150      | $155   |\\n|   2025 | Q1        | March    | $160      | $143   |\\n|   2025 | Q2        | April    | $210      | $150   |\\n|   2025 | Q2        | May      | $280      | $120   |\"},{\"type\":\"paragraph\",\"text\":\"## Equivalent pivot table\"},{\"type\":\"paragraph\",\"text\":\"|   Year | Quarter   | Month    | Revenue   | Cost   |\\n|--------|-----------|----------|-----------|--------|\\n|   2025 | Q1        | January  | $134      | $162   |\\n|   2025 | Q1        | February | $150      | $155   |\\n|   2025 | Q1        | March    | $160      | $143   |\\n|   2025 | Q2        | April    | $210      | $150   |\\n|   2025 | Q2        | May      | $280      | $120   |\"}]}",
+    "markdown": "\\#\\# Pivot table with with 1 row header\n\n| Year | Month | Revenue | Cost | |--------|----------|-----------|--------| | 2025 | January | $134 | $162 | | 2025 | February | $150 | $155 | | 2025 | March | $160 | $143 | | 2025 | April | $210 | $150 | | 2025 | May | $280 | $120 |\n\n\\#\\# Pivot table with 2 row headers\n\n| Year | Quarter | Month | Revenue | Cost | |--------|-----------|----------|-----------|--------| | 2025 | Q1 | January | $134 | $162 | | 2025 | Q1 | February | $150 | $155 | | 2025 | Q1 | March | $160 | $143 | | 2025 | Q2 | April | $210 | $150 | | 2025 | Q2 | May | $280 | $120 |\n\n\\#\\# Equivalent pivot table\n\n| Year | Quarter | Month | Revenue | Cost | |--------|-----------|----------|-----------|--------| | 2025 | Q1 | January | $134 | $162 | | 2025 | Q1 | February | $150 | $155 | | 2025 | Q1 | March | $160 | $143 | | 2025 | Q2 | April | $210 | $150 | | 2025 | Q2 | May | $280 | $120 |\n",
+    "plain": "## Pivot table with with 1 row header\n\n|   Year | Month    | Revenue   | Cost   |\n|--------|----------|-----------|--------|\n|   2025 | January  | $134      | $162   |\n|   2025 | February | $150      | $155   |\n|   2025 | March    | $160      | $143   |\n|   2025 | April    | $210      | $150   |\n|   2025 | May      | $280      | $120   |\n\n## Pivot table with 2 row headers\n\n|   Year | Quarter   | Month    | Revenue   | Cost   |\n|--------|-----------|----------|-----------|--------|\n|   2025 | Q1        | January  | $134      | $162   |\n|   2025 | Q1        | February | $150      | $155   |\n|   2025 | Q1        | March    | $160      | $143   |\n|   2025 | Q2        | April    | $210      | $150   |\n|   2025 | Q2        | May      | $280      | $120   |\n\n## Equivalent pivot table\n\n|   Year | Quarter   | Month    | Revenue   | Cost   |\n|--------|-----------|----------|-----------|--------|\n|   2025 | Q1        | January  | $134      | $162   |\n|   2025 | Q1        | February | $150      | $155   |\n|   2025 | Q1        | March    | $160      | $143   |\n|   2025 | Q2        | April    | $210      | $150   |\n|   2025 | Q2        | May      | $280      | $120   |"
+  }
+}

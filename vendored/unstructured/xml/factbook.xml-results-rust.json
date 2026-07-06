@@ -1,0 +1,34 @@
+{
+  "file": "vendored/unstructured/xml/factbook.xml",
+  "mime_type": "application/xml",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "xml",
+      "element_count": 21,
+      "unique_elements": [
+        "capital",
+        "country",
+        "factbook",
+        "leader",
+        "name",
+        "sport"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/unstructured/xml/factbook.xml",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "vendored/unstructured/xml/factbook.xml"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>factbook</h1>\n<h2>country</h2>\n<h3>name</h3>\n<p>United States</p>\n<h3>capital</h3>\n<p>Washington, DC</p>\n<h3>leader</h3>\n<p>Joe Biden</p>\n<h3>sport</h3>\n<p>Baseball</p>\n<h2>country</h2>\n<h3>name</h3>\n<p>Canada</p>\n<h3>capital</h3>\n<p>Ottawa</p>\n<h3>leader</h3>\n<p>Justin Trudeau</p>\n<h3>sport</h3>\n<p>Hockey</p>\n<h2>country</h2>\n<h3>name</h3>\n<p>France</p>\n<h3>capital</h3>\n<p>Paris</p>\n<h3>leader</h3>\n<p>Emmanuel Macron</p>\n<h3>sport</h3>\n<p>Soccer</p>\n<h2>country</h2>\n<h3>name</h3>\n<p>Trinidad</p>\n<p>Tobado</p>\n<h3>capital</h3>\n<p>Port of Spain</p>\n<h3>leader</h3>\n<p>Keith Rowley</p>\n<h3>sport</h3>\n<p>Track</p>\n<p>Field</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"factbook\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"country\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"name\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"United States\"}]},{\"type\":\"section\",\"heading\":\"capital\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Washington, DC\"}]},{\"type\":\"section\",\"heading\":\"leader\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Joe Biden\"}]},{\"type\":\"section\",\"heading\":\"sport\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Baseball\"}]}]},{\"type\":\"section\",\"heading\":\"country\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"name\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Canada\"}]},{\"type\":\"section\",\"heading\":\"capital\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Ottawa\"}]},{\"type\":\"section\",\"heading\":\"leader\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Justin Trudeau\"}]},{\"type\":\"section\",\"heading\":\"sport\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Hockey\"}]}]},{\"type\":\"section\",\"heading\":\"country\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"name\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"France\"}]},{\"type\":\"section\",\"heading\":\"capital\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Paris\"}]},{\"type\":\"section\",\"heading\":\"leader\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Emmanuel Macron\"}]},{\"type\":\"section\",\"heading\":\"sport\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Soccer\"}]}]},{\"type\":\"section\",\"heading\":\"country\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"name\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Trinidad\"},{\"type\":\"paragraph\",\"text\":\"Tobado\"}]},{\"type\":\"section\",\"heading\":\"capital\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Port of Spain\"}]},{\"type\":\"section\",\"heading\":\"leader\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Keith Rowley\"}]},{\"type\":\"section\",\"heading\":\"sport\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Track\"},{\"type\":\"paragraph\",\"text\":\"Field\"}]}]}]}]}",
+    "markdown": "# factbook\n\n## country\n\n### name\n\nUnited States\n\n### capital\n\nWashington, DC\n\n### leader\n\nJoe Biden\n\n### sport\n\nBaseball\n\n## country\n\n### name\n\nCanada\n\n### capital\n\nOttawa\n\n### leader\n\nJustin Trudeau\n\n### sport\n\nHockey\n\n## country\n\n### name\n\nFrance\n\n### capital\n\nParis\n\n### leader\n\nEmmanuel Macron\n\n### sport\n\nSoccer\n\n## country\n\n### name\n\nTrinidad\n\nTobado\n\n### capital\n\nPort of Spain\n\n### leader\n\nKeith Rowley\n\n### sport\n\nTrack\n\nField\n",
+    "plain": "factbook\n  country\n    name\n    United States\n\n    capital\n    Washington, DC\n\n    leader\n    Joe Biden\n\n    sport\n    Baseball\n\n  country\n    name\n    Canada\n\n    capital\n    Ottawa\n\n    leader\n    Justin Trudeau\n\n    sport\n    Hockey\n\n  country\n    name\n    France\n\n    capital\n    Paris\n\n    leader\n    Emmanuel Macron\n\n    sport\n    Soccer\n\n  country\n    name\n    Trinidad\n\n    Tobado\n\n    capital\n    Port of Spain\n\n    leader\n    Keith Rowley\n\n    sport\n    Track\n\n    Field"
+  }
+}

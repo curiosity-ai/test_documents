@@ -1,0 +1,137 @@
+{
+  "file": "vendored/docling/pdf/2305.03393v1-pg9.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2024-08-22T12:54:27Z",
+    "modified_at": "2024-08-22T12:54:27Z",
+    "created_by": "LaTeX with hyperref",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.3",
+      "producer": "macOS Version 14.5 (Build 23F79) Quartz PDFContext",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "extraction_method": "native",
+      "source_kind": "uri",
+      "final_uri": "vendored/docling/pdf/2305.03393v1-pg9.pdf",
+      "source_uri": "vendored/docling/pdf/2305.03393v1-pg9.pdf",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          "OTSL",
+          "0.965",
+          "0.934",
+          "0.955",
+          "0.88"
+        ],
+        [
+          "",
+          "HTML",
+          "0.969",
+          "0.927",
+          "0.955",
+          "0.857"
+        ]
+      ],
+      "markdown": "|  | OTSL | 0.965 | 0.934 | 0.955 | 0.88 |\n| --- | --- | --- | --- | --- | --- |\n|  | HTML | 0.969 | 0.927 | 0.955 | 0.857 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 188.01100158691406,
+        "y0": 401.4010009765625,
+        "x1": 417.1963195800781,
+        "y1": 427.7030029296875
+      }
+    },
+    {
+      "cells": [
+        [
+          "",
+          "OTSL",
+          "0.938",
+          "0.904",
+          "0.927",
+          "0.853"
+        ],
+        [
+          "",
+          "HTML",
+          "0.952",
+          "0.909",
+          "0.938",
+          "0.843"
+        ]
+      ],
+      "markdown": "|  | OTSL | 0.938 | 0.904 | 0.927 | 0.853 |\n| --- | --- | --- | --- | --- | --- |\n|  | HTML | 0.952 | 0.909 | 0.938 | 0.843 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 188.01100158691406,
+        "y0": 375.1000061035156,
+        "x1": 418.7779541015625,
+        "y1": 401.4010009765625
+      }
+    },
+    {
+      "cells": [
+        [
+          "",
+          "OTSL",
+          "0.923",
+          "0.897",
+          "0.915",
+          "0.859"
+        ],
+        [
+          "",
+          "HTML",
+          "0.945",
+          "0.901",
+          "0.931",
+          "0.834"
+        ],
+        [
+          "",
+          "OTSL",
+          "0.952",
+          "0.92",
+          "0.942",
+          "0.857"
+        ],
+        [
+          "",
+          "HTML",
+          "0.944",
+          "0.903",
+          "0.931",
+          "0.824"
+        ]
+      ],
+      "markdown": "|  | OTSL | 0.923 | 0.897 | 0.915 | 0.859 |\n| --- | --- | --- | --- | --- | --- |\n|  | HTML | 0.945 | 0.901 | 0.931 | 0.834 |\n|  | OTSL | 0.952 | 0.92 | 0.942 | 0.857 |\n|  | HTML | 0.944 | 0.903 | 0.931 | 0.824 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 188.01100158691406,
+        "y0": 322.49700927734375,
+        "x1": 418.7779541015625,
+        "y1": 375.1000061035156
+      }
+    }
+  ],
+  "content": {
+    "html": "<p>Optimized Table Tokenization for Table Structure Recognition 9 order to compute the TED score. Inference timing results for all experiments were obtained from the same machine on a single core with AMD EPYC 7763 CPU @2.45 GHz.</p>\n<p>5.1 Hyper Parameter Optimization We have chosen the PubTabNet data set to perform HPO, since it includes a highly diverse set of tables. Also we report TED scores separately for simple and complex tables (tables with cell spans). Results are presented in Table.</p>\n<ol>\n<li>It is evident that with OTSL, our model achieves the same TED score and slightly better mAP scores in comparison to HTML. However OTSL yields a 2x speed up in the inference runtime over HTML.</li>\n</ol>\n<p>Table 1. HPO performed in OTSL and HTML representation on the same transformer-based TableFormer [9] architecture, trained only on PubTabNet [22]. Effects of reducing the # of layers in encoder and decoder stages of the model show that smaller models trained on OTSL perform better, especially in recognizing complex table structures, and maintain a much higher mAP score than the HTML counterpart. # # TEDs mAP Inference Language (0.75) time (secs) enc-layers dec-layers simple complex all 2.73 6 5.39 1.97 4 3.77 1.91 2 3.81 1.22 4 2 5.2 Quantitative Results We picked the model parameter configuration that produced the best prediction quality (enc=6, dec=6, heads=8) with PubTabNet alone, then independently trained and evaluated it on three publicly available data sets: PubTabNet (395k samples), FinTabNet (113k samples) and PubTables-1M (about 1M samples). Performance results are presented in Table.</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>OTSL</th>\n<th>0.965</th>\n<th>0.934</th>\n<th>0.955</th>\n<th>0.88</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>HTML</td>\n<td>0.969</td>\n<td>0.927</td>\n<td>0.955</td>\n<td>0.857</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>OTSL</th>\n<th>0.938</th>\n<th>0.904</th>\n<th>0.927</th>\n<th>0.853</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>HTML</td>\n<td>0.952</td>\n<td>0.909</td>\n<td>0.938</td>\n<td>0.843</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>OTSL</th>\n<th>0.923</th>\n<th>0.897</th>\n<th>0.915</th>\n<th>0.859</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>HTML</td>\n<td>0.945</td>\n<td>0.901</td>\n<td>0.931</td>\n<td>0.834</td>\n</tr>\n<tr>\n<td></td>\n<td>OTSL</td>\n<td>0.952</td>\n<td>0.92</td>\n<td>0.942</td>\n<td>0.857</td>\n</tr>\n<tr>\n<td></td>\n<td>HTML</td>\n<td>0.944</td>\n<td>0.903</td>\n<td>0.931</td>\n<td>0.824</td>\n</tr>\n</tbody>\n</table>\n<ol>\n<li>It is clearly evident that the model trained on OTSL outperforms HTML across the board, keeping high TEDs and mAP scores even on difficult financial tables (FinTabNet) that contain sparse and large tables. Additionally, the results show that OTSL has an advantage over HTML when applied on a bigger data set like PubTables-1M and achieves significantly improved scores. Finally, OTSL achieves faster inference due to fewer decoding steps which is a result of the reduced sequence representation.</li>\n</ol>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Optimized Table Tokenization for Table Structure Recognition  9\"},{\"type\":\"paragraph\",\"text\":\"order to compute the TED score. Inference timing results for all experiments\\nwere obtained from the same machine on a single core with AMD EPYC 7763\\nCPU @2.45 GHz.\"},{\"type\":\"paragraph\",\"text\":\"5.1  Hyper Parameter Optimization\"},{\"type\":\"paragraph\",\"text\":\"We have chosen the PubTabNet  data set to perform  HPO, since it includes  a\\nhighly diverse set of tables. Also we report TED scores separately for simple and\\ncomplex tables (tables with cell spans). Results are presented in Table. 1. It is\\nevident that with OTSL, our model achieves the same TED score and slightly\\nbetter mAP scores in comparison to HTML. However OTSL yields a 2x speed\\nup in the inference runtime over HTML.\"},{\"type\":\"paragraph\",\"text\":\"Table  1. HPO  performed  in  OTSL  and  HTML  representation  on  the  same\\ntransformer-based TableFormer [9] architecture, trained only on PubTabNet [22]. Ef-\\nfects of reducing the # of layers in encoder and decoder stages of the model show that\\nsmaller models trained on OTSL perform better, especially in recognizing complex\\ntable structures, and maintain a much higher mAP score than the HTML counterpart.\"},{\"type\":\"paragraph\",\"text\":\"# # TEDs mAP Inference\\nLanguage\\n(0.75) time (secs)enc-layers dec-layers simple complex all\\nOTSL 0.965 0.934 0.955 0.88 2.73\\n6 6\\nHTML 0.969 0.927 0.955 0.857 5.39\\nOTSL 0.938 0.904 0.927 0.853 1.97\\n4 4\\nHTML 0.952 0.909 0.938 0.843 3.77\\nOTSL 0.923 0.897 0.915 0.859 1.91\\n2 4\\nHTML 0.945 0.901 0.931 0.834 3.81\\nOTSL 0.952 0.92 0.942 0.857 1.22\\n4 2\\nHTML 0.944 0.903 0.931 0.824 2\"},{\"type\":\"paragraph\",\"text\":\"5.2  Quantitative Results\"},{\"type\":\"paragraph\",\"text\":\"We picked the model parameter  conﬁguration  that produced  the best prediction\\nquality (enc=6, dec=6, heads=8) with PubTabNet alone, then independently\\ntrained and evaluated it on three publicly available data sets: PubTabNet (395k\\nsamples), FinTabNet (113k samples) and PubTables-1M (about 1M samples).\\nPerformance results are presented in Table. 2. It is clearly evident that the model\\ntrained on OTSL outperforms HTML across the board, keeping high TEDs and\\nmAP scores even on diﬃcult ﬁnancial tables (FinTabNet) that contain sparse\\nand large tables.\\nAdditionally, the results show that OTSL has an advantage over HTML\\nwhen applied on a bigger data set like PubTables-1M and achieves signiﬁcantly\\nimproved scores. Finally, OTSL achieves faster inference due to fewer decoding\\nsteps which is a result of the reduced sequence representation.\"},{\"type\":\"table\",\"headers\":[\"\",\"OTSL\",\"0.965\",\"0.934\",\"0.955\",\"0.88\"],\"rows\":[[\"\",\"HTML\",\"0.969\",\"0.927\",\"0.955\",\"0.857\"]]},{\"type\":\"table\",\"headers\":[\"\",\"OTSL\",\"0.938\",\"0.904\",\"0.927\",\"0.853\"],\"rows\":[[\"\",\"HTML\",\"0.952\",\"0.909\",\"0.938\",\"0.843\"]]},{\"type\":\"table\",\"headers\":[\"\",\"OTSL\",\"0.923\",\"0.897\",\"0.915\",\"0.859\"],\"rows\":[[\"\",\"HTML\",\"0.945\",\"0.901\",\"0.931\",\"0.834\"],[\"\",\"OTSL\",\"0.952\",\"0.92\",\"0.942\",\"0.857\"],[\"\",\"HTML\",\"0.944\",\"0.903\",\"0.931\",\"0.824\"]]}]}",
+    "markdown": "Optimized Table Tokenization for Table Structure Recognition 9 order to compute the TED score. Inference timing results for all experiments were obtained from the same machine on a single core with AMD EPYC 7763 CPU @2.45 GHz.\n\n5.1 Hyper Parameter Optimization We have chosen the PubTabNet data set to perform HPO, since it includes a highly diverse set of tables. Also we report TED scores separately for simple and complex tables (tables with cell spans). Results are presented in Table.\n\n1. It is evident that with OTSL, our model achieves the same TED score and slightly better mAP scores in comparison to HTML. However OTSL yields a 2x speed up in the inference runtime over HTML.\n\nTable 1. HPO performed in OTSL and HTML representation on the same transformer-based TableFormer [9] architecture, trained only on PubTabNet [22]. Effects of reducing the \\# of layers in encoder and decoder stages of the model show that smaller models trained on OTSL perform better, especially in recognizing complex table structures, and maintain a much higher mAP score than the HTML counterpart. \\# \\# TEDs mAP Inference Language (0.75) time (secs) enc-layers dec-layers simple complex all 2.73 6 5.39 1.97 4 3.77 1.91 2 3.81 1.22 4 2 5.2 Quantitative Results We picked the model parameter configuration that produced the best prediction quality (enc=6, dec=6, heads=8) with PubTabNet alone, then independently trained and evaluated it on three publicly available data sets: PubTabNet (395k samples), FinTabNet (113k samples) and PubTables-1M (about 1M samples). Performance results are presented in Table.\n\n|  | OTSL | 0.965 | 0.934 | 0.955 | 0.88 |\n| --- | --- | --- | --- | --- | --- |\n|  | HTML | 0.969 | 0.927 | 0.955 | 0.857 |\n\n|  | OTSL | 0.938 | 0.904 | 0.927 | 0.853 |\n| --- | --- | --- | --- | --- | --- |\n|  | HTML | 0.952 | 0.909 | 0.938 | 0.843 |\n\n|  | OTSL | 0.923 | 0.897 | 0.915 | 0.859 |\n| --- | --- | --- | --- | --- | --- |\n|  | HTML | 0.945 | 0.901 | 0.931 | 0.834 |\n|  | OTSL | 0.952 | 0.92 | 0.942 | 0.857 |\n|  | HTML | 0.944 | 0.903 | 0.931 | 0.824 |\n\n1. It is clearly evident that the model trained on OTSL outperforms HTML across the board, keeping high TEDs and mAP scores even on difficult financial tables (FinTabNet) that contain sparse and large tables. Additionally, the results show that OTSL has an advantage over HTML when applied on a bigger data set like PubTables-1M and achieves significantly improved scores. Finally, OTSL achieves faster inference due to fewer decoding steps which is a result of the reduced sequence representation.\n",
+    "plain": "Optimized Table Tokenization for Table Structure Recognition  9\n\norder to compute the TED score. Inference timing results for all experiments\nwere obtained from the same machine on a single core with AMD EPYC 7763\nCPU @2.45 GHz.\n\n5.1  Hyper Parameter Optimization\n\nWe have chosen the PubTabNet  data set to perform  HPO, since it includes  a\nhighly diverse set of tables. Also we report TED scores separately for simple and\ncomplex tables (tables with cell spans). Results are presented in Table. 1. It is\nevident that with OTSL, our model achieves the same TED score and slightly\nbetter mAP scores in comparison to HTML. However OTSL yields a 2x speed\nup in the inference runtime over HTML.\n\nTable  1. HPO  performed  in  OTSL  and  HTML  representation  on  the  same\ntransformer-based TableFormer [9] architecture, trained only on PubTabNet [22]. Ef-\nfects of reducing the # of layers in encoder and decoder stages of the model show that\nsmaller models trained on OTSL perform better, especially in recognizing complex\ntable structures, and maintain a much higher mAP score than the HTML counterpart.\n\n# # TEDs mAP Inference\nLanguage\n(0.75) time (secs)enc-layers dec-layers simple complex all\nOTSL 0.965 0.934 0.955 0.88 2.73\n6 6\nHTML 0.969 0.927 0.955 0.857 5.39\nOTSL 0.938 0.904 0.927 0.853 1.97\n4 4\nHTML 0.952 0.909 0.938 0.843 3.77\nOTSL 0.923 0.897 0.915 0.859 1.91\n2 4\nHTML 0.945 0.901 0.931 0.834 3.81\nOTSL 0.952 0.92 0.942 0.857 1.22\n4 2\nHTML 0.944 0.903 0.931 0.824 2\n\n5.2  Quantitative Results\n\nWe picked the model parameter  conﬁguration  that produced  the best prediction\nquality (enc=6, dec=6, heads=8) with PubTabNet alone, then independently\ntrained and evaluated it on three publicly available data sets: PubTabNet (395k\nsamples), FinTabNet (113k samples) and PubTables-1M (about 1M samples).\nPerformance results are presented in Table. 2. It is clearly evident that the model\ntrained on OTSL outperforms HTML across the board, keeping high TEDs and\nmAP scores even on diﬃcult ﬁnancial tables (FinTabNet) that contain sparse\nand large tables.\nAdditionally, the results show that OTSL has an advantage over HTML\nwhen applied on a bigger data set like PubTables-1M and achieves signiﬁcantly\nimproved scores. Finally, OTSL achieves faster inference due to fewer decoding\nsteps which is a result of the reduced sequence representation.\n\n OTSL 0.965 0.934 0.955 0.88\n HTML 0.969 0.927 0.955 0.857\n\n OTSL 0.938 0.904 0.927 0.853\n HTML 0.952 0.909 0.938 0.843\n\n OTSL 0.923 0.897 0.915 0.859\n HTML 0.945 0.901 0.931 0.834\n OTSL 0.952 0.92 0.942 0.857\n HTML 0.944 0.903 0.931 0.824"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "file": "vendored/pdfplumber/pdfs/pr-88-example.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.5",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "extraction_method": "native",
+      "final_uri": "vendored/pdfplumber/pdfs/pr-88-example.pdf",
+      "source_uri": "vendored/pdfplumber/pdfs/pr-88-example.pdf",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Broad Agency Announcement</h1>\n<h2>Media Forensics (MediFor)</h2>\n<h3>DARPA-BAA-15-58 September 29, 2015</h3>\n<p><strong>Defense Advanced Research Projects Agency</strong> Information Innovation Office 675 North Randolph Street Arlington, VA 22203 ‐ 2114</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Broad Agency Announcement\"},{\"type\":\"paragraph\",\"text\":\"Media Forensics (MediFor)\"},{\"type\":\"paragraph\",\"text\":\"DARPA‐BAA‐15‐58\"},{\"type\":\"paragraph\",\"text\":\"September 29, 2015\"},{\"type\":\"paragraph\",\"text\":\"Defense Advanced Research Projects Agency \\nInformation Innovation Office \\n675 North Randolph Street \\nArlington, VA  22203‐2114\"}]}",
+    "markdown": "# Broad Agency Announcement\n\n## Media Forensics (MediFor)\n\n### DARPA-BAA-15-58 September 29, 2015\n\n**Defense Advanced Research Projects Agency** Information Innovation Office 675 North Randolph Street Arlington, VA 22203 ‐ 2114\n",
+    "plain": "Broad Agency Announcement\n\nMedia Forensics (MediFor)\n\nDARPA‐BAA‐15‐58\n\nSeptember 29, 2015\n\nDefense Advanced Research Projects Agency \nInformation Innovation Office \n675 North Randolph Street \nArlington, VA  22203‐2114"
+  }
+}

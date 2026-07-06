@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/rtf/bookmark.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/rtf/bookmark.md",
+      "source_uri": "ground_truth/rtf/bookmark.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Bookmark_1</p>\n<p><a href=\"#bookmark_1\">click me</a></p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Bookmark_1\"},{\"type\":\"paragraph\",\"text\":\"click me\"}]}",
+    "markdown": "Bookmark_1\n\n[click me](#bookmark_1)\n",
+    "plain": "Bookmark_1\n\nclick me"
+  }
+}

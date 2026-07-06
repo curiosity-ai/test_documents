@@ -1,0 +1,125 @@
+{
+  "file": "vendored/pdfplumber/pdfs/issue-1279-example.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "018TheVoiceofGod000.mus",
+    "authors": [
+      "Dan Carter"
+    ],
+    "created_at": "2012-03-16T21:33:52Z",
+    "modified_at": "2016-11-08T07:42:42Z",
+    "created_by": "Finale 2012",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "Adobe Mac PDF Plug-in",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "vendored/pdfplumber/pdfs/issue-1279-example.pdf",
+      "extraction_method": "native",
+      "final_uri": "vendored/pdfplumber/pdfs/issue-1279-example.pdf"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "b",
+          "œ œ j",
+          "œ œ",
+          "œ œ œ",
+          "j œ .",
+          "œ",
+          ""
+        ],
+        [
+          "&",
+          "œ",
+          "œ",
+          "",
+          "œ",
+          "œ ú œ",
+          ""
+        ],
+        [
+          "",
+          "œ œ J",
+          "œ œ",
+          "",
+          "",
+          "œ œn",
+          ". œ œn"
+        ],
+        [
+          "Re",
+          "-joice, ye",
+          "liv-ing",
+          "and ye dead!",
+          "Re-joice,",
+          "for your sal- va",
+          "-tion"
+        ],
+        [
+          "We",
+          "shout ho",
+          "-san-na,",
+          "shout a-gain,",
+          "Till all cre",
+          "-a-tion blend",
+          "-ing"
+        ],
+        [
+          "",
+          "œ œ œ",
+          "œ",
+          "œœ œ",
+          ". œ œ #œ",
+          "œ",
+          ""
+        ],
+        [
+          "?",
+          "œ œ œ",
+          "œ œ",
+          "œ œ œ",
+          "œ œ",
+          "œ œ",
+          "œ. œ"
+        ],
+        [
+          "b",
+          "J",
+          "",
+          "",
+          "J",
+          "œ œ œ",
+          ""
+        ]
+      ],
+      "markdown": "| b | œ œ j | œ œ | œ œ œ | j œ . | œ |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| & | œ | œ |  | œ | œ ú œ |  |\n|  | œ œ J | œ œ |  |  | œ œn | . œ œn |\n| Re | -joice, ye | liv-ing | and ye dead! | Re-joice, | for your sal- va | -tion |\n| We | shout ho | -san-na, | shout a-gain, | Till all cre | -a-tion blend | -ing |\n|  | œ œ œ | œ | œœ œ | . œ œ #œ | œ |  |\n| ? | œ œ œ | œ œ | œ œ œ | œ œ | œ œ | œ. œ |\n| b | J |  |  | J | œ œ œ |  |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 131.0,
+        "y0": 327.0,
+        "x1": 474.0,
+        "y1": 437.0
+      }
+    }
+  ],
+  "content": {
+    "html": "<h2>The Voice of God Again Is Heard</h2>\n<p>Majestically q = 69–80</p>\n<p>⌝</p>\n<h1>j œ œ œ ú œ œ œ . œ</h1>\n<p>⌜</p>\n<h1>œ b œ œ œ &amp; œ</h1>\n<h1>œ. œ œ œ</h1>\n<ol>\n<li>The voice of God a - 2. O mes- sen-gers of</li>\n</ol>\n<p>gain is heard. The truth, go forth, Pro - claim the</p>\n<p>si - lence has been bro - ken. gos - pel sto - ry,</p>\n<p>œ œ œ œ œ ? 4 œ œ b 4 œ b j œ œ œ &amp; œ œ J</p>\n<h1>. œ œ œ œ œ œ J j</h1>\n<h1>. œ œ œ œ nœ œ nœ œ. œ œ œ œ œ œ œ œ œ</h1>\n<h1>j . œ œ . œ œn</h1>\n<h1>œ. œ œ œ</h1>\n<p>The curse of dark-ness is with-drawn. The Lord from heav'n has Go forth the na - tions to pre - pare</p>\n<p>spo - ken. glo -  ry.</p>\n<p>To greet the</p>\n<p>King of</p>\n<h1>œ œ œ œ œ œ ? œ œ b J</h1>\n<h1>j . œ œ œ œ J j œ. œ œ œ . J</h1>\n<h1>œ œ œ œ œ œ œ œ œ œ œ</h1>\n<h1>œ œ œ. ú U</h1>\n<table>\n<thead>\n<tr>\n<th>b</th>\n<th>œ œ j</th>\n<th>œ œ</th>\n<th>œ œ œ</th>\n<th>j œ .</th>\n<th>œ</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>&amp;</td>\n<td>œ</td>\n<td>œ</td>\n<td></td>\n<td>œ</td>\n<td>œ ú œ</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>œ œ J</td>\n<td>œ œ</td>\n<td></td>\n<td></td>\n<td>œ œn</td>\n<td>. œ œn</td>\n</tr>\n<tr>\n<td>Re</td>\n<td>-joice, ye</td>\n<td>liv-ing</td>\n<td>and ye dead!</td>\n<td>Re-joice,</td>\n<td>for your sal- va</td>\n<td>-tion</td>\n</tr>\n<tr>\n<td>We</td>\n<td>shout ho</td>\n<td>-san-na,</td>\n<td>shout a-gain,</td>\n<td>Till all cre</td>\n<td>-a-tion blend</td>\n<td>-ing</td>\n</tr>\n<tr>\n<td></td>\n<td>œ œ œ</td>\n<td>œ</td>\n<td>œœ œ</td>\n<td>. œ œ #œ</td>\n<td>œ</td>\n<td></td>\n</tr>\n<tr>\n<td>?</td>\n<td>œ œ œ</td>\n<td>œ œ</td>\n<td>œ œ œ</td>\n<td>œ œ</td>\n<td>œ œ</td>\n<td>œ. œ</td>\n</tr>\n<tr>\n<td>b</td>\n<td>J</td>\n<td></td>\n<td></td>\n<td>J</td>\n<td>œ œ œ</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>⌜</p>\n<p>⌝</p>\n<h1>œ b j œ œ œ &amp; œ œ J</h1>\n<h1>ú œ œ œ</h1>\n<p>Be - gins a - new this hap - py Shall join in one great, grand</p>\n<p>morn Of a - men Of</p>\n<p>- nal dis - pen an - thems nev - er - end</p>\n<ul>\n<li>sa - tion.</li>\n</ul>\n<p>- ing.</p>\n<h1>œ œ œ œ œ œ ? œ œ b J</h1>\n<h1>j . œ œ œ œ œ 18</h1>\n<h1>œ œ œ œ œ œ</h1>\n<h1>ú œ ú œ u</h1>\n<p>Joseph Smith—History 1:17 Doctrine and Covenants 128:19, 22–23</p>\n<p>Text and music: Evan Stephens, 1854–1930</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"The Voice of God Again Is Heard 18\\nMajestically     q = 69–80\\n⌝\\n&b44⌜œ œœ œœ œœ œœ œ œœ œ.œ. œœj œœ œœ œ œœ úœ œ œ.\\n1. The voice of God a - gain is heard. The si - lence has been bro - ken.\\n2. O mes- sen-gers of truth, go forth, Pro - claim the gos - pel sto - ry,\\n?b 44 œœ œœ œœ œœ œœ œœ œœ œœ.. œœ œœ œœnœœ œœ œœnœœ œœ..\\nJ\\nj\\n&b œj œœ œœ œœ œœ œ œœ œ.œ. œœ œœ œœ œœ œœ œœ.œnœjœ.\\nJ\\nThe curse of dark-ness is with-drawn. The Lord from heav’n has spo -  ken.\\nGo forth the na - tions to pre - pare To greet the King of glo -  ry.\\n?b œœJ œœ œœ œœ œœ œœ œœ œœ.. œJj œœ œœ œœ œœ œú œ œ.œ.\\n&bœj œœœœœœœœœœœ œœ œœ œœ.. œœj œœ œœ œœ œœn úœ œnœ.\\nJ\\nRe - joice, ye liv - ing and ye dead! Re - joice, for your sal -  va - tion\\nWe shout ho - san - na, shout a - gain, Till all cre - a - tion blend - ing\\n?bœœJ œœ œœ œœ œœ œœ œœœœœ.. œœJ œ #œœ œ œœ œœ œœ œœ œ.œ.\\n⌜ U⌝\\n&b œJj œœ œœ œœ œœ œ œœ œ.œ. œJj œœœœœœœ œœ úœœ œ\\nBe -  gins a - new this hap - py morn Of -  nal dis - pen - sa - tion.\\nShall join in one great, grand a - men Of an - thems nev - er - end - ing.\\n?b œœJ œœ œœ œœ œœ œœ œœ œœ.. œœj œœ œœ œœ œœ úú œœ\\nu\\nText and music: Evan Stephens, 1854–1930 Joseph Smith—History 1:17\\nDoctrine and Covenants 128:19, 22–23\"},{\"type\":\"table\",\"headers\":[\"b\",\"œ œ j\",\"œ œ\",\"œ œ œ\",\"j œ .\",\"œ\",\"\"],\"rows\":[[\"&\",\"œ\",\"œ\",\"\",\"œ\",\"œ ú œ\",\"\"],[\"\",\"œ œ J\",\"œ œ\",\"\",\"\",\"œ œn\",\". œ œn\"],[\"Re\",\"-joice, ye\",\"liv-ing\",\"and ye dead!\",\"Re-joice,\",\"for your sal- va\",\"-tion\"],[\"We\",\"shout ho\",\"-san-na,\",\"shout a-gain,\",\"Till all cre\",\"-a-tion blend\",\"-ing\"],[\"\",\"œ œ œ\",\"œ\",\"œœ œ\",\". œ œ #œ\",\"œ\",\"\"],[\"?\",\"œ œ œ\",\"œ œ\",\"œ œ œ\",\"œ œ\",\"œ œ\",\"œ. œ\"],[\"b\",\"J\",\"\",\"\",\"J\",\"œ œ œ\",\"\"]]}]}",
+    "markdown": "## The Voice of God Again Is Heard\n\nMajestically q = 69–80\n\n⌝\n\n# j œ œ œ ú œ œ œ . œ\n\n⌜\n\n# œ b œ œ œ & œ\n\n# œ. œ œ œ\n\n1. The voice of God a - 2. O mes- sen-gers of\n\ngain is heard. The truth, go forth, Pro - claim the\n\nsi - lence has been bro - ken. gos - pel sto - ry,\n\nœ œ œ œ œ ? 4 œ œ b 4 œ b j œ œ œ & œ œ J\n\n# . œ œ œ œ œ œ J j\n\n# . œ œ œ œ nœ œ nœ œ. œ œ œ œ œ œ œ œ œ\n\n# j . œ œ . œ œn\n\n# œ. œ œ œ\n\nThe curse of dark-ness is with-drawn. The Lord from heav'n has Go forth the na - tions to pre - pare\n\nspo - ken. glo -  ry.\n\nTo greet the\n\nKing of\n\n# œ œ œ œ œ œ ? œ œ b J\n\n# j . œ œ œ œ J j œ. œ œ œ . J\n\n# œ œ œ œ œ œ œ œ œ œ œ\n\n# œ œ œ. ú U\n\n| b | œ œ j | œ œ | œ œ œ | j œ . | œ |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| & | œ | œ |  | œ | œ ú œ |  |\n|  | œ œ J | œ œ |  |  | œ œn | . œ œn |\n| Re | -joice, ye | liv-ing | and ye dead\\! | Re-joice, | for your sal- va | -tion |\n| We | shout ho | -san-na, | shout a-gain, | Till all cre | -a-tion blend | -ing |\n|  | œ œ œ | œ | œœ œ | . œ œ \\#œ | œ |  |\n| ? | œ œ œ | œ œ | œ œ œ | œ œ | œ œ | œ. œ |\n| b | J |  |  | J | œ œ œ |  |\n\n⌜\n\n⌝\n\n# œ b j œ œ œ & œ œ J\n\n# ú œ œ œ\n\nBe - gins a - new this hap - py Shall join in one great, grand\n\nmorn Of a - men Of\n\n\\- nal dis - pen an - thems nev - er - end\n\n- sa - tion.\n\n\\- ing.\n\n# œ œ œ œ œ œ ? œ œ b J\n\n# j . œ œ œ œ œ 18\n\n# œ œ œ œ œ œ\n\n# ú œ ú œ u\n\nJoseph Smith—History 1:17 Doctrine and Covenants 128:19, 22–23\n\nText and music: Evan Stephens, 1854–1930\n",
+    "plain": "The Voice of God Again Is Heard 18\nMajestically     q = 69–80\n⌝\n&b44⌜œ œœ œœ œœ œœ œ œœ œ.œ. œœj œœ œœ œ œœ úœ œ œ.\n1. The voice of God a - gain is heard. The si - lence has been bro - ken.\n2. O mes- sen-gers of truth, go forth, Pro - claim the gos - pel sto - ry,\n?b 44 œœ œœ œœ œœ œœ œœ œœ œœ.. œœ œœ œœnœœ œœ œœnœœ œœ..\nJ\nj\n&b œj œœ œœ œœ œœ œ œœ œ.œ. œœ œœ œœ œœ œœ œœ.œnœjœ.\nJ\nThe curse of dark-ness is with-drawn. The Lord from heav’n has spo -  ken.\nGo forth the na - tions to pre - pare To greet the King of glo -  ry.\n?b œœJ œœ œœ œœ œœ œœ œœ œœ.. œJj œœ œœ œœ œœ œú œ œ.œ.\n&bœj œœœœœœœœœœœ œœ œœ œœ.. œœj œœ œœ œœ œœn úœ œnœ.\nJ\nRe - joice, ye liv - ing and ye dead! Re - joice, for your sal -  va - tion\nWe shout ho - san - na, shout a - gain, Till all cre - a - tion blend - ing\n?bœœJ œœ œœ œœ œœ œœ œœœœœ.. œœJ œ #œœ œ œœ œœ œœ œœ œ.œ.\n⌜ U⌝\n&b œJj œœ œœ œœ œœ œ œœ œ.œ. œJj œœœœœœœ œœ úœœ œ\nBe -  gins a - new this hap - py morn Of -  nal dis - pen - sa - tion.\nShall join in one great, grand a - men Of an - thems nev - er - end - ing.\n?b œœJ œœ œœ œœ œœ œœ œœ œœ.. œœj œœ œœ œœ œœ úú œœ\nu\nText and music: Evan Stephens, 1854–1930 Joseph Smith—History 1:17\nDoctrine and Covenants 128:19, 22–23\n\nb œ œ j œ œ œ œ œ j œ . œ \n& œ œ  œ œ ú œ \n œ œ J œ œ   œ œn . œ œn\nRe -joice, ye liv-ing and ye dead! Re-joice, for your sal- va -tion\nWe shout ho -san-na, shout a-gain, Till all cre -a-tion blend -ing\n œ œ œ œ œœ œ . œ œ #œ œ \n? œ œ œ œ œ œ œ œ œ œ œ œ œ. œ\nb J   J œ œ œ"
+  }
+}

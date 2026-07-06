@@ -1,0 +1,40 @@
+{
+  "file": "vendored/unstructured/eml/email-inline-content-disposition.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Testing Inline",
+    "format": {
+      "format_type": "email",
+      "from_email": "testuser@example.com",
+      "to_emails": [
+        "recipient@example.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "message_id": "CAPgCCDEzLVJ-d1OCX_TjFgJU7ugtQrjFybPtAMmmYZzphxNFYg@mail.example.com",
+      "attachments": [
+        "t.txt"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "x_mailer": "Claws Mail 4.1.1 (GTK 3.24.34; x86_64-pc-linux-gnu)",
+      "content_type": "multipart/mixed; boundary=\"MP_/pqqQE0ldE7RYQcFW3Kd0aQV\"",
+      "source_uri": "vendored/unstructured/eml/email-inline-content-disposition.eml",
+      "attachment_details": "t.txt|text/plain|5",
+      "mime_version": "1.0",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "vendored/unstructured/eml/email-inline-content-disposition.eml"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Testing Inline</p>\n<p><strong>From</strong>: testuser@example.com</p>\n<p><strong>To</strong>: recipient@example.com</p>\n<p>This is a test of inline</p>\n<p>Attachments:</p>\n<p> t.txt (5B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a test of inline\"},{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  t.txt (5B)\"}]}",
+    "markdown": "**Subject**: Testing Inline\n\n**From**: testuser@example.com\n\n**To**: recipient@example.com\n\nThis is a test of inline\n\nAttachments:\n\n t.txt (5B)\n",
+    "plain": "Subject: Testing Inline\nFrom: testuser@example.com\nTo: recipient@example.com\n\nThis is a test of inline\n\nAttachments:\n\n  t.txt (5B)"
+  }
+}

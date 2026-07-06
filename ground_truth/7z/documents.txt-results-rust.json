@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/7z/documents.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 14,
+      "word_count": 26,
+      "character_count": 212
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/7z/documents.txt",
+      "final_uri": "ground_truth/7z/documents.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>7Z Archive (2 files, 30 bytes)</p>\n<p>Files: - text/multilingual.txt (13 bytes) - text/simple.txt (17 bytes)</p>\n<p>Text File Contents:</p>\n<p>=== text/multilingual.txt === fake_text.txt</p>\n<p>=== text/simple.txt === contract_test.txt</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"7Z Archive (2 files, 30 bytes)\"},{\"type\":\"paragraph\",\"text\":\"Files:\\n- text/multilingual.txt (13 bytes)\\n- text/simple.txt (17 bytes)\"},{\"type\":\"paragraph\",\"text\":\"Text File Contents:\"},{\"type\":\"paragraph\",\"text\":\"=== text/multilingual.txt ===\\nfake_text.txt\"},{\"type\":\"paragraph\",\"text\":\"=== text/simple.txt ===\\ncontract_test.txt\"}]}",
+    "markdown": "7Z Archive (2 files, 30 bytes)\n\nFiles: - text/multilingual.txt (13 bytes) - text/simple.txt (17 bytes)\n\nText File Contents:\n\n=== text/multilingual.txt === fake_text.txt\n\n=== text/simple.txt === contract_test.txt\n",
+    "plain": "7Z Archive (2 files, 30 bytes)\n\nFiles:\n- text/multilingual.txt (13 bytes)\n- text/simple.txt (17 bytes)\n\nText File Contents:\n\n=== text/multilingual.txt ===\nfake_text.txt\n\n=== text/simple.txt ===\ncontract_test.txt"
+  }
+}

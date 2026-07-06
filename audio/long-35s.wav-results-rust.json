@@ -1,0 +1,12 @@
+{
+  "file": "audio/long-35s.wav",
+  "mime_type": "audio/wav",
+  "success": false,
+  "error": "Unsupported format: audio/wav",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

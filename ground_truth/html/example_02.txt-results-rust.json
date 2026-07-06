@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/example_02.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 13,
+      "word_count": 38,
+      "character_count": 237
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/html/example_02.txt",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/html/example_02.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Introduction</p>\n<p>This is the first paragraph of the introduction.</p>\n<p>Background</p>\n<p>Some background information here.</p>\n<p>- First item in unordered list - Second item in unordered list</p>\n<p>1. First item in ordered list 2. Second item in ordered list</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Introduction\"},{\"type\":\"paragraph\",\"text\":\"This is the first paragraph of the introduction.\"},{\"type\":\"paragraph\",\"text\":\"Background\"},{\"type\":\"paragraph\",\"text\":\"Some background information here.\"},{\"type\":\"paragraph\",\"text\":\"- First item in unordered list\\n- Second item in unordered list\"},{\"type\":\"paragraph\",\"text\":\"1.  First item in ordered list\\n2.  Second item in ordered list\"}]}",
+    "markdown": "Introduction\n\nThis is the first paragraph of the introduction.\n\nBackground\n\nSome background information here.\n\n\\- First item in unordered list - Second item in unordered list\n\n1\\. First item in ordered list 2. Second item in ordered list\n",
+    "plain": "Introduction\n\nThis is the first paragraph of the introduction.\n\nBackground\n\nSome background information here.\n\n- First item in unordered list\n- Second item in unordered list\n\n1.  First item in ordered list\n2.  Second item in ordered list"
+  }
+}

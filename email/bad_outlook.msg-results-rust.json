@@ -1,0 +1,12 @@
+{
+  "file": "email/bad_outlook.msg",
+  "mime_type": "application/vnd.ms-outlook",
+  "success": false,
+  "error": "Parsing error: Failed to parse MSG file: Invalid CFB file (12 bytes is too small)",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/docx/word_image_anchors.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 10,
+      "word_count": 22,
+      "character_count": 121
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/docx/word_image_anchors.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/docx/word_image_anchors.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Transcript</p>\n<p>February 20, 2025, 8:32PM</p>\n<p>[][] This is test 1 0:08 Correct, he is not.</p>\n<p>[]This is test 2 0:16 Yeah, exactly.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Transcript\"},{\"type\":\"paragraph\",\"text\":\"February 20, 2025, 8:32PM\"},{\"type\":\"paragraph\",\"text\":\"[][]\\nThis is test 1 0:08\\nCorrect, he is not.\"},{\"type\":\"paragraph\",\"text\":\"[]This is test 2 0:16\\nYeah, exactly.\"}]}",
+    "markdown": "Transcript\n\nFebruary 20, 2025, 8:32PM\n\n[][] This is test 1 0:08 Correct, he is not.\n\n[]This is test 2 0:16 Yeah, exactly.\n",
+    "plain": "Transcript\n\nFebruary 20, 2025, 8:32PM\n\n[][]\nThis is test 1 0:08\nCorrect, he is not.\n\n[]This is test 2 0:16\nYeah, exactly."
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "file": "docx/unit_test_headers.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Peter Staar"
+    ],
+    "created_at": "2024-09-26T08:01:00Z",
+    "modified_at": "2024-09-26T08:05:00Z",
+    "created_by": "Peter Staar",
+    "modified_by": "Peter Staar",
+    "pages": {
+      "total_count": 2,
+      "unit_type": "page",
+      "boundaries": [
+        {
+          "byte_start": 0,
+          "byte_end": 242,
+          "page_number": 1
+        },
+        {
+          "byte_start": 243,
+          "byte_end": 343,
+          "page_number": 2
+        }
+      ],
+      "pages": [
+        {
+          "number": 1
+        },
+        {
+          "number": 2
+        }
+      ]
+    },
+    "format": {
+      "format_type": "docx",
+      "core_properties": {
+        "title": null,
+        "subject": null,
+        "creator": "Peter Staar",
+        "keywords": null,
+        "description": null,
+        "last_modified_by": "Peter Staar",
+        "revision": "1",
+        "created": "2024-09-26T08:01:00Z",
+        "modified": "2024-09-26T08:05:00Z",
+        "category": null,
+        "content_status": null,
+        "language": null,
+        "identifier": null,
+        "version": null,
+        "last_printed": null
+      },
+      "app_properties": {
+        "application": "Microsoft Office Word",
+        "app_version": "16.0000",
+        "template": "Normal.dotm",
+        "total_time": 4,
+        "pages": 2,
+        "words": 51,
+        "characters": 295,
+        "characters_with_spaces": 345,
+        "lines": 2,
+        "paragraphs": 1,
+        "company": null,
+        "doc_security": 0,
+        "scale_crop": false,
+        "links_up_to_date": false,
+        "shared_doc": false,
+        "hyperlinks_changed": false
+      },
+      "custom_properties": {}
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "docx/unit_test_headers.docx",
+      "revision": "1",
+      "word_count": 51,
+      "final_uri": "docx/unit_test_headers.docx",
+      "line_count": 2,
+      "template": "Normal.dotm",
+      "character_count": 295,
+      "paragraph_count": 1,
+      "application": "Microsoft Office Word",
+      "page_count": 2,
+      "source_kind": "uri",
+      "total_editing_time_minutes": 4,
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Test Document</h1>\n<h1>Section 1</h1>\n<p>Paragraph 1.1</p>\n<p>Paragraph 1.2</p>\n<h2>Section 1.1</h2>\n<p>Paragraph 1.1.1</p>\n<p>Paragraph 1.1.2</p>\n<h2>Section 1.2</h2>\n<p>Paragraph 1.1.1</p>\n<p>Paragraph 1.1.2</p>\n<h3>Section 1.2.3</h3>\n<p>Paragraph 1.2.3.1</p>\n<p>Paragraph 1.2.3.1</p>\n<h1>Section 2</h1>\n<p>Paragraph 2.1</p>\n<p>Paragraph 2.2</p>\n<h3>Section 2.1.1</h3>\n<p>Paragraph 2.1.1.1</p>\n<p>Paragraph 2.1.1.1</p>\n<h2>Section 2.1</h2>\n<p>Paragraph 2.1.1</p>\n<p>Paragraph 2.1.2</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Test Document\",\"level\":1,\"body\":[]},{\"type\":\"section\",\"heading\":\"Section 1\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.2\"},{\"type\":\"section\",\"heading\":\"Section 1.1\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1.2\"}]},{\"type\":\"section\",\"heading\":\"Section 1.2\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1.2\"},{\"type\":\"section\",\"heading\":\"Section 1.2.3\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Paragraph 1.2.3.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.2.3.1\"}]}]}]},{\"type\":\"section\",\"heading\":\"Section 2\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.2\"},{\"type\":\"section\",\"heading\":\"Section 2.1.1\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1.1.1\"}]},{\"type\":\"section\",\"heading\":\"Section 2.1\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1.2\"}]}]}]}",
+    "markdown": "# Test Document\n\n# Section 1\n\nParagraph 1.1\n\nParagraph 1.2\n\n## Section 1.1\n\nParagraph 1.1.1\n\nParagraph 1.1.2\n\n## Section 1.2\n\nParagraph 1.1.1\n\nParagraph 1.1.2\n\n### Section 1.2.3\n\nParagraph 1.2.3.1\n\nParagraph 1.2.3.1\n\n# Section 2\n\nParagraph 2.1\n\nParagraph 2.2\n\n### Section 2.1.1\n\nParagraph 2.1.1.1\n\nParagraph 2.1.1.1\n\n## Section 2.1\n\nParagraph 2.1.1\n\nParagraph 2.1.2\n",
+    "plain": "Test Document\n\nSection 1\nParagraph 1.1\n\nParagraph 1.2\n\n  Section 1.1\nParagraph 1.1.1\n\nParagraph 1.1.2\n\n  Section 1.2\nParagraph 1.1.1\n\nParagraph 1.1.2\n\n    Section 1.2.3\nParagraph 1.2.3.1\n\nParagraph 1.2.3.1\n\nSection 2\nParagraph 2.1\n\nParagraph 2.2\n\n    Section 2.1.1\nParagraph 2.1.1.1\n\nParagraph 2.1.1.1\n\n  Section 2.1\nParagraph 2.1.1\n\nParagraph 2.1.2"
+  }
+}

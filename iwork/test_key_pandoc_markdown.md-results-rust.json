@@ -1,0 +1,22 @@
+{
+  "file": "iwork/test_key_pandoc_markdown.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "iwork/test_key_pandoc_markdown.md",
+      "final_uri": "iwork/test_key_pandoc_markdown.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "",
+    "json": "{\"body\":[]}",
+    "markdown": "",
+    "plain": ""
+  }
+}

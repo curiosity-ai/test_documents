@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/html/hyperlink_01.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Something",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/html/hyperlink_01.md",
+      "source_uri": "ground_truth/html/hyperlink_01.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Something</h1>\n<p>Please follow the link to: <a href=\"#\"> This page</a> .</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Something\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Please follow the link to:  This page .\"}]}]}",
+    "markdown": "# Something\n\nPlease follow the link to: [ This page](#) .\n",
+    "plain": "Something\nPlease follow the link to:  This page ."
+  }
+}

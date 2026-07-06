@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pptx/powerpoint_bad_text.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pptx/powerpoint_bad_text.md",
+      "final_uri": "ground_truth/pptx/powerpoint_bad_text.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>X-Library The fully customisable and copyright- free standard content template collection exclusively for our customers</h2>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"X-Library The fully customisable and copyright- free standard content template collection exclusively for our customers\",\"level\":2,\"body\":[]}]}",
+    "markdown": "## X-Library The fully customisable and copyright- free standard content template collection exclusively for our customers\n",
+    "plain": "  X-Library The fully customisable and copyright- free standard content template collection exclusively for our customers"
+  }
+}

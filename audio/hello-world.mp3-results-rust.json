@@ -1,0 +1,12 @@
+{
+  "file": "audio/hello-world.mp3",
+  "mime_type": "audio/mpeg",
+  "success": false,
+  "error": "Unsupported format: audio/mpeg",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

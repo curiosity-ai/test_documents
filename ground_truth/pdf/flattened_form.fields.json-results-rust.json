@@ -1,0 +1,25 @@
+{
+  "file": "ground_truth/pdf/flattened_form.fields.json",
+  "mime_type": "application/json",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "name": "Jane Doe",
+      "final_uri": "ground_truth/pdf/flattened_form.fields.json",
+      "source_index": 0,
+      "source_kind": "uri",
+      "data_format": "json",
+      "field_count": 1,
+      "source_uri": "ground_truth/pdf/flattened_form.fields.json"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>name: Jane Doe</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"name: Jane Doe\"}]}",
+    "markdown": "name: Jane Doe\n",
+    "plain": "name: Jane Doe"
+  }
+}

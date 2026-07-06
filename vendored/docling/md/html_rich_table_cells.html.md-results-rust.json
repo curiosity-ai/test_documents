@@ -1,0 +1,108 @@
+{
+  "file": "vendored/docling/md/html_rich_table_cells.html.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Rich Table Cells in HTML",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "vendored/docling/md/html_rich_table_cells.html.md",
+      "source_uri": "vendored/docling/md/html_rich_table_cells.html.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Name",
+          "Habitat",
+          "Comment"
+        ],
+        [
+          "Wood Duck",
+          "",
+          "Often seen near ponds."
+        ],
+        [
+          "Mallard",
+          "Ponds, lakes, rivers",
+          "Quack"
+        ],
+        [
+          "Goose (not a duck!)",
+          "Water & wetlands",
+          "Large , loud , noisy , small"
+        ],
+        [
+          "Teal",
+          "- Pond - Marsh - Riverbank",
+          "1. Fly south in winter 2. Build nest on ground"
+        ]
+      ],
+      "markdown": "| Name | Habitat | Comment |\n| --- | --- | --- |\n| Wood Duck |  | Often seen near ponds. |\n| Mallard | Ponds, lakes, rivers | Quack |\n| Goose (not a duck!) | Water & wetlands | Large , loud , noisy , small |\n| Teal | - Pond - Marsh - Riverbank | 1. Fly south in winter 2. Build nest on ground |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Genus",
+          "Species"
+        ],
+        [
+          "Aythya (Diving ducks)",
+          "Hawser, Common Pochard"
+        ],
+        [
+          "Lophonetta (Pintail group)",
+          "Fulvous Whistling Duck"
+        ],
+        [
+          "Oxyura (Benthic ducks)",
+          "Wigee, Banded Water-screw"
+        ]
+      ],
+      "markdown": "| Genus | Species |\n| --- | --- |\n| Aythya (Diving ducks) | Hawser, Common Pochard |\n| Lophonetta (Pintail group) | Fulvous Whistling Duck |\n| Oxyura (Benthic ducks) | Wigee, Banded Water-screw |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Name",
+          "Description",
+          "Image"
+        ],
+        [
+          "Donald Duck",
+          "Cartoon character.",
+          "View PNG"
+        ],
+        [
+          "White-headed duck",
+          "A small diving duck some 45 cm (18 in) long.",
+          "White-headed duck thumbnail"
+        ],
+        [
+          "Mandarin Duck",
+          "Known for its striking plumage.",
+          "View Full-Size Image"
+        ],
+        [
+          "Unknown Duck",
+          "No photo available.",
+          ""
+        ]
+      ],
+      "markdown": "| Name | Description | Image |\n| --- | --- | --- |\n| Donald Duck | Cartoon character. | View PNG |\n| White-headed duck | A small diving duck some 45 cm (18 in) long. | White-headed duck thumbnail |\n| Mandarin Duck | Known for its striking plumage. | View Full-Size Image |\n| Unknown Duck | No photo available. |  |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Rich Table Cells in HTML</h1>\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Habitat</th>\n<th>Comment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Wood Duck</td>\n<td></td>\n<td>Often seen near ponds.</td>\n</tr>\n<tr>\n<td>Mallard</td>\n<td>Ponds, lakes, rivers</td>\n<td>Quack</td>\n</tr>\n<tr>\n<td>Goose (not a duck!)</td>\n<td>Water &amp; wetlands</td>\n<td>Large , loud , noisy , small</td>\n</tr>\n<tr>\n<td>Teal</td>\n<td>- Pond - Marsh - Riverbank</td>\n<td>1. Fly south in winter 2. Build nest on ground</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Genus</th>\n<th>Species</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Aythya (Diving ducks)</td>\n<td>Hawser, Common Pochard</td>\n</tr>\n<tr>\n<td>Lophonetta (Pintail group)</td>\n<td>Fulvous Whistling Duck</td>\n</tr>\n<tr>\n<td>Oxyura (Benthic ducks)</td>\n<td>Wigee, Banded Water-screw</td>\n</tr>\n</tbody>\n</table>\n<p>| Action | Action | | -------- | ----------------------------------- | ---- | ----- | --- | -------- | -------------- | --- | ----- | ------ | --- | ---- | ------------ | --- | | <strong>Swim</strong> | Gracefully glide on H 2 O surfaces. | | <em>Fly</em> | | | Quack | | Type | Sound | | -------- | -------------- | | Short | &quot;quak&quot; | | Long | &quot;quaaaaaack&quot; | |</p>\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Description</th>\n<th>Image</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Donald Duck</td>\n<td>Cartoon character.</td>\n<td>View PNG</td>\n</tr>\n<tr>\n<td>White-headed duck</td>\n<td>A small diving duck some 45 cm (18 in) long.</td>\n<td>White-headed duck thumbnail</td>\n</tr>\n<tr>\n<td>Mandarin Duck</td>\n<td>Known for its striking plumage.</td>\n<td>View Full-Size Image</td>\n</tr>\n<tr>\n<td>Unknown Duck</td>\n<td>No photo available.</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Rich Table Cells in HTML\",\"level\":1,\"body\":[{\"type\":\"table\",\"headers\":[\"Name\",\"Habitat\",\"Comment\"],\"rows\":[[\"Wood Duck\",\"\",\"Often seen near ponds.\"],[\"Mallard\",\"Ponds, lakes, rivers\",\"Quack\"],[\"Goose (not a duck!)\",\"Water & wetlands\",\"Large , loud , noisy , small\"],[\"Teal\",\"- Pond - Marsh - Riverbank\",\"1. Fly south in winter 2. Build nest on ground\"]]},{\"type\":\"table\",\"headers\":[\"Genus\",\"Species\"],\"rows\":[[\"Aythya (Diving ducks)\",\"Hawser, Common Pochard\"],[\"Lophonetta (Pintail group)\",\"Fulvous Whistling Duck\"],[\"Oxyura (Benthic ducks)\",\"Wigee, Banded Water-screw\"]]},{\"type\":\"paragraph\",\"text\":\"| Action   | Action                              | | -------- | ----------------------------------- | ---- | ----- | --- | -------- | -------------- | --- | ----- | ------ | --- | ---- | ------------ | --- | | Swim | Gracefully glide on H 2 O surfaces. | | Fly    |                                     | | Quack    |                                     | Type | Sound |     | -------- | -------------- |     | Short | \\\"quak\\\" |     | Long | \\\"quaaaaaack\\\" |     |\"},{\"type\":\"table\",\"headers\":[\"Name\",\"Description\",\"Image\"],\"rows\":[[\"Donald Duck\",\"Cartoon character.\",\"View PNG\"],[\"White-headed duck\",\"A small diving duck some 45 cm (18 in) long.\",\"White-headed duck thumbnail\"],[\"Mandarin Duck\",\"Known for its striking plumage.\",\"View Full-Size Image\"],[\"Unknown Duck\",\"No photo available.\",\"\"]]}]}]}",
+    "markdown": "# Rich Table Cells in HTML\n\n| Name | Habitat | Comment |\n| --- | --- | --- |\n| Wood Duck |  | Often seen near ponds. |\n| Mallard | Ponds, lakes, rivers | Quack |\n| Goose (not a duck\\!) | Water & wetlands | Large , loud , noisy , small |\n| Teal | - Pond - Marsh - Riverbank | 1. Fly south in winter 2. Build nest on ground |\n\n| Genus | Species |\n| --- | --- |\n| Aythya (Diving ducks) | Hawser, Common Pochard |\n| Lophonetta (Pintail group) | Fulvous Whistling Duck |\n| Oxyura (Benthic ducks) | Wigee, Banded Water-screw |\n\n| Action | Action | | -------- | ----------------------------------- | ---- | ----- | --- | -------- | -------------- | --- | ----- | ------ | --- | ---- | ------------ | --- | | **Swim** | Gracefully glide on H 2 O surfaces. | | *Fly* | | | Quack | | Type | Sound | | -------- | -------------- | | Short | \"quak\" | | Long | \"quaaaaaack\" | |\n\n| Name | Description | Image |\n| --- | --- | --- |\n| Donald Duck | Cartoon character. | View PNG |\n| White-headed duck | A small diving duck some 45 cm (18 in) long. | White-headed duck thumbnail |\n| Mandarin Duck | Known for its striking plumage. | View Full-Size Image |\n| Unknown Duck | No photo available. |  |\n",
+    "plain": "Rich Table Cells in HTML\nName Habitat Comment\nWood Duck  Often seen near ponds.\nMallard Ponds, lakes, rivers Quack\nGoose (not a duck!) Water & wetlands Large , loud , noisy , small\nTeal - Pond - Marsh - Riverbank 1. Fly south in winter 2. Build nest on ground\n\nGenus Species\nAythya (Diving ducks) Hawser, Common Pochard\nLophonetta (Pintail group) Fulvous Whistling Duck\nOxyura (Benthic ducks) Wigee, Banded Water-screw\n\n| Action   | Action                              | | -------- | ----------------------------------- | ---- | ----- | --- | -------- | -------------- | --- | ----- | ------ | --- | ---- | ------------ | --- | | Swim | Gracefully glide on H 2 O surfaces. | | Fly    |                                     | | Quack    |                                     | Type | Sound |     | -------- | -------------- |     | Short | \"quak\" |     | Long | \"quaaaaaack\" |     |\n\nName Description Image\nDonald Duck Cartoon character. View PNG\nWhite-headed duck A small diving duck some 45 cm (18 in) long. White-headed duck thumbnail\nMandarin Duck Known for its striking plumage. View Full-Size Image\nUnknown Duck No photo available."
+  }
+}

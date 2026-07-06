@@ -1,0 +1,24 @@
+{
+  "file": "vendored/docling/json/multi_page.pages.meta.json",
+  "mime_type": "application/json",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/docling/json/multi_page.pages.meta.json",
+      "source_uri": "vendored/docling/json/multi_page.pages.meta.json",
+      "source_kind": "uri",
+      "source_index": 0,
+      "field_count": 0,
+      "data_format": "json"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<pre lang=\"json\"><code>[\n  {\n    &quot;num_cells&quot;: 49\n  },\n  {\n    &quot;num_cells&quot;: 42\n  },\n  {\n    &quot;num_cells&quot;: 62\n  },\n  {\n    &quot;num_cells&quot;: 74\n  },\n  {\n    &quot;num_cells&quot;: 7\n  }\n]</code></pre>\n",
+    "json": "{\"body\":[{\"type\":\"code\",\"text\":\"[\\n  {\\n    \\\"num_cells\\\": 49\\n  },\\n  {\\n    \\\"num_cells\\\": 42\\n  },\\n  {\\n    \\\"num_cells\\\": 62\\n  },\\n  {\\n    \\\"num_cells\\\": 74\\n  },\\n  {\\n    \\\"num_cells\\\": 7\\n  }\\n]\",\"language\":\"json\"}]}",
+    "markdown": "```json\n[\n  {\n    \"num_cells\": 49\n  },\n  {\n    \"num_cells\": 42\n  },\n  {\n    \"num_cells\": 62\n  },\n  {\n    \"num_cells\": 74\n  },\n  {\n    \"num_cells\": 7\n  }\n]\n```\n",
+    "plain": "[\n  {\n    \"num_cells\": 49\n  },\n  {\n    \"num_cells\": 42\n  },\n  {\n    \"num_cells\": 62\n  },\n  {\n    \"num_cells\": 74\n  },\n  {\n    \"num_cells\": 7\n  }\n]"
+  }
+}

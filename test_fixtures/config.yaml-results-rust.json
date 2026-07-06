@@ -1,0 +1,24 @@
+{
+  "file": "test_fixtures/config.yaml",
+  "mime_type": "application/x-yaml",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "test_fixtures/config.yaml",
+      "final_uri": "test_fixtures/config.yaml",
+      "field_count": 0,
+      "data_format": "yaml"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<pre lang=\"yaml\"><code>use_cache: true\nenable_quality_processing: false\nforce_ocr: true\nmax_concurrent_extractions: 8\n\nocr:\n  backend: tesseract\n  language: deu\n  tesseract_config:\n    psm: 3\n    enable_table_detection: false\n    tessedit_char_whitelist: &quot;0123456789&quot;\n\nchunking:\n  max_chars: 500\n  max_overlap: 100\n\nimages:\n  extract_images: false\n  target_dpi: 150\n  max_image_dimension: 2048\n  auto_adjust_dpi: false\n  min_dpi: 100\n  max_dpi: 300\n\npdf_options:\n  extract_images: false\n  extract_metadata: false\n  passwords:\n    - test123\n    - secret456\n\ntoken_reduction:\n  mode: &quot;aggressive&quot;\n  preserve_important_words: false\n\nlanguage_detection:\n  enabled: false\n  min_confidence: 0.7\n  detect_multiple: true\n\npostprocessor:\n  enabled: false\n  enabled_processors: []\n  disabled_processors:\n    - processor1\n    - processor2\n</code></pre>\n",
+    "json": "{\"body\":[{\"type\":\"code\",\"text\":\"use_cache: true\\nenable_quality_processing: false\\nforce_ocr: true\\nmax_concurrent_extractions: 8\\n\\nocr:\\n  backend: tesseract\\n  language: deu\\n  tesseract_config:\\n    psm: 3\\n    enable_table_detection: false\\n    tessedit_char_whitelist: \\\"0123456789\\\"\\n\\nchunking:\\n  max_chars: 500\\n  max_overlap: 100\\n\\nimages:\\n  extract_images: false\\n  target_dpi: 150\\n  max_image_dimension: 2048\\n  auto_adjust_dpi: false\\n  min_dpi: 100\\n  max_dpi: 300\\n\\npdf_options:\\n  extract_images: false\\n  extract_metadata: false\\n  passwords:\\n    - test123\\n    - secret456\\n\\ntoken_reduction:\\n  mode: \\\"aggressive\\\"\\n  preserve_important_words: false\\n\\nlanguage_detection:\\n  enabled: false\\n  min_confidence: 0.7\\n  detect_multiple: true\\n\\npostprocessor:\\n  enabled: false\\n  enabled_processors: []\\n  disabled_processors:\\n    - processor1\\n    - processor2\\n\",\"language\":\"yaml\"}]}",
+    "markdown": "```yaml\nuse_cache: true\nenable_quality_processing: false\nforce_ocr: true\nmax_concurrent_extractions: 8\n\nocr:\n  backend: tesseract\n  language: deu\n  tesseract_config:\n    psm: 3\n    enable_table_detection: false\n    tessedit_char_whitelist: \"0123456789\"\n\nchunking:\n  max_chars: 500\n  max_overlap: 100\n\nimages:\n  extract_images: false\n  target_dpi: 150\n  max_image_dimension: 2048\n  auto_adjust_dpi: false\n  min_dpi: 100\n  max_dpi: 300\n\npdf_options:\n  extract_images: false\n  extract_metadata: false\n  passwords:\n    - test123\n    - secret456\n\ntoken_reduction:\n  mode: \"aggressive\"\n  preserve_important_words: false\n\nlanguage_detection:\n  enabled: false\n  min_confidence: 0.7\n  detect_multiple: true\n\npostprocessor:\n  enabled: false\n  enabled_processors: []\n  disabled_processors:\n    - processor1\n    - processor2\n```\n",
+    "plain": "use_cache: true\nenable_quality_processing: false\nforce_ocr: true\nmax_concurrent_extractions: 8\n\nocr:\n  backend: tesseract\n  language: deu\n  tesseract_config:\n    psm: 3\n    enable_table_detection: false\n    tessedit_char_whitelist: \"0123456789\"\n\nchunking:\n  max_chars: 500\n  max_overlap: 100\n\nimages:\n  extract_images: false\n  target_dpi: 150\n  max_image_dimension: 2048\n  auto_adjust_dpi: false\n  min_dpi: 100\n  max_dpi: 300\n\npdf_options:\n  extract_images: false\n  extract_metadata: false\n  passwords:\n    - test123\n    - secret456\n\ntoken_reduction:\n  mode: \"aggressive\"\n  preserve_important_words: false\n\nlanguage_detection:\n  enabled: false\n  min_confidence: 0.7\n  detect_multiple: true\n\npostprocessor:\n  enabled: false\n  enabled_processors: []\n  disabled_processors:\n    - processor1\n    - processor2"
+  }
+}

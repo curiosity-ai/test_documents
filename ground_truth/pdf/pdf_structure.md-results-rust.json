@@ -1,0 +1,42 @@
+{
+  "file": "ground_truth/pdf/pdf_structure.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Titre du document",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/pdf_structure.md",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/pdf/pdf_structure.md",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Chose",
+          "Truc"
+        ],
+        [
+          "Chose 1",
+          "Truc 1"
+        ],
+        [
+          "Chose 2",
+          "Truc 2"
+        ]
+      ],
+      "markdown": "| Chose | Truc |\n| --- | --- |\n| Chose 1 | Truc 1 |\n| Chose 2 | Truc 2 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Titre du document</h1>\n<h2>Titre 1</h2>\n<p>Contenu 1, contenu 2, contenu 3.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<h2>Titre 2</h2>\n<p>Encore du contenu!</p>\n<ol>\n<li>Énumération 1</li>\n<li>Énumération 2 a) Énumération imbriquée</li>\n<li>Longue énumération : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>\n</ol>\n<h2>Tableau</h2>\n<table>\n<thead>\n<tr>\n<th>Chose</th>\n<th>Truc</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Chose 1</td>\n<td>Truc 1</td>\n</tr>\n<tr>\n<td>Chose 2</td>\n<td>Truc 2</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Titre du document\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Titre 1\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Contenu 1, contenu 2, contenu 3.\"},{\"type\":\"paragraph\",\"text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"}]},{\"type\":\"section\",\"heading\":\"Titre 2\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Encore du contenu!\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Énumération 1\",\"Énumération 2 a) Énumération imbriquée\",\"Longue énumération : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"]}]},{\"type\":\"section\",\"heading\":\"Tableau\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Chose\",\"Truc\"],\"rows\":[[\"Chose 1\",\"Truc 1\"],[\"Chose 2\",\"Truc 2\"]]}]}]}]}",
+    "markdown": "# Titre du document\n\n## Titre 1\n\nContenu 1, contenu 2, contenu 3.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n## Titre 2\n\nEncore du contenu\\!\n\n1. Énumération 1\n2. Énumération 2 a) Énumération imbriquée\n3. Longue énumération : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n## Tableau\n\n| Chose | Truc |\n| --- | --- |\n| Chose 1 | Truc 1 |\n| Chose 2 | Truc 2 |\n",
+    "plain": "Titre du document\n  Titre 1\nContenu 1, contenu 2, contenu 3.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n  Titre 2\nEncore du contenu!\n\nÉnumération 1\nÉnumération 2 a) Énumération imbriquée\nLongue énumération : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n  Tableau\nChose Truc\nChose 1 Truc 1\nChose 2 Truc 2"
+  }
+}

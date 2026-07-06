@@ -1,0 +1,262 @@
+{
+  "file": "xls/tests_example.xls",
+  "mime_type": "application/vnd.ms-excel",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "excel",
+      "sheet_count": 3,
+      "sheet_names": [
+        "Example Test",
+        "Format Abbr.",
+        "Readme"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "sheet_count": "3",
+      "source_index": 0,
+      "sheet_names": "Example Test, Format Abbr., Readme",
+      "source_uri": "xls/tests_example.xls",
+      "final_uri": "xls/tests_example.xls"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "MC",
+          "What is 2+2?",
+          "4",
+          "correct",
+          "3",
+          "incorrect",
+          "",
+          "",
+          ""
+        ],
+        [
+          "MA",
+          "What C datatypes are 8 bits? (assume i386)",
+          "int",
+          "",
+          "float",
+          "",
+          "double",
+          "",
+          "char"
+        ],
+        [
+          "TF",
+          "Bagpipes are awesome.",
+          "true",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "ESS",
+          "How have the original Henry Hornbostel buildings influenced campus architecture and design in the last 30 years?",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "ORD",
+          "Rank the following in their order of operation.",
+          "Parentheses",
+          "Exponents",
+          "Division",
+          "Addition",
+          "",
+          "",
+          ""
+        ],
+        [
+          "FIB",
+          "The student activities fee is",
+          "95",
+          "dollars for students enrolled in",
+          "19",
+          "units or more,",
+          "",
+          "",
+          ""
+        ],
+        [
+          "MAT",
+          "Match the lower-case greek letter with its capital form.",
+          "λ",
+          "Λ",
+          "α",
+          "γ",
+          "Γ",
+          "φ",
+          "Φ"
+        ]
+      ],
+      "markdown": "| MC | What is 2+2? | 4 | correct | 3 | incorrect |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| MA | What C datatypes are 8 bits? (assume i386) | int |  | float |  | double |  | char |\n| TF | Bagpipes are awesome. | true |  |  |  |  |  |  |\n| ESS | How have the original Henry Hornbostel buildings influenced campus architecture and design in the last 30 years? |  |  |  |  |  |  |  |\n| ORD | Rank the following in their order of operation. | Parentheses | Exponents | Division | Addition |  |  |  |\n| FIB | The student activities fee is | 95 | dollars for students enrolled in | 19 | units or more, |  |  |  |\n| MAT | Match the lower-case greek letter with its capital form. | λ | Λ | α | γ | Γ | φ | Φ |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "http://www.cmu.edu/blackboard",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "Question Format Abbreviations",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "Abbreviation",
+          "Question Type"
+        ],
+        [
+          "MC",
+          "Multiple Choice"
+        ],
+        [
+          "MA",
+          "Multiple Answer"
+        ],
+        [
+          "TF",
+          "True/False"
+        ],
+        [
+          "ESS",
+          "Essay"
+        ],
+        [
+          "ORD",
+          "Ordering"
+        ],
+        [
+          "MAT",
+          "Matching"
+        ],
+        [
+          "FIB",
+          "Fill in the Blank"
+        ],
+        [
+          "FIL",
+          "File response"
+        ],
+        [
+          "NUM",
+          "Numeric Response"
+        ],
+        [
+          "SR",
+          "Short response"
+        ],
+        [
+          "OP",
+          "Opinion"
+        ],
+        [
+          "FIB_PLUS",
+          "Multiple Fill in the Blank"
+        ],
+        [
+          "JUMBLED_SENTENCE",
+          "Jumbled Sentence"
+        ],
+        [
+          "QUIZ_BOWL",
+          "Quiz Bowl"
+        ]
+      ],
+      "markdown": "| http://www.cmu.edu/blackboard |  |\n| --- | --- |\n|  |  |\n| Question Format Abbreviations |  |\n|  |  |\n| Abbreviation | Question Type |\n| MC | Multiple Choice |\n| MA | Multiple Answer |\n| TF | True/False |\n| ESS | Essay |\n| ORD | Ordering |\n| MAT | Matching |\n| FIB | Fill in the Blank |\n| FIL | File response |\n| NUM | Numeric Response |\n| SR | Short response |\n| OP | Opinion |\n| FIB_PLUS | Multiple Fill in the Blank |\n| JUMBLED_SENTENCE | Jumbled Sentence |\n| QUIZ_BOWL | Quiz Bowl |\n",
+      "page_number": 2
+    },
+    {
+      "cells": [
+        [
+          "http://www.cmu.edu/blackboard"
+        ],
+        [
+          ""
+        ],
+        [
+          "File Information"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Source"
+        ],
+        [
+          "http://www.cmu.edu/blackboard/files/evaluate/tests-example.xls"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Version"
+        ],
+        [
+          "1.0 (January 2012)"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Contact"
+        ],
+        [
+          "bb-help@andrew.cmu.edu"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "About"
+        ],
+        [
+          "This is an example and template for preparing Blackboard tests offline. See the full directions at: http://www.cmu.edu/blackboard/evaluate#manage_tests/import_questions"
+        ]
+      ],
+      "markdown": "| http://www.cmu.edu/blackboard |\n| --- |\n|  |\n| File Information |\n|  |\n|  |\n| Source |\n| http://www.cmu.edu/blackboard/files/evaluate/tests-example.xls |\n|  |\n|  |\n| Version |\n| 1.0 (January 2012) |\n|  |\n|  |\n| Contact |\n| bb-help@andrew.cmu.edu |\n|  |\n|  |\n| About |\n| This is an example and template for preparing Blackboard tests offline. See the full directions at: http://www.cmu.edu/blackboard/evaluate#manage_tests/import_questions |\n",
+      "page_number": 3
+    }
+  ],
+  "content": {
+    "html": "<h2>Example Test</h2>\n<table>\n<thead>\n<tr>\n<th>MC</th>\n<th>What is 2+2?</th>\n<th>4</th>\n<th>correct</th>\n<th>3</th>\n<th>incorrect</th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>MA</td>\n<td>What C datatypes are 8 bits? (assume i386)</td>\n<td>int</td>\n<td></td>\n<td>float</td>\n<td></td>\n<td>double</td>\n<td></td>\n<td>char</td>\n</tr>\n<tr>\n<td>TF</td>\n<td>Bagpipes are awesome.</td>\n<td>true</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>ESS</td>\n<td>How have the original Henry Hornbostel buildings influenced campus architecture and design in the last 30 years?</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>ORD</td>\n<td>Rank the following in their order of operation.</td>\n<td>Parentheses</td>\n<td>Exponents</td>\n<td>Division</td>\n<td>Addition</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>FIB</td>\n<td>The student activities fee is</td>\n<td>95</td>\n<td>dollars for students enrolled in</td>\n<td>19</td>\n<td>units or more,</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>MAT</td>\n<td>Match the lower-case greek letter with its capital form.</td>\n<td>λ</td>\n<td>Λ</td>\n<td>α</td>\n<td>γ</td>\n<td>Γ</td>\n<td>φ</td>\n<td>Φ</td>\n</tr>\n</tbody>\n</table>\n<h2>Format Abbr.</h2>\n<table>\n<thead>\n<tr>\n<th>http://www.cmu.edu/blackboard</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Question Format Abbreviations</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Abbreviation</td>\n<td>Question Type</td>\n</tr>\n<tr>\n<td>MC</td>\n<td>Multiple Choice</td>\n</tr>\n<tr>\n<td>MA</td>\n<td>Multiple Answer</td>\n</tr>\n<tr>\n<td>TF</td>\n<td>True/False</td>\n</tr>\n<tr>\n<td>ESS</td>\n<td>Essay</td>\n</tr>\n<tr>\n<td>ORD</td>\n<td>Ordering</td>\n</tr>\n<tr>\n<td>MAT</td>\n<td>Matching</td>\n</tr>\n<tr>\n<td>FIB</td>\n<td>Fill in the Blank</td>\n</tr>\n<tr>\n<td>FIL</td>\n<td>File response</td>\n</tr>\n<tr>\n<td>NUM</td>\n<td>Numeric Response</td>\n</tr>\n<tr>\n<td>SR</td>\n<td>Short response</td>\n</tr>\n<tr>\n<td>OP</td>\n<td>Opinion</td>\n</tr>\n<tr>\n<td>FIB_PLUS</td>\n<td>Multiple Fill in the Blank</td>\n</tr>\n<tr>\n<td>JUMBLED_SENTENCE</td>\n<td>Jumbled Sentence</td>\n</tr>\n<tr>\n<td>QUIZ_BOWL</td>\n<td>Quiz Bowl</td>\n</tr>\n</tbody>\n</table>\n<h2>Readme</h2>\n<table>\n<thead>\n<tr>\n<th>http://www.cmu.edu/blackboard</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>File Information</td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>Source</td>\n</tr>\n<tr>\n<td>http://www.cmu.edu/blackboard/files/evaluate/tests-example.xls</td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>Version</td>\n</tr>\n<tr>\n<td>1.0 (January 2012)</td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>Contact</td>\n</tr>\n<tr>\n<td>bb-help@andrew.cmu.edu</td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td></td>\n</tr>\n<tr>\n<td>About</td>\n</tr>\n<tr>\n<td>This is an example and template for preparing Blackboard tests offline. See the full directions at: http://www.cmu.edu/blackboard/evaluate#manage_tests/import_questions</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Example Test\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"MC\",\"What is 2+2?\",\"4\",\"correct\",\"3\",\"incorrect\",\"\",\"\",\"\"],\"rows\":[[\"MA\",\"What C datatypes are 8 bits? (assume i386)\",\"int\",\"\",\"float\",\"\",\"double\",\"\",\"char\"],[\"TF\",\"Bagpipes are awesome.\",\"true\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"ESS\",\"How have the original Henry Hornbostel buildings influenced campus architecture and design in the last 30 years?\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"ORD\",\"Rank the following in their order of operation.\",\"Parentheses\",\"Exponents\",\"Division\",\"Addition\",\"\",\"\",\"\"],[\"FIB\",\"The student activities fee is\",\"95\",\"dollars for students enrolled in\",\"19\",\"units or more,\",\"\",\"\",\"\"],[\"MAT\",\"Match the lower-case greek letter with its capital form.\",\"λ\",\"Λ\",\"α\",\"γ\",\"Γ\",\"φ\",\"Φ\"]]}]},{\"type\":\"section\",\"heading\":\"Format Abbr.\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"http://www.cmu.edu/blackboard\",\"\"],\"rows\":[[\"\",\"\"],[\"Question Format Abbreviations\",\"\"],[\"\",\"\"],[\"Abbreviation\",\"Question Type\"],[\"MC\",\"Multiple Choice\"],[\"MA\",\"Multiple Answer\"],[\"TF\",\"True/False\"],[\"ESS\",\"Essay\"],[\"ORD\",\"Ordering\"],[\"MAT\",\"Matching\"],[\"FIB\",\"Fill in the Blank\"],[\"FIL\",\"File response\"],[\"NUM\",\"Numeric Response\"],[\"SR\",\"Short response\"],[\"OP\",\"Opinion\"],[\"FIB_PLUS\",\"Multiple Fill in the Blank\"],[\"JUMBLED_SENTENCE\",\"Jumbled Sentence\"],[\"QUIZ_BOWL\",\"Quiz Bowl\"]]}]},{\"type\":\"section\",\"heading\":\"Readme\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"http://www.cmu.edu/blackboard\"],\"rows\":[[\"\"],[\"File Information\"],[\"\"],[\"\"],[\"Source\"],[\"http://www.cmu.edu/blackboard/files/evaluate/tests-example.xls\"],[\"\"],[\"\"],[\"Version\"],[\"1.0 (January 2012)\"],[\"\"],[\"\"],[\"Contact\"],[\"bb-help@andrew.cmu.edu\"],[\"\"],[\"\"],[\"About\"],[\"This is an example and template for preparing Blackboard tests offline. See the full directions at: http://www.cmu.edu/blackboard/evaluate#manage_tests/import_questions\"]]}]}]}",
+    "markdown": "## Example Test\n\n| MC | What is 2+2? | 4 | correct | 3 | incorrect |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| MA | What C datatypes are 8 bits? (assume i386) | int |  | float |  | double |  | char |\n| TF | Bagpipes are awesome. | true |  |  |  |  |  |  |\n| ESS | How have the original Henry Hornbostel buildings influenced campus architecture and design in the last 30 years? |  |  |  |  |  |  |  |\n| ORD | Rank the following in their order of operation. | Parentheses | Exponents | Division | Addition |  |  |  |\n| FIB | The student activities fee is | 95 | dollars for students enrolled in | 19 | units or more, |  |  |  |\n| MAT | Match the lower-case greek letter with its capital form. | λ | Λ | α | γ | Γ | φ | Φ |\n\n## Format Abbr.\n\n| http://www.cmu.edu/blackboard |  |\n| --- | --- |\n|  |  |\n| Question Format Abbreviations |  |\n|  |  |\n| Abbreviation | Question Type |\n| MC | Multiple Choice |\n| MA | Multiple Answer |\n| TF | True/False |\n| ESS | Essay |\n| ORD | Ordering |\n| MAT | Matching |\n| FIB | Fill in the Blank |\n| FIL | File response |\n| NUM | Numeric Response |\n| SR | Short response |\n| OP | Opinion |\n| FIB_PLUS | Multiple Fill in the Blank |\n| JUMBLED_SENTENCE | Jumbled Sentence |\n| QUIZ_BOWL | Quiz Bowl |\n\n## Readme\n\n| http://www.cmu.edu/blackboard |\n| --- |\n|  |\n| File Information |\n|  |\n|  |\n| Source |\n| http://www.cmu.edu/blackboard/files/evaluate/tests-example.xls |\n|  |\n|  |\n| Version |\n| 1.0 (January 2012) |\n|  |\n|  |\n| Contact |\n| bb-help@andrew.cmu.edu |\n|  |\n|  |\n| About |\n| This is an example and template for preparing Blackboard tests offline. See the full directions at: http://www.cmu.edu/blackboard/evaluate\\#manage_tests/import_questions |\n",
+    "plain": "  Example Test\nMC What is 2+2? 4 correct 3 incorrect   \nMA What C datatypes are 8 bits? (assume i386) int  float  double  char\nTF Bagpipes are awesome. true      \nESS How have the original Henry Hornbostel buildings influenced campus architecture and design in the last 30 years?       \nORD Rank the following in their order of operation. Parentheses Exponents Division Addition   \nFIB The student activities fee is 95 dollars for students enrolled in 19 units or more,   \nMAT Match the lower-case greek letter with its capital form. λ Λ α γ Γ φ Φ\n\n  Format Abbr.\nhttp://www.cmu.edu/blackboard \n \nQuestion Format Abbreviations \n \nAbbreviation Question Type\nMC Multiple Choice\nMA Multiple Answer\nTF True/False\nESS Essay\nORD Ordering\nMAT Matching\nFIB Fill in the Blank\nFIL File response\nNUM Numeric Response\nSR Short response\nOP Opinion\nFIB_PLUS Multiple Fill in the Blank\nJUMBLED_SENTENCE Jumbled Sentence\nQUIZ_BOWL Quiz Bowl\n\n  Readme\nhttp://www.cmu.edu/blackboard\n\nFile Information\n\n\nSource\nhttp://www.cmu.edu/blackboard/files/evaluate/tests-example.xls\n\n\nVersion\n1.0 (January 2012)\n\n\nContact\nbb-help@andrew.cmu.edu\n\n\nAbout\nThis is an example and template for preparing Blackboard tests offline. See the full directions at: http://www.cmu.edu/blackboard/evaluate#manage_tests/import_questions"
+  }
+}

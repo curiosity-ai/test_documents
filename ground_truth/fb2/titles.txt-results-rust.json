@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/fb2/titles.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 5,
+      "word_count": 10,
+      "character_count": 77
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/fb2/titles.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/fb2/titles.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Simple title</p>\n<p>This example tests FictionBook titles.</p>\n<p>Emphasized Strong Title</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Simple title\"},{\"type\":\"paragraph\",\"text\":\"This example tests FictionBook titles.\"},{\"type\":\"paragraph\",\"text\":\"Emphasized Strong Title\"}]}",
+    "markdown": "Simple title\n\nThis example tests FictionBook titles.\n\nEmphasized Strong Title\n",
+    "plain": "Simple title\n\nThis example tests FictionBook titles.\n\nEmphasized Strong Title"
+  }
+}

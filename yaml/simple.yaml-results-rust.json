@@ -1,0 +1,24 @@
+{
+  "file": "yaml/simple.yaml",
+  "mime_type": "application/x-yaml",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "yaml/simple.yaml",
+      "final_uri": "yaml/simple.yaml",
+      "source_kind": "uri",
+      "field_count": 0,
+      "source_index": 0,
+      "data_format": "yaml"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<pre lang=\"yaml\"><code>---\ndoe: &quot;a deer, a female deer&quot;\nray: &quot;a drop of golden sun&quot;\npi: 3.14159\nxmas: true\nfrench-hens: 3\ncalling-birds:\n  - huey\n  - dewey\n  - louie\n  - fred\nxmas-fifth-day:\n  calling-birds: four\n  french-hens: 3\n  golden-rings: 5\n  partridges:\n    count: 1\n    location: &quot;a pear tree&quot;\n  turtle-doves: two\n</code></pre>\n",
+    "json": "{\"body\":[{\"type\":\"code\",\"text\":\"---\\ndoe: \\\"a deer, a female deer\\\"\\nray: \\\"a drop of golden sun\\\"\\npi: 3.14159\\nxmas: true\\nfrench-hens: 3\\ncalling-birds:\\n  - huey\\n  - dewey\\n  - louie\\n  - fred\\nxmas-fifth-day:\\n  calling-birds: four\\n  french-hens: 3\\n  golden-rings: 5\\n  partridges:\\n    count: 1\\n    location: \\\"a pear tree\\\"\\n  turtle-doves: two\\n\",\"language\":\"yaml\"}]}",
+    "markdown": "```yaml\n---\ndoe: \"a deer, a female deer\"\nray: \"a drop of golden sun\"\npi: 3.14159\nxmas: true\nfrench-hens: 3\ncalling-birds:\n  - huey\n  - dewey\n  - louie\n  - fred\nxmas-fifth-day:\n  calling-birds: four\n  french-hens: 3\n  golden-rings: 5\n  partridges:\n    count: 1\n    location: \"a pear tree\"\n  turtle-doves: two\n```\n",
+    "plain": "---\ndoe: \"a deer, a female deer\"\nray: \"a drop of golden sun\"\npi: 3.14159\nxmas: true\nfrench-hens: 3\ncalling-birds:\n  - huey\n  - dewey\n  - louie\n  - fred\nxmas-fifth-day:\n  calling-birds: four\n  french-hens: 3\n  golden-rings: 5\n  partridges:\n    count: 1\n    location: \"a pear tree\"\n  turtle-doves: two"
+  }
+}

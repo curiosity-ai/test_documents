@@ -1,0 +1,132 @@
+{
+  "file": "vendored/pdfplumber/pdf/issue-1181.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2024-08-03T13:57:52Z",
+    "created_by": "Inkscape 1.2.2 (https://inkscape.org)",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.5",
+      "producer": "cairo 1.16.0 (https://cairographics.org)",
+      "is_encrypted": false,
+      "width": 421,
+      "height": 385,
+      "page_count": 2
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/pdfplumber/pdf/issue-1181.pdf",
+      "source_index": 0,
+      "extraction_method": "native",
+      "source_kind": "uri",
+      "final_uri": "vendored/pdfplumber/pdf/issue-1181.pdf"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "FooCol1",
+          "FooCol2",
+          "FooCol3",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Foo4",
+          "Foo5",
+          "Foo6",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Foo7",
+          "Foo8",
+          "Foo9",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Foo10",
+          "Foo11",
+          "Foo12",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| FooCol1 | FooCol2 | FooCol3 |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| Foo4 | Foo5 | Foo6 |  |  |  |  |\n| Foo7 | Foo8 | Foo9 |  |  |  |  |\n| Foo10 | Foo11 | Foo12 |  |  |  |  |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 95.44100189208984,
+        "y0": 334.99456787109375,
+        "x1": 732.0239868164062,
+        "y1": 425.88055419921875
+      }
+    },
+    {
+      "cells": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "BarCol1",
+          "BarCol2",
+          "BarCol3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Bar4",
+          "Bar5",
+          "Bar6"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Bar7",
+          "Bar8",
+          "Bar9"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Bar10",
+          "Bar11",
+          "Bar12"
+        ]
+      ],
+      "markdown": "|  |  |  |  | BarCol1 | BarCol2 | BarCol3 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  | Bar4 | Bar5 | Bar6 |\n|  |  |  |  | Bar7 | Bar8 | Bar9 |\n|  |  |  |  | Bar10 | Bar11 | Bar12 |\n",
+      "page_number": 2,
+      "bounding_box": {
+        "x0": 95.44100189208984,
+        "y0": 334.99456787109375,
+        "x1": 732.0239868164062,
+        "y1": 425.88055419921875
+      }
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>FooCol1</th>\n<th>FooCol2</th>\n<th>FooCol3</th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Foo4</td>\n<td>Foo5</td>\n<td>Foo6</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Foo7</td>\n<td>Foo8</td>\n<td>Foo9</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Foo10</td>\n<td>Foo11</td>\n<td>Foo12</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th>BarCol1</th>\n<th>BarCol2</th>\n<th>BarCol3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>Bar4</td>\n<td>Bar5</td>\n<td>Bar6</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>Bar7</td>\n<td>Bar8</td>\n<td>Bar9</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>Bar10</td>\n<td>Bar11</td>\n<td>Bar12</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"FooCol1  FooCol2 FooCol3\"},{\"type\":\"paragraph\",\"text\":\"Foo4  Foo5 Foo6\"},{\"type\":\"paragraph\",\"text\":\"Foo7  Foo8 Foo9\"},{\"type\":\"paragraph\",\"text\":\"Foo10  Foo11 Foo12\"},{\"type\":\"paragraph\",\"text\":\"BarCol1  BarCol2 BarCol3\"},{\"type\":\"paragraph\",\"text\":\"Bar4  Bar5 Bar6\"},{\"type\":\"paragraph\",\"text\":\"Bar7  Bar8 Bar9\"},{\"type\":\"paragraph\",\"text\":\"Bar10  Bar11 Bar12\"},{\"type\":\"paragraph\",\"text\":\"FooCol1  FooCol2 FooCol3\"},{\"type\":\"paragraph\",\"text\":\"Foo4  Foo5 Foo6\"},{\"type\":\"paragraph\",\"text\":\"Foo7  Foo8 Foo9\"},{\"type\":\"paragraph\",\"text\":\"Foo10  Foo11 Foo12\"},{\"type\":\"paragraph\",\"text\":\"BarCol1  BarCol2 BarCol3\"},{\"type\":\"paragraph\",\"text\":\"Bar4  Bar5 Bar6\"},{\"type\":\"paragraph\",\"text\":\"Bar7  Bar8 Bar9\"},{\"type\":\"paragraph\",\"text\":\"Bar10  Bar11 Bar12\"},{\"type\":\"table\",\"headers\":[\"FooCol1\",\"FooCol2\",\"FooCol3\",\"\",\"\",\"\",\"\"],\"rows\":[[\"Foo4\",\"Foo5\",\"Foo6\",\"\",\"\",\"\",\"\"],[\"Foo7\",\"Foo8\",\"Foo9\",\"\",\"\",\"\",\"\"],[\"Foo10\",\"Foo11\",\"Foo12\",\"\",\"\",\"\",\"\"]]},{\"type\":\"table\",\"headers\":[\"\",\"\",\"\",\"\",\"BarCol1\",\"BarCol2\",\"BarCol3\"],\"rows\":[[\"\",\"\",\"\",\"\",\"Bar4\",\"Bar5\",\"Bar6\"],[\"\",\"\",\"\",\"\",\"Bar7\",\"Bar8\",\"Bar9\"],[\"\",\"\",\"\",\"\",\"Bar10\",\"Bar11\",\"Bar12\"]]}]}",
+    "markdown": "| FooCol1 | FooCol2 | FooCol3 |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| Foo4 | Foo5 | Foo6 |  |  |  |  |\n| Foo7 | Foo8 | Foo9 |  |  |  |  |\n| Foo10 | Foo11 | Foo12 |  |  |  |  |\n\n|  |  |  |  | BarCol1 | BarCol2 | BarCol3 |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  | Bar4 | Bar5 | Bar6 |\n|  |  |  |  | Bar7 | Bar8 | Bar9 |\n|  |  |  |  | Bar10 | Bar11 | Bar12 |\n",
+    "plain": "FooCol1  FooCol2 FooCol3\n\nFoo4  Foo5 Foo6\n\nFoo7  Foo8 Foo9\n\nFoo10  Foo11 Foo12\n\nBarCol1  BarCol2 BarCol3\n\nBar4  Bar5 Bar6\n\nBar7  Bar8 Bar9\n\nBar10  Bar11 Bar12\n\nFooCol1  FooCol2 FooCol3\n\nFoo4  Foo5 Foo6\n\nFoo7  Foo8 Foo9\n\nFoo10  Foo11 Foo12\n\nBarCol1  BarCol2 BarCol3\n\nBar4  Bar5 Bar6\n\nBar7  Bar8 Bar9\n\nBar10  Bar11 Bar12\n\nFooCol1 FooCol2 FooCol3    \nFoo4 Foo5 Foo6    \nFoo7 Foo8 Foo9    \nFoo10 Foo11 Foo12    \n\n    BarCol1 BarCol2 BarCol3\n    Bar4 Bar5 Bar6\n    Bar7 Bar8 Bar9\n    Bar10 Bar11 Bar12"
+  }
+}

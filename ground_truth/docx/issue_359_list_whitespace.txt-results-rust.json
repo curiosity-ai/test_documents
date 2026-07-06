@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/docx/issue_359_list_whitespace.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 19,
+      "word_count": 32,
+      "character_count": 219
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/docx/issue_359_list_whitespace.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/docx/issue_359_list_whitespace.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject</p>\n<p>Etiam sit amet est</p>\n<p>Aenean iaculis laoreet arcu</p>\n<p>Curabitur vulputate viverra pede</p>\n<p>Nulla rutrum commodo ligula</p>\n<p>Sed tellus suscipit in aliquam</p>\n<p>Nunc ut lectus</p>\n<p>Donec quis nunc</p>\n<p>Sermocination ypsiliform</p>\n<p>Foo bar</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject\"},{\"type\":\"paragraph\",\"text\":\"Etiam sit amet est\"},{\"type\":\"paragraph\",\"text\":\"Aenean iaculis laoreet arcu\"},{\"type\":\"paragraph\",\"text\":\"Curabitur vulputate viverra pede\"},{\"type\":\"paragraph\",\"text\":\"Nulla rutrum commodo ligula\"},{\"type\":\"paragraph\",\"text\":\"Sed tellus suscipit in aliquam\"},{\"type\":\"paragraph\",\"text\":\"Nunc ut lectus\"},{\"type\":\"paragraph\",\"text\":\"Donec quis nunc\"},{\"type\":\"paragraph\",\"text\":\"Sermocination ypsiliform\"},{\"type\":\"paragraph\",\"text\":\"Foo bar\"}]}",
+    "markdown": "Subject\n\nEtiam sit amet est\n\nAenean iaculis laoreet arcu\n\nCurabitur vulputate viverra pede\n\nNulla rutrum commodo ligula\n\nSed tellus suscipit in aliquam\n\nNunc ut lectus\n\nDonec quis nunc\n\nSermocination ypsiliform\n\nFoo bar\n",
+    "plain": "Subject\n\nEtiam sit amet est\n\nAenean iaculis laoreet arcu\n\nCurabitur vulputate viverra pede\n\nNulla rutrum commodo ligula\n\nSed tellus suscipit in aliquam\n\nNunc ut lectus\n\nDonec quis nunc\n\nSermocination ypsiliform\n\nFoo bar"
+  }
+}

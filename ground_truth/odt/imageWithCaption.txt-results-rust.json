@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/odt/imageWithCaption.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 4,
+      "character_count": 28
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/odt/imageWithCaption.txt",
+      "final_uri": "ground_truth/odt/imageWithCaption.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>[Abbildung 1: Image caption]</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"[Abbildung 1: Image caption]\"}]}",
+    "markdown": "[Abbildung 1: Image caption]\n",
+    "plain": "[Abbildung 1: Image caption]"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/typ/advanced.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 49,
+      "word_count": 123,
+      "character_count": 787
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/typ/advanced.txt",
+      "final_uri": "ground_truth/typ/advanced.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Mathematical Notation</p>\n<p>The equation $x = (-b plus.minus sqrt(b^2 - 4a c)) / (2a)$ is well-known.</p>\n<p>Display math:</p>\n<p>x^2 + y^2 = r^2</p>\n<p>Formatting Showcase</p>\n<p>Different types of bold, italic, and code can be combined:</p>\n<p>- bold and italic - #set heading(numbering: &quot;1.&quot;)</p>\n<p>Structured Content</p>\n<p>Code Blocks</p>\n<p>def fibonacci(n): if n &lt;= 1: return n return fibonacci(n-1) + fibonacci(n-2)</p>\n<p>Nested Headings</p>\n<p>Level 3 heading</p>\n<p>This is under a level 3 heading.</p>\n<p>Level 4 heading</p>\n<p>And this is level 4.</p>\n<p>Tables and Data</p>\n<p>Name Age City Alice 30 New York Bob 25 San Francisco Carol 35 Boston</p>\n<p>Multiple Paragraphs</p>\n<p>First paragraph here.</p>\n<p>Second paragraph with some emphasized text.</p>\n<p>Third paragraph with a link to example.</p>\n<p>Conclusion</p>\n<p>This demonstrates various Typst features for testing purposes.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Mathematical Notation\"},{\"type\":\"paragraph\",\"text\":\"The equation $x = (-b plus.minus sqrt(b^2 - 4a c)) / (2a)$ is well-known.\"},{\"type\":\"paragraph\",\"text\":\"Display math:\"},{\"type\":\"paragraph\",\"text\":\"x^2 + y^2 = r^2\"},{\"type\":\"paragraph\",\"text\":\"Formatting Showcase\"},{\"type\":\"paragraph\",\"text\":\"Different types of bold, italic, and code can be combined:\"},{\"type\":\"paragraph\",\"text\":\"- bold and italic\\n- #set heading(numbering: \\\"1.\\\")\"},{\"type\":\"paragraph\",\"text\":\"Structured Content\"},{\"type\":\"paragraph\",\"text\":\"Code Blocks\"},{\"type\":\"paragraph\",\"text\":\"def fibonacci(n):\\n    if n <= 1:\\n        return n\\n    return fibonacci(n-1) + fibonacci(n-2)\"},{\"type\":\"paragraph\",\"text\":\"Nested Headings\"},{\"type\":\"paragraph\",\"text\":\"Level 3 heading\"},{\"type\":\"paragraph\",\"text\":\"This is under a level 3 heading.\"},{\"type\":\"paragraph\",\"text\":\"Level 4 heading\"},{\"type\":\"paragraph\",\"text\":\"And this is level 4.\"},{\"type\":\"paragraph\",\"text\":\"Tables and Data\"},{\"type\":\"paragraph\",\"text\":\"Name Age City Alice 30 New York Bob 25 San Francisco Carol 35 Boston\"},{\"type\":\"paragraph\",\"text\":\"Multiple Paragraphs\"},{\"type\":\"paragraph\",\"text\":\"First paragraph here.\"},{\"type\":\"paragraph\",\"text\":\"Second paragraph with some emphasized text.\"},{\"type\":\"paragraph\",\"text\":\"Third paragraph with a link to example.\"},{\"type\":\"paragraph\",\"text\":\"Conclusion\"},{\"type\":\"paragraph\",\"text\":\"This demonstrates various Typst features for testing purposes.\"}]}",
+    "markdown": "Mathematical Notation\n\nThe equation $x = (-b plus.minus sqrt(b^2 - 4a c)) / (2a)$ is well-known.\n\nDisplay math:\n\nx^2 + y^2 = r^2\n\nFormatting Showcase\n\nDifferent types of bold, italic, and code can be combined:\n\n\\- bold and italic - \\#set heading(numbering: \"1.\")\n\nStructured Content\n\nCode Blocks\n\ndef fibonacci(n): if n \\<= 1: return n return fibonacci(n-1) + fibonacci(n-2)\n\nNested Headings\n\nLevel 3 heading\n\nThis is under a level 3 heading.\n\nLevel 4 heading\n\nAnd this is level 4.\n\nTables and Data\n\nName Age City Alice 30 New York Bob 25 San Francisco Carol 35 Boston\n\nMultiple Paragraphs\n\nFirst paragraph here.\n\nSecond paragraph with some emphasized text.\n\nThird paragraph with a link to example.\n\nConclusion\n\nThis demonstrates various Typst features for testing purposes.\n",
+    "plain": "Mathematical Notation\n\nThe equation $x = (-b plus.minus sqrt(b^2 - 4a c)) / (2a)$ is well-known.\n\nDisplay math:\n\nx^2 + y^2 = r^2\n\nFormatting Showcase\n\nDifferent types of bold, italic, and code can be combined:\n\n- bold and italic\n- #set heading(numbering: \"1.\")\n\nStructured Content\n\nCode Blocks\n\ndef fibonacci(n):\n    if n <= 1:\n        return n\n    return fibonacci(n-1) + fibonacci(n-2)\n\nNested Headings\n\nLevel 3 heading\n\nThis is under a level 3 heading.\n\nLevel 4 heading\n\nAnd this is level 4.\n\nTables and Data\n\nName Age City Alice 30 New York Bob 25 San Francisco Carol 35 Boston\n\nMultiple Paragraphs\n\nFirst paragraph here.\n\nSecond paragraph with some emphasized text.\n\nThird paragraph with a link to example.\n\nConclusion\n\nThis demonstrates various Typst features for testing purposes."
+  }
+}

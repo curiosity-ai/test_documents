@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/fake-email-header.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 12,
+      "word_count": 46,
+      "character_count": 376
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/eml/fake-email-header.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/eml/fake-email-header.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Test Email From: &quot;Matthew Robinson&quot; &lt;mrobinson@unstructured.io&gt; To: &quot;Matthew Robinson&quot; &lt;mrobinson@unstructured.io&gt; CC: &quot;Fake Email&quot; &lt;fake-email@unstructured.io&gt;, test@unstructured.io BCC: &quot;Hello&quot; &lt;hello@unstructured.io&gt; Date: Fri, 16 Dec 2022 17:04:16 -0500 This is a test email to use for unit tests. Important points: - Roses are red - Violets are blue</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Test Email\\nFrom: \\\"Matthew Robinson\\\" <mrobinson@unstructured.io>\\nTo: \\\"Matthew Robinson\\\" <mrobinson@unstructured.io>\\nCC: \\\"Fake Email\\\" <fake-email@unstructured.io>, test@unstructured.io\\nBCC: \\\"Hello\\\" <hello@unstructured.io>\\nDate: Fri, 16 Dec 2022 17:04:16 -0500\\nThis is a test email to use for unit tests.\\r\\n\\r\\nImportant points:\\r\\n\\r\\n   - Roses are red\\r\\n   - Violets are blue\"}]}",
+    "markdown": "Subject: Test Email From: \"Matthew Robinson\" \\<mrobinson@unstructured.io\\> To: \"Matthew Robinson\" \\<mrobinson@unstructured.io\\> CC: \"Fake Email\" \\<fake-email@unstructured.io\\>, test@unstructured.io BCC: \"Hello\" \\<hello@unstructured.io\\> Date: Fri, 16 Dec 2022 17:04:16 -0500 This is a test email to use for unit tests. Important points: - Roses are red - Violets are blue\n",
+    "plain": "Subject: Test Email\nFrom: \"Matthew Robinson\" <mrobinson@unstructured.io>\nTo: \"Matthew Robinson\" <mrobinson@unstructured.io>\nCC: \"Fake Email\" <fake-email@unstructured.io>, test@unstructured.io\nBCC: \"Hello\" <hello@unstructured.io>\nDate: Fri, 16 Dec 2022 17:04:16 -0500\nThis is a test email to use for unit tests.\r\n\r\nImportant points:\r\n\r\n   - Roses are red\r\n   - Violets are blue"
+  }
+}

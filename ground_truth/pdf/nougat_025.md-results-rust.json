@@ -1,0 +1,113 @@
+{
+  "file": "ground_truth/pdf/nougat_025.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/nougat_025.md",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/nougat_025.md",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Security Symbol",
+          ": PKGP",
+          "PAKGEN POWER LIMITED",
+          "Page#",
+          ": 1 of 1"
+        ],
+        [
+          "Non Free Float Date",
+          ": 31/12/2020",
+          "",
+          "User",
+          ": C0069419"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Date",
+          ": 08/01/2021"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Time",
+          ": 11:24:23"
+        ],
+        [
+          "Category No.",
+          "Category Description",
+          "",
+          "No. Of Shares",
+          ""
+        ],
+        [
+          "Issued Share / Certificate Capital of the Company / Modaraba / Mutual Funds",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "372,081,591"
+        ],
+        [
+          "Less:",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Physical Shares",
+          "",
+          "",
+          "",
+          "(381,003)"
+        ],
+        [
+          "CAT02",
+          "Directors, Sponsors and Senior Management Officers and their Associates",
+          "",
+          "",
+          "(14,933,840)"
+        ],
+        [
+          "CAT04",
+          "Associate companies / Group Companies (cross holdings)",
+          "",
+          "",
+          "(199,565,474)"
+        ],
+        [
+          "Free Float Shares",
+          "",
+          "",
+          "",
+          "157,201,274"
+        ]
+      ],
+      "markdown": "| Security Symbol | : PKGP | PAKGEN POWER LIMITED | Page# | : 1 of 1 |\n| --- | --- | --- | --- | --- |\n| Non Free Float Date | : 31/12/2020 |  | User | : C0069419 |\n|  |  |  | Date | : 08/01/2021 |\n|  |  |  | Time | : 11:24:23 |\n| Category No. | Category Description |  | No. Of Shares |  |\n| Issued Share / Certificate Capital of the Company / Modaraba / Mutual Funds |  |  |  |  |\n|  |  |  |  | 372,081,591 |\n| Less: |  |  |  |  |\n| Physical Shares |  |  |  | (381,003) |\n| CAT02 | Directors, Sponsors and Senior Management Officers and their Associates |  |  | (14,933,840) |\n| CAT04 | Associate companies / Group Companies (cross holdings) |  |  | (199,565,474) |\n| Free Float Shares |  |  |  | 157,201,274 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h2>Central Depository Company of Pakistan Limited</h2>\n<h2>Non Free Float Security Wise Summary Report</h2>\n<table>\n<thead>\n<tr>\n<th>Security Symbol</th>\n<th>: PKGP</th>\n<th>PAKGEN POWER LIMITED</th>\n<th>Page#</th>\n<th>: 1 of 1</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Non Free Float Date</td>\n<td>: 31/12/2020</td>\n<td></td>\n<td>User</td>\n<td>: C0069419</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Date</td>\n<td>: 08/01/2021</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Time</td>\n<td>: 11:24:23</td>\n</tr>\n<tr>\n<td>Category No.</td>\n<td>Category Description</td>\n<td></td>\n<td>No. Of Shares</td>\n<td></td>\n</tr>\n<tr>\n<td>Issued Share / Certificate Capital of the Company / Modaraba / Mutual Funds</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>372,081,591</td>\n</tr>\n<tr>\n<td>Less:</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Physical Shares</td>\n<td></td>\n<td></td>\n<td></td>\n<td>(381,003)</td>\n</tr>\n<tr>\n<td>CAT02</td>\n<td>Directors, Sponsors and Senior Management Officers and their Associates</td>\n<td></td>\n<td></td>\n<td>(14,933,840)</td>\n</tr>\n<tr>\n<td>CAT04</td>\n<td>Associate companies / Group Companies (cross holdings)</td>\n<td></td>\n<td></td>\n<td>(199,565,474)</td>\n</tr>\n<tr>\n<td>Free Float Shares</td>\n<td></td>\n<td></td>\n<td></td>\n<td>157,201,274</td>\n</tr>\n</tbody>\n</table>\n<p>Confidential</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Central Depository Company of Pakistan Limited\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Non Free Float Security Wise Summary Report\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Security Symbol\",\": PKGP\",\"PAKGEN POWER LIMITED\",\"Page#\",\": 1 of 1\"],\"rows\":[[\"Non Free Float Date\",\": 31/12/2020\",\"\",\"User\",\": C0069419\"],[\"\",\"\",\"\",\"Date\",\": 08/01/2021\"],[\"\",\"\",\"\",\"Time\",\": 11:24:23\"],[\"Category No.\",\"Category Description\",\"\",\"No. Of Shares\",\"\"],[\"Issued Share / Certificate Capital of the Company / Modaraba / Mutual Funds\",\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\",\"372,081,591\"],[\"Less:\",\"\",\"\",\"\",\"\"],[\"Physical Shares\",\"\",\"\",\"\",\"(381,003)\"],[\"CAT02\",\"Directors, Sponsors and Senior Management Officers and their Associates\",\"\",\"\",\"(14,933,840)\"],[\"CAT04\",\"Associate companies / Group Companies (cross holdings)\",\"\",\"\",\"(199,565,474)\"],[\"Free Float Shares\",\"\",\"\",\"\",\"157,201,274\"]]},{\"type\":\"paragraph\",\"text\":\"Confidential\"}]}]}",
+    "markdown": "## Central Depository Company of Pakistan Limited\n\n## Non Free Float Security Wise Summary Report\n\n| Security Symbol | : PKGP | PAKGEN POWER LIMITED | Page\\# | : 1 of 1 |\n| --- | --- | --- | --- | --- |\n| Non Free Float Date | : 31/12/2020 |  | User | : C0069419 |\n|  |  |  | Date | : 08/01/2021 |\n|  |  |  | Time | : 11:24:23 |\n| Category No. | Category Description |  | No. Of Shares |  |\n| Issued Share / Certificate Capital of the Company / Modaraba / Mutual Funds |  |  |  |  |\n|  |  |  |  | 372,081,591 |\n| Less: |  |  |  |  |\n| Physical Shares |  |  |  | (381,003) |\n| CAT02 | Directors, Sponsors and Senior Management Officers and their Associates |  |  | (14,933,840) |\n| CAT04 | Associate companies / Group Companies (cross holdings) |  |  | (199,565,474) |\n| Free Float Shares |  |  |  | 157,201,274 |\n\nConfidential\n",
+    "plain": "  Central Depository Company of Pakistan Limited\n\n  Non Free Float Security Wise Summary Report\nSecurity Symbol : PKGP PAKGEN POWER LIMITED Page# : 1 of 1\nNon Free Float Date : 31/12/2020  User : C0069419\n   Date : 08/01/2021\n   Time : 11:24:23\nCategory No. Category Description  No. Of Shares \nIssued Share / Certificate Capital of the Company / Modaraba / Mutual Funds    \n    372,081,591\nLess:    \nPhysical Shares    (381,003)\nCAT02 Directors, Sponsors and Senior Management Officers and their Associates   (14,933,840)\nCAT04 Associate companies / Group Companies (cross holdings)   (199,565,474)\nFree Float Shares    157,201,274\n\nConfidential"
+  }
+}

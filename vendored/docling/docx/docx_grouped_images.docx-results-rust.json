@@ -1,0 +1,77 @@
+{
+  "file": "vendored/docling/docx/docx_grouped_images.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Cesar Berrospi Ramis"
+    ],
+    "created_at": "2026-01-08T15:19:00Z",
+    "modified_at": "2026-01-08T15:48:00Z",
+    "created_by": "Cesar Berrospi Ramis",
+    "modified_by": "Cesar Berrospi Ramis",
+    "format": {
+      "format_type": "docx",
+      "core_properties": {
+        "title": null,
+        "subject": null,
+        "creator": "Cesar Berrospi Ramis",
+        "keywords": null,
+        "description": null,
+        "last_modified_by": "Cesar Berrospi Ramis",
+        "revision": "10",
+        "created": "2026-01-08T15:19:00Z",
+        "modified": "2026-01-08T15:48:00Z",
+        "category": null,
+        "content_status": null,
+        "language": null,
+        "identifier": null,
+        "version": null,
+        "last_printed": null
+      },
+      "app_properties": {
+        "application": "Microsoft Office Word",
+        "app_version": "16.0000",
+        "template": "Normal.dotm",
+        "total_time": 18,
+        "pages": 1,
+        "words": 100,
+        "characters": 535,
+        "characters_with_spaces": 617,
+        "lines": 23,
+        "paragraphs": 18,
+        "company": null,
+        "doc_security": 0,
+        "scale_crop": false,
+        "links_up_to_date": false,
+        "shared_doc": false,
+        "hyperlinks_changed": false
+      },
+      "custom_properties": {}
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/docling/docx/docx_grouped_images.docx",
+      "source_index": 0,
+      "paragraph_count": 18,
+      "application": "Microsoft Office Word",
+      "total_editing_time_minutes": 18,
+      "final_uri": "vendored/docling/docx/docx_grouped_images.docx",
+      "word_count": 100,
+      "character_count": 535,
+      "revision": "10",
+      "line_count": 23,
+      "source_kind": "uri",
+      "page_count": 1,
+      "template": "Normal.dotm"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Grouped images</h1>\n<p><img src=\"media/image1.png\" alt=\"\" /></p>\n<p>There are 2 pictures grouped together</p>\n<p><img src=\"media/image5.png\" alt=\"Docling Java\" /></p>\n<p><img src=\"media/image6.png\" alt=\"Docling\" /></p>\n<p>There are 2 pictures ungrouped, each wrapped “Top and bottom” </p>\n<h1>Ungrouped images</h1>\n<p>There are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs</p>\n<p><img src=\"media/image7.png\" alt=\"Docling\" /></p>\n<p><img src=\"media/image8.png\" alt=\"Docling\" /></p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Grouped images\",\"level\":1,\"body\":[{\"type\":\"image\",\"src\":\"media/image1.png\"},{\"type\":\"paragraph\",\"text\":\"There are 2 pictures grouped together\"},{\"type\":\"image\",\"alt\":\"Docling Java\",\"src\":\"media/image5.png\"},{\"type\":\"image\",\"alt\":\"Docling\",\"src\":\"media/image6.png\"},{\"type\":\"paragraph\",\"text\":\"There are 2 pictures ungrouped, each wrapped “Top and bottom”  \"}]},{\"type\":\"section\",\"heading\":\"Ungrouped images\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"There are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs\"},{\"type\":\"image\",\"alt\":\"Docling\",\"src\":\"media/image7.png\"},{\"type\":\"image\",\"alt\":\"Docling\",\"src\":\"media/image8.png\"}]}]}",
+    "markdown": "# Grouped images\n\n![](media/image1.png)\n\nThere are 2 pictures grouped together\n\n![Docling Java](media/image5.png)\n\n![Docling](media/image6.png)\n\nThere are 2 pictures ungrouped, each wrapped “Top and bottom” \n\n# Ungrouped images\n\nThere are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs\n\n![Docling](media/image7.png)\n\n![Docling](media/image8.png)\n",
+    "plain": "Grouped images\nThere are 2 pictures grouped together\n\n[Image: Docling Java]\n\n[Image: Docling]\n\nThere are 2 pictures ungrouped, each wrapped “Top and bottom”  \n\nUngrouped images\nThere are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs\n\n[Image: Docling]\n\n[Image: Docling]"
+  }
+}

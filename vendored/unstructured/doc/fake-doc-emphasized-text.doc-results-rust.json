@@ -1,0 +1,31 @@
+{
+  "file": "vendored/unstructured/doc/fake-doc-emphasized-text.doc",
+  "mime_type": "application/msword",
+  "success": true,
+  "metadata": {
+    "title": "",
+    "subject": "",
+    "authors": [
+      "Win"
+    ],
+    "created_by": "Win",
+    "modified_by": "Win",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "extraction_method": "native_ole",
+      "revision": "2",
+      "source_kind": "uri",
+      "source_uri": "vendored/unstructured/doc/fake-doc-emphasized-text.doc",
+      "final_uri": "vendored/unstructured/doc/fake-doc-emphasized-text.doc"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Header Col 1 \tHeader Col 2\t\tA bold italic bold-italic example\tHYPERLINK &quot;http://github.com/&quot;A Link example \t\t I am a bold italic bold-italic text.</p>\n<p>I am a normal text.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Header Col 1 \\tHeader Col 2\\t\\tA bold italic bold-italic example\\tHYPERLINK \\\"http://github.com/\\\"A Link example \\t\\t\\nI am a bold italic bold-italic text.\"},{\"type\":\"paragraph\",\"text\":\"I am a normal text.\"}]}",
+    "markdown": "Header Col 1 &#9;Header Col 2&#9;&#9;A bold italic bold-italic example&#9;HYPERLINK \"http://github.com/\"A Link example &#9;&#9; I am a bold italic bold-italic text.\n\nI am a normal text.\n",
+    "plain": "Header Col 1 \tHeader Col 2\t\tA bold italic bold-italic example\tHYPERLINK \"http://github.com/\"A Link example \t\t\nI am a bold italic bold-italic text.\n\nI am a normal text."
+  }
+}

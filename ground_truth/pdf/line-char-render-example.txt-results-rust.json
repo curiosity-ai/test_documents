@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/line-char-render-example.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 6,
+      "word_count": 6,
+      "character_count": 37
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/line-char-render-example.txt",
+      "source_uri": "ground_truth/pdf/line-char-render-example.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>first line</p>\n<p>second line</p>\n<p>third line</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"first line\"},{\"type\":\"paragraph\",\"text\":\"second line\"},{\"type\":\"paragraph\",\"text\":\"third line\"}]}",
+    "markdown": "first line\n\nsecond line\n\nthird line\n",
+    "plain": "first line\n\nsecond line\n\nthird line"
+  }
+}

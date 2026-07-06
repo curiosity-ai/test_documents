@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/xml/factbook.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 18,
+      "word_count": 42,
+      "character_count": 294
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/xml/factbook.txt",
+      "final_uri": "ground_truth/xml/factbook.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>name: United States capital: Washington, DC leader: Joe Biden sport: Baseball name: Canada capital: Ottawa leader: Justin Trudeau sport: Hockey name: France capital: Paris leader: Emmanuel Macron sport: Soccer name: Trinidad Tobado capital: Port of Spain leader: Keith Rowley sport: Track Field</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"name: United States\\ncapital: Washington, DC\\nleader: Joe Biden\\nsport: Baseball\\nname: Canada\\ncapital: Ottawa\\nleader: Justin Trudeau\\nsport: Hockey\\nname: France\\ncapital: Paris\\nleader: Emmanuel Macron\\nsport: Soccer\\nname: Trinidad\\nTobado\\ncapital: Port of Spain\\nleader: Keith Rowley\\nsport: Track\\nField\"}]}",
+    "markdown": "name: United States capital: Washington, DC leader: Joe Biden sport: Baseball name: Canada capital: Ottawa leader: Justin Trudeau sport: Hockey name: France capital: Paris leader: Emmanuel Macron sport: Soccer name: Trinidad Tobado capital: Port of Spain leader: Keith Rowley sport: Track Field\n",
+    "plain": "name: United States\ncapital: Washington, DC\nleader: Joe Biden\nsport: Baseball\nname: Canada\ncapital: Ottawa\nleader: Justin Trudeau\nsport: Hockey\nname: France\ncapital: Paris\nleader: Emmanuel Macron\nsport: Soccer\nname: Trinidad\nTobado\ncapital: Port of Spain\nleader: Keith Rowley\nsport: Track\nField"
+  }
+}

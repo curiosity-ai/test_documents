@@ -1,0 +1,47 @@
+{
+  "file": "json/openapi_spec.json",
+  "mime_type": "application/json",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "paths./users.get.parameters[0].description": "Maximum number of users to return",
+      "source_uri": "json/openapi_spec.json",
+      "paths./users.get.description": "Returns a list of users",
+      "components.schemas.User.properties.email.type": "string",
+      "info.version": "1.0.0",
+      "paths./users.get.parameters[0].schema.type": "integer",
+      "servers[0].description": "Production server",
+      "info.description": "This is a sample API specification",
+      "paths./users.get.responses.200.content.application/json.schema.type": "array",
+      "servers[1].url": "https://staging-api.example.com/v1",
+      "paths./users.get.parameters[0].name": "limit",
+      "field_count": 23,
+      "paths./users.get.summary": "Get all users",
+      "components.schemas.User.properties.id.type": "integer",
+      "info.contact.name": "API Support",
+      "info.title": "Sample API",
+      "info.license.name": "Apache 2.0",
+      "components.schemas.User.properties.username.type": "string",
+      "servers[1].description": "Staging server",
+      "info.license.url": "https://www.apache.org/licenses/LICENSE-2.0.html",
+      "data_format": "json",
+      "info.contact.url": "https://www.example.com/support",
+      "paths./users.get.responses.200.description": "Successful response",
+      "servers[0].url": "https://api.example.com/v1",
+      "components.schemas.User.type": "object",
+      "source_index": 0,
+      "final_uri": "json/openapi_spec.json",
+      "info.contact.email": "support@example.com"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>openapi: 3.0.0</p>\n<h1>info</h1>\n<p>title: Sample API</p>\n<p>description: This is a sample API specification</p>\n<p>version: 1.0.0</p>\n<h2>contact</h2>\n<p>name: API Support</p>\n<p>email: support@example.com</p>\n<p>url: https://www.example.com/support</p>\n<h2>license</h2>\n<p>name: Apache 2.0</p>\n<p>url: https://www.apache.org/licenses/LICENSE-2.0.html</p>\n<h1>servers</h1>\n<ul>\n<li>{&quot;url&quot;:&quot;https://api.example.com/v1&quot;,&quot;description&quot;:&quot;Production server&quot;}</li>\n<li>{&quot;url&quot;:&quot;https://staging-api.example.com/v1&quot;,&quot;description&quot;:&quot;Staging server&quot;}</li>\n</ul>\n<h1>paths</h1>\n<h2>/users</h2>\n<h3>get</h3>\n<p>summary: Get all users</p>\n<p>description: Returns a list of users</p>\n<p>operationId: getUsers</p>\n<h4>parameters</h4>\n<ul>\n<li>{&quot;name&quot;:&quot;limit&quot;,&quot;in&quot;:&quot;query&quot;,&quot;description&quot;:&quot;Maximum number of users to return&quot;,&quot;required&quot;:false,&quot;schema&quot;:{&quot;type&quot;:&quot;integer&quot;,&quot;default&quot;:10}}</li>\n</ul>\n<h4>responses</h4>\n<h5>200</h5>\n<p>description: Successful response</p>\n<h6>content</h6>\n<h6>application/json</h6>\n<h6>schema</h6>\n<p>type: array</p>\n<h6>items</h6>\n<p>$ref: #/components/schemas/User</p>\n<h1>components</h1>\n<h2>schemas</h2>\n<h3>User</h3>\n<p>type: object</p>\n<h4>properties</h4>\n<h5>id</h5>\n<p>type: integer</p>\n<p>format: int64</p>\n<h5>username</h5>\n<p>type: string</p>\n<h5>email</h5>\n<p>type: string</p>\n<p>format: email</p>\n<h4>required</h4>\n<ul>\n<li>id</li>\n<li>username</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"openapi: 3.0.0\"},{\"type\":\"section\",\"heading\":\"info\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"title: Sample API\"},{\"type\":\"paragraph\",\"text\":\"description: This is a sample API specification\"},{\"type\":\"paragraph\",\"text\":\"version: 1.0.0\"},{\"type\":\"section\",\"heading\":\"contact\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"name: API Support\"},{\"type\":\"paragraph\",\"text\":\"email: support@example.com\"},{\"type\":\"paragraph\",\"text\":\"url: https://www.example.com/support\"}]},{\"type\":\"section\",\"heading\":\"license\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"name: Apache 2.0\"},{\"type\":\"paragraph\",\"text\":\"url: https://www.apache.org/licenses/LICENSE-2.0.html\"}]}]},{\"type\":\"section\",\"heading\":\"servers\",\"level\":1,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"{\\\"url\\\":\\\"https://api.example.com/v1\\\",\\\"description\\\":\\\"Production server\\\"}\",\"{\\\"url\\\":\\\"https://staging-api.example.com/v1\\\",\\\"description\\\":\\\"Staging server\\\"}\"]}]},{\"type\":\"section\",\"heading\":\"paths\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"/users\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"get\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"summary: Get all users\"},{\"type\":\"paragraph\",\"text\":\"description: Returns a list of users\"},{\"type\":\"paragraph\",\"text\":\"operationId: getUsers\"},{\"type\":\"section\",\"heading\":\"parameters\",\"level\":4,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"{\\\"name\\\":\\\"limit\\\",\\\"in\\\":\\\"query\\\",\\\"description\\\":\\\"Maximum number of users to return\\\",\\\"required\\\":false,\\\"schema\\\":{\\\"type\\\":\\\"integer\\\",\\\"default\\\":10}}\"]}]},{\"type\":\"section\",\"heading\":\"responses\",\"level\":4,\"body\":[{\"type\":\"section\",\"heading\":\"200\",\"level\":5,\"body\":[{\"type\":\"paragraph\",\"text\":\"description: Successful response\"},{\"type\":\"section\",\"heading\":\"content\",\"level\":6,\"body\":[]},{\"type\":\"section\",\"heading\":\"application/json\",\"level\":6,\"body\":[]},{\"type\":\"section\",\"heading\":\"schema\",\"level\":6,\"body\":[{\"type\":\"paragraph\",\"text\":\"type: array\"}]},{\"type\":\"section\",\"heading\":\"items\",\"level\":6,\"body\":[{\"type\":\"paragraph\",\"text\":\"$ref: #/components/schemas/User\"}]}]}]}]}]}]},{\"type\":\"section\",\"heading\":\"components\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"schemas\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"User\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"type: object\"},{\"type\":\"section\",\"heading\":\"properties\",\"level\":4,\"body\":[{\"type\":\"section\",\"heading\":\"id\",\"level\":5,\"body\":[{\"type\":\"paragraph\",\"text\":\"type: integer\"},{\"type\":\"paragraph\",\"text\":\"format: int64\"}]},{\"type\":\"section\",\"heading\":\"username\",\"level\":5,\"body\":[{\"type\":\"paragraph\",\"text\":\"type: string\"}]},{\"type\":\"section\",\"heading\":\"email\",\"level\":5,\"body\":[{\"type\":\"paragraph\",\"text\":\"type: string\"},{\"type\":\"paragraph\",\"text\":\"format: email\"}]}]},{\"type\":\"section\",\"heading\":\"required\",\"level\":4,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"id\",\"username\"]}]}]}]}]}]}",
+    "markdown": "openapi: 3.0.0\n\n# info\n\ntitle: Sample API\n\ndescription: This is a sample API specification\n\nversion: 1.0.0\n\n## contact\n\nname: API Support\n\nemail: support@example.com\n\nurl: https://www.example.com/support\n\n## license\n\nname: Apache 2.0\n\nurl: https://www.apache.org/licenses/LICENSE-2.0.html\n\n# servers\n\n- {\"url\":\"https://api.example.com/v1\",\"description\":\"Production server\"}\n- {\"url\":\"https://staging-api.example.com/v1\",\"description\":\"Staging server\"}\n\n# paths\n\n## /users\n\n### get\n\nsummary: Get all users\n\ndescription: Returns a list of users\n\noperationId: getUsers\n\n#### parameters\n\n- {\"name\":\"limit\",\"in\":\"query\",\"description\":\"Maximum number of users to return\",\"required\":false,\"schema\":{\"type\":\"integer\",\"default\":10}}\n\n#### responses\n\n##### 200\n\ndescription: Successful response\n\n###### content\n\n###### application/json\n\n###### schema\n\ntype: array\n\n###### items\n\n$ref: \\#/components/schemas/User\n\n# components\n\n## schemas\n\n### User\n\ntype: object\n\n#### properties\n\n##### id\n\ntype: integer\n\nformat: int64\n\n##### username\n\ntype: string\n\n##### email\n\ntype: string\n\nformat: email\n\n#### required\n\n- id\n- username\n",
+    "plain": "openapi: 3.0.0\n\ninfo\ntitle: Sample API\n\ndescription: This is a sample API specification\n\nversion: 1.0.0\n\n  contact\nname: API Support\n\nemail: support@example.com\n\nurl: https://www.example.com/support\n\n  license\nname: Apache 2.0\n\nurl: https://www.apache.org/licenses/LICENSE-2.0.html\n\nservers\n{\"url\":\"https://api.example.com/v1\",\"description\":\"Production server\"}\n{\"url\":\"https://staging-api.example.com/v1\",\"description\":\"Staging server\"}\n\npaths\n  /users\n    get\nsummary: Get all users\n\ndescription: Returns a list of users\n\noperationId: getUsers\n\n      parameters\n{\"name\":\"limit\",\"in\":\"query\",\"description\":\"Maximum number of users to return\",\"required\":false,\"schema\":{\"type\":\"integer\",\"default\":10}}\n      responses\n        200\ndescription: Successful response\n\n          content\n          application/json\n          schema\ntype: array\n\n          items\n$ref: #/components/schemas/User\n\ncomponents\n  schemas\n    User\ntype: object\n\n      properties\n        id\ntype: integer\n\nformat: int64\n\n        username\ntype: string\n\n        email\ntype: string\n\nformat: email\n\n      required\nid\nusername"
+  }
+}

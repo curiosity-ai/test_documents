@@ -1,0 +1,32 @@
+{
+  "file": "vendored/pdfplumber/pdf/hello_structure.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 2
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "vendored/pdfplumber/pdf/hello_structure.pdf",
+      "extraction_method": "native",
+      "final_uri": "vendored/pdfplumber/pdf/hello_structure.pdf"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Hello World</h1>\n<h1>Goodbye Cruel World...</h1>\n<p>I'll be back shortly!</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Hello World\"},{\"type\":\"paragraph\",\"text\":\"Goodbye Cruel World...\"},{\"type\":\"paragraph\",\"text\":\"I’ll be back shortly!\"}]}",
+    "markdown": "# Hello World\n\n# Goodbye Cruel World...\n\nI'll be back shortly\\!\n",
+    "plain": "Hello World\n\nGoodbye Cruel World...\n\nI’ll be back shortly!"
+  }
+}

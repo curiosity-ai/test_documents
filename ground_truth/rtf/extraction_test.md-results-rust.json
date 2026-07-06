@@ -1,0 +1,76 @@
+{
+  "file": "ground_truth/rtf/extraction_test.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Comprehensive Extraction Test Document",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/rtf/extraction_test.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/rtf/extraction_test.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Header 1",
+          "Header 2",
+          "Header 3"
+        ],
+        [
+          "Cell 1A",
+          "Cell 1B",
+          "Cell 1C"
+        ],
+        [
+          "Cell 2A",
+          "Cell 2B",
+          "Cell 2C"
+        ],
+        [
+          "Cell 3A",
+          "Cell 3B",
+          "Cell 3C"
+        ]
+      ],
+      "markdown": "| Header 1 | Header 2 | Header 3 |\n| --- | --- | --- |\n| Cell 1A | Cell 1B | Cell 1C |\n| Cell 2A | Cell 2B | Cell 2C |\n| Cell 3A | Cell 3B | Cell 3C |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Product",
+          "Price",
+          "Quantity"
+        ],
+        [
+          "Apple",
+          "$1.00",
+          "10"
+        ],
+        [
+          "Banana",
+          "$0.50",
+          "20"
+        ],
+        [
+          "Orange",
+          "$0.75",
+          "15"
+        ]
+      ],
+      "markdown": "| Product | Price | Quantity |\n| --- | --- | --- |\n| Apple | $1.00 | 10 |\n| Banana | $0.50 | 20 |\n| Orange | $0.75 | 15 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Comprehensive Extraction Test Document</h1>\n<h2>First Section</h2>\n<p>This is a regular text paragraph in the first section. It contains some content that should be extracted completely.</p>\n<h3>Subsection 1.1</h3>\n<p>Here is more content in a subsection. This tests the heading hierarchy extraction.</p>\n<h2>Second Section</h2>\n<p>This is the content of the second section with different text.</p>\n<h3>Table Section</h3>\n<p>Here is a table with headers and multiple rows:</p>\n<table>\n<thead>\n<tr>\n<th>Header 1</th>\n<th>Header 2</th>\n<th>Header 3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Cell 1A</td>\n<td>Cell 1B</td>\n<td>Cell 1C</td>\n</tr>\n<tr>\n<td>Cell 2A</td>\n<td>Cell 2B</td>\n<td>Cell 2C</td>\n</tr>\n<tr>\n<td>Cell 3A</td>\n<td>Cell 3B</td>\n<td>Cell 3C</td>\n</tr>\n</tbody>\n</table>\n<h3>Another Table</h3>\n<table>\n<thead>\n<tr>\n<th>Product</th>\n<th>Price</th>\n<th>Quantity</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Apple</td>\n<td>$1.00</td>\n<td>10</td>\n</tr>\n<tr>\n<td>Banana</td>\n<td>$0.50</td>\n<td>20</td>\n</tr>\n<tr>\n<td>Orange</td>\n<td>$0.75</td>\n<td>15</td>\n</tr>\n</tbody>\n</table>\n<h2>Third Section</h2>\n<p>This is content in the third section to ensure multiple sections are extracted.</p>\n<p>More detailed content about the third section with additional text to verify complete extraction.</p>\n<h3>Subsection 3.1</h3>\n<p>Some more nested content in subsection 3.1.</p>\n<h2>Final Section</h2>\n<p>This final section ensures we capture all content, including: - Multiple paragraphs - Different heading levels - Multiple tables - Various content types</p>\n<p>The extraction should capture everything listed here completely.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Comprehensive Extraction Test Document\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"First Section\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a regular text paragraph in the first section. It contains some content that should be extracted completely.\"},{\"type\":\"section\",\"heading\":\"Subsection 1.1\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Here is more content in a subsection. This tests the heading hierarchy extraction.\"}]}]},{\"type\":\"section\",\"heading\":\"Second Section\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is the content of the second section with different text.\"},{\"type\":\"section\",\"heading\":\"Table Section\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Here is a table with headers and multiple rows:\"},{\"type\":\"table\",\"headers\":[\"Header 1\",\"Header 2\",\"Header 3\"],\"rows\":[[\"Cell 1A\",\"Cell 1B\",\"Cell 1C\"],[\"Cell 2A\",\"Cell 2B\",\"Cell 2C\"],[\"Cell 3A\",\"Cell 3B\",\"Cell 3C\"]]}]},{\"type\":\"section\",\"heading\":\"Another Table\",\"level\":3,\"body\":[{\"type\":\"table\",\"headers\":[\"Product\",\"Price\",\"Quantity\"],\"rows\":[[\"Apple\",\"$1.00\",\"10\"],[\"Banana\",\"$0.50\",\"20\"],[\"Orange\",\"$0.75\",\"15\"]]}]}]},{\"type\":\"section\",\"heading\":\"Third Section\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is content in the third section to ensure multiple sections are extracted.\"},{\"type\":\"paragraph\",\"text\":\"More detailed content about the third section with additional text to verify complete extraction.\"},{\"type\":\"section\",\"heading\":\"Subsection 3.1\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Some more nested content in subsection 3.1.\"}]}]},{\"type\":\"section\",\"heading\":\"Final Section\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"This final section ensures we capture all content, including: - Multiple paragraphs - Different heading levels - Multiple tables - Various content types\"},{\"type\":\"paragraph\",\"text\":\"The extraction should capture everything listed here completely.\"}]}]}]}",
+    "markdown": "# Comprehensive Extraction Test Document\n\n## First Section\n\nThis is a regular text paragraph in the first section. It contains some content that should be extracted completely.\n\n### Subsection 1.1\n\nHere is more content in a subsection. This tests the heading hierarchy extraction.\n\n## Second Section\n\nThis is the content of the second section with different text.\n\n### Table Section\n\nHere is a table with headers and multiple rows:\n\n| Header 1 | Header 2 | Header 3 |\n| --- | --- | --- |\n| Cell 1A | Cell 1B | Cell 1C |\n| Cell 2A | Cell 2B | Cell 2C |\n| Cell 3A | Cell 3B | Cell 3C |\n\n### Another Table\n\n| Product | Price | Quantity |\n| --- | --- | --- |\n| Apple | $1.00 | 10 |\n| Banana | $0.50 | 20 |\n| Orange | $0.75 | 15 |\n\n## Third Section\n\nThis is content in the third section to ensure multiple sections are extracted.\n\nMore detailed content about the third section with additional text to verify complete extraction.\n\n### Subsection 3.1\n\nSome more nested content in subsection 3.1.\n\n## Final Section\n\nThis final section ensures we capture all content, including: - Multiple paragraphs - Different heading levels - Multiple tables - Various content types\n\nThe extraction should capture everything listed here completely.\n",
+    "plain": "Comprehensive Extraction Test Document\n  First Section\nThis is a regular text paragraph in the first section. It contains some content that should be extracted completely.\n\n    Subsection 1.1\nHere is more content in a subsection. This tests the heading hierarchy extraction.\n\n  Second Section\nThis is the content of the second section with different text.\n\n    Table Section\nHere is a table with headers and multiple rows:\n\nHeader 1 Header 2 Header 3\nCell 1A Cell 1B Cell 1C\nCell 2A Cell 2B Cell 2C\nCell 3A Cell 3B Cell 3C\n\n    Another Table\nProduct Price Quantity\nApple $1.00 10\nBanana $0.50 20\nOrange $0.75 15\n\n  Third Section\nThis is content in the third section to ensure multiple sections are extracted.\n\nMore detailed content about the third section with additional text to verify complete extraction.\n\n    Subsection 3.1\nSome more nested content in subsection 3.1.\n\n  Final Section\nThis final section ensures we capture all content, including: - Multiple paragraphs - Different heading levels - Multiple tables - Various content types\n\nThe extraction should capture everything listed here completely."
+  }
+}

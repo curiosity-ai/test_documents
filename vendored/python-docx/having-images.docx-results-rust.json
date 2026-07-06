@@ -1,0 +1,78 @@
+{
+  "file": "vendored/python-docx/having-images.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Steve Canny"
+    ],
+    "created_at": "2013-12-27T10:01:00Z",
+    "modified_at": "2013-12-27T10:36:00Z",
+    "created_by": "Steve Canny",
+    "modified_by": "Steve Canny",
+    "format": {
+      "format_type": "docx",
+      "core_properties": {
+        "title": null,
+        "subject": null,
+        "creator": "Steve Canny",
+        "keywords": null,
+        "description": null,
+        "last_modified_by": "Steve Canny",
+        "revision": "3",
+        "created": "2013-12-27T10:01:00Z",
+        "modified": "2013-12-27T10:36:00Z",
+        "category": null,
+        "content_status": null,
+        "language": null,
+        "identifier": null,
+        "version": null,
+        "last_printed": null
+      },
+      "app_properties": {
+        "application": "Microsoft Macintosh Word",
+        "app_version": "14.0000",
+        "template": "Normal.dotm",
+        "total_time": 4,
+        "pages": 1,
+        "words": 1,
+        "characters": 9,
+        "characters_with_spaces": 9,
+        "lines": 1,
+        "paragraphs": 1,
+        "company": "Cisco Systems, Inc.",
+        "doc_security": 0,
+        "scale_crop": false,
+        "links_up_to_date": false,
+        "shared_doc": false,
+        "hyperlinks_changed": false
+      },
+      "custom_properties": {}
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/python-docx/having-images.docx",
+      "page_count": 1,
+      "word_count": 1,
+      "template": "Normal.dotm",
+      "source_index": 0,
+      "company": "Cisco Systems, Inc.",
+      "source_kind": "uri",
+      "line_count": 1,
+      "application": "Microsoft Macintosh Word",
+      "final_uri": "vendored/python-docx/having-images.docx",
+      "revision": "3",
+      "paragraph_count": 1,
+      "total_editing_time_minutes": 4,
+      "character_count": 9
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><img src=\"media/image1.png\" alt=\"\" /></p>\n<p><img src=\"media/image2.png\" alt=\"\" /></p>\n<p><img src=\"media/image3.png\" alt=\"\" /></p>\n<p><img src=\"media/image2.png\" alt=\"\" /></p>\n<p><img src=\"media/image3.png\" alt=\"\" /></p>\n",
+    "json": "{\"body\":[{\"type\":\"image\",\"src\":\"media/image1.png\"},{\"type\":\"image\",\"src\":\"media/image2.png\"},{\"type\":\"image\",\"src\":\"media/image3.png\"},{\"type\":\"image\",\"src\":\"media/image2.png\"},{\"type\":\"image\",\"src\":\"media/image3.png\"}]}",
+    "markdown": "![](media/image1.png)\n\n![](media/image2.png)\n\n![](media/image3.png)\n\n![](media/image2.png)\n\n![](media/image3.png)\n",
+    "plain": ""
+  }
+}

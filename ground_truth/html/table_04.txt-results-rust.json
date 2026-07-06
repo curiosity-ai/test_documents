@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/table_04.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 15,
+      "word_count": 45,
+      "character_count": 716
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/html/table_04.txt",
+      "final_uri": "ground_truth/html/table_04.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Header</p>\n<p>This is the first paragraph.</p>\n<p>+-----------------------------------+-----------------------------------+ | A | B | +-----------------------------------+-----------------------------------+ | Some text before list | 2... | | | | | - First item | | | - Second item | | | - Third item | | +-----------------------------------+-----------------------------------+</p>\n<p>After table</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Header\"},{\"type\":\"paragraph\",\"text\":\"This is the first paragraph.\"},{\"type\":\"paragraph\",\"text\":\"+-----------------------------------+-----------------------------------+\\n| A                                 | B                                 |\\n+-----------------------------------+-----------------------------------+\\n| Some text before list             | 2...                              |\\n|                                   |                                   |\\n| - First item                      |                                   |\\n| - Second item                     |                                   |\\n| - Third item                      |                                   |\\n+-----------------------------------+-----------------------------------+\"},{\"type\":\"paragraph\",\"text\":\"After table\"}]}",
+    "markdown": "Header\n\nThis is the first paragraph.\n\n\\+-----------------------------------+-----------------------------------+ | A | B | +-----------------------------------+-----------------------------------+ | Some text before list | 2... | | | | | - First item | | | - Second item | | | - Third item | | +-----------------------------------+-----------------------------------+\n\nAfter table\n",
+    "plain": "Header\n\nThis is the first paragraph.\n\n+-----------------------------------+-----------------------------------+\n| A                                 | B                                 |\n+-----------------------------------+-----------------------------------+\n| Some text before list             | 2...                              |\n|                                   |                                   |\n| - First item                      |                                   |\n| - Second item                     |                                   |\n| - Third item                      |                                   |\n+-----------------------------------+-----------------------------------+\n\nAfter table"
+  }
+}

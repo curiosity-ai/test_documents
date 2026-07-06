@@ -1,0 +1,1223 @@
+{
+  "file": "ground_truth/pdf/pdfa_039.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/pdfa_039.md",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/pdf/pdfa_039.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Time",
+          "F/P/S",
+          "Event",
+          "Place",
+          "Points",
+          "Improv"
+        ],
+        [
+          "Adams, Felix (10) M",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "37.90S",
+          "F # 1B",
+          "Male 10-10 50 Free",
+          "RAUWN-WN",
+          "14",
+          "---"
+        ],
+        [
+          "44.05S",
+          "F # 7B",
+          "Male 10-10 50 Back",
+          "RAUWN-WN",
+          "12",
+          "---"
+        ],
+        [
+          "1:27.56S",
+          "F # 10B",
+          "Male 10-10 100 Free",
+          "RAUWN-WN",
+          "15",
+          "---"
+        ],
+        [
+          "1:44.15S",
+          "F # 14B",
+          "Male 10-10 100 IM",
+          "RAUWN-WN",
+          "15",
+          "---"
+        ],
+        [
+          "51.78S",
+          "F # 19B",
+          "Male 10-10 50 Breast",
+          "RAUWN-WN",
+          "11",
+          "---"
+        ],
+        [
+          "1:36.30S",
+          "F # 23B",
+          "Male 10-10 100 Back",
+          "RAUWN-WN",
+          "10",
+          "1"
+        ],
+        [
+          "Anderson, Alice (11) F",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "42.19S",
+          "F # 2C",
+          "Female 11-11 50 Free",
+          "RAUWN-WN",
+          "42",
+          "---"
+        ],
+        [
+          "49.64S",
+          "F # 8C",
+          "Female 11-11 50 Back",
+          "RAUWN-WN",
+          "38",
+          "---"
+        ],
+        [
+          "Bazley, Charlie (10) M",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "39.82S",
+          "F # 1B",
+          "Male 10-10 50 Free",
+          "RAUWN-WN",
+          "22",
+          "---"
+        ],
+        [
+          "46.37S",
+          "F # 7B",
+          "Male 10-10 50 Back",
+          "RAUWN-WN",
+          "20",
+          "---"
+        ],
+        [
+          "1:40.14S",
+          "F # 14B",
+          "Male 10-10 100 IM",
+          "RAUWN-WN",
+          "12",
+          "---"
+        ],
+        [
+          "1:40.95S DQ",
+          "F # 23B",
+          "Male 10-10 100 Back",
+          "RAUWN-WN",
+          "---",
+          "---"
+        ],
+        [
+          "44.86S",
+          "F # 32B",
+          "Male 10-10 50 Fly",
+          "RAUWN-WN",
+          "7",
+          "4"
+        ],
+        [
+          "Brown, Cameron (12) M",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "35.61S",
+          "F # 1D",
+          "Male 12-12 50 Free",
+          "RAUWN-WN",
+          "30",
+          "---"
+        ],
+        [
+          "3:09.70S DQ",
+          "F # 3C",
+          "Male 12-12 200 IM",
+          "RAUWN-WN",
+          "---",
+          "---"
+        ],
+        [
+          "42.63S",
+          "F # 7D",
+          "Male 12-12 50 Back",
+          "RAUWN-WN",
+          "21",
+          "---"
+        ],
+        [
+          "1:17.36S",
+          "F # 10D",
+          "Male 12-12 100 Free",
+          "RAUWN-WN",
+          "22",
+          "---"
+        ],
+        [
+          "1:33.37S",
+          "F # 14D",
+          "Male 12-12 100 IM",
+          "RAUWN-WN",
+          "22",
+          "---"
+        ],
+        [
+          "46.19S",
+          "F # 19D",
+          "Male 12-12 50 Breast",
+          "RAUWN-WN",
+          "10",
+          "1"
+        ],
+        [
+          "1:27.64S",
+          "F # 23D",
+          "Male 12-12 100 Back",
+          "RAUWN-WN",
+          "12",
+          "---"
+        ],
+        [
+          "1:40.46S",
+          "F # 30D",
+          "Male 12-12 100 Breast",
+          "RAUWN-WN",
+          "10",
+          "1"
+        ],
+        [
+          "43.28S",
+          "F # 32D",
+          "Male 12-12 50 Fly",
+          "RAUWN-WN",
+          "19",
+          "---"
+        ],
+        [
+          "Burdett, Emily (11) F",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "34.61S",
+          "F # 2C",
+          "Female 11-11 50 Free",
+          "RAUWN-WN",
+          "19",
+          "---"
+        ],
+        [
+          "41.73S",
+          "F # 8C",
+          "Female 11-11 50 Back",
+          "RAUWN-WN",
+          "22",
+          "---"
+        ],
+        [
+          "1:16.88S",
+          "F # 9C",
+          "Female 11-11 100 Free",
+          "RAUWN-WN",
+          "17",
+          "---"
+        ],
+        [
+          "1:29.28S",
+          "F # 13C",
+          "Female 11-11 100 IM",
+          "RAUWN-WN",
+          "16",
+          "---"
+        ],
+        [
+          "2:43.46S",
+          "F # 18B",
+          "Female 11-11 200 Free",
+          "RAUWN-WN",
+          "12",
+          "---"
+        ],
+        [
+          "46.99S",
+          "F # 20C",
+          "Female 11-11 50 Breast",
+          "RAUWN-WN",
+          "16",
+          "---"
+        ],
+        [
+          "1:30.33S",
+          "F # 24C",
+          "Female 11-11 100 Back",
+          "RAUWN-WN",
+          "20",
+          "---"
+        ],
+        [
+          "Codyre, Aidan (9) M",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "38.64S DQ",
+          "F # 1A",
+          "Male 9 & Under 50 Free",
+          "RAUWN-WN",
+          "---",
+          "---"
+        ],
+        [
+          "43.31S",
+          "F # 7A",
+          "Male 9 & Under 50 Back",
+          "RAUWN-WN",
+          "5",
+          "6"
+        ],
+        [
+          "1:28.30S",
+          "F # 10A",
+          "Male 9 & Under 100 Free",
+          "RAUWN-WN",
+          "11",
+          "---"
+        ],
+        [
+          "1:39.02S",
+          "F # 14A",
+          "Male 9 & Under 100 IM",
+          "RAUWN-WN",
+          "8",
+          "3"
+        ],
+        [
+          "52.20S",
+          "F # 19A",
+          "Male 9 & Under 50 Breast",
+          "RAUWN-WN",
+          "9",
+          "2"
+        ],
+        [
+          "1:40.03S",
+          "F # 23A",
+          "Male 9 & Under 100 Back",
+          "RAUWN-WN",
+          "9",
+          "2"
+        ],
+        [
+          "1:52.98S",
+          "F # 30A",
+          "Male 9 & Under 100 Breast",
+          "RAUWN-WN",
+          "7",
+          "4"
+        ],
+        [
+          "47.03S",
+          "F # 32A",
+          "Male 9 & Under 50 Fly",
+          "RAUWN-WN",
+          "5",
+          "6"
+        ]
+      ],
+      "markdown": "| Time | F/P/S | Event | Place | Points | Improv |\n| --- | --- | --- | --- | --- | --- |\n| Adams, Felix (10) M |  |  |  |  |  |\n| 37.90S | F # 1B | Male 10-10 50 Free | RAUWN-WN | 14 | --- |\n| 44.05S | F # 7B | Male 10-10 50 Back | RAUWN-WN | 12 | --- |\n| 1:27.56S | F # 10B | Male 10-10 100 Free | RAUWN-WN | 15 | --- |\n| 1:44.15S | F # 14B | Male 10-10 100 IM | RAUWN-WN | 15 | --- |\n| 51.78S | F # 19B | Male 10-10 50 Breast | RAUWN-WN | 11 | --- |\n| 1:36.30S | F # 23B | Male 10-10 100 Back | RAUWN-WN | 10 | 1 |\n| Anderson, Alice (11) F |  |  |  |  |  |\n| 42.19S | F # 2C | Female 11-11 50 Free | RAUWN-WN | 42 | --- |\n| 49.64S | F # 8C | Female 11-11 50 Back | RAUWN-WN | 38 | --- |\n| Bazley, Charlie (10) M |  |  |  |  |  |\n| 39.82S | F # 1B | Male 10-10 50 Free | RAUWN-WN | 22 | --- |\n| 46.37S | F # 7B | Male 10-10 50 Back | RAUWN-WN | 20 | --- |\n| 1:40.14S | F # 14B | Male 10-10 100 IM | RAUWN-WN | 12 | --- |\n| 1:40.95S DQ | F # 23B | Male 10-10 100 Back | RAUWN-WN | --- | --- |\n| 44.86S | F # 32B | Male 10-10 50 Fly | RAUWN-WN | 7 | 4 |\n| Brown, Cameron (12) M |  |  |  |  |  |\n| 35.61S | F # 1D | Male 12-12 50 Free | RAUWN-WN | 30 | --- |\n| 3:09.70S DQ | F # 3C | Male 12-12 200 IM | RAUWN-WN | --- | --- |\n| 42.63S | F # 7D | Male 12-12 50 Back | RAUWN-WN | 21 | --- |\n| 1:17.36S | F # 10D | Male 12-12 100 Free | RAUWN-WN | 22 | --- |\n| 1:33.37S | F # 14D | Male 12-12 100 IM | RAUWN-WN | 22 | --- |\n| 46.19S | F # 19D | Male 12-12 50 Breast | RAUWN-WN | 10 | 1 |\n| 1:27.64S | F # 23D | Male 12-12 100 Back | RAUWN-WN | 12 | --- |\n| 1:40.46S | F # 30D | Male 12-12 100 Breast | RAUWN-WN | 10 | 1 |\n| 43.28S | F # 32D | Male 12-12 50 Fly | RAUWN-WN | 19 | --- |\n| Burdett, Emily (11) F |  |  |  |  |  |\n| 34.61S | F # 2C | Female 11-11 50 Free | RAUWN-WN | 19 | --- |\n| 41.73S | F # 8C | Female 11-11 50 Back | RAUWN-WN | 22 | --- |\n| 1:16.88S | F # 9C | Female 11-11 100 Free | RAUWN-WN | 17 | --- |\n| 1:29.28S | F # 13C | Female 11-11 100 IM | RAUWN-WN | 16 | --- |\n| 2:43.46S | F # 18B | Female 11-11 200 Free | RAUWN-WN | 12 | --- |\n| 46.99S | F # 20C | Female 11-11 50 Breast | RAUWN-WN | 16 | --- |\n| 1:30.33S | F # 24C | Female 11-11 100 Back | RAUWN-WN | 20 | --- |\n| Codyre, Aidan (9) M |  |  |  |  |  |\n| 38.64S DQ | F # 1A | Male 9 & Under 50 Free | RAUWN-WN | --- | --- |\n| 43.31S | F # 7A | Male 9 & Under 50 Back | RAUWN-WN | 5 | 6 |\n| 1:28.30S | F # 10A | Male 9 & Under 100 Free | RAUWN-WN | 11 | --- |\n| 1:39.02S | F # 14A | Male 9 & Under 100 IM | RAUWN-WN | 8 | 3 |\n| 52.20S | F # 19A | Male 9 & Under 50 Breast | RAUWN-WN | 9 | 2 |\n| 1:40.03S | F # 23A | Male 9 & Under 100 Back | RAUWN-WN | 9 | 2 |\n| 1:52.98S | F # 30A | Male 9 & Under 100 Breast | RAUWN-WN | 7 | 4 |\n| 47.03S | F # 32A | Male 9 & Under 50 Fly | RAUWN-WN | 5 | 6 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Time",
+          "F/P/S",
+          "Event",
+          "Place",
+          "Points",
+          "Improv"
+        ],
+        [
+          "Cowley, Lola (10) F",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "37.80S",
+          "F # 2B",
+          "Female 10-10 50 Free",
+          "RAUWN-WN",
+          "14",
+          "---"
+        ],
+        [
+          "46.66S DQ",
+          "F # 8B",
+          "Female 10-10 50 Back",
+          "RAUWN-WN",
+          "---",
+          "---"
+        ],
+        [
+          "1:30.54S",
+          "F # 9B",
+          "Female 10-10 100 Free",
+          "RAUWN-WN",
+          "18",
+          "---"
+        ],
+        [
+          "1:45.65S",
+          "F # 13B",
+          "Female 10-10 100 IM",
+          "RAUWN-WN",
+          "18",
+          "---"
+        ],
+        [
+          "53.47S",
+          "F # 20B",
+          "Female 10-10 50 Breast",
+          "RAUWN-WN",
+          "16",
+          "---"
+        ],
+        [
+          "1:42.30S",
+          "F # 24B",
+          "Female 10-10 100 Back",
+          "RAUWN-WN",
+          "15",
+          "---"
+        ],
+        [
+          "47.01S",
+          "F # 31B",
+          "Female 10-10 50 Fly",
+          "RAUWN-WN",
+          "13",
+          "---"
+        ],
+        [
+          "Gray, Michaela (10) F",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "35.04S",
+          "F # 2B",
+          "Female 10-10 50 Free",
+          "RAUWN-WN",
+          "6",
+          "5"
+        ],
+        [
+          "3:11.42S",
+          "F # 4A",
+          "Female 10 & Under 200 IM",
+          "RAUWN-WN",
+          "4",
+          "7"
+        ],
+        [
+          "40.27S",
+          "F # 8B",
+          "Female 10-10 50 Back",
+          "RAUWN-WN",
+          "5",
+          "6"
+        ],
+        [
+          "1:21.16S",
+          "F # 9B",
+          "Female 10-10 100 Free",
+          "RAUWN-WN",
+          "10",
+          "1"
+        ],
+        [
+          "1:33.61S",
+          "F # 13B",
+          "Female 10-10 100 IM",
+          "RAUWN-WN",
+          "8",
+          "3"
+        ],
+        [
+          "3:42.97S",
+          "F # 15A",
+          "Female 10 & Under 200 Breast",
+          "RAUWN-WN",
+          "3",
+          "10"
+        ],
+        [
+          "48.47S",
+          "F # 20B",
+          "Female 10-10 50 Breast",
+          "RAUWN-WN",
+          "7",
+          "4"
+        ],
+        [
+          "1:27.33S",
+          "F # 24B",
+          "Female 10-10 100 Back",
+          "RAUWN-WN",
+          "5",
+          "6"
+        ],
+        [
+          "3:00.50S",
+          "F # 27A",
+          "Female 10 & Under 200 Back",
+          "RAUWN-WN",
+          "2",
+          "14"
+        ],
+        [
+          "1:43.57S",
+          "F # 29B",
+          "Female 10-10 100 Breast",
+          "RAUWN-WN",
+          "5",
+          "6"
+        ],
+        [
+          "43.67S",
+          "F # 31B",
+          "Female 10-10 50 Fly",
+          "RAUWN-WN",
+          "10",
+          "1"
+        ],
+        [
+          "Hassan, Emily (12) F",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "30.08S",
+          "F # 2D",
+          "Female 12-12 50 Free",
+          "RAUWN-WN",
+          "2",
+          "14"
+        ],
+        [
+          "1:21.24S",
+          "F # 6D",
+          "Female 12-12 100 Fly",
+          "RAUWN-WN",
+          "4",
+          "7"
+        ],
+        [
+          "1:07.26S",
+          "F # 9D",
+          "Female 12-12 100 Free",
+          "RAUWN-WN",
+          "6",
+          "5"
+        ],
+        [
+          "3:07.33S",
+          "F # 15C",
+          "Female 12-12 200 Breast",
+          "RAUWN-WN",
+          "7",
+          "4"
+        ],
+        [
+          "2:28.37S",
+          "F # 18C",
+          "Female 12-12 200 Free",
+          "RAUWN-WN",
+          "6",
+          "5"
+        ],
+        [
+          "5:53.59S",
+          "F # 22",
+          "Female 12 & Under 400 IM",
+          "RAUWN-WN",
+          "1",
+          "20"
+        ],
+        [
+          "1:18.28S",
+          "F # 24D",
+          "Female 12-12 100 Back",
+          "RAUWN-WN",
+          "9",
+          "2"
+        ],
+        [
+          "Hassan, Jacob (9) M",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "36.05S",
+          "F # 1A",
+          "Male 9 & Under 50 Free",
+          "RAUWN-WN",
+          "3",
+          "10"
+        ],
+        [
+          "44.26S",
+          "F # 7A",
+          "Male 9 & Under 50 Back",
+          "RAUWN-WN",
+          "8",
+          "3"
+        ],
+        [
+          "1:22.10S",
+          "F # 10A",
+          "Male 9 & Under 100 Free",
+          "RAUWN-WN",
+          "3",
+          "10"
+        ],
+        [
+          "1:38.43S",
+          "F # 14A",
+          "Male 9 & Under 100 IM",
+          "RAUWN-WN",
+          "6",
+          "5"
+        ],
+        [
+          "2:59.32S",
+          "F # 17A",
+          "Male 10 & Under 200 Free",
+          "RAUWN-WN",
+          "6",
+          "5"
+        ],
+        [
+          "53.13S",
+          "F # 19A",
+          "Male 9 & Under 50 Breast",
+          "RAUWN-WN",
+          "12",
+          "---"
+        ],
+        [
+          "1:40.14S",
+          "F # 23A",
+          "Male 9 & Under 100 Back",
+          "RAUWN-WN",
+          "10",
+          "1"
+        ],
+        [
+          "Kelly, Elsa (10) F",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "37.86S DQ",
+          "F # 2B",
+          "Female 10-10 50 Free",
+          "RAUWN-WN",
+          "---",
+          "---"
+        ],
+        [
+          "44.93S",
+          "F # 8B",
+          "Female 10-10 50 Back",
+          "RAUWN-WN",
+          "18",
+          "---"
+        ],
+        [
+          "1:26.28S",
+          "F # 9B",
+          "Female 10-10 100 Free",
+          "RAUWN-WN",
+          "15",
+          "---"
+        ],
+        [
+          "1:37.08S",
+          "F # 13B",
+          "Female 10-10 100 IM",
+          "RAUWN-WN",
+          "13",
+          "---"
+        ],
+        [
+          "3:48.26S",
+          "F # 15A",
+          "Female 10 & Under 200 Breast",
+          "RAUWN-WN",
+          "4",
+          "7"
+        ],
+        [
+          "47.34S",
+          "F # 20B",
+          "Female 10-10 50 Breast",
+          "RAUWN-WN",
+          "5",
+          "6"
+        ],
+        [
+          "1:34.47S",
+          "F # 24B",
+          "Female 10-10 100 Back",
+          "RAUWN-WN",
+          "13",
+          "---"
+        ],
+        [
+          "1:41.21S",
+          "F # 29B",
+          "Female 10-10 100 Breast",
+          "RAUWN-WN",
+          "4",
+          "7"
+        ]
+      ],
+      "markdown": "| Time | F/P/S | Event | Place | Points | Improv |\n| --- | --- | --- | --- | --- | --- |\n| Cowley, Lola (10) F |  |  |  |  |  |\n| 37.80S | F # 2B | Female 10-10 50 Free | RAUWN-WN | 14 | --- |\n| 46.66S DQ | F # 8B | Female 10-10 50 Back | RAUWN-WN | --- | --- |\n| 1:30.54S | F # 9B | Female 10-10 100 Free | RAUWN-WN | 18 | --- |\n| 1:45.65S | F # 13B | Female 10-10 100 IM | RAUWN-WN | 18 | --- |\n| 53.47S | F # 20B | Female 10-10 50 Breast | RAUWN-WN | 16 | --- |\n| 1:42.30S | F # 24B | Female 10-10 100 Back | RAUWN-WN | 15 | --- |\n| 47.01S | F # 31B | Female 10-10 50 Fly | RAUWN-WN | 13 | --- |\n| Gray, Michaela (10) F |  |  |  |  |  |\n| 35.04S | F # 2B | Female 10-10 50 Free | RAUWN-WN | 6 | 5 |\n| 3:11.42S | F # 4A | Female 10 & Under 200 IM | RAUWN-WN | 4 | 7 |\n| 40.27S | F # 8B | Female 10-10 50 Back | RAUWN-WN | 5 | 6 |\n| 1:21.16S | F # 9B | Female 10-10 100 Free | RAUWN-WN | 10 | 1 |\n| 1:33.61S | F # 13B | Female 10-10 100 IM | RAUWN-WN | 8 | 3 |\n| 3:42.97S | F # 15A | Female 10 & Under 200 Breast | RAUWN-WN | 3 | 10 |\n| 48.47S | F # 20B | Female 10-10 50 Breast | RAUWN-WN | 7 | 4 |\n| 1:27.33S | F # 24B | Female 10-10 100 Back | RAUWN-WN | 5 | 6 |\n| 3:00.50S | F # 27A | Female 10 & Under 200 Back | RAUWN-WN | 2 | 14 |\n| 1:43.57S | F # 29B | Female 10-10 100 Breast | RAUWN-WN | 5 | 6 |\n| 43.67S | F # 31B | Female 10-10 50 Fly | RAUWN-WN | 10 | 1 |\n| Hassan, Emily (12) F |  |  |  |  |  |\n| 30.08S | F # 2D | Female 12-12 50 Free | RAUWN-WN | 2 | 14 |\n| 1:21.24S | F # 6D | Female 12-12 100 Fly | RAUWN-WN | 4 | 7 |\n| 1:07.26S | F # 9D | Female 12-12 100 Free | RAUWN-WN | 6 | 5 |\n| 3:07.33S | F # 15C | Female 12-12 200 Breast | RAUWN-WN | 7 | 4 |\n| 2:28.37S | F # 18C | Female 12-12 200 Free | RAUWN-WN | 6 | 5 |\n| 5:53.59S | F # 22 | Female 12 & Under 400 IM | RAUWN-WN | 1 | 20 |\n| 1:18.28S | F # 24D | Female 12-12 100 Back | RAUWN-WN | 9 | 2 |\n| Hassan, Jacob (9) M |  |  |  |  |  |\n| 36.05S | F # 1A | Male 9 & Under 50 Free | RAUWN-WN | 3 | 10 |\n| 44.26S | F # 7A | Male 9 & Under 50 Back | RAUWN-WN | 8 | 3 |\n| 1:22.10S | F # 10A | Male 9 & Under 100 Free | RAUWN-WN | 3 | 10 |\n| 1:38.43S | F # 14A | Male 9 & Under 100 IM | RAUWN-WN | 6 | 5 |\n| 2:59.32S | F # 17A | Male 10 & Under 200 Free | RAUWN-WN | 6 | 5 |\n| 53.13S | F # 19A | Male 9 & Under 50 Breast | RAUWN-WN | 12 | --- |\n| 1:40.14S | F # 23A | Male 9 & Under 100 Back | RAUWN-WN | 10 | 1 |\n| Kelly, Elsa (10) F |  |  |  |  |  |\n| 37.86S DQ | F # 2B | Female 10-10 50 Free | RAUWN-WN | --- | --- |\n| 44.93S | F # 8B | Female 10-10 50 Back | RAUWN-WN | 18 | --- |\n| 1:26.28S | F # 9B | Female 10-10 100 Free | RAUWN-WN | 15 | --- |\n| 1:37.08S | F # 13B | Female 10-10 100 IM | RAUWN-WN | 13 | --- |\n| 3:48.26S | F # 15A | Female 10 & Under 200 Breast | RAUWN-WN | 4 | 7 |\n| 47.34S | F # 20B | Female 10-10 50 Breast | RAUWN-WN | 5 | 6 |\n| 1:34.47S | F # 24B | Female 10-10 100 Back | RAUWN-WN | 13 | --- |\n| 1:41.21S | F # 29B | Female 10-10 100 Breast | RAUWN-WN | 4 | 7 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Time",
+          "F/P/S",
+          "Event",
+          "Place",
+          "Points",
+          "Improv"
+        ],
+        [
+          "Martin, Poppy (12) F",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "37.11S",
+          "F # 2D",
+          "Female 12-12 50 Free",
+          "RAUWN-WN",
+          "36",
+          "---"
+        ],
+        [
+          "41.12S",
+          "F # 8D",
+          "Female 12-12 50 Back",
+          "RAUWN-WN",
+          "21",
+          "---"
+        ],
+        [
+          "1:33.89S",
+          "F # 13D",
+          "Female 12-12 100 IM",
+          "RAUWN-WN",
+          "29",
+          "---"
+        ],
+        [
+          "38.89S",
+          "F # 31D",
+          "Female 12-12 50 Fly",
+          "RAUWN-WN",
+          "20",
+          "---"
+        ],
+        [
+          "Scriven, Samuel (11) M",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "39.59S",
+          "F # 1C",
+          "Male 11-11 50 Free",
+          "RAUWN-WN",
+          "27",
+          "---"
+        ],
+        [
+          "42.91S",
+          "F # 7C",
+          "Male 11-11 50 Back",
+          "RAUWN-WN",
+          "22",
+          "---"
+        ],
+        [
+          "Skelsey, Harry (12) M",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "31.21S",
+          "F # 1D",
+          "Male 12-12 50 Free",
+          "RAUWN-WN",
+          "10",
+          "1"
+        ],
+        [
+          "1:31.91S",
+          "F # 5D",
+          "Male 12-12 100 Fly",
+          "RAUWN-WN",
+          "9",
+          "2"
+        ],
+        [
+          "39.02S",
+          "F # 7D",
+          "Male 12-12 50 Back",
+          "RAUWN-WN",
+          "10",
+          "1"
+        ],
+        [
+          "1:11.00S",
+          "F # 10D",
+          "Male 12-12 100 Free",
+          "RAUWN-WN",
+          "12",
+          "---"
+        ],
+        [
+          "2:32.34S",
+          "F # 17C",
+          "Male 12-12 200 Free",
+          "RAUWN-WN",
+          "8",
+          "3"
+        ],
+        [
+          "1:23.55S",
+          "F # 23D",
+          "Male 12-12 100 Back",
+          "RAUWN-WN",
+          "10",
+          "1"
+        ],
+        [
+          "5:18.71S",
+          "F # 26",
+          "Male 12 & Under 400 Free",
+          "RAUWN-WN",
+          "6",
+          "5"
+        ],
+        [
+          "37.84S",
+          "F # 32D",
+          "Male 12-12 50 Fly",
+          "RAUWN-WN",
+          "13",
+          "---"
+        ],
+        [
+          "Skelsey, James (8) M",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "51.27S",
+          "F # 7A",
+          "Male 9 & Under 50 Back",
+          "RAUWN-WN",
+          "22",
+          "---"
+        ],
+        [
+          "1:39.55S",
+          "F # 10A",
+          "Male 9 & Under 100 Free",
+          "RAUWN-WN",
+          "22",
+          "---"
+        ],
+        [
+          "Thorne, Jay (12) M",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "35.01S",
+          "F # 1D",
+          "Male 12-12 50 Free",
+          "RAUWN-WN",
+          "27",
+          "---"
+        ],
+        [
+          "1:35.20S",
+          "F # 5D",
+          "Male 12-12 100 Fly",
+          "RAUWN-WN",
+          "11",
+          "---"
+        ],
+        [
+          "42.67S",
+          "F # 7D",
+          "Male 12-12 50 Back",
+          "RAUWN-WN",
+          "22",
+          "---"
+        ],
+        [
+          "1:19.87S",
+          "F # 10D",
+          "Male 12-12 100 Free",
+          "RAUWN-WN",
+          "26",
+          "---"
+        ],
+        [
+          "1:34.76S",
+          "F # 14D",
+          "Male 12-12 100 IM",
+          "RAUWN-WN",
+          "24",
+          "---"
+        ],
+        [
+          "39.04S",
+          "F # 32D",
+          "Male 12-12 50 Fly",
+          "RAUWN-WN",
+          "15",
+          "---"
+        ],
+        [
+          "Van Noort, Ace (11) M",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2:53.43S",
+          "F # 3B",
+          "Male 11-11 200 IM",
+          "RAUWN-WN",
+          "5",
+          "6"
+        ],
+        [
+          "1:21.52S",
+          "F # 5C",
+          "Male 11-11 100 Fly",
+          "RAUWN-WN",
+          "3",
+          "10"
+        ],
+        [
+          "2:56.83S",
+          "F # 12",
+          "Male 12 & Under 200 Fly",
+          "RAUWN-WN",
+          "4",
+          "7"
+        ],
+        [
+          "1:27.03S",
+          "F # 14C",
+          "Male 11-11 100 IM",
+          "RAUWN-WN",
+          "12",
+          "---"
+        ],
+        [
+          "6:00.91S",
+          "F # 21",
+          "Male 12 & Under 400 IM",
+          "RAUWN-WN",
+          "3",
+          "10"
+        ],
+        [
+          "1:27.10S",
+          "F # 23C",
+          "Male 11-11 100 Back",
+          "RAUWN-WN",
+          "11",
+          "---"
+        ],
+        [
+          "2:50.04S",
+          "F # 28B",
+          "Male 11-11 200 Back",
+          "RAUWN-WN",
+          "3",
+          "10"
+        ],
+        [
+          "37.45S",
+          "F # 32C",
+          "Male 11-11 50 Fly",
+          "RAUWN-WN",
+          "8",
+          "3"
+        ],
+        [
+          "Waite, Henry (9) M",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "37.66S",
+          "F # 1A",
+          "Male 9 & Under 50 Free",
+          "RAUWN-WN",
+          "6",
+          "5"
+        ],
+        [
+          "54.58S",
+          "F # 19A",
+          "Male 9 & Under 50 Breast",
+          "RAUWN-WN",
+          "14",
+          "---"
+        ],
+        [
+          "1:57.51S DQ",
+          "F # 30A",
+          "Male 9 & Under 100 Breast",
+          "RAUWN-WN",
+          "---",
+          "---"
+        ],
+        [
+          "48.10S",
+          "F # 32A",
+          "Male 9 & Under 50 Fly",
+          "RAUWN-WN",
+          "8",
+          "3"
+        ],
+        [
+          "Winter, Greer (11) F",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "35.90S",
+          "F # 2C",
+          "Female 11-11 50 Free",
+          "RAUWN-WN",
+          "27",
+          "---"
+        ],
+        [
+          "41.71S",
+          "F # 8C",
+          "Female 11-11 50 Back",
+          "RAUWN-WN",
+          "21",
+          "---"
+        ],
+        [
+          "1:24.84S",
+          "F # 9C",
+          "Female 11-11 100 Free",
+          "RAUWN-WN",
+          "30",
+          "---"
+        ],
+        [
+          "1:33.34S",
+          "F # 24C",
+          "Female 11-11 100 Back",
+          "RAUWN-WN",
+          "24",
+          "---"
+        ],
+        [
+          "45.77S",
+          "F # 31C",
+          "Female 11-11 50 Fly",
+          "RAUWN-WN",
+          "21",
+          "---"
+        ]
+      ],
+      "markdown": "| Time | F/P/S | Event | Place | Points | Improv |\n| --- | --- | --- | --- | --- | --- |\n| Martin, Poppy (12) F |  |  |  |  |  |\n| 37.11S | F # 2D | Female 12-12 50 Free | RAUWN-WN | 36 | --- |\n| 41.12S | F # 8D | Female 12-12 50 Back | RAUWN-WN | 21 | --- |\n| 1:33.89S | F # 13D | Female 12-12 100 IM | RAUWN-WN | 29 | --- |\n| 38.89S | F # 31D | Female 12-12 50 Fly | RAUWN-WN | 20 | --- |\n| Scriven, Samuel (11) M |  |  |  |  |  |\n| 39.59S | F # 1C | Male 11-11 50 Free | RAUWN-WN | 27 | --- |\n| 42.91S | F # 7C | Male 11-11 50 Back | RAUWN-WN | 22 | --- |\n| Skelsey, Harry (12) M |  |  |  |  |  |\n| 31.21S | F # 1D | Male 12-12 50 Free | RAUWN-WN | 10 | 1 |\n| 1:31.91S | F # 5D | Male 12-12 100 Fly | RAUWN-WN | 9 | 2 |\n| 39.02S | F # 7D | Male 12-12 50 Back | RAUWN-WN | 10 | 1 |\n| 1:11.00S | F # 10D | Male 12-12 100 Free | RAUWN-WN | 12 | --- |\n| 2:32.34S | F # 17C | Male 12-12 200 Free | RAUWN-WN | 8 | 3 |\n| 1:23.55S | F # 23D | Male 12-12 100 Back | RAUWN-WN | 10 | 1 |\n| 5:18.71S | F # 26 | Male 12 & Under 400 Free | RAUWN-WN | 6 | 5 |\n| 37.84S | F # 32D | Male 12-12 50 Fly | RAUWN-WN | 13 | --- |\n| Skelsey, James (8) M |  |  |  |  |  |\n| 51.27S | F # 7A | Male 9 & Under 50 Back | RAUWN-WN | 22 | --- |\n| 1:39.55S | F # 10A | Male 9 & Under 100 Free | RAUWN-WN | 22 | --- |\n| Thorne, Jay (12) M |  |  |  |  |  |\n| 35.01S | F # 1D | Male 12-12 50 Free | RAUWN-WN | 27 | --- |\n| 1:35.20S | F # 5D | Male 12-12 100 Fly | RAUWN-WN | 11 | --- |\n| 42.67S | F # 7D | Male 12-12 50 Back | RAUWN-WN | 22 | --- |\n| 1:19.87S | F # 10D | Male 12-12 100 Free | RAUWN-WN | 26 | --- |\n| 1:34.76S | F # 14D | Male 12-12 100 IM | RAUWN-WN | 24 | --- |\n| 39.04S | F # 32D | Male 12-12 50 Fly | RAUWN-WN | 15 | --- |\n| Van Noort, Ace (11) M |  |  |  |  |  |\n| 2:53.43S | F # 3B | Male 11-11 200 IM | RAUWN-WN | 5 | 6 |\n| 1:21.52S | F # 5C | Male 11-11 100 Fly | RAUWN-WN | 3 | 10 |\n| 2:56.83S | F # 12 | Male 12 & Under 200 Fly | RAUWN-WN | 4 | 7 |\n| 1:27.03S | F # 14C | Male 11-11 100 IM | RAUWN-WN | 12 | --- |\n| 6:00.91S | F # 21 | Male 12 & Under 400 IM | RAUWN-WN | 3 | 10 |\n| 1:27.10S | F # 23C | Male 11-11 100 Back | RAUWN-WN | 11 | --- |\n| 2:50.04S | F # 28B | Male 11-11 200 Back | RAUWN-WN | 3 | 10 |\n| 37.45S | F # 32C | Male 11-11 50 Fly | RAUWN-WN | 8 | 3 |\n| Waite, Henry (9) M |  |  |  |  |  |\n| 37.66S | F # 1A | Male 9 & Under 50 Free | RAUWN-WN | 6 | 5 |\n| 54.58S | F # 19A | Male 9 & Under 50 Breast | RAUWN-WN | 14 | --- |\n| 1:57.51S DQ | F # 30A | Male 9 & Under 100 Breast | RAUWN-WN | --- | --- |\n| 48.10S | F # 32A | Male 9 & Under 50 Fly | RAUWN-WN | 8 | 3 |\n| Winter, Greer (11) F |  |  |  |  |  |\n| 35.90S | F # 2C | Female 11-11 50 Free | RAUWN-WN | 27 | --- |\n| 41.71S | F # 8C | Female 11-11 50 Back | RAUWN-WN | 21 | --- |\n| 1:24.84S | F # 9C | Female 11-11 100 Free | RAUWN-WN | 30 | --- |\n| 1:33.34S | F # 24C | Female 11-11 100 Back | RAUWN-WN | 24 | --- |\n| 45.77S | F # 31C | Female 11-11 50 Fly | RAUWN-WN | 21 | --- |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Time",
+          "F/P/S",
+          "Event",
+          "Place",
+          "Points",
+          "Improv"
+        ],
+        [
+          "Woodley, Cole (11) M",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "34.72S",
+          "F # 1C",
+          "Male 11-11 50 Free",
+          "RAUWN-WN",
+          "18",
+          "---"
+        ],
+        [
+          "40.18S",
+          "F # 7C",
+          "Male 11-11 50 Back",
+          "RAUWN-WN",
+          "14",
+          "---"
+        ],
+        [
+          "1:18.46S",
+          "F # 10C",
+          "Male 11-11 100 Free",
+          "RAUWN-WN",
+          "17",
+          "---"
+        ],
+        [
+          "1:29.86S",
+          "F # 14C",
+          "Male 11-11 100 IM",
+          "RAUWN-WN",
+          "17",
+          "---"
+        ],
+        [
+          "2:52.68S",
+          "F # 17B",
+          "Male 11-11 200 Free",
+          "RAUWN-WN",
+          "12",
+          "---"
+        ],
+        [
+          "48.29S",
+          "F # 19C",
+          "Male 11-11 50 Breast",
+          "RAUWN-WN",
+          "18",
+          "---"
+        ],
+        [
+          "40.67S",
+          "F # 32C",
+          "Male 11-11 50 Fly",
+          "RAUWN-WN",
+          "13",
+          "---"
+        ]
+      ],
+      "markdown": "| Time | F/P/S | Event | Place | Points | Improv |\n| --- | --- | --- | --- | --- | --- |\n| Woodley, Cole (11) M |  |  |  |  |  |\n| 34.72S | F # 1C | Male 11-11 50 Free | RAUWN-WN | 18 | --- |\n| 40.18S | F # 7C | Male 11-11 50 Back | RAUWN-WN | 14 | --- |\n| 1:18.46S | F # 10C | Male 11-11 100 Free | RAUWN-WN | 17 | --- |\n| 1:29.86S | F # 14C | Male 11-11 100 IM | RAUWN-WN | 17 | --- |\n| 2:52.68S | F # 17B | Male 11-11 200 Free | RAUWN-WN | 12 | --- |\n| 48.29S | F # 19C | Male 11-11 50 Breast | RAUWN-WN | 18 | --- |\n| 40.67S | F # 32C | Male 11-11 50 Fly | RAUWN-WN | 13 | --- |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>Licensed To: Raumati Swimming Club</p>\n<p>HY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag</p>\n<h2>Individual Meet Results</h2>\n<p>SWN 12&amp;U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC</p>\n<table>\n<thead>\n<tr>\n<th>Time</th>\n<th>F/P/S</th>\n<th>Event</th>\n<th>Place</th>\n<th>Points</th>\n<th>Improv</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Adams, Felix (10) M</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>37.90S</td>\n<td>F # 1B</td>\n<td>Male 10-10 50 Free</td>\n<td>RAUWN-WN</td>\n<td>14</td>\n<td>---</td>\n</tr>\n<tr>\n<td>44.05S</td>\n<td>F # 7B</td>\n<td>Male 10-10 50 Back</td>\n<td>RAUWN-WN</td>\n<td>12</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:27.56S</td>\n<td>F # 10B</td>\n<td>Male 10-10 100 Free</td>\n<td>RAUWN-WN</td>\n<td>15</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:44.15S</td>\n<td>F # 14B</td>\n<td>Male 10-10 100 IM</td>\n<td>RAUWN-WN</td>\n<td>15</td>\n<td>---</td>\n</tr>\n<tr>\n<td>51.78S</td>\n<td>F # 19B</td>\n<td>Male 10-10 50 Breast</td>\n<td>RAUWN-WN</td>\n<td>11</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:36.30S</td>\n<td>F # 23B</td>\n<td>Male 10-10 100 Back</td>\n<td>RAUWN-WN</td>\n<td>10</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Anderson, Alice (11) F</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>42.19S</td>\n<td>F # 2C</td>\n<td>Female 11-11 50 Free</td>\n<td>RAUWN-WN</td>\n<td>42</td>\n<td>---</td>\n</tr>\n<tr>\n<td>49.64S</td>\n<td>F # 8C</td>\n<td>Female 11-11 50 Back</td>\n<td>RAUWN-WN</td>\n<td>38</td>\n<td>---</td>\n</tr>\n<tr>\n<td>Bazley, Charlie (10) M</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>39.82S</td>\n<td>F # 1B</td>\n<td>Male 10-10 50 Free</td>\n<td>RAUWN-WN</td>\n<td>22</td>\n<td>---</td>\n</tr>\n<tr>\n<td>46.37S</td>\n<td>F # 7B</td>\n<td>Male 10-10 50 Back</td>\n<td>RAUWN-WN</td>\n<td>20</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:40.14S</td>\n<td>F # 14B</td>\n<td>Male 10-10 100 IM</td>\n<td>RAUWN-WN</td>\n<td>12</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:40.95S DQ</td>\n<td>F # 23B</td>\n<td>Male 10-10 100 Back</td>\n<td>RAUWN-WN</td>\n<td>---</td>\n<td>---</td>\n</tr>\n<tr>\n<td>44.86S</td>\n<td>F # 32B</td>\n<td>Male 10-10 50 Fly</td>\n<td>RAUWN-WN</td>\n<td>7</td>\n<td>4</td>\n</tr>\n<tr>\n<td>Brown, Cameron (12) M</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>35.61S</td>\n<td>F # 1D</td>\n<td>Male 12-12 50 Free</td>\n<td>RAUWN-WN</td>\n<td>30</td>\n<td>---</td>\n</tr>\n<tr>\n<td>3:09.70S DQ</td>\n<td>F # 3C</td>\n<td>Male 12-12 200 IM</td>\n<td>RAUWN-WN</td>\n<td>---</td>\n<td>---</td>\n</tr>\n<tr>\n<td>42.63S</td>\n<td>F # 7D</td>\n<td>Male 12-12 50 Back</td>\n<td>RAUWN-WN</td>\n<td>21</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:17.36S</td>\n<td>F # 10D</td>\n<td>Male 12-12 100 Free</td>\n<td>RAUWN-WN</td>\n<td>22</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:33.37S</td>\n<td>F # 14D</td>\n<td>Male 12-12 100 IM</td>\n<td>RAUWN-WN</td>\n<td>22</td>\n<td>---</td>\n</tr>\n<tr>\n<td>46.19S</td>\n<td>F # 19D</td>\n<td>Male 12-12 50 Breast</td>\n<td>RAUWN-WN</td>\n<td>10</td>\n<td>1</td>\n</tr>\n<tr>\n<td>1:27.64S</td>\n<td>F # 23D</td>\n<td>Male 12-12 100 Back</td>\n<td>RAUWN-WN</td>\n<td>12</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:40.46S</td>\n<td>F # 30D</td>\n<td>Male 12-12 100 Breast</td>\n<td>RAUWN-WN</td>\n<td>10</td>\n<td>1</td>\n</tr>\n<tr>\n<td>43.28S</td>\n<td>F # 32D</td>\n<td>Male 12-12 50 Fly</td>\n<td>RAUWN-WN</td>\n<td>19</td>\n<td>---</td>\n</tr>\n<tr>\n<td>Burdett, Emily (11) F</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>34.61S</td>\n<td>F # 2C</td>\n<td>Female 11-11 50 Free</td>\n<td>RAUWN-WN</td>\n<td>19</td>\n<td>---</td>\n</tr>\n<tr>\n<td>41.73S</td>\n<td>F # 8C</td>\n<td>Female 11-11 50 Back</td>\n<td>RAUWN-WN</td>\n<td>22</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:16.88S</td>\n<td>F # 9C</td>\n<td>Female 11-11 100 Free</td>\n<td>RAUWN-WN</td>\n<td>17</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:29.28S</td>\n<td>F # 13C</td>\n<td>Female 11-11 100 IM</td>\n<td>RAUWN-WN</td>\n<td>16</td>\n<td>---</td>\n</tr>\n<tr>\n<td>2:43.46S</td>\n<td>F # 18B</td>\n<td>Female 11-11 200 Free</td>\n<td>RAUWN-WN</td>\n<td>12</td>\n<td>---</td>\n</tr>\n<tr>\n<td>46.99S</td>\n<td>F # 20C</td>\n<td>Female 11-11 50 Breast</td>\n<td>RAUWN-WN</td>\n<td>16</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:30.33S</td>\n<td>F # 24C</td>\n<td>Female 11-11 100 Back</td>\n<td>RAUWN-WN</td>\n<td>20</td>\n<td>---</td>\n</tr>\n<tr>\n<td>Codyre, Aidan (9) M</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>38.64S DQ</td>\n<td>F # 1A</td>\n<td>Male 9 &amp; Under 50 Free</td>\n<td>RAUWN-WN</td>\n<td>---</td>\n<td>---</td>\n</tr>\n<tr>\n<td>43.31S</td>\n<td>F # 7A</td>\n<td>Male 9 &amp; Under 50 Back</td>\n<td>RAUWN-WN</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>1:28.30S</td>\n<td>F # 10A</td>\n<td>Male 9 &amp; Under 100 Free</td>\n<td>RAUWN-WN</td>\n<td>11</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:39.02S</td>\n<td>F # 14A</td>\n<td>Male 9 &amp; Under 100 IM</td>\n<td>RAUWN-WN</td>\n<td>8</td>\n<td>3</td>\n</tr>\n<tr>\n<td>52.20S</td>\n<td>F # 19A</td>\n<td>Male 9 &amp; Under 50 Breast</td>\n<td>RAUWN-WN</td>\n<td>9</td>\n<td>2</td>\n</tr>\n<tr>\n<td>1:40.03S</td>\n<td>F # 23A</td>\n<td>Male 9 &amp; Under 100 Back</td>\n<td>RAUWN-WN</td>\n<td>9</td>\n<td>2</td>\n</tr>\n<tr>\n<td>1:52.98S</td>\n<td>F # 30A</td>\n<td>Male 9 &amp; Under 100 Breast</td>\n<td>RAUWN-WN</td>\n<td>7</td>\n<td>4</td>\n</tr>\n<tr>\n<td>47.03S</td>\n<td>F # 32A</td>\n<td>Male 9 &amp; Under 50 Fly</td>\n<td>RAUWN-WN</td>\n<td>5</td>\n<td>6</td>\n</tr>\n</tbody>\n</table>\n<p>Licensed To: Raumati Swimming Club</p>\n<p>HY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag</p>\n<h2>Individual Meet Results</h2>\n<p>SWN 12&amp;U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC</p>\n<table>\n<thead>\n<tr>\n<th>Time</th>\n<th>F/P/S</th>\n<th>Event</th>\n<th>Place</th>\n<th>Points</th>\n<th>Improv</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Cowley, Lola (10) F</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>37.80S</td>\n<td>F # 2B</td>\n<td>Female 10-10 50 Free</td>\n<td>RAUWN-WN</td>\n<td>14</td>\n<td>---</td>\n</tr>\n<tr>\n<td>46.66S DQ</td>\n<td>F # 8B</td>\n<td>Female 10-10 50 Back</td>\n<td>RAUWN-WN</td>\n<td>---</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:30.54S</td>\n<td>F # 9B</td>\n<td>Female 10-10 100 Free</td>\n<td>RAUWN-WN</td>\n<td>18</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:45.65S</td>\n<td>F # 13B</td>\n<td>Female 10-10 100 IM</td>\n<td>RAUWN-WN</td>\n<td>18</td>\n<td>---</td>\n</tr>\n<tr>\n<td>53.47S</td>\n<td>F # 20B</td>\n<td>Female 10-10 50 Breast</td>\n<td>RAUWN-WN</td>\n<td>16</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:42.30S</td>\n<td>F # 24B</td>\n<td>Female 10-10 100 Back</td>\n<td>RAUWN-WN</td>\n<td>15</td>\n<td>---</td>\n</tr>\n<tr>\n<td>47.01S</td>\n<td>F # 31B</td>\n<td>Female 10-10 50 Fly</td>\n<td>RAUWN-WN</td>\n<td>13</td>\n<td>---</td>\n</tr>\n<tr>\n<td>Gray, Michaela (10) F</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>35.04S</td>\n<td>F # 2B</td>\n<td>Female 10-10 50 Free</td>\n<td>RAUWN-WN</td>\n<td>6</td>\n<td>5</td>\n</tr>\n<tr>\n<td>3:11.42S</td>\n<td>F # 4A</td>\n<td>Female 10 &amp; Under 200 IM</td>\n<td>RAUWN-WN</td>\n<td>4</td>\n<td>7</td>\n</tr>\n<tr>\n<td>40.27S</td>\n<td>F # 8B</td>\n<td>Female 10-10 50 Back</td>\n<td>RAUWN-WN</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>1:21.16S</td>\n<td>F # 9B</td>\n<td>Female 10-10 100 Free</td>\n<td>RAUWN-WN</td>\n<td>10</td>\n<td>1</td>\n</tr>\n<tr>\n<td>1:33.61S</td>\n<td>F # 13B</td>\n<td>Female 10-10 100 IM</td>\n<td>RAUWN-WN</td>\n<td>8</td>\n<td>3</td>\n</tr>\n<tr>\n<td>3:42.97S</td>\n<td>F # 15A</td>\n<td>Female 10 &amp; Under 200 Breast</td>\n<td>RAUWN-WN</td>\n<td>3</td>\n<td>10</td>\n</tr>\n<tr>\n<td>48.47S</td>\n<td>F # 20B</td>\n<td>Female 10-10 50 Breast</td>\n<td>RAUWN-WN</td>\n<td>7</td>\n<td>4</td>\n</tr>\n<tr>\n<td>1:27.33S</td>\n<td>F # 24B</td>\n<td>Female 10-10 100 Back</td>\n<td>RAUWN-WN</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>3:00.50S</td>\n<td>F # 27A</td>\n<td>Female 10 &amp; Under 200 Back</td>\n<td>RAUWN-WN</td>\n<td>2</td>\n<td>14</td>\n</tr>\n<tr>\n<td>1:43.57S</td>\n<td>F # 29B</td>\n<td>Female 10-10 100 Breast</td>\n<td>RAUWN-WN</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>43.67S</td>\n<td>F # 31B</td>\n<td>Female 10-10 50 Fly</td>\n<td>RAUWN-WN</td>\n<td>10</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Hassan, Emily (12) F</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>30.08S</td>\n<td>F # 2D</td>\n<td>Female 12-12 50 Free</td>\n<td>RAUWN-WN</td>\n<td>2</td>\n<td>14</td>\n</tr>\n<tr>\n<td>1:21.24S</td>\n<td>F # 6D</td>\n<td>Female 12-12 100 Fly</td>\n<td>RAUWN-WN</td>\n<td>4</td>\n<td>7</td>\n</tr>\n<tr>\n<td>1:07.26S</td>\n<td>F # 9D</td>\n<td>Female 12-12 100 Free</td>\n<td>RAUWN-WN</td>\n<td>6</td>\n<td>5</td>\n</tr>\n<tr>\n<td>3:07.33S</td>\n<td>F # 15C</td>\n<td>Female 12-12 200 Breast</td>\n<td>RAUWN-WN</td>\n<td>7</td>\n<td>4</td>\n</tr>\n<tr>\n<td>2:28.37S</td>\n<td>F # 18C</td>\n<td>Female 12-12 200 Free</td>\n<td>RAUWN-WN</td>\n<td>6</td>\n<td>5</td>\n</tr>\n<tr>\n<td>5:53.59S</td>\n<td>F # 22</td>\n<td>Female 12 &amp; Under 400 IM</td>\n<td>RAUWN-WN</td>\n<td>1</td>\n<td>20</td>\n</tr>\n<tr>\n<td>1:18.28S</td>\n<td>F # 24D</td>\n<td>Female 12-12 100 Back</td>\n<td>RAUWN-WN</td>\n<td>9</td>\n<td>2</td>\n</tr>\n<tr>\n<td>Hassan, Jacob (9) M</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>36.05S</td>\n<td>F # 1A</td>\n<td>Male 9 &amp; Under 50 Free</td>\n<td>RAUWN-WN</td>\n<td>3</td>\n<td>10</td>\n</tr>\n<tr>\n<td>44.26S</td>\n<td>F # 7A</td>\n<td>Male 9 &amp; Under 50 Back</td>\n<td>RAUWN-WN</td>\n<td>8</td>\n<td>3</td>\n</tr>\n<tr>\n<td>1:22.10S</td>\n<td>F # 10A</td>\n<td>Male 9 &amp; Under 100 Free</td>\n<td>RAUWN-WN</td>\n<td>3</td>\n<td>10</td>\n</tr>\n<tr>\n<td>1:38.43S</td>\n<td>F # 14A</td>\n<td>Male 9 &amp; Under 100 IM</td>\n<td>RAUWN-WN</td>\n<td>6</td>\n<td>5</td>\n</tr>\n<tr>\n<td>2:59.32S</td>\n<td>F # 17A</td>\n<td>Male 10 &amp; Under 200 Free</td>\n<td>RAUWN-WN</td>\n<td>6</td>\n<td>5</td>\n</tr>\n<tr>\n<td>53.13S</td>\n<td>F # 19A</td>\n<td>Male 9 &amp; Under 50 Breast</td>\n<td>RAUWN-WN</td>\n<td>12</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:40.14S</td>\n<td>F # 23A</td>\n<td>Male 9 &amp; Under 100 Back</td>\n<td>RAUWN-WN</td>\n<td>10</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Kelly, Elsa (10) F</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>37.86S DQ</td>\n<td>F # 2B</td>\n<td>Female 10-10 50 Free</td>\n<td>RAUWN-WN</td>\n<td>---</td>\n<td>---</td>\n</tr>\n<tr>\n<td>44.93S</td>\n<td>F # 8B</td>\n<td>Female 10-10 50 Back</td>\n<td>RAUWN-WN</td>\n<td>18</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:26.28S</td>\n<td>F # 9B</td>\n<td>Female 10-10 100 Free</td>\n<td>RAUWN-WN</td>\n<td>15</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:37.08S</td>\n<td>F # 13B</td>\n<td>Female 10-10 100 IM</td>\n<td>RAUWN-WN</td>\n<td>13</td>\n<td>---</td>\n</tr>\n<tr>\n<td>3:48.26S</td>\n<td>F # 15A</td>\n<td>Female 10 &amp; Under 200 Breast</td>\n<td>RAUWN-WN</td>\n<td>4</td>\n<td>7</td>\n</tr>\n<tr>\n<td>47.34S</td>\n<td>F # 20B</td>\n<td>Female 10-10 50 Breast</td>\n<td>RAUWN-WN</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>1:34.47S</td>\n<td>F # 24B</td>\n<td>Female 10-10 100 Back</td>\n<td>RAUWN-WN</td>\n<td>13</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:41.21S</td>\n<td>F # 29B</td>\n<td>Female 10-10 100 Breast</td>\n<td>RAUWN-WN</td>\n<td>4</td>\n<td>7</td>\n</tr>\n</tbody>\n</table>\n<p>Licensed To: Raumati Swimming Club</p>\n<p>HY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag</p>\n<h2>Individual Meet Results</h2>\n<p>SWN 12&amp;U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC</p>\n<table>\n<thead>\n<tr>\n<th>Time</th>\n<th>F/P/S</th>\n<th>Event</th>\n<th>Place</th>\n<th>Points</th>\n<th>Improv</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Martin, Poppy (12) F</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>37.11S</td>\n<td>F # 2D</td>\n<td>Female 12-12 50 Free</td>\n<td>RAUWN-WN</td>\n<td>36</td>\n<td>---</td>\n</tr>\n<tr>\n<td>41.12S</td>\n<td>F # 8D</td>\n<td>Female 12-12 50 Back</td>\n<td>RAUWN-WN</td>\n<td>21</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:33.89S</td>\n<td>F # 13D</td>\n<td>Female 12-12 100 IM</td>\n<td>RAUWN-WN</td>\n<td>29</td>\n<td>---</td>\n</tr>\n<tr>\n<td>38.89S</td>\n<td>F # 31D</td>\n<td>Female 12-12 50 Fly</td>\n<td>RAUWN-WN</td>\n<td>20</td>\n<td>---</td>\n</tr>\n<tr>\n<td>Scriven, Samuel (11) M</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>39.59S</td>\n<td>F # 1C</td>\n<td>Male 11-11 50 Free</td>\n<td>RAUWN-WN</td>\n<td>27</td>\n<td>---</td>\n</tr>\n<tr>\n<td>42.91S</td>\n<td>F # 7C</td>\n<td>Male 11-11 50 Back</td>\n<td>RAUWN-WN</td>\n<td>22</td>\n<td>---</td>\n</tr>\n<tr>\n<td>Skelsey, Harry (12) M</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>31.21S</td>\n<td>F # 1D</td>\n<td>Male 12-12 50 Free</td>\n<td>RAUWN-WN</td>\n<td>10</td>\n<td>1</td>\n</tr>\n<tr>\n<td>1:31.91S</td>\n<td>F # 5D</td>\n<td>Male 12-12 100 Fly</td>\n<td>RAUWN-WN</td>\n<td>9</td>\n<td>2</td>\n</tr>\n<tr>\n<td>39.02S</td>\n<td>F # 7D</td>\n<td>Male 12-12 50 Back</td>\n<td>RAUWN-WN</td>\n<td>10</td>\n<td>1</td>\n</tr>\n<tr>\n<td>1:11.00S</td>\n<td>F # 10D</td>\n<td>Male 12-12 100 Free</td>\n<td>RAUWN-WN</td>\n<td>12</td>\n<td>---</td>\n</tr>\n<tr>\n<td>2:32.34S</td>\n<td>F # 17C</td>\n<td>Male 12-12 200 Free</td>\n<td>RAUWN-WN</td>\n<td>8</td>\n<td>3</td>\n</tr>\n<tr>\n<td>1:23.55S</td>\n<td>F # 23D</td>\n<td>Male 12-12 100 Back</td>\n<td>RAUWN-WN</td>\n<td>10</td>\n<td>1</td>\n</tr>\n<tr>\n<td>5:18.71S</td>\n<td>F # 26</td>\n<td>Male 12 &amp; Under 400 Free</td>\n<td>RAUWN-WN</td>\n<td>6</td>\n<td>5</td>\n</tr>\n<tr>\n<td>37.84S</td>\n<td>F # 32D</td>\n<td>Male 12-12 50 Fly</td>\n<td>RAUWN-WN</td>\n<td>13</td>\n<td>---</td>\n</tr>\n<tr>\n<td>Skelsey, James (8) M</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>51.27S</td>\n<td>F # 7A</td>\n<td>Male 9 &amp; Under 50 Back</td>\n<td>RAUWN-WN</td>\n<td>22</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:39.55S</td>\n<td>F # 10A</td>\n<td>Male 9 &amp; Under 100 Free</td>\n<td>RAUWN-WN</td>\n<td>22</td>\n<td>---</td>\n</tr>\n<tr>\n<td>Thorne, Jay (12) M</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>35.01S</td>\n<td>F # 1D</td>\n<td>Male 12-12 50 Free</td>\n<td>RAUWN-WN</td>\n<td>27</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:35.20S</td>\n<td>F # 5D</td>\n<td>Male 12-12 100 Fly</td>\n<td>RAUWN-WN</td>\n<td>11</td>\n<td>---</td>\n</tr>\n<tr>\n<td>42.67S</td>\n<td>F # 7D</td>\n<td>Male 12-12 50 Back</td>\n<td>RAUWN-WN</td>\n<td>22</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:19.87S</td>\n<td>F # 10D</td>\n<td>Male 12-12 100 Free</td>\n<td>RAUWN-WN</td>\n<td>26</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:34.76S</td>\n<td>F # 14D</td>\n<td>Male 12-12 100 IM</td>\n<td>RAUWN-WN</td>\n<td>24</td>\n<td>---</td>\n</tr>\n<tr>\n<td>39.04S</td>\n<td>F # 32D</td>\n<td>Male 12-12 50 Fly</td>\n<td>RAUWN-WN</td>\n<td>15</td>\n<td>---</td>\n</tr>\n<tr>\n<td>Van Noort, Ace (11) M</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2:53.43S</td>\n<td>F # 3B</td>\n<td>Male 11-11 200 IM</td>\n<td>RAUWN-WN</td>\n<td>5</td>\n<td>6</td>\n</tr>\n<tr>\n<td>1:21.52S</td>\n<td>F # 5C</td>\n<td>Male 11-11 100 Fly</td>\n<td>RAUWN-WN</td>\n<td>3</td>\n<td>10</td>\n</tr>\n<tr>\n<td>2:56.83S</td>\n<td>F # 12</td>\n<td>Male 12 &amp; Under 200 Fly</td>\n<td>RAUWN-WN</td>\n<td>4</td>\n<td>7</td>\n</tr>\n<tr>\n<td>1:27.03S</td>\n<td>F # 14C</td>\n<td>Male 11-11 100 IM</td>\n<td>RAUWN-WN</td>\n<td>12</td>\n<td>---</td>\n</tr>\n<tr>\n<td>6:00.91S</td>\n<td>F # 21</td>\n<td>Male 12 &amp; Under 400 IM</td>\n<td>RAUWN-WN</td>\n<td>3</td>\n<td>10</td>\n</tr>\n<tr>\n<td>1:27.10S</td>\n<td>F # 23C</td>\n<td>Male 11-11 100 Back</td>\n<td>RAUWN-WN</td>\n<td>11</td>\n<td>---</td>\n</tr>\n<tr>\n<td>2:50.04S</td>\n<td>F # 28B</td>\n<td>Male 11-11 200 Back</td>\n<td>RAUWN-WN</td>\n<td>3</td>\n<td>10</td>\n</tr>\n<tr>\n<td>37.45S</td>\n<td>F # 32C</td>\n<td>Male 11-11 50 Fly</td>\n<td>RAUWN-WN</td>\n<td>8</td>\n<td>3</td>\n</tr>\n<tr>\n<td>Waite, Henry (9) M</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>37.66S</td>\n<td>F # 1A</td>\n<td>Male 9 &amp; Under 50 Free</td>\n<td>RAUWN-WN</td>\n<td>6</td>\n<td>5</td>\n</tr>\n<tr>\n<td>54.58S</td>\n<td>F # 19A</td>\n<td>Male 9 &amp; Under 50 Breast</td>\n<td>RAUWN-WN</td>\n<td>14</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:57.51S DQ</td>\n<td>F # 30A</td>\n<td>Male 9 &amp; Under 100 Breast</td>\n<td>RAUWN-WN</td>\n<td>---</td>\n<td>---</td>\n</tr>\n<tr>\n<td>48.10S</td>\n<td>F # 32A</td>\n<td>Male 9 &amp; Under 50 Fly</td>\n<td>RAUWN-WN</td>\n<td>8</td>\n<td>3</td>\n</tr>\n<tr>\n<td>Winter, Greer (11) F</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>35.90S</td>\n<td>F # 2C</td>\n<td>Female 11-11 50 Free</td>\n<td>RAUWN-WN</td>\n<td>27</td>\n<td>---</td>\n</tr>\n<tr>\n<td>41.71S</td>\n<td>F # 8C</td>\n<td>Female 11-11 50 Back</td>\n<td>RAUWN-WN</td>\n<td>21</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:24.84S</td>\n<td>F # 9C</td>\n<td>Female 11-11 100 Free</td>\n<td>RAUWN-WN</td>\n<td>30</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:33.34S</td>\n<td>F # 24C</td>\n<td>Female 11-11 100 Back</td>\n<td>RAUWN-WN</td>\n<td>24</td>\n<td>---</td>\n</tr>\n<tr>\n<td>45.77S</td>\n<td>F # 31C</td>\n<td>Female 11-11 50 Fly</td>\n<td>RAUWN-WN</td>\n<td>21</td>\n<td>---</td>\n</tr>\n</tbody>\n</table>\n<p>Licensed To: Raumati Swimming Club HY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag</p>\n<h2>Individual Meet Results</h2>\n<p>SWN 12&amp;U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC</p>\n<table>\n<thead>\n<tr>\n<th>Time</th>\n<th>F/P/S</th>\n<th>Event</th>\n<th>Place</th>\n<th>Points</th>\n<th>Improv</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Woodley, Cole (11) M</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>34.72S</td>\n<td>F # 1C</td>\n<td>Male 11-11 50 Free</td>\n<td>RAUWN-WN</td>\n<td>18</td>\n<td>---</td>\n</tr>\n<tr>\n<td>40.18S</td>\n<td>F # 7C</td>\n<td>Male 11-11 50 Back</td>\n<td>RAUWN-WN</td>\n<td>14</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:18.46S</td>\n<td>F # 10C</td>\n<td>Male 11-11 100 Free</td>\n<td>RAUWN-WN</td>\n<td>17</td>\n<td>---</td>\n</tr>\n<tr>\n<td>1:29.86S</td>\n<td>F # 14C</td>\n<td>Male 11-11 100 IM</td>\n<td>RAUWN-WN</td>\n<td>17</td>\n<td>---</td>\n</tr>\n<tr>\n<td>2:52.68S</td>\n<td>F # 17B</td>\n<td>Male 11-11 200 Free</td>\n<td>RAUWN-WN</td>\n<td>12</td>\n<td>---</td>\n</tr>\n<tr>\n<td>48.29S</td>\n<td>F # 19C</td>\n<td>Male 11-11 50 Breast</td>\n<td>RAUWN-WN</td>\n<td>18</td>\n<td>---</td>\n</tr>\n<tr>\n<td>40.67S</td>\n<td>F # 32C</td>\n<td>Male 11-11 50 Fly</td>\n<td>RAUWN-WN</td>\n<td>13</td>\n<td>---</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Licensed To: Raumati Swimming Club\"},{\"type\":\"paragraph\",\"text\":\"HY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag\"},{\"type\":\"section\",\"heading\":\"Individual Meet Results\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"SWN 12&U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC\"},{\"type\":\"table\",\"headers\":[\"Time\",\"F/P/S\",\"Event\",\"Place\",\"Points\",\"Improv\"],\"rows\":[[\"Adams, Felix (10) M\",\"\",\"\",\"\",\"\",\"\"],[\"37.90S\",\"F # 1B\",\"Male 10-10 50 Free\",\"RAUWN-WN\",\"14\",\"---\"],[\"44.05S\",\"F # 7B\",\"Male 10-10 50 Back\",\"RAUWN-WN\",\"12\",\"---\"],[\"1:27.56S\",\"F # 10B\",\"Male 10-10 100 Free\",\"RAUWN-WN\",\"15\",\"---\"],[\"1:44.15S\",\"F # 14B\",\"Male 10-10 100 IM\",\"RAUWN-WN\",\"15\",\"---\"],[\"51.78S\",\"F # 19B\",\"Male 10-10 50 Breast\",\"RAUWN-WN\",\"11\",\"---\"],[\"1:36.30S\",\"F # 23B\",\"Male 10-10 100 Back\",\"RAUWN-WN\",\"10\",\"1\"],[\"Anderson, Alice (11) F\",\"\",\"\",\"\",\"\",\"\"],[\"42.19S\",\"F # 2C\",\"Female 11-11 50 Free\",\"RAUWN-WN\",\"42\",\"---\"],[\"49.64S\",\"F # 8C\",\"Female 11-11 50 Back\",\"RAUWN-WN\",\"38\",\"---\"],[\"Bazley, Charlie (10) M\",\"\",\"\",\"\",\"\",\"\"],[\"39.82S\",\"F # 1B\",\"Male 10-10 50 Free\",\"RAUWN-WN\",\"22\",\"---\"],[\"46.37S\",\"F # 7B\",\"Male 10-10 50 Back\",\"RAUWN-WN\",\"20\",\"---\"],[\"1:40.14S\",\"F # 14B\",\"Male 10-10 100 IM\",\"RAUWN-WN\",\"12\",\"---\"],[\"1:40.95S DQ\",\"F # 23B\",\"Male 10-10 100 Back\",\"RAUWN-WN\",\"---\",\"---\"],[\"44.86S\",\"F # 32B\",\"Male 10-10 50 Fly\",\"RAUWN-WN\",\"7\",\"4\"],[\"Brown, Cameron (12) M\",\"\",\"\",\"\",\"\",\"\"],[\"35.61S\",\"F # 1D\",\"Male 12-12 50 Free\",\"RAUWN-WN\",\"30\",\"---\"],[\"3:09.70S DQ\",\"F # 3C\",\"Male 12-12 200 IM\",\"RAUWN-WN\",\"---\",\"---\"],[\"42.63S\",\"F # 7D\",\"Male 12-12 50 Back\",\"RAUWN-WN\",\"21\",\"---\"],[\"1:17.36S\",\"F # 10D\",\"Male 12-12 100 Free\",\"RAUWN-WN\",\"22\",\"---\"],[\"1:33.37S\",\"F # 14D\",\"Male 12-12 100 IM\",\"RAUWN-WN\",\"22\",\"---\"],[\"46.19S\",\"F # 19D\",\"Male 12-12 50 Breast\",\"RAUWN-WN\",\"10\",\"1\"],[\"1:27.64S\",\"F # 23D\",\"Male 12-12 100 Back\",\"RAUWN-WN\",\"12\",\"---\"],[\"1:40.46S\",\"F # 30D\",\"Male 12-12 100 Breast\",\"RAUWN-WN\",\"10\",\"1\"],[\"43.28S\",\"F # 32D\",\"Male 12-12 50 Fly\",\"RAUWN-WN\",\"19\",\"---\"],[\"Burdett, Emily (11) F\",\"\",\"\",\"\",\"\",\"\"],[\"34.61S\",\"F # 2C\",\"Female 11-11 50 Free\",\"RAUWN-WN\",\"19\",\"---\"],[\"41.73S\",\"F # 8C\",\"Female 11-11 50 Back\",\"RAUWN-WN\",\"22\",\"---\"],[\"1:16.88S\",\"F # 9C\",\"Female 11-11 100 Free\",\"RAUWN-WN\",\"17\",\"---\"],[\"1:29.28S\",\"F # 13C\",\"Female 11-11 100 IM\",\"RAUWN-WN\",\"16\",\"---\"],[\"2:43.46S\",\"F # 18B\",\"Female 11-11 200 Free\",\"RAUWN-WN\",\"12\",\"---\"],[\"46.99S\",\"F # 20C\",\"Female 11-11 50 Breast\",\"RAUWN-WN\",\"16\",\"---\"],[\"1:30.33S\",\"F # 24C\",\"Female 11-11 100 Back\",\"RAUWN-WN\",\"20\",\"---\"],[\"Codyre, Aidan (9) M\",\"\",\"\",\"\",\"\",\"\"],[\"38.64S DQ\",\"F # 1A\",\"Male 9 & Under 50 Free\",\"RAUWN-WN\",\"---\",\"---\"],[\"43.31S\",\"F # 7A\",\"Male 9 & Under 50 Back\",\"RAUWN-WN\",\"5\",\"6\"],[\"1:28.30S\",\"F # 10A\",\"Male 9 & Under 100 Free\",\"RAUWN-WN\",\"11\",\"---\"],[\"1:39.02S\",\"F # 14A\",\"Male 9 & Under 100 IM\",\"RAUWN-WN\",\"8\",\"3\"],[\"52.20S\",\"F # 19A\",\"Male 9 & Under 50 Breast\",\"RAUWN-WN\",\"9\",\"2\"],[\"1:40.03S\",\"F # 23A\",\"Male 9 & Under 100 Back\",\"RAUWN-WN\",\"9\",\"2\"],[\"1:52.98S\",\"F # 30A\",\"Male 9 & Under 100 Breast\",\"RAUWN-WN\",\"7\",\"4\"],[\"47.03S\",\"F # 32A\",\"Male 9 & Under 50 Fly\",\"RAUWN-WN\",\"5\",\"6\"]]},{\"type\":\"paragraph\",\"text\":\"Licensed To: Raumati Swimming Club\"},{\"type\":\"paragraph\",\"text\":\"HY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag\"}]},{\"type\":\"section\",\"heading\":\"Individual Meet Results\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"SWN 12&U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC\"},{\"type\":\"table\",\"headers\":[\"Time\",\"F/P/S\",\"Event\",\"Place\",\"Points\",\"Improv\"],\"rows\":[[\"Cowley, Lola (10) F\",\"\",\"\",\"\",\"\",\"\"],[\"37.80S\",\"F # 2B\",\"Female 10-10 50 Free\",\"RAUWN-WN\",\"14\",\"---\"],[\"46.66S DQ\",\"F # 8B\",\"Female 10-10 50 Back\",\"RAUWN-WN\",\"---\",\"---\"],[\"1:30.54S\",\"F # 9B\",\"Female 10-10 100 Free\",\"RAUWN-WN\",\"18\",\"---\"],[\"1:45.65S\",\"F # 13B\",\"Female 10-10 100 IM\",\"RAUWN-WN\",\"18\",\"---\"],[\"53.47S\",\"F # 20B\",\"Female 10-10 50 Breast\",\"RAUWN-WN\",\"16\",\"---\"],[\"1:42.30S\",\"F # 24B\",\"Female 10-10 100 Back\",\"RAUWN-WN\",\"15\",\"---\"],[\"47.01S\",\"F # 31B\",\"Female 10-10 50 Fly\",\"RAUWN-WN\",\"13\",\"---\"],[\"Gray, Michaela (10) F\",\"\",\"\",\"\",\"\",\"\"],[\"35.04S\",\"F # 2B\",\"Female 10-10 50 Free\",\"RAUWN-WN\",\"6\",\"5\"],[\"3:11.42S\",\"F # 4A\",\"Female 10 & Under 200 IM\",\"RAUWN-WN\",\"4\",\"7\"],[\"40.27S\",\"F # 8B\",\"Female 10-10 50 Back\",\"RAUWN-WN\",\"5\",\"6\"],[\"1:21.16S\",\"F # 9B\",\"Female 10-10 100 Free\",\"RAUWN-WN\",\"10\",\"1\"],[\"1:33.61S\",\"F # 13B\",\"Female 10-10 100 IM\",\"RAUWN-WN\",\"8\",\"3\"],[\"3:42.97S\",\"F # 15A\",\"Female 10 & Under 200 Breast\",\"RAUWN-WN\",\"3\",\"10\"],[\"48.47S\",\"F # 20B\",\"Female 10-10 50 Breast\",\"RAUWN-WN\",\"7\",\"4\"],[\"1:27.33S\",\"F # 24B\",\"Female 10-10 100 Back\",\"RAUWN-WN\",\"5\",\"6\"],[\"3:00.50S\",\"F # 27A\",\"Female 10 & Under 200 Back\",\"RAUWN-WN\",\"2\",\"14\"],[\"1:43.57S\",\"F # 29B\",\"Female 10-10 100 Breast\",\"RAUWN-WN\",\"5\",\"6\"],[\"43.67S\",\"F # 31B\",\"Female 10-10 50 Fly\",\"RAUWN-WN\",\"10\",\"1\"],[\"Hassan, Emily (12) F\",\"\",\"\",\"\",\"\",\"\"],[\"30.08S\",\"F # 2D\",\"Female 12-12 50 Free\",\"RAUWN-WN\",\"2\",\"14\"],[\"1:21.24S\",\"F # 6D\",\"Female 12-12 100 Fly\",\"RAUWN-WN\",\"4\",\"7\"],[\"1:07.26S\",\"F # 9D\",\"Female 12-12 100 Free\",\"RAUWN-WN\",\"6\",\"5\"],[\"3:07.33S\",\"F # 15C\",\"Female 12-12 200 Breast\",\"RAUWN-WN\",\"7\",\"4\"],[\"2:28.37S\",\"F # 18C\",\"Female 12-12 200 Free\",\"RAUWN-WN\",\"6\",\"5\"],[\"5:53.59S\",\"F # 22\",\"Female 12 & Under 400 IM\",\"RAUWN-WN\",\"1\",\"20\"],[\"1:18.28S\",\"F # 24D\",\"Female 12-12 100 Back\",\"RAUWN-WN\",\"9\",\"2\"],[\"Hassan, Jacob (9) M\",\"\",\"\",\"\",\"\",\"\"],[\"36.05S\",\"F # 1A\",\"Male 9 & Under 50 Free\",\"RAUWN-WN\",\"3\",\"10\"],[\"44.26S\",\"F # 7A\",\"Male 9 & Under 50 Back\",\"RAUWN-WN\",\"8\",\"3\"],[\"1:22.10S\",\"F # 10A\",\"Male 9 & Under 100 Free\",\"RAUWN-WN\",\"3\",\"10\"],[\"1:38.43S\",\"F # 14A\",\"Male 9 & Under 100 IM\",\"RAUWN-WN\",\"6\",\"5\"],[\"2:59.32S\",\"F # 17A\",\"Male 10 & Under 200 Free\",\"RAUWN-WN\",\"6\",\"5\"],[\"53.13S\",\"F # 19A\",\"Male 9 & Under 50 Breast\",\"RAUWN-WN\",\"12\",\"---\"],[\"1:40.14S\",\"F # 23A\",\"Male 9 & Under 100 Back\",\"RAUWN-WN\",\"10\",\"1\"],[\"Kelly, Elsa (10) F\",\"\",\"\",\"\",\"\",\"\"],[\"37.86S DQ\",\"F # 2B\",\"Female 10-10 50 Free\",\"RAUWN-WN\",\"---\",\"---\"],[\"44.93S\",\"F # 8B\",\"Female 10-10 50 Back\",\"RAUWN-WN\",\"18\",\"---\"],[\"1:26.28S\",\"F # 9B\",\"Female 10-10 100 Free\",\"RAUWN-WN\",\"15\",\"---\"],[\"1:37.08S\",\"F # 13B\",\"Female 10-10 100 IM\",\"RAUWN-WN\",\"13\",\"---\"],[\"3:48.26S\",\"F # 15A\",\"Female 10 & Under 200 Breast\",\"RAUWN-WN\",\"4\",\"7\"],[\"47.34S\",\"F # 20B\",\"Female 10-10 50 Breast\",\"RAUWN-WN\",\"5\",\"6\"],[\"1:34.47S\",\"F # 24B\",\"Female 10-10 100 Back\",\"RAUWN-WN\",\"13\",\"---\"],[\"1:41.21S\",\"F # 29B\",\"Female 10-10 100 Breast\",\"RAUWN-WN\",\"4\",\"7\"]]},{\"type\":\"paragraph\",\"text\":\"Licensed To: Raumati Swimming Club\"},{\"type\":\"paragraph\",\"text\":\"HY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag\"}]},{\"type\":\"section\",\"heading\":\"Individual Meet Results\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"SWN 12&U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC\"},{\"type\":\"table\",\"headers\":[\"Time\",\"F/P/S\",\"Event\",\"Place\",\"Points\",\"Improv\"],\"rows\":[[\"Martin, Poppy (12) F\",\"\",\"\",\"\",\"\",\"\"],[\"37.11S\",\"F # 2D\",\"Female 12-12 50 Free\",\"RAUWN-WN\",\"36\",\"---\"],[\"41.12S\",\"F # 8D\",\"Female 12-12 50 Back\",\"RAUWN-WN\",\"21\",\"---\"],[\"1:33.89S\",\"F # 13D\",\"Female 12-12 100 IM\",\"RAUWN-WN\",\"29\",\"---\"],[\"38.89S\",\"F # 31D\",\"Female 12-12 50 Fly\",\"RAUWN-WN\",\"20\",\"---\"],[\"Scriven, Samuel (11) M\",\"\",\"\",\"\",\"\",\"\"],[\"39.59S\",\"F # 1C\",\"Male 11-11 50 Free\",\"RAUWN-WN\",\"27\",\"---\"],[\"42.91S\",\"F # 7C\",\"Male 11-11 50 Back\",\"RAUWN-WN\",\"22\",\"---\"],[\"Skelsey, Harry (12) M\",\"\",\"\",\"\",\"\",\"\"],[\"31.21S\",\"F # 1D\",\"Male 12-12 50 Free\",\"RAUWN-WN\",\"10\",\"1\"],[\"1:31.91S\",\"F # 5D\",\"Male 12-12 100 Fly\",\"RAUWN-WN\",\"9\",\"2\"],[\"39.02S\",\"F # 7D\",\"Male 12-12 50 Back\",\"RAUWN-WN\",\"10\",\"1\"],[\"1:11.00S\",\"F # 10D\",\"Male 12-12 100 Free\",\"RAUWN-WN\",\"12\",\"---\"],[\"2:32.34S\",\"F # 17C\",\"Male 12-12 200 Free\",\"RAUWN-WN\",\"8\",\"3\"],[\"1:23.55S\",\"F # 23D\",\"Male 12-12 100 Back\",\"RAUWN-WN\",\"10\",\"1\"],[\"5:18.71S\",\"F # 26\",\"Male 12 & Under 400 Free\",\"RAUWN-WN\",\"6\",\"5\"],[\"37.84S\",\"F # 32D\",\"Male 12-12 50 Fly\",\"RAUWN-WN\",\"13\",\"---\"],[\"Skelsey, James (8) M\",\"\",\"\",\"\",\"\",\"\"],[\"51.27S\",\"F # 7A\",\"Male 9 & Under 50 Back\",\"RAUWN-WN\",\"22\",\"---\"],[\"1:39.55S\",\"F # 10A\",\"Male 9 & Under 100 Free\",\"RAUWN-WN\",\"22\",\"---\"],[\"Thorne, Jay (12) M\",\"\",\"\",\"\",\"\",\"\"],[\"35.01S\",\"F # 1D\",\"Male 12-12 50 Free\",\"RAUWN-WN\",\"27\",\"---\"],[\"1:35.20S\",\"F # 5D\",\"Male 12-12 100 Fly\",\"RAUWN-WN\",\"11\",\"---\"],[\"42.67S\",\"F # 7D\",\"Male 12-12 50 Back\",\"RAUWN-WN\",\"22\",\"---\"],[\"1:19.87S\",\"F # 10D\",\"Male 12-12 100 Free\",\"RAUWN-WN\",\"26\",\"---\"],[\"1:34.76S\",\"F # 14D\",\"Male 12-12 100 IM\",\"RAUWN-WN\",\"24\",\"---\"],[\"39.04S\",\"F # 32D\",\"Male 12-12 50 Fly\",\"RAUWN-WN\",\"15\",\"---\"],[\"Van Noort, Ace (11) M\",\"\",\"\",\"\",\"\",\"\"],[\"2:53.43S\",\"F # 3B\",\"Male 11-11 200 IM\",\"RAUWN-WN\",\"5\",\"6\"],[\"1:21.52S\",\"F # 5C\",\"Male 11-11 100 Fly\",\"RAUWN-WN\",\"3\",\"10\"],[\"2:56.83S\",\"F # 12\",\"Male 12 & Under 200 Fly\",\"RAUWN-WN\",\"4\",\"7\"],[\"1:27.03S\",\"F # 14C\",\"Male 11-11 100 IM\",\"RAUWN-WN\",\"12\",\"---\"],[\"6:00.91S\",\"F # 21\",\"Male 12 & Under 400 IM\",\"RAUWN-WN\",\"3\",\"10\"],[\"1:27.10S\",\"F # 23C\",\"Male 11-11 100 Back\",\"RAUWN-WN\",\"11\",\"---\"],[\"2:50.04S\",\"F # 28B\",\"Male 11-11 200 Back\",\"RAUWN-WN\",\"3\",\"10\"],[\"37.45S\",\"F # 32C\",\"Male 11-11 50 Fly\",\"RAUWN-WN\",\"8\",\"3\"],[\"Waite, Henry (9) M\",\"\",\"\",\"\",\"\",\"\"],[\"37.66S\",\"F # 1A\",\"Male 9 & Under 50 Free\",\"RAUWN-WN\",\"6\",\"5\"],[\"54.58S\",\"F # 19A\",\"Male 9 & Under 50 Breast\",\"RAUWN-WN\",\"14\",\"---\"],[\"1:57.51S DQ\",\"F # 30A\",\"Male 9 & Under 100 Breast\",\"RAUWN-WN\",\"---\",\"---\"],[\"48.10S\",\"F # 32A\",\"Male 9 & Under 50 Fly\",\"RAUWN-WN\",\"8\",\"3\"],[\"Winter, Greer (11) F\",\"\",\"\",\"\",\"\",\"\"],[\"35.90S\",\"F # 2C\",\"Female 11-11 50 Free\",\"RAUWN-WN\",\"27\",\"---\"],[\"41.71S\",\"F # 8C\",\"Female 11-11 50 Back\",\"RAUWN-WN\",\"21\",\"---\"],[\"1:24.84S\",\"F # 9C\",\"Female 11-11 100 Free\",\"RAUWN-WN\",\"30\",\"---\"],[\"1:33.34S\",\"F # 24C\",\"Female 11-11 100 Back\",\"RAUWN-WN\",\"24\",\"---\"],[\"45.77S\",\"F # 31C\",\"Female 11-11 50 Fly\",\"RAUWN-WN\",\"21\",\"---\"]]},{\"type\":\"paragraph\",\"text\":\"Licensed To: Raumati Swimming Club HY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag\"}]},{\"type\":\"section\",\"heading\":\"Individual Meet Results\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"SWN 12&U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC\"},{\"type\":\"table\",\"headers\":[\"Time\",\"F/P/S\",\"Event\",\"Place\",\"Points\",\"Improv\"],\"rows\":[[\"Woodley, Cole (11) M\",\"\",\"\",\"\",\"\",\"\"],[\"34.72S\",\"F # 1C\",\"Male 11-11 50 Free\",\"RAUWN-WN\",\"18\",\"---\"],[\"40.18S\",\"F # 7C\",\"Male 11-11 50 Back\",\"RAUWN-WN\",\"14\",\"---\"],[\"1:18.46S\",\"F # 10C\",\"Male 11-11 100 Free\",\"RAUWN-WN\",\"17\",\"---\"],[\"1:29.86S\",\"F # 14C\",\"Male 11-11 100 IM\",\"RAUWN-WN\",\"17\",\"---\"],[\"2:52.68S\",\"F # 17B\",\"Male 11-11 200 Free\",\"RAUWN-WN\",\"12\",\"---\"],[\"48.29S\",\"F # 19C\",\"Male 11-11 50 Breast\",\"RAUWN-WN\",\"18\",\"---\"],[\"40.67S\",\"F # 32C\",\"Male 11-11 50 Fly\",\"RAUWN-WN\",\"13\",\"---\"]]}]}]}",
+    "markdown": "Licensed To: Raumati Swimming Club\n\nHY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag\n\n## Individual Meet Results\n\nSWN 12\\&U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC\n\n| Time | F/P/S | Event | Place | Points | Improv |\n| --- | --- | --- | --- | --- | --- |\n| Adams, Felix (10) M |  |  |  |  |  |\n| 37.90S | F \\# 1B | Male 10-10 50 Free | RAUWN-WN | 14 | --- |\n| 44.05S | F \\# 7B | Male 10-10 50 Back | RAUWN-WN | 12 | --- |\n| 1:27.56S | F \\# 10B | Male 10-10 100 Free | RAUWN-WN | 15 | --- |\n| 1:44.15S | F \\# 14B | Male 10-10 100 IM | RAUWN-WN | 15 | --- |\n| 51.78S | F \\# 19B | Male 10-10 50 Breast | RAUWN-WN | 11 | --- |\n| 1:36.30S | F \\# 23B | Male 10-10 100 Back | RAUWN-WN | 10 | 1 |\n| Anderson, Alice (11) F |  |  |  |  |  |\n| 42.19S | F \\# 2C | Female 11-11 50 Free | RAUWN-WN | 42 | --- |\n| 49.64S | F \\# 8C | Female 11-11 50 Back | RAUWN-WN | 38 | --- |\n| Bazley, Charlie (10) M |  |  |  |  |  |\n| 39.82S | F \\# 1B | Male 10-10 50 Free | RAUWN-WN | 22 | --- |\n| 46.37S | F \\# 7B | Male 10-10 50 Back | RAUWN-WN | 20 | --- |\n| 1:40.14S | F \\# 14B | Male 10-10 100 IM | RAUWN-WN | 12 | --- |\n| 1:40.95S DQ | F \\# 23B | Male 10-10 100 Back | RAUWN-WN | --- | --- |\n| 44.86S | F \\# 32B | Male 10-10 50 Fly | RAUWN-WN | 7 | 4 |\n| Brown, Cameron (12) M |  |  |  |  |  |\n| 35.61S | F \\# 1D | Male 12-12 50 Free | RAUWN-WN | 30 | --- |\n| 3:09.70S DQ | F \\# 3C | Male 12-12 200 IM | RAUWN-WN | --- | --- |\n| 42.63S | F \\# 7D | Male 12-12 50 Back | RAUWN-WN | 21 | --- |\n| 1:17.36S | F \\# 10D | Male 12-12 100 Free | RAUWN-WN | 22 | --- |\n| 1:33.37S | F \\# 14D | Male 12-12 100 IM | RAUWN-WN | 22 | --- |\n| 46.19S | F \\# 19D | Male 12-12 50 Breast | RAUWN-WN | 10 | 1 |\n| 1:27.64S | F \\# 23D | Male 12-12 100 Back | RAUWN-WN | 12 | --- |\n| 1:40.46S | F \\# 30D | Male 12-12 100 Breast | RAUWN-WN | 10 | 1 |\n| 43.28S | F \\# 32D | Male 12-12 50 Fly | RAUWN-WN | 19 | --- |\n| Burdett, Emily (11) F |  |  |  |  |  |\n| 34.61S | F \\# 2C | Female 11-11 50 Free | RAUWN-WN | 19 | --- |\n| 41.73S | F \\# 8C | Female 11-11 50 Back | RAUWN-WN | 22 | --- |\n| 1:16.88S | F \\# 9C | Female 11-11 100 Free | RAUWN-WN | 17 | --- |\n| 1:29.28S | F \\# 13C | Female 11-11 100 IM | RAUWN-WN | 16 | --- |\n| 2:43.46S | F \\# 18B | Female 11-11 200 Free | RAUWN-WN | 12 | --- |\n| 46.99S | F \\# 20C | Female 11-11 50 Breast | RAUWN-WN | 16 | --- |\n| 1:30.33S | F \\# 24C | Female 11-11 100 Back | RAUWN-WN | 20 | --- |\n| Codyre, Aidan (9) M |  |  |  |  |  |\n| 38.64S DQ | F \\# 1A | Male 9 & Under 50 Free | RAUWN-WN | --- | --- |\n| 43.31S | F \\# 7A | Male 9 & Under 50 Back | RAUWN-WN | 5 | 6 |\n| 1:28.30S | F \\# 10A | Male 9 & Under 100 Free | RAUWN-WN | 11 | --- |\n| 1:39.02S | F \\# 14A | Male 9 & Under 100 IM | RAUWN-WN | 8 | 3 |\n| 52.20S | F \\# 19A | Male 9 & Under 50 Breast | RAUWN-WN | 9 | 2 |\n| 1:40.03S | F \\# 23A | Male 9 & Under 100 Back | RAUWN-WN | 9 | 2 |\n| 1:52.98S | F \\# 30A | Male 9 & Under 100 Breast | RAUWN-WN | 7 | 4 |\n| 47.03S | F \\# 32A | Male 9 & Under 50 Fly | RAUWN-WN | 5 | 6 |\n\nLicensed To: Raumati Swimming Club\n\nHY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag\n\n## Individual Meet Results\n\nSWN 12\\&U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC\n\n| Time | F/P/S | Event | Place | Points | Improv |\n| --- | --- | --- | --- | --- | --- |\n| Cowley, Lola (10) F |  |  |  |  |  |\n| 37.80S | F \\# 2B | Female 10-10 50 Free | RAUWN-WN | 14 | --- |\n| 46.66S DQ | F \\# 8B | Female 10-10 50 Back | RAUWN-WN | --- | --- |\n| 1:30.54S | F \\# 9B | Female 10-10 100 Free | RAUWN-WN | 18 | --- |\n| 1:45.65S | F \\# 13B | Female 10-10 100 IM | RAUWN-WN | 18 | --- |\n| 53.47S | F \\# 20B | Female 10-10 50 Breast | RAUWN-WN | 16 | --- |\n| 1:42.30S | F \\# 24B | Female 10-10 100 Back | RAUWN-WN | 15 | --- |\n| 47.01S | F \\# 31B | Female 10-10 50 Fly | RAUWN-WN | 13 | --- |\n| Gray, Michaela (10) F |  |  |  |  |  |\n| 35.04S | F \\# 2B | Female 10-10 50 Free | RAUWN-WN | 6 | 5 |\n| 3:11.42S | F \\# 4A | Female 10 & Under 200 IM | RAUWN-WN | 4 | 7 |\n| 40.27S | F \\# 8B | Female 10-10 50 Back | RAUWN-WN | 5 | 6 |\n| 1:21.16S | F \\# 9B | Female 10-10 100 Free | RAUWN-WN | 10 | 1 |\n| 1:33.61S | F \\# 13B | Female 10-10 100 IM | RAUWN-WN | 8 | 3 |\n| 3:42.97S | F \\# 15A | Female 10 & Under 200 Breast | RAUWN-WN | 3 | 10 |\n| 48.47S | F \\# 20B | Female 10-10 50 Breast | RAUWN-WN | 7 | 4 |\n| 1:27.33S | F \\# 24B | Female 10-10 100 Back | RAUWN-WN | 5 | 6 |\n| 3:00.50S | F \\# 27A | Female 10 & Under 200 Back | RAUWN-WN | 2 | 14 |\n| 1:43.57S | F \\# 29B | Female 10-10 100 Breast | RAUWN-WN | 5 | 6 |\n| 43.67S | F \\# 31B | Female 10-10 50 Fly | RAUWN-WN | 10 | 1 |\n| Hassan, Emily (12) F |  |  |  |  |  |\n| 30.08S | F \\# 2D | Female 12-12 50 Free | RAUWN-WN | 2 | 14 |\n| 1:21.24S | F \\# 6D | Female 12-12 100 Fly | RAUWN-WN | 4 | 7 |\n| 1:07.26S | F \\# 9D | Female 12-12 100 Free | RAUWN-WN | 6 | 5 |\n| 3:07.33S | F \\# 15C | Female 12-12 200 Breast | RAUWN-WN | 7 | 4 |\n| 2:28.37S | F \\# 18C | Female 12-12 200 Free | RAUWN-WN | 6 | 5 |\n| 5:53.59S | F \\# 22 | Female 12 & Under 400 IM | RAUWN-WN | 1 | 20 |\n| 1:18.28S | F \\# 24D | Female 12-12 100 Back | RAUWN-WN | 9 | 2 |\n| Hassan, Jacob (9) M |  |  |  |  |  |\n| 36.05S | F \\# 1A | Male 9 & Under 50 Free | RAUWN-WN | 3 | 10 |\n| 44.26S | F \\# 7A | Male 9 & Under 50 Back | RAUWN-WN | 8 | 3 |\n| 1:22.10S | F \\# 10A | Male 9 & Under 100 Free | RAUWN-WN | 3 | 10 |\n| 1:38.43S | F \\# 14A | Male 9 & Under 100 IM | RAUWN-WN | 6 | 5 |\n| 2:59.32S | F \\# 17A | Male 10 & Under 200 Free | RAUWN-WN | 6 | 5 |\n| 53.13S | F \\# 19A | Male 9 & Under 50 Breast | RAUWN-WN | 12 | --- |\n| 1:40.14S | F \\# 23A | Male 9 & Under 100 Back | RAUWN-WN | 10 | 1 |\n| Kelly, Elsa (10) F |  |  |  |  |  |\n| 37.86S DQ | F \\# 2B | Female 10-10 50 Free | RAUWN-WN | --- | --- |\n| 44.93S | F \\# 8B | Female 10-10 50 Back | RAUWN-WN | 18 | --- |\n| 1:26.28S | F \\# 9B | Female 10-10 100 Free | RAUWN-WN | 15 | --- |\n| 1:37.08S | F \\# 13B | Female 10-10 100 IM | RAUWN-WN | 13 | --- |\n| 3:48.26S | F \\# 15A | Female 10 & Under 200 Breast | RAUWN-WN | 4 | 7 |\n| 47.34S | F \\# 20B | Female 10-10 50 Breast | RAUWN-WN | 5 | 6 |\n| 1:34.47S | F \\# 24B | Female 10-10 100 Back | RAUWN-WN | 13 | --- |\n| 1:41.21S | F \\# 29B | Female 10-10 100 Breast | RAUWN-WN | 4 | 7 |\n\nLicensed To: Raumati Swimming Club\n\nHY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag\n\n## Individual Meet Results\n\nSWN 12\\&U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC\n\n| Time | F/P/S | Event | Place | Points | Improv |\n| --- | --- | --- | --- | --- | --- |\n| Martin, Poppy (12) F |  |  |  |  |  |\n| 37.11S | F \\# 2D | Female 12-12 50 Free | RAUWN-WN | 36 | --- |\n| 41.12S | F \\# 8D | Female 12-12 50 Back | RAUWN-WN | 21 | --- |\n| 1:33.89S | F \\# 13D | Female 12-12 100 IM | RAUWN-WN | 29 | --- |\n| 38.89S | F \\# 31D | Female 12-12 50 Fly | RAUWN-WN | 20 | --- |\n| Scriven, Samuel (11) M |  |  |  |  |  |\n| 39.59S | F \\# 1C | Male 11-11 50 Free | RAUWN-WN | 27 | --- |\n| 42.91S | F \\# 7C | Male 11-11 50 Back | RAUWN-WN | 22 | --- |\n| Skelsey, Harry (12) M |  |  |  |  |  |\n| 31.21S | F \\# 1D | Male 12-12 50 Free | RAUWN-WN | 10 | 1 |\n| 1:31.91S | F \\# 5D | Male 12-12 100 Fly | RAUWN-WN | 9 | 2 |\n| 39.02S | F \\# 7D | Male 12-12 50 Back | RAUWN-WN | 10 | 1 |\n| 1:11.00S | F \\# 10D | Male 12-12 100 Free | RAUWN-WN | 12 | --- |\n| 2:32.34S | F \\# 17C | Male 12-12 200 Free | RAUWN-WN | 8 | 3 |\n| 1:23.55S | F \\# 23D | Male 12-12 100 Back | RAUWN-WN | 10 | 1 |\n| 5:18.71S | F \\# 26 | Male 12 & Under 400 Free | RAUWN-WN | 6 | 5 |\n| 37.84S | F \\# 32D | Male 12-12 50 Fly | RAUWN-WN | 13 | --- |\n| Skelsey, James (8) M |  |  |  |  |  |\n| 51.27S | F \\# 7A | Male 9 & Under 50 Back | RAUWN-WN | 22 | --- |\n| 1:39.55S | F \\# 10A | Male 9 & Under 100 Free | RAUWN-WN | 22 | --- |\n| Thorne, Jay (12) M |  |  |  |  |  |\n| 35.01S | F \\# 1D | Male 12-12 50 Free | RAUWN-WN | 27 | --- |\n| 1:35.20S | F \\# 5D | Male 12-12 100 Fly | RAUWN-WN | 11 | --- |\n| 42.67S | F \\# 7D | Male 12-12 50 Back | RAUWN-WN | 22 | --- |\n| 1:19.87S | F \\# 10D | Male 12-12 100 Free | RAUWN-WN | 26 | --- |\n| 1:34.76S | F \\# 14D | Male 12-12 100 IM | RAUWN-WN | 24 | --- |\n| 39.04S | F \\# 32D | Male 12-12 50 Fly | RAUWN-WN | 15 | --- |\n| Van Noort, Ace (11) M |  |  |  |  |  |\n| 2:53.43S | F \\# 3B | Male 11-11 200 IM | RAUWN-WN | 5 | 6 |\n| 1:21.52S | F \\# 5C | Male 11-11 100 Fly | RAUWN-WN | 3 | 10 |\n| 2:56.83S | F \\# 12 | Male 12 & Under 200 Fly | RAUWN-WN | 4 | 7 |\n| 1:27.03S | F \\# 14C | Male 11-11 100 IM | RAUWN-WN | 12 | --- |\n| 6:00.91S | F \\# 21 | Male 12 & Under 400 IM | RAUWN-WN | 3 | 10 |\n| 1:27.10S | F \\# 23C | Male 11-11 100 Back | RAUWN-WN | 11 | --- |\n| 2:50.04S | F \\# 28B | Male 11-11 200 Back | RAUWN-WN | 3 | 10 |\n| 37.45S | F \\# 32C | Male 11-11 50 Fly | RAUWN-WN | 8 | 3 |\n| Waite, Henry (9) M |  |  |  |  |  |\n| 37.66S | F \\# 1A | Male 9 & Under 50 Free | RAUWN-WN | 6 | 5 |\n| 54.58S | F \\# 19A | Male 9 & Under 50 Breast | RAUWN-WN | 14 | --- |\n| 1:57.51S DQ | F \\# 30A | Male 9 & Under 100 Breast | RAUWN-WN | --- | --- |\n| 48.10S | F \\# 32A | Male 9 & Under 50 Fly | RAUWN-WN | 8 | 3 |\n| Winter, Greer (11) F |  |  |  |  |  |\n| 35.90S | F \\# 2C | Female 11-11 50 Free | RAUWN-WN | 27 | --- |\n| 41.71S | F \\# 8C | Female 11-11 50 Back | RAUWN-WN | 21 | --- |\n| 1:24.84S | F \\# 9C | Female 11-11 100 Free | RAUWN-WN | 30 | --- |\n| 1:33.34S | F \\# 24C | Female 11-11 100 Back | RAUWN-WN | 24 | --- |\n| 45.77S | F \\# 31C | Female 11-11 50 Fly | RAUWN-WN | 21 | --- |\n\nLicensed To: Raumati Swimming Club HY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag\n\n## Individual Meet Results\n\nSWN 12\\&U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC\n\n| Time | F/P/S | Event | Place | Points | Improv |\n| --- | --- | --- | --- | --- | --- |\n| Woodley, Cole (11) M |  |  |  |  |  |\n| 34.72S | F \\# 1C | Male 11-11 50 Free | RAUWN-WN | 18 | --- |\n| 40.18S | F \\# 7C | Male 11-11 50 Back | RAUWN-WN | 14 | --- |\n| 1:18.46S | F \\# 10C | Male 11-11 100 Free | RAUWN-WN | 17 | --- |\n| 1:29.86S | F \\# 14C | Male 11-11 100 IM | RAUWN-WN | 17 | --- |\n| 2:52.68S | F \\# 17B | Male 11-11 200 Free | RAUWN-WN | 12 | --- |\n| 48.29S | F \\# 19C | Male 11-11 50 Breast | RAUWN-WN | 18 | --- |\n| 40.67S | F \\# 32C | Male 11-11 50 Fly | RAUWN-WN | 13 | --- |\n",
+    "plain": "Licensed To: Raumati Swimming Club\n\nHY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag\n\n  Individual Meet Results\nSWN 12&U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC\n\nTime F/P/S Event Place Points Improv\nAdams, Felix (10) M     \n37.90S F # 1B Male 10-10 50 Free RAUWN-WN 14 ---\n44.05S F # 7B Male 10-10 50 Back RAUWN-WN 12 ---\n1:27.56S F # 10B Male 10-10 100 Free RAUWN-WN 15 ---\n1:44.15S F # 14B Male 10-10 100 IM RAUWN-WN 15 ---\n51.78S F # 19B Male 10-10 50 Breast RAUWN-WN 11 ---\n1:36.30S F # 23B Male 10-10 100 Back RAUWN-WN 10 1\nAnderson, Alice (11) F     \n42.19S F # 2C Female 11-11 50 Free RAUWN-WN 42 ---\n49.64S F # 8C Female 11-11 50 Back RAUWN-WN 38 ---\nBazley, Charlie (10) M     \n39.82S F # 1B Male 10-10 50 Free RAUWN-WN 22 ---\n46.37S F # 7B Male 10-10 50 Back RAUWN-WN 20 ---\n1:40.14S F # 14B Male 10-10 100 IM RAUWN-WN 12 ---\n1:40.95S DQ F # 23B Male 10-10 100 Back RAUWN-WN --- ---\n44.86S F # 32B Male 10-10 50 Fly RAUWN-WN 7 4\nBrown, Cameron (12) M     \n35.61S F # 1D Male 12-12 50 Free RAUWN-WN 30 ---\n3:09.70S DQ F # 3C Male 12-12 200 IM RAUWN-WN --- ---\n42.63S F # 7D Male 12-12 50 Back RAUWN-WN 21 ---\n1:17.36S F # 10D Male 12-12 100 Free RAUWN-WN 22 ---\n1:33.37S F # 14D Male 12-12 100 IM RAUWN-WN 22 ---\n46.19S F # 19D Male 12-12 50 Breast RAUWN-WN 10 1\n1:27.64S F # 23D Male 12-12 100 Back RAUWN-WN 12 ---\n1:40.46S F # 30D Male 12-12 100 Breast RAUWN-WN 10 1\n43.28S F # 32D Male 12-12 50 Fly RAUWN-WN 19 ---\nBurdett, Emily (11) F     \n34.61S F # 2C Female 11-11 50 Free RAUWN-WN 19 ---\n41.73S F # 8C Female 11-11 50 Back RAUWN-WN 22 ---\n1:16.88S F # 9C Female 11-11 100 Free RAUWN-WN 17 ---\n1:29.28S F # 13C Female 11-11 100 IM RAUWN-WN 16 ---\n2:43.46S F # 18B Female 11-11 200 Free RAUWN-WN 12 ---\n46.99S F # 20C Female 11-11 50 Breast RAUWN-WN 16 ---\n1:30.33S F # 24C Female 11-11 100 Back RAUWN-WN 20 ---\nCodyre, Aidan (9) M     \n38.64S DQ F # 1A Male 9 & Under 50 Free RAUWN-WN --- ---\n43.31S F # 7A Male 9 & Under 50 Back RAUWN-WN 5 6\n1:28.30S F # 10A Male 9 & Under 100 Free RAUWN-WN 11 ---\n1:39.02S F # 14A Male 9 & Under 100 IM RAUWN-WN 8 3\n52.20S F # 19A Male 9 & Under 50 Breast RAUWN-WN 9 2\n1:40.03S F # 23A Male 9 & Under 100 Back RAUWN-WN 9 2\n1:52.98S F # 30A Male 9 & Under 100 Breast RAUWN-WN 7 4\n47.03S F # 32A Male 9 & Under 50 Fly RAUWN-WN 5 6\n\nLicensed To: Raumati Swimming Club\n\nHY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag\n\n  Individual Meet Results\nSWN 12&U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC\n\nTime F/P/S Event Place Points Improv\nCowley, Lola (10) F     \n37.80S F # 2B Female 10-10 50 Free RAUWN-WN 14 ---\n46.66S DQ F # 8B Female 10-10 50 Back RAUWN-WN --- ---\n1:30.54S F # 9B Female 10-10 100 Free RAUWN-WN 18 ---\n1:45.65S F # 13B Female 10-10 100 IM RAUWN-WN 18 ---\n53.47S F # 20B Female 10-10 50 Breast RAUWN-WN 16 ---\n1:42.30S F # 24B Female 10-10 100 Back RAUWN-WN 15 ---\n47.01S F # 31B Female 10-10 50 Fly RAUWN-WN 13 ---\nGray, Michaela (10) F     \n35.04S F # 2B Female 10-10 50 Free RAUWN-WN 6 5\n3:11.42S F # 4A Female 10 & Under 200 IM RAUWN-WN 4 7\n40.27S F # 8B Female 10-10 50 Back RAUWN-WN 5 6\n1:21.16S F # 9B Female 10-10 100 Free RAUWN-WN 10 1\n1:33.61S F # 13B Female 10-10 100 IM RAUWN-WN 8 3\n3:42.97S F # 15A Female 10 & Under 200 Breast RAUWN-WN 3 10\n48.47S F # 20B Female 10-10 50 Breast RAUWN-WN 7 4\n1:27.33S F # 24B Female 10-10 100 Back RAUWN-WN 5 6\n3:00.50S F # 27A Female 10 & Under 200 Back RAUWN-WN 2 14\n1:43.57S F # 29B Female 10-10 100 Breast RAUWN-WN 5 6\n43.67S F # 31B Female 10-10 50 Fly RAUWN-WN 10 1\nHassan, Emily (12) F     \n30.08S F # 2D Female 12-12 50 Free RAUWN-WN 2 14\n1:21.24S F # 6D Female 12-12 100 Fly RAUWN-WN 4 7\n1:07.26S F # 9D Female 12-12 100 Free RAUWN-WN 6 5\n3:07.33S F # 15C Female 12-12 200 Breast RAUWN-WN 7 4\n2:28.37S F # 18C Female 12-12 200 Free RAUWN-WN 6 5\n5:53.59S F # 22 Female 12 & Under 400 IM RAUWN-WN 1 20\n1:18.28S F # 24D Female 12-12 100 Back RAUWN-WN 9 2\nHassan, Jacob (9) M     \n36.05S F # 1A Male 9 & Under 50 Free RAUWN-WN 3 10\n44.26S F # 7A Male 9 & Under 50 Back RAUWN-WN 8 3\n1:22.10S F # 10A Male 9 & Under 100 Free RAUWN-WN 3 10\n1:38.43S F # 14A Male 9 & Under 100 IM RAUWN-WN 6 5\n2:59.32S F # 17A Male 10 & Under 200 Free RAUWN-WN 6 5\n53.13S F # 19A Male 9 & Under 50 Breast RAUWN-WN 12 ---\n1:40.14S F # 23A Male 9 & Under 100 Back RAUWN-WN 10 1\nKelly, Elsa (10) F     \n37.86S DQ F # 2B Female 10-10 50 Free RAUWN-WN --- ---\n44.93S F # 8B Female 10-10 50 Back RAUWN-WN 18 ---\n1:26.28S F # 9B Female 10-10 100 Free RAUWN-WN 15 ---\n1:37.08S F # 13B Female 10-10 100 IM RAUWN-WN 13 ---\n3:48.26S F # 15A Female 10 & Under 200 Breast RAUWN-WN 4 7\n47.34S F # 20B Female 10-10 50 Breast RAUWN-WN 5 6\n1:34.47S F # 24B Female 10-10 100 Back RAUWN-WN 13 ---\n1:41.21S F # 29B Female 10-10 100 Breast RAUWN-WN 4 7\n\nLicensed To: Raumati Swimming Club\n\nHY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag\n\n  Individual Meet Results\nSWN 12&U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC\n\nTime F/P/S Event Place Points Improv\nMartin, Poppy (12) F     \n37.11S F # 2D Female 12-12 50 Free RAUWN-WN 36 ---\n41.12S F # 8D Female 12-12 50 Back RAUWN-WN 21 ---\n1:33.89S F # 13D Female 12-12 100 IM RAUWN-WN 29 ---\n38.89S F # 31D Female 12-12 50 Fly RAUWN-WN 20 ---\nScriven, Samuel (11) M     \n39.59S F # 1C Male 11-11 50 Free RAUWN-WN 27 ---\n42.91S F # 7C Male 11-11 50 Back RAUWN-WN 22 ---\nSkelsey, Harry (12) M     \n31.21S F # 1D Male 12-12 50 Free RAUWN-WN 10 1\n1:31.91S F # 5D Male 12-12 100 Fly RAUWN-WN 9 2\n39.02S F # 7D Male 12-12 50 Back RAUWN-WN 10 1\n1:11.00S F # 10D Male 12-12 100 Free RAUWN-WN 12 ---\n2:32.34S F # 17C Male 12-12 200 Free RAUWN-WN 8 3\n1:23.55S F # 23D Male 12-12 100 Back RAUWN-WN 10 1\n5:18.71S F # 26 Male 12 & Under 400 Free RAUWN-WN 6 5\n37.84S F # 32D Male 12-12 50 Fly RAUWN-WN 13 ---\nSkelsey, James (8) M     \n51.27S F # 7A Male 9 & Under 50 Back RAUWN-WN 22 ---\n1:39.55S F # 10A Male 9 & Under 100 Free RAUWN-WN 22 ---\nThorne, Jay (12) M     \n35.01S F # 1D Male 12-12 50 Free RAUWN-WN 27 ---\n1:35.20S F # 5D Male 12-12 100 Fly RAUWN-WN 11 ---\n42.67S F # 7D Male 12-12 50 Back RAUWN-WN 22 ---\n1:19.87S F # 10D Male 12-12 100 Free RAUWN-WN 26 ---\n1:34.76S F # 14D Male 12-12 100 IM RAUWN-WN 24 ---\n39.04S F # 32D Male 12-12 50 Fly RAUWN-WN 15 ---\nVan Noort, Ace (11) M     \n2:53.43S F # 3B Male 11-11 200 IM RAUWN-WN 5 6\n1:21.52S F # 5C Male 11-11 100 Fly RAUWN-WN 3 10\n2:56.83S F # 12 Male 12 & Under 200 Fly RAUWN-WN 4 7\n1:27.03S F # 14C Male 11-11 100 IM RAUWN-WN 12 ---\n6:00.91S F # 21 Male 12 & Under 400 IM RAUWN-WN 3 10\n1:27.10S F # 23C Male 11-11 100 Back RAUWN-WN 11 ---\n2:50.04S F # 28B Male 11-11 200 Back RAUWN-WN 3 10\n37.45S F # 32C Male 11-11 50 Fly RAUWN-WN 8 3\nWaite, Henry (9) M     \n37.66S F # 1A Male 9 & Under 50 Free RAUWN-WN 6 5\n54.58S F # 19A Male 9 & Under 50 Breast RAUWN-WN 14 ---\n1:57.51S DQ F # 30A Male 9 & Under 100 Breast RAUWN-WN --- ---\n48.10S F # 32A Male 9 & Under 50 Fly RAUWN-WN 8 3\nWinter, Greer (11) F     \n35.90S F # 2C Female 11-11 50 Free RAUWN-WN 27 ---\n41.71S F # 8C Female 11-11 50 Back RAUWN-WN 21 ---\n1:24.84S F # 9C Female 11-11 100 Free RAUWN-WN 30 ---\n1:33.34S F # 24C Female 11-11 100 Back RAUWN-WN 24 ---\n45.77S F # 31C Female 11-11 50 Fly RAUWN-WN 21 ---\n\nLicensed To: Raumati Swimming Club HY-TEK's TEAM MANAGER 7.0 19/12/2019 Pag\n\n  Individual Meet Results\nSWN 12&U Junior Champs 2019 14-Dec-19 to 15-Dec-19 SC Meters Location: WRAC\n\nTime F/P/S Event Place Points Improv\nWoodley, Cole (11) M     \n34.72S F # 1C Male 11-11 50 Free RAUWN-WN 18 ---\n40.18S F # 7C Male 11-11 50 Back RAUWN-WN 14 ---\n1:18.46S F # 10C Male 11-11 100 Free RAUWN-WN 17 ---\n1:29.86S F # 14C Male 11-11 100 IM RAUWN-WN 17 ---\n2:52.68S F # 17B Male 11-11 200 Free RAUWN-WN 12 ---\n48.29S F # 19C Male 11-11 50 Breast RAUWN-WN 18 ---\n40.67S F # 32C Male 11-11 50 Fly RAUWN-WN 13 ---"
+  }
+}

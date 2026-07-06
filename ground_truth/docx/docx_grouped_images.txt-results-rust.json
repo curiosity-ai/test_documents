@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/docx/docx_grouped_images.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 13,
+      "word_count": 37,
+      "character_count": 279
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/docx/docx_grouped_images.txt",
+      "source_uri": "ground_truth/docx/docx_grouped_images.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Grouped images</p>\n<p>[]There are 2 pictures grouped together</p>\n<p>[Docling Java][Docling]There are 2 pictures ungrouped, each wrapped “Top and bottom”</p>\n<p>Ungrouped images</p>\n<p>There are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs</p>\n<p>[Docling]</p>\n<p>[Docling]</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Grouped images\"},{\"type\":\"paragraph\",\"text\":\"[]There are 2 pictures grouped together\"},{\"type\":\"paragraph\",\"text\":\"[Docling Java][Docling]There are 2 pictures ungrouped, each wrapped “Top and bottom”\"},{\"type\":\"paragraph\",\"text\":\"Ungrouped images\"},{\"type\":\"paragraph\",\"text\":\"There are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs\"},{\"type\":\"paragraph\",\"text\":\"[Docling]\"},{\"type\":\"paragraph\",\"text\":\"[Docling]\"}]}",
+    "markdown": "Grouped images\n\n[]There are 2 pictures grouped together\n\n[Docling Java][Docling]There are 2 pictures ungrouped, each wrapped “Top and bottom”\n\nUngrouped images\n\nThere are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs\n\n[Docling]\n\n[Docling]\n",
+    "plain": "Grouped images\n\n[]There are 2 pictures grouped together\n\n[Docling Java][Docling]There are 2 pictures ungrouped, each wrapped “Top and bottom”\n\nUngrouped images\n\nThere are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs\n\n[Docling]\n\n[Docling]"
+  }
+}

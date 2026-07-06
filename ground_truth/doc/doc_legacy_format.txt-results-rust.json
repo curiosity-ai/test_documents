@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/doc/doc_legacy_format.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 133,
+      "word_count": 93,
+      "character_count": 510
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/doc/doc_legacy_format.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/doc/doc_legacy_format.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Test Document</p>\n<p>Paragraph 2.1.1</p>\n<p>Paragraph 2.1.2</p>\n<p>Test 1:</p>\n<p>List item 1</p>\n<p>List item 2</p>\n<p>List item 3</p>\n<p>Test 2:</p>\n<p>List item a</p>\n<p>List item b</p>\n<p>List item c</p>\n<p>Test 3:</p>\n<p>List item 1</p>\n<p>List item 2</p>\n<p>List item 1.1</p>\n<p>List item 1.2</p>\n<p>List item 1.3</p>\n<p>List item 3</p>\n<p>Test 4:</p>\n<p>List item 1</p>\n<p>List item 1.1</p>\n<p>List item 2</p>\n<p>Test 5:</p>\n<p>List item 1</p>\n<p>List item 1.1</p>\n<p>List item 1.1.1</p>\n<p>List item 3</p>\n<p>Test 6:</p>\n<p>List item 1</p>\n<p>List item 2</p>\n<p>List item 1.1</p>\n<p>List item 1.2</p>\n<p>List item 1.2.1</p>\n<p>List item 3</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test Document\"},{\"type\":\"paragraph\",\"text\":\"Paragraph\\n2.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph\\n2.1.2\"},{\"type\":\"paragraph\",\"text\":\"Test 1:\"},{\"type\":\"paragraph\",\"text\":\"List item 1\"},{\"type\":\"paragraph\",\"text\":\"List item 2\"},{\"type\":\"paragraph\",\"text\":\"List item 3\"},{\"type\":\"paragraph\",\"text\":\"Test 2:\"},{\"type\":\"paragraph\",\"text\":\"List item a\"},{\"type\":\"paragraph\",\"text\":\"List item b\"},{\"type\":\"paragraph\",\"text\":\"List item c\"},{\"type\":\"paragraph\",\"text\":\"Test 3:\"},{\"type\":\"paragraph\",\"text\":\"List item 1\"},{\"type\":\"paragraph\",\"text\":\"List item 2\"},{\"type\":\"paragraph\",\"text\":\"List item 1.1\"},{\"type\":\"paragraph\",\"text\":\"List item 1.2\"},{\"type\":\"paragraph\",\"text\":\"List item 1.3\"},{\"type\":\"paragraph\",\"text\":\"List item 3\"},{\"type\":\"paragraph\",\"text\":\"Test 4:\"},{\"type\":\"paragraph\",\"text\":\"List item 1\"},{\"type\":\"paragraph\",\"text\":\"List item 1.1\"},{\"type\":\"paragraph\",\"text\":\"List item 2\"},{\"type\":\"paragraph\",\"text\":\"Test 5:\"},{\"type\":\"paragraph\",\"text\":\"List item 1\"},{\"type\":\"paragraph\",\"text\":\"List item 1.1\"},{\"type\":\"paragraph\",\"text\":\"List item\\n1.1.1\"},{\"type\":\"paragraph\",\"text\":\"List item 3\"},{\"type\":\"paragraph\",\"text\":\"Test 6:\"},{\"type\":\"paragraph\",\"text\":\"List item 1\"},{\"type\":\"paragraph\",\"text\":\"List item 2\"},{\"type\":\"paragraph\",\"text\":\"List item 1.1\"},{\"type\":\"paragraph\",\"text\":\"List item 1.2\"},{\"type\":\"paragraph\",\"text\":\"List item\\n1.2.1\"},{\"type\":\"paragraph\",\"text\":\"List item 3\"}]}",
+    "markdown": "Test Document\n\nParagraph 2.1.1\n\nParagraph 2.1.2\n\nTest 1:\n\nList item 1\n\nList item 2\n\nList item 3\n\nTest 2:\n\nList item a\n\nList item b\n\nList item c\n\nTest 3:\n\nList item 1\n\nList item 2\n\nList item 1.1\n\nList item 1.2\n\nList item 1.3\n\nList item 3\n\nTest 4:\n\nList item 1\n\nList item 1.1\n\nList item 2\n\nTest 5:\n\nList item 1\n\nList item 1.1\n\nList item 1.1.1\n\nList item 3\n\nTest 6:\n\nList item 1\n\nList item 2\n\nList item 1.1\n\nList item 1.2\n\nList item 1.2.1\n\nList item 3\n",
+    "plain": "Test Document\n\nParagraph\n2.1.1\n\nParagraph\n2.1.2\n\nTest 1:\n\nList item 1\n\nList item 2\n\nList item 3\n\nTest 2:\n\nList item a\n\nList item b\n\nList item c\n\nTest 3:\n\nList item 1\n\nList item 2\n\nList item 1.1\n\nList item 1.2\n\nList item 1.3\n\nList item 3\n\nTest 4:\n\nList item 1\n\nList item 1.1\n\nList item 2\n\nTest 5:\n\nList item 1\n\nList item 1.1\n\nList item\n1.1.1\n\nList item 3\n\nTest 6:\n\nList item 1\n\nList item 2\n\nList item 1.1\n\nList item 1.2\n\nList item\n1.2.1\n\nList item 3"
+  }
+}

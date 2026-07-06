@@ -1,0 +1,26 @@
+{
+  "file": "rtf/list_simple.rtf",
+  "mime_type": "application/rtf",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "paragraph_count": 4,
+      "source_index": 0,
+      "final_uri": "rtf/list_simple.rtf",
+      "word_count": 5,
+      "line_count": 7,
+      "source_kind": "uri",
+      "source_uri": "rtf/list_simple.rtf",
+      "character_count": 23
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<ul>\n<li>one</li>\n<li>two\n<ul>\n<li>sub</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>new list</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"one\",\"two\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"sub\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"new list\"]}]}",
+    "markdown": "- one\n- two\n  - sub\n\n- new list\n",
+    "plain": "one\ntwo\nsub\nnew list"
+  }
+}

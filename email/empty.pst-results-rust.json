@@ -1,0 +1,27 @@
+{
+  "file": "email/empty.pst",
+  "mime_type": "application/vnd.ms-outlook-pst",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "pst",
+      "message_count": 0
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "message_count": 0,
+      "source_uri": "email/empty.pst",
+      "source_index": 0,
+      "final_uri": "email/empty.pst"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "",
+    "json": "{\"body\":[]}",
+    "markdown": "",
+    "plain": ""
+  }
+}

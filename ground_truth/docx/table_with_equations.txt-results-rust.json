@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/docx/table_with_equations.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 6,
+      "word_count": 27,
+      "character_count": 399
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/docx/table_with_equations.txt",
+      "final_uri": "ground_truth/docx/table_with_equations.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>------------------------------------------------------------------------------------ The next cell has an equation A = πr² ------------------------------------ ----------------------------------------------- The next cell has another equation $$x = \\frac{- b \\pm \\sqrt{b^{2} - 4ac}}{2a}$$</p>\n<p>------------------------------------------------------------------------------------</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"------------------------------------------------------------------------------------\\n  The next cell has an equation        A = πr²\\n  ------------------------------------ -----------------------------------------------\\n  The next cell has another equation   $$x = \\\\frac{- b \\\\pm \\\\sqrt{b^{2} - 4ac}}{2a}$$\"},{\"type\":\"paragraph\",\"text\":\"------------------------------------------------------------------------------------\"}]}",
+    "markdown": "\\------------------------------------------------------------------------------------ The next cell has an equation A = πr² ------------------------------------ ----------------------------------------------- The next cell has another equation $$x = \\\\frac{- b \\\\pm \\\\sqrt{b^{2} - 4ac}}{2a}$$\n\n\\------------------------------------------------------------------------------------\n",
+    "plain": "------------------------------------------------------------------------------------\n  The next cell has an equation        A = πr²\n  ------------------------------------ -----------------------------------------------\n  The next cell has another equation   $$x = \\frac{- b \\pm \\sqrt{b^{2} - 4ac}}{2a}$$\n\n------------------------------------------------------------------------------------"
+  }
+}

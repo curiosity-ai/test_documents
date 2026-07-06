@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/pdf/pdf_ocr_rotated_180.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "OCR Test Rotated 180 Degrees",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/pdf/pdf_ocr_rotated_180.md",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/pdf_ocr_rotated_180.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>OCR Test Rotated 180 Degrees</h1>\n<p>package contained self easy an in Markdown and JSON to conversion document PDF bundles Docling</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"OCR Test Rotated 180 Degrees\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"package contained self easy an in Markdown and JSON to conversion document PDF bundles Docling\"}]}]}",
+    "markdown": "# OCR Test Rotated 180 Degrees\n\npackage contained self easy an in Markdown and JSON to conversion document PDF bundles Docling\n",
+    "plain": "OCR Test Rotated 180 Degrees\npackage contained self easy an in Markdown and JSON to conversion document PDF bundles Docling"
+  }
+}

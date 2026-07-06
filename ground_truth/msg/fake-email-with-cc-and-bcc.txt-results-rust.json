@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/msg/fake-email-with-cc-and-bcc.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 10,
+      "word_count": 32,
+      "character_count": 276
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/msg/fake-email-with-cc-and-bcc.txt",
+      "final_uri": "ground_truth/msg/fake-email-with-cc-and-bcc.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Fake email with cc and bcc recipients From: &quot;John&quot; &lt;johnjennings702@gmail.com&gt; To: &quot;John Jennings&quot; &lt;john-ctr@unstructured.io&gt; CC: steve@unstructured.io BCC: hello@unstructured.io Date: 2024-07-29T20:38:11+00:00 This is a test email. Please ignore.</p>\n<p>All the best, John</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Fake email with cc and bcc recipients\\nFrom: \\\"John\\\" <johnjennings702@gmail.com>\\nTo: \\\"John Jennings\\\" <john-ctr@unstructured.io>\\nCC: steve@unstructured.io\\nBCC: hello@unstructured.io\\nDate: 2024-07-29T20:38:11+00:00\\nThis is a test email. Please ignore.\"},{\"type\":\"paragraph\",\"text\":\"All the best,\\nJohn\"}]}",
+    "markdown": "Subject: Fake email with cc and bcc recipients From: \"John\" \\<johnjennings702@gmail.com\\> To: \"John Jennings\" \\<john-ctr@unstructured.io\\> CC: steve@unstructured.io BCC: hello@unstructured.io Date: 2024-07-29T20:38:11+00:00 This is a test email. Please ignore.\n\nAll the best, John\n",
+    "plain": "Subject: Fake email with cc and bcc recipients\nFrom: \"John\" <johnjennings702@gmail.com>\nTo: \"John Jennings\" <john-ctr@unstructured.io>\nCC: steve@unstructured.io\nBCC: hello@unstructured.io\nDate: 2024-07-29T20:38:11+00:00\nThis is a test email. Please ignore.\n\nAll the best,\nJohn"
+  }
+}

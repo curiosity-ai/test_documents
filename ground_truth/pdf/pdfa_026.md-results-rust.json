@@ -1,0 +1,358 @@
+{
+  "file": "ground_truth/pdf/pdfa_026.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Notice of Completion &amp; Environmental Document Transmittal",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/pdfa_026.md",
+      "source_uri": "ground_truth/pdf/pdfa_026.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Lead Agency: Monterey County Resource Management Agency",
+          "Contact Person: Son Pham-Gallardo"
+        ],
+        [
+          "Mailing Address: 1441 Schilling Place, 2nd Floor",
+          "Phone: 831-755-5226"
+        ],
+        [
+          "City: Salinas",
+          "Zip: 93901"
+        ],
+        [
+          "County: Monterey",
+          "City/Nearest Community: Pebble Beach"
+        ]
+      ],
+      "markdown": "| Lead Agency: Monterey County Resource Management Agency | Contact Person: Son Pham-Gallardo |\n| --- | --- |\n| Mailing Address: 1441 Schilling Place, 2nd Floor | Phone: 831-755-5226 |\n| City: Salinas | Zip: 93901 |\n| County: Monterey | City/Nearest Community: Pebble Beach |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Cross Streets: El Bosque Drive",
+          "Zip Code: 93953"
+        ],
+        [
+          "Longitude/Latitude (degrees, minutes and seconds): 38° 49' 50.37\" N / 121° 15' 14.58\" W",
+          "Total Acres: 0.37"
+        ],
+        [
+          "Assessor's Parcel No.: 008-091-005-000",
+          "Section: ____ Twp.: ____ Range: ____ Base: ____"
+        ],
+        [
+          "Within 2 Miles: State Hwy #: Highway 68",
+          "Waterways: ____"
+        ],
+        [
+          "Airports: ____",
+          "Railways: ____ Schools: ____"
+        ]
+      ],
+      "markdown": "| Cross Streets: El Bosque Drive | Zip Code: 93953 |\n| --- | --- |\n| Longitude/Latitude (degrees, minutes and seconds): 38° 49' 50.37\" N / 121° 15' 14.58\" W | Total Acres: 0.37 |\n| Assessor's Parcel No.: 008-091-005-000 | Section: ____ Twp.: ____ Range: ____ Base: ____ |\n| Within 2 Miles: State Hwy #: Highway 68 | Waterways: ____ |\n| Airports: ____ | Railways: ____ Schools: ____ |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "CEQA:",
+          "☐ NOP",
+          "☐ Draft EIR",
+          "NEPA:",
+          "☐ NOI",
+          "Other:",
+          "☐ Joint Document"
+        ],
+        [
+          "",
+          "☐ Early Cons",
+          "☐ Supplement/Subsequent EIR",
+          "",
+          "☐ EA",
+          "",
+          "☐ Final Document"
+        ],
+        [
+          "",
+          "☐ Neg Dec",
+          "(Prior SCH No.)",
+          "",
+          "☐ Draft EIS",
+          "",
+          "☐ Other:"
+        ],
+        [
+          "",
+          "☑ Mit Neg Dec",
+          "Other:",
+          "",
+          "☐ FONSI",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| CEQA: | ☐ NOP | ☐ Draft EIR | NEPA: | ☐ NOI | Other: | ☐ Joint Document |\n| --- | --- | --- | --- | --- | --- | --- |\n|  | ☐ Early Cons | ☐ Supplement/Subsequent EIR |  | ☐ EA |  | ☐ Final Document |\n|  | ☐ Neg Dec | (Prior SCH No.) |  | ☐ Draft EIS |  | ☐ Other: |\n|  | ☑ Mit Neg Dec | Other: |  | ☐ FONSI |  |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "☐ General Plan Update",
+          "☐ Specific Plan",
+          "☐ Rezone",
+          "☐ Annexation"
+        ],
+        [
+          "☐ General Plan Amendment",
+          "☐ Master Plan",
+          "☐ Prezone",
+          "☐ Redevelopment"
+        ],
+        [
+          "☐ General Plan Element",
+          "☐ Planned Unit Development",
+          "☐ Use Permit",
+          "☑ Coastal Permit"
+        ],
+        [
+          "☐ Community Plan",
+          "☐ Site Plan",
+          "☐ Land Division (Subdivision, etc.)",
+          "☑ Other: Design Approval"
+        ]
+      ],
+      "markdown": "| ☐ General Plan Update | ☐ Specific Plan | ☐ Rezone | ☐ Annexation |\n| --- | --- | --- | --- |\n| ☐ General Plan Amendment | ☐ Master Plan | ☐ Prezone | ☐ Redevelopment |\n| ☐ General Plan Element | ☐ Planned Unit Development | ☐ Use Permit | ☑ Coastal Permit |\n| ☐ Community Plan | ☐ Site Plan | ☐ Land Division (Subdivision, etc.) | ☑ Other: Design Approval |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "☑ Residential: Units 1 Acres 0.37",
+          "☐ Office: Sq.ft. Acres ____ Employees ____",
+          "☐ Transportation: Type ____"
+        ],
+        [
+          "☐ Commercial: Sq.ft. Acres ____ Employees ____",
+          "☐ Mining: Mineral ____",
+          "☐ Power: Type ____ MW ____"
+        ],
+        [
+          "☐ Industrial: Sq.ft. Acres ____ Employees ____",
+          "☐ Waste Treatment: Type ____ MGD ____",
+          "☐ Hazardous Waste: Type ____"
+        ],
+        [
+          "☐ Educational: ____",
+          "☐ Other: ____",
+          ""
+        ],
+        [
+          "☐ Recreational: ____",
+          "",
+          ""
+        ],
+        [
+          "☐ Water Facilities: Type ____ MGD ____",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| ☑ Residential: Units 1 Acres 0.37 | ☐ Office: Sq.ft. Acres ____ Employees ____ | ☐ Transportation: Type ____ |\n| --- | --- | --- |\n| ☐ Commercial: Sq.ft. Acres ____ Employees ____ | ☐ Mining: Mineral ____ | ☐ Power: Type ____ MW ____ |\n| ☐ Industrial: Sq.ft. Acres ____ Employees ____ | ☐ Waste Treatment: Type ____ MGD ____ | ☐ Hazardous Waste: Type ____ |\n| ☐ Educational: ____ | ☐ Other: ____ |  |\n| ☐ Recreational: ____ |  |  |\n| ☐ Water Facilities: Type ____ MGD ____ |  |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "☑ Aesthetic/Visual",
+          "☐ Fiscal",
+          "☐ Recreation/Parks",
+          "☐ Vegetation"
+        ],
+        [
+          "☐ Agricultural Land",
+          "☐ Flood Plain/Flooding",
+          "☐ Schools/Universities",
+          "☐ Water Quality"
+        ],
+        [
+          "☐ Air Quality",
+          "☑ Forest Land/Fire Hazard",
+          "☐ Septic Systems",
+          "☐ Water Supply/Groundwater"
+        ],
+        [
+          "☐ Archeological/Historical",
+          "☑ Geologic/Seismic",
+          "☐ Sewer Capacity",
+          "☐ Wetland/Riparian"
+        ],
+        [
+          "☑ Biological Resources",
+          "☐ Minerals",
+          "☐ Soil Erosion/Compaction/Grading",
+          "☐ Growth Inducement"
+        ],
+        [
+          "☐ Coastal Zone",
+          "☐ Noise",
+          "☐ Solid Waste",
+          "☑ Land Use"
+        ],
+        [
+          "☐ Drainage/Absorption",
+          "☐ Population/Housing Balance",
+          "☐ Toxic/Hazardous",
+          "☐ Cumulative Effects"
+        ],
+        [
+          "☐ Economic/Jobs",
+          "☐ Public Services/Facilities",
+          "☐ Traffic/Circulation",
+          "☐ Other: ____"
+        ]
+      ],
+      "markdown": "| ☑ Aesthetic/Visual | ☐ Fiscal | ☐ Recreation/Parks | ☐ Vegetation |\n| --- | --- | --- | --- |\n| ☐ Agricultural Land | ☐ Flood Plain/Flooding | ☐ Schools/Universities | ☐ Water Quality |\n| ☐ Air Quality | ☑ Forest Land/Fire Hazard | ☐ Septic Systems | ☐ Water Supply/Groundwater |\n| ☐ Archeological/Historical | ☑ Geologic/Seismic | ☐ Sewer Capacity | ☐ Wetland/Riparian |\n| ☑ Biological Resources | ☐ Minerals | ☐ Soil Erosion/Compaction/Grading | ☐ Growth Inducement |\n| ☐ Coastal Zone | ☐ Noise | ☐ Solid Waste | ☑ Land Use |\n| ☐ Drainage/Absorption | ☐ Population/Housing Balance | ☐ Toxic/Hazardous | ☐ Cumulative Effects |\n| ☐ Economic/Jobs | ☐ Public Services/Facilities | ☐ Traffic/Circulation | ☐ Other: ____ |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "☐ Air Resources Board",
+          "☐ Office of Historic Preservation"
+        ],
+        [
+          "☐ Boating & Waterways, Department of",
+          "☐ Office of Public School Construction"
+        ],
+        [
+          "☐ California Emergency Management Agency",
+          "☐ Parks & Recreation, Department of"
+        ],
+        [
+          "☐ California Highway Patrol",
+          "☐ Pesticide Regulation, Department of"
+        ],
+        [
+          "☐ Caltrans District #__",
+          "☐ Public Utilities Commission"
+        ],
+        [
+          "☐ Caltrans Division of Aeronautics",
+          "☐ Regional WQCB #__"
+        ],
+        [
+          "☐ Caltrans Planning",
+          "☐ Resources Agency"
+        ],
+        [
+          "☐ Central Valley Flood Protection Board",
+          "☐ Resources Recycling and Recovery, Department of"
+        ],
+        [
+          "☐ Coachella Valley Mtns. Conservancy",
+          "☐ S.F. Bay Conservation & Development Comm."
+        ],
+        [
+          "☑ Coastal Commission",
+          "☐ San Gabriel & Lower L.A. Rivers & Mtns. Conservancy"
+        ],
+        [
+          "☐ Colorado River Board",
+          "☐ San Joaquin River Conservancy"
+        ],
+        [
+          "☐ Conservation, Department of",
+          "☐ Santa Monica Mtns. Conservancy"
+        ],
+        [
+          "☐ Corrections, Department of",
+          "☐ State Lands Commission"
+        ],
+        [
+          "☐ Delta Protection Commission",
+          "☐ SWRCB: Clean Water Grants"
+        ],
+        [
+          "☐ Education, Department of",
+          "☐ SWRCB: Water Quality"
+        ],
+        [
+          "☐ Energy Commission",
+          "☐ SWRCB: Water Rights"
+        ],
+        [
+          "☐ Fish & Game Region #__",
+          "☐ Tahoe Regional Planning Agency"
+        ],
+        [
+          "☐ Food & Agriculture, Department of",
+          "☐ Toxic Substances Control, Department of"
+        ],
+        [
+          "☐ Forestry and Fire Protection, Department of",
+          "☐ Water Resources, Department of"
+        ],
+        [
+          "☐ General Services, Department of",
+          ""
+        ],
+        [
+          "☐ Health Services, Department of",
+          "☐ Other: ********_********"
+        ],
+        [
+          "☐ Housing & Community Development",
+          "☐ Other: ********_********"
+        ],
+        [
+          "☑ Native American Heritage Commission",
+          ""
+        ]
+      ],
+      "markdown": "| ☐ Air Resources Board | ☐ Office of Historic Preservation |\n| --- | --- |\n| ☐ Boating & Waterways, Department of | ☐ Office of Public School Construction |\n| ☐ California Emergency Management Agency | ☐ Parks & Recreation, Department of |\n| ☐ California Highway Patrol | ☐ Pesticide Regulation, Department of |\n| ☐ Caltrans District #__ | ☐ Public Utilities Commission |\n| ☐ Caltrans Division of Aeronautics | ☐ Regional WQCB #__ |\n| ☐ Caltrans Planning | ☐ Resources Agency |\n| ☐ Central Valley Flood Protection Board | ☐ Resources Recycling and Recovery, Department of |\n| ☐ Coachella Valley Mtns. Conservancy | ☐ S.F. Bay Conservation & Development Comm. |\n| ☑ Coastal Commission | ☐ San Gabriel & Lower L.A. Rivers & Mtns. Conservancy |\n| ☐ Colorado River Board | ☐ San Joaquin River Conservancy |\n| ☐ Conservation, Department of | ☐ Santa Monica Mtns. Conservancy |\n| ☐ Corrections, Department of | ☐ State Lands Commission |\n| ☐ Delta Protection Commission | ☐ SWRCB: Clean Water Grants |\n| ☐ Education, Department of | ☐ SWRCB: Water Quality |\n| ☐ Energy Commission | ☐ SWRCB: Water Rights |\n| ☐ Fish & Game Region #__ | ☐ Tahoe Regional Planning Agency |\n| ☐ Food & Agriculture, Department of | ☐ Toxic Substances Control, Department of |\n| ☐ Forestry and Fire Protection, Department of | ☐ Water Resources, Department of |\n| ☐ General Services, Department of |  |\n| ☐ Health Services, Department of | ☐ Other: ********_******** |\n| ☐ Housing & Community Development | ☐ Other: ********_******** |\n| ☑ Native American Heritage Commission |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Consulting Firm:",
+          "Applicant: Henry Mata"
+        ],
+        [
+          "Address:",
+          "Address: 998 N TEMPERANCE AVE"
+        ],
+        [
+          "City/State/Zip:",
+          "City/State/Zip: CLOVIS CA 93611"
+        ],
+        [
+          "Contact:",
+          "Phone: (559) 323-9595"
+        ],
+        [
+          "Phone:",
+          ""
+        ]
+      ],
+      "markdown": "| Consulting Firm: | Applicant: Henry Mata |\n| --- | --- |\n| Address: | Address: 998 N TEMPERANCE AVE |\n| City/State/Zip: | City/State/Zip: CLOVIS CA 93611 |\n| Contact: | Phone: (559) 323-9595 |\n| Phone: |  |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>Print Form Appendix C</p>\n<h1>Notice of Completion &amp; Environmental Document Transmittal</h1>\n<p>Mail to: State Clearinghouse, P.O. Box 3044, Sacramento, CA 95812-3044 (916) 445-0613 For Hand Delivery/Street Address: 1400 Tenth Street, Sacramento, CA 95814</p>\n<p><strong>SCH #</strong></p>\n<h2>Project Title: Mata</h2>\n<table>\n<thead>\n<tr>\n<th>Lead Agency: Monterey County Resource Management Agency</th>\n<th>Contact Person: Son Pham-Gallardo</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Mailing Address: 1441 Schilling Place, 2nd Floor</td>\n<td>Phone: 831-755-5226</td>\n</tr>\n<tr>\n<td>City: Salinas</td>\n<td>Zip: 93901</td>\n</tr>\n<tr>\n<td>County: Monterey</td>\n<td>City/Nearest Community: Pebble Beach</td>\n</tr>\n</tbody>\n</table>\n<h2>Project Location: County: Monterey</h2>\n<table>\n<thead>\n<tr>\n<th>Cross Streets: El Bosque Drive</th>\n<th>Zip Code: 93953</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Longitude/Latitude (degrees, minutes and seconds): 38° 49' 50.37&quot; N / 121° 15' 14.58&quot; W</td>\n<td>Total Acres: 0.37</td>\n</tr>\n<tr>\n<td>Assessor's Parcel No.: 008-091-005-000</td>\n<td>Section: ____ Twp.: ____ Range: ____ Base: ____</td>\n</tr>\n<tr>\n<td>Within 2 Miles: State Hwy #: Highway 68</td>\n<td>Waterways: ____</td>\n</tr>\n<tr>\n<td>Airports: ____</td>\n<td>Railways: ____ Schools: ____</td>\n</tr>\n</tbody>\n</table>\n<h2>Document Type:</h2>\n<table>\n<thead>\n<tr>\n<th>CEQA:</th>\n<th>☐ NOP</th>\n<th>☐ Draft EIR</th>\n<th>NEPA:</th>\n<th>☐ NOI</th>\n<th>Other:</th>\n<th>☐ Joint Document</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>☐ Early Cons</td>\n<td>☐ Supplement/Subsequent EIR</td>\n<td></td>\n<td>☐ EA</td>\n<td></td>\n<td>☐ Final Document</td>\n</tr>\n<tr>\n<td></td>\n<td>☐ Neg Dec</td>\n<td>(Prior SCH No.)</td>\n<td></td>\n<td>☐ Draft EIS</td>\n<td></td>\n<td>☐ Other:</td>\n</tr>\n<tr>\n<td></td>\n<td>☑ Mit Neg Dec</td>\n<td>Other:</td>\n<td></td>\n<td>☐ FONSI</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2>Local Action Type:</h2>\n<table>\n<thead>\n<tr>\n<th>☐ General Plan Update</th>\n<th>☐ Specific Plan</th>\n<th>☐ Rezone</th>\n<th>☐ Annexation</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>☐ General Plan Amendment</td>\n<td>☐ Master Plan</td>\n<td>☐ Prezone</td>\n<td>☐ Redevelopment</td>\n</tr>\n<tr>\n<td>☐ General Plan Element</td>\n<td>☐ Planned Unit Development</td>\n<td>☐ Use Permit</td>\n<td>☑ Coastal Permit</td>\n</tr>\n<tr>\n<td>☐ Community Plan</td>\n<td>☐ Site Plan</td>\n<td>☐ Land Division (Subdivision, etc.)</td>\n<td>☑ Other: Design Approval</td>\n</tr>\n</tbody>\n</table>\n<h2>Development Type:</h2>\n<table>\n<thead>\n<tr>\n<th>☑ Residential: Units 1 Acres 0.37</th>\n<th>☐ Office: Sq.ft. Acres ____ Employees ____</th>\n<th>☐ Transportation: Type ____</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>☐ Commercial: Sq.ft. Acres ____ Employees ____</td>\n<td>☐ Mining: Mineral ____</td>\n<td>☐ Power: Type ____ MW ____</td>\n</tr>\n<tr>\n<td>☐ Industrial: Sq.ft. Acres ____ Employees ____</td>\n<td>☐ Waste Treatment: Type ____ MGD ____</td>\n<td>☐ Hazardous Waste: Type ____</td>\n</tr>\n<tr>\n<td>☐ Educational: ____</td>\n<td>☐ Other: ____</td>\n<td></td>\n</tr>\n<tr>\n<td>☐ Recreational: ____</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>☐ Water Facilities: Type ____ MGD ____</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2>Project Issues Discussed in Document:</h2>\n<table>\n<thead>\n<tr>\n<th>☑ Aesthetic/Visual</th>\n<th>☐ Fiscal</th>\n<th>☐ Recreation/Parks</th>\n<th>☐ Vegetation</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>☐ Agricultural Land</td>\n<td>☐ Flood Plain/Flooding</td>\n<td>☐ Schools/Universities</td>\n<td>☐ Water Quality</td>\n</tr>\n<tr>\n<td>☐ Air Quality</td>\n<td>☑ Forest Land/Fire Hazard</td>\n<td>☐ Septic Systems</td>\n<td>☐ Water Supply/Groundwater</td>\n</tr>\n<tr>\n<td>☐ Archeological/Historical</td>\n<td>☑ Geologic/Seismic</td>\n<td>☐ Sewer Capacity</td>\n<td>☐ Wetland/Riparian</td>\n</tr>\n<tr>\n<td>☑ Biological Resources</td>\n<td>☐ Minerals</td>\n<td>☐ Soil Erosion/Compaction/Grading</td>\n<td>☐ Growth Inducement</td>\n</tr>\n<tr>\n<td>☐ Coastal Zone</td>\n<td>☐ Noise</td>\n<td>☐ Solid Waste</td>\n<td>☑ Land Use</td>\n</tr>\n<tr>\n<td>☐ Drainage/Absorption</td>\n<td>☐ Population/Housing Balance</td>\n<td>☐ Toxic/Hazardous</td>\n<td>☐ Cumulative Effects</td>\n</tr>\n<tr>\n<td>☐ Economic/Jobs</td>\n<td>☐ Public Services/Facilities</td>\n<td>☐ Traffic/Circulation</td>\n<td>☐ Other: ____</td>\n</tr>\n</tbody>\n</table>\n<h2>Present Land Use/Zoning/General Plan Designation:</h2>\n<p>Residential - Medium Density</p>\n<h2>Project Description: (please use a separate page if necessary)</h2>\n<p>The proposed project would require a Combined Development Permit consisting of:</p>\n<ol>\n<li>Coastal Administrative Permit and Design Approval to allow construction of a 4,208 sf two-story residence with attached 900 sf garage, first floor terrace, second floor terrace, and covered porch;</li>\n<li>Coastal Development Permit to allow development on slopes in excess of 30%;</li>\n<li>Coastal Development Permit to allow removal of 18 trees (Monterey pine); and</li>\n<li>Coastal Development Permit to allow development within 100 feet of environmentally sensitive habitat area.</li>\n</ol>\n<p>Note: The State Clearinghouse will assign identification numbers for all new projects. If a SCH number already exists for a project (e.g. Notice of Preparation or previous draft document) please fill in.</p>\n<p>Revised 2010</p>\n<p>Reviewing Agencies Checklist</p>\n<p>Lead Agencies may recommend State Clearinghouse distribution by marking agencies below with and &quot;X&quot;. If you have already sent your document to the agency please denote that with an &quot;S&quot;.</p>\n<table>\n<thead>\n<tr>\n<th>☐ Air Resources Board</th>\n<th>☐ Office of Historic Preservation</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>☐ Boating &amp; Waterways, Department of</td>\n<td>☐ Office of Public School Construction</td>\n</tr>\n<tr>\n<td>☐ California Emergency Management Agency</td>\n<td>☐ Parks &amp; Recreation, Department of</td>\n</tr>\n<tr>\n<td>☐ California Highway Patrol</td>\n<td>☐ Pesticide Regulation, Department of</td>\n</tr>\n<tr>\n<td>☐ Caltrans District #__</td>\n<td>☐ Public Utilities Commission</td>\n</tr>\n<tr>\n<td>☐ Caltrans Division of Aeronautics</td>\n<td>☐ Regional WQCB #__</td>\n</tr>\n<tr>\n<td>☐ Caltrans Planning</td>\n<td>☐ Resources Agency</td>\n</tr>\n<tr>\n<td>☐ Central Valley Flood Protection Board</td>\n<td>☐ Resources Recycling and Recovery, Department of</td>\n</tr>\n<tr>\n<td>☐ Coachella Valley Mtns. Conservancy</td>\n<td>☐ S.F. Bay Conservation &amp; Development Comm.</td>\n</tr>\n<tr>\n<td>☑ Coastal Commission</td>\n<td>☐ San Gabriel &amp; Lower L.A. Rivers &amp; Mtns. Conservancy</td>\n</tr>\n<tr>\n<td>☐ Colorado River Board</td>\n<td>☐ San Joaquin River Conservancy</td>\n</tr>\n<tr>\n<td>☐ Conservation, Department of</td>\n<td>☐ Santa Monica Mtns. Conservancy</td>\n</tr>\n<tr>\n<td>☐ Corrections, Department of</td>\n<td>☐ State Lands Commission</td>\n</tr>\n<tr>\n<td>☐ Delta Protection Commission</td>\n<td>☐ SWRCB: Clean Water Grants</td>\n</tr>\n<tr>\n<td>☐ Education, Department of</td>\n<td>☐ SWRCB: Water Quality</td>\n</tr>\n<tr>\n<td>☐ Energy Commission</td>\n<td>☐ SWRCB: Water Rights</td>\n</tr>\n<tr>\n<td>☐ Fish &amp; Game Region #__</td>\n<td>☐ Tahoe Regional Planning Agency</td>\n</tr>\n<tr>\n<td>☐ Food &amp; Agriculture, Department of</td>\n<td>☐ Toxic Substances Control, Department of</td>\n</tr>\n<tr>\n<td>☐ Forestry and Fire Protection, Department of</td>\n<td>☐ Water Resources, Department of</td>\n</tr>\n<tr>\n<td>☐ General Services, Department of</td>\n<td></td>\n</tr>\n<tr>\n<td>☐ Health Services, Department of</td>\n<td>☐ Other: ********_********</td>\n</tr>\n<tr>\n<td>☐ Housing &amp; Community Development</td>\n<td>☐ Other: ********_********</td>\n</tr>\n<tr>\n<td>☑ Native American Heritage Commission</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2>Local Public Review Period (to be filled in by lead agency)</h2>\n<p>Starting Date October 8, 2020 Ending Date November 9, 2020</p>\n<h2>Lead Agency (Complete if applicable):</h2>\n<table>\n<thead>\n<tr>\n<th>Consulting Firm:</th>\n<th>Applicant: Henry Mata</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Address:</td>\n<td>Address: 998 N TEMPERANCE AVE</td>\n</tr>\n<tr>\n<td>City/State/Zip:</td>\n<td>City/State/Zip: CLOVIS CA 93611</td>\n</tr>\n<tr>\n<td>Contact:</td>\n<td>Phone: (559) 323-9595</td>\n</tr>\n<tr>\n<td>Phone:</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>Signature of Lead Agency Representative: *<strong>*******</strong>_*<strong>*******</strong> Date: 10/7/20</p>\n<p>Authority cited: Section 21083, Public Resources Code, Reference: Section 21161, Public Resources Code.</p>\n<p>Revised 2010</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Print Form Appendix C\"},{\"type\":\"section\",\"heading\":\"Notice of Completion & Environmental Document Transmittal\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Mail to: State Clearinghouse, P.O. Box 3044, Sacramento, CA 95812-3044 (916) 445-0613 For Hand Delivery/Street Address: 1400 Tenth Street, Sacramento, CA 95814\"},{\"type\":\"paragraph\",\"text\":\"SCH #\"},{\"type\":\"section\",\"heading\":\"Project Title: Mata\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Lead Agency: Monterey County Resource Management Agency\",\"Contact Person: Son Pham-Gallardo\"],\"rows\":[[\"Mailing Address: 1441 Schilling Place, 2nd Floor\",\"Phone: 831-755-5226\"],[\"City: Salinas\",\"Zip: 93901\"],[\"County: Monterey\",\"City/Nearest Community: Pebble Beach\"]]}]},{\"type\":\"section\",\"heading\":\"Project Location: County: Monterey\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Cross Streets: El Bosque Drive\",\"Zip Code: 93953\"],\"rows\":[[\"Longitude/Latitude (degrees, minutes and seconds): 38° 49' 50.37\\\" N / 121° 15' 14.58\\\" W\",\"Total Acres: 0.37\"],[\"Assessor's Parcel No.: 008-091-005-000\",\"Section: ____ Twp.: ____ Range: ____ Base: ____\"],[\"Within 2 Miles: State Hwy #: Highway 68\",\"Waterways: ____\"],[\"Airports: ____\",\"Railways: ____ Schools: ____\"]]}]},{\"type\":\"section\",\"heading\":\"Document Type:\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"CEQA:\",\"☐ NOP\",\"☐ Draft EIR\",\"NEPA:\",\"☐ NOI\",\"Other:\",\"☐ Joint Document\"],\"rows\":[[\"\",\"☐ Early Cons\",\"☐ Supplement/Subsequent EIR\",\"\",\"☐ EA\",\"\",\"☐ Final Document\"],[\"\",\"☐ Neg Dec\",\"(Prior SCH No.)\",\"\",\"☐ Draft EIS\",\"\",\"☐ Other:\"],[\"\",\"☑ Mit Neg Dec\",\"Other:\",\"\",\"☐ FONSI\",\"\",\"\"]]}]},{\"type\":\"section\",\"heading\":\"Local Action Type:\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"☐ General Plan Update\",\"☐ Specific Plan\",\"☐ Rezone\",\"☐ Annexation\"],\"rows\":[[\"☐ General Plan Amendment\",\"☐ Master Plan\",\"☐ Prezone\",\"☐ Redevelopment\"],[\"☐ General Plan Element\",\"☐ Planned Unit Development\",\"☐ Use Permit\",\"☑ Coastal Permit\"],[\"☐ Community Plan\",\"☐ Site Plan\",\"☐ Land Division (Subdivision, etc.)\",\"☑ Other: Design Approval\"]]}]},{\"type\":\"section\",\"heading\":\"Development Type:\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"☑ Residential: Units 1 Acres 0.37\",\"☐ Office: Sq.ft. Acres ____ Employees ____\",\"☐ Transportation: Type ____\"],\"rows\":[[\"☐ Commercial: Sq.ft. Acres ____ Employees ____\",\"☐ Mining: Mineral ____\",\"☐ Power: Type ____ MW ____\"],[\"☐ Industrial: Sq.ft. Acres ____ Employees ____\",\"☐ Waste Treatment: Type ____ MGD ____\",\"☐ Hazardous Waste: Type ____\"],[\"☐ Educational: ____\",\"☐ Other: ____\",\"\"],[\"☐ Recreational: ____\",\"\",\"\"],[\"☐ Water Facilities: Type ____ MGD ____\",\"\",\"\"]]}]},{\"type\":\"section\",\"heading\":\"Project Issues Discussed in Document:\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"☑ Aesthetic/Visual\",\"☐ Fiscal\",\"☐ Recreation/Parks\",\"☐ Vegetation\"],\"rows\":[[\"☐ Agricultural Land\",\"☐ Flood Plain/Flooding\",\"☐ Schools/Universities\",\"☐ Water Quality\"],[\"☐ Air Quality\",\"☑ Forest Land/Fire Hazard\",\"☐ Septic Systems\",\"☐ Water Supply/Groundwater\"],[\"☐ Archeological/Historical\",\"☑ Geologic/Seismic\",\"☐ Sewer Capacity\",\"☐ Wetland/Riparian\"],[\"☑ Biological Resources\",\"☐ Minerals\",\"☐ Soil Erosion/Compaction/Grading\",\"☐ Growth Inducement\"],[\"☐ Coastal Zone\",\"☐ Noise\",\"☐ Solid Waste\",\"☑ Land Use\"],[\"☐ Drainage/Absorption\",\"☐ Population/Housing Balance\",\"☐ Toxic/Hazardous\",\"☐ Cumulative Effects\"],[\"☐ Economic/Jobs\",\"☐ Public Services/Facilities\",\"☐ Traffic/Circulation\",\"☐ Other: ____\"]]}]},{\"type\":\"section\",\"heading\":\"Present Land Use/Zoning/General Plan Designation:\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Residential - Medium Density\"}]},{\"type\":\"section\",\"heading\":\"Project Description: (please use a separate page if necessary)\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"The proposed project would require a Combined Development Permit consisting of:\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Coastal Administrative Permit and Design Approval to allow construction of a 4,208 sf two-story residence with attached 900 sf garage, first floor terrace, second floor terrace, and covered porch;\",\"Coastal Development Permit to allow development on slopes in excess of 30%;\",\"Coastal Development Permit to allow removal of 18 trees (Monterey pine); and\",\"Coastal Development Permit to allow development within 100 feet of environmentally sensitive habitat area.\"]},{\"type\":\"paragraph\",\"text\":\"Note: The State Clearinghouse will assign identification numbers for all new projects. If a SCH number already exists for a project (e.g. Notice of Preparation or previous draft document) please fill in.\"},{\"type\":\"paragraph\",\"text\":\"Revised 2010\"},{\"type\":\"paragraph\",\"text\":\"Reviewing Agencies Checklist\"},{\"type\":\"paragraph\",\"text\":\"Lead Agencies may recommend State Clearinghouse distribution by marking agencies below with and \\\"X\\\". If you have already sent your document to the agency please denote that with an \\\"S\\\".\"},{\"type\":\"table\",\"headers\":[\"☐ Air Resources Board\",\"☐ Office of Historic Preservation\"],\"rows\":[[\"☐ Boating & Waterways, Department of\",\"☐ Office of Public School Construction\"],[\"☐ California Emergency Management Agency\",\"☐ Parks & Recreation, Department of\"],[\"☐ California Highway Patrol\",\"☐ Pesticide Regulation, Department of\"],[\"☐ Caltrans District #__\",\"☐ Public Utilities Commission\"],[\"☐ Caltrans Division of Aeronautics\",\"☐ Regional WQCB #__\"],[\"☐ Caltrans Planning\",\"☐ Resources Agency\"],[\"☐ Central Valley Flood Protection Board\",\"☐ Resources Recycling and Recovery, Department of\"],[\"☐ Coachella Valley Mtns. Conservancy\",\"☐ S.F. Bay Conservation & Development Comm.\"],[\"☑ Coastal Commission\",\"☐ San Gabriel & Lower L.A. Rivers & Mtns. Conservancy\"],[\"☐ Colorado River Board\",\"☐ San Joaquin River Conservancy\"],[\"☐ Conservation, Department of\",\"☐ Santa Monica Mtns. Conservancy\"],[\"☐ Corrections, Department of\",\"☐ State Lands Commission\"],[\"☐ Delta Protection Commission\",\"☐ SWRCB: Clean Water Grants\"],[\"☐ Education, Department of\",\"☐ SWRCB: Water Quality\"],[\"☐ Energy Commission\",\"☐ SWRCB: Water Rights\"],[\"☐ Fish & Game Region #__\",\"☐ Tahoe Regional Planning Agency\"],[\"☐ Food & Agriculture, Department of\",\"☐ Toxic Substances Control, Department of\"],[\"☐ Forestry and Fire Protection, Department of\",\"☐ Water Resources, Department of\"],[\"☐ General Services, Department of\",\"\"],[\"☐ Health Services, Department of\",\"☐ Other: ********_********\"],[\"☐ Housing & Community Development\",\"☐ Other: ********_********\"],[\"☑ Native American Heritage Commission\",\"\"]]}]},{\"type\":\"section\",\"heading\":\"Local Public Review Period (to be filled in by lead agency)\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Starting Date October 8, 2020 Ending Date November 9, 2020\"}]},{\"type\":\"section\",\"heading\":\"Lead Agency (Complete if applicable):\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Consulting Firm:\",\"Applicant: Henry Mata\"],\"rows\":[[\"Address:\",\"Address: 998 N TEMPERANCE AVE\"],[\"City/State/Zip:\",\"City/State/Zip: CLOVIS CA 93611\"],[\"Contact:\",\"Phone: (559) 323-9595\"],[\"Phone:\",\"\"]]},{\"type\":\"paragraph\",\"text\":\"Signature of Lead Agency Representative: ********_******** Date: 10/7/20\"},{\"type\":\"paragraph\",\"text\":\"Authority cited: Section 21083, Public Resources Code, Reference: Section 21161, Public Resources Code.\"},{\"type\":\"paragraph\",\"text\":\"Revised 2010\"}]}]}]}",
+    "markdown": "Print Form Appendix C\n\n# Notice of Completion & Environmental Document Transmittal\n\nMail to: State Clearinghouse, P.O. Box 3044, Sacramento, CA 95812-3044 (916) 445-0613 For Hand Delivery/Street Address: 1400 Tenth Street, Sacramento, CA 95814\n\n**SCH \\#**\n\n## Project Title: Mata\n\n| Lead Agency: Monterey County Resource Management Agency | Contact Person: Son Pham-Gallardo |\n| --- | --- |\n| Mailing Address: 1441 Schilling Place, 2nd Floor | Phone: 831-755-5226 |\n| City: Salinas | Zip: 93901 |\n| County: Monterey | City/Nearest Community: Pebble Beach |\n\n## Project Location: County: Monterey\n\n| Cross Streets: El Bosque Drive | Zip Code: 93953 |\n| --- | --- |\n| Longitude/Latitude (degrees, minutes and seconds): 38° 49' 50.37\" N / 121° 15' 14.58\" W | Total Acres: 0.37 |\n| Assessor's Parcel No.: 008-091-005-000 | Section: ____ Twp.: ____ Range: ____ Base: ____ |\n| Within 2 Miles: State Hwy \\#: Highway 68 | Waterways: ____ |\n| Airports: ____ | Railways: ____ Schools: ____ |\n\n## Document Type:\n\n| CEQA: | ☐ NOP | ☐ Draft EIR | NEPA: | ☐ NOI | Other: | ☐ Joint Document |\n| --- | --- | --- | --- | --- | --- | --- |\n|  | ☐ Early Cons | ☐ Supplement/Subsequent EIR |  | ☐ EA |  | ☐ Final Document |\n|  | ☐ Neg Dec | (Prior SCH No.) |  | ☐ Draft EIS |  | ☐ Other: |\n|  | ☑ Mit Neg Dec | Other: |  | ☐ FONSI |  |  |\n\n## Local Action Type:\n\n| ☐ General Plan Update | ☐ Specific Plan | ☐ Rezone | ☐ Annexation |\n| --- | --- | --- | --- |\n| ☐ General Plan Amendment | ☐ Master Plan | ☐ Prezone | ☐ Redevelopment |\n| ☐ General Plan Element | ☐ Planned Unit Development | ☐ Use Permit | ☑ Coastal Permit |\n| ☐ Community Plan | ☐ Site Plan | ☐ Land Division (Subdivision, etc.) | ☑ Other: Design Approval |\n\n## Development Type:\n\n| ☑ Residential: Units 1 Acres 0.37 | ☐ Office: Sq.ft. Acres ____ Employees ____ | ☐ Transportation: Type ____ |\n| --- | --- | --- |\n| ☐ Commercial: Sq.ft. Acres ____ Employees ____ | ☐ Mining: Mineral ____ | ☐ Power: Type ____ MW ____ |\n| ☐ Industrial: Sq.ft. Acres ____ Employees ____ | ☐ Waste Treatment: Type ____ MGD ____ | ☐ Hazardous Waste: Type ____ |\n| ☐ Educational: ____ | ☐ Other: ____ |  |\n| ☐ Recreational: ____ |  |  |\n| ☐ Water Facilities: Type ____ MGD ____ |  |  |\n\n## Project Issues Discussed in Document:\n\n| ☑ Aesthetic/Visual | ☐ Fiscal | ☐ Recreation/Parks | ☐ Vegetation |\n| --- | --- | --- | --- |\n| ☐ Agricultural Land | ☐ Flood Plain/Flooding | ☐ Schools/Universities | ☐ Water Quality |\n| ☐ Air Quality | ☑ Forest Land/Fire Hazard | ☐ Septic Systems | ☐ Water Supply/Groundwater |\n| ☐ Archeological/Historical | ☑ Geologic/Seismic | ☐ Sewer Capacity | ☐ Wetland/Riparian |\n| ☑ Biological Resources | ☐ Minerals | ☐ Soil Erosion/Compaction/Grading | ☐ Growth Inducement |\n| ☐ Coastal Zone | ☐ Noise | ☐ Solid Waste | ☑ Land Use |\n| ☐ Drainage/Absorption | ☐ Population/Housing Balance | ☐ Toxic/Hazardous | ☐ Cumulative Effects |\n| ☐ Economic/Jobs | ☐ Public Services/Facilities | ☐ Traffic/Circulation | ☐ Other: ____ |\n\n## Present Land Use/Zoning/General Plan Designation:\n\nResidential - Medium Density\n\n## Project Description: (please use a separate page if necessary)\n\nThe proposed project would require a Combined Development Permit consisting of:\n\n1. Coastal Administrative Permit and Design Approval to allow construction of a 4,208 sf two-story residence with attached 900 sf garage, first floor terrace, second floor terrace, and covered porch;\n2. Coastal Development Permit to allow development on slopes in excess of 30%;\n3. Coastal Development Permit to allow removal of 18 trees (Monterey pine); and\n4. Coastal Development Permit to allow development within 100 feet of environmentally sensitive habitat area.\n\nNote: The State Clearinghouse will assign identification numbers for all new projects. If a SCH number already exists for a project (e.g. Notice of Preparation or previous draft document) please fill in.\n\nRevised 2010\n\nReviewing Agencies Checklist\n\nLead Agencies may recommend State Clearinghouse distribution by marking agencies below with and \"X\". If you have already sent your document to the agency please denote that with an \"S\".\n\n| ☐ Air Resources Board | ☐ Office of Historic Preservation |\n| --- | --- |\n| ☐ Boating & Waterways, Department of | ☐ Office of Public School Construction |\n| ☐ California Emergency Management Agency | ☐ Parks & Recreation, Department of |\n| ☐ California Highway Patrol | ☐ Pesticide Regulation, Department of |\n| ☐ Caltrans District \\#__ | ☐ Public Utilities Commission |\n| ☐ Caltrans Division of Aeronautics | ☐ Regional WQCB \\#__ |\n| ☐ Caltrans Planning | ☐ Resources Agency |\n| ☐ Central Valley Flood Protection Board | ☐ Resources Recycling and Recovery, Department of |\n| ☐ Coachella Valley Mtns. Conservancy | ☐ S.F. Bay Conservation & Development Comm. |\n| ☑ Coastal Commission | ☐ San Gabriel & Lower L.A. Rivers & Mtns. Conservancy |\n| ☐ Colorado River Board | ☐ San Joaquin River Conservancy |\n| ☐ Conservation, Department of | ☐ Santa Monica Mtns. Conservancy |\n| ☐ Corrections, Department of | ☐ State Lands Commission |\n| ☐ Delta Protection Commission | ☐ SWRCB: Clean Water Grants |\n| ☐ Education, Department of | ☐ SWRCB: Water Quality |\n| ☐ Energy Commission | ☐ SWRCB: Water Rights |\n| ☐ Fish & Game Region \\#__ | ☐ Tahoe Regional Planning Agency |\n| ☐ Food & Agriculture, Department of | ☐ Toxic Substances Control, Department of |\n| ☐ Forestry and Fire Protection, Department of | ☐ Water Resources, Department of |\n| ☐ General Services, Department of |  |\n| ☐ Health Services, Department of | ☐ Other: ********_******** |\n| ☐ Housing & Community Development | ☐ Other: ********_******** |\n| ☑ Native American Heritage Commission |  |\n\n## Local Public Review Period (to be filled in by lead agency)\n\nStarting Date October 8, 2020 Ending Date November 9, 2020\n\n## Lead Agency (Complete if applicable):\n\n| Consulting Firm: | Applicant: Henry Mata |\n| --- | --- |\n| Address: | Address: 998 N TEMPERANCE AVE |\n| City/State/Zip: | City/State/Zip: CLOVIS CA 93611 |\n| Contact: | Phone: (559) 323-9595 |\n| Phone: |  |\n\nSignature of Lead Agency Representative: ************_************ Date: 10/7/20\n\nAuthority cited: Section 21083, Public Resources Code, Reference: Section 21161, Public Resources Code.\n\nRevised 2010\n",
+    "plain": "Print Form Appendix C\n\nNotice of Completion & Environmental Document Transmittal\nMail to: State Clearinghouse, P.O. Box 3044, Sacramento, CA 95812-3044 (916) 445-0613 For Hand Delivery/Street Address: 1400 Tenth Street, Sacramento, CA 95814\n\nSCH #\n\n  Project Title: Mata\nLead Agency: Monterey County Resource Management Agency Contact Person: Son Pham-Gallardo\nMailing Address: 1441 Schilling Place, 2nd Floor Phone: 831-755-5226\nCity: Salinas Zip: 93901\nCounty: Monterey City/Nearest Community: Pebble Beach\n\n  Project Location: County: Monterey\nCross Streets: El Bosque Drive Zip Code: 93953\nLongitude/Latitude (degrees, minutes and seconds): 38° 49' 50.37\" N / 121° 15' 14.58\" W Total Acres: 0.37\nAssessor's Parcel No.: 008-091-005-000 Section: ____ Twp.: ____ Range: ____ Base: ____\nWithin 2 Miles: State Hwy #: Highway 68 Waterways: ____\nAirports: ____ Railways: ____ Schools: ____\n\n  Document Type:\nCEQA: ☐ NOP ☐ Draft EIR NEPA: ☐ NOI Other: ☐ Joint Document\n ☐ Early Cons ☐ Supplement/Subsequent EIR  ☐ EA  ☐ Final Document\n ☐ Neg Dec (Prior SCH No.)  ☐ Draft EIS  ☐ Other:\n ☑ Mit Neg Dec Other:  ☐ FONSI  \n\n  Local Action Type:\n☐ General Plan Update ☐ Specific Plan ☐ Rezone ☐ Annexation\n☐ General Plan Amendment ☐ Master Plan ☐ Prezone ☐ Redevelopment\n☐ General Plan Element ☐ Planned Unit Development ☐ Use Permit ☑ Coastal Permit\n☐ Community Plan ☐ Site Plan ☐ Land Division (Subdivision, etc.) ☑ Other: Design Approval\n\n  Development Type:\n☑ Residential: Units 1 Acres 0.37 ☐ Office: Sq.ft. Acres ____ Employees ____ ☐ Transportation: Type ____\n☐ Commercial: Sq.ft. Acres ____ Employees ____ ☐ Mining: Mineral ____ ☐ Power: Type ____ MW ____\n☐ Industrial: Sq.ft. Acres ____ Employees ____ ☐ Waste Treatment: Type ____ MGD ____ ☐ Hazardous Waste: Type ____\n☐ Educational: ____ ☐ Other: ____ \n☐ Recreational: ____  \n☐ Water Facilities: Type ____ MGD ____  \n\n  Project Issues Discussed in Document:\n☑ Aesthetic/Visual ☐ Fiscal ☐ Recreation/Parks ☐ Vegetation\n☐ Agricultural Land ☐ Flood Plain/Flooding ☐ Schools/Universities ☐ Water Quality\n☐ Air Quality ☑ Forest Land/Fire Hazard ☐ Septic Systems ☐ Water Supply/Groundwater\n☐ Archeological/Historical ☑ Geologic/Seismic ☐ Sewer Capacity ☐ Wetland/Riparian\n☑ Biological Resources ☐ Minerals ☐ Soil Erosion/Compaction/Grading ☐ Growth Inducement\n☐ Coastal Zone ☐ Noise ☐ Solid Waste ☑ Land Use\n☐ Drainage/Absorption ☐ Population/Housing Balance ☐ Toxic/Hazardous ☐ Cumulative Effects\n☐ Economic/Jobs ☐ Public Services/Facilities ☐ Traffic/Circulation ☐ Other: ____\n\n  Present Land Use/Zoning/General Plan Designation:\nResidential - Medium Density\n\n  Project Description: (please use a separate page if necessary)\nThe proposed project would require a Combined Development Permit consisting of:\n\nCoastal Administrative Permit and Design Approval to allow construction of a 4,208 sf two-story residence with attached 900 sf garage, first floor terrace, second floor terrace, and covered porch;\nCoastal Development Permit to allow development on slopes in excess of 30%;\nCoastal Development Permit to allow removal of 18 trees (Monterey pine); and\nCoastal Development Permit to allow development within 100 feet of environmentally sensitive habitat area.\nNote: The State Clearinghouse will assign identification numbers for all new projects. If a SCH number already exists for a project (e.g. Notice of Preparation or previous draft document) please fill in.\n\nRevised 2010\n\nReviewing Agencies Checklist\n\nLead Agencies may recommend State Clearinghouse distribution by marking agencies below with and \"X\". If you have already sent your document to the agency please denote that with an \"S\".\n\n☐ Air Resources Board ☐ Office of Historic Preservation\n☐ Boating & Waterways, Department of ☐ Office of Public School Construction\n☐ California Emergency Management Agency ☐ Parks & Recreation, Department of\n☐ California Highway Patrol ☐ Pesticide Regulation, Department of\n☐ Caltrans District #__ ☐ Public Utilities Commission\n☐ Caltrans Division of Aeronautics ☐ Regional WQCB #__\n☐ Caltrans Planning ☐ Resources Agency\n☐ Central Valley Flood Protection Board ☐ Resources Recycling and Recovery, Department of\n☐ Coachella Valley Mtns. Conservancy ☐ S.F. Bay Conservation & Development Comm.\n☑ Coastal Commission ☐ San Gabriel & Lower L.A. Rivers & Mtns. Conservancy\n☐ Colorado River Board ☐ San Joaquin River Conservancy\n☐ Conservation, Department of ☐ Santa Monica Mtns. Conservancy\n☐ Corrections, Department of ☐ State Lands Commission\n☐ Delta Protection Commission ☐ SWRCB: Clean Water Grants\n☐ Education, Department of ☐ SWRCB: Water Quality\n☐ Energy Commission ☐ SWRCB: Water Rights\n☐ Fish & Game Region #__ ☐ Tahoe Regional Planning Agency\n☐ Food & Agriculture, Department of ☐ Toxic Substances Control, Department of\n☐ Forestry and Fire Protection, Department of ☐ Water Resources, Department of\n☐ General Services, Department of \n☐ Health Services, Department of ☐ Other: ********_********\n☐ Housing & Community Development ☐ Other: ********_********\n☑ Native American Heritage Commission \n\n  Local Public Review Period (to be filled in by lead agency)\nStarting Date October 8, 2020 Ending Date November 9, 2020\n\n  Lead Agency (Complete if applicable):\nConsulting Firm: Applicant: Henry Mata\nAddress: Address: 998 N TEMPERANCE AVE\nCity/State/Zip: City/State/Zip: CLOVIS CA 93611\nContact: Phone: (559) 323-9595\nPhone: \n\nSignature of Lead Agency Representative: ********_******** Date: 10/7/20\n\nAuthority cited: Section 21083, Public Resources Code, Reference: Section 21161, Public Resources Code.\n\nRevised 2010"
+  }
+}

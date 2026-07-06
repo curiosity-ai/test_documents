@@ -1,0 +1,22 @@
+{
+  "file": "vendored/docling/html/example_07.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "vendored/docling/html/example_07.html",
+      "source_uri": "vendored/docling/html/example_07.html",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<ul>\n<li>Asia * China * Japan * Thailand</li>\n<li>Europe * UK * Germany * Switzerland + - Bern - Aargau * Italy + - Piedmont - Liguria</li>\n<li>Africa</li>\n</ul>\n<ul>\n<li>China</li>\n<li>Japan</li>\n<li>Thailand</li>\n</ul>\n<ul>\n<li>UK</li>\n<li>Germany</li>\n<li>Switzerland + - Bern - Aargau</li>\n<li>Italy + - Piedmont - Liguria</li>\n</ul>\n<ul>\n<li>- Bern - Aargau</li>\n</ul>\n<ul>\n<li>Bern</li>\n<li>Aargau</li>\n</ul>\n<ul>\n<li>- Piedmont - Liguria</li>\n</ul>\n<ul>\n<li>Piedmont</li>\n<li>Liguria</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"Asia\\n  * China\\n  * Japan\\n  * Thailand\",\"Europe\\n  * UK\\n  * Germany\\n  * Switzerland\\n    +\\n      - Bern\\n      - Aargau\\n  * Italy\\n    +\\n      - Piedmont\\n      - Liguria\",\"Africa\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"China\",\"Japan\",\"Thailand\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"UK\",\"Germany\",\"Switzerland\\n    +\\n      - Bern\\n      - Aargau\",\"Italy\\n    +\\n      - Piedmont\\n      - Liguria\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"- Bern\\n      - Aargau\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Bern\",\"Aargau\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"- Piedmont\\n      - Liguria\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Piedmont\",\"Liguria\"]}]}",
+    "markdown": "- Asia\n  * China\n  * Japan\n  * Thailand\n- Europe\n  * UK\n  * Germany\n  * Switzerland\n    +\n      - Bern\n      - Aargau\n  * Italy\n    +\n      - Piedmont\n      - Liguria\n- Africa\n",
+    "plain": "Asia\n  * China\n  * Japan\n  * Thailand\nEurope\n  * UK\n  * Germany\n  * Switzerland\n    +\n      - Bern\n      - Aargau\n  * Italy\n    +\n      - Piedmont\n      - Liguria\nAfrica\nChina\nJapan\nThailand\nUK\nGermany\nSwitzerland\n    +\n      - Bern\n      - Aargau\nItaly\n    +\n      - Piedmont\n      - Liguria\n- Bern\n      - Aargau\nBern\nAargau\n- Piedmont\n      - Liguria\nPiedmont\nLiguria"
+  }
+}

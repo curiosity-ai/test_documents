@@ -1,0 +1,22 @@
+{
+  "file": "vendored/docling/md/docx_grouped_images.docx.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/docling/md/docx_grouped_images.docx.md",
+      "final_uri": "vendored/docling/md/docx_grouped_images.docx.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Grouped images</h2>\n<p>There are 2 pictures grouped together</p>\n<p>There are 2 pictures ungrouped, each wrapped “Top and bottom”</p>\n<h2>Ungrouped images</h2>\n<p>There are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Grouped images\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"There are 2 pictures grouped together\"},{\"type\":\"paragraph\",\"text\":\"There are 2 pictures ungrouped, each wrapped “Top and bottom”\"}]},{\"type\":\"section\",\"heading\":\"Ungrouped images\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"There are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs\"}]}]}",
+    "markdown": "## Grouped images\n\nThere are 2 pictures grouped together\n\nThere are 2 pictures ungrouped, each wrapped “Top and bottom”\n\n## Ungrouped images\n\nThere are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs\n",
+    "plain": "  Grouped images\nThere are 2 pictures grouped together\n\nThere are 2 pictures ungrouped, each wrapped “Top and bottom”\n\n  Ungrouped images\nThere are 2 pictures ungrouped, each wrapped “In line with text” in different paragraphs"
+  }
+}

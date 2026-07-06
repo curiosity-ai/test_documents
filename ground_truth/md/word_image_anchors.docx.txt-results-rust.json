@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/word_image_anchors.docx.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 15,
+      "word_count": 30,
+      "character_count": 174
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/md/word_image_anchors.docx.txt",
+      "final_uri": "ground_truth/md/word_image_anchors.docx.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>**Transcript**</p>\n<p>February 20, 2025, 8:32PM</p>\n<p>&lt;!-- image --&gt;</p>\n<p>&lt;!-- image --&gt;</p>\n<p>**This is test 1** 0:08 Correct, he is not.</p>\n<p>&lt;!-- image --&gt;</p>\n<p>**This is test 2** 0:16 Yeah, exactly.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"**Transcript**\"},{\"type\":\"paragraph\",\"text\":\"February 20, 2025, 8:32PM\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"**This is test 1** 0:08\\nCorrect, he is not.\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"**This is test 2** 0:16\\nYeah, exactly.\"}]}",
+    "markdown": "**Transcript**\n\nFebruary 20, 2025, 8:32PM\n\n\\<\\!-- image --\\>\n\n\\<\\!-- image --\\>\n\n**This is test 1** 0:08 Correct, he is not.\n\n\\<\\!-- image --\\>\n\n**This is test 2** 0:16 Yeah, exactly.\n",
+    "plain": "**Transcript**\n\nFebruary 20, 2025, 8:32PM\n\n<!-- image -->\n\n<!-- image -->\n\n**This is test 1** 0:08\nCorrect, he is not.\n\n<!-- image -->\n\n**This is test 2** 0:16\nYeah, exactly."
+  }
+}

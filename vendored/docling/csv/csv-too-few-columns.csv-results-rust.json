@@ -1,0 +1,70 @@
+{
+  "file": "vendored/docling/csv/csv-too-few-columns.csv",
+  "mime_type": "text/csv",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "csv",
+      "row_count": 5,
+      "column_count": 4,
+      "has_header": false,
+      "column_types": [
+        "text",
+        "text",
+        "text",
+        "text"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/docling/csv/csv-too-few-columns.csv",
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "vendored/docling/csv/csv-too-few-columns.csv"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        [
+          "a",
+          "'b'",
+          "c",
+          "d"
+        ],
+        [
+          "a",
+          "b",
+          "c"
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      ],
+      "markdown": "| 1 | 2 | 3 | 4 |\n| --- | --- | --- | --- |\n| a | 'b' | c | d |\n| a | b | c |  |\n| a | b | c | d |\n| a | b | c | d |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>1 2 3 4 a 'b' c d a b c a b c d a b c d</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"1 2 3 4\\na 'b' c d\\na b c\\na b c d\\na b c d\"}]}",
+    "markdown": "1 2 3 4 a 'b' c d a b c a b c d a b c d\n",
+    "plain": "1 2 3 4\na 'b' c d\na b c\na b c d\na b c d"
+  }
+}

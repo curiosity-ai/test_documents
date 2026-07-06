@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/docbook/docbook-xref.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 36,
+      "word_count": 113,
+      "character_count": 626
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/docbook/docbook-xref.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/docbook/docbook-xref.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>An Example Book</p>\n<p>XRef Samples</p>\n<p>This paragraph demonstrates several features of XRef .</p>\n<p>A straight link generates the cross-reference text: . A link to an element with an XRefLabel : . A link with an EndTerm : . A link to an cmdsynopsis element: . A link to an funcsynopsis element: . A link to a figure element: . A link to a table element: . A link to a part element: . A link to a book element: .</p>\n<p>The Second Chapter</p>\n<p>Some content here</p>\n<p>Later Part</p>\n<p>The Third Chapter</p>\n<p>Some content here</p>\n<p>The Fourth Chapter</p>\n<p>Some content here</p>\n<p>[Figure: The Pythagorean Theorem Illustrated]</p>\n<p>Supported features by version</p>\n<p>Version Feat Free no</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"An Example Book\"},{\"type\":\"paragraph\",\"text\":\"XRef Samples\"},{\"type\":\"paragraph\",\"text\":\"This paragraph demonstrates several features of XRef .\"},{\"type\":\"paragraph\",\"text\":\"A straight link generates the cross-reference text: .\\nA link to an element with an XRefLabel : .\\nA link with an EndTerm : .\\nA link to an cmdsynopsis element: .\\nA link to an funcsynopsis element: .\\nA link to a figure element: .\\nA link to a table element: .\\nA link to a part element: .\\nA link to a book element: .\"},{\"type\":\"paragraph\",\"text\":\"The Second Chapter\"},{\"type\":\"paragraph\",\"text\":\"Some content here\"},{\"type\":\"paragraph\",\"text\":\"Later Part\"},{\"type\":\"paragraph\",\"text\":\"The Third Chapter\"},{\"type\":\"paragraph\",\"text\":\"Some content here\"},{\"type\":\"paragraph\",\"text\":\"The Fourth Chapter\"},{\"type\":\"paragraph\",\"text\":\"Some content here\"},{\"type\":\"paragraph\",\"text\":\"[Figure: The Pythagorean Theorem Illustrated]\"},{\"type\":\"paragraph\",\"text\":\"Supported features by version\"},{\"type\":\"paragraph\",\"text\":\"Version Feat\\nFree no\"}]}",
+    "markdown": "An Example Book\n\nXRef Samples\n\nThis paragraph demonstrates several features of XRef .\n\nA straight link generates the cross-reference text: . A link to an element with an XRefLabel : . A link with an EndTerm : . A link to an cmdsynopsis element: . A link to an funcsynopsis element: . A link to a figure element: . A link to a table element: . A link to a part element: . A link to a book element: .\n\nThe Second Chapter\n\nSome content here\n\nLater Part\n\nThe Third Chapter\n\nSome content here\n\nThe Fourth Chapter\n\nSome content here\n\n[Figure: The Pythagorean Theorem Illustrated]\n\nSupported features by version\n\nVersion Feat Free no\n",
+    "plain": "An Example Book\n\nXRef Samples\n\nThis paragraph demonstrates several features of XRef .\n\nA straight link generates the cross-reference text: .\nA link to an element with an XRefLabel : .\nA link with an EndTerm : .\nA link to an cmdsynopsis element: .\nA link to an funcsynopsis element: .\nA link to a figure element: .\nA link to a table element: .\nA link to a part element: .\nA link to a book element: .\n\nThe Second Chapter\n\nSome content here\n\nLater Part\n\nThe Third Chapter\n\nSome content here\n\nThe Fourth Chapter\n\nSome content here\n\n[Figure: The Pythagorean Theorem Illustrated]\n\nSupported features by version\n\nVersion Feat\nFree no"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "file": "vendored/pdfplumber/pdfs/issue-140-example.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2019-09-04T12:46:10Z",
+    "modified_at": "2019-09-04T12:46:10Z",
+    "created_by": "pdftk 3.0.0 - www.pdftk.com",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "itext-paulo-155 (itextpdf.sf.net-lowagie.com)",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 842,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/pdfplumber/pdfs/issue-140-example.pdf",
+      "source_index": 0,
+      "source_uri": "vendored/pdfplumber/pdfs/issue-140-example.pdf",
+      "extraction_method": "native",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>PO number</h2>\n<p>0.0000 0.0000 0.0000 0.0000 <strong>Handling Rate Claim category</strong> $ 388.57 $ 419.68 $ 341.60 $ 253.15</p>\n<h2>Accrued Amount</h2>\n<p>$ 0.61 $ 0.61 $ 0.61 $ 0.61 <strong>Claim requested By Bill Amount</strong> 637 688 560 415</p>\n<h2>Item Quantity</h2>\n<p><strong>Claim status Claim amount Item Description</strong></p>\n<p>LILYS 40% SLTD ALMND CHOC LILYS DRK CHC CRMLZD SLTD LILYS ALMND 55% DARK CHOC LILYS 55% DARK CHOC BAR</p>\n<h2>Claim date</h2>\n<h2>Location</h2>\n<p>CENTRAL KMA CENTRAL KMA</p>\n<h2>Claim type</h2>\n<h2>UPC code</h2>\n<p>0085648100305 0085648100380 0085648100303 0085648100300 <strong>Line no Claim ID</strong> No results</p>\n<h1>Associated claims Supporting documents</h1>\n<h2>Document visibility</h2>\n<p><strong>Buyer/ supplier Updated on Uploaded by Document name</strong></p>\n<p>No results <strong>Document type Approval history</strong></p>\n<h2>Comments</h2>\n<p><strong>Attached documents Approval type Actor Action taken Action date and time</strong></p>\n<p>No results</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"PO number\"},{\"type\":\"paragraph\",\"text\":\"0.00000.00000.00000.0000\"},{\"type\":\"paragraph\",\"text\":\"Handling Rate Claim category\"},{\"type\":\"paragraph\",\"text\":\"$ 388.57$ 419.68$ 341.60$ 253.15\"},{\"type\":\"paragraph\",\"text\":\"Accrued Amount\"},{\"type\":\"paragraph\",\"text\":\"$ 0.61$ 0.61$ 0.61$ 0.61\"},{\"type\":\"paragraph\",\"text\":\"Claim requested By\\nBill Amount\"},{\"type\":\"paragraph\",\"text\":\"637 688 560 415\"},{\"type\":\"paragraph\",\"text\":\"Item Quantity\"},{\"type\":\"paragraph\",\"text\":\"Claim status\"},{\"type\":\"paragraph\",\"text\":\"Claim amount\"},{\"type\":\"paragraph\",\"text\":\"Item DescriptionLILYS 40% SLTD ALMND CHOCLILYS DRK CHC CRMLZD SLTDLILYS ALMND 55% DARK CHOCLILYS 55% DARK CHOC BAR\"},{\"type\":\"paragraph\",\"text\":\"Claim date\"},{\"type\":\"paragraph\",\"text\":\"LocationCENTRAL KMACENTRAL KMACENTRAL KMACENTRAL KMA\"},{\"type\":\"paragraph\",\"text\":\"Claim type\"},{\"type\":\"paragraph\",\"text\":\"UPC code0085648100305008564810038000856481003030085648100300\"},{\"type\":\"paragraph\",\"text\":\"Line no Claim IDNo results\\nAssociated claimsSupporting documents\"},{\"type\":\"paragraph\",\"text\":\"Document visibility\"},{\"type\":\"paragraph\",\"text\":\"Buyer/ supplier\"},{\"type\":\"paragraph\",\"text\":\"Updated on\"},{\"type\":\"paragraph\",\"text\":\"Uploaded by\"},{\"type\":\"paragraph\",\"text\":\"Document name\"},{\"type\":\"paragraph\",\"text\":\"No results\\nDocument typeApproval history\"},{\"type\":\"paragraph\",\"text\":\"Comments\"},{\"type\":\"paragraph\",\"text\":\"Attached documents\"},{\"type\":\"paragraph\",\"text\":\"Approval type\"},{\"type\":\"paragraph\",\"text\":\"Actor\"},{\"type\":\"paragraph\",\"text\":\"Action taken\"},{\"type\":\"paragraph\",\"text\":\"Action date and time\\nNo results\"}]}",
+    "markdown": "## PO number\n\n0.0000 0.0000 0.0000 0.0000 **Handling Rate Claim category** $ 388.57 $ 419.68 $ 341.60 $ 253.15\n\n## Accrued Amount\n\n$ 0.61 $ 0.61 $ 0.61 $ 0.61 **Claim requested By Bill Amount** 637 688 560 415\n\n## Item Quantity\n\n**Claim status Claim amount Item Description**\n\nLILYS 40% SLTD ALMND CHOC LILYS DRK CHC CRMLZD SLTD LILYS ALMND 55% DARK CHOC LILYS 55% DARK CHOC BAR\n\n## Claim date\n\n## Location\n\nCENTRAL KMA CENTRAL KMA\n\n## Claim type\n\n## UPC code\n\n0085648100305 0085648100380 0085648100303 0085648100300 **Line no Claim ID** No results\n\n# Associated claims Supporting documents\n\n## Document visibility\n\n**Buyer/ supplier Updated on Uploaded by Document name**\n\nNo results **Document type Approval history**\n\n## Comments\n\n**Attached documents Approval type Actor Action taken Action date and time**\n\nNo results\n",
+    "plain": "PO number\n\n0.00000.00000.00000.0000\n\nHandling Rate Claim category\n\n$ 388.57$ 419.68$ 341.60$ 253.15\n\nAccrued Amount\n\n$ 0.61$ 0.61$ 0.61$ 0.61\n\nClaim requested By\nBill Amount\n\n637 688 560 415\n\nItem Quantity\n\nClaim status\n\nClaim amount\n\nItem DescriptionLILYS 40% SLTD ALMND CHOCLILYS DRK CHC CRMLZD SLTDLILYS ALMND 55% DARK CHOCLILYS 55% DARK CHOC BAR\n\nClaim date\n\nLocationCENTRAL KMACENTRAL KMACENTRAL KMACENTRAL KMA\n\nClaim type\n\nUPC code0085648100305008564810038000856481003030085648100300\n\nLine no Claim IDNo results\nAssociated claimsSupporting documents\n\nDocument visibility\n\nBuyer/ supplier\n\nUpdated on\n\nUploaded by\n\nDocument name\n\nNo results\nDocument typeApproval history\n\nComments\n\nAttached documents\n\nApproval type\n\nActor\n\nAction taken\n\nAction date and time\nNo results"
+  }
+}

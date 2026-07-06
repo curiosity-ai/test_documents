@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/hyperlink_02.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 2,
+      "character_count": 21
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/md/hyperlink_02.html.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/md/hyperlink_02.html.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>## [Home](/home.html)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"## [Home](/home.html)\"}]}",
+    "markdown": "\\#\\# [Home](/home.html)\n",
+    "plain": "## [Home](/home.html)"
+  }
+}

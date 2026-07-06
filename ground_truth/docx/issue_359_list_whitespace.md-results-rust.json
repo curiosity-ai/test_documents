@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/docx/issue_359_list_whitespace.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Title",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/docx/issue_359_list_whitespace.md",
+      "final_uri": "ground_truth/docx/issue_359_list_whitespace.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Title</h1>\n<h1>Subject</h1>\n<h6>Etiam sit amet est</h6>\n<h6>Aenean iaculis laoreet arcu</h6>\n<h6>Curabitur vulputate viverra pede</h6>\n<h6>Nulla rutrum commodo ligula</h6>\n<h6>Sed tellus suscipit in aliquam</h6>\n<h6>Nunc ut lectus</h6>\n<h6>Donec quis nunc</h6>\n<h6>Sermocination ypsiliform</h6>\n<h6>Foo bar</h6>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Title\",\"level\":1,\"body\":[]},{\"type\":\"section\",\"heading\":\"Subject\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Etiam sit amet est\",\"level\":6,\"body\":[]},{\"type\":\"section\",\"heading\":\"Aenean iaculis laoreet arcu\",\"level\":6,\"body\":[]},{\"type\":\"section\",\"heading\":\"Curabitur vulputate viverra pede\",\"level\":6,\"body\":[]},{\"type\":\"section\",\"heading\":\"Nulla rutrum commodo ligula\",\"level\":6,\"body\":[]},{\"type\":\"section\",\"heading\":\"Sed tellus suscipit in aliquam\",\"level\":6,\"body\":[]},{\"type\":\"section\",\"heading\":\"Nunc ut lectus\",\"level\":6,\"body\":[]},{\"type\":\"section\",\"heading\":\"Donec quis nunc\",\"level\":6,\"body\":[]},{\"type\":\"section\",\"heading\":\"Sermocination ypsiliform\",\"level\":6,\"body\":[]},{\"type\":\"section\",\"heading\":\"Foo bar\",\"level\":6,\"body\":[]}]}]}",
+    "markdown": "# Title\n\n# Subject\n\n###### Etiam sit amet est\n\n###### Aenean iaculis laoreet arcu\n\n###### Curabitur vulputate viverra pede\n\n###### Nulla rutrum commodo ligula\n\n###### Sed tellus suscipit in aliquam\n\n###### Nunc ut lectus\n\n###### Donec quis nunc\n\n###### Sermocination ypsiliform\n\n###### Foo bar\n",
+    "plain": "Title\n\nSubject\n          Etiam sit amet est\n          Aenean iaculis laoreet arcu\n          Curabitur vulputate viverra pede\n          Nulla rutrum commodo ligula\n          Sed tellus suscipit in aliquam\n          Nunc ut lectus\n          Donec quis nunc\n          Sermocination ypsiliform\n          Foo bar"
+  }
+}

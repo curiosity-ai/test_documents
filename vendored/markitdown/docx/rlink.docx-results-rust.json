@@ -1,0 +1,77 @@
+{
+  "file": "vendored/markitdown/docx/rlink.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Adam Fourney"
+    ],
+    "created_at": "2025-10-20T18:23:00Z",
+    "modified_at": "2025-10-20T18:29:00Z",
+    "created_by": "Adam Fourney",
+    "modified_by": "Adam Fourney",
+    "format": {
+      "format_type": "docx",
+      "core_properties": {
+        "title": null,
+        "subject": null,
+        "creator": "Adam Fourney",
+        "keywords": null,
+        "description": null,
+        "last_modified_by": "Adam Fourney",
+        "revision": "2",
+        "created": "2025-10-20T18:23:00Z",
+        "modified": "2025-10-20T18:29:00Z",
+        "category": null,
+        "content_status": null,
+        "language": null,
+        "identifier": null,
+        "version": null,
+        "last_printed": null
+      },
+      "app_properties": {
+        "application": "Microsoft Office Word",
+        "app_version": "16.0000",
+        "template": "Normal.dotm",
+        "total_time": 6,
+        "pages": 1,
+        "words": 3,
+        "characters": 21,
+        "characters_with_spaces": 23,
+        "lines": 1,
+        "paragraphs": 1,
+        "company": null,
+        "doc_security": 0,
+        "scale_crop": false,
+        "links_up_to_date": false,
+        "shared_doc": false,
+        "hyperlinks_changed": false
+      },
+      "custom_properties": {}
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/markitdown/docx/rlink.docx",
+      "final_uri": "vendored/markitdown/docx/rlink.docx",
+      "source_index": 0,
+      "application": "Microsoft Office Word",
+      "word_count": 3,
+      "revision": "2",
+      "source_kind": "uri",
+      "paragraph_count": 1,
+      "total_editing_time_minutes": 6,
+      "line_count": 1,
+      "character_count": 21,
+      "template": "Normal.dotm",
+      "page_count": 1
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Testing Linked Images</p>\n<p><img src=\"file:///tmp/test_rlink.txt\" alt=\"A red and blue square AI-generated content may be incorrect.\" /></p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Testing Linked Images\"},{\"type\":\"image\",\"alt\":\"A red and blue square\\n\\nAI-generated content may be incorrect.\",\"src\":\"file:///tmp/test_rlink.txt\"}]}",
+    "markdown": "Testing Linked Images\n\n![A red and blue square AI-generated content may be incorrect.](file:///tmp/test_rlink.txt)\n",
+    "plain": "Testing Linked Images\n\n[Image: A red and blue square\n\nAI-generated content may be incorrect.]"
+  }
+}

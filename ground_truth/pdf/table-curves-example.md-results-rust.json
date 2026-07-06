@@ -1,0 +1,227 @@
+{
+  "file": "ground_truth/pdf/table-curves-example.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/table-curves-example.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/pdf/table-curves-example.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "System organ class",
+          "Prevention of VTE in adult patients who have undergone elective hip or knee replacement surgery (VTEр)",
+          "Prevention of stroke and systemic embolism in adult patients with NVAF, with one or more risk factors (NVAF)",
+          "Treatment of DVT and PE, and prevention of recurrent DVT and PE (VTEt)"
+        ],
+        [
+          "Blood and lymphatic system disorders",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Anaemia",
+          "Common",
+          "Common",
+          "Common"
+        ],
+        [
+          "Thrombocytopenia",
+          "Uncommon",
+          "Uncommon",
+          "Common"
+        ],
+        [
+          "Immune system disorders",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Hypersensitivity, allergic oedema and Anaphylaxis",
+          "Rare",
+          "Uncommon",
+          "Uncommon"
+        ],
+        [
+          "Pruritus",
+          "Uncommon",
+          "Uncommon",
+          "Uncommon*"
+        ],
+        [
+          "Angioedema",
+          "Not known",
+          "Not known",
+          "Not known"
+        ],
+        [
+          "Nervous system disorders",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Brain haemorrhaget",
+          "Not known",
+          "Uncommon",
+          "Rare"
+        ],
+        [
+          "Eye disorders",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Eye haemorrhage (including conjunctival haemorrhage)",
+          "Rare",
+          "Common",
+          "Uncommon"
+        ],
+        [
+          "Vascular disorders",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Haemorrhage, haematoma",
+          "Common",
+          "Common",
+          "Common"
+        ],
+        [
+          "Hypotension (including procedural hypotension)",
+          "Uncommon",
+          "Common",
+          "Uncommon"
+        ],
+        [
+          "Intra-abdominal haemorrhage",
+          "Not known",
+          "Uncommon",
+          "Not known"
+        ],
+        [
+          "Respiratory, thoracic and mediastinal disorders",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Epistaxis",
+          "Uncommon",
+          "Common",
+          "Uncommon"
+        ],
+        [
+          "Haemoptysis",
+          "Rare",
+          "Uncommon",
+          "Rare"
+        ],
+        [
+          "Respiratory tract haemorrhage",
+          "Not known",
+          "Rare",
+          "Rare"
+        ],
+        [
+          "Gastrointestinal disorders",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Nausea",
+          "Common",
+          "Common",
+          "Common"
+        ],
+        [
+          "Gastrointestinal haemorrhage",
+          "Uncommon",
+          "Common",
+          "Common"
+        ],
+        [
+          "Haemorrhoidal haemorrhage",
+          "Not known",
+          "Uncommon",
+          "Uncommon"
+        ],
+        [
+          "Mouth haemorrhage",
+          "Not known",
+          "Uncommon",
+          "Common"
+        ],
+        [
+          "Haematochezia",
+          "Uncommon",
+          "Uncommon",
+          "Uncommon"
+        ],
+        [
+          "Rectal haemorrhage, gingival bleeding",
+          "Rare",
+          "Common",
+          "Common"
+        ],
+        [
+          "Retroperitoneal haemorrhage",
+          "Not known",
+          "Rare",
+          "Not known"
+        ],
+        [
+          "Hepatobiliary disorders",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Liver function test abnormal, asparate aminotransferase increased, blood alkaline phosphatase increased, blood bilirubin increased",
+          "Uncommon",
+          "Uncommon",
+          "Uncommon"
+        ],
+        [
+          "Gamma-glutamyltransferase increased",
+          "Uncommon",
+          "Common",
+          "Common"
+        ],
+        [
+          "Alanine aminotransferase increased",
+          "Uncommon",
+          "Uncommon",
+          "Common"
+        ],
+        [
+          "Skin and subcutaneous tissue disorders",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| System organ class | Prevention of VTE in adult patients who have undergone elective hip or knee replacement surgery (VTEр) | Prevention of stroke and systemic embolism in adult patients with NVAF, with one or more risk factors (NVAF) | Treatment of DVT and PE, and prevention of recurrent DVT and PE (VTEt) |\n| --- | --- | --- | --- |\n| Blood and lymphatic system disorders |  |  |  |\n| Anaemia | Common | Common | Common |\n| Thrombocytopenia | Uncommon | Uncommon | Common |\n| Immune system disorders |  |  |  |\n| Hypersensitivity, allergic oedema and Anaphylaxis | Rare | Uncommon | Uncommon |\n| Pruritus | Uncommon | Uncommon | Uncommon* |\n| Angioedema | Not known | Not known | Not known |\n| Nervous system disorders |  |  |  |\n| Brain haemorrhaget | Not known | Uncommon | Rare |\n| Eye disorders |  |  |  |\n| Eye haemorrhage (including conjunctival haemorrhage) | Rare | Common | Uncommon |\n| Vascular disorders |  |  |  |\n| Haemorrhage, haematoma | Common | Common | Common |\n| Hypotension (including procedural hypotension) | Uncommon | Common | Uncommon |\n| Intra-abdominal haemorrhage | Not known | Uncommon | Not known |\n| Respiratory, thoracic and mediastinal disorders |  |  |  |\n| Epistaxis | Uncommon | Common | Uncommon |\n| Haemoptysis | Rare | Uncommon | Rare |\n| Respiratory tract haemorrhage | Not known | Rare | Rare |\n| Gastrointestinal disorders |  |  |  |\n| Nausea | Common | Common | Common |\n| Gastrointestinal haemorrhage | Uncommon | Common | Common |\n| Haemorrhoidal haemorrhage | Not known | Uncommon | Uncommon |\n| Mouth haemorrhage | Not known | Uncommon | Common |\n| Haematochezia | Uncommon | Uncommon | Uncommon |\n| Rectal haemorrhage, gingival bleeding | Rare | Common | Common |\n| Retroperitoneal haemorrhage | Not known | Rare | Not known |\n| Hepatobiliary disorders |  |  |  |\n| Liver function test abnormal, asparate aminotransferase increased, blood alkaline phosphatase increased, blood bilirubin increased | Uncommon | Uncommon | Uncommon |\n| Gamma-glutamyltransferase increased | Uncommon | Common | Common |\n| Alanine aminotransferase increased | Uncommon | Uncommon | Common |\n| Skin and subcutaneous tissue disorders |  |  |  |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data) for VTEp, NVAF, and VTEt respectively. Table 2: Tabulated adverse reactions</p>\n<table>\n<thead>\n<tr>\n<th>System organ class</th>\n<th>Prevention of VTE in adult patients who have undergone elective hip or knee replacement surgery (VTEр)</th>\n<th>Prevention of stroke and systemic embolism in adult patients with NVAF, with one or more risk factors (NVAF)</th>\n<th>Treatment of DVT and PE, and prevention of recurrent DVT and PE (VTEt)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Blood and lymphatic system disorders</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Anaemia</td>\n<td>Common</td>\n<td>Common</td>\n<td>Common</td>\n</tr>\n<tr>\n<td>Thrombocytopenia</td>\n<td>Uncommon</td>\n<td>Uncommon</td>\n<td>Common</td>\n</tr>\n<tr>\n<td>Immune system disorders</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Hypersensitivity, allergic oedema and Anaphylaxis</td>\n<td>Rare</td>\n<td>Uncommon</td>\n<td>Uncommon</td>\n</tr>\n<tr>\n<td>Pruritus</td>\n<td>Uncommon</td>\n<td>Uncommon</td>\n<td>Uncommon*</td>\n</tr>\n<tr>\n<td>Angioedema</td>\n<td>Not known</td>\n<td>Not known</td>\n<td>Not known</td>\n</tr>\n<tr>\n<td>Nervous system disorders</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Brain haemorrhaget</td>\n<td>Not known</td>\n<td>Uncommon</td>\n<td>Rare</td>\n</tr>\n<tr>\n<td>Eye disorders</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Eye haemorrhage (including conjunctival haemorrhage)</td>\n<td>Rare</td>\n<td>Common</td>\n<td>Uncommon</td>\n</tr>\n<tr>\n<td>Vascular disorders</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Haemorrhage, haematoma</td>\n<td>Common</td>\n<td>Common</td>\n<td>Common</td>\n</tr>\n<tr>\n<td>Hypotension (including procedural hypotension)</td>\n<td>Uncommon</td>\n<td>Common</td>\n<td>Uncommon</td>\n</tr>\n<tr>\n<td>Intra-abdominal haemorrhage</td>\n<td>Not known</td>\n<td>Uncommon</td>\n<td>Not known</td>\n</tr>\n<tr>\n<td>Respiratory, thoracic and mediastinal disorders</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Epistaxis</td>\n<td>Uncommon</td>\n<td>Common</td>\n<td>Uncommon</td>\n</tr>\n<tr>\n<td>Haemoptysis</td>\n<td>Rare</td>\n<td>Uncommon</td>\n<td>Rare</td>\n</tr>\n<tr>\n<td>Respiratory tract haemorrhage</td>\n<td>Not known</td>\n<td>Rare</td>\n<td>Rare</td>\n</tr>\n<tr>\n<td>Gastrointestinal disorders</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Nausea</td>\n<td>Common</td>\n<td>Common</td>\n<td>Common</td>\n</tr>\n<tr>\n<td>Gastrointestinal haemorrhage</td>\n<td>Uncommon</td>\n<td>Common</td>\n<td>Common</td>\n</tr>\n<tr>\n<td>Haemorrhoidal haemorrhage</td>\n<td>Not known</td>\n<td>Uncommon</td>\n<td>Uncommon</td>\n</tr>\n<tr>\n<td>Mouth haemorrhage</td>\n<td>Not known</td>\n<td>Uncommon</td>\n<td>Common</td>\n</tr>\n<tr>\n<td>Haematochezia</td>\n<td>Uncommon</td>\n<td>Uncommon</td>\n<td>Uncommon</td>\n</tr>\n<tr>\n<td>Rectal haemorrhage, gingival bleeding</td>\n<td>Rare</td>\n<td>Common</td>\n<td>Common</td>\n</tr>\n<tr>\n<td>Retroperitoneal haemorrhage</td>\n<td>Not known</td>\n<td>Rare</td>\n<td>Not known</td>\n</tr>\n<tr>\n<td>Hepatobiliary disorders</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Liver function test abnormal, asparate aminotransferase increased, blood alkaline phosphatase increased, blood bilirubin increased</td>\n<td>Uncommon</td>\n<td>Uncommon</td>\n<td>Uncommon</td>\n</tr>\n<tr>\n<td>Gamma-glutamyltransferase increased</td>\n<td>Uncommon</td>\n<td>Common</td>\n<td>Common</td>\n</tr>\n<tr>\n<td>Alanine aminotransferase increased</td>\n<td>Uncommon</td>\n<td>Uncommon</td>\n<td>Common</td>\n</tr>\n<tr>\n<td>Skin and subcutaneous tissue disorders</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data) for VTEp, NVAF, and VTEt respectively. Table 2: Tabulated adverse reactions\"},{\"type\":\"table\",\"headers\":[\"System organ class\",\"Prevention of VTE in adult patients who have undergone elective hip or knee replacement surgery (VTEр)\",\"Prevention of stroke and systemic embolism in adult patients with NVAF, with one or more risk factors (NVAF)\",\"Treatment of DVT and PE, and prevention of recurrent DVT and PE (VTEt)\"],\"rows\":[[\"Blood and lymphatic system disorders\",\"\",\"\",\"\"],[\"Anaemia\",\"Common\",\"Common\",\"Common\"],[\"Thrombocytopenia\",\"Uncommon\",\"Uncommon\",\"Common\"],[\"Immune system disorders\",\"\",\"\",\"\"],[\"Hypersensitivity, allergic oedema and Anaphylaxis\",\"Rare\",\"Uncommon\",\"Uncommon\"],[\"Pruritus\",\"Uncommon\",\"Uncommon\",\"Uncommon*\"],[\"Angioedema\",\"Not known\",\"Not known\",\"Not known\"],[\"Nervous system disorders\",\"\",\"\",\"\"],[\"Brain haemorrhaget\",\"Not known\",\"Uncommon\",\"Rare\"],[\"Eye disorders\",\"\",\"\",\"\"],[\"Eye haemorrhage (including conjunctival haemorrhage)\",\"Rare\",\"Common\",\"Uncommon\"],[\"Vascular disorders\",\"\",\"\",\"\"],[\"Haemorrhage, haematoma\",\"Common\",\"Common\",\"Common\"],[\"Hypotension (including procedural hypotension)\",\"Uncommon\",\"Common\",\"Uncommon\"],[\"Intra-abdominal haemorrhage\",\"Not known\",\"Uncommon\",\"Not known\"],[\"Respiratory, thoracic and mediastinal disorders\",\"\",\"\",\"\"],[\"Epistaxis\",\"Uncommon\",\"Common\",\"Uncommon\"],[\"Haemoptysis\",\"Rare\",\"Uncommon\",\"Rare\"],[\"Respiratory tract haemorrhage\",\"Not known\",\"Rare\",\"Rare\"],[\"Gastrointestinal disorders\",\"\",\"\",\"\"],[\"Nausea\",\"Common\",\"Common\",\"Common\"],[\"Gastrointestinal haemorrhage\",\"Uncommon\",\"Common\",\"Common\"],[\"Haemorrhoidal haemorrhage\",\"Not known\",\"Uncommon\",\"Uncommon\"],[\"Mouth haemorrhage\",\"Not known\",\"Uncommon\",\"Common\"],[\"Haematochezia\",\"Uncommon\",\"Uncommon\",\"Uncommon\"],[\"Rectal haemorrhage, gingival bleeding\",\"Rare\",\"Common\",\"Common\"],[\"Retroperitoneal haemorrhage\",\"Not known\",\"Rare\",\"Not known\"],[\"Hepatobiliary disorders\",\"\",\"\",\"\"],[\"Liver function test abnormal, asparate aminotransferase increased, blood alkaline phosphatase increased, blood bilirubin increased\",\"Uncommon\",\"Uncommon\",\"Uncommon\"],[\"Gamma-glutamyltransferase increased\",\"Uncommon\",\"Common\",\"Common\"],[\"Alanine aminotransferase increased\",\"Uncommon\",\"Uncommon\",\"Common\"],[\"Skin and subcutaneous tissue disorders\",\"\",\"\",\"\"]]}]}",
+    "markdown": "to \\< 1/100); rare (≥ 1/10,000 to \\< 1/1,000); very rare (\\< 1/10,000); not known (cannot be estimated from the available data) for VTEp, NVAF, and VTEt respectively. Table 2: Tabulated adverse reactions\n\n| System organ class | Prevention of VTE in adult patients who have undergone elective hip or knee replacement surgery (VTEр) | Prevention of stroke and systemic embolism in adult patients with NVAF, with one or more risk factors (NVAF) | Treatment of DVT and PE, and prevention of recurrent DVT and PE (VTEt) |\n| --- | --- | --- | --- |\n| Blood and lymphatic system disorders |  |  |  |\n| Anaemia | Common | Common | Common |\n| Thrombocytopenia | Uncommon | Uncommon | Common |\n| Immune system disorders |  |  |  |\n| Hypersensitivity, allergic oedema and Anaphylaxis | Rare | Uncommon | Uncommon |\n| Pruritus | Uncommon | Uncommon | Uncommon* |\n| Angioedema | Not known | Not known | Not known |\n| Nervous system disorders |  |  |  |\n| Brain haemorrhaget | Not known | Uncommon | Rare |\n| Eye disorders |  |  |  |\n| Eye haemorrhage (including conjunctival haemorrhage) | Rare | Common | Uncommon |\n| Vascular disorders |  |  |  |\n| Haemorrhage, haematoma | Common | Common | Common |\n| Hypotension (including procedural hypotension) | Uncommon | Common | Uncommon |\n| Intra-abdominal haemorrhage | Not known | Uncommon | Not known |\n| Respiratory, thoracic and mediastinal disorders |  |  |  |\n| Epistaxis | Uncommon | Common | Uncommon |\n| Haemoptysis | Rare | Uncommon | Rare |\n| Respiratory tract haemorrhage | Not known | Rare | Rare |\n| Gastrointestinal disorders |  |  |  |\n| Nausea | Common | Common | Common |\n| Gastrointestinal haemorrhage | Uncommon | Common | Common |\n| Haemorrhoidal haemorrhage | Not known | Uncommon | Uncommon |\n| Mouth haemorrhage | Not known | Uncommon | Common |\n| Haematochezia | Uncommon | Uncommon | Uncommon |\n| Rectal haemorrhage, gingival bleeding | Rare | Common | Common |\n| Retroperitoneal haemorrhage | Not known | Rare | Not known |\n| Hepatobiliary disorders |  |  |  |\n| Liver function test abnormal, asparate aminotransferase increased, blood alkaline phosphatase increased, blood bilirubin increased | Uncommon | Uncommon | Uncommon |\n| Gamma-glutamyltransferase increased | Uncommon | Common | Common |\n| Alanine aminotransferase increased | Uncommon | Uncommon | Common |\n| Skin and subcutaneous tissue disorders |  |  |  |\n",
+    "plain": "to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data) for VTEp, NVAF, and VTEt respectively. Table 2: Tabulated adverse reactions\n\nSystem organ class Prevention of VTE in adult patients who have undergone elective hip or knee replacement surgery (VTEр) Prevention of stroke and systemic embolism in adult patients with NVAF, with one or more risk factors (NVAF) Treatment of DVT and PE, and prevention of recurrent DVT and PE (VTEt)\nBlood and lymphatic system disorders   \nAnaemia Common Common Common\nThrombocytopenia Uncommon Uncommon Common\nImmune system disorders   \nHypersensitivity, allergic oedema and Anaphylaxis Rare Uncommon Uncommon\nPruritus Uncommon Uncommon Uncommon*\nAngioedema Not known Not known Not known\nNervous system disorders   \nBrain haemorrhaget Not known Uncommon Rare\nEye disorders   \nEye haemorrhage (including conjunctival haemorrhage) Rare Common Uncommon\nVascular disorders   \nHaemorrhage, haematoma Common Common Common\nHypotension (including procedural hypotension) Uncommon Common Uncommon\nIntra-abdominal haemorrhage Not known Uncommon Not known\nRespiratory, thoracic and mediastinal disorders   \nEpistaxis Uncommon Common Uncommon\nHaemoptysis Rare Uncommon Rare\nRespiratory tract haemorrhage Not known Rare Rare\nGastrointestinal disorders   \nNausea Common Common Common\nGastrointestinal haemorrhage Uncommon Common Common\nHaemorrhoidal haemorrhage Not known Uncommon Uncommon\nMouth haemorrhage Not known Uncommon Common\nHaematochezia Uncommon Uncommon Uncommon\nRectal haemorrhage, gingival bleeding Rare Common Common\nRetroperitoneal haemorrhage Not known Rare Not known\nHepatobiliary disorders   \nLiver function test abnormal, asparate aminotransferase increased, blood alkaline phosphatase increased, blood bilirubin increased Uncommon Uncommon Uncommon\nGamma-glutamyltransferase increased Uncommon Common Common\nAlanine aminotransferase increased Uncommon Uncommon Common\nSkin and subcutaneous tissue disorders"
+  }
+}

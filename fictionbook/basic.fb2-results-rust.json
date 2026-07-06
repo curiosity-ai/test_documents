@@ -1,0 +1,26 @@
+{
+  "file": "fictionbook/basic.fb2",
+  "mime_type": "application/x-fictionbook+xml",
+  "success": true,
+  "metadata": {
+    "title": "Test Document",
+    "format": {
+      "format_type": "fiction_book"
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "fictionbook/basic.fb2",
+      "source_uri": "fictionbook/basic.fb2",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Top-level title</h2>\n<h3>Section</h3>\n<h4>Subsection</h4>\n<p>This <em>emphasized</em> <strong>strong</strong> <code>verbatim</code> markdown. See this link .</p>\n<p>Ordered list:</p>\n<p>1. one</p>\n<p>2. two</p>\n<p>3. three</p>\n<blockquote>\n<p>Blockquote is for citatons.</p>\n</blockquote>\n<p><code>Code</code></p>\n<p><code>block</code></p>\n<p><code>is</code></p>\n<p><code>for</code></p>\n<p><code>code.</code></p>\n<p><del>Strikeout</del> is Pandoc’s extension. Superscript and subscripts too: H 2 O is a liquid [1] . 2 10 is 1024.</p>\n<p>Math is another Pandoc extension: <code>E = m c^2</code> .</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Top-level title\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"Section\",\"level\":3,\"body\":[{\"type\":\"section\",\"heading\":\"Subsection\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"This emphasized  strong  verbatim markdown. See this link .\"},{\"type\":\"paragraph\",\"text\":\"Ordered list:\"},{\"type\":\"paragraph\",\"text\":\"1. one\"},{\"type\":\"paragraph\",\"text\":\"2. two\"},{\"type\":\"paragraph\",\"text\":\"3. three\"},{\"type\":\"blockquote\",\"body\":[{\"type\":\"paragraph\",\"text\":\"Blockquote is for citatons.\"}]},{\"type\":\"paragraph\",\"text\":\"Code\"},{\"type\":\"paragraph\",\"text\":\"block\"},{\"type\":\"paragraph\",\"text\":\"is\"},{\"type\":\"paragraph\",\"text\":\"for\"},{\"type\":\"paragraph\",\"text\":\"code.\"},{\"type\":\"paragraph\",\"text\":\"Strikeout is Pandoc’s extension. Superscript and subscripts too: H 2 O is a liquid [1] . 2 10  is 1024.\"},{\"type\":\"paragraph\",\"text\":\"Math is another Pandoc extension: E = m c^2 .\"}]}]}]}]}",
+    "markdown": "## Top-level title\n\n### Section\n\n#### Subsection\n\nThis *emphasized* **strong** `verbatim` markdown. See this link .\n\nOrdered list:\n\n1. one\n\n2. two\n\n3. three\n\n> Blockquote is for citatons.\n\n`Code`\n\n`block`\n\n`is`\n\n`for`\n\n`code.`\n\n~~Strikeout~~ is Pandoc’s extension. Superscript and subscripts too: H 2 O is a liquid [1] . 2 10 is 1024.\n\nMath is another Pandoc extension: `E = m c^2` .\n",
+    "plain": "  Top-level title\n    Section\n      Subsection\nThis emphasized  strong  verbatim markdown. See this link .\n\nOrdered list:\n\n1. one\n\n2. two\n\n3. three\n\n  Blockquote is for citatons.\n\nCode\n\nblock\n\nis\n\nfor\n\ncode.\n\nStrikeout is Pandoc’s extension. Superscript and subscripts too: H 2 O is a liquid [1] . 2 10  is 1024.\n\nMath is another Pandoc extension: E = m c^2 ."
+  }
+}

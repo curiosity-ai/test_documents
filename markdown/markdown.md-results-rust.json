@@ -1,0 +1,22 @@
+{
+  "file": "markdown/markdown.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "markdown/markdown.md",
+      "source_kind": "uri",
+      "final_uri": "markdown/markdown.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Sample Docx</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Sample Docx\"}]}",
+    "markdown": "Sample Docx\n",
+    "plain": "Sample Docx"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "vendored/unstructured/doc/duplicate-paragraphs.doc",
+  "mime_type": "application/msword",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "python-docx"
+    ],
+    "created_by": "python-docx",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "revision": "1",
+      "final_uri": "vendored/unstructured/doc/duplicate-paragraphs.doc",
+      "extraction_method": "native_ole",
+      "source_uri": "vendored/unstructured/doc/duplicate-paragraphs.doc",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>This document contains duplicates some text some text some text</p>\n<p>some text some text some text</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This document contains duplicates\\nsome text\\nsome text\\nsome text\"},{\"type\":\"paragraph\",\"text\":\"some text\\nsome text\\nsome text\"}]}",
+    "markdown": "This document contains duplicates some text some text some text\n\nsome text some text some text\n",
+    "plain": "This document contains duplicates\nsome text\nsome text\nsome text\n\nsome text\nsome text\nsome text"
+  }
+}

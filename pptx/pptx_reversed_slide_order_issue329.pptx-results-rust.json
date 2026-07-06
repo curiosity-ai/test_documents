@@ -1,0 +1,50 @@
+{
+  "file": "pptx/pptx_reversed_slide_order_issue329.pptx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Tizian Roth"
+    ],
+    "created_at": "2026-01-27T09:01:01Z",
+    "modified_at": "2026-01-27T09:01:40Z",
+    "created_by": "Tizian Roth",
+    "modified_by": "Tizian Roth",
+    "format": {
+      "format_type": "pptx",
+      "slide_count": 2,
+      "slide_names": [
+        "Aptos",
+        "Aptos Display",
+        "Arial",
+        "Office",
+        "PowerPoint-Präsentation",
+        "PowerPoint-Präsentation"
+      ],
+      "image_count": 1,
+      "table_count": 0
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "presentation_format": "Breitbild",
+      "slide_titles": "Aptos, Aptos Display, Arial, Office, PowerPoint-Präsentation, PowerPoint-Präsentation",
+      "application_version": "16.0000",
+      "source_kind": "uri",
+      "application": "Microsoft Macintosh PowerPoint",
+      "source_index": 0,
+      "revision": "1",
+      "source_uri": "pptx/pptx_reversed_slide_order_issue329.pptx",
+      "final_uri": "pptx/pptx_reversed_slide_order_issue329.pptx",
+      "notes_count": 0,
+      "hidden_slides": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>![Ein Bild, das Wolke, Wasser, Himmel, draußen enthält. KI-generierte Inhalte können fehlerhaft sein.](../media/image1.jpg)</p>\n<hr />\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"![Ein Bild, das Wolke, Wasser, Himmel, draußen enthält.  KI-generierte Inhalte können fehlerhaft sein.](../media/image1.jpg)\"}]}",
+    "markdown": "\\![Ein Bild, das Wolke, Wasser, Himmel, draußen enthält. KI-generierte Inhalte können fehlerhaft sein.](../media/image1.jpg)\n\n-----\n",
+    "plain": ""
+  }
+}

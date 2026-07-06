@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/typ/metadata.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 14,
+      "word_count": 37,
+      "character_count": 297
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/typ/metadata.txt",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/typ/metadata.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Document Content</p>\n<p>This document tests metadata extraction from Typst files.</p>\n<p>The metadata should contain:</p>\n<p>- Title: &quot;Metadata Example Document&quot; - Author: &quot;John Doe&quot; - Subject: &quot;Testing Document Metadata&quot; - Keywords: &quot;metadata&quot;, &quot;testing&quot;, &quot;extraction&quot;</p>\n<p>Details</p>\n<p>Additional content follows.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Document Content\"},{\"type\":\"paragraph\",\"text\":\"This document tests metadata extraction from Typst files.\"},{\"type\":\"paragraph\",\"text\":\"The metadata should contain:\"},{\"type\":\"paragraph\",\"text\":\"-   Title: \\\"Metadata Example Document\\\"\\n-   Author: \\\"John Doe\\\"\\n-   Subject: \\\"Testing Document Metadata\\\"\\n-   Keywords: \\\"metadata\\\", \\\"testing\\\", \\\"extraction\\\"\"},{\"type\":\"paragraph\",\"text\":\"Details\"},{\"type\":\"paragraph\",\"text\":\"Additional content follows.\"}]}",
+    "markdown": "Document Content\n\nThis document tests metadata extraction from Typst files.\n\nThe metadata should contain:\n\n\\- Title: \"Metadata Example Document\" - Author: \"John Doe\" - Subject: \"Testing Document Metadata\" - Keywords: \"metadata\", \"testing\", \"extraction\"\n\nDetails\n\nAdditional content follows.\n",
+    "plain": "Document Content\n\nThis document tests metadata extraction from Typst files.\n\nThe metadata should contain:\n\n-   Title: \"Metadata Example Document\"\n-   Author: \"John Doe\"\n-   Subject: \"Testing Document Metadata\"\n-   Keywords: \"metadata\", \"testing\", \"extraction\"\n\nDetails\n\nAdditional content follows."
+  }
+}

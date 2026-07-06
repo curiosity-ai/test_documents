@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/epub/img.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 29,
+      "word_count": 69,
+      "character_count": 454
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/epub/img.txt",
+      "final_uri": "ground_truth/epub/img.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>[]</p>\n<p>Multimedia</p>\n<p>Images</p>\n<p>[REQUIRED] img-010 GIF</p>\n<p>Tests whether the GIF image format is supported.</p>\n<p>[gif test]</p>\n<p>If a checkmark precedes this paragaph, the test passes.</p>\n<p>[REQUIRED] img-020 PNG</p>\n<p>Tests whether the PNG image format is supported.</p>\n<p>[png test]</p>\n<p>If a checkmark precedes this paragaph, the test passes.</p>\n<p>[REQUIRED] img-030 JPEG</p>\n<p>Tests whether the JPEG image format is supported.</p>\n<p>[jpeg test]</p>\n<p>If a checkmark precedes this paragaph, the test passes.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"[]\"},{\"type\":\"paragraph\",\"text\":\"Multimedia\"},{\"type\":\"paragraph\",\"text\":\"Images\"},{\"type\":\"paragraph\",\"text\":\"[REQUIRED] img-010 GIF\"},{\"type\":\"paragraph\",\"text\":\"Tests whether the GIF image format is supported.\"},{\"type\":\"paragraph\",\"text\":\"[gif test]\"},{\"type\":\"paragraph\",\"text\":\"If a checkmark precedes this paragaph, the test passes.\"},{\"type\":\"paragraph\",\"text\":\"[REQUIRED] img-020 PNG\"},{\"type\":\"paragraph\",\"text\":\"Tests whether the PNG image format is supported.\"},{\"type\":\"paragraph\",\"text\":\"[png test]\"},{\"type\":\"paragraph\",\"text\":\"If a checkmark precedes this paragaph, the test passes.\"},{\"type\":\"paragraph\",\"text\":\"[REQUIRED] img-030 JPEG\"},{\"type\":\"paragraph\",\"text\":\"Tests whether the JPEG image format is supported.\"},{\"type\":\"paragraph\",\"text\":\"[jpeg test]\"},{\"type\":\"paragraph\",\"text\":\"If a checkmark precedes this paragaph, the test passes.\"}]}",
+    "markdown": "[]\n\nMultimedia\n\nImages\n\n[REQUIRED] img-010 GIF\n\nTests whether the GIF image format is supported.\n\n[gif test]\n\nIf a checkmark precedes this paragaph, the test passes.\n\n[REQUIRED] img-020 PNG\n\nTests whether the PNG image format is supported.\n\n[png test]\n\nIf a checkmark precedes this paragaph, the test passes.\n\n[REQUIRED] img-030 JPEG\n\nTests whether the JPEG image format is supported.\n\n[jpeg test]\n\nIf a checkmark precedes this paragaph, the test passes.\n",
+    "plain": "[]\n\nMultimedia\n\nImages\n\n[REQUIRED] img-010 GIF\n\nTests whether the GIF image format is supported.\n\n[gif test]\n\nIf a checkmark precedes this paragaph, the test passes.\n\n[REQUIRED] img-020 PNG\n\nTests whether the PNG image format is supported.\n\n[png test]\n\nIf a checkmark precedes this paragaph, the test passes.\n\n[REQUIRED] img-030 JPEG\n\nTests whether the JPEG image format is supported.\n\n[jpeg test]\n\nIf a checkmark precedes this paragaph, the test passes."
+  }
+}

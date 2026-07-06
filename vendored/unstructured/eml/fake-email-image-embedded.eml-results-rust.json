@@ -1,0 +1,40 @@
+{
+  "file": "vendored/unstructured/eml/fake-email-image-embedded.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "fake-email-image-embedded",
+    "created_at": "Mon, 9 Jan 2023 15:00:43 -0600",
+    "format": {
+      "format_type": "email",
+      "from_email": "mallori@unstructured.io",
+      "to_emails": [
+        "mallori@unstructured.io"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "message_id": "CAPgNNXSUabyHhzHrDW3zBQ0Q2BVibVVrR+FpgtPGmXSXSX7XCg@mail.gmail.com",
+      "attachments": [
+        "unstructured_logo.png"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/unstructured/eml/fake-email-image-embedded.eml",
+      "mime_version": "1.0",
+      "source_uri": "vendored/unstructured/eml/fake-email-image-embedded.eml",
+      "source_kind": "uri",
+      "attachment_details": "unstructured_logo.png|image/png|215758",
+      "source_index": 0,
+      "content_type": "multipart/related; boundary=\"0000000000007eaa9b05f1db0f70\""
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: fake-email-image-embedded</p>\n<p><strong>From</strong>: mallori@unstructured.io</p>\n<p><strong>To</strong>: mallori@unstructured.io</p>\n<p><strong>Date</strong>: Mon, 9 Jan 2023 15:00:43 -0600</p>\n<p>This is a test email to use for unit tests. Important points:</p>\n<p>hello</p>\n<p>unstructured_logo.png</p>\n<p>this is our logo.</p>\n<ul>\n<li>Roses are red</li>\n<li>Violets are blue</li>\n</ul>\n<p>Attachments:</p>\n<p> unstructured_logo.png (215758B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a test email to use for unit tests.\\n\\nImportant points:\"},{\"type\":\"paragraph\",\"text\":\"hello\"},{\"type\":\"paragraph\",\"text\":\"unstructured_logo.png\"},{\"type\":\"paragraph\",\"text\":\"this is our logo.\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Roses are red\",\"Violets are blue\"]},{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  unstructured_logo.png (215758B)\"}]}",
+    "markdown": "**Subject**: fake-email-image-embedded\n\n**From**: mallori@unstructured.io\n\n**To**: mallori@unstructured.io\n\n**Date**: Mon, 9 Jan 2023 15:00:43 -0600\n\nThis is a test email to use for unit tests. Important points:\n\nhello\n\nunstructured_logo.png\n\nthis is our logo.\n\n- Roses are red\n- Violets are blue\n\nAttachments:\n\n unstructured_logo.png (215758B)\n",
+    "plain": "Subject: fake-email-image-embedded\nFrom: mallori@unstructured.io\nTo: mallori@unstructured.io\nDate: Mon, 9 Jan 2023 15:00:43 -0600\n\nThis is a test email to use for unit tests.\n\nImportant points:\n\nhello\n\nunstructured_logo.png\n\nthis is our logo.\n\nRoses are red\nViolets are blue\nAttachments:\n\n  unstructured_logo.png (215758B)"
+  }
+}

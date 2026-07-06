@@ -1,0 +1,32 @@
+{
+  "file": "odt/strikeout.odt",
+  "mime_type": "application/vnd.oasis.opendocument.text",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Martin Linnemann"
+    ],
+    "created_at": "2015-03-01T17:26:12.31",
+    "modified_at": "2015-03-01T17:54:07.06",
+    "created_by": "Martin Linnemann",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "odt/strikeout.odt",
+      "editing_duration": "PT10M3S",
+      "final_uri": "odt/strikeout.odt",
+      "initial_creator": "Martin Linnemann",
+      "source_index": 0,
+      "generator": "OpenOffice/4.0.1$Win32 OpenOffice.org_project/401m5$Build-9714",
+      "source_kind": "uri",
+      "editing_cycles": "2"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Here comes text that was <del>striken out</del>.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Here comes text that was striken out.\"}]}",
+    "markdown": "Here comes text that was ~~striken out~~.\n",
+    "plain": "Here comes text that was striken out."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "file": "ground_truth/latex/tables.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Tables",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/latex/tables.md",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/latex/tables.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Name",
+          "Age",
+          "Score"
+        ],
+        [
+          "Alice",
+          "30",
+          "95"
+        ],
+        [
+          "Bob",
+          "25",
+          "87"
+        ],
+        [
+          "Charlie",
+          "35",
+          "92"
+        ]
+      ],
+      "markdown": "| Name | Age | Score |\n| --- | --- | --- |\n| Alice | 30 | 95 |\n| Bob | 25 | 87 |\n| Charlie | 35 | 92 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Column 1",
+          "Column 2"
+        ],
+        [
+          "Data 1",
+          "Data 2"
+        ],
+        [
+          "Data 3",
+          "Data 4"
+        ]
+      ],
+      "markdown": "| Column 1 | Column 2 |\n| --- | --- |\n| Data 1 | Data 2 |\n| Data 3 | Data 4 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Tables</h1>\n<h2>Simple Table</h2>\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Age</th>\n<th>Score</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Alice</td>\n<td>30</td>\n<td>95</td>\n</tr>\n<tr>\n<td>Bob</td>\n<td>25</td>\n<td>87</td>\n</tr>\n<tr>\n<td>Charlie</td>\n<td>35</td>\n<td>92</td>\n</tr>\n</tbody>\n</table>\n<h2>Table with Caption</h2>\n<table>\n<thead>\n<tr>\n<th>Column 1</th>\n<th>Column 2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Data 1</td>\n<td>Data 2</td>\n</tr>\n<tr>\n<td>Data 3</td>\n<td>Data 4</td>\n</tr>\n</tbody>\n</table>\n<p>Sample table with caption</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Tables\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Simple Table\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Name\",\"Age\",\"Score\"],\"rows\":[[\"Alice\",\"30\",\"95\"],[\"Bob\",\"25\",\"87\"],[\"Charlie\",\"35\",\"92\"]]}]},{\"type\":\"section\",\"heading\":\"Table with Caption\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Column 1\",\"Column 2\"],\"rows\":[[\"Data 1\",\"Data 2\"],[\"Data 3\",\"Data 4\"]]},{\"type\":\"paragraph\",\"text\":\"Sample table with caption\"}]}]}]}",
+    "markdown": "# Tables\n\n## Simple Table\n\n| Name | Age | Score |\n| --- | --- | --- |\n| Alice | 30 | 95 |\n| Bob | 25 | 87 |\n| Charlie | 35 | 92 |\n\n## Table with Caption\n\n| Column 1 | Column 2 |\n| --- | --- |\n| Data 1 | Data 2 |\n| Data 3 | Data 4 |\n\nSample table with caption\n",
+    "plain": "Tables\n  Simple Table\nName Age Score\nAlice 30 95\nBob 25 87\nCharlie 35 92\n\n  Table with Caption\nColumn 1 Column 2\nData 1 Data 2\nData 3 Data 4\n\nSample table with caption"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/escaped_characters.md.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 44,
+      "word_count": 120,
+      "character_count": 728
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/md/escaped_characters.md.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/md/escaped_characters.md.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Headers:</p>\n<p>## &amp;amp; &amp;lt; &amp;gt; &quot; '</p>\n<p>Text: 00:16.000 ----&amp;gt; 00:18.000 &amp;amp; &amp;lt; &amp;gt; &quot; '</p>\n<p># Lists</p>\n<p>1. &amp;amp; &amp;lt; &amp;gt; &quot; '</p>\n<p>- &amp;amp; &amp;lt; &amp;gt; &quot; '</p>\n<p># Inline code</p>\n<p>``` &amp; &lt; &gt; &quot; ' ```</p>\n<p># Code block</p>\n<p>``` &amp; &lt; &gt; &quot; ' ```</p>\n<p># Table</p>\n<p>| Key | Example | |--------------|----------------------| | Ampersand | &amp; | | Less-than | &lt; | | Greater-than | &gt; | | Quotes | &quot; | | Apostrophes | ' | | Pipe | &amp;#124; &amp;#124; &amp;#124; |</p>\n<p>The pipe symbol (| or `|` ) only needs to be escaped in tables.</p>\n<p># Raw HTML</p>\n<p>&amp;amp; &amp;lt; &amp;gt; &quot; '/div&amp;gt;</p>\n<p>## Link</p>\n<p>[&amp;amp; &amp;lt; &amp;gt; &quot; '](https://en.wikipedia.org/wiki/Albert_Einstein)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Headers:\"},{\"type\":\"paragraph\",\"text\":\"## &amp; &lt; &gt; \\\" '\"},{\"type\":\"paragraph\",\"text\":\"Text: 00:16.000 ----&gt; 00:18.000 &amp; &lt; &gt; \\\" '\"},{\"type\":\"paragraph\",\"text\":\"# Lists\"},{\"type\":\"paragraph\",\"text\":\"1. &amp; &lt; &gt; \\\" '\"},{\"type\":\"paragraph\",\"text\":\"- &amp; &lt; &gt; \\\" '\"},{\"type\":\"paragraph\",\"text\":\"# Inline code\"},{\"type\":\"paragraph\",\"text\":\"```\\n& < > \\\" '\\n```\"},{\"type\":\"paragraph\",\"text\":\"# Code block\"},{\"type\":\"paragraph\",\"text\":\"```\\n& < > \\\" '\\n```\"},{\"type\":\"paragraph\",\"text\":\"# Table\"},{\"type\":\"paragraph\",\"text\":\"| Key          | Example              |\\n|--------------|----------------------|\\n| Ampersand    | &                    |\\n| Less-than    | <                    |\\n| Greater-than | >                    |\\n| Quotes       | \\\"                    |\\n| Apostrophes  | '                    |\\n| Pipe         | &#124; &#124; &#124; |\"},{\"type\":\"paragraph\",\"text\":\"The pipe symbol (| or `|` ) only needs to be escaped in tables.\"},{\"type\":\"paragraph\",\"text\":\"# Raw HTML\"},{\"type\":\"paragraph\",\"text\":\"&amp; &lt; &gt; \\\" '/div&gt;\"},{\"type\":\"paragraph\",\"text\":\"## Link\"},{\"type\":\"paragraph\",\"text\":\"[&amp; &lt; &gt; \\\" '](https://en.wikipedia.org/wiki/Albert_Einstein)\"}]}",
+    "markdown": "\\# Headers:\n\n\\#\\# \\&amp; \\&lt; \\&gt; \" '\n\nText: 00:16.000 ----\\&gt; 00:18.000 \\&amp; \\&lt; \\&gt; \" '\n\n\\# Lists\n\n1\\. \\&amp; \\&lt; \\&gt; \" '\n\n\\- \\&amp; \\&lt; \\&gt; \" '\n\n\\# Inline code\n\n\\`\\`\\` & \\< \\> \" ' \\`\\`\\`\n\n\\# Code block\n\n\\`\\`\\` & \\< \\> \" ' \\`\\`\\`\n\n\\# Table\n\n| Key | Example | |--------------|----------------------| | Ampersand | & | | Less-than | \\< | | Greater-than | \\> | | Quotes | \" | | Apostrophes | ' | | Pipe | &\\#124; &\\#124; &\\#124; |\n\nThe pipe symbol (| or \\`|\\` ) only needs to be escaped in tables.\n\n\\# Raw HTML\n\n\\&amp; \\&lt; \\&gt; \" '/div\\&gt;\n\n\\#\\# Link\n\n[\\&amp; \\&lt; \\&gt; \" '](https://en.wikipedia.org/wiki/Albert_Einstein)\n",
+    "plain": "# Headers:\n\n## &amp; &lt; &gt; \" '\n\nText: 00:16.000 ----&gt; 00:18.000 &amp; &lt; &gt; \" '\n\n# Lists\n\n1. &amp; &lt; &gt; \" '\n\n- &amp; &lt; &gt; \" '\n\n# Inline code\n\n```\n& < > \" '\n```\n\n# Code block\n\n```\n& < > \" '\n```\n\n# Table\n\n| Key          | Example              |\n|--------------|----------------------|\n| Ampersand    | &                    |\n| Less-than    | <                    |\n| Greater-than | >                    |\n| Quotes       | \"                    |\n| Apostrophes  | '                    |\n| Pipe         | &#124; &#124; &#124; |\n\nThe pipe symbol (| or `|` ) only needs to be escaped in tables.\n\n# Raw HTML\n\n&amp; &lt; &gt; \" '/div&gt;\n\n## Link\n\n[&amp; &lt; &gt; \" '](https://en.wikipedia.org/wiki/Albert_Einstein)"
+  }
+}

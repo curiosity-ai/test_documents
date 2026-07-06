@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/rtf/accent.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 7,
+      "character_count": 27
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/rtf/accent.txt",
+      "final_uri": "ground_truth/rtf/accent.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>le café où on ne fume pas</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"le café où on ne fume pas\"}]}",
+    "markdown": "le café où on ne fume pas\n",
+    "plain": "le café où on ne fume pas"
+  }
+}

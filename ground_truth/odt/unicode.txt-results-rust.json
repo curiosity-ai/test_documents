@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/odt/unicode.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 1,
+      "character_count": 31
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/odt/unicode.txt",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/odt/unicode.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>“”’çӨ©¼вбФШöÉµ</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"“”’çӨ©¼вбФШöÉµ\"}]}",
+    "markdown": "“”’çӨ©¼вбФШöÉµ\n",
+    "plain": "“”’çӨ©¼вбФШöÉµ"
+  }
+}

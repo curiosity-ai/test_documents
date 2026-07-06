@@ -1,0 +1,355 @@
+{
+  "file": "vendored/docling/xlsx/xlsx_07_gap_tolerance_.xlsx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Souza, Rafael Sanchez"
+    ],
+    "created_at": "2025-01-28T16:50:48Z",
+    "modified_at": "2025-01-29T18:39:18Z",
+    "created_by": "Souza, Rafael Sanchez",
+    "modified_by": "Souza, Rafael Sanchez",
+    "format": {
+      "format_type": "excel",
+      "sheet_count": 1,
+      "sheet_names": [
+        "Page 1"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "worksheet_names": "Page 1, 'Page 1'!Print_Area",
+      "sheet_names": "Page 1",
+      "custom_MSIP_Label_36791f77-3d39-4d72-9277-ac879ec799ed_Enabled": "true",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "vendored/docling/xlsx/xlsx_07_gap_tolerance_.xlsx",
+      "application": "Microsoft Excel",
+      "custom_MSIP_Label_36791f77-3d39-4d72-9277-ac879ec799ed_SetDate": "2025-01-28T16:50:52Z",
+      "custom_MSIP_Label_36791f77-3d39-4d72-9277-ac879ec799ed_Name": "restricted-default",
+      "application_version": "16.0300",
+      "sheet_count": "1",
+      "custom_MSIP_Label_36791f77-3d39-4d72-9277-ac879ec799ed_ContentBits": "0",
+      "custom_MSIP_Label_36791f77-3d39-4d72-9277-ac879ec799ed_Method": "Standard",
+      "custom_MSIP_Label_36791f77-3d39-4d72-9277-ac879ec799ed_ActionId": "77c9a4ca-2d4f-4e7c-832e-6460818cdee2",
+      "source_uri": "vendored/docling/xlsx/xlsx_07_gap_tolerance_.xlsx",
+      "custom_MSIP_Label_36791f77-3d39-4d72-9277-ac879ec799ed_SiteId": "254ba93e-1f6f-48f3-90e6-e2766664b477"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          "",
+          "",
+          "HIGH VOLTAGE SWITCHBOARD",
+          "",
+          "",
+          "",
+          "MODEL-000"
+        ],
+        [
+          "E-123",
+          "",
+          "",
+          "DATA SHEET",
+          "",
+          "",
+          "",
+          "2016"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Page 1 of 10"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Package no.:",
+          "",
+          "",
+          "Doc. no.:",
+          "",
+          "",
+          "",
+          "Rev."
+        ],
+        [
+          "13156456",
+          "",
+          "",
+          "144564",
+          "",
+          "",
+          "",
+          "A"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Functional requirements",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Power system",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "",
+          "Rated system voltage",
+          "",
+          "kV",
+          ":",
+          "130 (131 Um, 132 AC, 133 BIL)",
+          ""
+        ],
+        [
+          "2",
+          "",
+          "Rated system frequency",
+          "",
+          "Hz",
+          ":",
+          "134",
+          ""
+        ],
+        [
+          "3",
+          "",
+          "No. of phases",
+          "",
+          " ",
+          ":",
+          "3",
+          ""
+        ],
+        [
+          "4",
+          "",
+          "System earthing",
+          "",
+          "",
+          ":",
+          "Solidly Earthed",
+          ""
+        ],
+        [
+          "5",
+          "",
+          "Earth fault current",
+          "",
+          "A",
+          ":",
+          "135 kA",
+          ""
+        ],
+        [
+          "6",
+          "",
+          "Control voltage supply",
+          "",
+          " ",
+          ":",
+          "2 x 136V AC UPS\n1 x 137V AC normal",
+          "Note 1"
+        ],
+        [
+          "Construction",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "7",
+          "",
+          "Metal-enclosed partition",
+          "",
+          "",
+          ":",
+          "Gas Insulated Switchgear (GIS)",
+          "Non Sticky"
+        ],
+        [
+          "8",
+          "",
+          "VT for cable discharging ",
+          "",
+          "",
+          "",
+          "No",
+          ""
+        ],
+        [
+          "9",
+          "",
+          "Voltage and Current measurement ",
+          "",
+          "",
+          "",
+          "Low Power Instrument Transformers",
+          ""
+        ],
+        [
+          "Environmental conditions",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10",
+          "",
+          "Hazardous area classification",
+          "",
+          "",
+          ":",
+          "Non hazardous",
+          ""
+        ],
+        [
+          "11",
+          "",
+          "Ambient temp.",
+          "",
+          "ºC",
+          ":",
+          "Min. -5, max. +40",
+          ""
+        ],
+        [
+          "12",
+          "",
+          "Location",
+          "",
+          "",
+          ":",
+          "Indoor",
+          ""
+        ],
+        [
+          "13",
+          "",
+          "Humidity",
+          "",
+          "%",
+          ":",
+          "100",
+          ""
+        ],
+        [
+          "Arc test",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "14",
+          "",
+          "Arc testing",
+          "",
+          "Yes/no",
+          ":",
+          "Yes",
+          "Note 2"
+        ],
+        [
+          "Notes",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "",
+          "Converted to 110VDC ",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2",
+          "",
+          "Arc test (type test)",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "|  |  |  | HIGH VOLTAGE SWITCHBOARD |  |  |  | MODEL-000 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| E-123 |  |  | DATA SHEET |  |  |  | 2016 |\n|  |  |  |  |  |  |  | Page 1 of 10 |\n|  |  |  |  |  |  |  |  |\n| Package no.: |  |  | Doc. no.: |  |  |  | Rev. |\n| 13156456 |  |  | 144564 |  |  |  | A |\n|  |  |  |  |  |  |  |  |\n| Functional requirements |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n| Power system |  |  |  |  |  |  |  |\n| 1 |  | Rated system voltage |  | kV | : | 130 (131 Um, 132 AC, 133 BIL) |  |\n| 2 |  | Rated system frequency |  | Hz | : | 134 |  |\n| 3 |  | No. of phases |  |   | : | 3 |  |\n| 4 |  | System earthing |  |  | : | Solidly Earthed |  |\n| 5 |  | Earth fault current |  | A | : | 135 kA |  |\n| 6 |  | Control voltage supply |  |   | : | 2 x 136V AC UPS\n1 x 137V AC normal | Note 1 |\n| Construction |  |  |  |  |  |  |  |\n| 7 |  | Metal-enclosed partition |  |  | : | Gas Insulated Switchgear (GIS) | Non Sticky |\n| 8 |  | VT for cable discharging  |  |  |  | No |  |\n| 9 |  | Voltage and Current measurement  |  |  |  | Low Power Instrument Transformers |  |\n| Environmental conditions |  |  |  |  |  |  |  |\n| 10 |  | Hazardous area classification |  |  | : | Non hazardous |  |\n| 11 |  | Ambient temp. |  | ºC | : | Min. -5, max. +40 |  |\n| 12 |  | Location |  |  | : | Indoor |  |\n| 13 |  | Humidity |  | % | : | 100 |  |\n| Arc test |  |  |  |  |  |  |  |\n| 14 |  | Arc testing |  | Yes/no | : | Yes | Note 2 |\n| Notes |  |  |  |  |  |  |  |\n| 1 |  | Converted to 110VDC  |  |  |  |  |  |\n| 2 |  | Arc test (type test) |  |  |  |  |  |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h2>Page 1</h2>\n<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n<th></th>\n<th>HIGH VOLTAGE SWITCHBOARD</th>\n<th></th>\n<th></th>\n<th></th>\n<th>MODEL-000</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>E-123</td>\n<td></td>\n<td></td>\n<td>DATA SHEET</td>\n<td></td>\n<td></td>\n<td></td>\n<td>2016</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>Page 1 of 10</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Package no.:</td>\n<td></td>\n<td></td>\n<td>Doc. no.:</td>\n<td></td>\n<td></td>\n<td></td>\n<td>Rev.</td>\n</tr>\n<tr>\n<td>13156456</td>\n<td></td>\n<td></td>\n<td>144564</td>\n<td></td>\n<td></td>\n<td></td>\n<td>A</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Functional requirements</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Power system</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>1</td>\n<td></td>\n<td>Rated system voltage</td>\n<td></td>\n<td>kV</td>\n<td>:</td>\n<td>130 (131 Um, 132 AC, 133 BIL)</td>\n<td></td>\n</tr>\n<tr>\n<td>2</td>\n<td></td>\n<td>Rated system frequency</td>\n<td></td>\n<td>Hz</td>\n<td>:</td>\n<td>134</td>\n<td></td>\n</tr>\n<tr>\n<td>3</td>\n<td></td>\n<td>No. of phases</td>\n<td></td>\n<td> </td>\n<td>:</td>\n<td>3</td>\n<td></td>\n</tr>\n<tr>\n<td>4</td>\n<td></td>\n<td>System earthing</td>\n<td></td>\n<td></td>\n<td>:</td>\n<td>Solidly Earthed</td>\n<td></td>\n</tr>\n<tr>\n<td>5</td>\n<td></td>\n<td>Earth fault current</td>\n<td></td>\n<td>A</td>\n<td>:</td>\n<td>135 kA</td>\n<td></td>\n</tr>\n<tr>\n<td>6</td>\n<td></td>\n<td>Control voltage supply</td>\n<td></td>\n<td> </td>\n<td>:</td>\n<td>2 x 136V AC UPS 1 x 137V AC normal</td>\n<td>Note 1</td>\n</tr>\n<tr>\n<td>Construction</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>7</td>\n<td></td>\n<td>Metal-enclosed partition</td>\n<td></td>\n<td></td>\n<td>:</td>\n<td>Gas Insulated Switchgear (GIS)</td>\n<td>Non Sticky</td>\n</tr>\n<tr>\n<td>8</td>\n<td></td>\n<td>VT for cable discharging </td>\n<td></td>\n<td></td>\n<td></td>\n<td>No</td>\n<td></td>\n</tr>\n<tr>\n<td>9</td>\n<td></td>\n<td>Voltage and Current measurement </td>\n<td></td>\n<td></td>\n<td></td>\n<td>Low Power Instrument Transformers</td>\n<td></td>\n</tr>\n<tr>\n<td>Environmental conditions</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>10</td>\n<td></td>\n<td>Hazardous area classification</td>\n<td></td>\n<td></td>\n<td>:</td>\n<td>Non hazardous</td>\n<td></td>\n</tr>\n<tr>\n<td>11</td>\n<td></td>\n<td>Ambient temp.</td>\n<td></td>\n<td>ºC</td>\n<td>:</td>\n<td>Min. -5, max. +40</td>\n<td></td>\n</tr>\n<tr>\n<td>12</td>\n<td></td>\n<td>Location</td>\n<td></td>\n<td></td>\n<td>:</td>\n<td>Indoor</td>\n<td></td>\n</tr>\n<tr>\n<td>13</td>\n<td></td>\n<td>Humidity</td>\n<td></td>\n<td>%</td>\n<td>:</td>\n<td>100</td>\n<td></td>\n</tr>\n<tr>\n<td>Arc test</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>14</td>\n<td></td>\n<td>Arc testing</td>\n<td></td>\n<td>Yes/no</td>\n<td>:</td>\n<td>Yes</td>\n<td>Note 2</td>\n</tr>\n<tr>\n<td>Notes</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>1</td>\n<td></td>\n<td>Converted to 110VDC </td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2</td>\n<td></td>\n<td>Arc test (type test)</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Page 1\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"\",\"\",\"\",\"HIGH VOLTAGE SWITCHBOARD\",\"\",\"\",\"\",\"MODEL-000\"],\"rows\":[[\"E-123\",\"\",\"\",\"DATA SHEET\",\"\",\"\",\"\",\"2016\"],[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"Page 1 of 10\"],[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"Package no.:\",\"\",\"\",\"Doc. no.:\",\"\",\"\",\"\",\"Rev.\"],[\"13156456\",\"\",\"\",\"144564\",\"\",\"\",\"\",\"A\"],[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"Functional requirements\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"Power system\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"1\",\"\",\"Rated system voltage\",\"\",\"kV\",\":\",\"130 (131 Um, 132 AC, 133 BIL)\",\"\"],[\"2\",\"\",\"Rated system frequency\",\"\",\"Hz\",\":\",\"134\",\"\"],[\"3\",\"\",\"No. of phases\",\"\",\" \",\":\",\"3\",\"\"],[\"4\",\"\",\"System earthing\",\"\",\"\",\":\",\"Solidly Earthed\",\"\"],[\"5\",\"\",\"Earth fault current\",\"\",\"A\",\":\",\"135 kA\",\"\"],[\"6\",\"\",\"Control voltage supply\",\"\",\" \",\":\",\"2 x 136V AC UPS\\n1 x 137V AC normal\",\"Note 1\"],[\"Construction\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"7\",\"\",\"Metal-enclosed partition\",\"\",\"\",\":\",\"Gas Insulated Switchgear (GIS)\",\"Non Sticky\"],[\"8\",\"\",\"VT for cable discharging \",\"\",\"\",\"\",\"No\",\"\"],[\"9\",\"\",\"Voltage and Current measurement \",\"\",\"\",\"\",\"Low Power Instrument Transformers\",\"\"],[\"Environmental conditions\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"10\",\"\",\"Hazardous area classification\",\"\",\"\",\":\",\"Non hazardous\",\"\"],[\"11\",\"\",\"Ambient temp.\",\"\",\"ºC\",\":\",\"Min. -5, max. +40\",\"\"],[\"12\",\"\",\"Location\",\"\",\"\",\":\",\"Indoor\",\"\"],[\"13\",\"\",\"Humidity\",\"\",\"%\",\":\",\"100\",\"\"],[\"Arc test\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"14\",\"\",\"Arc testing\",\"\",\"Yes/no\",\":\",\"Yes\",\"Note 2\"],[\"Notes\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"1\",\"\",\"Converted to 110VDC \",\"\",\"\",\"\",\"\",\"\"],[\"2\",\"\",\"Arc test (type test)\",\"\",\"\",\"\",\"\",\"\"]]}]}]}",
+    "markdown": "## Page 1\n\n|  |  |  | HIGH VOLTAGE SWITCHBOARD |  |  |  | MODEL-000 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| E-123 |  |  | DATA SHEET |  |  |  | 2016 |\n|  |  |  |  |  |  |  | Page 1 of 10 |\n|  |  |  |  |  |  |  |  |\n| Package no.: |  |  | Doc. no.: |  |  |  | Rev. |\n| 13156456 |  |  | 144564 |  |  |  | A |\n|  |  |  |  |  |  |  |  |\n| Functional requirements |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |\n| Power system |  |  |  |  |  |  |  |\n| 1 |  | Rated system voltage |  | kV | : | 130 (131 Um, 132 AC, 133 BIL) |  |\n| 2 |  | Rated system frequency |  | Hz | : | 134 |  |\n| 3 |  | No. of phases |  |   | : | 3 |  |\n| 4 |  | System earthing |  |  | : | Solidly Earthed |  |\n| 5 |  | Earth fault current |  | A | : | 135 kA |  |\n| 6 |  | Control voltage supply |  |   | : | 2 x 136V AC UPS 1 x 137V AC normal | Note 1 |\n| Construction |  |  |  |  |  |  |  |\n| 7 |  | Metal-enclosed partition |  |  | : | Gas Insulated Switchgear (GIS) | Non Sticky |\n| 8 |  | VT for cable discharging  |  |  |  | No |  |\n| 9 |  | Voltage and Current measurement  |  |  |  | Low Power Instrument Transformers |  |\n| Environmental conditions |  |  |  |  |  |  |  |\n| 10 |  | Hazardous area classification |  |  | : | Non hazardous |  |\n| 11 |  | Ambient temp. |  | ºC | : | Min. -5, max. +40 |  |\n| 12 |  | Location |  |  | : | Indoor |  |\n| 13 |  | Humidity |  | % | : | 100 |  |\n| Arc test |  |  |  |  |  |  |  |\n| 14 |  | Arc testing |  | Yes/no | : | Yes | Note 2 |\n| Notes |  |  |  |  |  |  |  |\n| 1 |  | Converted to 110VDC  |  |  |  |  |  |\n| 2 |  | Arc test (type test) |  |  |  |  |  |\n",
+    "plain": "  Page 1\n   HIGH VOLTAGE SWITCHBOARD    MODEL-000\nE-123   DATA SHEET    2016\n       Page 1 of 10\n       \nPackage no.:   Doc. no.:    Rev.\n13156456   144564    A\n       \nFunctional requirements       \n       \nPower system       \n1  Rated system voltage  kV : 130 (131 Um, 132 AC, 133 BIL) \n2  Rated system frequency  Hz : 134 \n3  No. of phases    : 3 \n4  System earthing   : Solidly Earthed \n5  Earth fault current  A : 135 kA \n6  Control voltage supply    : 2 x 136V AC UPS\n1 x 137V AC normal Note 1\nConstruction       \n7  Metal-enclosed partition   : Gas Insulated Switchgear (GIS) Non Sticky\n8  VT for cable discharging     No \n9  Voltage and Current measurement     Low Power Instrument Transformers \nEnvironmental conditions       \n10  Hazardous area classification   : Non hazardous \n11  Ambient temp.  ºC : Min. -5, max. +40 \n12  Location   : Indoor \n13  Humidity  % : 100 \nArc test       \n14  Arc testing  Yes/no : Yes Note 2\nNotes       \n1  Converted to 110VDC      \n2  Arc test (type test)"
+  }
+}

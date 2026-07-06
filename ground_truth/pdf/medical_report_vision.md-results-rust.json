@@ -1,0 +1,200 @@
+{
+  "file": "ground_truth/pdf/medical_report_vision.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "SEATTLE GENERAL HOSPITAL",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/medical_report_vision.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/medical_report_vision.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Report ID",
+          "MEDRPT-2024-0347",
+          "Date of Service",
+          "October 26, 2024"
+        ]
+      ],
+      "markdown": "| Report ID | MEDRPT-2024-0347 | Date of Service | October 26, 2024 |\n| --- | --- | --- | --- |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Field",
+          "Value"
+        ],
+        [
+          "Patient Name",
+          "Jonathan Michael Harrison"
+        ],
+        [
+          "Date of Birth",
+          "March 15, 1978"
+        ],
+        [
+          "Patient ID",
+          "PAT-3847-2024"
+        ],
+        [
+          "Attending Physician",
+          "Dr. Elizabeth Warren, MD"
+        ],
+        [
+          "Primary Physician",
+          "Dr. Elizabeth Warren, MD"
+        ],
+        [
+          "Insurance",
+          "BlueCross BlueShield"
+        ],
+        [
+          "Member ID",
+          "BCB-445782"
+        ]
+      ],
+      "markdown": "| Field | Value |\n| --- | --- |\n| Patient Name | Jonathan Michael Harrison |\n| Date of Birth | March 15, 1978 |\n| Patient ID | PAT-3847-2024 |\n| Attending Physician | Dr. Elizabeth Warren, MD |\n| Primary Physician | Dr. Elizabeth Warren, MD |\n| Insurance | BlueCross BlueShield |\n| Member ID | BCB-445782 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Measurement",
+          "Value",
+          "Normal Range",
+          "Status"
+        ],
+        [
+          "Blood Pressure",
+          "142/88",
+          "100-140 mmHg",
+          "ELEVATED"
+        ],
+        [
+          "Heart Rate",
+          "92 bpm",
+          "60-100 bpm",
+          "NORMAL"
+        ],
+        [
+          "Temperature",
+          "98.6°F",
+          "97.0-98.9°F",
+          "NORMAL"
+        ],
+        [
+          "Respiratory Rate",
+          "18 breaths/min",
+          "12-20 breaths/min",
+          "NORMAL"
+        ],
+        [
+          "O2 Saturation",
+          "98%",
+          "95-100%",
+          "NORMAL"
+        ]
+      ],
+      "markdown": "| Measurement | Value | Normal Range | Status |\n| --- | --- | --- | --- |\n| Blood Pressure | 142/88 | 100-140 mmHg | ELEVATED |\n| Heart Rate | 92 bpm | 60-100 bpm | NORMAL |\n| Temperature | 98.6°F | 97.0-98.9°F | NORMAL |\n| Respiratory Rate | 18 breaths/min | 12-20 breaths/min | NORMAL |\n| O2 Saturation | 98% | 95-100% | NORMAL |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Test",
+          "Result",
+          "Reference Range",
+          "Flag"
+        ],
+        [
+          "Glucose Fasting",
+          "118 mg/dL",
+          "70-100 mg/dL",
+          "HIGH"
+        ],
+        [
+          "HbA1c",
+          "6.8%",
+          "<5.7%",
+          "HIGH"
+        ],
+        [
+          "Total Cholesterol",
+          "210 mg/dL",
+          "<200 mg/dL",
+          "HIGH"
+        ],
+        [
+          "Triglycerides",
+          "165 mg/dL",
+          "<150 mg/dL",
+          "HIGH"
+        ],
+        [
+          "HDL Cholesterol",
+          "48 mg/dL",
+          ">40 mg/dL",
+          ""
+        ],
+        [
+          "LDL Cholesterol",
+          "135 mg/dL",
+          "<100 mg/dL",
+          "HIGH"
+        ],
+        [
+          "TSH",
+          "2.1 mIU/L",
+          "0.4-4.0 mIU/L",
+          ""
+        ],
+        [
+          "eGFR",
+          "82 mL/min",
+          ">60 mL/min",
+          ""
+        ],
+        [
+          "Creatinine",
+          "0.9 mg/dL",
+          "0.6-1.2 mg/dL",
+          ""
+        ],
+        [
+          "Hemoglobin",
+          "14.2 g/dL",
+          "13.5-17.5 g/dL",
+          ""
+        ],
+        [
+          "WBC",
+          "7.2K/uL",
+          "4.5K-11.0K uL",
+          ""
+        ],
+        [
+          "Platelets",
+          "250 K/uL",
+          "150-400 K/uL",
+          ""
+        ]
+      ],
+      "markdown": "| Test | Result | Reference Range | Flag |\n| --- | --- | --- | --- |\n| Glucose Fasting | 118 mg/dL | 70-100 mg/dL | HIGH |\n| HbA1c | 6.8% | <5.7% | HIGH |\n| Total Cholesterol | 210 mg/dL | <200 mg/dL | HIGH |\n| Triglycerides | 165 mg/dL | <150 mg/dL | HIGH |\n| HDL Cholesterol | 48 mg/dL | >40 mg/dL |  |\n| LDL Cholesterol | 135 mg/dL | <100 mg/dL | HIGH |\n| TSH | 2.1 mIU/L | 0.4-4.0 mIU/L |  |\n| eGFR | 82 mL/min | >60 mL/min |  |\n| Creatinine | 0.9 mg/dL | 0.6-1.2 mg/dL |  |\n| Hemoglobin | 14.2 g/dL | 13.5-17.5 g/dL |  |\n| WBC | 7.2K/uL | 4.5K-11.0K uL |  |\n| Platelets | 250 K/uL | 150-400 K/uL |  |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>SEATTLE GENERAL HOSPITAL</h1>\n<p>Department of Internal Medicine</p>\n<p>Seattle, WA 98101 | (206) 555-0100</p>\n<h2>COMPREHENSIVE MEDICAL REPORT</h2>\n<table>\n<thead>\n<tr>\n<th>Report ID</th>\n<th>MEDRPT-2024-0347</th>\n<th>Date of Service</th>\n<th>October 26, 2024</th>\n</tr>\n</thead>\n</table>\n<h2>PATIENT INFORMATION</h2>\n<table>\n<thead>\n<tr>\n<th>Field</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Patient Name</td>\n<td>Jonathan Michael Harrison</td>\n</tr>\n<tr>\n<td>Date of Birth</td>\n<td>March 15, 1978</td>\n</tr>\n<tr>\n<td>Patient ID</td>\n<td>PAT-3847-2024</td>\n</tr>\n<tr>\n<td>Attending Physician</td>\n<td>Dr. Elizabeth Warren, MD</td>\n</tr>\n<tr>\n<td>Primary Physician</td>\n<td>Dr. Elizabeth Warren, MD</td>\n</tr>\n<tr>\n<td>Insurance</td>\n<td>BlueCross BlueShield</td>\n</tr>\n<tr>\n<td>Member ID</td>\n<td>BCB-445782</td>\n</tr>\n</tbody>\n</table>\n<h2>VITAL SIGNS</h2>\n<table>\n<thead>\n<tr>\n<th>Measurement</th>\n<th>Value</th>\n<th>Normal Range</th>\n<th>Status</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Blood Pressure</td>\n<td>142/88</td>\n<td>100-140 mmHg</td>\n<td>ELEVATED</td>\n</tr>\n<tr>\n<td>Heart Rate</td>\n<td>92 bpm</td>\n<td>60-100 bpm</td>\n<td>NORMAL</td>\n</tr>\n<tr>\n<td>Temperature</td>\n<td>98.6°F</td>\n<td>97.0-98.9°F</td>\n<td>NORMAL</td>\n</tr>\n<tr>\n<td>Respiratory Rate</td>\n<td>18 breaths/min</td>\n<td>12-20 breaths/min</td>\n<td>NORMAL</td>\n</tr>\n<tr>\n<td>O2 Saturation</td>\n<td>98%</td>\n<td>95-100%</td>\n<td>NORMAL</td>\n</tr>\n</tbody>\n</table>\n<h2>CHIEF COMPLAINT</h2>\n<p>Patient presents with persistent headaches occurring 3-4 times per week for the past 6 weeks, rated 6-7/10 in severity. Associated symptoms include occasional dizziness, mild nausea, and sensitivity to light. Patient reports increased stress at work and difficulty sleeping. No history of migraines. Blood pressure slightly elevated today.</p>\n<h2>MEDICAL HISTORY</h2>\n<ul>\n<li>Hypertension (diagnosed 2019) - controlled with Lisinopril 10mg daily</li>\n<li>Type 2 Diabetes (diagnosed 2021) - managed with Metformin 500mg twice daily</li>\n<li>Appendectomy (2005) - no complications</li>\n<li>No known drug allergies</li>\n<li>Family history: Father - heart disease, Mother - diabetes</li>\n</ul>\n<h2>CURRENT MEDICATIONS</h2>\n<ol>\n<li>Lisinopril 10mg - once daily for hypertension</li>\n<li>Metformin 500mg - twice daily for diabetes</li>\n<li>Aspirin 81mg - once daily for cardiovascular protection</li>\n<li>Vitamin D3 2000 IU - once daily</li>\n</ol>\n<h2>PHYSICAL EXAMINATION</h2>\n<ul>\n<li>General: alert and oriented, no acute distress</li>\n<li>HEENT: Normocephalic, pupils equal and reactive, no exophthalmos</li>\n<li>Neck: Supple, no thyromegaly, no cervical lymphadenopathy</li>\n<li>Cardiovascular: Regular rate and rhythm, no murmurs or gallops</li>\n<li>Pulmonary: Clear to auscultation bilaterally, no wheezes or rales</li>\n<li>Abdomen: Soft, non-tender, normoactive bowel sounds</li>\n<li>Neurological: Cranial nerves II-XII intact, normal strength and sensation</li>\n<li>Extremities: No edema, erythema, or clubbing</li>\n</ul>\n<h2>LABORATORY RESULTS</h2>\n<table>\n<thead>\n<tr>\n<th>Test</th>\n<th>Result</th>\n<th>Reference Range</th>\n<th>Flag</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Glucose Fasting</td>\n<td>118 mg/dL</td>\n<td>70-100 mg/dL</td>\n<td>HIGH</td>\n</tr>\n<tr>\n<td>HbA1c</td>\n<td>6.8%</td>\n<td>&lt;5.7%</td>\n<td>HIGH</td>\n</tr>\n<tr>\n<td>Total Cholesterol</td>\n<td>210 mg/dL</td>\n<td>&lt;200 mg/dL</td>\n<td>HIGH</td>\n</tr>\n<tr>\n<td>Triglycerides</td>\n<td>165 mg/dL</td>\n<td>&lt;150 mg/dL</td>\n<td>HIGH</td>\n</tr>\n<tr>\n<td>HDL Cholesterol</td>\n<td>48 mg/dL</td>\n<td>&gt;40 mg/dL</td>\n<td></td>\n</tr>\n<tr>\n<td>LDL Cholesterol</td>\n<td>135 mg/dL</td>\n<td>&lt;100 mg/dL</td>\n<td>HIGH</td>\n</tr>\n<tr>\n<td>TSH</td>\n<td>2.1 mIU/L</td>\n<td>0.4-4.0 mIU/L</td>\n<td></td>\n</tr>\n<tr>\n<td>eGFR</td>\n<td>82 mL/min</td>\n<td>&gt;60 mL/min</td>\n<td></td>\n</tr>\n<tr>\n<td>Creatinine</td>\n<td>0.9 mg/dL</td>\n<td>0.6-1.2 mg/dL</td>\n<td></td>\n</tr>\n<tr>\n<td>Hemoglobin</td>\n<td>14.2 g/dL</td>\n<td>13.5-17.5 g/dL</td>\n<td></td>\n</tr>\n<tr>\n<td>WBC</td>\n<td>7.2K/uL</td>\n<td>4.5K-11.0K uL</td>\n<td></td>\n</tr>\n<tr>\n<td>Platelets</td>\n<td>250 K/uL</td>\n<td>150-400 K/uL</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2>IMAGING STUDIES</h2>\n<p>CT Head without Contrast (12/20/2024): FINDINGS: No acute intracranial hemorrhage, mass effect, or midline shift. Ventricles normal in size and configuration. No abnormal areas of restricted diffusion. No acute extra-axial fluid collections. Paranasal sinuses and mastoid air cells well aerated.</p>\n<p>IMPRESSION: Normal CT head examination. No acute intracranial pathology identified.</p>\n<h2>ASSESSMENT</h2>\n<ol>\n<li>Tension-type headaches - likely secondary to stress and your sleep</li>\n<li>Hypertension, Stage 1 - inadequately controlled</li>\n<li>Type 2 Diabetes Mellitus - fair control (HbA1c 6.8%)</li>\n<li>Hyperlipidemia - LDL above target</li>\n</ol>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"SEATTLE GENERAL HOSPITAL\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Department of Internal Medicine\"},{\"type\":\"paragraph\",\"text\":\"Seattle, WA 98101 | (206) 555-0100\"},{\"type\":\"section\",\"heading\":\"COMPREHENSIVE MEDICAL REPORT\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Report ID\",\"MEDRPT-2024-0347\",\"Date of Service\",\"October 26, 2024\"],\"rows\":[]}]},{\"type\":\"section\",\"heading\":\"PATIENT INFORMATION\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Field\",\"Value\"],\"rows\":[[\"Patient Name\",\"Jonathan Michael Harrison\"],[\"Date of Birth\",\"March 15, 1978\"],[\"Patient ID\",\"PAT-3847-2024\"],[\"Attending Physician\",\"Dr. Elizabeth Warren, MD\"],[\"Primary Physician\",\"Dr. Elizabeth Warren, MD\"],[\"Insurance\",\"BlueCross BlueShield\"],[\"Member ID\",\"BCB-445782\"]]}]},{\"type\":\"section\",\"heading\":\"VITAL SIGNS\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Measurement\",\"Value\",\"Normal Range\",\"Status\"],\"rows\":[[\"Blood Pressure\",\"142/88\",\"100-140 mmHg\",\"ELEVATED\"],[\"Heart Rate\",\"92 bpm\",\"60-100 bpm\",\"NORMAL\"],[\"Temperature\",\"98.6°F\",\"97.0-98.9°F\",\"NORMAL\"],[\"Respiratory Rate\",\"18 breaths/min\",\"12-20 breaths/min\",\"NORMAL\"],[\"O2 Saturation\",\"98%\",\"95-100%\",\"NORMAL\"]]}]},{\"type\":\"section\",\"heading\":\"CHIEF COMPLAINT\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Patient presents with persistent headaches occurring 3-4 times per week for the past 6 weeks, rated 6-7/10 in severity. Associated symptoms include occasional dizziness, mild nausea, and sensitivity to light. Patient reports increased stress at work and difficulty sleeping. No history of migraines. Blood pressure slightly elevated today.\"}]},{\"type\":\"section\",\"heading\":\"MEDICAL HISTORY\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"Hypertension (diagnosed 2019) - controlled with Lisinopril 10mg daily\",\"Type 2 Diabetes (diagnosed 2021) - managed with Metformin 500mg twice daily\",\"Appendectomy (2005) - no complications\",\"No known drug allergies\",\"Family history: Father - heart disease, Mother - diabetes\"]}]},{\"type\":\"section\",\"heading\":\"CURRENT MEDICATIONS\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":true,\"items\":[\"Lisinopril 10mg - once daily for hypertension\",\"Metformin 500mg - twice daily for diabetes\",\"Aspirin 81mg - once daily for cardiovascular protection\",\"Vitamin D3 2000 IU - once daily\"]}]},{\"type\":\"section\",\"heading\":\"PHYSICAL EXAMINATION\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"General: alert and oriented, no acute distress\",\"HEENT: Normocephalic, pupils equal and reactive, no exophthalmos\",\"Neck: Supple, no thyromegaly, no cervical lymphadenopathy\",\"Cardiovascular: Regular rate and rhythm, no murmurs or gallops\",\"Pulmonary: Clear to auscultation bilaterally, no wheezes or rales\",\"Abdomen: Soft, non-tender, normoactive bowel sounds\",\"Neurological: Cranial nerves II-XII intact, normal strength and sensation\",\"Extremities: No edema, erythema, or clubbing\"]}]},{\"type\":\"section\",\"heading\":\"LABORATORY RESULTS\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Test\",\"Result\",\"Reference Range\",\"Flag\"],\"rows\":[[\"Glucose Fasting\",\"118 mg/dL\",\"70-100 mg/dL\",\"HIGH\"],[\"HbA1c\",\"6.8%\",\"<5.7%\",\"HIGH\"],[\"Total Cholesterol\",\"210 mg/dL\",\"<200 mg/dL\",\"HIGH\"],[\"Triglycerides\",\"165 mg/dL\",\"<150 mg/dL\",\"HIGH\"],[\"HDL Cholesterol\",\"48 mg/dL\",\">40 mg/dL\",\"\"],[\"LDL Cholesterol\",\"135 mg/dL\",\"<100 mg/dL\",\"HIGH\"],[\"TSH\",\"2.1 mIU/L\",\"0.4-4.0 mIU/L\",\"\"],[\"eGFR\",\"82 mL/min\",\">60 mL/min\",\"\"],[\"Creatinine\",\"0.9 mg/dL\",\"0.6-1.2 mg/dL\",\"\"],[\"Hemoglobin\",\"14.2 g/dL\",\"13.5-17.5 g/dL\",\"\"],[\"WBC\",\"7.2K/uL\",\"4.5K-11.0K uL\",\"\"],[\"Platelets\",\"250 K/uL\",\"150-400 K/uL\",\"\"]]}]},{\"type\":\"section\",\"heading\":\"IMAGING STUDIES\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"CT Head without Contrast (12/20/2024): FINDINGS: No acute intracranial hemorrhage, mass effect, or midline shift. Ventricles normal in size and configuration. No abnormal areas of restricted diffusion. No acute extra-axial fluid collections. Paranasal sinuses and mastoid air cells well aerated.\"},{\"type\":\"paragraph\",\"text\":\"IMPRESSION: Normal CT head examination. No acute intracranial pathology identified.\"}]},{\"type\":\"section\",\"heading\":\"ASSESSMENT\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":true,\"items\":[\"Tension-type headaches - likely secondary to stress and your sleep\",\"Hypertension, Stage 1 - inadequately controlled\",\"Type 2 Diabetes Mellitus - fair control (HbA1c 6.8%)\",\"Hyperlipidemia - LDL above target\"]}]}]}]}",
+    "markdown": "# SEATTLE GENERAL HOSPITAL\n\nDepartment of Internal Medicine\n\nSeattle, WA 98101 | (206) 555-0100\n\n## COMPREHENSIVE MEDICAL REPORT\n\n| Report ID | MEDRPT-2024-0347 | Date of Service | October 26, 2024 |\n| --- | --- | --- | --- |\n\n## PATIENT INFORMATION\n\n| Field | Value |\n| --- | --- |\n| Patient Name | Jonathan Michael Harrison |\n| Date of Birth | March 15, 1978 |\n| Patient ID | PAT-3847-2024 |\n| Attending Physician | Dr. Elizabeth Warren, MD |\n| Primary Physician | Dr. Elizabeth Warren, MD |\n| Insurance | BlueCross BlueShield |\n| Member ID | BCB-445782 |\n\n## VITAL SIGNS\n\n| Measurement | Value | Normal Range | Status |\n| --- | --- | --- | --- |\n| Blood Pressure | 142/88 | 100-140 mmHg | ELEVATED |\n| Heart Rate | 92 bpm | 60-100 bpm | NORMAL |\n| Temperature | 98.6°F | 97.0-98.9°F | NORMAL |\n| Respiratory Rate | 18 breaths/min | 12-20 breaths/min | NORMAL |\n| O2 Saturation | 98% | 95-100% | NORMAL |\n\n## CHIEF COMPLAINT\n\nPatient presents with persistent headaches occurring 3-4 times per week for the past 6 weeks, rated 6-7/10 in severity. Associated symptoms include occasional dizziness, mild nausea, and sensitivity to light. Patient reports increased stress at work and difficulty sleeping. No history of migraines. Blood pressure slightly elevated today.\n\n## MEDICAL HISTORY\n\n- Hypertension (diagnosed 2019) - controlled with Lisinopril 10mg daily\n- Type 2 Diabetes (diagnosed 2021) - managed with Metformin 500mg twice daily\n- Appendectomy (2005) - no complications\n- No known drug allergies\n- Family history: Father - heart disease, Mother - diabetes\n\n## CURRENT MEDICATIONS\n\n1. Lisinopril 10mg - once daily for hypertension\n2. Metformin 500mg - twice daily for diabetes\n3. Aspirin 81mg - once daily for cardiovascular protection\n4. Vitamin D3 2000 IU - once daily\n\n## PHYSICAL EXAMINATION\n\n- General: alert and oriented, no acute distress\n- HEENT: Normocephalic, pupils equal and reactive, no exophthalmos\n- Neck: Supple, no thyromegaly, no cervical lymphadenopathy\n- Cardiovascular: Regular rate and rhythm, no murmurs or gallops\n- Pulmonary: Clear to auscultation bilaterally, no wheezes or rales\n- Abdomen: Soft, non-tender, normoactive bowel sounds\n- Neurological: Cranial nerves II-XII intact, normal strength and sensation\n- Extremities: No edema, erythema, or clubbing\n\n## LABORATORY RESULTS\n\n| Test | Result | Reference Range | Flag |\n| --- | --- | --- | --- |\n| Glucose Fasting | 118 mg/dL | 70-100 mg/dL | HIGH |\n| HbA1c | 6.8% | \\<5.7% | HIGH |\n| Total Cholesterol | 210 mg/dL | \\<200 mg/dL | HIGH |\n| Triglycerides | 165 mg/dL | \\<150 mg/dL | HIGH |\n| HDL Cholesterol | 48 mg/dL | \\>40 mg/dL |  |\n| LDL Cholesterol | 135 mg/dL | \\<100 mg/dL | HIGH |\n| TSH | 2.1 mIU/L | 0.4-4.0 mIU/L |  |\n| eGFR | 82 mL/min | \\>60 mL/min |  |\n| Creatinine | 0.9 mg/dL | 0.6-1.2 mg/dL |  |\n| Hemoglobin | 14.2 g/dL | 13.5-17.5 g/dL |  |\n| WBC | 7.2K/uL | 4.5K-11.0K uL |  |\n| Platelets | 250 K/uL | 150-400 K/uL |  |\n\n## IMAGING STUDIES\n\nCT Head without Contrast (12/20/2024): FINDINGS: No acute intracranial hemorrhage, mass effect, or midline shift. Ventricles normal in size and configuration. No abnormal areas of restricted diffusion. No acute extra-axial fluid collections. Paranasal sinuses and mastoid air cells well aerated.\n\nIMPRESSION: Normal CT head examination. No acute intracranial pathology identified.\n\n## ASSESSMENT\n\n1. Tension-type headaches - likely secondary to stress and your sleep\n2. Hypertension, Stage 1 - inadequately controlled\n3. Type 2 Diabetes Mellitus - fair control (HbA1c 6.8%)\n4. Hyperlipidemia - LDL above target\n",
+    "plain": "SEATTLE GENERAL HOSPITAL\nDepartment of Internal Medicine\n\nSeattle, WA 98101 | (206) 555-0100\n\n  COMPREHENSIVE MEDICAL REPORT\nReport ID MEDRPT-2024-0347 Date of Service October 26, 2024\n\n  PATIENT INFORMATION\nField Value\nPatient Name Jonathan Michael Harrison\nDate of Birth March 15, 1978\nPatient ID PAT-3847-2024\nAttending Physician Dr. Elizabeth Warren, MD\nPrimary Physician Dr. Elizabeth Warren, MD\nInsurance BlueCross BlueShield\nMember ID BCB-445782\n\n  VITAL SIGNS\nMeasurement Value Normal Range Status\nBlood Pressure 142/88 100-140 mmHg ELEVATED\nHeart Rate 92 bpm 60-100 bpm NORMAL\nTemperature 98.6°F 97.0-98.9°F NORMAL\nRespiratory Rate 18 breaths/min 12-20 breaths/min NORMAL\nO2 Saturation 98% 95-100% NORMAL\n\n  CHIEF COMPLAINT\nPatient presents with persistent headaches occurring 3-4 times per week for the past 6 weeks, rated 6-7/10 in severity. Associated symptoms include occasional dizziness, mild nausea, and sensitivity to light. Patient reports increased stress at work and difficulty sleeping. No history of migraines. Blood pressure slightly elevated today.\n\n  MEDICAL HISTORY\nHypertension (diagnosed 2019) - controlled with Lisinopril 10mg daily\nType 2 Diabetes (diagnosed 2021) - managed with Metformin 500mg twice daily\nAppendectomy (2005) - no complications\nNo known drug allergies\nFamily history: Father - heart disease, Mother - diabetes\n\n  CURRENT MEDICATIONS\nLisinopril 10mg - once daily for hypertension\nMetformin 500mg - twice daily for diabetes\nAspirin 81mg - once daily for cardiovascular protection\nVitamin D3 2000 IU - once daily\n\n  PHYSICAL EXAMINATION\nGeneral: alert and oriented, no acute distress\nHEENT: Normocephalic, pupils equal and reactive, no exophthalmos\nNeck: Supple, no thyromegaly, no cervical lymphadenopathy\nCardiovascular: Regular rate and rhythm, no murmurs or gallops\nPulmonary: Clear to auscultation bilaterally, no wheezes or rales\nAbdomen: Soft, non-tender, normoactive bowel sounds\nNeurological: Cranial nerves II-XII intact, normal strength and sensation\nExtremities: No edema, erythema, or clubbing\n\n  LABORATORY RESULTS\nTest Result Reference Range Flag\nGlucose Fasting 118 mg/dL 70-100 mg/dL HIGH\nHbA1c 6.8% <5.7% HIGH\nTotal Cholesterol 210 mg/dL <200 mg/dL HIGH\nTriglycerides 165 mg/dL <150 mg/dL HIGH\nHDL Cholesterol 48 mg/dL >40 mg/dL \nLDL Cholesterol 135 mg/dL <100 mg/dL HIGH\nTSH 2.1 mIU/L 0.4-4.0 mIU/L \neGFR 82 mL/min >60 mL/min \nCreatinine 0.9 mg/dL 0.6-1.2 mg/dL \nHemoglobin 14.2 g/dL 13.5-17.5 g/dL \nWBC 7.2K/uL 4.5K-11.0K uL \nPlatelets 250 K/uL 150-400 K/uL \n\n  IMAGING STUDIES\nCT Head without Contrast (12/20/2024): FINDINGS: No acute intracranial hemorrhage, mass effect, or midline shift. Ventricles normal in size and configuration. No abnormal areas of restricted diffusion. No acute extra-axial fluid collections. Paranasal sinuses and mastoid air cells well aerated.\n\nIMPRESSION: Normal CT head examination. No acute intracranial pathology identified.\n\n  ASSESSMENT\nTension-type headaches - likely secondary to stress and your sleep\nHypertension, Stage 1 - inadequately controlled\nType 2 Diabetes Mellitus - fair control (HbA1c 6.8%)\nHyperlipidemia - LDL above target"
+  }
+}

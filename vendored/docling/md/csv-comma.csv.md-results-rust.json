@@ -1,0 +1,113 @@
+{
+  "file": "vendored/docling/md/csv-comma.csv.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/docling/md/csv-comma.csv.md",
+      "source_kind": "uri",
+      "final_uri": "vendored/docling/md/csv-comma.csv.md",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Index",
+          "Customer Id",
+          "First Name",
+          "Last Name",
+          "Company",
+          "City",
+          "Country",
+          "Phone 1",
+          "Phone 2",
+          "Email",
+          "Subscription Date",
+          "Website"
+        ],
+        [
+          "1",
+          "DD37Cf93aecA6Dc",
+          "Sheryl",
+          "Baxter",
+          "Rasmussen Group",
+          "East Leonard",
+          "Chile",
+          "229.077.5154",
+          "397.884.0519x718",
+          "zunigavanessa@smith.info",
+          "2020-08-24",
+          "http://www.stephenson.com/"
+        ],
+        [
+          "2",
+          "1Ef7b82A4CAAD10",
+          "Preston",
+          "Lozano, Dr",
+          "Vega-Gentry",
+          "East Jimmychester",
+          "Djibouti",
+          "5153435776",
+          "686-620-1820x944",
+          "vmata@colon.com",
+          "2021-04-23",
+          "http://www.hobbs.com/"
+        ],
+        [
+          "3",
+          "6F94879bDAfE5a6",
+          "Roy",
+          "Berry",
+          "Murillo-Perry",
+          "Isabelborough",
+          "Antigua and Barbuda",
+          "+1-539-402-0259",
+          "(496)978-3969x58947",
+          "beckycarr@hogan.com",
+          "2020-03-25",
+          "http://www.lawrence.com/"
+        ],
+        [
+          "4",
+          "5Cef8BFA16c5e3c",
+          "Linda",
+          "Olsen",
+          "Dominguez, Mcmillan and Donovan",
+          "Bensonview",
+          "Dominican Republic",
+          "001-808-617-6467x12895",
+          "+1-813-324-8756",
+          "stanleyblackwell@benson.org",
+          "2020-06-02",
+          "http://www.good-lyons.com/"
+        ],
+        [
+          "5",
+          "053d585Ab6b3159",
+          "Joanna",
+          "Bender",
+          "Martin, Lang and Andrade",
+          "West Priscilla",
+          "Slovakia (Slovak Republic)",
+          "001-234-203-0635x76146",
+          "001-199-446-3860x3486",
+          "colinalvarado@miles.net",
+          "2021-04-17",
+          "https://goodwin-ingram.com/"
+        ]
+      ],
+      "markdown": "| Index | Customer Id | First Name | Last Name | Company | City | Country | Phone 1 | Phone 2 | Email | Subscription Date | Website |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | DD37Cf93aecA6Dc | Sheryl | Baxter | Rasmussen Group | East Leonard | Chile | 229.077.5154 | 397.884.0519x718 | zunigavanessa@smith.info | 2020-08-24 | http://www.stephenson.com/ |\n| 2 | 1Ef7b82A4CAAD10 | Preston | Lozano, Dr | Vega-Gentry | East Jimmychester | Djibouti | 5153435776 | 686-620-1820x944 | vmata@colon.com | 2021-04-23 | http://www.hobbs.com/ |\n| 3 | 6F94879bDAfE5a6 | Roy | Berry | Murillo-Perry | Isabelborough | Antigua and Barbuda | +1-539-402-0259 | (496)978-3969x58947 | beckycarr@hogan.com | 2020-03-25 | http://www.lawrence.com/ |\n| 4 | 5Cef8BFA16c5e3c | Linda | Olsen | Dominguez, Mcmillan and Donovan | Bensonview | Dominican Republic | 001-808-617-6467x12895 | +1-813-324-8756 | stanleyblackwell@benson.org | 2020-06-02 | http://www.good-lyons.com/ |\n| 5 | 053d585Ab6b3159 | Joanna | Bender | Martin, Lang and Andrade | West Priscilla | Slovakia (Slovak Republic) | 001-234-203-0635x76146 | 001-199-446-3860x3486 | colinalvarado@miles.net | 2021-04-17 | https://goodwin-ingram.com/ |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>Index</th>\n<th>Customer Id</th>\n<th>First Name</th>\n<th>Last Name</th>\n<th>Company</th>\n<th>City</th>\n<th>Country</th>\n<th>Phone 1</th>\n<th>Phone 2</th>\n<th>Email</th>\n<th>Subscription Date</th>\n<th>Website</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>DD37Cf93aecA6Dc</td>\n<td>Sheryl</td>\n<td>Baxter</td>\n<td>Rasmussen Group</td>\n<td>East Leonard</td>\n<td>Chile</td>\n<td>229.077.5154</td>\n<td>397.884.0519x718</td>\n<td>zunigavanessa@smith.info</td>\n<td>2020-08-24</td>\n<td>http://www.stephenson.com/</td>\n</tr>\n<tr>\n<td>2</td>\n<td>1Ef7b82A4CAAD10</td>\n<td>Preston</td>\n<td>Lozano, Dr</td>\n<td>Vega-Gentry</td>\n<td>East Jimmychester</td>\n<td>Djibouti</td>\n<td>5153435776</td>\n<td>686-620-1820x944</td>\n<td>vmata@colon.com</td>\n<td>2021-04-23</td>\n<td>http://www.hobbs.com/</td>\n</tr>\n<tr>\n<td>3</td>\n<td>6F94879bDAfE5a6</td>\n<td>Roy</td>\n<td>Berry</td>\n<td>Murillo-Perry</td>\n<td>Isabelborough</td>\n<td>Antigua and Barbuda</td>\n<td>+1-539-402-0259</td>\n<td>(496)978-3969x58947</td>\n<td>beckycarr@hogan.com</td>\n<td>2020-03-25</td>\n<td>http://www.lawrence.com/</td>\n</tr>\n<tr>\n<td>4</td>\n<td>5Cef8BFA16c5e3c</td>\n<td>Linda</td>\n<td>Olsen</td>\n<td>Dominguez, Mcmillan and Donovan</td>\n<td>Bensonview</td>\n<td>Dominican Republic</td>\n<td>001-808-617-6467x12895</td>\n<td>+1-813-324-8756</td>\n<td>stanleyblackwell@benson.org</td>\n<td>2020-06-02</td>\n<td>http://www.good-lyons.com/</td>\n</tr>\n<tr>\n<td>5</td>\n<td>053d585Ab6b3159</td>\n<td>Joanna</td>\n<td>Bender</td>\n<td>Martin, Lang and Andrade</td>\n<td>West Priscilla</td>\n<td>Slovakia (Slovak Republic)</td>\n<td>001-234-203-0635x76146</td>\n<td>001-199-446-3860x3486</td>\n<td>colinalvarado@miles.net</td>\n<td>2021-04-17</td>\n<td>https://goodwin-ingram.com/</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"Index\",\"Customer Id\",\"First Name\",\"Last Name\",\"Company\",\"City\",\"Country\",\"Phone 1\",\"Phone 2\",\"Email\",\"Subscription Date\",\"Website\"],\"rows\":[[\"1\",\"DD37Cf93aecA6Dc\",\"Sheryl\",\"Baxter\",\"Rasmussen Group\",\"East Leonard\",\"Chile\",\"229.077.5154\",\"397.884.0519x718\",\"zunigavanessa@smith.info\",\"2020-08-24\",\"http://www.stephenson.com/\"],[\"2\",\"1Ef7b82A4CAAD10\",\"Preston\",\"Lozano, Dr\",\"Vega-Gentry\",\"East Jimmychester\",\"Djibouti\",\"5153435776\",\"686-620-1820x944\",\"vmata@colon.com\",\"2021-04-23\",\"http://www.hobbs.com/\"],[\"3\",\"6F94879bDAfE5a6\",\"Roy\",\"Berry\",\"Murillo-Perry\",\"Isabelborough\",\"Antigua and Barbuda\",\"+1-539-402-0259\",\"(496)978-3969x58947\",\"beckycarr@hogan.com\",\"2020-03-25\",\"http://www.lawrence.com/\"],[\"4\",\"5Cef8BFA16c5e3c\",\"Linda\",\"Olsen\",\"Dominguez, Mcmillan and Donovan\",\"Bensonview\",\"Dominican Republic\",\"001-808-617-6467x12895\",\"+1-813-324-8756\",\"stanleyblackwell@benson.org\",\"2020-06-02\",\"http://www.good-lyons.com/\"],[\"5\",\"053d585Ab6b3159\",\"Joanna\",\"Bender\",\"Martin, Lang and Andrade\",\"West Priscilla\",\"Slovakia (Slovak Republic)\",\"001-234-203-0635x76146\",\"001-199-446-3860x3486\",\"colinalvarado@miles.net\",\"2021-04-17\",\"https://goodwin-ingram.com/\"]]}]}",
+    "markdown": "| Index | Customer Id | First Name | Last Name | Company | City | Country | Phone 1 | Phone 2 | Email | Subscription Date | Website |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | DD37Cf93aecA6Dc | Sheryl | Baxter | Rasmussen Group | East Leonard | Chile | 229.077.5154 | 397.884.0519x718 | zunigavanessa@smith.info | 2020-08-24 | http://www.stephenson.com/ |\n| 2 | 1Ef7b82A4CAAD10 | Preston | Lozano, Dr | Vega-Gentry | East Jimmychester | Djibouti | 5153435776 | 686-620-1820x944 | vmata@colon.com | 2021-04-23 | http://www.hobbs.com/ |\n| 3 | 6F94879bDAfE5a6 | Roy | Berry | Murillo-Perry | Isabelborough | Antigua and Barbuda | +1-539-402-0259 | (496)978-3969x58947 | beckycarr@hogan.com | 2020-03-25 | http://www.lawrence.com/ |\n| 4 | 5Cef8BFA16c5e3c | Linda | Olsen | Dominguez, Mcmillan and Donovan | Bensonview | Dominican Republic | 001-808-617-6467x12895 | +1-813-324-8756 | stanleyblackwell@benson.org | 2020-06-02 | http://www.good-lyons.com/ |\n| 5 | 053d585Ab6b3159 | Joanna | Bender | Martin, Lang and Andrade | West Priscilla | Slovakia (Slovak Republic) | 001-234-203-0635x76146 | 001-199-446-3860x3486 | colinalvarado@miles.net | 2021-04-17 | https://goodwin-ingram.com/ |\n",
+    "plain": "Index Customer Id First Name Last Name Company City Country Phone 1 Phone 2 Email Subscription Date Website\n1 DD37Cf93aecA6Dc Sheryl Baxter Rasmussen Group East Leonard Chile 229.077.5154 397.884.0519x718 zunigavanessa@smith.info 2020-08-24 http://www.stephenson.com/\n2 1Ef7b82A4CAAD10 Preston Lozano, Dr Vega-Gentry East Jimmychester Djibouti 5153435776 686-620-1820x944 vmata@colon.com 2021-04-23 http://www.hobbs.com/\n3 6F94879bDAfE5a6 Roy Berry Murillo-Perry Isabelborough Antigua and Barbuda +1-539-402-0259 (496)978-3969x58947 beckycarr@hogan.com 2020-03-25 http://www.lawrence.com/\n4 5Cef8BFA16c5e3c Linda Olsen Dominguez, Mcmillan and Donovan Bensonview Dominican Republic 001-808-617-6467x12895 +1-813-324-8756 stanleyblackwell@benson.org 2020-06-02 http://www.good-lyons.com/\n5 053d585Ab6b3159 Joanna Bender Martin, Lang and Andrade West Priscilla Slovakia (Slovak Republic) 001-234-203-0635x76146 001-199-446-3860x3486 colinalvarado@miles.net 2021-04-17 https://goodwin-ingram.com/"
+  }
+}

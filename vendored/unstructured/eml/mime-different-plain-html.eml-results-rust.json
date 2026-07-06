@@ -1,0 +1,36 @@
+{
+  "file": "vendored/unstructured/eml/mime-different-plain-html.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Example MIME Email",
+    "created_at": "Tue, 01 Oct 2024 12:34:56 -0500",
+    "format": {
+      "format_type": "email",
+      "from_email": "sender@example.com",
+      "to_emails": [
+        "recipient@example.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "attachments": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "content_type": "multipart/alternative; boundary=\"boundary123\"",
+      "source_index": 0,
+      "final_uri": "vendored/unstructured/eml/mime-different-plain-html.eml",
+      "mime_version": "1.0",
+      "source_uri": "vendored/unstructured/eml/mime-different-plain-html.eml",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Example MIME Email</p>\n<p><strong>From</strong>: sender@example.com</p>\n<p><strong>To</strong>: recipient@example.com</p>\n<p><strong>Date</strong>: Tue, 01 Oct 2024 12:34:56 -0500</p>\n<p>Example MIME Email</p>\n<p>This is the <code>text/html</code> part.</p>\n<p>Did you know that the first <strong>networked email</strong> was sent by Ray Tomlinson in 1971? He used the &quot;@&quot; symbol to separate the user's name from the computer name, a practice that is still in use today.</p>\n<p>Another interesting fact is that the first known instance of <em>email spam</em> occurred in 1978. A marketing message was sent to 393 recipients on ARPANET, marking the beginning of what we now know as email spam.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Example MIME Email\"},{\"type\":\"paragraph\",\"text\":\"This is the text/html part.\"},{\"type\":\"paragraph\",\"text\":\"Did you know that the first networked email was sent by Ray Tomlinson in 1971? He used the \\\"@\\\" symbol to separate the user's name from the computer name, a practice that is still in use today.\"},{\"type\":\"paragraph\",\"text\":\"Another interesting fact is that the first known instance of email spam occurred in 1978. A marketing message was sent to 393 recipients on ARPANET, marking the beginning of what we now know as email spam.\"}]}",
+    "markdown": "**Subject**: Example MIME Email\n\n**From**: sender@example.com\n\n**To**: recipient@example.com\n\n**Date**: Tue, 01 Oct 2024 12:34:56 -0500\n\nExample MIME Email\n\nThis is the `text/html` part.\n\nDid you know that the first **networked email** was sent by Ray Tomlinson in 1971? He used the \"@\" symbol to separate the user's name from the computer name, a practice that is still in use today.\n\nAnother interesting fact is that the first known instance of *email spam* occurred in 1978. A marketing message was sent to 393 recipients on ARPANET, marking the beginning of what we now know as email spam.\n",
+    "plain": "Subject: Example MIME Email\nFrom: sender@example.com\nTo: recipient@example.com\nDate: Tue, 01 Oct 2024 12:34:56 -0500\n\nExample MIME Email\n\nThis is the text/html part.\n\nDid you know that the first networked email was sent by Ray Tomlinson in 1971? He used the \"@\" symbol to separate the user's name from the computer name, a practice that is still in use today.\n\nAnother interesting fact is that the first known instance of email spam occurred in 1978. A marketing message was sent to 393 recipients on ARPANET, marking the beginning of what we now know as email spam."
+  }
+}

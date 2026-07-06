@@ -1,0 +1,60 @@
+{
+  "file": "vendored/markitdown/csv/test_mskanji.csv",
+  "mime_type": "text/csv",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "csv",
+      "row_count": 4,
+      "column_count": 3,
+      "has_header": true,
+      "column_types": [
+        "text",
+        "numeric",
+        "text"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "vendored/markitdown/csv/test_mskanji.csv",
+      "source_uri": "vendored/markitdown/csv/test_mskanji.csv",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "名前",
+          "年齢",
+          "住所"
+        ],
+        [
+          "佐藤太郎",
+          "30",
+          "東京"
+        ],
+        [
+          "三木英子",
+          "25",
+          "大阪"
+        ],
+        [
+          "髙橋淳",
+          "35",
+          "名古屋"
+        ]
+      ],
+      "markdown": "| 名前 | 年齢 | 住所 |\n| --- | --- | --- |\n| 佐藤太郎 | 30 | 東京 |\n| 三木英子 | 25 | 大阪 |\n| 髙橋淳 | 35 | 名古屋 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>Row 1: 名前: 佐藤太郎 年齢: 30 住所: 東京 Row 2: 名前: 三木英子 年齢: 25 住所: 大阪 Row 3: 名前: 髙橋淳 年齢: 35 住所: 名古屋</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Row 1:\\n名前: 佐藤太郎\\n年齢: 30\\n住所: 東京\\n\\nRow 2:\\n名前: 三木英子\\n年齢: 25\\n住所: 大阪\\n\\nRow 3:\\n名前: 髙橋淳\\n年齢: 35\\n住所: 名古屋\"}]}",
+    "markdown": "Row 1: 名前: 佐藤太郎 年齢: 30 住所: 東京 Row 2: 名前: 三木英子 年齢: 25 住所: 大阪 Row 3: 名前: 髙橋淳 年齢: 35 住所: 名古屋\n",
+    "plain": "Row 1:\n名前: 佐藤太郎\n年齢: 30\n住所: 東京\n\nRow 2:\n名前: 三木英子\n年齢: 25\n住所: 大阪\n\nRow 3:\n名前: 髙橋淳\n年齢: 35\n住所: 名古屋"
+  }
+}

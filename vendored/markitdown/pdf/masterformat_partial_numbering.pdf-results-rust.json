@@ -1,0 +1,81 @@
+{
+  "file": "vendored/markitdown/pdf/masterformat_partial_numbering.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "untitled",
+    "subject": "unspecified",
+    "authors": [
+      "anonymous"
+    ],
+    "created_at": "2026-01-08T19:25:37Z",
+    "modified_at": "2026-01-08T19:25:37Z",
+    "created_by": "ReportLab PDF Library - www.reportlab.com",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.3",
+      "producer": "ReportLab PDF Library - www.reportlab.com",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "extraction_method": "native",
+      "source_index": 0,
+      "source_uri": "vendored/markitdown/pdf/masterformat_partial_numbering.pdf",
+      "final_uri": "vendored/markitdown/pdf/masterformat_partial_numbering.pdf"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "RFP for Construction",
+          "Management",
+          "Services",
+          "",
+          "",
+          "Section 00",
+          "00 43"
+        ],
+        [
+          "Rotary Clubs of",
+          "Grande Prairie Wellness",
+          "Centre",
+          "Society",
+          "Instructions",
+          "to Respondents",
+          ""
+        ],
+        [
+          "Ken Sargent House",
+          "",
+          "",
+          "",
+          "",
+          "Page",
+          "1 of 8"
+        ]
+      ],
+      "markdown": "| RFP for Construction | Management | Services |  |  | Section 00 | 00 43 |\n| --- | --- | --- | --- | --- | --- | --- |\n| Rotary Clubs of | Grande Prairie Wellness | Centre | Society | Instructions | to Respondents |  |\n| Ken Sargent House |  |  |  |  | Page | 1 of 8 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 54.0,
+        "y0": 702.0,
+        "x1": 558.0,
+        "y1": 749.0
+      }
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>RFP for Construction</th>\n<th>Management</th>\n<th>Services</th>\n<th></th>\n<th></th>\n<th>Section 00</th>\n<th>00 43</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Rotary Clubs of</td>\n<td>Grande Prairie Wellness</td>\n<td>Centre</td>\n<td>Society</td>\n<td>Instructions</td>\n<td>to Respondents</td>\n<td></td>\n</tr>\n<tr>\n<td>Ken Sargent House</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>Page</td>\n<td>1 of 8</td>\n</tr>\n</tbody>\n</table>\n<p><strong>1. INTENT</strong> .1 The intent of this Request for Proposal (RFP) is to solicit submissions, in the format detailed in this document, from qualified Construction Managers for the following project:</p>\n<p><strong>KEN SARGENT HOUSE GRANDE PRAIRIE, ALBERTA</strong> .2 Available information relative to the project is included in Section 00 00 45 – Description of Project.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"RFP for Construction Management Services\"},{\"type\":\"paragraph\",\"text\":\"Rotary Clubs of Grande Prairie Wellness Centre Society\"},{\"type\":\"paragraph\",\"text\":\"Ken Sargent House\"},{\"type\":\"paragraph\",\"text\":\"1. INTENT\"},{\"type\":\"paragraph\",\"text\":\".1 The intent of this Request for Proposal (RFP) is to solicit submissions, in the format\"},{\"type\":\"paragraph\",\"text\":\"detailed in this document, from qualified Construction Managers for the following project:\"},{\"type\":\"paragraph\",\"text\":\"KEN SARGENT HOUSE\"},{\"type\":\"paragraph\",\"text\":\"GRANDE PRAIRIE, ALBERTA\"},{\"type\":\"paragraph\",\"text\":\".2 Available information relative to the project is included in Section 00 00 45 – Description\"},{\"type\":\"paragraph\",\"text\":\"of Project.\"},{\"type\":\"paragraph\",\"text\":\"Section 00 00 43\"},{\"type\":\"paragraph\",\"text\":\"Instructions to Respondents\"},{\"type\":\"paragraph\",\"text\":\"Page 1 of 8\"},{\"type\":\"table\",\"headers\":[\"RFP for Construction\",\"Management\",\"Services\",\"\",\"\",\"Section 00\",\"00 43\"],\"rows\":[[\"Rotary Clubs of\",\"Grande Prairie Wellness\",\"Centre\",\"Society\",\"Instructions\",\"to Respondents\",\"\"],[\"Ken Sargent House\",\"\",\"\",\"\",\"\",\"Page\",\"1 of 8\"]]}]}",
+    "markdown": "| RFP for Construction | Management | Services |  |  | Section 00 | 00 43 |\n| --- | --- | --- | --- | --- | --- | --- |\n| Rotary Clubs of | Grande Prairie Wellness | Centre | Society | Instructions | to Respondents |  |\n| Ken Sargent House |  |  |  |  | Page | 1 of 8 |\n\n**1. INTENT** .1 The intent of this Request for Proposal (RFP) is to solicit submissions, in the format detailed in this document, from qualified Construction Managers for the following project:\n\n**KEN SARGENT HOUSE GRANDE PRAIRIE, ALBERTA** .2 Available information relative to the project is included in Section 00 00 45 – Description of Project.\n",
+    "plain": "RFP for Construction Management Services\n\nRotary Clubs of Grande Prairie Wellness Centre Society\n\nKen Sargent House\n\n1. INTENT\n\n.1 The intent of this Request for Proposal (RFP) is to solicit submissions, in the format\n\ndetailed in this document, from qualified Construction Managers for the following project:\n\nKEN SARGENT HOUSE\n\nGRANDE PRAIRIE, ALBERTA\n\n.2 Available information relative to the project is included in Section 00 00 45 – Description\n\nof Project.\n\nSection 00 00 43\n\nInstructions to Respondents\n\nPage 1 of 8\n\nRFP for Construction Management Services   Section 00 00 43\nRotary Clubs of Grande Prairie Wellness Centre Society Instructions to Respondents \nKen Sargent House     Page 1 of 8"
+  }
+}

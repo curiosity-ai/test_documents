@@ -1,0 +1,83 @@
+{
+  "file": "vendored/docling/docx/list_after_num_headers.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "success": true,
+  "metadata": {
+    "language": "en-US",
+    "created_at": "2025-08-22T02:11:00Z",
+    "modified_at": "2025-09-11T15:34:09Z",
+    "format": {
+      "format_type": "docx",
+      "core_properties": {
+        "title": null,
+        "subject": null,
+        "creator": null,
+        "keywords": null,
+        "description": null,
+        "last_modified_by": null,
+        "revision": "11",
+        "created": "2025-08-22T02:11:00Z",
+        "modified": "2025-09-11T15:34:09Z",
+        "category": null,
+        "content_status": null,
+        "language": "en-US",
+        "identifier": null,
+        "version": null,
+        "last_printed": null
+      },
+      "app_properties": {
+        "application": "LibreOffice/25.2.2.2$Linux_X86_64 LibreOffice_project/520$Build-2",
+        "app_version": "15.0000",
+        "template": "Normal",
+        "total_time": 291,
+        "pages": 1,
+        "words": 47,
+        "characters": 112,
+        "characters_with_spaces": 134,
+        "lines": null,
+        "paragraphs": 22,
+        "company": null,
+        "doc_security": null,
+        "scale_crop": null,
+        "links_up_to_date": null,
+        "shared_doc": null,
+        "hyperlinks_changed": null
+      },
+      "custom_properties": {
+        "Producer": "3-Heights(TM) PDF Security Shell 4.8.25.2 (http://www.pdf-tools.com)",
+        "Creator": "Adobe InDesign 20.0 (Windows)",
+        "ContentTypeId": "0x010100DFE2A2BFDC6E594A9251CA1C67C88DB9",
+        "LastSaved": "2025-08-22T00:00:00Z",
+        "Created": "2025-06-18T00:00:00Z"
+      }
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "custom_Producer": "3-Heights(TM) PDF Security Shell 4.8.25.2 (http://www.pdf-tools.com)",
+      "source_uri": "vendored/docling/docx/list_after_num_headers.docx",
+      "final_uri": "vendored/docling/docx/list_after_num_headers.docx",
+      "total_editing_time_minutes": 291,
+      "custom_ContentTypeId": "0x010100DFE2A2BFDC6E594A9251CA1C67C88DB9",
+      "character_count": 112,
+      "source_kind": "uri",
+      "custom_Created": "2025-06-18T00:00:00Z",
+      "custom_Creator": "Adobe InDesign 20.0 (Windows)",
+      "application": "LibreOffice/25.2.2.2$Linux_X86_64 LibreOffice_project/520$Build-2",
+      "revision": "11",
+      "paragraph_count": 22,
+      "template": "Normal",
+      "page_count": 1,
+      "custom_LastSaved": "2025-08-22T00:00:00Z",
+      "word_count": 47,
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Chính sách bảo hành</h2>\n<h3>ĐỐI TƯỢNG ÁP DỤNG</h3>\n<ul>\n<li>Chính sách bảo hành và các điều k</li>\n<li>Pin điện áp cao (sau đây gọi tắt là “</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Chính sách bảo hành\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"ĐỐI TƯỢNG ÁP DỤNG\",\"level\":3,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"Chính sách bảo hành và các điều k\",\"Pin điện áp cao (sau đây gọi tắt là “\"]}]}]}]}",
+    "markdown": "## Chính sách bảo hành\n\n### ĐỐI TƯỢNG ÁP DỤNG\n\n- Chính sách bảo hành và các điều k\n- Pin điện áp cao (sau đây gọi tắt là “\n",
+    "plain": "  Chính sách bảo hành\n    ĐỐI TƯỢNG ÁP DỤNG\nChính sách bảo hành và các điều k\nPin điện áp cao (sau đây gọi tắt là “"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pptx/powerpoint_issue_2663.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/pptx/powerpoint_issue_2663.md",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/pptx/powerpoint_issue_2663.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Open-Source Software</h2>\n<p>Key Benefits:</p>\n<p>Open-source software is cost-effective as it eliminates license fees, reducing overall expenses.</p>\n<p>Ehnhances security and transparency by allowing public access to source code</p>\n<p>Strong global community improves and maintains open-source projects.</p>\n<p>Offers flexibility, allowing users to customize and adapt the software</p>\n<p>Considerations When Using Open-Source Software:</p>\n<p>Open-source projects often rely on community support, which may not be as reliable as dedicated customer service.</p>\n<p>Some open-source solutions may require advanced technical expertise for implementation and maintenance.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Open-Source Software\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Key Benefits:\"},{\"type\":\"paragraph\",\"text\":\"Open-source software is cost-effective as it eliminates license fees, reducing overall expenses.\"},{\"type\":\"paragraph\",\"text\":\"Ehnhances security and transparency by allowing public access to source code\"},{\"type\":\"paragraph\",\"text\":\"Strong global community improves and maintains open-source projects.\"},{\"type\":\"paragraph\",\"text\":\"Offers flexibility, allowing users to customize and adapt the software\"},{\"type\":\"paragraph\",\"text\":\"Considerations When Using Open-Source Software:\"},{\"type\":\"paragraph\",\"text\":\"Open-source projects often rely on community support, which may not be as reliable as dedicated customer service.\"},{\"type\":\"paragraph\",\"text\":\"Some open-source solutions may require advanced technical expertise for implementation and maintenance.\"}]}]}",
+    "markdown": "## Open-Source Software\n\nKey Benefits:\n\nOpen-source software is cost-effective as it eliminates license fees, reducing overall expenses.\n\nEhnhances security and transparency by allowing public access to source code\n\nStrong global community improves and maintains open-source projects.\n\nOffers flexibility, allowing users to customize and adapt the software\n\nConsiderations When Using Open-Source Software:\n\nOpen-source projects often rely on community support, which may not be as reliable as dedicated customer service.\n\nSome open-source solutions may require advanced technical expertise for implementation and maintenance.\n",
+    "plain": "  Open-Source Software\nKey Benefits:\n\nOpen-source software is cost-effective as it eliminates license fees, reducing overall expenses.\n\nEhnhances security and transparency by allowing public access to source code\n\nStrong global community improves and maintains open-source projects.\n\nOffers flexibility, allowing users to customize and adapt the software\n\nConsiderations When Using Open-Source Software:\n\nOpen-source projects often rely on community support, which may not be as reliable as dedicated customer service.\n\nSome open-source solutions may require advanced technical expertise for implementation and maintenance."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/bmp/image_bmp.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 2,
+      "character_count": 11
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/bmp/image_bmp.txt",
+      "final_uri": "ground_truth/bmp/image_bmp.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Hello World</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Hello World\"}]}",
+    "markdown": "Hello World\n",
+    "plain": "Hello World"
+  }
+}

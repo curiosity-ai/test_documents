@@ -1,0 +1,38 @@
+{
+  "file": "vendored/pdfplumber/pdf/image_structure.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "authors": [
+      "David Huggins-Daines"
+    ],
+    "created_at": "2023-07-19T13:12:20Z",
+    "modified_at": "2023-07-19T13:12:20Z",
+    "created_by": "Microsoft Word",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.7",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 842,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/pdfplumber/pdf/image_structure.pdf",
+      "source_index": 0,
+      "final_uri": "vendored/pdfplumber/pdf/image_structure.pdf",
+      "source_kind": "uri",
+      "extraction_method": "native"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Here is an image with some attributes:</h1>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Here is an image with some attributes:\"}]}",
+    "markdown": "# Here is an image with some attributes:\n",
+    "plain": "Here is an image with some attributes:"
+  }
+}

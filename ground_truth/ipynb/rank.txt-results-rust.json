@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/ipynb/rank.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 6,
+      "word_count": 15,
+      "character_count": 123
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/ipynb/rank.txt",
+      "source_uri": "ground_truth/ipynb/rank.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>import matplotlib.pyplot as plt</p>\n<p>fig, ax = plt.subplots(figsize=(1, 1), dpi=4) ax.imshow([[0, 1], [2, 3]]);</p>\n<p>[]</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"import matplotlib.pyplot as plt\"},{\"type\":\"paragraph\",\"text\":\"fig, ax = plt.subplots(figsize=(1, 1), dpi=4)\\n    ax.imshow([[0, 1], [2, 3]]);\"},{\"type\":\"paragraph\",\"text\":\"[]\"}]}",
+    "markdown": "import matplotlib.pyplot as plt\n\nfig, ax = plt.subplots(figsize=(1, 1), dpi=4) ax.imshow([[0, 1], [2, 3]]);\n\n[]\n",
+    "plain": "import matplotlib.pyplot as plt\n\nfig, ax = plt.subplots(figsize=(1, 1), dpi=4)\n    ax.imshow([[0, 1], [2, 3]]);\n\n[]"
+  }
+}

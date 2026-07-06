@@ -1,0 +1,35 @@
+{
+  "file": "vendored/unstructured/eml/fake-encrypted.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "email",
+      "from_email": "elkins@aero.org",
+      "to_emails": [
+        "elkins@aero.org"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "attachments": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "mime_version": "1.0",
+      "source_index": 0,
+      "attachment_details": "unnamed|application/pgp-encrypted|11; unnamed|application/octet-stream|373",
+      "final_uri": "vendored/unstructured/eml/fake-encrypted.eml",
+      "source_uri": "vendored/unstructured/eml/fake-encrypted.eml",
+      "content_type": "multipart/encrypted; boundary=foo; protocol=\"application/pgp-encrypted\"",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>From</strong>: elkins@aero.org</p>\n<p><strong>To</strong>: elkins@aero.org</p>\n<p>Attachments:</p>\n<p> unnamed (11B)</p>\n<p> unnamed (373B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  unnamed (11B)\"},{\"type\":\"paragraph\",\"text\":\"  unnamed (373B)\"}]}",
+    "markdown": "**From**: elkins@aero.org\n\n**To**: elkins@aero.org\n\nAttachments:\n\n unnamed (11B)\n\n unnamed (373B)\n",
+    "plain": "From: elkins@aero.org\nTo: elkins@aero.org\n\nAttachments:\n\n  unnamed (11B)\n\n  unnamed (373B)"
+  }
+}
