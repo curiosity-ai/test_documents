@@ -1,0 +1,24 @@
+{
+  "file": "typst/metadata_pandoc_meta.json",
+  "mime_type": "application/json",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "typst/metadata_pandoc_meta.json",
+      "source_index": 0,
+      "data_format": "json",
+      "field_count": 0,
+      "final_uri": "typst/metadata_pandoc_meta.json",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>title</h1>\n<ul>\n</ul>\n<h1>author</h1>\n<ul>\n</ul>\n<h1>date</h1>\n<ul>\n</ul>\n<h1>keywords</h1>\n<ul>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"title\",\"level\":1,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[]}]},{\"type\":\"section\",\"heading\":\"author\",\"level\":1,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[]}]},{\"type\":\"section\",\"heading\":\"date\",\"level\":1,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[]}]},{\"type\":\"section\",\"heading\":\"keywords\",\"level\":1,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[]}]}]}",
+    "markdown": "# title\n\n# author\n\n# date\n\n# keywords\n",
+    "plain": "title\n\nauthor\n\ndate\n\nkeywords"
+  }
+}

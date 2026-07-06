@@ -1,0 +1,22 @@
+{
+  "file": "iwork/test.key",
+  "mime_type": "application/x-iwork-keynote-sffkey",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "iwork/test.key",
+      "source_uri": "iwork/test.key",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<hr />\n<h2>Hello World from Keynote</h2>\n",
+    "json": "{\"body\":[]}",
+    "markdown": "-----\n\n## Hello World from Keynote\n",
+    "plain": "Hello World from Keynote"
+  }
+}

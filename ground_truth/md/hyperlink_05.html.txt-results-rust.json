@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/hyperlink_05.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 11,
+      "word_count": 27,
+      "character_count": 151
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/md/hyperlink_05.html.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/md/hyperlink_05.html.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Clickable Example</p>\n<p>&lt;!-- image --&gt;</p>\n<p>This is an example caption for the image.</p>\n<p>&lt;!-- image --&gt;</p>\n<p>This is an example caption for the image.</p>\n<p>&lt;!-- image --&gt;</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Clickable Example\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"This is an example caption for the image.\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"This is an example caption for the image.\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"}]}",
+    "markdown": "Clickable Example\n\n\\<\\!-- image --\\>\n\nThis is an example caption for the image.\n\n\\<\\!-- image --\\>\n\nThis is an example caption for the image.\n\n\\<\\!-- image --\\>\n",
+    "plain": "Clickable Example\n\n<!-- image -->\n\nThis is an example caption for the image.\n\n<!-- image -->\n\nThis is an example caption for the image.\n\n<!-- image -->"
+  }
+}

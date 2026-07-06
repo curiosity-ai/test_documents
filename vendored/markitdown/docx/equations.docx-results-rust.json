@@ -1,0 +1,77 @@
+{
+  "file": "vendored/markitdown/docx/equations.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Ganhala Arachchige, Sathindu"
+    ],
+    "created_at": "2025-03-19T04:14:00Z",
+    "modified_at": "2025-03-24T21:22:00Z",
+    "created_by": "Ganhala Arachchige, Sathindu",
+    "modified_by": "Ganhala Arachchige, Sathindu",
+    "format": {
+      "format_type": "docx",
+      "core_properties": {
+        "title": null,
+        "subject": null,
+        "creator": "Ganhala Arachchige, Sathindu",
+        "keywords": null,
+        "description": null,
+        "last_modified_by": "Ganhala Arachchige, Sathindu",
+        "revision": "6",
+        "created": "2025-03-19T04:14:00Z",
+        "modified": "2025-03-24T21:22:00Z",
+        "category": null,
+        "content_status": null,
+        "language": null,
+        "identifier": null,
+        "version": null,
+        "last_printed": null
+      },
+      "app_properties": {
+        "application": "Microsoft Office Word",
+        "app_version": "16.0000",
+        "template": "Normal.dotm",
+        "total_time": 2,
+        "pages": 1,
+        "words": 27,
+        "characters": 157,
+        "characters_with_spaces": 183,
+        "lines": 1,
+        "paragraphs": 1,
+        "company": null,
+        "doc_security": 0,
+        "scale_crop": false,
+        "links_up_to_date": false,
+        "shared_doc": false,
+        "hyperlinks_changed": false
+      },
+      "custom_properties": {}
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "total_editing_time_minutes": 2,
+      "application": "Microsoft Office Word",
+      "word_count": 27,
+      "paragraph_count": 1,
+      "character_count": 157,
+      "page_count": 1,
+      "source_kind": "uri",
+      "template": "Normal.dotm",
+      "source_uri": "vendored/markitdown/docx/equations.docx",
+      "source_index": 0,
+      "revision": "6",
+      "final_uri": "vendored/markitdown/docx/equations.docx",
+      "line_count": 1
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><span data-math-style=\"display\">m=1</span></p>\n<p>For ,</p>\n<p><span data-math-style=\"display\">sin⁡\\theta =\\frac{m\\lambda }{a}=\\frac{(1)\\left(550\\times {10}^{-6} mm\\right)}{2.5 mm}=2.2\\times {10}^{-4}</span></p>\n<p><span data-math-style=\"display\">\\theta ={sin}^{-1}⁡\\left(2.2\\times {10}^{-4}\\right)=2.2\\times {10}^{-4}rad</span></p>\n<p>The angle is . </p>\n<p>From Eq. 36.1.3,</p>\n<p><span data-math-style=\"display\">\\frac{a}{\\lambda }=\\frac{m}{sin⁡\\theta }=\\frac{1}{sin⁡{45.0}^{\\circ }}=1.41.</span></p>\n",
+    "json": "{\"body\":[{\"type\":\"formula\",\"text\":\"m=1\"},{\"type\":\"paragraph\",\"text\":\"For ,\"},{\"type\":\"formula\",\"text\":\"sin⁡\\\\theta =\\\\frac{m\\\\lambda }{a}=\\\\frac{(1)\\\\left(550\\\\times {10}^{-6} mm\\\\right)}{2.5 mm}=2.2\\\\times {10}^{-4}\"},{\"type\":\"formula\",\"text\":\"\\\\theta ={sin}^{-1}⁡\\\\left(2.2\\\\times {10}^{-4}\\\\right)=2.2\\\\times {10}^{-4}rad\"},{\"type\":\"paragraph\",\"text\":\"The angle is .\\n\"},{\"type\":\"paragraph\",\"text\":\"From Eq. 36.1.3,\"},{\"type\":\"formula\",\"text\":\"\\\\frac{a}{\\\\lambda }=\\\\frac{m}{sin⁡\\\\theta }=\\\\frac{1}{sin⁡{45.0}^{\\\\circ }}=1.41.\"}]}",
+    "markdown": "$$m=1$$\n\nFor ,\n\n$$sin⁡\\theta =\\frac{m\\lambda }{a}=\\frac{(1)\\left(550\\times {10}^{-6} mm\\right)}{2.5 mm}=2.2\\times {10}^{-4}$$\n\n$$\\theta ={sin}^{-1}⁡\\left(2.2\\times {10}^{-4}\\right)=2.2\\times {10}^{-4}rad$$\n\nThe angle is . \n\nFrom Eq. 36.1.3,\n\n$$\\frac{a}{\\lambda }=\\frac{m}{sin⁡\\theta }=\\frac{1}{sin⁡{45.0}^{\\circ }}=1.41.$$\n",
+    "plain": "m=1\n\nFor ,\n\nsin⁡\\theta =\\frac{m\\lambda }{a}=\\frac{(1)\\left(550\\times {10}^{-6} mm\\right)}{2.5 mm}=2.2\\times {10}^{-4}\n\n\\theta ={sin}^{-1}⁡\\left(2.2\\times {10}^{-4}\\right)=2.2\\times {10}^{-4}rad\n\nThe angle is .\n\n\nFrom Eq. 36.1.3,\n\n\\frac{a}{\\lambda }=\\frac{m}{sin⁡\\theta }=\\frac{1}{sin⁡{45.0}^{\\circ }}=1.41."
+  }
+}

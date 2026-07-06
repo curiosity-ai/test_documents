@@ -1,0 +1,35 @@
+{
+  "file": "pdf/ocr_test_rotated_270.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2024-10-08T11:40:40Z",
+    "modified_at": "2025-03-14T09:03:37Z",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.5",
+      "producer": "macOS Version 14.6 (Build 23G80) Quartz PDFContext, AppendMode 1.1",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 842,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "pdf/ocr_test_rotated_270.pdf",
+      "source_uri": "pdf/ocr_test_rotated_270.pdf",
+      "source_index": 0,
+      "extraction_method": "native"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "",
+    "json": "{\"body\":[]}",
+    "markdown": "",
+    "plain": ""
+  }
+}

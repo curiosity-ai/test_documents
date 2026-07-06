@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/odt/inlinedCode.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/odt/inlinedCode.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/odt/inlinedCode.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Here comes <code>inlined code</code> text and <code>an another</code> one.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Here comes inlined code text and an another one.\"}]}",
+    "markdown": "Here comes `inlined code` text and `an another` one.\n",
+    "plain": "Here comes inlined code text and an another one."
+  }
+}

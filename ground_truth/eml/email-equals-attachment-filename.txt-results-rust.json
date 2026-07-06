@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/email-equals-attachment-filename.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 5,
+      "word_count": 25,
+      "character_count": 173
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/eml/email-equals-attachment-filename.txt",
+      "source_uri": "ground_truth/eml/email-equals-attachment-filename.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Odd filename example From: &quot;Test User&quot; &lt;testuser@example.com&gt; To: recipient@example.com Date: Sun, 13 Aug 2023 14:59:56 -0700 Below is an example of an odd filename</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Odd filename example\\nFrom: \\\"Test User\\\" <testuser@example.com>\\nTo: recipient@example.com\\nDate: Sun, 13 Aug 2023 14:59:56 -0700\\nBelow is an example of an odd filename\"}]}",
+    "markdown": "Subject: Odd filename example From: \"Test User\" \\<testuser@example.com\\> To: recipient@example.com Date: Sun, 13 Aug 2023 14:59:56 -0700 Below is an example of an odd filename\n",
+    "plain": "Subject: Odd filename example\nFrom: \"Test User\" <testuser@example.com>\nTo: recipient@example.com\nDate: Sun, 13 Aug 2023 14:59:56 -0700\nBelow is an example of an odd filename"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/issue-987-test.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 3,
+      "word_count": 4,
+      "character_count": 21
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/issue-987-test.txt",
+      "source_uri": "ground_truth/pdf/issue-987-test.txt",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Big Text Small Text</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Big Text\\nSmall Text\"}]}",
+    "markdown": "Big Text Small Text\n",
+    "plain": "Big Text\nSmall Text"
+  }
+}

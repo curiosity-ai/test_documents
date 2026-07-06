@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/odt/simpleTable.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 3,
+      "word_count": 7,
+      "character_count": 78
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/odt/simpleTable.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/odt/simpleTable.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>--------- -------------- Content More content --------- --------------</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"--------- --------------\\n  Content   More content\\n  --------- --------------\"}]}",
+    "markdown": "\\--------- -------------- Content More content --------- --------------\n",
+    "plain": "--------- --------------\n  Content   More content\n  --------- --------------"
+  }
+}

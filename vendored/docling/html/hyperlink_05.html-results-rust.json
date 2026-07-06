@@ -1,0 +1,106 @@
+{
+  "file": "vendored/docling/html/hyperlink_05.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "title": "Image Hyperlink and Caption Example",
+    "language": "en",
+    "format": {
+      "format_type": "html",
+      "title": "Image Hyperlink and Caption Example",
+      "keywords": [],
+      "language": "en",
+      "open_graph": {},
+      "twitter_card": {},
+      "meta_tags": {},
+      "headers": [],
+      "links": [
+        {
+          "href": "https://www.example.com",
+          "text": "![Clickable Example](https://via.placeholder.com/200x100.png?text=Clickable+Image)",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "https://www.example.com",
+          "text": "![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)",
+          "link_type": "external",
+          "rel": [],
+          "attributes": [
+            [
+              "target",
+              "_blank"
+            ]
+          ]
+        },
+        {
+          "href": "#caption",
+          "text": "caption",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        }
+      ],
+      "images": [
+        {
+          "src": "https://via.placeholder.com/200x100.png?text=Clickable+Image",
+          "alt": "Clickable Example",
+          "dimensions": null,
+          "image_type": "external",
+          "attributes": [
+            [
+              "alt",
+              "Clickable Example"
+            ]
+          ]
+        },
+        {
+          "src": "https://via.placeholder.com/250x150.png?text=Captioned+Image",
+          "alt": "Image with Caption",
+          "dimensions": null,
+          "image_type": "external",
+          "attributes": [
+            [
+              "alt",
+              "Image with Caption"
+            ]
+          ]
+        },
+        {
+          "src": "https://via.placeholder.com/250x150.png?text=Captioned+Image",
+          "alt": "Image with Caption",
+          "dimensions": null,
+          "image_type": "external",
+          "attributes": [
+            [
+              "alt",
+              "Image with Caption"
+            ]
+          ]
+        }
+      ],
+      "structured_data": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "vendored/docling/html/hyperlink_05.html",
+      "source_uri": "vendored/docling/html/hyperlink_05.html"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>![Clickable Example](https://via.placeholder.com/200x100.png?text=Clickable+Image)</p>\n<p>![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)</p>\n<p>![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"![Clickable Example](https://via.placeholder.com/200x100.png?text=Clickable+Image)\"},{\"type\":\"paragraph\",\"text\":\"![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)\"},{\"type\":\"paragraph\",\"text\":\"![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)\"}]}",
+    "markdown": "---\n\n## title: Image Hyperlink and Caption Example\n[![Clickable Example](https://via.placeholder.com/200x100.png?text=Clickable+Image)](https://www.example.com)\n\n![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)\n\n*This is an example caption for the image.*\n\n[![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)](https://www.example.com)\n\n*This is an example [caption](#caption) for the image.*\n",
+    "plain": "![Clickable Example](https://via.placeholder.com/200x100.png?text=Clickable+Image)\n\n![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)\n\n![Image with Caption](https://via.placeholder.com/250x150.png?text=Captioned+Image)"
+  }
+}

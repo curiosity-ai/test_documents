@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/csv/test_mskanji.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 5,
+      "word_count": 15,
+      "character_count": 151
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/csv/test_mskanji.txt",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/csv/test_mskanji.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>¼O Nî Z ------ ---- ----- ²¡¾Y 30  OØpq 25 åã îà´~ 35 ¼Ã®</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"¼O     Nî   Z\\n  ------ ---- -----\\n  ²¡¾Y   30   \\n  OØpq   25   åã\\n  îà´~   35   ¼Ã®\"}]}",
+    "markdown": "¼O Nî Z ------ ---- ----- ²¡¾Y 30  OØpq 25 åã îà´\\~ 35 ¼Ã®\n",
+    "plain": "¼O     Nî   Z\n  ------ ---- -----\n  ²¡¾Y   30   \n  OØpq   25   åã\n  îà´~   35   ¼Ã®"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "file": "vendored/docling/csv/csv-tab.csv",
+  "mime_type": "text/csv",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "csv",
+      "row_count": 6,
+      "column_count": 12,
+      "delimiter": "\t",
+      "has_header": true,
+      "column_types": [
+        "numeric",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "date",
+        "text"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "vendored/docling/csv/csv-tab.csv",
+      "source_index": 0,
+      "final_uri": "vendored/docling/csv/csv-tab.csv"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Index",
+          "Customer Id",
+          "First Name",
+          "Last Name",
+          "Company",
+          "City",
+          "Country",
+          "Phone 1",
+          "Phone 2",
+          "Email",
+          "Subscription Date",
+          "Website"
+        ],
+        [
+          "1",
+          "DD37Cf93aecA6Dc",
+          "Sheryl",
+          "Baxter",
+          "Rasmussen Group",
+          "East Leonard",
+          "Chile",
+          "229.077.5154",
+          "397.884.0519x718",
+          "zunigavanessa@smith.info",
+          "2020-08-24",
+          "http://www.stephenson.com/"
+        ],
+        [
+          "2",
+          "1Ef7b82A4CAAD10",
+          "Preston",
+          "Lozano",
+          "Vega-Gentry",
+          "East Jimmychester",
+          "Djibouti",
+          "5153435776",
+          "686-620-1820x944",
+          "vmata@colon.com",
+          "2021-04-23",
+          "http://www.hobbs.com/"
+        ],
+        [
+          "3",
+          "6F94879bDAfE5a6",
+          "Roy",
+          "Berry",
+          "Murillo-Perry",
+          "Isabelborough",
+          "Antigua and Barbuda",
+          "+1-539-402-0259",
+          "(496)978-3969x58947",
+          "beckycarr@hogan.com",
+          "2020-03-25",
+          "http://www.lawrence.com/"
+        ],
+        [
+          "4",
+          "5Cef8BFA16c5e3c",
+          "Linda",
+          "Olsen",
+          "Dominguez\tMcmillan and Donovan",
+          "Bensonview",
+          "Dominican Republic",
+          "001-808-617-6467x12895",
+          "+1-813-324-8756",
+          "stanleyblackwell@benson.org",
+          "2020-06-02",
+          "http://www.good-lyons.com/"
+        ],
+        [
+          "5",
+          "053d585Ab6b3159",
+          "Joanna",
+          "Bender",
+          "Martin\tLang and Andrade",
+          "West Priscilla",
+          "Slovakia (Slovak Republic)",
+          "001-234-203-0635x76146",
+          "001-199-446-3860x3486",
+          "colinalvarado@miles.net",
+          "2021-04-17",
+          "https://goodwin-ingram.com/"
+        ]
+      ],
+      "markdown": "| Index | Customer Id | First Name | Last Name | Company | City | Country | Phone 1 | Phone 2 | Email | Subscription Date | Website |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | DD37Cf93aecA6Dc | Sheryl | Baxter | Rasmussen Group | East Leonard | Chile | 229.077.5154 | 397.884.0519x718 | zunigavanessa@smith.info | 2020-08-24 | http://www.stephenson.com/ |\n| 2 | 1Ef7b82A4CAAD10 | Preston | Lozano | Vega-Gentry | East Jimmychester | Djibouti | 5153435776 | 686-620-1820x944 | vmata@colon.com | 2021-04-23 | http://www.hobbs.com/ |\n| 3 | 6F94879bDAfE5a6 | Roy | Berry | Murillo-Perry | Isabelborough | Antigua and Barbuda | +1-539-402-0259 | (496)978-3969x58947 | beckycarr@hogan.com | 2020-03-25 | http://www.lawrence.com/ |\n| 4 | 5Cef8BFA16c5e3c | Linda | Olsen | Dominguez\tMcmillan and Donovan | Bensonview | Dominican Republic | 001-808-617-6467x12895 | +1-813-324-8756 | stanleyblackwell@benson.org | 2020-06-02 | http://www.good-lyons.com/ |\n| 5 | 053d585Ab6b3159 | Joanna | Bender | Martin\tLang and Andrade | West Priscilla | Slovakia (Slovak Republic) | 001-234-203-0635x76146 | 001-199-446-3860x3486 | colinalvarado@miles.net | 2021-04-17 | https://goodwin-ingram.com/ |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>Row 1: Index: 1 Customer Id: DD37Cf93aecA6Dc First Name: Sheryl Last Name: Baxter Company: Rasmussen Group City: East Leonard Country: Chile Phone 1: 229.077.5154 Phone 2: 397.884.0519x718 Email: zunigavanessa@smith.info Subscription Date: 2020-08-24 Website: http://www.stephenson.com/ Row 2: Index: 2 Customer Id: 1Ef7b82A4CAAD10 First Name: Preston Last Name: Lozano Company: Vega-Gentry City: East Jimmychester Country: Djibouti Phone 1: 5153435776 Phone 2: 686-620-1820x944 Email: vmata@colon.com Subscription Date: 2021-04-23 Website: http://www.hobbs.com/ Row 3: Index: 3 Customer Id: 6F94879bDAfE5a6 First Name: Roy Last Name: Berry Company: Murillo-Perry City: Isabelborough Country: Antigua and Barbuda Phone 1: +1-539-402-0259 Phone 2: (496)978-3969x58947 Email: beckycarr@hogan.com Subscription Date: 2020-03-25 Website: http://www.lawrence.com/ Row 4: Index: 4 Customer Id: 5Cef8BFA16c5e3c First Name: Linda Last Name: Olsen Company: Dominguez\tMcmillan and Donovan City: Bensonview Country: Dominican Republic Phone 1: 001-808-617-6467x12895 Phone 2: +1-813-324-8756 Email: stanleyblackwell@benson.org Subscription Date: 2020-06-02 Website: http://www.good-lyons.com/ Row 5: Index: 5 Customer Id: 053d585Ab6b3159 First Name: Joanna Last Name: Bender Company: Martin\tLang and Andrade City: West Priscilla Country: Slovakia (Slovak Republic) Phone 1: 001-234-203-0635x76146 Phone 2: 001-199-446-3860x3486 Email: colinalvarado@miles.net Subscription Date: 2021-04-17 Website: https://goodwin-ingram.com/</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Row 1:\\nIndex: 1\\nCustomer Id: DD37Cf93aecA6Dc\\nFirst Name: Sheryl\\nLast Name: Baxter\\nCompany: Rasmussen Group\\nCity: East Leonard\\nCountry: Chile\\nPhone 1: 229.077.5154\\nPhone 2: 397.884.0519x718\\nEmail: zunigavanessa@smith.info\\nSubscription Date: 2020-08-24\\nWebsite: http://www.stephenson.com/\\n\\nRow 2:\\nIndex: 2\\nCustomer Id: 1Ef7b82A4CAAD10\\nFirst Name: Preston\\nLast Name: Lozano\\nCompany: Vega-Gentry\\nCity: East Jimmychester\\nCountry: Djibouti\\nPhone 1: 5153435776\\nPhone 2: 686-620-1820x944\\nEmail: vmata@colon.com\\nSubscription Date: 2021-04-23\\nWebsite: http://www.hobbs.com/\\n\\nRow 3:\\nIndex: 3\\nCustomer Id: 6F94879bDAfE5a6\\nFirst Name: Roy\\nLast Name: Berry\\nCompany: Murillo-Perry\\nCity: Isabelborough\\nCountry: Antigua and Barbuda\\nPhone 1: +1-539-402-0259\\nPhone 2: (496)978-3969x58947\\nEmail: beckycarr@hogan.com\\nSubscription Date: 2020-03-25\\nWebsite: http://www.lawrence.com/\\n\\nRow 4:\\nIndex: 4\\nCustomer Id: 5Cef8BFA16c5e3c\\nFirst Name: Linda\\nLast Name: Olsen\\nCompany: Dominguez\\tMcmillan and Donovan\\nCity: Bensonview\\nCountry: Dominican Republic\\nPhone 1: 001-808-617-6467x12895\\nPhone 2: +1-813-324-8756\\nEmail: stanleyblackwell@benson.org\\nSubscription Date: 2020-06-02\\nWebsite: http://www.good-lyons.com/\\n\\nRow 5:\\nIndex: 5\\nCustomer Id: 053d585Ab6b3159\\nFirst Name: Joanna\\nLast Name: Bender\\nCompany: Martin\\tLang and Andrade\\nCity: West Priscilla\\nCountry: Slovakia (Slovak Republic)\\nPhone 1: 001-234-203-0635x76146\\nPhone 2: 001-199-446-3860x3486\\nEmail: colinalvarado@miles.net\\nSubscription Date: 2021-04-17\\nWebsite: https://goodwin-ingram.com/\"}]}",
+    "markdown": "Row 1: Index: 1 Customer Id: DD37Cf93aecA6Dc First Name: Sheryl Last Name: Baxter Company: Rasmussen Group City: East Leonard Country: Chile Phone 1: 229.077.5154 Phone 2: 397.884.0519x718 Email: zunigavanessa@smith.info Subscription Date: 2020-08-24 Website: http://www.stephenson.com/ Row 2: Index: 2 Customer Id: 1Ef7b82A4CAAD10 First Name: Preston Last Name: Lozano Company: Vega-Gentry City: East Jimmychester Country: Djibouti Phone 1: 5153435776 Phone 2: 686-620-1820x944 Email: vmata@colon.com Subscription Date: 2021-04-23 Website: http://www.hobbs.com/ Row 3: Index: 3 Customer Id: 6F94879bDAfE5a6 First Name: Roy Last Name: Berry Company: Murillo-Perry City: Isabelborough Country: Antigua and Barbuda Phone 1: +1-539-402-0259 Phone 2: (496)978-3969x58947 Email: beckycarr@hogan.com Subscription Date: 2020-03-25 Website: http://www.lawrence.com/ Row 4: Index: 4 Customer Id: 5Cef8BFA16c5e3c First Name: Linda Last Name: Olsen Company: Dominguez&#9;Mcmillan and Donovan City: Bensonview Country: Dominican Republic Phone 1: 001-808-617-6467x12895 Phone 2: +1-813-324-8756 Email: stanleyblackwell@benson.org Subscription Date: 2020-06-02 Website: http://www.good-lyons.com/ Row 5: Index: 5 Customer Id: 053d585Ab6b3159 First Name: Joanna Last Name: Bender Company: Martin&#9;Lang and Andrade City: West Priscilla Country: Slovakia (Slovak Republic) Phone 1: 001-234-203-0635x76146 Phone 2: 001-199-446-3860x3486 Email: colinalvarado@miles.net Subscription Date: 2021-04-17 Website: https://goodwin-ingram.com/\n",
+    "plain": "Row 1:\nIndex: 1\nCustomer Id: DD37Cf93aecA6Dc\nFirst Name: Sheryl\nLast Name: Baxter\nCompany: Rasmussen Group\nCity: East Leonard\nCountry: Chile\nPhone 1: 229.077.5154\nPhone 2: 397.884.0519x718\nEmail: zunigavanessa@smith.info\nSubscription Date: 2020-08-24\nWebsite: http://www.stephenson.com/\n\nRow 2:\nIndex: 2\nCustomer Id: 1Ef7b82A4CAAD10\nFirst Name: Preston\nLast Name: Lozano\nCompany: Vega-Gentry\nCity: East Jimmychester\nCountry: Djibouti\nPhone 1: 5153435776\nPhone 2: 686-620-1820x944\nEmail: vmata@colon.com\nSubscription Date: 2021-04-23\nWebsite: http://www.hobbs.com/\n\nRow 3:\nIndex: 3\nCustomer Id: 6F94879bDAfE5a6\nFirst Name: Roy\nLast Name: Berry\nCompany: Murillo-Perry\nCity: Isabelborough\nCountry: Antigua and Barbuda\nPhone 1: +1-539-402-0259\nPhone 2: (496)978-3969x58947\nEmail: beckycarr@hogan.com\nSubscription Date: 2020-03-25\nWebsite: http://www.lawrence.com/\n\nRow 4:\nIndex: 4\nCustomer Id: 5Cef8BFA16c5e3c\nFirst Name: Linda\nLast Name: Olsen\nCompany: Dominguez\tMcmillan and Donovan\nCity: Bensonview\nCountry: Dominican Republic\nPhone 1: 001-808-617-6467x12895\nPhone 2: +1-813-324-8756\nEmail: stanleyblackwell@benson.org\nSubscription Date: 2020-06-02\nWebsite: http://www.good-lyons.com/\n\nRow 5:\nIndex: 5\nCustomer Id: 053d585Ab6b3159\nFirst Name: Joanna\nLast Name: Bender\nCompany: Martin\tLang and Andrade\nCity: West Priscilla\nCountry: Slovakia (Slovak Republic)\nPhone 1: 001-234-203-0635x76146\nPhone 2: 001-199-446-3860x3486\nEmail: colinalvarado@miles.net\nSubscription Date: 2021-04-17\nWebsite: https://goodwin-ingram.com/"
+  }
+}

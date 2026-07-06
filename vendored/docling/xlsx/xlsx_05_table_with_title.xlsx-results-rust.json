@@ -1,0 +1,82 @@
+{
+  "file": "vendored/docling/xlsx/xlsx_05_table_with_title.xlsx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "success": true,
+  "metadata": {
+    "title": "Wild Duck Observations",
+    "language": "en-US",
+    "created_at": "2025-10-10T08:42:42Z",
+    "modified_at": "2025-11-02T16:12:02Z",
+    "format": {
+      "format_type": "excel",
+      "sheet_count": 1,
+      "sheet_names": [
+        "Duck Observations"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "sheet_count": "1",
+      "application": "LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2",
+      "organization": "IBM Research",
+      "source_uri": "vendored/docling/xlsx/xlsx_05_table_with_title.xlsx",
+      "application_version": "15.0000",
+      "sheet_names": "Duck Observations",
+      "final_uri": "vendored/docling/xlsx/xlsx_05_table_with_title.xlsx",
+      "source_kind": "uri",
+      "source_index": 0,
+      "revision": "4"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Number of freshwater ducks per year",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "Year",
+          "Freshwater Ducks"
+        ],
+        [
+          "2019",
+          "120"
+        ],
+        [
+          "2020",
+          "135"
+        ],
+        [
+          "2021",
+          "150"
+        ],
+        [
+          "2022",
+          "170"
+        ],
+        [
+          "2023",
+          "160"
+        ],
+        [
+          "2024",
+          "180"
+        ]
+      ],
+      "markdown": "| Number of freshwater ducks per year |  |\n| --- | --- |\n|  |  |\n| Year | Freshwater Ducks |\n| 2019 | 120 |\n| 2020 | 135 |\n| 2021 | 150 |\n| 2022 | 170 |\n| 2023 | 160 |\n| 2024 | 180 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h2>Duck Observations</h2>\n<table>\n<thead>\n<tr>\n<th>Number of freshwater ducks per year</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Year</td>\n<td>Freshwater Ducks</td>\n</tr>\n<tr>\n<td>2019</td>\n<td>120</td>\n</tr>\n<tr>\n<td>2020</td>\n<td>135</td>\n</tr>\n<tr>\n<td>2021</td>\n<td>150</td>\n</tr>\n<tr>\n<td>2022</td>\n<td>170</td>\n</tr>\n<tr>\n<td>2023</td>\n<td>160</td>\n</tr>\n<tr>\n<td>2024</td>\n<td>180</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Duck Observations\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Number of freshwater ducks per year\",\"\"],\"rows\":[[\"\",\"\"],[\"Year\",\"Freshwater Ducks\"],[\"2019\",\"120\"],[\"2020\",\"135\"],[\"2021\",\"150\"],[\"2022\",\"170\"],[\"2023\",\"160\"],[\"2024\",\"180\"]]}]}]}",
+    "markdown": "## Duck Observations\n\n| Number of freshwater ducks per year |  |\n| --- | --- |\n|  |  |\n| Year | Freshwater Ducks |\n| 2019 | 120 |\n| 2020 | 135 |\n| 2021 | 150 |\n| 2022 | 170 |\n| 2023 | 160 |\n| 2024 | 180 |\n",
+    "plain": "  Duck Observations\nNumber of freshwater ducks per year \n \nYear Freshwater Ducks\n2019 120\n2020 135\n2021 150\n2022 170\n2023 160\n2024 180"
+  }
+}

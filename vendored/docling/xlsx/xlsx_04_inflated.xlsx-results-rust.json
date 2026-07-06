@@ -1,0 +1,425 @@
+{
+  "file": "vendored/docling/xlsx/xlsx_04_inflated.xlsx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "success": true,
+  "metadata": {
+    "created_at": "2024-11-16T05:17:41Z",
+    "modified_at": "2025-10-20T15:30:48Z",
+    "modified_by": "Cesar Berrospi Ramis",
+    "format": {
+      "format_type": "excel",
+      "sheet_count": 4,
+      "sheet_names": [
+        "Sheet1",
+        "Sheet2",
+        "Sheet3",
+        "Sheet4"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "custom_DLPManualFileClassificationVersion": "11.10.200.16",
+      "custom_DLPManualFileClassificationLastModificationDate": "1759955100",
+      "application_version": "16.0300",
+      "custom_DLPManualFileClassificationLastModifiedBy": "GENSCRIPT\\31000928",
+      "source_index": 0,
+      "final_uri": "vendored/docling/xlsx/xlsx_04_inflated.xlsx",
+      "source_kind": "uri",
+      "worksheet_names": "Sheet1, Sheet2, Sheet3, Sheet4",
+      "sheet_names": "Sheet1, Sheet2, Sheet3, Sheet4",
+      "custom_DLPManualFileClassification": "{0C8466FD-0272-4702-BCD4-B8DA124BC687}",
+      "sheet_count": "4",
+      "source_uri": "vendored/docling/xlsx/xlsx_04_inflated.xlsx",
+      "application": "Microsoft Macintosh Excel"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "first ",
+          "second ",
+          "third"
+        ],
+        [
+          "1",
+          "5",
+          "9"
+        ],
+        [
+          "2",
+          "4",
+          "6"
+        ],
+        [
+          "3",
+          "3",
+          "3"
+        ],
+        [
+          "4",
+          "2",
+          "0"
+        ],
+        [
+          "5",
+          "1",
+          "-3"
+        ],
+        [
+          "6",
+          "0",
+          "-6"
+        ]
+      ],
+      "markdown": "| first  | second  | third |\n| --- | --- | --- |\n| 1 | 5 | 9 |\n| 2 | 4 | 6 |\n| 3 | 3 | 3 |\n| 4 | 2 | 0 |\n| 5 | 1 | -3 |\n| 6 | 0 | -6 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "col-1",
+          "col-2",
+          "col-3",
+          "col-4",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2",
+          "4",
+          "6",
+          "8",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3",
+          "6",
+          "9",
+          "12",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "4",
+          "8",
+          "12",
+          "16",
+          "",
+          "",
+          "col-1",
+          "col-2",
+          "col-3"
+        ],
+        [
+          "5",
+          "10",
+          "15",
+          "20",
+          "",
+          "",
+          "1",
+          "2",
+          "3"
+        ],
+        [
+          "6",
+          "12",
+          "18",
+          "24",
+          "",
+          "",
+          "2",
+          "4",
+          "6"
+        ],
+        [
+          "7",
+          "14",
+          "21",
+          "28",
+          "",
+          "",
+          "3",
+          "6",
+          "9"
+        ],
+        [
+          "8",
+          "16",
+          "24",
+          "32",
+          "",
+          "",
+          "4",
+          "8",
+          "12"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "col-1",
+          "col-2",
+          "col-3",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "1",
+          "2",
+          "3",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "2",
+          "4",
+          "6",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "3",
+          "6",
+          "9",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "4",
+          "8",
+          "12",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| col-1 | col-2 | col-3 | col-4 |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 |  |  |  |  |  |\n| 2 | 4 | 6 | 8 |  |  |  |  |  |\n| 3 | 6 | 9 | 12 |  |  |  |  |  |\n| 4 | 8 | 12 | 16 |  |  | col-1 | col-2 | col-3 |\n| 5 | 10 | 15 | 20 |  |  | 1 | 2 | 3 |\n| 6 | 12 | 18 | 24 |  |  | 2 | 4 | 6 |\n| 7 | 14 | 21 | 28 |  |  | 3 | 6 | 9 |\n| 8 | 16 | 24 | 32 |  |  | 4 | 8 | 12 |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  | col-1 | col-2 | col-3 |  |  |  |  |\n|  |  | 1 | 2 | 3 |  |  |  |  |\n|  |  | 2 | 4 | 6 |  |  |  |  |\n|  |  | 3 | 6 | 9 |  |  |  |  |\n|  |  | 4 | 8 | 12 |  |  |  |  |\n",
+      "page_number": 2
+    },
+    {
+      "cells": [
+        [
+          "first ",
+          "header",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "second ",
+          "third",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "2",
+          "3",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3",
+          "4",
+          "5",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "6",
+          "7",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "8",
+          "9",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "10",
+          "",
+          "",
+          "",
+          "first (f)",
+          "header (f)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "second ",
+          "third"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "1",
+          "2",
+          "3"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "4",
+          "5"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "6",
+          "7"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "8",
+          "9",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "10",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| first  | header |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  | second  | third |  |  |  |  |\n| 1 | 2 | 3 |  |  |  |  |\n| 3 | 4 | 5 |  |  |  |  |\n|  | 6 | 7 |  |  |  |  |\n| 8 | 9 |  |  |  |  |  |\n| 10 |  |  |  | first (f) | header (f) |  |\n|  |  |  |  |  | second  | third |\n|  |  |  |  | 1 | 2 | 3 |\n|  |  |  |  | 3 | 4 | 5 |\n|  |  |  |  |  | 6 | 7 |\n|  |  |  |  | 8 | 9 |  |\n|  |  |  |  | 10 |  |  |\n",
+      "page_number": 3
+    },
+    {
+      "cells": [
+        [
+          "header"
+        ],
+        [
+          "1"
+        ]
+      ],
+      "markdown": "| header |\n| --- |\n| 1 |\n",
+      "page_number": 4
+    }
+  ],
+  "content": {
+    "html": "<h2>Sheet1</h2>\n<table>\n<thead>\n<tr>\n<th>first </th>\n<th>second </th>\n<th>third</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>5</td>\n<td>9</td>\n</tr>\n<tr>\n<td>2</td>\n<td>4</td>\n<td>6</td>\n</tr>\n<tr>\n<td>3</td>\n<td>3</td>\n<td>3</td>\n</tr>\n<tr>\n<td>4</td>\n<td>2</td>\n<td>0</td>\n</tr>\n<tr>\n<td>5</td>\n<td>1</td>\n<td>-3</td>\n</tr>\n<tr>\n<td>6</td>\n<td>0</td>\n<td>-6</td>\n</tr>\n</tbody>\n</table>\n<h2>Sheet2</h2>\n<table>\n<thead>\n<tr>\n<th>col-1</th>\n<th>col-2</th>\n<th>col-3</th>\n<th>col-4</th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2</td>\n<td>4</td>\n<td>6</td>\n<td>8</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>3</td>\n<td>6</td>\n<td>9</td>\n<td>12</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>4</td>\n<td>8</td>\n<td>12</td>\n<td>16</td>\n<td></td>\n<td></td>\n<td>col-1</td>\n<td>col-2</td>\n<td>col-3</td>\n</tr>\n<tr>\n<td>5</td>\n<td>10</td>\n<td>15</td>\n<td>20</td>\n<td></td>\n<td></td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n</tr>\n<tr>\n<td>6</td>\n<td>12</td>\n<td>18</td>\n<td>24</td>\n<td></td>\n<td></td>\n<td>2</td>\n<td>4</td>\n<td>6</td>\n</tr>\n<tr>\n<td>7</td>\n<td>14</td>\n<td>21</td>\n<td>28</td>\n<td></td>\n<td></td>\n<td>3</td>\n<td>6</td>\n<td>9</td>\n</tr>\n<tr>\n<td>8</td>\n<td>16</td>\n<td>24</td>\n<td>32</td>\n<td></td>\n<td></td>\n<td>4</td>\n<td>8</td>\n<td>12</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>col-1</td>\n<td>col-2</td>\n<td>col-3</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>2</td>\n<td>4</td>\n<td>6</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>3</td>\n<td>6</td>\n<td>9</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>4</td>\n<td>8</td>\n<td>12</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2>Sheet3</h2>\n<table>\n<thead>\n<tr>\n<th>first </th>\n<th>header</th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>second </td>\n<td>third</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>6</td>\n<td>7</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>8</td>\n<td>9</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>10</td>\n<td></td>\n<td></td>\n<td></td>\n<td>first (f)</td>\n<td>header (f)</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>second </td>\n<td>third</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>6</td>\n<td>7</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>8</td>\n<td>9</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>10</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2>Sheet4</h2>\n<table>\n<thead>\n<tr>\n<th>header</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Sheet1\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"first \",\"second \",\"third\"],\"rows\":[[\"1\",\"5\",\"9\"],[\"2\",\"4\",\"6\"],[\"3\",\"3\",\"3\"],[\"4\",\"2\",\"0\"],[\"5\",\"1\",\"-3\"],[\"6\",\"0\",\"-6\"]]}]},{\"type\":\"section\",\"heading\":\"Sheet2\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"col-1\",\"col-2\",\"col-3\",\"col-4\",\"\",\"\",\"\",\"\",\"\"],\"rows\":[[\"1\",\"2\",\"3\",\"4\",\"\",\"\",\"\",\"\",\"\"],[\"2\",\"4\",\"6\",\"8\",\"\",\"\",\"\",\"\",\"\"],[\"3\",\"6\",\"9\",\"12\",\"\",\"\",\"\",\"\",\"\"],[\"4\",\"8\",\"12\",\"16\",\"\",\"\",\"col-1\",\"col-2\",\"col-3\"],[\"5\",\"10\",\"15\",\"20\",\"\",\"\",\"1\",\"2\",\"3\"],[\"6\",\"12\",\"18\",\"24\",\"\",\"\",\"2\",\"4\",\"6\"],[\"7\",\"14\",\"21\",\"28\",\"\",\"\",\"3\",\"6\",\"9\"],[\"8\",\"16\",\"24\",\"32\",\"\",\"\",\"4\",\"8\",\"12\"],[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"],[\"\",\"\",\"col-1\",\"col-2\",\"col-3\",\"\",\"\",\"\",\"\"],[\"\",\"\",\"1\",\"2\",\"3\",\"\",\"\",\"\",\"\"],[\"\",\"\",\"2\",\"4\",\"6\",\"\",\"\",\"\",\"\"],[\"\",\"\",\"3\",\"6\",\"9\",\"\",\"\",\"\",\"\"],[\"\",\"\",\"4\",\"8\",\"12\",\"\",\"\",\"\",\"\"]]}]},{\"type\":\"section\",\"heading\":\"Sheet3\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"first \",\"header\",\"\",\"\",\"\",\"\",\"\"],\"rows\":[[\"\",\"second \",\"third\",\"\",\"\",\"\",\"\"],[\"1\",\"2\",\"3\",\"\",\"\",\"\",\"\"],[\"3\",\"4\",\"5\",\"\",\"\",\"\",\"\"],[\"\",\"6\",\"7\",\"\",\"\",\"\",\"\"],[\"8\",\"9\",\"\",\"\",\"\",\"\",\"\"],[\"10\",\"\",\"\",\"\",\"first (f)\",\"header (f)\",\"\"],[\"\",\"\",\"\",\"\",\"\",\"second \",\"third\"],[\"\",\"\",\"\",\"\",\"1\",\"2\",\"3\"],[\"\",\"\",\"\",\"\",\"3\",\"4\",\"5\"],[\"\",\"\",\"\",\"\",\"\",\"6\",\"7\"],[\"\",\"\",\"\",\"\",\"8\",\"9\",\"\"],[\"\",\"\",\"\",\"\",\"10\",\"\",\"\"]]}]},{\"type\":\"section\",\"heading\":\"Sheet4\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"header\"],\"rows\":[[\"1\"]]}]}]}",
+    "markdown": "## Sheet1\n\n| first  | second  | third |\n| --- | --- | --- |\n| 1 | 5 | 9 |\n| 2 | 4 | 6 |\n| 3 | 3 | 3 |\n| 4 | 2 | 0 |\n| 5 | 1 | -3 |\n| 6 | 0 | -6 |\n\n## Sheet2\n\n| col-1 | col-2 | col-3 | col-4 |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 |  |  |  |  |  |\n| 2 | 4 | 6 | 8 |  |  |  |  |  |\n| 3 | 6 | 9 | 12 |  |  |  |  |  |\n| 4 | 8 | 12 | 16 |  |  | col-1 | col-2 | col-3 |\n| 5 | 10 | 15 | 20 |  |  | 1 | 2 | 3 |\n| 6 | 12 | 18 | 24 |  |  | 2 | 4 | 6 |\n| 7 | 14 | 21 | 28 |  |  | 3 | 6 | 9 |\n| 8 | 16 | 24 | 32 |  |  | 4 | 8 | 12 |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |\n|  |  | col-1 | col-2 | col-3 |  |  |  |  |\n|  |  | 1 | 2 | 3 |  |  |  |  |\n|  |  | 2 | 4 | 6 |  |  |  |  |\n|  |  | 3 | 6 | 9 |  |  |  |  |\n|  |  | 4 | 8 | 12 |  |  |  |  |\n\n## Sheet3\n\n| first  | header |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  | second  | third |  |  |  |  |\n| 1 | 2 | 3 |  |  |  |  |\n| 3 | 4 | 5 |  |  |  |  |\n|  | 6 | 7 |  |  |  |  |\n| 8 | 9 |  |  |  |  |  |\n| 10 |  |  |  | first (f) | header (f) |  |\n|  |  |  |  |  | second  | third |\n|  |  |  |  | 1 | 2 | 3 |\n|  |  |  |  | 3 | 4 | 5 |\n|  |  |  |  |  | 6 | 7 |\n|  |  |  |  | 8 | 9 |  |\n|  |  |  |  | 10 |  |  |\n\n## Sheet4\n\n| header |\n| --- |\n| 1 |\n",
+    "plain": "  Sheet1\nfirst  second  third\n1 5 9\n2 4 6\n3 3 3\n4 2 0\n5 1 -3\n6 0 -6\n\n  Sheet2\ncol-1 col-2 col-3 col-4     \n1 2 3 4     \n2 4 6 8     \n3 6 9 12     \n4 8 12 16   col-1 col-2 col-3\n5 10 15 20   1 2 3\n6 12 18 24   2 4 6\n7 14 21 28   3 6 9\n8 16 24 32   4 8 12\n        \n        \n        \n        \n  col-1 col-2 col-3    \n  1 2 3    \n  2 4 6    \n  3 6 9    \n  4 8 12    \n\n  Sheet3\nfirst  header     \n second  third    \n1 2 3    \n3 4 5    \n 6 7    \n8 9     \n10    first (f) header (f) \n     second  third\n    1 2 3\n    3 4 5\n     6 7\n    8 9 \n    10  \n\n  Sheet4\nheader\n1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "file": "images/bmp_24.bmp",
+  "mime_type": "image/bmp",
+  "success": false,
+  "error": "Unsupported format: image/bmp",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

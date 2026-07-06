@@ -1,0 +1,586 @@
+{
+  "file": "ground_truth/pdf/pdfa_043.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/pdf/pdfa_043.md",
+      "source_uri": "ground_truth/pdf/pdfa_043.md",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Reviews carried out by the agency",
+          "Information made publicly available by the agency"
+        ],
+        [
+          "Yes",
+          "Yes"
+        ]
+      ],
+      "markdown": "| Reviews carried out by the agency | Information made publicly available by the agency |\n| --- | --- |\n| Yes | Yes |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Total number of applications received"
+        ],
+        [
+          "5"
+        ]
+      ],
+      "markdown": "| Total number of applications received |\n| --- |\n| 5 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Number of Applications Refused",
+          "Wholly",
+          "Partly",
+          "Total"
+        ],
+        [
+          "",
+          "0",
+          "1",
+          "1"
+        ],
+        [
+          "% of Total",
+          "0%",
+          "100%",
+          ""
+        ]
+      ],
+      "markdown": "| Number of Applications Refused | Wholly | Partly | Total |\n| --- | --- | --- | --- |\n|  | 0 | 1 | 1 |\n| % of Total | 0% | 100% |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "",
+          "Access Granted in Full",
+          "Access Granted in Part",
+          "Access Refused in Full",
+          "Information not Held",
+          "Information Already Available",
+          "Refuse to Deal with Application",
+          "Refuse to Confirm/Deny whether information is held",
+          "Application Withdrawn",
+          "Total",
+          "% of Total"
+        ],
+        [
+          "Media",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0%"
+        ],
+        [
+          "Members of Parliament",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0%"
+        ],
+        [
+          "Private sector business",
+          "0",
+          "2",
+          "0",
+          "1",
+          "1",
+          "0",
+          "0",
+          "0",
+          "4",
+          "50%"
+        ],
+        [
+          "Not for profit organisations or community groups",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0%"
+        ],
+        [
+          "Members of the public (by legal representative)",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "1",
+          "13%"
+        ],
+        [
+          "Members of the public (other)",
+          "1",
+          "1",
+          "0",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0",
+          "3",
+          "38%"
+        ],
+        [
+          "Total",
+          "2",
+          "3",
+          "0",
+          "2",
+          "1",
+          "0",
+          "0",
+          "0",
+          "8",
+          ""
+        ],
+        [
+          "% of Total",
+          "25%",
+          "38%",
+          "0%",
+          "25%",
+          "13%",
+          "0%",
+          "0%",
+          "0%",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "|  | Access Granted in Full | Access Granted in Part | Access Refused in Full | Information not Held | Information Already Available | Refuse to Deal with Application | Refuse to Confirm/Deny whether information is held | Application Withdrawn | Total | % of Total |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Media | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% |\n| Members of Parliament | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% |\n| Private sector business | 0 | 2 | 0 | 1 | 1 | 0 | 0 | 0 | 4 | 50% |\n| Not for profit organisations or community groups | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% |\n| Members of the public (by legal representative) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 13% |\n| Members of the public (other) | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 3 | 38% |\n| Total | 2 | 3 | 0 | 2 | 1 | 0 | 0 | 0 | 8 |  |\n| % of Total | 25% | 38% | 0% | 25% | 13% | 0% | 0% | 0% |  |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "",
+          "Access Granted in Full",
+          "Access Granted in Part",
+          "Access Refused in Full",
+          "Information not Held",
+          "Information Already Available",
+          "Refuse to Deal with Application",
+          "Refuse to Confirm/Deny whether information is held",
+          "Application Withdrawn",
+          "Total",
+          "% of Total"
+        ],
+        [
+          "Personal information applications*",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0%"
+        ],
+        [
+          "Access applications (other than personal information applications)",
+          "2",
+          "3",
+          "0",
+          "2",
+          "1",
+          "0",
+          "0",
+          "0",
+          "8",
+          "100%"
+        ],
+        [
+          "Access applications that are partly personal information applications and partly other",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0%"
+        ],
+        [
+          "Total",
+          "2",
+          "3",
+          "0",
+          "2",
+          "1",
+          "0",
+          "0",
+          "0",
+          "8",
+          ""
+        ],
+        [
+          "% of Total",
+          "25%",
+          "38%",
+          "0%",
+          "25%",
+          "13%",
+          "0%",
+          "0%",
+          "0%",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "|  | Access Granted in Full | Access Granted in Part | Access Refused in Full | Information not Held | Information Already Available | Refuse to Deal with Application | Refuse to Confirm/Deny whether information is held | Application Withdrawn | Total | % of Total |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Personal information applications* | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% |\n| Access applications (other than personal information applications) | 2 | 3 | 0 | 2 | 1 | 0 | 0 | 0 | 8 | 100% |\n| Access applications that are partly personal information applications and partly other | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% |\n| Total | 2 | 3 | 0 | 2 | 1 | 0 | 0 | 0 | 8 |  |\n| % of Total | 25% | 38% | 0% | 25% | 13% | 0% | 0% | 0% |  |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Reason for invalidity",
+          "No of applications",
+          "% of Total"
+        ],
+        [
+          "Application does not comply with formal requirements (section 41 of the Act)",
+          "1",
+          "33%"
+        ],
+        [
+          "Application is for excluded information of the agency (section 43 of the Act)",
+          "0",
+          "0%"
+        ],
+        [
+          "Application contravenes restraint order (section 110 of the Act)",
+          "0",
+          "0%"
+        ],
+        [
+          "Total number of invalid applications received",
+          "1",
+          "33%"
+        ],
+        [
+          "Invalid applications that subsequently became valid applications",
+          "1",
+          "33%"
+        ],
+        [
+          "Total",
+          "3",
+          ""
+        ]
+      ],
+      "markdown": "| Reason for invalidity | No of applications | % of Total |\n| --- | --- | --- |\n| Application does not comply with formal requirements (section 41 of the Act) | 1 | 33% |\n| Application is for excluded information of the agency (section 43 of the Act) | 0 | 0% |\n| Application contravenes restraint order (section 110 of the Act) | 0 | 0% |\n| Total number of invalid applications received | 1 | 33% |\n| Invalid applications that subsequently became valid applications | 1 | 33% |\n| Total | 3 |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "",
+          "Number of times consideration used*",
+          "% of Total"
+        ],
+        [
+          "Overriding secrecy laws",
+          "0",
+          "0%"
+        ],
+        [
+          "Cabinet information",
+          "0",
+          "0%"
+        ],
+        [
+          "Executive Council information",
+          "0",
+          "0%"
+        ],
+        [
+          "Contempt",
+          "0",
+          "0%"
+        ],
+        [
+          "Legal professional privilege",
+          "0",
+          "0%"
+        ],
+        [
+          "Excluded information",
+          "0",
+          "0%"
+        ],
+        [
+          "Documents affecting law enforcement and public safety",
+          "0",
+          "0%"
+        ],
+        [
+          "Transport safety",
+          "0",
+          "0%"
+        ],
+        [
+          "Adoption",
+          "0",
+          "0%"
+        ],
+        [
+          "Care and protection of children",
+          "0",
+          "0%"
+        ],
+        [
+          "Ministerial code of conduct",
+          "0",
+          "0%"
+        ],
+        [
+          "Aboriginal and environmental heritage",
+          "0",
+          "0%"
+        ],
+        [
+          "Total",
+          "0",
+          ""
+        ]
+      ],
+      "markdown": "|  | Number of times consideration used* | % of Total |\n| --- | --- | --- |\n| Overriding secrecy laws | 0 | 0% |\n| Cabinet information | 0 | 0% |\n| Executive Council information | 0 | 0% |\n| Contempt | 0 | 0% |\n| Legal professional privilege | 0 | 0% |\n| Excluded information | 0 | 0% |\n| Documents affecting law enforcement and public safety | 0 | 0% |\n| Transport safety | 0 | 0% |\n| Adoption | 0 | 0% |\n| Care and protection of children | 0 | 0% |\n| Ministerial code of conduct | 0 | 0% |\n| Aboriginal and environmental heritage | 0 | 0% |\n| Total | 0 |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "",
+          "Number of times consideration used*",
+          "% of Total"
+        ],
+        [
+          "Responsible and effective government",
+          "1",
+          "33%"
+        ],
+        [
+          "Law enforcement and security",
+          "0",
+          "0%"
+        ],
+        [
+          "Individual rights, judicial processes and natural justice",
+          "0",
+          "0%"
+        ],
+        [
+          "Business interests of agencies and other persons",
+          "1",
+          "33%"
+        ],
+        [
+          "Environment, culture, economy and general matters",
+          "1",
+          "33%"
+        ],
+        [
+          "Secrecy provisions",
+          "0",
+          "0%"
+        ],
+        [
+          "Exempt documents under interstate Freedom of Information legislation",
+          "0",
+          "0%"
+        ],
+        [
+          "Total",
+          "3",
+          ""
+        ]
+      ],
+      "markdown": "|  | Number of times consideration used* | % of Total |\n| --- | --- | --- |\n| Responsible and effective government | 1 | 33% |\n| Law enforcement and security | 0 | 0% |\n| Individual rights, judicial processes and natural justice | 0 | 0% |\n| Business interests of agencies and other persons | 1 | 33% |\n| Environment, culture, economy and general matters | 1 | 33% |\n| Secrecy provisions | 0 | 0% |\n| Exempt documents under interstate Freedom of Information legislation | 0 | 0% |\n| Total | 3 |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "",
+          "Number of applications*",
+          "% of Total"
+        ],
+        [
+          "Decided within the statutory timeframe (20 days plus any extensions)",
+          "5",
+          "100%"
+        ],
+        [
+          "Decided after 35 days (by agreement with applicant)",
+          "0",
+          "0%"
+        ],
+        [
+          "Not decided within time (deemed refusal)",
+          "0",
+          "0%"
+        ],
+        [
+          "Total",
+          "5",
+          ""
+        ]
+      ],
+      "markdown": "|  | Number of applications* | % of Total |\n| --- | --- | --- |\n| Decided within the statutory timeframe (20 days plus any extensions) | 5 | 100% |\n| Decided after 35 days (by agreement with applicant) | 0 | 0% |\n| Not decided within time (deemed refusal) | 0 | 0% |\n| Total | 5 |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "",
+          "Decision varied",
+          "Decision upheld",
+          "Total",
+          "% of Total"
+        ],
+        [
+          "Internal review",
+          "0",
+          "0",
+          "0",
+          "0%"
+        ],
+        [
+          "Review by Information Commissioner*",
+          "0",
+          "0",
+          "0",
+          "0%"
+        ],
+        [
+          "Internal review following recommendation under section 93 of Act",
+          "0",
+          "0",
+          "0",
+          "0%"
+        ],
+        [
+          "Review by NCAT",
+          "0",
+          "0",
+          "0",
+          "0%"
+        ],
+        [
+          "Total",
+          "0",
+          "0",
+          "0",
+          ""
+        ],
+        [
+          "% of Total",
+          "0%",
+          "0%",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "|  | Decision varied | Decision upheld | Total | % of Total |\n| --- | --- | --- | --- | --- |\n| Internal review | 0 | 0 | 0 | 0% |\n| Review by Information Commissioner* | 0 | 0 | 0 | 0% |\n| Internal review following recommendation under section 93 of Act | 0 | 0 | 0 | 0% |\n| Review by NCAT | 0 | 0 | 0 | 0% |\n| Total | 0 | 0 | 0 |  |\n| % of Total | 0% | 0% |  |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "",
+          "Number of applications for review",
+          "% of Total"
+        ],
+        [
+          "Applications by access applicants",
+          "0",
+          "0%"
+        ],
+        [
+          "Applications by persons to whom information the subject of access application relates (see section 54 of the Act)",
+          "0",
+          "0%"
+        ],
+        [
+          "Total",
+          "0",
+          ""
+        ]
+      ],
+      "markdown": "|  | Number of applications for review | % of Total |\n| --- | --- | --- |\n| Applications by access applicants | 0 | 0% |\n| Applications by persons to whom information the subject of access application relates (see section 54 of the Act) | 0 | 0% |\n| Total | 0 |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "",
+          "Number of applications transferred",
+          "% of Total"
+        ],
+        [
+          "Agency-Initiated Transfers",
+          "1",
+          "100%"
+        ],
+        [
+          "Applicant - Initiated Transfers",
+          "0",
+          "0%"
+        ],
+        [
+          "Total",
+          "1",
+          ""
+        ]
+      ],
+      "markdown": "|  | Number of applications transferred | % of Total |\n| --- | --- | --- |\n| Agency-Initiated Transfers | 1 | 100% |\n| Applicant - Initiated Transfers | 0 | 0% |\n| Total | 1 |  |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>Government Information (Public Access) Act – Annual Report for Agency Griffith City Council</p>\n<p>Clause 7A: Details of the review carried out by the agency under section 7 (3) of the Act during the reporting year and the details of any information made publicly available by the agency as a result of the review</p>\n<table>\n<thead>\n<tr>\n<th>Reviews carried out by the agency</th>\n<th>Information made publicly available by the agency</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Yes</td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n<p>Review of information held by Council that may be of interest to the public (information that is not already released proactively). Review GIPA applications both formal and information that have been received by Council to gauge what categories of information are requested. Regular review the initiatives, developments and projects that Council feels the public would like to be informed of. During the reporting period, we reviewed this program by: Yearly review of Council’s Information Guide, endorsed by the General Manager and Senior Staff, reported to and endorsed by Council. Liaise regularly with senior management &amp; the Corporate Communications Department in relation to the release of information via the media (radio, TV &amp; newspaper), community engagement (consultation sessions, letters, media release, newsletters etc), website, &amp; Council’s social media platforms (Facebook). Review of Disclosure Log to identify patterns &amp; themes in the type of information sought. Staff consult with the Public Officer in relation to the type of information that is requested &amp; the information that can be proactively released. As a result of this review, we released the following information proactively: Main Drain J Floodplain Risk Study and Plan Griffith Regional Aquatic Centre Masterplan CBD Strategy Internal Audit Reports Crime Prevention Plan Griffith City Pound Statistics and Activities Community Services Directory Community Catchup</p>\n<p>Clause 7B: The total number of access applications received by the agency during the reporting year (including withdrawn applications but not including invalid applications)</p>\n<table>\n<thead>\n<tr>\n<th>Total number of applications received</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5</td>\n</tr>\n</tbody>\n</table>\n<p>Clause 7C: The total number of access applications received by the agency during the reporting year that the agency refused either wholly or partly, because the application was for the disclosure of information referred to in Schedule 1 to the Act (information for which there is conclusive presumption of overriding public interest against disclosure)</p>\n<table>\n<thead>\n<tr>\n<th>Number of Applications Refused</th>\n<th>Wholly</th>\n<th>Partly</th>\n<th>Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>0</td>\n<td>1</td>\n<td>1</td>\n</tr>\n<tr>\n<td>% of Total</td>\n<td>0%</td>\n<td>100%</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>By Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15</p>\n<p>Government Information (Public Access) Act – Annual Report for Agency Griffith City Council</p>\n<p>Schedule 2 Statistical information about access applications to be included in annual report</p>\n<p>Table A: Number of applications by type of applicant and outcome*</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Access Granted in Full</th>\n<th>Access Granted in Part</th>\n<th>Access Refused in Full</th>\n<th>Information not Held</th>\n<th>Information Already Available</th>\n<th>Refuse to Deal with Application</th>\n<th>Refuse to Confirm/Deny whether information is held</th>\n<th>Application Withdrawn</th>\n<th>Total</th>\n<th>% of Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Media</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Members of Parliament</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Private sector business</td>\n<td>0</td>\n<td>2</td>\n<td>0</td>\n<td>1</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>4</td>\n<td>50%</td>\n</tr>\n<tr>\n<td>Not for profit organisations or community groups</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Members of the public (by legal representative)</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>13%</td>\n</tr>\n<tr>\n<td>Members of the public (other)</td>\n<td>1</td>\n<td>1</td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>3</td>\n<td>38%</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>2</td>\n<td>3</td>\n<td>0</td>\n<td>2</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>8</td>\n<td></td>\n</tr>\n<tr>\n<td>% of Total</td>\n<td>25%</td>\n<td>38%</td>\n<td>0%</td>\n<td>25%</td>\n<td>13%</td>\n<td>0%</td>\n<td>0%</td>\n<td>0%</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>More than one decision can be made in respect of a particular access application. If so, a recording must be made in relation to each such decision. This also applies to Table B.</li>\n</ul>\n<p>By Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15</p>\n<p>Government Information (Public Access) Act – Annual Report for Agency Griffith City Council</p>\n<p>Table B: Number of applications by type of application and outcome*</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Access Granted in Full</th>\n<th>Access Granted in Part</th>\n<th>Access Refused in Full</th>\n<th>Information not Held</th>\n<th>Information Already Available</th>\n<th>Refuse to Deal with Application</th>\n<th>Refuse to Confirm/Deny whether information is held</th>\n<th>Application Withdrawn</th>\n<th>Total</th>\n<th>% of Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Personal information applications*</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Access applications (other than personal information applications)</td>\n<td>2</td>\n<td>3</td>\n<td>0</td>\n<td>2</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>8</td>\n<td>100%</td>\n</tr>\n<tr>\n<td>Access applications that are partly personal information applications and partly other</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>2</td>\n<td>3</td>\n<td>0</td>\n<td>2</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>8</td>\n<td></td>\n</tr>\n<tr>\n<td>% of Total</td>\n<td>25%</td>\n<td>38%</td>\n<td>0%</td>\n<td>25%</td>\n<td>13%</td>\n<td>0%</td>\n<td>0%</td>\n<td>0%</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>A personal information application is an access application for personal information (as defined in clause 4 of Schedule 4 to the Act) about the applicant (the applicant being an individual).</li>\n</ul>\n<p>By Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15</p>\n<p>Government Information (Public Access) Act – Annual Report for Agency Griffith City Council</p>\n<p>Table C: Invalid applications</p>\n<table>\n<thead>\n<tr>\n<th>Reason for invalidity</th>\n<th>No of applications</th>\n<th>% of Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Application does not comply with formal requirements (section 41 of the Act)</td>\n<td>1</td>\n<td>33%</td>\n</tr>\n<tr>\n<td>Application is for excluded information of the agency (section 43 of the Act)</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Application contravenes restraint order (section 110 of the Act)</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Total number of invalid applications received</td>\n<td>1</td>\n<td>33%</td>\n</tr>\n<tr>\n<td>Invalid applications that subsequently became valid applications</td>\n<td>1</td>\n<td>33%</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>3</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>Table D: Conclusive presumption of overriding public interest against disclosure: matters listed in Schedule 1 of Act</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Number of times consideration used*</th>\n<th>% of Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Overriding secrecy laws</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Cabinet information</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Executive Council information</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Contempt</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Legal professional privilege</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Excluded information</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Documents affecting law enforcement and public safety</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Transport safety</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Adoption</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Care and protection of children</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Ministerial code of conduct</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Aboriginal and environmental heritage</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>0</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>*More than one public interest consideration may apply in relation to a particular access application and if so, each such consideration is to be recorded (but only once per application). This also applies in relation to Table E</p>\n<p>By Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15</p>\n<p>Government Information (Public Access) Act – Annual Report for Agency Griffith City Council</p>\n<p>Table E: Other public interest considerations against disclosure: matters listed in table to section 14 of Act</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Number of times consideration used*</th>\n<th>% of Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Responsible and effective government</td>\n<td>1</td>\n<td>33%</td>\n</tr>\n<tr>\n<td>Law enforcement and security</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Individual rights, judicial processes and natural justice</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Business interests of agencies and other persons</td>\n<td>1</td>\n<td>33%</td>\n</tr>\n<tr>\n<td>Environment, culture, economy and general matters</td>\n<td>1</td>\n<td>33%</td>\n</tr>\n<tr>\n<td>Secrecy provisions</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Exempt documents under interstate Freedom of Information legislation</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>3</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>Table F: Timeliness</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Number of applications*</th>\n<th>% of Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Decided within the statutory timeframe (20 days plus any extensions)</td>\n<td>5</td>\n<td>100%</td>\n</tr>\n<tr>\n<td>Decided after 35 days (by agreement with applicant)</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Not decided within time (deemed refusal)</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>5</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>By Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15</p>\n<p>Government Information (Public Access) Act – Annual Report for Agency Griffith City Council</p>\n<p>Table G: Number of applications reviewed under Part 5 of the Act (by type of review and outcome)</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Decision varied</th>\n<th>Decision upheld</th>\n<th>Total</th>\n<th>% of Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Internal review</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Review by Information Commissioner*</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Internal review following recommendation under section 93 of Act</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Review by NCAT</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td></td>\n</tr>\n<tr>\n<td>% of Total</td>\n<td>0%</td>\n<td>0%</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>*The Information Commissioner does not have the authority to vary decisions, but can make recommendations to the original decision-maker. The data in this case indicates that a recommendation to vary or uphold the original decision has been made by the Information Commissioner.</p>\n<p>Table H: Applications for review under Part 5 of the Act (by type of applicant)</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Number of applications for review</th>\n<th>% of Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Applications by access applicants</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Applications by persons to whom information the subject of access application relates (see section 54 of the Act)</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>0</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>Table I: Applications transferred to other agencies.</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Number of applications transferred</th>\n<th>% of Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Agency-Initiated Transfers</td>\n<td>1</td>\n<td>100%</td>\n</tr>\n<tr>\n<td>Applicant - Initiated Transfers</td>\n<td>0</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>1</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>By Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Government Information (Public Access) Act – Annual Report for Agency Griffith City Council\"},{\"type\":\"paragraph\",\"text\":\"Clause 7A: Details of the review carried out by the agency under section 7 (3) of the Act during the reporting year and the details of any information made publicly available by the agency as a result of the review\"},{\"type\":\"table\",\"headers\":[\"Reviews carried out by the agency\",\"Information made publicly available by the agency\"],\"rows\":[[\"Yes\",\"Yes\"]]},{\"type\":\"paragraph\",\"text\":\"Review of information held by Council that may be of interest to the public (information that is not already released proactively). Review GIPA applications both formal and information that have been received by Council to gauge what categories of information are requested. Regular review the initiatives, developments and projects that Council feels the public would like to be informed of. During the reporting period, we reviewed this program by: Yearly review of Council’s Information Guide, endorsed by the General Manager and Senior Staff, reported to and endorsed by Council. Liaise regularly with senior management & the Corporate Communications Department in relation to the release of information via the media (radio, TV & newspaper), community engagement (consultation sessions, letters, media release, newsletters etc), website, & Council’s social media platforms (Facebook). Review of Disclosure Log to identify patterns & themes in the type of information sought. Staff consult with the Public Officer in relation to the type of information that is requested & the information that can be proactively released. As a result of this review, we released the following information proactively: Main Drain J Floodplain Risk Study and Plan Griffith Regional Aquatic Centre Masterplan CBD Strategy Internal Audit Reports Crime Prevention Plan Griffith City Pound Statistics and Activities Community Services Directory Community Catchup\"},{\"type\":\"paragraph\",\"text\":\"Clause 7B: The total number of access applications received by the agency during the reporting year (including withdrawn applications but not including invalid applications)\"},{\"type\":\"table\",\"headers\":[\"Total number of applications received\"],\"rows\":[[\"5\"]]},{\"type\":\"paragraph\",\"text\":\"Clause 7C: The total number of access applications received by the agency during the reporting year that the agency refused either wholly or partly, because the application was for the disclosure of information referred to in Schedule 1 to the Act (information for which there is conclusive presumption of overriding public interest against disclosure)\"},{\"type\":\"table\",\"headers\":[\"Number of Applications Refused\",\"Wholly\",\"Partly\",\"Total\"],\"rows\":[[\"\",\"0\",\"1\",\"1\"],[\"% of Total\",\"0%\",\"100%\",\"\"]]},{\"type\":\"paragraph\",\"text\":\"By Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\"},{\"type\":\"paragraph\",\"text\":\"Government Information (Public Access) Act – Annual Report for Agency Griffith City Council\"},{\"type\":\"paragraph\",\"text\":\"Schedule 2 Statistical information about access applications to be included in annual report\"},{\"type\":\"paragraph\",\"text\":\"Table A: Number of applications by type of applicant and outcome*\"},{\"type\":\"table\",\"headers\":[\"\",\"Access Granted in Full\",\"Access Granted in Part\",\"Access Refused in Full\",\"Information not Held\",\"Information Already Available\",\"Refuse to Deal with Application\",\"Refuse to Confirm/Deny whether information is held\",\"Application Withdrawn\",\"Total\",\"% of Total\"],\"rows\":[[\"Media\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0%\"],[\"Members of Parliament\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0%\"],[\"Private sector business\",\"0\",\"2\",\"0\",\"1\",\"1\",\"0\",\"0\",\"0\",\"4\",\"50%\"],[\"Not for profit organisations or community groups\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0%\"],[\"Members of the public (by legal representative)\",\"1\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"1\",\"13%\"],[\"Members of the public (other)\",\"1\",\"1\",\"0\",\"1\",\"0\",\"0\",\"0\",\"0\",\"3\",\"38%\"],[\"Total\",\"2\",\"3\",\"0\",\"2\",\"1\",\"0\",\"0\",\"0\",\"8\",\"\"],[\"% of Total\",\"25%\",\"38%\",\"0%\",\"25%\",\"13%\",\"0%\",\"0%\",\"0%\",\"\",\"\"]]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"More than one decision can be made in respect of a particular access application. If so, a recording must be made in relation to each such decision. This also applies to Table B.\"]},{\"type\":\"paragraph\",\"text\":\"By Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\"},{\"type\":\"paragraph\",\"text\":\"Government Information (Public Access) Act – Annual Report for Agency Griffith City Council\"},{\"type\":\"paragraph\",\"text\":\"Table B: Number of applications by type of application and outcome*\"},{\"type\":\"table\",\"headers\":[\"\",\"Access Granted in Full\",\"Access Granted in Part\",\"Access Refused in Full\",\"Information not Held\",\"Information Already Available\",\"Refuse to Deal with Application\",\"Refuse to Confirm/Deny whether information is held\",\"Application Withdrawn\",\"Total\",\"% of Total\"],\"rows\":[[\"Personal information applications*\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0%\"],[\"Access applications (other than personal information applications)\",\"2\",\"3\",\"0\",\"2\",\"1\",\"0\",\"0\",\"0\",\"8\",\"100%\"],[\"Access applications that are partly personal information applications and partly other\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0%\"],[\"Total\",\"2\",\"3\",\"0\",\"2\",\"1\",\"0\",\"0\",\"0\",\"8\",\"\"],[\"% of Total\",\"25%\",\"38%\",\"0%\",\"25%\",\"13%\",\"0%\",\"0%\",\"0%\",\"\",\"\"]]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"A personal information application is an access application for personal information (as defined in clause 4 of Schedule 4 to the Act) about the applicant (the applicant being an individual).\"]},{\"type\":\"paragraph\",\"text\":\"By Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\"},{\"type\":\"paragraph\",\"text\":\"Government Information (Public Access) Act – Annual Report for Agency Griffith City Council\"},{\"type\":\"paragraph\",\"text\":\"Table C: Invalid applications\"},{\"type\":\"table\",\"headers\":[\"Reason for invalidity\",\"No of applications\",\"% of Total\"],\"rows\":[[\"Application does not comply with formal requirements (section 41 of the Act)\",\"1\",\"33%\"],[\"Application is for excluded information of the agency (section 43 of the Act)\",\"0\",\"0%\"],[\"Application contravenes restraint order (section 110 of the Act)\",\"0\",\"0%\"],[\"Total number of invalid applications received\",\"1\",\"33%\"],[\"Invalid applications that subsequently became valid applications\",\"1\",\"33%\"],[\"Total\",\"3\",\"\"]]},{\"type\":\"paragraph\",\"text\":\"Table D: Conclusive presumption of overriding public interest against disclosure: matters listed in Schedule 1 of Act\"},{\"type\":\"table\",\"headers\":[\"\",\"Number of times consideration used*\",\"% of Total\"],\"rows\":[[\"Overriding secrecy laws\",\"0\",\"0%\"],[\"Cabinet information\",\"0\",\"0%\"],[\"Executive Council information\",\"0\",\"0%\"],[\"Contempt\",\"0\",\"0%\"],[\"Legal professional privilege\",\"0\",\"0%\"],[\"Excluded information\",\"0\",\"0%\"],[\"Documents affecting law enforcement and public safety\",\"0\",\"0%\"],[\"Transport safety\",\"0\",\"0%\"],[\"Adoption\",\"0\",\"0%\"],[\"Care and protection of children\",\"0\",\"0%\"],[\"Ministerial code of conduct\",\"0\",\"0%\"],[\"Aboriginal and environmental heritage\",\"0\",\"0%\"],[\"Total\",\"0\",\"\"]]},{\"type\":\"paragraph\",\"text\":\"*More than one public interest consideration may apply in relation to a particular access application and if so, each such consideration is to be recorded (but only once per application). This also applies in relation to Table E\"},{\"type\":\"paragraph\",\"text\":\"By Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\"},{\"type\":\"paragraph\",\"text\":\"Government Information (Public Access) Act – Annual Report for Agency Griffith City Council\"},{\"type\":\"paragraph\",\"text\":\"Table E: Other public interest considerations against disclosure: matters listed in table to section 14 of Act\"},{\"type\":\"table\",\"headers\":[\"\",\"Number of times consideration used*\",\"% of Total\"],\"rows\":[[\"Responsible and effective government\",\"1\",\"33%\"],[\"Law enforcement and security\",\"0\",\"0%\"],[\"Individual rights, judicial processes and natural justice\",\"0\",\"0%\"],[\"Business interests of agencies and other persons\",\"1\",\"33%\"],[\"Environment, culture, economy and general matters\",\"1\",\"33%\"],[\"Secrecy provisions\",\"0\",\"0%\"],[\"Exempt documents under interstate Freedom of Information legislation\",\"0\",\"0%\"],[\"Total\",\"3\",\"\"]]},{\"type\":\"paragraph\",\"text\":\"Table F: Timeliness\"},{\"type\":\"table\",\"headers\":[\"\",\"Number of applications*\",\"% of Total\"],\"rows\":[[\"Decided within the statutory timeframe (20 days plus any extensions)\",\"5\",\"100%\"],[\"Decided after 35 days (by agreement with applicant)\",\"0\",\"0%\"],[\"Not decided within time (deemed refusal)\",\"0\",\"0%\"],[\"Total\",\"5\",\"\"]]},{\"type\":\"paragraph\",\"text\":\"By Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\"},{\"type\":\"paragraph\",\"text\":\"Government Information (Public Access) Act – Annual Report for Agency Griffith City Council\"},{\"type\":\"paragraph\",\"text\":\"Table G: Number of applications reviewed under Part 5 of the Act (by type of review and outcome)\"},{\"type\":\"table\",\"headers\":[\"\",\"Decision varied\",\"Decision upheld\",\"Total\",\"% of Total\"],\"rows\":[[\"Internal review\",\"0\",\"0\",\"0\",\"0%\"],[\"Review by Information Commissioner*\",\"0\",\"0\",\"0\",\"0%\"],[\"Internal review following recommendation under section 93 of Act\",\"0\",\"0\",\"0\",\"0%\"],[\"Review by NCAT\",\"0\",\"0\",\"0\",\"0%\"],[\"Total\",\"0\",\"0\",\"0\",\"\"],[\"% of Total\",\"0%\",\"0%\",\"\",\"\"]]},{\"type\":\"paragraph\",\"text\":\"*The Information Commissioner does not have the authority to vary decisions, but can make recommendations to the original decision-maker. The data in this case indicates that a recommendation to vary or uphold the original decision has been made by the Information Commissioner.\"},{\"type\":\"paragraph\",\"text\":\"Table H: Applications for review under Part 5 of the Act (by type of applicant)\"},{\"type\":\"table\",\"headers\":[\"\",\"Number of applications for review\",\"% of Total\"],\"rows\":[[\"Applications by access applicants\",\"0\",\"0%\"],[\"Applications by persons to whom information the subject of access application relates (see section 54 of the Act)\",\"0\",\"0%\"],[\"Total\",\"0\",\"\"]]},{\"type\":\"paragraph\",\"text\":\"Table I: Applications transferred to other agencies.\"},{\"type\":\"table\",\"headers\":[\"\",\"Number of applications transferred\",\"% of Total\"],\"rows\":[[\"Agency-Initiated Transfers\",\"1\",\"100%\"],[\"Applicant - Initiated Transfers\",\"0\",\"0%\"],[\"Total\",\"1\",\"\"]]},{\"type\":\"paragraph\",\"text\":\"By Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\"}]}",
+    "markdown": "Government Information (Public Access) Act – Annual Report for Agency Griffith City Council\n\nClause 7A: Details of the review carried out by the agency under section 7 (3) of the Act during the reporting year and the details of any information made publicly available by the agency as a result of the review\n\n| Reviews carried out by the agency | Information made publicly available by the agency |\n| --- | --- |\n| Yes | Yes |\n\nReview of information held by Council that may be of interest to the public (information that is not already released proactively). Review GIPA applications both formal and information that have been received by Council to gauge what categories of information are requested. Regular review the initiatives, developments and projects that Council feels the public would like to be informed of. During the reporting period, we reviewed this program by: Yearly review of Council’s Information Guide, endorsed by the General Manager and Senior Staff, reported to and endorsed by Council. Liaise regularly with senior management & the Corporate Communications Department in relation to the release of information via the media (radio, TV & newspaper), community engagement (consultation sessions, letters, media release, newsletters etc), website, & Council’s social media platforms (Facebook). Review of Disclosure Log to identify patterns & themes in the type of information sought. Staff consult with the Public Officer in relation to the type of information that is requested & the information that can be proactively released. As a result of this review, we released the following information proactively: Main Drain J Floodplain Risk Study and Plan Griffith Regional Aquatic Centre Masterplan CBD Strategy Internal Audit Reports Crime Prevention Plan Griffith City Pound Statistics and Activities Community Services Directory Community Catchup\n\nClause 7B: The total number of access applications received by the agency during the reporting year (including withdrawn applications but not including invalid applications)\n\n| Total number of applications received |\n| --- |\n| 5 |\n\nClause 7C: The total number of access applications received by the agency during the reporting year that the agency refused either wholly or partly, because the application was for the disclosure of information referred to in Schedule 1 to the Act (information for which there is conclusive presumption of overriding public interest against disclosure)\n\n| Number of Applications Refused | Wholly | Partly | Total |\n| --- | --- | --- | --- |\n|  | 0 | 1 | 1 |\n| % of Total | 0% | 100% |  |\n\nBy Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\n\nGovernment Information (Public Access) Act – Annual Report for Agency Griffith City Council\n\nSchedule 2 Statistical information about access applications to be included in annual report\n\nTable A: Number of applications by type of applicant and outcome*\n\n|  | Access Granted in Full | Access Granted in Part | Access Refused in Full | Information not Held | Information Already Available | Refuse to Deal with Application | Refuse to Confirm/Deny whether information is held | Application Withdrawn | Total | % of Total |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Media | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% |\n| Members of Parliament | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% |\n| Private sector business | 0 | 2 | 0 | 1 | 1 | 0 | 0 | 0 | 4 | 50% |\n| Not for profit organisations or community groups | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% |\n| Members of the public (by legal representative) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 13% |\n| Members of the public (other) | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 3 | 38% |\n| Total | 2 | 3 | 0 | 2 | 1 | 0 | 0 | 0 | 8 |  |\n| % of Total | 25% | 38% | 0% | 25% | 13% | 0% | 0% | 0% |  |  |\n\n- More than one decision can be made in respect of a particular access application. If so, a recording must be made in relation to each such decision. This also applies to Table B.\n\nBy Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\n\nGovernment Information (Public Access) Act – Annual Report for Agency Griffith City Council\n\nTable B: Number of applications by type of application and outcome*\n\n|  | Access Granted in Full | Access Granted in Part | Access Refused in Full | Information not Held | Information Already Available | Refuse to Deal with Application | Refuse to Confirm/Deny whether information is held | Application Withdrawn | Total | % of Total |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Personal information applications* | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% |\n| Access applications (other than personal information applications) | 2 | 3 | 0 | 2 | 1 | 0 | 0 | 0 | 8 | 100% |\n| Access applications that are partly personal information applications and partly other | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% |\n| Total | 2 | 3 | 0 | 2 | 1 | 0 | 0 | 0 | 8 |  |\n| % of Total | 25% | 38% | 0% | 25% | 13% | 0% | 0% | 0% |  |  |\n\n- A personal information application is an access application for personal information (as defined in clause 4 of Schedule 4 to the Act) about the applicant (the applicant being an individual).\n\nBy Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\n\nGovernment Information (Public Access) Act – Annual Report for Agency Griffith City Council\n\nTable C: Invalid applications\n\n| Reason for invalidity | No of applications | % of Total |\n| --- | --- | --- |\n| Application does not comply with formal requirements (section 41 of the Act) | 1 | 33% |\n| Application is for excluded information of the agency (section 43 of the Act) | 0 | 0% |\n| Application contravenes restraint order (section 110 of the Act) | 0 | 0% |\n| Total number of invalid applications received | 1 | 33% |\n| Invalid applications that subsequently became valid applications | 1 | 33% |\n| Total | 3 |  |\n\nTable D: Conclusive presumption of overriding public interest against disclosure: matters listed in Schedule 1 of Act\n\n|  | Number of times consideration used* | % of Total |\n| --- | --- | --- |\n| Overriding secrecy laws | 0 | 0% |\n| Cabinet information | 0 | 0% |\n| Executive Council information | 0 | 0% |\n| Contempt | 0 | 0% |\n| Legal professional privilege | 0 | 0% |\n| Excluded information | 0 | 0% |\n| Documents affecting law enforcement and public safety | 0 | 0% |\n| Transport safety | 0 | 0% |\n| Adoption | 0 | 0% |\n| Care and protection of children | 0 | 0% |\n| Ministerial code of conduct | 0 | 0% |\n| Aboriginal and environmental heritage | 0 | 0% |\n| Total | 0 |  |\n\n*More than one public interest consideration may apply in relation to a particular access application and if so, each such consideration is to be recorded (but only once per application). This also applies in relation to Table E\n\nBy Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\n\nGovernment Information (Public Access) Act – Annual Report for Agency Griffith City Council\n\nTable E: Other public interest considerations against disclosure: matters listed in table to section 14 of Act\n\n|  | Number of times consideration used* | % of Total |\n| --- | --- | --- |\n| Responsible and effective government | 1 | 33% |\n| Law enforcement and security | 0 | 0% |\n| Individual rights, judicial processes and natural justice | 0 | 0% |\n| Business interests of agencies and other persons | 1 | 33% |\n| Environment, culture, economy and general matters | 1 | 33% |\n| Secrecy provisions | 0 | 0% |\n| Exempt documents under interstate Freedom of Information legislation | 0 | 0% |\n| Total | 3 |  |\n\nTable F: Timeliness\n\n|  | Number of applications* | % of Total |\n| --- | --- | --- |\n| Decided within the statutory timeframe (20 days plus any extensions) | 5 | 100% |\n| Decided after 35 days (by agreement with applicant) | 0 | 0% |\n| Not decided within time (deemed refusal) | 0 | 0% |\n| Total | 5 |  |\n\nBy Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\n\nGovernment Information (Public Access) Act – Annual Report for Agency Griffith City Council\n\nTable G: Number of applications reviewed under Part 5 of the Act (by type of review and outcome)\n\n|  | Decision varied | Decision upheld | Total | % of Total |\n| --- | --- | --- | --- | --- |\n| Internal review | 0 | 0 | 0 | 0% |\n| Review by Information Commissioner* | 0 | 0 | 0 | 0% |\n| Internal review following recommendation under section 93 of Act | 0 | 0 | 0 | 0% |\n| Review by NCAT | 0 | 0 | 0 | 0% |\n| Total | 0 | 0 | 0 |  |\n| % of Total | 0% | 0% |  |  |\n\n*The Information Commissioner does not have the authority to vary decisions, but can make recommendations to the original decision-maker. The data in this case indicates that a recommendation to vary or uphold the original decision has been made by the Information Commissioner.\n\nTable H: Applications for review under Part 5 of the Act (by type of applicant)\n\n|  | Number of applications for review | % of Total |\n| --- | --- | --- |\n| Applications by access applicants | 0 | 0% |\n| Applications by persons to whom information the subject of access application relates (see section 54 of the Act) | 0 | 0% |\n| Total | 0 |  |\n\nTable I: Applications transferred to other agencies.\n\n|  | Number of applications transferred | % of Total |\n| --- | --- | --- |\n| Agency-Initiated Transfers | 1 | 100% |\n| Applicant - Initiated Transfers | 0 | 0% |\n| Total | 1 |  |\n\nBy Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\n",
+    "plain": "Government Information (Public Access) Act – Annual Report for Agency Griffith City Council\n\nClause 7A: Details of the review carried out by the agency under section 7 (3) of the Act during the reporting year and the details of any information made publicly available by the agency as a result of the review\n\nReviews carried out by the agency Information made publicly available by the agency\nYes Yes\n\nReview of information held by Council that may be of interest to the public (information that is not already released proactively). Review GIPA applications both formal and information that have been received by Council to gauge what categories of information are requested. Regular review the initiatives, developments and projects that Council feels the public would like to be informed of. During the reporting period, we reviewed this program by: Yearly review of Council’s Information Guide, endorsed by the General Manager and Senior Staff, reported to and endorsed by Council. Liaise regularly with senior management & the Corporate Communications Department in relation to the release of information via the media (radio, TV & newspaper), community engagement (consultation sessions, letters, media release, newsletters etc), website, & Council’s social media platforms (Facebook). Review of Disclosure Log to identify patterns & themes in the type of information sought. Staff consult with the Public Officer in relation to the type of information that is requested & the information that can be proactively released. As a result of this review, we released the following information proactively: Main Drain J Floodplain Risk Study and Plan Griffith Regional Aquatic Centre Masterplan CBD Strategy Internal Audit Reports Crime Prevention Plan Griffith City Pound Statistics and Activities Community Services Directory Community Catchup\n\nClause 7B: The total number of access applications received by the agency during the reporting year (including withdrawn applications but not including invalid applications)\n\nTotal number of applications received\n5\n\nClause 7C: The total number of access applications received by the agency during the reporting year that the agency refused either wholly or partly, because the application was for the disclosure of information referred to in Schedule 1 to the Act (information for which there is conclusive presumption of overriding public interest against disclosure)\n\nNumber of Applications Refused Wholly Partly Total\n 0 1 1\n% of Total 0% 100% \n\nBy Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\n\nGovernment Information (Public Access) Act – Annual Report for Agency Griffith City Council\n\nSchedule 2 Statistical information about access applications to be included in annual report\n\nTable A: Number of applications by type of applicant and outcome*\n\n Access Granted in Full Access Granted in Part Access Refused in Full Information not Held Information Already Available Refuse to Deal with Application Refuse to Confirm/Deny whether information is held Application Withdrawn Total % of Total\nMedia 0 0 0 0 0 0 0 0 0 0%\nMembers of Parliament 0 0 0 0 0 0 0 0 0 0%\nPrivate sector business 0 2 0 1 1 0 0 0 4 50%\nNot for profit organisations or community groups 0 0 0 0 0 0 0 0 0 0%\nMembers of the public (by legal representative) 1 0 0 0 0 0 0 0 1 13%\nMembers of the public (other) 1 1 0 1 0 0 0 0 3 38%\nTotal 2 3 0 2 1 0 0 0 8 \n% of Total 25% 38% 0% 25% 13% 0% 0% 0%  \n\nMore than one decision can be made in respect of a particular access application. If so, a recording must be made in relation to each such decision. This also applies to Table B.\nBy Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\n\nGovernment Information (Public Access) Act – Annual Report for Agency Griffith City Council\n\nTable B: Number of applications by type of application and outcome*\n\n Access Granted in Full Access Granted in Part Access Refused in Full Information not Held Information Already Available Refuse to Deal with Application Refuse to Confirm/Deny whether information is held Application Withdrawn Total % of Total\nPersonal information applications* 0 0 0 0 0 0 0 0 0 0%\nAccess applications (other than personal information applications) 2 3 0 2 1 0 0 0 8 100%\nAccess applications that are partly personal information applications and partly other 0 0 0 0 0 0 0 0 0 0%\nTotal 2 3 0 2 1 0 0 0 8 \n% of Total 25% 38% 0% 25% 13% 0% 0% 0%  \n\nA personal information application is an access application for personal information (as defined in clause 4 of Schedule 4 to the Act) about the applicant (the applicant being an individual).\nBy Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\n\nGovernment Information (Public Access) Act – Annual Report for Agency Griffith City Council\n\nTable C: Invalid applications\n\nReason for invalidity No of applications % of Total\nApplication does not comply with formal requirements (section 41 of the Act) 1 33%\nApplication is for excluded information of the agency (section 43 of the Act) 0 0%\nApplication contravenes restraint order (section 110 of the Act) 0 0%\nTotal number of invalid applications received 1 33%\nInvalid applications that subsequently became valid applications 1 33%\nTotal 3 \n\nTable D: Conclusive presumption of overriding public interest against disclosure: matters listed in Schedule 1 of Act\n\n Number of times consideration used* % of Total\nOverriding secrecy laws 0 0%\nCabinet information 0 0%\nExecutive Council information 0 0%\nContempt 0 0%\nLegal professional privilege 0 0%\nExcluded information 0 0%\nDocuments affecting law enforcement and public safety 0 0%\nTransport safety 0 0%\nAdoption 0 0%\nCare and protection of children 0 0%\nMinisterial code of conduct 0 0%\nAboriginal and environmental heritage 0 0%\nTotal 0 \n\n*More than one public interest consideration may apply in relation to a particular access application and if so, each such consideration is to be recorded (but only once per application). This also applies in relation to Table E\n\nBy Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\n\nGovernment Information (Public Access) Act – Annual Report for Agency Griffith City Council\n\nTable E: Other public interest considerations against disclosure: matters listed in table to section 14 of Act\n\n Number of times consideration used* % of Total\nResponsible and effective government 1 33%\nLaw enforcement and security 0 0%\nIndividual rights, judicial processes and natural justice 0 0%\nBusiness interests of agencies and other persons 1 33%\nEnvironment, culture, economy and general matters 1 33%\nSecrecy provisions 0 0%\nExempt documents under interstate Freedom of Information legislation 0 0%\nTotal 3 \n\nTable F: Timeliness\n\n Number of applications* % of Total\nDecided within the statutory timeframe (20 days plus any extensions) 5 100%\nDecided after 35 days (by agreement with applicant) 0 0%\nNot decided within time (deemed refusal) 0 0%\nTotal 5 \n\nBy Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15\n\nGovernment Information (Public Access) Act – Annual Report for Agency Griffith City Council\n\nTable G: Number of applications reviewed under Part 5 of the Act (by type of review and outcome)\n\n Decision varied Decision upheld Total % of Total\nInternal review 0 0 0 0%\nReview by Information Commissioner* 0 0 0 0%\nInternal review following recommendation under section 93 of Act 0 0 0 0%\nReview by NCAT 0 0 0 0%\nTotal 0 0 0 \n% of Total 0% 0%  \n\n*The Information Commissioner does not have the authority to vary decisions, but can make recommendations to the original decision-maker. The data in this case indicates that a recommendation to vary or uphold the original decision has been made by the Information Commissioner.\n\nTable H: Applications for review under Part 5 of the Act (by type of applicant)\n\n Number of applications for review % of Total\nApplications by access applicants 0 0%\nApplications by persons to whom information the subject of access application relates (see section 54 of the Act) 0 0%\nTotal 0 \n\nTable I: Applications transferred to other agencies.\n\n Number of applications transferred % of Total\nAgency-Initiated Transfers 1 100%\nApplicant - Initiated Transfers 0 0%\nTotal 1 \n\nBy Leanne Austin on 27/10/2015 03:10 PM for FY: 2014-15"
+  }
+}

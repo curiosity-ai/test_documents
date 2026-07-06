@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/latex/math.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 18,
+      "word_count": 44,
+      "character_count": 259
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/latex/math.txt",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/latex/math.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Math Formulas</p>\n<p>Inline Math</p>\n<p>The equation E = mc^2 is famous. Another inline formula: alpha + beta = gamma.</p>\n<p>Display Math</p>\n<p>int_0^infinity e^{-x^2} dx = sqrt(pi)/2</p>\n<p>Equation Environment</p>\n<p>f(x) = sum_{n=0}^{infinity} x^n/n!</p>\n<p>Align Environment</p>\n<p>a + b = c d + e = f</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Math Formulas\"},{\"type\":\"paragraph\",\"text\":\"Inline Math\"},{\"type\":\"paragraph\",\"text\":\"The equation E = mc^2 is famous. Another inline formula: alpha + beta = gamma.\"},{\"type\":\"paragraph\",\"text\":\"Display Math\"},{\"type\":\"paragraph\",\"text\":\"int_0^infinity e^{-x^2} dx = sqrt(pi)/2\"},{\"type\":\"paragraph\",\"text\":\"Equation Environment\"},{\"type\":\"paragraph\",\"text\":\"f(x) = sum_{n=0}^{infinity} x^n/n!\"},{\"type\":\"paragraph\",\"text\":\"Align Environment\"},{\"type\":\"paragraph\",\"text\":\"a + b = c\\nd + e = f\"}]}",
+    "markdown": "Math Formulas\n\nInline Math\n\nThe equation E = mc^2 is famous. Another inline formula: alpha + beta = gamma.\n\nDisplay Math\n\nint_0^infinity e^{-x^2} dx = sqrt(pi)/2\n\nEquation Environment\n\nf(x) = sum_{n=0}^{infinity} x^n/n\\!\n\nAlign Environment\n\na + b = c d + e = f\n",
+    "plain": "Math Formulas\n\nInline Math\n\nThe equation E = mc^2 is famous. Another inline formula: alpha + beta = gamma.\n\nDisplay Math\n\nint_0^infinity e^{-x^2} dx = sqrt(pi)/2\n\nEquation Environment\n\nf(x) = sum_{n=0}^{infinity} x^n/n!\n\nAlign Environment\n\na + b = c\nd + e = f"
+  }
+}

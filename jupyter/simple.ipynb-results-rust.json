@@ -1,0 +1,53 @@
+{
+  "file": "jupyter/simple.ipynb",
+  "mime_type": "application/x-ipynb+json",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "cell_count": 5,
+      "final_uri": "jupyter/simple.ipynb",
+      "nbformat": 4,
+      "source_uri": "jupyter/simple.ipynb",
+      "source_kind": "uri",
+      "nbformat_minor": 5,
+      "cells": [
+        {
+          "index": 0,
+          "cell_type": "markdown"
+        },
+        {
+          "index": 1,
+          "cell_type": "code",
+          "execution_count": null
+        },
+        {
+          "index": 2,
+          "cell_type": "markdown"
+        },
+        {
+          "index": 3,
+          "cell_type": "code",
+          "execution_count": 2
+        },
+        {
+          "index": 4,
+          "cell_type": "markdown",
+          "tags": [
+            "foo",
+            "bar"
+          ]
+        }
+      ],
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>[cell_id: uid1]</p>\n<p>Lorem ipsum =========== <strong>Lorem ipsum</strong> dolor sit amet, consectetur adipiscing elit. Nunc luctus bibendum felis dictum sodales.</p>\n<p>[cell_id: uid2]</p>\n<p>[cell_id: uid3]</p>\n<p>Pyout -----</p>\n<p>[cell_id: uid4]</p>\n<pre><code>from IPython.display import HTML\n\nHTML(&quot;&quot;&quot;\n&lt;script&gt;\nconsole.log(&quot;hello&quot;);\n&lt;/script&gt;\n&lt;b&gt;HTML&lt;/b&gt;\n&quot;&quot;&quot;)</code></pre>\n<p>execution_count: 2</p>\n<p>[output_type: execute_result]</p>\n<p>[mime: text/html]</p>\n<p>[cell_id: uid6]</p>\n<p>[tags: foo,bar]</p>\n<p>Image ----- This image ![the moon](attachment:lalune.jpg) will be included as a cell attachment.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"[cell_id: uid1]\"},{\"type\":\"paragraph\",\"text\":\"Lorem ipsum\\n===========\\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc luctus\\nbibendum felis dictum sodales.\"},{\"type\":\"paragraph\",\"text\":\"[cell_id: uid2]\"},{\"type\":\"paragraph\",\"text\":\"[cell_id: uid3]\"},{\"type\":\"paragraph\",\"text\":\"Pyout\\n-----\"},{\"type\":\"paragraph\",\"text\":\"[cell_id: uid4]\"},{\"type\":\"code\",\"text\":\"from IPython.display import HTML\\n\\nHTML(\\\"\\\"\\\"\\n<script>\\nconsole.log(\\\"hello\\\");\\n</script>\\n<b>HTML</b>\\n\\\"\\\"\\\")\"},{\"type\":\"paragraph\",\"text\":\"execution_count: 2\"},{\"type\":\"paragraph\",\"text\":\"[output_type: execute_result]\"},{\"type\":\"paragraph\",\"text\":\"[mime: text/html]\"},{\"type\":\"paragraph\",\"text\":\"[cell_id: uid6]\"},{\"type\":\"paragraph\",\"text\":\"[tags: foo,bar]\"},{\"type\":\"paragraph\",\"text\":\"Image\\n-----\\n\\nThis image ![the moon](attachment:lalune.jpg) will be included as a cell\\nattachment.\"}]}",
+    "markdown": "[cell_id: uid1]\n\nLorem ipsum =========== **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Nunc luctus bibendum felis dictum sodales.\n\n[cell_id: uid2]\n\n[cell_id: uid3]\n\nPyout -----\n\n[cell_id: uid4]\n\n```\nfrom IPython.display import HTML\n\nHTML(\"\"\"\n<script>\nconsole.log(\"hello\");\n</script>\n<b>HTML</b>\n\"\"\")\n```\n\nexecution_count: 2\n\n[output_type: execute_result]\n\n[mime: text/html]\n\n[cell_id: uid6]\n\n[tags: foo,bar]\n\nImage ----- This image \\![the moon](attachment:lalune.jpg) will be included as a cell attachment.\n",
+    "plain": "[cell_id: uid1]\n\nLorem ipsum\n===========\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc luctus\nbibendum felis dictum sodales.\n\n[cell_id: uid2]\n\n[cell_id: uid3]\n\nPyout\n-----\n\n[cell_id: uid4]\n\nfrom IPython.display import HTML\n\nHTML(\"\"\"\n<script>\nconsole.log(\"hello\");\n</script>\n<b>HTML</b>\n\"\"\")\n\nexecution_count: 2\n\n[output_type: execute_result]\n\n[mime: text/html]\n\n[cell_id: uid6]\n\n[tags: foo,bar]\n\nImage\n-----\n\nThis image ![the moon](attachment:lalune.jpg) will be included as a cell\nattachment."
+  }
+}

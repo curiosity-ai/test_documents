@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/odt/headers.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "A header (Lv 1)",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/odt/headers.md",
+      "source_uri": "ground_truth/odt/headers.md",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>A header (Lv 1)</h1>\n<p>A paragraph</p>\n<h2>Another header (Lv 2)</h2>\n<p>Another paragraph</p>\n<h1>Back to Level 1</h1>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"A header (Lv 1)\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"A paragraph\"},{\"type\":\"section\",\"heading\":\"Another header (Lv 2)\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Another paragraph\"}]}]},{\"type\":\"section\",\"heading\":\"Back to Level 1\",\"level\":1,\"body\":[]}]}",
+    "markdown": "# A header (Lv 1)\n\nA paragraph\n\n## Another header (Lv 2)\n\nAnother paragraph\n\n# Back to Level 1\n",
+    "plain": "A header (Lv 1)\nA paragraph\n\n  Another header (Lv 2)\nAnother paragraph\n\nBack to Level 1"
+  }
+}

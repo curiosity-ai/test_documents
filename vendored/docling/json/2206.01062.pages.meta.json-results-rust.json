@@ -1,0 +1,24 @@
+{
+  "file": "vendored/docling/json/2206.01062.pages.meta.json",
+  "mime_type": "application/json",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "field_count": 0,
+      "source_index": 0,
+      "source_uri": "vendored/docling/json/2206.01062.pages.meta.json",
+      "final_uri": "vendored/docling/json/2206.01062.pages.meta.json",
+      "data_format": "json",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<pre lang=\"json\"><code>[\n  {\n    &quot;num_cells&quot;: 432\n  },\n  {\n    &quot;num_cells&quot;: 151\n  },\n  {\n    &quot;num_cells&quot;: 135\n  },\n  {\n    &quot;num_cells&quot;: 246\n  },\n  {\n    &quot;num_cells&quot;: 115\n  },\n  {\n    &quot;num_cells&quot;: 199\n  },\n  {\n    &quot;num_cells&quot;: 213\n  },\n  {\n    &quot;num_cells&quot;: 220\n  },\n  {\n    &quot;num_cells&quot;: 83\n  }\n]</code></pre>\n",
+    "json": "{\"body\":[{\"type\":\"code\",\"text\":\"[\\n  {\\n    \\\"num_cells\\\": 432\\n  },\\n  {\\n    \\\"num_cells\\\": 151\\n  },\\n  {\\n    \\\"num_cells\\\": 135\\n  },\\n  {\\n    \\\"num_cells\\\": 246\\n  },\\n  {\\n    \\\"num_cells\\\": 115\\n  },\\n  {\\n    \\\"num_cells\\\": 199\\n  },\\n  {\\n    \\\"num_cells\\\": 213\\n  },\\n  {\\n    \\\"num_cells\\\": 220\\n  },\\n  {\\n    \\\"num_cells\\\": 83\\n  }\\n]\",\"language\":\"json\"}]}",
+    "markdown": "```json\n[\n  {\n    \"num_cells\": 432\n  },\n  {\n    \"num_cells\": 151\n  },\n  {\n    \"num_cells\": 135\n  },\n  {\n    \"num_cells\": 246\n  },\n  {\n    \"num_cells\": 115\n  },\n  {\n    \"num_cells\": 199\n  },\n  {\n    \"num_cells\": 213\n  },\n  {\n    \"num_cells\": 220\n  },\n  {\n    \"num_cells\": 83\n  }\n]\n```\n",
+    "plain": "[\n  {\n    \"num_cells\": 432\n  },\n  {\n    \"num_cells\": 151\n  },\n  {\n    \"num_cells\": 135\n  },\n  {\n    \"num_cells\": 246\n  },\n  {\n    \"num_cells\": 115\n  },\n  {\n    \"num_cells\": 199\n  },\n  {\n    \"num_cells\": 213\n  },\n  {\n    \"num_cells\": 220\n  },\n  {\n    \"num_cells\": 83\n  }\n]"
+  }
+}

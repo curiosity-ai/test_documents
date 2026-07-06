@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/mime-no-body.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 4,
+      "word_count": 15,
+      "character_count": 114
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/eml/mime-no-body.txt",
+      "final_uri": "ground_truth/eml/mime-no-body.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Image Only Email From: sender@example.com To: recipient@example.com Date: Tue, 01 Oct 2024 12:34:56 -0500</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Image Only Email\\nFrom: sender@example.com\\nTo: recipient@example.com\\nDate: Tue, 01 Oct 2024 12:34:56 -0500\"}]}",
+    "markdown": "Subject: Image Only Email From: sender@example.com To: recipient@example.com Date: Tue, 01 Oct 2024 12:34:56 -0500\n",
+    "plain": "Subject: Image Only Email\nFrom: sender@example.com\nTo: recipient@example.com\nDate: Tue, 01 Oct 2024 12:34:56 -0500"
+  }
+}

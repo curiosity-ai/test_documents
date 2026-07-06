@@ -1,0 +1,65 @@
+{
+  "file": "csv/stanley_cups.csv",
+  "mime_type": "text/csv",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "csv",
+      "row_count": 5,
+      "column_count": 3,
+      "has_header": true,
+      "column_types": [
+        "text",
+        "text",
+        "numeric"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "csv/stanley_cups.csv",
+      "final_uri": "csv/stanley_cups.csv",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Stanley Cups",
+          "",
+          ""
+        ],
+        [
+          "Team",
+          "Location",
+          "Stanley Cups"
+        ],
+        [
+          "Blues",
+          "STL",
+          "1"
+        ],
+        [
+          "Flyers",
+          "PHI",
+          "2"
+        ],
+        [
+          "Maple Leafs",
+          "TOR",
+          "13"
+        ]
+      ],
+      "markdown": "| Stanley Cups |  |  |\n| --- | --- | --- |\n| Team | Location | Stanley Cups |\n| Blues | STL | 1 |\n| Flyers | PHI | 2 |\n| Maple Leafs | TOR | 13 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>Row 1: Stanley Cups: Team Row 2: Stanley Cups: Blues Row 3: Stanley Cups: Flyers Row 4: Stanley Cups: Maple Leafs</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Row 1:\\nStanley Cups: Team\\n\\nRow 2:\\nStanley Cups: Blues\\n\\nRow 3:\\nStanley Cups: Flyers\\n\\nRow 4:\\nStanley Cups: Maple Leafs\"}]}",
+    "markdown": "Row 1: Stanley Cups: Team Row 2: Stanley Cups: Blues Row 3: Stanley Cups: Flyers Row 4: Stanley Cups: Maple Leafs\n",
+    "plain": "Row 1:\nStanley Cups: Team\n\nRow 2:\nStanley Cups: Blues\n\nRow 3:\nStanley Cups: Flyers\n\nRow 4:\nStanley Cups: Maple Leafs"
+  }
+}

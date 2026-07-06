@@ -1,0 +1,48 @@
+{
+  "file": "vendored/docling/html/hyperlink_01.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "html",
+      "keywords": [],
+      "open_graph": {},
+      "twitter_card": {},
+      "meta_tags": {},
+      "headers": [
+        {
+          "level": 1,
+          "text": "Something",
+          "depth": 2,
+          "html_offset": 0
+        }
+      ],
+      "links": [
+        {
+          "href": "#",
+          "text": "This page",
+          "link_type": "anchor",
+          "rel": [],
+          "attributes": []
+        }
+      ],
+      "images": [],
+      "structured_data": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/docling/html/hyperlink_01.html",
+      "source_uri": "vendored/docling/html/hyperlink_01.html",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Something</h1>\n<p>Please follow the link to: [This page](#) .</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Something\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Please follow the link to: [This page](#) .\"}]}]}",
+    "markdown": "# Something\n\nPlease follow the link to: [This page](#) .\n",
+    "plain": "  Something\n  Please follow the link to: [This page](#) ."
+  }
+}

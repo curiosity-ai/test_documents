@@ -1,0 +1,92 @@
+{
+  "file": "vendored/docling/docx/table_with_equations.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Rafael Teixeira de Lima"
+    ],
+    "created_at": "2025-07-24T07:54:00Z",
+    "modified_at": "2025-07-24T07:55:00Z",
+    "created_by": "Rafael Teixeira de Lima",
+    "modified_by": "Rafael Teixeira de Lima",
+    "format": {
+      "format_type": "docx",
+      "core_properties": {
+        "title": null,
+        "subject": null,
+        "creator": "Rafael Teixeira de Lima",
+        "keywords": null,
+        "description": null,
+        "last_modified_by": "Rafael Teixeira de Lima",
+        "revision": "1",
+        "created": "2025-07-24T07:54:00Z",
+        "modified": "2025-07-24T07:55:00Z",
+        "category": null,
+        "content_status": null,
+        "language": null,
+        "identifier": null,
+        "version": null,
+        "last_printed": null
+      },
+      "app_properties": {
+        "application": "Microsoft Office Word",
+        "app_version": "16.0000",
+        "template": "Normal.dotm",
+        "total_time": 1,
+        "pages": 1,
+        "words": 16,
+        "characters": 93,
+        "characters_with_spaces": 108,
+        "lines": 1,
+        "paragraphs": 1,
+        "company": null,
+        "doc_security": 0,
+        "scale_crop": false,
+        "links_up_to_date": false,
+        "shared_doc": false,
+        "hyperlinks_changed": false
+      },
+      "custom_properties": {}
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "total_editing_time_minutes": 1,
+      "source_kind": "uri",
+      "word_count": 16,
+      "final_uri": "vendored/docling/docx/table_with_equations.docx",
+      "page_count": 1,
+      "source_index": 0,
+      "source_uri": "vendored/docling/docx/table_with_equations.docx",
+      "revision": "1",
+      "line_count": 1,
+      "character_count": 93,
+      "paragraph_count": 1,
+      "application": "Microsoft Office Word",
+      "template": "Normal.dotm"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "The next cell has an equation",
+          "$$A=\\pi r^{2}$$"
+        ],
+        [
+          "The next cell has another equation",
+          "$$x=\\frac{-b\\pm \\sqrt{b^{2}-4ac}}{2a}$$"
+        ]
+      ],
+      "markdown": "| The next cell has an equation | $$A=\\pi r^{2}$$ |\n| --- | --- |\n| The next cell has another equation | $$x=\\frac{-b\\pm \\sqrt{b^{2}-4ac}}{2a}$$ |\n",
+      "page_number": 0
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>The next cell has an equation</th>\n<th>$$A=\\pi r^{2}$$</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>The next cell has another equation</td>\n<td>$$x=\\frac{-b\\pm \\sqrt{b^{2}-4ac}}{2a}$$</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"The next cell has an equation\",\"$$A=\\\\pi r^{2}$$\"],\"rows\":[[\"The next cell has another equation\",\"$$x=\\\\frac{-b\\\\pm \\\\sqrt{b^{2}-4ac}}{2a}$$\"]]}]}",
+    "markdown": "| The next cell has an equation | $$A=\\\\pi r^{2}$$ |\n| --- | --- |\n| The next cell has another equation | $$x=\\\\frac{-b\\\\pm \\\\sqrt{b^{2}-4ac}}{2a}$$ |\n",
+    "plain": "The next cell has an equation $$A=\\pi r^{2}$$\nThe next cell has another equation $$x=\\frac{-b\\pm \\sqrt{b^{2}-4ac}}{2a}$$"
+  }
+}

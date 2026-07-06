@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/table_with_equations.docx.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 3,
+      "word_count": 25,
+      "character_count": 239
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/md/table_with_equations.docx.txt",
+      "final_uri": "ground_truth/md/table_with_equations.docx.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>| The next cell has an equation | $A= \\pi r^{2}$ | |------------------------------------|----------------------------------------| | The next cell has another equation | $x=\\frac{-b \\pm \\sqrt{b^{2}-4ac}}{2a}$ |</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"| The next cell has an equation      | $A= \\\\pi r^{2}$                         |\\n|------------------------------------|----------------------------------------|\\n| The next cell has another equation | $x=\\\\frac{-b \\\\pm \\\\sqrt{b^{2}-4ac}}{2a}$ |\"}]}",
+    "markdown": "| The next cell has an equation | $A= \\\\pi r^{2}$ | |------------------------------------|----------------------------------------| | The next cell has another equation | $x=\\\\frac{-b \\\\pm \\\\sqrt{b^{2}-4ac}}{2a}$ |\n",
+    "plain": "| The next cell has an equation      | $A= \\pi r^{2}$                         |\n|------------------------------------|----------------------------------------|\n| The next cell has another equation | $x=\\frac{-b \\pm \\sqrt{b^{2}-4ac}}{2a}$ |"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pdf/line-char-render-example.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/line-char-render-example.md",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/line-char-render-example.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>first line</p>\n<p>second line</p>\n<p>third line</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"first line\"},{\"type\":\"paragraph\",\"text\":\"second line\"},{\"type\":\"paragraph\",\"text\":\"third line\"}]}",
+    "markdown": "first line\n\nsecond line\n\nthird line\n",
+    "plain": "first line\n\nsecond line\n\nthird line"
+  }
+}

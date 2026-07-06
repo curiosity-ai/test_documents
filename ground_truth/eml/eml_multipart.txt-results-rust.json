@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/eml_multipart.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 9,
+      "word_count": 34,
+      "character_count": 228
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/eml/eml_multipart.txt",
+      "source_uri": "ground_truth/eml/eml_multipart.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Multipart Email Test From: sender@example.com To: recipient@example.com Date: Wed, 15 Mar 2024 14:30:00 +0000 This is the plain text version of the email. It has multiple lines and some formatting.</p>\n<p>Best regards, Sender</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Multipart Email Test\\nFrom: sender@example.com\\nTo: recipient@example.com\\nDate: Wed, 15 Mar 2024 14:30:00 +0000\\nThis is the plain text version of the email.\\nIt has multiple lines and some formatting.\"},{\"type\":\"paragraph\",\"text\":\"Best regards,\\nSender\"}]}",
+    "markdown": "Subject: Multipart Email Test From: sender@example.com To: recipient@example.com Date: Wed, 15 Mar 2024 14:30:00 +0000 This is the plain text version of the email. It has multiple lines and some formatting.\n\nBest regards, Sender\n",
+    "plain": "Subject: Multipart Email Test\nFrom: sender@example.com\nTo: recipient@example.com\nDate: Wed, 15 Mar 2024 14:30:00 +0000\nThis is the plain text version of the email.\nIt has multiple lines and some formatting.\n\nBest regards,\nSender"
+  }
+}

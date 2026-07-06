@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/j2k/j2k_image.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 30,
+      "character_count": 215
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/j2k/j2k_image.txt",
+      "final_uri": "ground_truth/j2k/j2k_image.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Satellite/terrain image of Hadley Crater on Mars. No visible text. Image shows circular crater formations, impact structures, and Martian surface topography with various depths and shadows created by terrain relief.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Satellite/terrain image of Hadley Crater on Mars. No visible text. Image shows circular crater formations, impact structures, and Martian surface topography with various depths and shadows created by terrain relief.\"}]}",
+    "markdown": "Satellite/terrain image of Hadley Crater on Mars. No visible text. Image shows circular crater formations, impact structures, and Martian surface topography with various depths and shadows created by terrain relief.\n",
+    "plain": "Satellite/terrain image of Hadley Crater on Mars. No visible text. Image shows circular crater formations, impact structures, and Martian surface topography with various depths and shadows created by terrain relief."
+  }
+}

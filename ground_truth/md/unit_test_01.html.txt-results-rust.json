@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/unit_test_01.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 13,
+      "word_count": 14,
+      "character_count": 106
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/md/unit_test_01.html.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/md/unit_test_01.html.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Title</p>\n<p>## section-1</p>\n<p>### section-1.1</p>\n<p>## section-2</p>\n<p>#### section-2.0.1</p>\n<p>### section-2.2</p>\n<p>### section-2.3</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Title\"},{\"type\":\"paragraph\",\"text\":\"## section-1\"},{\"type\":\"paragraph\",\"text\":\"### section-1.1\"},{\"type\":\"paragraph\",\"text\":\"## section-2\"},{\"type\":\"paragraph\",\"text\":\"#### section-2.0.1\"},{\"type\":\"paragraph\",\"text\":\"### section-2.2\"},{\"type\":\"paragraph\",\"text\":\"### section-2.3\"}]}",
+    "markdown": "\\# Title\n\n\\#\\# section-1\n\n\\#\\#\\# section-1.1\n\n\\#\\# section-2\n\n\\#\\#\\#\\# section-2.0.1\n\n\\#\\#\\# section-2.2\n\n\\#\\#\\# section-2.3\n",
+    "plain": "# Title\n\n## section-1\n\n### section-1.1\n\n## section-2\n\n#### section-2.0.1\n\n### section-2.2\n\n### section-2.3"
+  }
+}

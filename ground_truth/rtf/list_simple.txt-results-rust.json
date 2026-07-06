@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/rtf/list_simple.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 7,
+      "word_count": 9,
+      "character_count": 33
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/rtf/list_simple.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/rtf/list_simple.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>- one</p>\n<p>- two</p>\n<p>- sub</p>\n<p>- new list</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"- one\"},{\"type\":\"paragraph\",\"text\":\"- two\"},{\"type\":\"paragraph\",\"text\":\"- sub\"},{\"type\":\"paragraph\",\"text\":\"- new list\"}]}",
+    "markdown": "\\- one\n\n\\- two\n\n\\- sub\n\n\\- new list\n",
+    "plain": "- one\n\n- two\n\n- sub\n\n- new list"
+  }
+}

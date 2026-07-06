@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pdf/pdf_ocr_rotated.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/pdf_ocr_rotated.md",
+      "final_uri": "ground_truth/pdf/pdf_ocr_rotated.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Docling bundles PDF document conversion to JSON and Markdown in an easy self contained package</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Docling bundles PDF document conversion to JSON and Markdown in an easy self contained package\"}]}",
+    "markdown": "Docling bundles PDF document conversion to JSON and Markdown in an easy self contained package\n",
+    "plain": "Docling bundles PDF document conversion to JSON and Markdown in an easy self contained package"
+  }
+}

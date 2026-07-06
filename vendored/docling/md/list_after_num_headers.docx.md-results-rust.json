@@ -1,0 +1,22 @@
+{
+  "file": "vendored/docling/md/list_after_num_headers.docx.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/docling/md/list_after_num_headers.docx.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "vendored/docling/md/list_after_num_headers.docx.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h3>Chính sách bảo hành</h3>\n<h4>1 ĐỐI TƯỢNG ÁP DỤNG</h4>\n<ul>\n<li>Chính sách bảo hành và các điều k</li>\n<li>Pin điện áp cao (sau đây gọi tắt là “</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Chính sách bảo hành\",\"level\":3,\"body\":[{\"type\":\"section\",\"heading\":\"1 ĐỐI TƯỢNG ÁP DỤNG\",\"level\":4,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"Chính sách bảo hành và các điều k\",\"Pin điện áp cao (sau đây gọi tắt là “\"]}]}]}]}",
+    "markdown": "### Chính sách bảo hành\n\n#### 1 ĐỐI TƯỢNG ÁP DỤNG\n\n- Chính sách bảo hành và các điều k\n- Pin điện áp cao (sau đây gọi tắt là “\n",
+    "plain": "    Chính sách bảo hành\n      1 ĐỐI TƯỢNG ÁP DỤNG\nChính sách bảo hành và các điều k\nPin điện áp cao (sau đây gọi tắt là “"
+  }
+}

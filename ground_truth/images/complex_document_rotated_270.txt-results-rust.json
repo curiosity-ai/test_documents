@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/images/complex_document_rotated_270.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 26,
+      "word_count": 63,
+      "character_count": 371
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/images/complex_document_rotated_270.txt",
+      "source_uri": "ground_truth/images/complex_document_rotated_270.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Sales Report 2024</p>\n<p>This report contains quarterly sales data for our products.</p>\n<p>Q1 Sales:</p>\n<p>Product Units Revenue Widget A 150 ,500 Widget B 200 ,000 Widget C 100 ,000</p>\n<p>Q2 Sales:</p>\n<p>Product Units Revenue Widget A 180 ,000 Widget B 220 ,200 Widget C 130 ,400</p>\n<p>Summary:</p>\n<p>Total Q1 Revenue: ,500 Total Q2 Revenue: ,600</p>\n<p>Prepared by: John Doe Date: 2024-03-15 Department: Finance</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Sales Report 2024\"},{\"type\":\"paragraph\",\"text\":\"This report contains quarterly sales data for our products.\"},{\"type\":\"paragraph\",\"text\":\"Q1 Sales:\"},{\"type\":\"paragraph\",\"text\":\"Product Units Revenue\\nWidget A 150 ,500\\nWidget B 200 ,000\\nWidget C 100 ,000\"},{\"type\":\"paragraph\",\"text\":\"Q2 Sales:\"},{\"type\":\"paragraph\",\"text\":\"Product Units Revenue\\nWidget A 180 ,000\\nWidget B 220 ,200\\nWidget C 130 ,400\"},{\"type\":\"paragraph\",\"text\":\"Summary:\"},{\"type\":\"paragraph\",\"text\":\"Total Q1 Revenue: ,500\\nTotal Q2 Revenue: ,600\"},{\"type\":\"paragraph\",\"text\":\"Prepared by: John Doe\\nDate: 2024-03-15\\nDepartment: Finance\"}]}",
+    "markdown": "Sales Report 2024\n\nThis report contains quarterly sales data for our products.\n\nQ1 Sales:\n\nProduct Units Revenue Widget A 150 ,500 Widget B 200 ,000 Widget C 100 ,000\n\nQ2 Sales:\n\nProduct Units Revenue Widget A 180 ,000 Widget B 220 ,200 Widget C 130 ,400\n\nSummary:\n\nTotal Q1 Revenue: ,500 Total Q2 Revenue: ,600\n\nPrepared by: John Doe Date: 2024-03-15 Department: Finance\n",
+    "plain": "Sales Report 2024\n\nThis report contains quarterly sales data for our products.\n\nQ1 Sales:\n\nProduct Units Revenue\nWidget A 150 ,500\nWidget B 200 ,000\nWidget C 100 ,000\n\nQ2 Sales:\n\nProduct Units Revenue\nWidget A 180 ,000\nWidget B 220 ,200\nWidget C 130 ,400\n\nSummary:\n\nTotal Q1 Revenue: ,500\nTotal Q2 Revenue: ,600\n\nPrepared by: John Doe\nDate: 2024-03-15\nDepartment: Finance"
+  }
+}

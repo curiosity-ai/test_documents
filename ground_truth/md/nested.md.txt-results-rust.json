@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/nested.md.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 31,
+      "word_count": 71,
+      "character_count": 476
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/md/nested.md.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/md/nested.md.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Nesting</p>\n<p>A list featuring nesting:</p>\n<p>- abc - abc123 - abc1234 - abc12345 - a. - b. - abcd1234： - abcd12345： - a. - b. - def： - def1234： - def12345。 - after one empty line - foo - afer two empty lines - bar</p>\n<p>- changing symbol</p>\n<p>A nested HTML list:</p>\n<p>- First item - Second item with subitems: - Subitem 1 - Subitem 2 - Last list item</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Nesting\"},{\"type\":\"paragraph\",\"text\":\"A list featuring nesting:\"},{\"type\":\"paragraph\",\"text\":\"- abc\\n    - abc123\\n        - abc1234\\n            - abc12345\\n                - a.\\n                - b.\\n        - abcd1234：\\n            - abcd12345：\\n                - a.\\n                - b.\\n- def：\\n    - def1234：\\n        - def12345。\\n- after one empty line\\n    - foo\\n- afer two empty lines\\n    - bar\"},{\"type\":\"paragraph\",\"text\":\"- changing symbol\"},{\"type\":\"paragraph\",\"text\":\"A nested HTML list:\"},{\"type\":\"paragraph\",\"text\":\"- First item\\n- Second item with subitems:\\n    - Subitem 1\\n    - Subitem 2\\n- Last list item\"}]}",
+    "markdown": "\\# Nesting\n\nA list featuring nesting:\n\n\\- abc - abc123 - abc1234 - abc12345 - a. - b. - abcd1234： - abcd12345： - a. - b. - def： - def1234： - def12345。 - after one empty line - foo - afer two empty lines - bar\n\n\\- changing symbol\n\nA nested HTML list:\n\n\\- First item - Second item with subitems: - Subitem 1 - Subitem 2 - Last list item\n",
+    "plain": "# Nesting\n\nA list featuring nesting:\n\n- abc\n    - abc123\n        - abc1234\n            - abc12345\n                - a.\n                - b.\n        - abcd1234：\n            - abcd12345：\n                - a.\n                - b.\n- def：\n    - def1234：\n        - def12345。\n- after one empty line\n    - foo\n- afer two empty lines\n    - bar\n\n- changing symbol\n\nA nested HTML list:\n\n- First item\n- Second item with subitems:\n    - Subitem 1\n    - Subitem 2\n- Last list item"
+  }
+}

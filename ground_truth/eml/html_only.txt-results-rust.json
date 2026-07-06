@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/html_only.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 28,
+      "word_count": 59,
+      "character_count": 403
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/eml/html_only.txt",
+      "final_uri": "ground_truth/eml/html_only.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: HTML Only Email From: html-sender@example.com To: html-recipient@example.com Date: Fri, 10 May 2024 16:45:00 +0000 Welcome to Our Service</p>\n<p>This email contains only HTML content.</p>\n<p>It includes:</p>\n<p>- HTML entities: &lt;, &gt;, &amp;, &quot;</p>\n<p>- Special characters: €, ©, ®</p>\n<p>- Formatting: italic, bold</p>\n<p>The Rust implementation should clean this HTML and extract meaningful text.</p>\n<p>© 2024 Example Company</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: HTML Only Email\\nFrom: html-sender@example.com\\nTo: html-recipient@example.com\\nDate: Fri, 10 May 2024 16:45:00 +0000\\nWelcome to Our Service\"},{\"type\":\"paragraph\",\"text\":\"This email contains only HTML content.\"},{\"type\":\"paragraph\",\"text\":\"It includes:\"},{\"type\":\"paragraph\",\"text\":\"- HTML entities: <, >, &, \\\"\"},{\"type\":\"paragraph\",\"text\":\"- Special characters: €, ©, ®\"},{\"type\":\"paragraph\",\"text\":\"- Formatting: italic, bold\"},{\"type\":\"paragraph\",\"text\":\"The Rust implementation should clean this HTML and extract meaningful text.\"},{\"type\":\"paragraph\",\"text\":\"© 2024 Example Company\"}]}",
+    "markdown": "Subject: HTML Only Email From: html-sender@example.com To: html-recipient@example.com Date: Fri, 10 May 2024 16:45:00 +0000 Welcome to Our Service\n\nThis email contains only HTML content.\n\nIt includes:\n\n\\- HTML entities: \\<, \\>, &, \"\n\n\\- Special characters: €, ©, ®\n\n\\- Formatting: italic, bold\n\nThe Rust implementation should clean this HTML and extract meaningful text.\n\n© 2024 Example Company\n",
+    "plain": "Subject: HTML Only Email\nFrom: html-sender@example.com\nTo: html-recipient@example.com\nDate: Fri, 10 May 2024 16:45:00 +0000\nWelcome to Our Service\n\nThis email contains only HTML content.\n\nIt includes:\n\n- HTML entities: <, >, &, \"\n\n- Special characters: €, ©, ®\n\n- Formatting: italic, bold\n\nThe Rust implementation should clean this HTML and extract meaningful text.\n\n© 2024 Example Company"
+  }
+}

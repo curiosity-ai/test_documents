@@ -1,0 +1,53 @@
+{
+  "file": "markdown/sample.mdx",
+  "mime_type": "text/mdx",
+  "success": true,
+  "metadata": {
+    "title": "MDX Sample Document",
+    "subject": "A sample MDX document for testing extraction",
+    "keywords": [
+      "mdx",
+      "testing",
+      "xberg"
+    ],
+    "created_at": "2024-06-15",
+    "created_by": "Test Author",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "markdown/sample.mdx",
+      "source_index": 0,
+      "final_uri": "markdown/sample.mdx",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Format",
+          "Extension",
+          "Supported"
+        ],
+        [
+          "MDX",
+          ".mdx",
+          "Yes"
+        ],
+        [
+          "MD",
+          ".md",
+          "Yes"
+        ]
+      ],
+      "markdown": "| Format | Extension | Supported |\n| --- | --- | --- |\n| MDX | .mdx | Yes |\n| MD | .md | Yes |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p><strong>title</strong>: MDX Sample Document</p>\n<p><strong>author</strong>: Test Author</p>\n<p><strong>date</strong>: 2024-06-15</p>\n<p><strong>description</strong>: A sample MDX document for testing extraction</p>\n<p><strong>keywords</strong>: Sequence [String(&quot;mdx&quot;), String(&quot;testing&quot;), String(&quot;xberg&quot;)]</p>\n<Chart data={sampleData} />\n<h1>MDX Sample Document</h1>\n<p>This is a sample MDX document that combines <strong>Markdown</strong> with JSX components.</p>\n<h2>Features</h2>\n<p>MDX allows you to use JSX components directly in your markdown:</p>\n<p>This is an important warning message rendered by a JSX component.</p>\n<h3>Regular Markdown</h3>\n<ul>\n<li>List item one</li>\n<li>List item two</li>\n<li>List item three</li>\n</ul>\n<p>Here is a table:</p>\n<table>\n<thead>\n<tr>\n<th>Format</th>\n<th>Extension</th>\n<th>Supported</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>MDX</td>\n<td>.mdx</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>MD</td>\n<td>.md</td>\n<td>Yes</td>\n</tr>\n</tbody>\n</table>\n<h3>Code Example</h3>\n<pre lang=\"javascript\"><code>function greet(name) {\n  return `Hello, ${name}!`;\n}</code></pre>\n<h2>Conclusion</h2>\n<p>MDX is a powerful format that bridges content and components.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"MDX Sample Document\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a sample MDX document that combines Markdown with JSX components.\"},{\"type\":\"section\",\"heading\":\"Features\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"MDX allows you to use JSX components directly in your markdown:\"},{\"type\":\"paragraph\",\"text\":\"This is an important warning message rendered by a JSX component.\"},{\"type\":\"section\",\"heading\":\"Regular Markdown\",\"level\":3,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"List item one\",\"List item two\",\"List item three\"]},{\"type\":\"paragraph\",\"text\":\"Here is a table:\"},{\"type\":\"table\",\"headers\":[\"Format\",\"Extension\",\"Supported\"],\"rows\":[[\"MDX\",\".mdx\",\"Yes\"],[\"MD\",\".md\",\"Yes\"]]}]},{\"type\":\"section\",\"heading\":\"Code Example\",\"level\":3,\"body\":[{\"type\":\"code\",\"text\":\"function greet(name) {\\n  return `Hello, ${name}!`;\\n}\",\"language\":\"javascript\"}]}]},{\"type\":\"section\",\"heading\":\"Conclusion\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"MDX is a powerful format that bridges content and components.\"}]}]}]}",
+    "markdown": "**title**: MDX Sample Document\n\n**author**: Test Author\n\n**date**: 2024-06-15\n\n**description**: A sample MDX document for testing extraction\n\n**keywords**: Sequence [String(\"mdx\"), String(\"testing\"), String(\"xberg\")]\n\n<Chart data={sampleData} /># MDX Sample Document\n\nThis is a sample MDX document that combines **Markdown** with JSX components.\n\n## Features\n\nMDX allows you to use JSX components directly in your markdown:\n\nThis is an important warning message rendered by a JSX component.\n\n### Regular Markdown\n\n- List item one\n- List item two\n- List item three\n\nHere is a table:\n\n| Format | Extension | Supported |\n| --- | --- | --- |\n| MDX | .mdx | Yes |\n| MD | .md | Yes |\n\n### Code Example\n\n```javascript\nfunction greet(name) {\n  return `Hello, ${name}!`;\n}\n```\n\n## Conclusion\n\nMDX is a powerful format that bridges content and components.\n",
+    "plain": "title: MDX Sample Document\nauthor: Test Author\ndate: 2024-06-15\ndescription: A sample MDX document for testing extraction\nkeywords: Sequence [String(\"mdx\"), String(\"testing\"), String(\"xberg\")]\n\n<Chart data={sampleData} />\n\nMDX Sample Document\nThis is a sample MDX document that combines Markdown with JSX components.\n\n  Features\nMDX allows you to use JSX components directly in your markdown:\n\nThis is an important warning message rendered by a JSX component.\n\n    Regular Markdown\nList item one\nList item two\nList item three\nHere is a table:\n\nFormat Extension Supported\nMDX .mdx Yes\nMD .md Yes\n\n    Code Example\nfunction greet(name) {\n  return `Hello, ${name}!`;\n}\n\n  Conclusion\nMDX is a powerful format that bridges content and components."
+  }
+}

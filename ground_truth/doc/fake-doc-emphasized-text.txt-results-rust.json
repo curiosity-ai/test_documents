@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/doc/fake-doc-emphasized-text.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 4,
+      "word_count": 27,
+      "character_count": 167
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/doc/fake-doc-emphasized-text.txt",
+      "source_uri": "ground_truth/doc/fake-doc-emphasized-text.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Header Col 1 \tHeader Col 2\t\tA bold italic bold-italic example\tHYPERLINK &quot;http://github.com/&quot;A Link example \t\t I am a bold italic bold-italic text.</p>\n<p>I am a normal text.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Header Col 1 \\tHeader Col 2\\t\\tA bold italic bold-italic example\\tHYPERLINK \\\"http://github.com/\\\"A Link example \\t\\t\\nI am a bold italic bold-italic text.\"},{\"type\":\"paragraph\",\"text\":\"I am a normal text.\"}]}",
+    "markdown": "Header Col 1 &#9;Header Col 2&#9;&#9;A bold italic bold-italic example&#9;HYPERLINK \"http://github.com/\"A Link example &#9;&#9; I am a bold italic bold-italic text.\n\nI am a normal text.\n",
+    "plain": "Header Col 1 \tHeader Col 2\t\tA bold italic bold-italic example\tHYPERLINK \"http://github.com/\"A Link example \t\t\nI am a bold italic bold-italic text.\n\nI am a normal text."
+  }
+}

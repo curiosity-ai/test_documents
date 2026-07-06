@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/rtf/rtf_complex.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 16,
+      "word_count": 35,
+      "character_count": 155
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/rtf/rtf_complex.txt",
+      "final_uri": "ground_truth/rtf/rtf_complex.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>1. One 2. Two a. Three b. Four i. Five ii. Six A. Seven B. Eight I. Nine II. Ten o Eleven o Twelve Out of list! Start with 7. Seven Start 8. Eight Continue</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"1. One\\n2. Two\\na. Three\\nb. Four\\ni. Five\\nii. Six\\nA. Seven\\nB. Eight\\nI. Nine\\nII. Ten\\no Eleven\\no Twelve\\nOut of list!\\nStart with\\n7. Seven Start\\n8. Eight Continue\"}]}",
+    "markdown": "1\\. One 2. Two a. Three b. Four i. Five ii. Six A. Seven B. Eight I. Nine II. Ten o Eleven o Twelve Out of list\\! Start with 7. Seven Start 8. Eight Continue\n",
+    "plain": "1. One\n2. Two\na. Three\nb. Four\ni. Five\nii. Six\nA. Seven\nB. Eight\nI. Nine\nII. Ten\no Eleven\no Twelve\nOut of list!\nStart with\n7. Seven Start\n8. Eight Continue"
+  }
+}

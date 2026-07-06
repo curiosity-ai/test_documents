@@ -1,0 +1,133 @@
+{
+  "file": "vendored/docling/html/table_05.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "html",
+      "keywords": [],
+      "open_graph": {},
+      "twitter_card": {},
+      "meta_tags": {},
+      "headers": [
+        {
+          "level": 1,
+          "text": "Header",
+          "depth": 2,
+          "html_offset": 0
+        }
+      ],
+      "links": [],
+      "images": [],
+      "structured_data": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/docling/html/table_05.html",
+      "source_index": 0,
+      "final_uri": "vendored/docling/html/table_05.html",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "A1",
+          "B1",
+          "C1"
+        ],
+        [
+          "D1",
+          "E1",
+          "F1"
+        ]
+      ],
+      "markdown": "| A1 | B1 | C1 |\n| --- | --- | --- |\n| D1 | E1 | F1 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "A1",
+          "B1",
+          "C1"
+        ],
+        [
+          "D1",
+          "E1",
+          "F1"
+        ]
+      ],
+      "markdown": "| A1 | B1 | C1 |\n| --- | --- | --- |\n| D1 | E1 | F1 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "A",
+          "B"
+        ],
+        [
+          "| A1 | B1 | C1 |\n| --- | --- | --- |\n| D1 | E1 | F1 |",
+          "2..."
+        ]
+      ],
+      "markdown": "| A | B |\n| --- | --- |\n| | A1 | B1 | C1 |\n| --- | --- | --- |\n| D1 | E1 | F1 | | 2... |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "A1",
+          "B1",
+          "C1"
+        ],
+        [
+          "D1",
+          "E1",
+          "F1"
+        ]
+      ],
+      "markdown": "| A1 | B1 | C1 |\n| --- | --- | --- |\n| D1 | E1 | F1 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "A1",
+          "B1",
+          "C1"
+        ],
+        [
+          "D1",
+          "E1",
+          "F1"
+        ]
+      ],
+      "markdown": "| A1 | B1 | C1 |\n| --- | --- | --- |\n| D1 | E1 | F1 |\n",
+      "page_number": 2
+    },
+    {
+      "cells": [
+        [
+          "A",
+          "B"
+        ],
+        [
+          "| A1 | B1 | C1 |\n| --- | --- | --- |\n| D1 | E1 | F1 |",
+          "2..."
+        ]
+      ],
+      "markdown": "| A | B |\n| --- | --- |\n| | A1 | B1 | C1 |\n| --- | --- | --- |\n| D1 | E1 | F1 | | 2... |\n",
+      "page_number": 3
+    }
+  ],
+  "content": {
+    "html": "<h1>Header</h1>\n<p>This is the first paragraph.</p>\n<table>\n<thead>\n<tr>\n<th>A1</th>\n<th>B1</th>\n<th>C1</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>D1</td>\n<td>E1</td>\n<td>F1</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>A1</th>\n<th>B1</th>\n<th>C1</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>D1</td>\n<td>E1</td>\n<td>F1</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>A</th>\n<th>B</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>| A1 | B1 | C1 | | --- | --- | --- | | D1 | E1 | F1 |</td>\n<td>2...</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Header\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is the first paragraph.\"},{\"type\":\"table\",\"headers\":[\"A1\",\"B1\",\"C1\"],\"rows\":[[\"D1\",\"E1\",\"F1\"]]},{\"type\":\"table\",\"headers\":[\"A1\",\"B1\",\"C1\"],\"rows\":[[\"D1\",\"E1\",\"F1\"]]},{\"type\":\"table\",\"headers\":[\"A\",\"B\"],\"rows\":[[\"| A1 | B1 | C1 |\\n| --- | --- | --- |\\n| D1 | E1 | F1 |\",\"2...\"]]}]}]}",
+    "markdown": "# Header\n\nThis is the first paragraph.\n\n- A B\n- | A1 | B1 | C1 |\n| --- | --- | --- |\n| D1 | E1 | F1 | 2...\nAfter table\n",
+    "plain": "  Header\n  This is the first paragraph.\n\nA1 B1 C1\nD1 E1 F1\n\nA1 B1 C1\nD1 E1 F1\n\nA B\n| A1 | B1 | C1 |\n| --- | --- | --- |\n| D1 | E1 | F1 | 2..."
+  }
+}

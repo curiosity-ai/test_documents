@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/msg/test_outlook_msg.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 5,
+      "word_count": 22,
+      "character_count": 183
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/msg/test_outlook_msg.txt",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/msg/test_outlook_msg.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Test Email Message From: &quot;M. C. Kurtuluş&quot; &lt;test.sender@example.com&gt; To: test.recipient@example.com Date: 2024-12-22T08:23:00+00:00 This is the body of the test email message</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Test Email Message\\nFrom: \\\"M. C. Kurtuluş\\\" <test.sender@example.com>\\nTo: test.recipient@example.com\\nDate: 2024-12-22T08:23:00+00:00\\nThis is the body of the test email message\"}]}",
+    "markdown": "Subject: Test Email Message From: \"M. C. Kurtuluş\" \\<test.sender@example.com\\> To: test.recipient@example.com Date: 2024-12-22T08:23:00+00:00 This is the body of the test email message\n",
+    "plain": "Subject: Test Email Message\nFrom: \"M. C. Kurtuluş\" <test.sender@example.com>\nTo: test.recipient@example.com\nDate: 2024-12-22T08:23:00+00:00\nThis is the body of the test email message"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "file": "vendored/pdfplumber/pdf/page-boxes-example.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.3",
+      "producer": "PyPDF2",
+      "is_encrypted": false,
+      "width": 624,
+      "height": 870,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "extraction_method": "native",
+      "source_kind": "uri",
+      "source_uri": "vendored/pdfplumber/pdf/page-boxes-example.pdf",
+      "source_index": 0,
+      "final_uri": "vendored/pdfplumber/pdf/page-boxes-example.pdf"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>PDF Page Boxes Demonstration</h1>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"PDF Page Boxes Demonstration\"}]}",
+    "markdown": "# PDF Page Boxes Demonstration\n",
+    "plain": "PDF Page Boxes Demonstration"
+  }
+}

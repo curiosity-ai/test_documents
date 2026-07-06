@@ -1,0 +1,35 @@
+{
+  "file": "email/sample_email.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Test Email Subject",
+    "created_at": "Mon, 1 Jan 2024 12:00:00 +0000",
+    "format": {
+      "format_type": "email",
+      "from_email": "sender@example.com",
+      "to_emails": [
+        "recipient@example.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "attachments": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "email/sample_email.eml",
+      "source_kind": "uri",
+      "source_uri": "email/sample_email.eml",
+      "content_type": "text/plain; charset=utf-8",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Test Email Subject</p>\n<p><strong>From</strong>: sender@example.com</p>\n<p><strong>To</strong>: recipient@example.com</p>\n<p><strong>Date</strong>: Mon, 1 Jan 2024 12:00:00 +0000</p>\n<p>This is a test email with some content. It has multiple lines of text.</p>\n<p>Best regards, Test User</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a test email with some content.\\nIt has multiple lines of text.\"},{\"type\":\"paragraph\",\"text\":\"Best regards,\\nTest User\"}]}",
+    "markdown": "**Subject**: Test Email Subject\n\n**From**: sender@example.com\n\n**To**: recipient@example.com\n\n**Date**: Mon, 1 Jan 2024 12:00:00 +0000\n\nThis is a test email with some content. It has multiple lines of text.\n\nBest regards, Test User\n",
+    "plain": "Subject: Test Email Subject\nFrom: sender@example.com\nTo: recipient@example.com\nDate: Mon, 1 Jan 2024 12:00:00 +0000\n\nThis is a test email with some content.\nIt has multiple lines of text.\n\nBest regards,\nTest User"
+  }
+}

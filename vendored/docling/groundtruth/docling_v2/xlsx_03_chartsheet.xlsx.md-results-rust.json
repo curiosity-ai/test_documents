@@ -1,0 +1,71 @@
+{
+  "file": "vendored/docling/groundtruth/docling_v2/xlsx_03_chartsheet.xlsx.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/docling/groundtruth/docling_v2/xlsx_03_chartsheet.xlsx.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "vendored/docling/groundtruth/docling_v2/xlsx_03_chartsheet.xlsx.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Year",
+          "Freshwater Ducks",
+          "Saltwater Ducks",
+          "Ducks"
+        ],
+        [
+          "2019",
+          "120",
+          "80",
+          "200"
+        ],
+        [
+          "2020",
+          "135",
+          "95",
+          "230"
+        ],
+        [
+          "2021",
+          "150",
+          "100",
+          "250"
+        ],
+        [
+          "2022",
+          "170",
+          "110",
+          "280"
+        ],
+        [
+          "2023",
+          "160",
+          "120",
+          "280"
+        ],
+        [
+          "2024",
+          "180",
+          "130",
+          "310"
+        ]
+      ],
+      "markdown": "| Year | Freshwater Ducks | Saltwater Ducks | Ducks |\n| --- | --- | --- | --- |\n| 2019 | 120 | 80 | 200 |\n| 2020 | 135 | 95 | 230 |\n| 2021 | 150 | 100 | 250 |\n| 2022 | 170 | 110 | 280 |\n| 2023 | 160 | 120 | 280 |\n| 2024 | 180 | 130 | 310 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>Year</th>\n<th>Freshwater Ducks</th>\n<th>Saltwater Ducks</th>\n<th>Ducks</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2019</td>\n<td>120</td>\n<td>80</td>\n<td>200</td>\n</tr>\n<tr>\n<td>2020</td>\n<td>135</td>\n<td>95</td>\n<td>230</td>\n</tr>\n<tr>\n<td>2021</td>\n<td>150</td>\n<td>100</td>\n<td>250</td>\n</tr>\n<tr>\n<td>2022</td>\n<td>170</td>\n<td>110</td>\n<td>280</td>\n</tr>\n<tr>\n<td>2023</td>\n<td>160</td>\n<td>120</td>\n<td>280</td>\n</tr>\n<tr>\n<td>2024</td>\n<td>180</td>\n<td>130</td>\n<td>310</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"Year\",\"Freshwater Ducks\",\"Saltwater Ducks\",\"Ducks\"],\"rows\":[[\"2019\",\"120\",\"80\",\"200\"],[\"2020\",\"135\",\"95\",\"230\"],[\"2021\",\"150\",\"100\",\"250\"],[\"2022\",\"170\",\"110\",\"280\"],[\"2023\",\"160\",\"120\",\"280\"],[\"2024\",\"180\",\"130\",\"310\"]]}]}",
+    "markdown": "| Year | Freshwater Ducks | Saltwater Ducks | Ducks |\n| --- | --- | --- | --- |\n| 2019 | 120 | 80 | 200 |\n| 2020 | 135 | 95 | 230 |\n| 2021 | 150 | 100 | 250 |\n| 2022 | 170 | 110 | 280 |\n| 2023 | 160 | 120 | 280 |\n| 2024 | 180 | 130 | 310 |\n",
+    "plain": "Year Freshwater Ducks Saltwater Ducks Ducks\n2019 120 80 200\n2020 135 95 230\n2021 150 100 250\n2022 170 110 280\n2023 160 120 280\n2024 180 130 310"
+  }
+}

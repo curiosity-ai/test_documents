@@ -1,0 +1,50 @@
+{
+  "file": "vendored/docling/md/example_03.html.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Example Document",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "vendored/docling/md/example_03.html.md",
+      "final_uri": "vendored/docling/md/example_03.html.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Header 1",
+          "Header 2",
+          "Header 3"
+        ],
+        [
+          "Row 1, Col 1",
+          "Row 1, Col 2",
+          "Row 1, Col 3"
+        ],
+        [
+          "Row 2, Col 1",
+          "Row 2, Col 2",
+          "Row 2, Col 3"
+        ],
+        [
+          "Row 3, Col 1",
+          "Row 3, Col 2",
+          "Row 3, Col 3"
+        ]
+      ],
+      "markdown": "| Header 1 | Header 2 | Header 3 |\n| --- | --- | --- |\n| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |\n| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |\n| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Example Document</h1>\n<h2>Introduction</h2>\n<p>This is the first paragraph of the introduction.</p>\n<h2>Background</h2>\n<p>Some background information here.</p>\n<ul>\n<li>\n<ul>\n<li>Nested item 1</li>\n<li>Nested item 2</li>\n</ul>\n</li>\n<li>Second item in unordered list</li>\n</ul>\n<ol>\n<li>\n<ol>\n<li>Nested ordered item 1</li>\n<li>Nested ordered item 2</li>\n</ol>\n</li>\n<li>Second item in ordered list</li>\n</ol>\n<h2>Data Table</h2>\n<table>\n<thead>\n<tr>\n<th>Header 1</th>\n<th>Header 2</th>\n<th>Header 3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Row 1, Col 1</td>\n<td>Row 1, Col 2</td>\n<td>Row 1, Col 3</td>\n</tr>\n<tr>\n<td>Row 2, Col 1</td>\n<td>Row 2, Col 2</td>\n<td>Row 2, Col 3</td>\n</tr>\n<tr>\n<td>Row 3, Col 1</td>\n<td>Row 3, Col 2</td>\n<td>Row 3, Col 3</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Example Document\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Introduction\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is the first paragraph of the introduction.\"}]},{\"type\":\"section\",\"heading\":\"Background\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Some background information here.\"},{\"type\":\"list\",\"ordered\":false,\"items\":[]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Nested item 1\",\"Nested item 2\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Second item in unordered list\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Nested ordered item 1\",\"Nested ordered item 2\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Second item in ordered list\"]}]},{\"type\":\"section\",\"heading\":\"Data Table\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Header 1\",\"Header 2\",\"Header 3\"],\"rows\":[[\"Row 1, Col 1\",\"Row 1, Col 2\",\"Row 1, Col 3\"],[\"Row 2, Col 1\",\"Row 2, Col 2\",\"Row 2, Col 3\"],[\"Row 3, Col 1\",\"Row 3, Col 2\",\"Row 3, Col 3\"]]}]}]}]}",
+    "markdown": "# Example Document\n\n## Introduction\n\nThis is the first paragraph of the introduction.\n\n## Background\n\nSome background information here.\n\n- - Nested item 1\n  - Nested item 2\n- Second item in unordered list\n\n1. 1. Nested ordered item 1\n   2. Nested ordered item 2\n2. Second item in ordered list\n\n## Data Table\n\n| Header 1 | Header 2 | Header 3 |\n| --- | --- | --- |\n| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |\n| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |\n| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |\n",
+    "plain": "Example Document\n  Introduction\nThis is the first paragraph of the introduction.\n\n  Background\nSome background information here.\n\nNested item 1\nNested item 2\nSecond item in unordered list\nNested ordered item 1\nNested ordered item 2\nSecond item in ordered list\n\n  Data Table\nHeader 1 Header 2 Header 3\nRow 1, Col 1 Row 1, Col 2 Row 1, Col 3\nRow 2, Col 1 Row 2, Col 2 Row 2, Col 3\nRow 3, Col 1 Row 3, Col 2 Row 3, Col 3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/org/code-blocks.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 15,
+      "word_count": 22,
+      "character_count": 192
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/org/code-blocks.txt",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/org/code-blocks.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Python Code</p>\n<p>def hello(): print(&quot;Hello, World!&quot;)</p>\n<p>Bash Code</p>\n<p>echo &quot;Testing bash&quot; ls -la</p>\n<p>JavaScript Code</p>\n<p>function greet(name) { return `Hello, ${name}!`; }</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Python Code\"},{\"type\":\"paragraph\",\"text\":\"def hello():\\n        print(\\\"Hello, World!\\\")\"},{\"type\":\"paragraph\",\"text\":\"Bash Code\"},{\"type\":\"paragraph\",\"text\":\"echo \\\"Testing bash\\\"\\n    ls -la\"},{\"type\":\"paragraph\",\"text\":\"JavaScript Code\"},{\"type\":\"paragraph\",\"text\":\"function greet(name) {\\n        return `Hello, ${name}!`;\\n    }\"}]}",
+    "markdown": "Python Code\n\ndef hello(): print(\"Hello, World\\!\")\n\nBash Code\n\necho \"Testing bash\" ls -la\n\nJavaScript Code\n\nfunction greet(name) { return \\`Hello, ${name}\\!\\`; }\n",
+    "plain": "Python Code\n\ndef hello():\n        print(\"Hello, World!\")\n\nBash Code\n\necho \"Testing bash\"\n    ls -la\n\nJavaScript Code\n\nfunction greet(name) {\n        return `Hello, ${name}!`;\n    }"
+  }
+}

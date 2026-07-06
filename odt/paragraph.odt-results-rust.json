@@ -1,0 +1,32 @@
+{
+  "file": "odt/paragraph.odt",
+  "mime_type": "application/vnd.oasis.opendocument.text",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Martin Linnemann"
+    ],
+    "created_at": "2015-03-01T17:26:12.31",
+    "modified_at": "2015-03-01T17:27:28.53",
+    "created_by": "Martin Linnemann",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "generator": "OpenOffice/4.0.1$Win32 OpenOffice.org_project/401m5$Build-9714",
+      "source_kind": "uri",
+      "source_uri": "odt/paragraph.odt",
+      "final_uri": "odt/paragraph.odt",
+      "source_index": 0,
+      "editing_duration": "PT1M17S",
+      "initial_creator": "Martin Linnemann",
+      "editing_cycles": "1"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>This is a paragraph.</p>\n<p>This is another paragraph.</p>\n<p>This is a third one.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a paragraph.\"},{\"type\":\"paragraph\",\"text\":\"This is another paragraph.\"},{\"type\":\"paragraph\",\"text\":\"This is a third one.\"}]}",
+    "markdown": "This is a paragraph.\n\nThis is another paragraph.\n\nThis is a third one.\n",
+    "plain": "This is a paragraph.\n\nThis is another paragraph.\n\nThis is a third one."
+  }
+}

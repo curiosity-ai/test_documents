@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pdf/extra-attrs-example.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/extra-attrs-example.md",
+      "final_uri": "ground_truth/pdf/extra-attrs-example.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>BlackRedArial</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"BlackRedArial\"}]}",
+    "markdown": "BlackRedArial\n",
+    "plain": "BlackRedArial"
+  }
+}

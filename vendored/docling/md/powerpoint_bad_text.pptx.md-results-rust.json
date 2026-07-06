@@ -1,0 +1,23 @@
+{
+  "file": "vendored/docling/md/powerpoint_bad_text.pptx.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "X-Library The fully customisable and copyright-free standard content template collection exclusively for our customers",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "vendored/docling/md/powerpoint_bad_text.pptx.md",
+      "final_uri": "vendored/docling/md/powerpoint_bad_text.pptx.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>X-Library The fully customisable and copyright-free standard content template collection exclusively for our customers</h1>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"X-Library The fully customisable and copyright-free standard content template collection exclusively for our customers\",\"level\":1,\"body\":[]}]}",
+    "markdown": "# X-Library The fully customisable and copyright-free standard content template collection exclusively for our customers\n",
+    "plain": "X-Library The fully customisable and copyright-free standard content template collection exclusively for our customers"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "file": "vendored/pdfplumber/pdf/word365_structure.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "authors": [
+      "David Huggins-Daines"
+    ],
+    "created_at": "2023-07-21T16:22:25Z",
+    "modified_at": "2023-07-21T16:22:25Z",
+    "created_by": "Microsoft Word",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.7",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 842,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "vendored/pdfplumber/pdf/word365_structure.pdf",
+      "source_index": 0,
+      "final_uri": "vendored/pdfplumber/pdf/word365_structure.pdf",
+      "extraction_method": "native"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "• Liste",
+          ""
+        ],
+        [
+          "• Liste",
+          "2"
+        ],
+        [
+          "• Liste",
+          "3"
+        ]
+      ],
+      "markdown": "| • Liste |  |\n| --- | --- |\n| • Liste | 2 |\n| • Liste | 3 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 90.0,
+        "y0": 672.0,
+        "x1": 135.0,
+        "y1": 713.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "En-tête 1",
+          "En-tête 2",
+          "En-tête 3"
+        ],
+        [
+          "Ligne 1",
+          "Alouette",
+          "Farfadet"
+        ],
+        [
+          "Linge 2",
+          "Belette",
+          "Bibitte"
+        ]
+      ],
+      "markdown": "| En-tête 1 | En-tête 2 | En-tête 3 |\n| --- | --- | --- |\n| Ligne 1 | Alouette | Farfadet |\n| Linge 2 | Belette | Bibitte |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 78.0,
+        "y0": 559.0,
+        "x1": 418.0,
+        "y1": 601.0
+      }
+    }
+  ],
+  "content": {
+    "html": "<h1>Titre</h1>\n<p>Lorem ipsum dolor Lorem ipsum dolor sit amet</p>\n<table>\n<thead>\n<tr>\n<th>• Liste</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>• Liste</td>\n<td>2</td>\n</tr>\n<tr>\n<td>• Liste</td>\n<td>3</td>\n</tr>\n</tbody>\n</table>\n<ol>\n<li>Liste numérotée</li>\n<li>Liste numérotée</li>\n</ol>\n<table>\n<thead>\n<tr>\n<th>En-tête 1</th>\n<th>En-tête 2</th>\n<th>En-tête 3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Ligne 1</td>\n<td>Alouette</td>\n<td>Farfadet</td>\n</tr>\n<tr>\n<td>Linge 2</td>\n<td>Belette</td>\n<td>Bibitte</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Titre\"},{\"type\":\"paragraph\",\"text\":\"Lorem ipsum dolor\"},{\"type\":\"paragraph\",\"text\":\"•  Liste \\n•  Liste 2 \\n•  Liste 3\"},{\"type\":\"paragraph\",\"text\":\"Lorem ipsum dolor sit amet\"},{\"type\":\"paragraph\",\"text\":\"1.  Liste numérotée \\n2.  Liste numérotée\"},{\"type\":\"paragraph\",\"text\":\"En-tête 1 \\nLigne 1 \\nLinge 2\"},{\"type\":\"paragraph\",\"text\":\"En-tête 2  En-tête 3 \\nAlouette  Farfadet \\nBelette  Bibitte\"},{\"type\":\"table\",\"headers\":[\"• Liste\",\"\"],\"rows\":[[\"• Liste\",\"2\"],[\"• Liste\",\"3\"]]},{\"type\":\"table\",\"headers\":[\"En-tête 1\",\"En-tête 2\",\"En-tête 3\"],\"rows\":[[\"Ligne 1\",\"Alouette\",\"Farfadet\"],[\"Linge 2\",\"Belette\",\"Bibitte\"]]}]}",
+    "markdown": "# Titre\n\nLorem ipsum dolor Lorem ipsum dolor sit amet\n\n| • Liste |  |\n| --- | --- |\n| • Liste | 2 |\n| • Liste | 3 |\n\n1. Liste numérotée\n2. Liste numérotée\n\n| En-tête 1 | En-tête 2 | En-tête 3 |\n| --- | --- | --- |\n| Ligne 1 | Alouette | Farfadet |\n| Linge 2 | Belette | Bibitte |\n",
+    "plain": "Titre\n\nLorem ipsum dolor\n\n•  Liste \n•  Liste 2 \n•  Liste 3\n\nLorem ipsum dolor sit amet\n\n1.  Liste numérotée \n2.  Liste numérotée\n\nEn-tête 1 \nLigne 1 \nLinge 2\n\nEn-tête 2  En-tête 3 \nAlouette  Farfadet \nBelette  Bibitte\n\n• Liste \n• Liste 2\n• Liste 3\n\nEn-tête 1 En-tête 2 En-tête 3\nLigne 1 Alouette Farfadet\nLinge 2 Belette Bibitte"
+  }
+}

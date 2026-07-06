@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/ipynb/test_notebook.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 16,
+      "word_count": 15,
+      "character_count": 195
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/ipynb/test_notebook.txt",
+      "final_uri": "ground_truth/ipynb/test_notebook.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Test Notebook</p>\n<p>print(&quot;markitdown&quot;)</p>\n<p>markitdown</p>\n<p>Code Cell Below</p>\n<p># comment in code print(42)</p>\n<p>42</p>\n<p>End</p>\n<p>------------------------------------------------------------------------</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test Notebook\"},{\"type\":\"paragraph\",\"text\":\"print(\\\"markitdown\\\")\"},{\"type\":\"paragraph\",\"text\":\"markitdown\"},{\"type\":\"paragraph\",\"text\":\"Code Cell Below\"},{\"type\":\"paragraph\",\"text\":\"# comment in code\\n    print(42)\"},{\"type\":\"paragraph\",\"text\":\"42\"},{\"type\":\"paragraph\",\"text\":\"End\"},{\"type\":\"paragraph\",\"text\":\"------------------------------------------------------------------------\"}]}",
+    "markdown": "Test Notebook\n\nprint(\"markitdown\")\n\nmarkitdown\n\nCode Cell Below\n\n\\# comment in code print(42)\n\n42\n\nEnd\n\n\\------------------------------------------------------------------------\n",
+    "plain": "Test Notebook\n\nprint(\"markitdown\")\n\nmarkitdown\n\nCode Cell Below\n\n# comment in code\n    print(42)\n\n42\n\nEnd\n\n------------------------------------------------------------------------"
+  }
+}

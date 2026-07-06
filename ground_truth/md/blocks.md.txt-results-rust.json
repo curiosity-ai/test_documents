@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/blocks.md.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 41,
+      "word_count": 61,
+      "character_count": 387
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/md/blocks.md.txt",
+      "source_uri": "ground_truth/md/blocks.md.txt",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Unordered list:</p>\n<p>- foo</p>\n<p>Empty unordered list:</p>\n<p>Ordered list:</p>\n<p>1. bar</p>\n<p>Empty ordered list:</p>\n<p>Heading:</p>\n<p># my heading</p>\n<p>Empty heading:</p>\n<p>Setext heading level 1:</p>\n<p># my setext heading level 1</p>\n<p>Setext heading level 2:</p>\n<p>## my setext heading level 2</p>\n<p>Indented code block:</p>\n<p>``` print(&quot;Hi!&quot;) ```</p>\n<p>Empty indented code block:</p>\n<p>Fenced code block:</p>\n<p>``` print(&quot;Hello world!&quot;) ```</p>\n<p>Empty fenced code block:</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Unordered list:\"},{\"type\":\"paragraph\",\"text\":\"- foo\"},{\"type\":\"paragraph\",\"text\":\"Empty unordered list:\"},{\"type\":\"paragraph\",\"text\":\"Ordered list:\"},{\"type\":\"paragraph\",\"text\":\"1. bar\"},{\"type\":\"paragraph\",\"text\":\"Empty ordered list:\"},{\"type\":\"paragraph\",\"text\":\"Heading:\"},{\"type\":\"paragraph\",\"text\":\"# my heading\"},{\"type\":\"paragraph\",\"text\":\"Empty heading:\"},{\"type\":\"paragraph\",\"text\":\"Setext heading level 1:\"},{\"type\":\"paragraph\",\"text\":\"# my setext heading level 1\"},{\"type\":\"paragraph\",\"text\":\"Setext heading level 2:\"},{\"type\":\"paragraph\",\"text\":\"## my setext heading level 2\"},{\"type\":\"paragraph\",\"text\":\"Indented code block:\"},{\"type\":\"paragraph\",\"text\":\"```\\nprint(\\\"Hi!\\\")\\n```\"},{\"type\":\"paragraph\",\"text\":\"Empty indented code block:\"},{\"type\":\"paragraph\",\"text\":\"Fenced code block:\"},{\"type\":\"paragraph\",\"text\":\"```\\nprint(\\\"Hello world!\\\")\\n```\"},{\"type\":\"paragraph\",\"text\":\"Empty fenced code block:\"}]}",
+    "markdown": "Unordered list:\n\n\\- foo\n\nEmpty unordered list:\n\nOrdered list:\n\n1\\. bar\n\nEmpty ordered list:\n\nHeading:\n\n\\# my heading\n\nEmpty heading:\n\nSetext heading level 1:\n\n\\# my setext heading level 1\n\nSetext heading level 2:\n\n\\#\\# my setext heading level 2\n\nIndented code block:\n\n\\`\\`\\` print(\"Hi\\!\") \\`\\`\\`\n\nEmpty indented code block:\n\nFenced code block:\n\n\\`\\`\\` print(\"Hello world\\!\") \\`\\`\\`\n\nEmpty fenced code block:\n",
+    "plain": "Unordered list:\n\n- foo\n\nEmpty unordered list:\n\nOrdered list:\n\n1. bar\n\nEmpty ordered list:\n\nHeading:\n\n# my heading\n\nEmpty heading:\n\nSetext heading level 1:\n\n# my setext heading level 1\n\nSetext heading level 2:\n\n## my setext heading level 2\n\nIndented code block:\n\n```\nprint(\"Hi!\")\n```\n\nEmpty indented code block:\n\nFenced code block:\n\n```\nprint(\"Hello world!\")\n```\n\nEmpty fenced code block:"
+  }
+}

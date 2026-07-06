@@ -1,0 +1,70 @@
+{
+  "file": "ground_truth/pdf/issue-463-example.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "THE GRASSHOPPER",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/issue-463-example.md",
+      "source_uri": "ground_truth/pdf/issue-463-example.md",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Header",
+          "Header",
+          "Header"
+        ],
+        [
+          "Cell",
+          "Cell",
+          "Cell"
+        ],
+        [
+          "Cell",
+          "Cell",
+          "Cell"
+        ],
+        [
+          "Cell",
+          "Cell",
+          "Cell"
+        ],
+        [
+          "Cell",
+          "Cell",
+          "Cell"
+        ],
+        [
+          "Cell",
+          "Cell",
+          "Cell"
+        ],
+        [
+          "Header",
+          "Header",
+          "Header"
+        ],
+        [
+          "Cell",
+          "Cell",
+          "Cell"
+        ]
+      ],
+      "markdown": "| Header | Header | Header |\n| --- | --- | --- |\n| Cell | Cell | Cell |\n| Cell | Cell | Cell |\n| Cell | Cell | Cell |\n| Cell | Cell | Cell |\n| Cell | Cell | Cell |\n| Header | Header | Header |\n| Cell | Cell | Cell |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>THE GRASSHOPPER</h1>\n<p>A grasshopper spent the summer hopping about in the sun and singing to his heart's content. One day, an ant went hurrying by, looking very hot and weary.</p>\n<h2>Header 1</h2>\n<h3>Header 1.1</h3>\n<p>&quot;Why are you working on such a lovely day?&quot; Said the grasshopper. 「私は冬の餌を集めています。同じことをすることをお勧めします」 とアリは言いました。そして彼女は去り、他のアリが彼らの店に食 べ物を運ぶのを手伝いました。バッタはホッピングと歌を続けまし た。冬が来ると、地面は雪で覆われていました。バッタには食べ 物がなく、お腹がすいた。それで彼はアリのところへ行き、食べ物 を求めました。</p>\n<h3>Header 1.2</h3>\n<p>&quot;¿Qué hiciste todo el verano cuando estábamos trabajando para recolectar nuestra comida?&quot; dijo una de las hormigas. &quot;Estaba ocupado saltando y cantando&quot;, dijo el saltamontes. &quot;Bueno&quot;, dijo la hormiga, &quot;si saltas y cantas todo el verano, y no trabajas, entonces debes morir de hambre en el invierno&quot;.</p>\n<h2>Header 2</h2>\n<h3>Header 2.1</h3>\n<p>In another moment. Down went Alice after it.</p>\n<h3>Header 2.2</h3>\n<p>Never once considering how in the world she was to get out again.</p>\n<h3>Header 2.3</h3>\n<p>The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, So suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.</p>\n<table>\n<thead>\n<tr>\n<th>Header</th>\n<th>Header</th>\n<th>Header</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Cell</td>\n<td>Cell</td>\n<td>Cell</td>\n</tr>\n<tr>\n<td>Cell</td>\n<td>Cell</td>\n<td>Cell</td>\n</tr>\n<tr>\n<td>Cell</td>\n<td>Cell</td>\n<td>Cell</td>\n</tr>\n<tr>\n<td>Cell</td>\n<td>Cell</td>\n<td>Cell</td>\n</tr>\n<tr>\n<td>Cell</td>\n<td>Cell</td>\n<td>Cell</td>\n</tr>\n<tr>\n<td>Header</td>\n<td>Header</td>\n<td>Header</td>\n</tr>\n<tr>\n<td>Cell</td>\n<td>Cell</td>\n<td>Cell</td>\n</tr>\n</tbody>\n</table>\n<p>Noise, should be ignore</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"THE GRASSHOPPER\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"A grasshopper spent the summer hopping about in the sun and singing to his heart's content. One day, an ant went hurrying by, looking very hot and weary.\"},{\"type\":\"section\",\"heading\":\"Header 1\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"Header 1.1\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"\\\"Why are you working on such a lovely day?\\\" Said the grasshopper. 「私は冬の餌を集めています。同じことをすることをお勧めします」 とアリは言いました。そして彼女は去り、他のアリが彼らの店に食 べ物を運ぶのを手伝いました。バッタはホッピングと歌を続けまし た。冬が来ると、地面は雪で覆われていました。バッタには食べ 物がなく、お腹がすいた。それで彼はアリのところへ行き、食べ物 を求めました。\"}]},{\"type\":\"section\",\"heading\":\"Header 1.2\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"\\\"¿Qué hiciste todo el verano cuando estábamos trabajando para recolectar nuestra comida?\\\" dijo una de las hormigas. \\\"Estaba ocupado saltando y cantando\\\", dijo el saltamontes. \\\"Bueno\\\", dijo la hormiga, \\\"si saltas y cantas todo el verano, y no trabajas, entonces debes morir de hambre en el invierno\\\".\"}]}]},{\"type\":\"section\",\"heading\":\"Header 2\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"Header 2.1\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"In another moment. Down went Alice after it.\"}]},{\"type\":\"section\",\"heading\":\"Header 2.2\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Never once considering how in the world she was to get out again.\"}]},{\"type\":\"section\",\"heading\":\"Header 2.3\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, So suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.\"},{\"type\":\"table\",\"headers\":[\"Header\",\"Header\",\"Header\"],\"rows\":[[\"Cell\",\"Cell\",\"Cell\"],[\"Cell\",\"Cell\",\"Cell\"],[\"Cell\",\"Cell\",\"Cell\"],[\"Cell\",\"Cell\",\"Cell\"],[\"Cell\",\"Cell\",\"Cell\"],[\"Header\",\"Header\",\"Header\"],[\"Cell\",\"Cell\",\"Cell\"]]},{\"type\":\"paragraph\",\"text\":\"Noise, should be ignore\"}]}]}]}]}",
+    "markdown": "# THE GRASSHOPPER\n\nA grasshopper spent the summer hopping about in the sun and singing to his heart's content. One day, an ant went hurrying by, looking very hot and weary.\n\n## Header 1\n\n### Header 1.1\n\n\"Why are you working on such a lovely day?\" Said the grasshopper. 「私は冬の餌を集めています。同じことをすることをお勧めします」 とアリは言いました。そして彼女は去り、他のアリが彼らの店に食 べ物を運ぶのを手伝いました。バッタはホッピングと歌を続けまし た。冬が来ると、地面は雪で覆われていました。バッタには食べ 物がなく、お腹がすいた。それで彼はアリのところへ行き、食べ物 を求めました。\n\n### Header 1.2\n\n\"¿Qué hiciste todo el verano cuando estábamos trabajando para recolectar nuestra comida?\" dijo una de las hormigas. \"Estaba ocupado saltando y cantando\", dijo el saltamontes. \"Bueno\", dijo la hormiga, \"si saltas y cantas todo el verano, y no trabajas, entonces debes morir de hambre en el invierno\".\n\n## Header 2\n\n### Header 2.1\n\nIn another moment. Down went Alice after it.\n\n### Header 2.2\n\nNever once considering how in the world she was to get out again.\n\n### Header 2.3\n\nThe rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, So suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.\n\n| Header | Header | Header |\n| --- | --- | --- |\n| Cell | Cell | Cell |\n| Cell | Cell | Cell |\n| Cell | Cell | Cell |\n| Cell | Cell | Cell |\n| Cell | Cell | Cell |\n| Header | Header | Header |\n| Cell | Cell | Cell |\n\nNoise, should be ignore\n",
+    "plain": "THE GRASSHOPPER\nA grasshopper spent the summer hopping about in the sun and singing to his heart's content. One day, an ant went hurrying by, looking very hot and weary.\n\n  Header 1\n    Header 1.1\n\"Why are you working on such a lovely day?\" Said the grasshopper. 「私は冬の餌を集めています。同じことをすることをお勧めします」 とアリは言いました。そして彼女は去り、他のアリが彼らの店に食 べ物を運ぶのを手伝いました。バッタはホッピングと歌を続けまし た。冬が来ると、地面は雪で覆われていました。バッタには食べ 物がなく、お腹がすいた。それで彼はアリのところへ行き、食べ物 を求めました。\n\n    Header 1.2\n\"¿Qué hiciste todo el verano cuando estábamos trabajando para recolectar nuestra comida?\" dijo una de las hormigas. \"Estaba ocupado saltando y cantando\", dijo el saltamontes. \"Bueno\", dijo la hormiga, \"si saltas y cantas todo el verano, y no trabajas, entonces debes morir de hambre en el invierno\".\n\n  Header 2\n    Header 2.1\nIn another moment. Down went Alice after it.\n\n    Header 2.2\nNever once considering how in the world she was to get out again.\n\n    Header 2.3\nThe rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, So suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.\n\nHeader Header Header\nCell Cell Cell\nCell Cell Cell\nCell Cell Cell\nCell Cell Cell\nCell Cell Cell\nHeader Header Header\nCell Cell Cell\n\nNoise, should be ignore"
+  }
+}

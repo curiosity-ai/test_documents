@@ -1,0 +1,432 @@
+{
+  "file": "pdf/pdfa_036.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "Fund Update - Monthly",
+    "created_at": "2021-02-09T12:31:06Z",
+    "created_by": "Microsoft Reporting Services 14.0.0.0",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.3",
+      "producer": "Microsoft Reporting Services PDF Rendering Extension 14.0.0.0",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 842,
+      "page_count": 2
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "pdf/pdfa_036.pdf",
+      "final_uri": "pdf/pdfa_036.pdf",
+      "source_index": 0,
+      "source_kind": "uri",
+      "extraction_method": "native"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Month End Exposures",
+          "Current",
+          "Monthly Move",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Consumer",
+          "6.7%",
+          "-2.5%",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Financials",
+          "44.9%",
+          "+3.5%",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Health Care",
+          "8.2%",
+          "+0.3%",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Industrials",
+          "9.4%",
+          "-3.3%",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Materials",
+          "25.9%",
+          "+2.6%",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Real Estate",
+          "2.1%",
+          "-1.2%",
+          "",
+          "FUM",
+          "AUD $21m"
+        ],
+        [
+          "Number of Positions",
+          "32",
+          "",
+          "",
+          "Portfolio Managers-2",
+          "Campbell Neal, David Poppenbeek and Josh Kitchen"
+        ],
+        [
+          "Gross Equity Exposure",
+          "97.2%",
+          "-0.7%",
+          "",
+          "Strategy",
+          "Australian and New Zealand Equities"
+        ],
+        [
+          "Cash Weighting",
+          "2.8%",
+          "+0.7%",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Objectives",
+          "cycle with a focus on capital protection during periods of"
+        ],
+        [
+          "Net Equity Exposure",
+          "97.2%",
+          "-0.7%",
+          "",
+          "",
+          "market declines"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Return Target",
+          "+10% pa over the long term"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Number of Stocks",
+          "Up to 80"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Cash",
+          "Up to 100% of portfolio"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Distributions",
+          "Annually"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Management Fee",
+          "1.31%"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Buy/Sell",
+          "Daily Application/Redemption"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "15.38% pa of the amount by which the NAV per unit exceeds"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Performance Fee",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "the High Water Mark once the fund achieves its hurdle"
+        ],
+        [
+          "Top 5 Stock Holdings",
+          "Current",
+          "Monthly Move",
+          "",
+          "",
+          ""
+        ],
+        [
+          "BHP Group Ltd",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Macquarie Group Ltd",
+          "8.6%",
+          "+0.7%",
+          "",
+          "",
+          ""
+        ],
+        [
+          "RIO Tinto Ltd",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Seven Group Holdings Ltd",
+          "7.1%",
+          "-0.2%",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Medibank Private Ltd",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| Month End Exposures | Current | Monthly Move |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Consumer | 6.7% | -2.5% |  |  |  |\n| Financials | 44.9% | +3.5% |  |  |  |\n| Health Care | 8.2% | +0.3% |  |  |  |\n| Industrials | 9.4% | -3.3% |  |  |  |\n| Materials | 25.9% | +2.6% |  |  |  |\n| Real Estate | 2.1% | -1.2% |  | FUM | AUD $21m |\n| Number of Positions | 32 |  |  | Portfolio Managers-2 | Campbell Neal, David Poppenbeek and Josh Kitchen |\n| Gross Equity Exposure | 97.2% | -0.7% |  | Strategy | Australian and New Zealand Equities |\n| Cash Weighting | 2.8% | +0.7% |  |  |  |\n|  |  |  |  | Objectives | cycle with a focus on capital protection during periods of |\n| Net Equity Exposure | 97.2% | -0.7% |  |  | market declines |\n|  |  |  |  | Return Target | +10% pa over the long term |\n|  |  |  |  | Number of Stocks | Up to 80 |\n|  |  |  |  | Cash | Up to 100% of portfolio |\n|  |  |  |  | Distributions | Annually |\n|  |  |  |  | Management Fee | 1.31% |\n|  |  |  |  | Buy/Sell | Daily Application/Redemption |\n|  |  |  |  |  | 15.38% pa of the amount by which the NAV per unit exceeds |\n|  |  |  |  | Performance Fee |  |\n|  |  |  |  |  | the High Water Mark once the fund achieves its hurdle |\n| Top 5 Stock Holdings | Current | Monthly Move |  |  |  |\n| BHP Group Ltd |  |  |  |  |  |\n| Macquarie Group Ltd | 8.6% | +0.7% |  |  |  |\n| RIO Tinto Ltd |  |  |  |  |  |\n| Seven Group Holdings Ltd | 7.1% | -0.2% |  |  |  |\n| Medibank Private Ltd |  |  |  |  |  |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 28.34600067138672,
+        "y0": 50.361000061035156,
+        "x1": 566.8579711914062,
+        "y1": 414.8219909667969
+      }
+    },
+    {
+      "cells": [
+        [
+          "Performance (Net of Fees)",
+          "-1.0%",
+          "9.9%",
+          "1-Oct-1999"
+        ],
+        [
+          "Average Net Exposure",
+          "97.5%",
+          "73.4%",
+          ""
+        ]
+      ],
+      "markdown": "| Performance (Net of Fees) | -1.0% | 9.9% | 1-Oct-1999 |\n| --- | --- | --- | --- |\n| Average Net Exposure | 97.5% | 73.4% |  |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 28.34600067138672,
+        "y0": 651.291015625,
+        "x1": 290.4800109863281,
+        "y1": 679.636962890625
+      }
+    },
+    {
+      "cells": [
+        [
+          ""
+        ],
+        [
+          "Year",
+          "Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun",
+          "Average Cash",
+          "Average Short"
+        ],
+        [
+          "1999/00",
+          "1.9 2.0 9.5 -3.9 -2.6 5.6 -4.0 -1.9 2.4",
+          "-12.8%"
+        ],
+        [
+          "2000/01",
+          "13.1 6.8 -3.1 0.1 4.5 0.9 4.5 -2.9 -11.9 13.0 5.2 0.5",
+          "-16.7%"
+        ],
+        [
+          "2001/02",
+          "-7.9 -4.8 -5.4 8.7 11.5 1.8 3.9 3.5 -0.2 -0.4 2.7 -2.7",
+          "-14.6%"
+        ],
+        [
+          "2002/03",
+          "-6.3 3.6 -0.9 1.7 1.6 4.3 1.8 1.2 -0.2 2.2 0.7 1.5",
+          "-14.4%"
+        ],
+        [
+          "2003/04",
+          "3.7 7.0 1.6 2.5 -1.2 2.9 0.4 1.4 0.5 -0.1 0.3 2.2",
+          "-3.7%"
+        ],
+        [
+          "2004/05",
+          "3.1 1.4 4.2 4.5 3.7 1.4 3.8 0.3 -2.0 -3.4 0.8 3.2",
+          "-5.2%"
+        ],
+        [
+          "2005/06",
+          "1.3 0.7 3.9 -3.2 3.7 1.4 1.7 0.5 3.5 1.9 -0.4 2.0",
+          "-3.9%"
+        ],
+        [
+          "2006/07",
+          "-0.9 2.3 1.5 5.8 0.4 3.0 1.0 0.5 3.0 2.7 3.5 0.2",
+          "-4.9%"
+        ],
+        [
+          "2007/08",
+          "-0.6 -1.5 2.6 0.9 -1.9 -0.3 -9.3 -0.4 -1.5 1.6 0.9 -2.3",
+          "-8.2%"
+        ],
+        [
+          "2008/09",
+          "0.3 2.8 -5.8 -5.6 -3.8 3.4 -1.6 -1.2 5.7 4.7 0.9 2.9",
+          "-3.4%"
+        ],
+        [
+          "2009/10",
+          "7.2 7.4 5.1 -1.0 1.8 3.5 -4.0 -0.2 3.5 -0.6 -5.7 -0.9",
+          "-2.6%"
+        ],
+        [
+          "2010/11",
+          "2.1 -1.1 4.7 3.3 0.1 3.4 -0.5 1.9 0.0 -1.6 -1.7 -0.8",
+          "-4.0%"
+        ],
+        [
+          "2011/12",
+          "-3.4 -0.6 -4.8 3.7 -2.8 -2.1 3.1 1.9 1.9 -0.2 -5.5 -0.4",
+          "-3.5%"
+        ],
+        [
+          "2012/13",
+          "3.3 2.9 1.2 3.6 0.1 3.1 4.5 4.5 0.3 4.5 -2.8 -1.4",
+          "-0.2%"
+        ],
+        [
+          "2013/14",
+          "3.3 1.3 4.6 2.5 -0.3 0.1 -2.3 2.2 1.7 -0.1 0.0 -0.9",
+          "0.0%"
+        ],
+        [
+          "2014/15",
+          "2.8 1.6 -2.0 2.0 -0.8 -0.7 3.5 6.2 0.4 -0.3 1.2 -3.0",
+          "-0.3%"
+        ],
+        [
+          "2015/16",
+          "1.6 -4.1 -2.7 3.4 -0.6 -1.7 -3.8 -1.4 4.4 3.1 2.2 -3.1",
+          "-0.3%"
+        ],
+        [
+          "2016/17",
+          "5.1 1.3 1.3 -1.4 0.0 2.9 0.2 -1.6 1.0 -0.1 0.1 0.0",
+          "-1.5%"
+        ],
+        [
+          "2017/18",
+          "1.0 0.3 0.5 2.9 1.8 3.2 0.8 0.7 -2.7 1.7 0.7 1.6",
+          "-3.7%"
+        ],
+        [
+          "2018/19",
+          "0.4 -1.4 0.1 -7.2 -2.4 -1.2 0.1 2.4 0.2 1.4 0.3 -0.3",
+          "-3.3%"
+        ],
+        [
+          "2019/20",
+          "2.2 -4.6 3.6 -1.0 4.0 2.1 2.7 -9.4 -26.2 10.8 5.7 2.2",
+          "-1.6%"
+        ],
+        [
+          "2020/21",
+          "3.1 5.1 -3.9 1.7 13.3 2.4 -1.0",
+          "-0.1%"
+        ],
+        [
+          "",
+          "654.7",
+          ""
+        ],
+        [
+          "",
+          "9.9%pa",
+          "8.4%pa",
+          "26.5%",
+          "-5.0%"
+        ]
+      ],
+      "markdown": "|  |\n| --- |\n| Year | Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun | Average Cash | Average Short |\n| 1999/00 | 1.9 2.0 9.5 -3.9 -2.6 5.6 -4.0 -1.9 2.4 | -12.8% |\n| 2000/01 | 13.1 6.8 -3.1 0.1 4.5 0.9 4.5 -2.9 -11.9 13.0 5.2 0.5 | -16.7% |\n| 2001/02 | -7.9 -4.8 -5.4 8.7 11.5 1.8 3.9 3.5 -0.2 -0.4 2.7 -2.7 | -14.6% |\n| 2002/03 | -6.3 3.6 -0.9 1.7 1.6 4.3 1.8 1.2 -0.2 2.2 0.7 1.5 | -14.4% |\n| 2003/04 | 3.7 7.0 1.6 2.5 -1.2 2.9 0.4 1.4 0.5 -0.1 0.3 2.2 | -3.7% |\n| 2004/05 | 3.1 1.4 4.2 4.5 3.7 1.4 3.8 0.3 -2.0 -3.4 0.8 3.2 | -5.2% |\n| 2005/06 | 1.3 0.7 3.9 -3.2 3.7 1.4 1.7 0.5 3.5 1.9 -0.4 2.0 | -3.9% |\n| 2006/07 | -0.9 2.3 1.5 5.8 0.4 3.0 1.0 0.5 3.0 2.7 3.5 0.2 | -4.9% |\n| 2007/08 | -0.6 -1.5 2.6 0.9 -1.9 -0.3 -9.3 -0.4 -1.5 1.6 0.9 -2.3 | -8.2% |\n| 2008/09 | 0.3 2.8 -5.8 -5.6 -3.8 3.4 -1.6 -1.2 5.7 4.7 0.9 2.9 | -3.4% |\n| 2009/10 | 7.2 7.4 5.1 -1.0 1.8 3.5 -4.0 -0.2 3.5 -0.6 -5.7 -0.9 | -2.6% |\n| 2010/11 | 2.1 -1.1 4.7 3.3 0.1 3.4 -0.5 1.9 0.0 -1.6 -1.7 -0.8 | -4.0% |\n| 2011/12 | -3.4 -0.6 -4.8 3.7 -2.8 -2.1 3.1 1.9 1.9 -0.2 -5.5 -0.4 | -3.5% |\n| 2012/13 | 3.3 2.9 1.2 3.6 0.1 3.1 4.5 4.5 0.3 4.5 -2.8 -1.4 | -0.2% |\n| 2013/14 | 3.3 1.3 4.6 2.5 -0.3 0.1 -2.3 2.2 1.7 -0.1 0.0 -0.9 | 0.0% |\n| 2014/15 | 2.8 1.6 -2.0 2.0 -0.8 -0.7 3.5 6.2 0.4 -0.3 1.2 -3.0 | -0.3% |\n| 2015/16 | 1.6 -4.1 -2.7 3.4 -0.6 -1.7 -3.8 -1.4 4.4 3.1 2.2 -3.1 | -0.3% |\n| 2016/17 | 5.1 1.3 1.3 -1.4 0.0 2.9 0.2 -1.6 1.0 -0.1 0.1 0.0 | -1.5% |\n| 2017/18 | 1.0 0.3 0.5 2.9 1.8 3.2 0.8 0.7 -2.7 1.7 0.7 1.6 | -3.7% |\n| 2018/19 | 0.4 -1.4 0.1 -7.2 -2.4 -1.2 0.1 2.4 0.2 1.4 0.3 -0.3 | -3.3% |\n| 2019/20 | 2.2 -4.6 3.6 -1.0 4.0 2.1 2.7 -9.4 -26.2 10.8 5.7 2.2 | -1.6% |\n| 2020/21 | 3.1 5.1 -3.9 1.7 13.3 2.4 -1.0 | -0.1% |\n|  | 654.7 |  |\n|  | 9.9%pa | 8.4%pa | 26.5% | -5.0% |\n",
+      "page_number": 2,
+      "bounding_box": {
+        "x0": 28.34600067138672,
+        "y0": 389.9371643066406,
+        "x1": 566.9290161132812,
+        "y1": 806.0554809570312
+      }
+    }
+  ],
+  "content": {
+    "html": "<h1>K2 Australian Fund 31 January 2021</h1>\n<p>The    K 2     Australian    Fund    is    an    Absolute    Return    equities    fund.    The    fund    is    index-unaware,    aiming    to    produce    positive    absolute    returns   over   the long     term     with     a    capital    preservation    mindset.    The    Fund's    mandate    allows    it    to    actively    manage    its    net    market    exposure     and shorts to help protect clients ' capital.</p>\n<h3>–    utilising    both    cash</h3>\n<h3>Commentary</h3>\n<h3>Inception Inception (%pa) Date</h3>\n<h3>1 Month Growth of $10,000</h3>\n<p>The    K 2     Australian    Fund    returned    - 1.0%     for    the    month    and    is   + 21.6%    this financial    year    to    be    + 5.5%     ahead    of    the    benchmark    (BM).    Since   the   lows of     the     March     correction     the     fund     is    up    + 68.5%     outperforming    the    BM    by +15.5% .      The      combination      of      good      stock      selection      and      investing      cash early       in       the       recovery       have       contributed       to       the       strong      performance      vs benchmark     since     the     severe    March    correction.    Importantly,    the    fund    has delivered       a       consistent        10%        p.a.       return      over       21       years      without      excess market volatility. Equity       markets       around       the       world       endured       a       bout      of      selling      pressure during    the    last    few    days    of    the    month.    Some    selective    over-crowed    short positions     were    squeezed    during    the    month    and    this    led    to    concerns    over the    collateral    positions    for    a   few   over-geared   hedge   funds.   In   addition,   the interbank    repo    rate    in    China    rose    nearly     3%     and    this   helped   contribute   to the     subsequent    spike    in    the    VIX    late    in    the    month    as    market    participants reigned      in      risk      positions.      The      US      reporting      season      should     continue     to provide         a         positive         undertow         over         the         coming         few        weeks        and        the Australian     profit     season     will     most     likely     deliver     to     the     upside.    That    said, we      have      been     surprised     by     the     lack     of     confidence     in     the     virtues     of     the Australian       economy.      Over      the      year      ahead      the      consensus      forecast      for GDP       growth       from       the       Australian      economy      is      meaningfully      lower      than developed     peers     like     Canada,    the    UK,    and    New    Zealand.    This    seems    at odds    to    the    recent    strength   in   commodity   prices,   the   improved   state   of   the Australian     housing     market     and     the     success     of     the    Job-keeper    package. We     believe     that     the     Australian    economy    is    well    positioned    to    outperform peer     nations     this     year    as    should    profits    from    ASX    listed    companies.    The Reserve    Bank    of    Australia    (RBA)    is    effectively    underwriting   this   backdrop with     a     strong     commitment     to     hold    interest    rates    at    minimal    levels    for    the foreseeable future.</p>\n<table>\n<thead>\n<tr>\n<th>Performance (Net of Fees)</th>\n<th>-1.0%</th>\n<th>9.9%</th>\n<th>1-Oct-1999</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Average Net Exposure</td>\n<td>97.5%</td>\n<td>73.4%</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Month End Exposures</th>\n<th>Current</th>\n<th>Monthly Move</th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Consumer</td>\n<td>6.7%</td>\n<td>-2.5%</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Financials</td>\n<td>44.9%</td>\n<td>+3.5%</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Health Care</td>\n<td>8.2%</td>\n<td>+0.3%</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Industrials</td>\n<td>9.4%</td>\n<td>-3.3%</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Materials</td>\n<td>25.9%</td>\n<td>+2.6%</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Real Estate</td>\n<td>2.1%</td>\n<td>-1.2%</td>\n<td></td>\n<td>FUM</td>\n<td>AUD $21m</td>\n</tr>\n<tr>\n<td>Number of Positions</td>\n<td>32</td>\n<td></td>\n<td></td>\n<td>Portfolio Managers-2</td>\n<td>Campbell Neal, David Poppenbeek and Josh Kitchen</td>\n</tr>\n<tr>\n<td>Gross Equity Exposure</td>\n<td>97.2%</td>\n<td>-0.7%</td>\n<td></td>\n<td>Strategy</td>\n<td>Australian and New Zealand Equities</td>\n</tr>\n<tr>\n<td>Cash Weighting</td>\n<td>2.8%</td>\n<td>+0.7%</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>Objectives</td>\n<td>cycle with a focus on capital protection during periods of</td>\n</tr>\n<tr>\n<td>Net Equity Exposure</td>\n<td>97.2%</td>\n<td>-0.7%</td>\n<td></td>\n<td></td>\n<td>market declines</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>Return Target</td>\n<td>+10% pa over the long term</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>Number of Stocks</td>\n<td>Up to 80</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>Cash</td>\n<td>Up to 100% of portfolio</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>Distributions</td>\n<td>Annually</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>Management Fee</td>\n<td>1.31%</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>Buy/Sell</td>\n<td>Daily Application/Redemption</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>15.38% pa of the amount by which the NAV per unit exceeds</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>Performance Fee</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>the High Water Mark once the fund achieves its hurdle</td>\n</tr>\n<tr>\n<td>Top 5 Stock Holdings</td>\n<td>Current</td>\n<td>Monthly Move</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>BHP Group Ltd</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Macquarie Group Ltd</td>\n<td>8.6%</td>\n<td>+0.7%</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>RIO Tinto Ltd</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Seven Group Holdings Ltd</td>\n<td>7.1%</td>\n<td>-0.2%</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Medibank Private Ltd</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p><strong>K2 Asset Management Ltd ACN 085 445 094 / AFSL No. 244 393</strong></p>\n<h2>www.k2am.com.au</h2>\n<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Year</td>\n<td>Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun</td>\n<td>Average Cash</td>\n<td>Average Short</td>\n<td></td>\n</tr>\n<tr>\n<td>1999/00</td>\n<td>1.9 2.0 9.5 -3.9 -2.6 5.6 -4.0 -1.9 2.4</td>\n<td>-12.8%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2000/01</td>\n<td>13.1 6.8 -3.1 0.1 4.5 0.9 4.5 -2.9 -11.9 13.0 5.2 0.5</td>\n<td>-16.7%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2001/02</td>\n<td>-7.9 -4.8 -5.4 8.7 11.5 1.8 3.9 3.5 -0.2 -0.4 2.7 -2.7</td>\n<td>-14.6%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2002/03</td>\n<td>-6.3 3.6 -0.9 1.7 1.6 4.3 1.8 1.2 -0.2 2.2 0.7 1.5</td>\n<td>-14.4%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2003/04</td>\n<td>3.7 7.0 1.6 2.5 -1.2 2.9 0.4 1.4 0.5 -0.1 0.3 2.2</td>\n<td>-3.7%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2004/05</td>\n<td>3.1 1.4 4.2 4.5 3.7 1.4 3.8 0.3 -2.0 -3.4 0.8 3.2</td>\n<td>-5.2%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2005/06</td>\n<td>1.3 0.7 3.9 -3.2 3.7 1.4 1.7 0.5 3.5 1.9 -0.4 2.0</td>\n<td>-3.9%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2006/07</td>\n<td>-0.9 2.3 1.5 5.8 0.4 3.0 1.0 0.5 3.0 2.7 3.5 0.2</td>\n<td>-4.9%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2007/08</td>\n<td>-0.6 -1.5 2.6 0.9 -1.9 -0.3 -9.3 -0.4 -1.5 1.6 0.9 -2.3</td>\n<td>-8.2%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2008/09</td>\n<td>0.3 2.8 -5.8 -5.6 -3.8 3.4 -1.6 -1.2 5.7 4.7 0.9 2.9</td>\n<td>-3.4%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2009/10</td>\n<td>7.2 7.4 5.1 -1.0 1.8 3.5 -4.0 -0.2 3.5 -0.6 -5.7 -0.9</td>\n<td>-2.6%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2010/11</td>\n<td>2.1 -1.1 4.7 3.3 0.1 3.4 -0.5 1.9 0.0 -1.6 -1.7 -0.8</td>\n<td>-4.0%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2011/12</td>\n<td>-3.4 -0.6 -4.8 3.7 -2.8 -2.1 3.1 1.9 1.9 -0.2 -5.5 -0.4</td>\n<td>-3.5%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2012/13</td>\n<td>3.3 2.9 1.2 3.6 0.1 3.1 4.5 4.5 0.3 4.5 -2.8 -1.4</td>\n<td>-0.2%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2013/14</td>\n<td>3.3 1.3 4.6 2.5 -0.3 0.1 -2.3 2.2 1.7 -0.1 0.0 -0.9</td>\n<td>0.0%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2014/15</td>\n<td>2.8 1.6 -2.0 2.0 -0.8 -0.7 3.5 6.2 0.4 -0.3 1.2 -3.0</td>\n<td>-0.3%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2015/16</td>\n<td>1.6 -4.1 -2.7 3.4 -0.6 -1.7 -3.8 -1.4 4.4 3.1 2.2 -3.1</td>\n<td>-0.3%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2016/17</td>\n<td>5.1 1.3 1.3 -1.4 0.0 2.9 0.2 -1.6 1.0 -0.1 0.1 0.0</td>\n<td>-1.5%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2017/18</td>\n<td>1.0 0.3 0.5 2.9 1.8 3.2 0.8 0.7 -2.7 1.7 0.7 1.6</td>\n<td>-3.7%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2018/19</td>\n<td>0.4 -1.4 0.1 -7.2 -2.4 -1.2 0.1 2.4 0.2 1.4 0.3 -0.3</td>\n<td>-3.3%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2019/20</td>\n<td>2.2 -4.6 3.6 -1.0 4.0 2.1 2.7 -9.4 -26.2 10.8 5.7 2.2</td>\n<td>-1.6%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2020/21</td>\n<td>3.1 5.1 -3.9 1.7 13.3 2.4 -1.0</td>\n<td>-0.1%</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>654.7</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>9.9%pa</td>\n<td>8.4%pa</td>\n<td>26.5%</td>\n<td>-5.0%</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>(1) S&amp;P/ASX All Ordinaries Accumulation Index</li>\n</ul>\n<p>DISCLAIMERti    Returns    are    shown    after    fees    (including    performance    fees)    and    expenses    have    been    deducted    and    assume    the    reinvestment    of   income   distributions.   Please   note   that   past   performance   is not    a    reliable    indicator    of    future    performance.    The    information    contained    in    this    document    is    produced    by    K 2     Asset    Management    Ltd    (&quot;K offer      by      K 2 .      It      is      subject      to      change      without      notice,      and     is     intended     as     general     information     only     and     is     not     complete     or     definitive.     K whatsoever    for    loss    caused    to    any    party    by    reliance    on    the    information    in    this    document.    A    product    disclosure    statement    for   general   information   on   any   Fund   referred   to   in   this   document   can   be   obtained at    www.k 2 am.com.au    or    by    contacting    K 2 .    You    should    read    the    product    disclosure    statement    and    consider    whether    the    product    is    appropriate    for    you    before    making    a    decision    to    acquire   or   continue   to hold an interest in a Fund. Fees referred to in this document are inclusive of GST and RITC and do not include expense recoveries.</p>\n<p><strong>K2 Asset Management Ltd ACN 085 445 094 / AFSL No. 244 393</strong> 2 &quot;) in good faith, but does not constitute any representation or 2 does not accept any responsibility, and disclaims any liability</p>\n<h2>www.k2am.com.au</h2>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"K2 Australian Fund\"},{\"type\":\"paragraph\",\"text\":\"31 January 2021\"},{\"type\":\"paragraph\",\"text\":\"The    K2    Australian    Fund    is    an    Absolute    Return    equities    fund.    The    fund    is    index-unaware,    aiming    to    produce    positive    absolute    returns   over   the\\nlong     term     with     a    capital    preservation    mindset.    The    Fund's    mandate    allows    it    to    actively    manage    its    net    market    exposure    \\nand shorts to help protect clients’ capital.\"},{\"type\":\"paragraph\",\"text\":\"1 Month\"},{\"type\":\"paragraph\",\"text\":\"Performance (Net of Fees) -1.0%\"},{\"type\":\"paragraph\",\"text\":\"Average Net Exposure 97.5%\"},{\"type\":\"paragraph\",\"text\":\"Growth of $10,000\"},{\"type\":\"paragraph\",\"text\":\"Top 5 Stock Holdings\"},{\"type\":\"paragraph\",\"text\":\"BHP Group Ltd\"},{\"type\":\"paragraph\",\"text\":\"Macquarie Group Ltd\"},{\"type\":\"paragraph\",\"text\":\"RIO Tinto Ltd\"},{\"type\":\"paragraph\",\"text\":\"Seven Group Holdings Ltd\"},{\"type\":\"paragraph\",\"text\":\"Medibank Private Ltd\"},{\"type\":\"paragraph\",\"text\":\"Month End Exposures\"},{\"type\":\"paragraph\",\"text\":\"Consumer\"},{\"type\":\"paragraph\",\"text\":\"Financials\"},{\"type\":\"paragraph\",\"text\":\"Health Care\"},{\"type\":\"paragraph\",\"text\":\"Industrials\"},{\"type\":\"paragraph\",\"text\":\"Materials\"},{\"type\":\"paragraph\",\"text\":\"Real Estate\"},{\"type\":\"paragraph\",\"text\":\"Number of Positions\"},{\"type\":\"paragraph\",\"text\":\"Gross Equity Exposure\"},{\"type\":\"paragraph\",\"text\":\"Cash Weighting\"},{\"type\":\"paragraph\",\"text\":\"Net Equity Exposure\"},{\"type\":\"paragraph\",\"text\":\"George Boubouras\\n Head of Research\\ninvest@k2am.com.au\"},{\"type\":\"paragraph\",\"text\":\"K2 Asset Management Ltd ACN 085 445 094 / AFSL No. 244 393\"},{\"type\":\"paragraph\",\"text\":\"Inception Inception \\n(%pa) Date\"},{\"type\":\"paragraph\",\"text\":\"9.9% 1-Oct-1999\"},{\"type\":\"paragraph\",\"text\":\"73.4%\"},{\"type\":\"paragraph\",\"text\":\"Current Monthly Move\"},{\"type\":\"paragraph\",\"text\":\"–    utilising    both    cash\"},{\"type\":\"paragraph\",\"text\":\"Commentary\"},{\"type\":\"paragraph\",\"text\":\"The    K2    Australian    Fund    returned    -1.0%     for    the    month    and    is   +21.6%    this\\nfinancial    year    to    be    +5.5%     ahead    of    the    benchmark    (BM).    Since   the   lows\\nof     the     March     correction     the     fund     is    up    +68.5%     outperforming    the    BM    by\\n+15.5% .      The      combination      of      good      stock      selection      and      investing      cash\\nearly       in       the       recovery       have       contributed       to       the       strong      performance      vs\\nbenchmark     since     the     severe    March    correction.    Importantly,    the    fund    has\\ndelivered       a       consistent       10%        p.a.       return      over      21      years      without      excess\\nmarket volatility.\"},{\"type\":\"paragraph\",\"text\":\"Equity       markets       around       the       world       endured       a       bout      of      selling      pressure\\nduring    the    last    few    days    of    the    month.    Some    selective    over-crowed    short\\npositions     were    squeezed    during    the    month    and    this    led    to    concerns    over\\nthe    collateral    positions    for    a   few   over-geared   hedge   funds.   In   addition,   the\\ninterbank    repo    rate    in    China    rose    nearly    3%     and    this   helped   contribute   to\\nthe     subsequent    spike    in    the    VIX    late    in    the    month    as    market    participants\\nreigned      in      risk      positions.      The      US      reporting      season      should     continue     to\\nprovide         a         positive         undertow         over         the         coming         few        weeks        and        the\\nAustralian     profit     season     will     most     likely     deliver     to     the     upside.    That    said,\\nwe      have      been     surprised     by     the     lack     of     confidence     in     the     virtues     of     the\\nAustralian       economy.      Over      the      year      ahead      the      consensus      forecast      for\\nGDP       growth       from       the       Australian      economy      is      meaningfully      lower      than\\ndeveloped     peers     like     Canada,    the    UK,    and    New    Zealand.    This    seems    at\\nodds    to    the    recent    strength   in   commodity   prices,   the   improved   state   of   the\\nAustralian     housing     market     and     the     success     of     the    Job-keeper    package.\\nWe     believe     that     the     Australian    economy    is    well    positioned    to    outperform\\npeer     nations     this     year    as    should    profits    from    ASX    listed    companies.    The\\nReserve    Bank    of    Australia    (RBA)    is    effectively    underwriting   this   backdrop\\nwith     a     strong     commitment     to     hold    interest    rates    at    minimal    levels    for    the\\nforeseeable future.\"},{\"type\":\"paragraph\",\"text\":\"The         best         performing         holdings         for         the        Fund        this        month        were        Kina\\nSecurities     (KSL),     Healthia     (HLA)     and     Westpac     Bank     (WBC)     which     rose\\n13% ,     31%      and     9%     respectively.    KSL    is    PNG's    leading    financial    services8.9% +0.8%\\ncompany.      During      the      month      KSL      agreed      to      acquire      Westpac's      Pacific\\n8.6% +0.7% operations.       Despite       the       highly       accretive       acquisition       KSL      continues      to\\ntrade     on     just     6x     next     years'     expected     profit.     HLA     is    a    small    cap    holding7.3% +0.3%\\nthat        provides        podiatry       and       physiotherapy       services       and       is       attractively\\n7.1% -0.2% priced        at        11x.       WBC       has       been       plagued       with       a       series       of       operational\\nmissteps    and    has    subsequently   become   the   cheapest   of   the   major   banks.6.0% +0.6%\\nWBC's     PE     discount     to     the     Banking     sector     hit     a     15     year     low     last     month\\nand the stock price finally found some support.\"},{\"type\":\"paragraph\",\"text\":\"Current Monthly Move\"},{\"type\":\"paragraph\",\"text\":\"6.7% -2.5%\"},{\"type\":\"paragraph\",\"text\":\"44.9% +3.5%\"},{\"type\":\"paragraph\",\"text\":\"The      Fund's      net      exposure      for      the      month      averaged     97.5% .     The     median\\nholding        for        the        Fund        has       attractive       characteristics;       using       consensus\\nforecasts      for      the      year      ahead      the      PE      is     15.3x,     ROE     is     10.6% ,     and     the\\ndividend    yield    is    3.7% .    The   market   capitalisation   of   the   median   holding   for\\nthe     Fund     is     $7.5     billion     and     EPS     growth    is    expected    to    be    +13.1%     over\\n8.2% +0.3% the next 12 months.\"},{\"type\":\"paragraph\",\"text\":\"9.4% -3.3%\"},{\"type\":\"paragraph\",\"text\":\"25.9% +2.6% Fund Characteristics\"},{\"type\":\"paragraph\",\"text\":\"2.1% -1.2%\"},{\"type\":\"paragraph\",\"text\":\"32\"},{\"type\":\"paragraph\",\"text\":\"97.2% -0.7%\"},{\"type\":\"paragraph\",\"text\":\"2.8% +0.7%\"},{\"type\":\"paragraph\",\"text\":\"97.2% -0.7%\"},{\"type\":\"paragraph\",\"text\":\"FUM\"},{\"type\":\"paragraph\",\"text\":\"Portfolio Managers-2\"},{\"type\":\"paragraph\",\"text\":\"Strategy\"},{\"type\":\"paragraph\",\"text\":\"Objectives\"},{\"type\":\"paragraph\",\"text\":\"Return Target\"},{\"type\":\"paragraph\",\"text\":\"Number of Stocks\"},{\"type\":\"paragraph\",\"text\":\"Cash\"},{\"type\":\"paragraph\",\"text\":\"Distributions\"},{\"type\":\"paragraph\",\"text\":\"Management Fee\"},{\"type\":\"paragraph\",\"text\":\"Buy/Sell\"},{\"type\":\"paragraph\",\"text\":\"Performance Fee\"},{\"type\":\"paragraph\",\"text\":\"AUD $21m\"},{\"type\":\"paragraph\",\"text\":\"Campbell Neal, David Poppenbeek and Josh Kitchen\"},{\"type\":\"paragraph\",\"text\":\"Australian and New Zealand Equities\"},{\"type\":\"paragraph\",\"text\":\"To deliver consistent absolute returns over the investment \\ncycle with a focus on capital protection during periods of \\nmarket declines\"},{\"type\":\"paragraph\",\"text\":\"+10% pa over the long term\"},{\"type\":\"paragraph\",\"text\":\"Up to 80\"},{\"type\":\"paragraph\",\"text\":\"Up to 100% of portfolio\"},{\"type\":\"paragraph\",\"text\":\"Annually\"},{\"type\":\"paragraph\",\"text\":\"1.31%\"},{\"type\":\"paragraph\",\"text\":\"Daily Application/Redemption\"},{\"type\":\"paragraph\",\"text\":\"15.38% pa of the amount by which the NAV per unit exceeds \\nthe High Water Mark once the fund achieves its hurdle\"},{\"type\":\"paragraph\",\"text\":\"www.k2am.com.au\"},{\"type\":\"paragraph\",\"text\":\"Year Jul Aug\"},{\"type\":\"paragraph\",\"text\":\"1999/00\"},{\"type\":\"paragraph\",\"text\":\"K2 Australian Fund Net Monthly Returns in AUD\"},{\"type\":\"paragraph\",\"text\":\"Sep Oct Nov Dec\"},{\"type\":\"paragraph\",\"text\":\"1.9 2.0 9.5\"},{\"type\":\"paragraph\",\"text\":\"2000/01 13.1 6.8 -3.1 0.1 4.5 0.9\"},{\"type\":\"paragraph\",\"text\":\"2001/02 -7.9 -4.8 -5.4 8.7 11.5 1.8\"},{\"type\":\"paragraph\",\"text\":\"2002/03 -6.3 3.6 -0.9 1.7 1.6 4.3\"},{\"type\":\"paragraph\",\"text\":\"2003/04 3.7 7.0 1.6 2.5 -1.2 2.9\"},{\"type\":\"paragraph\",\"text\":\"2004/05 3.1 1.4 4.2 4.5 3.7 1.4\"},{\"type\":\"paragraph\",\"text\":\"2005/06 1.3 0.7 3.9 -3.2 3.7 1.4\"},{\"type\":\"paragraph\",\"text\":\"2006/07 -0.9 2.3 1.5 5.8 0.4 3.0\"},{\"type\":\"paragraph\",\"text\":\"2007/08 -0.6 -1.5 2.6 0.9 -1.9 -0.3\"},{\"type\":\"paragraph\",\"text\":\"2008/09 0.3 2.8 -5.8 -5.6 -3.8 3.4\"},{\"type\":\"paragraph\",\"text\":\"2009/10 7.2 7.4 5.1 -1.0 1.8 3.5\"},{\"type\":\"paragraph\",\"text\":\"2010/11 2.1 -1.1 4.7 3.3 0.1 3.4\"},{\"type\":\"paragraph\",\"text\":\"Jan Feb Mar Apr May Jun\"},{\"type\":\"paragraph\",\"text\":\"-3.9 -2.6 5.6 -4.0 -1.9 2.4\"},{\"type\":\"paragraph\",\"text\":\"4.5 -2.9 -11.9 13.0 5.2 0.5\"},{\"type\":\"paragraph\",\"text\":\"3.9 3.5 -0.2 -0.4 2.7 -2.7\"},{\"type\":\"paragraph\",\"text\":\"1.8 1.2 -0.2 2.2 0.7 1.5\"},{\"type\":\"paragraph\",\"text\":\"0.4 1.4 0.5 -0.1 0.3 2.2\"},{\"type\":\"paragraph\",\"text\":\"3.8 0.3 -2.0 -3.4 0.8 3.2\"},{\"type\":\"paragraph\",\"text\":\"1.7 0.5 3.5 1.9 -0.4 2.0\"},{\"type\":\"paragraph\",\"text\":\"1.0 0.5 3.0 2.7 3.5 0.2\"},{\"type\":\"paragraph\",\"text\":\"-9.3 -0.4 -1.5 1.6 0.9 -2.3\"},{\"type\":\"paragraph\",\"text\":\"-1.6 -1.2 5.7 4.7 0.9 2.9\"},{\"type\":\"paragraph\",\"text\":\"-4.0 -0.2 3.5 -0.6 -5.7 -0.9\"},{\"type\":\"paragraph\",\"text\":\"-0.5 1.9 0.0 -1.6 -1.7 -0.8\"},{\"type\":\"paragraph\",\"text\":\"2011/12 -3.4 -0.6 -4.8 3.7 -2.8 -2.1 3.1 1.9 1.9 -0.2 -5.5 -0.4\"},{\"type\":\"paragraph\",\"text\":\"2012/13 3.3 2.9 1.2 3.6 0.1 3.1 4.5 4.5 0.3 4.5 -2.8 -1.4\"},{\"type\":\"paragraph\",\"text\":\"2013/14 3.3 1.3 4.6 2.5 -0.3 0.1 -2.3 2.2 1.7 -0.1 0.0 -0.9\"},{\"type\":\"paragraph\",\"text\":\"2014/15 2.8 1.6 -2.0 2.0 -0.8 -0.7 3.5 6.2 0.4 -0.3 1.2 -3.0\"},{\"type\":\"paragraph\",\"text\":\"2015/16 1.6 -4.1 -2.7 3.4 -0.6 -1.7 -3.8 -1.4 4.4 3.1 2.2 -3.1\"},{\"type\":\"paragraph\",\"text\":\"2016/17 5.1 1.3 1.3 -1.4 0.0 2.9 0.2 -1.6 1.0 -0.1 0.1 0.0\"},{\"type\":\"paragraph\",\"text\":\"2017/18 1.0 0.3 0.5 2.9 1.8 3.2 0.8 0.7 -2.7 1.7 0.7 1.6\"},{\"type\":\"paragraph\",\"text\":\"2018/19 0.4 -1.4 0.1 -7.2 -2.4 -1.2 0.1 2.4 0.2 1.4 0.3 -0.3\"},{\"type\":\"paragraph\",\"text\":\"2019/20 2.2 -4.6 3.6 -1.0 4.0 2.1 2.7 -9.4 -26.2 10.8 5.7 2.2\"},{\"type\":\"paragraph\",\"text\":\"2020/21 3.1 5.1 -3.9 1.7 13.3 2.4 -1.0\"},{\"type\":\"paragraph\",\"text\":\"Incept\\n.\\nIncept\\n.\\n(1) S&P/ASX All Ordinaries Accumulation Index\"},{\"type\":\"paragraph\",\"text\":\"DISCLAIMER:    Returns    are    shown    after    fees    (including    performance    fees)    and    expenses    have    been    deducted    and    assume    the    reinvestment    of   income   distributions.   Please   note   that   past   performance   is\\nnot    a    reliable    indicator    of    future    performance.    The    information    contained    in    this    document    is    produced    by    K2    Asset    Management    Ltd    (\\\"K\\noffer      by      K2.      It      is      subject      to      change      without      notice,      and     is     intended     as     general     information     only     and     is     not     complete     or     definitive.     K\\nwhatsoever    for    loss    caused    to    any    party    by    reliance    on    the    information    in    this    document.    A    product    disclosure    statement    for   general   information   on   any   Fund   referred   to   in   this   document   can   be   obtained\\nat    www.k2am.com.au    or    by    contacting    K2.    You    should    read    the    product    disclosure    statement    and    consider    whether    the    product    is    appropriate    for    you    before    making    a    decision    to    acquire   or   continue   to\\nhold an interest in a Fund. Fees referred to in this document are inclusive of GST and RITC and do not include expense recoveries.\"},{\"type\":\"paragraph\",\"text\":\"K2 Asset Management Ltd ACN 085 445 094 / AFSL No. 244 393\"},{\"type\":\"paragraph\",\"text\":\"Fin YTD\"},{\"type\":\"paragraph\",\"text\":\"8.5\"},{\"type\":\"paragraph\",\"text\":\"32.2\"},{\"type\":\"paragraph\",\"text\":\"9.5\"},{\"type\":\"paragraph\",\"text\":\"11.2\"},{\"type\":\"paragraph\",\"text\":\"23.2\"},{\"type\":\"paragraph\",\"text\":\"22.6\"},{\"type\":\"paragraph\",\"text\":\"18.3\"},{\"type\":\"paragraph\",\"text\":\"25.3\"},{\"type\":\"paragraph\",\"text\":\"-11.6\"},{\"type\":\"paragraph\",\"text\":\"1.9\"},{\"type\":\"paragraph\",\"text\":\"16.3\"},{\"type\":\"paragraph\",\"text\":\"10.0\"},{\"type\":\"paragraph\",\"text\":\"-9.2\"},{\"type\":\"paragraph\",\"text\":\"26.1\"},{\"type\":\"paragraph\",\"text\":\"12.5\"},{\"type\":\"paragraph\",\"text\":\"11.0\"},{\"type\":\"paragraph\",\"text\":\"-3.2\"},{\"type\":\"paragraph\",\"text\":\"9.0\"},{\"type\":\"paragraph\",\"text\":\"13.1\"},{\"type\":\"paragraph\",\"text\":\"-7.6\"},{\"type\":\"paragraph\",\"text\":\"-12.7\"},{\"type\":\"paragraph\",\"text\":\"21.6\"},{\"type\":\"paragraph\",\"text\":\"654.7\"},{\"type\":\"paragraph\",\"text\":\"9.9%pa\"},{\"type\":\"paragraph\",\"text\":\"2\\\")    in    good    faith,    but    does    not    constitute    any    representation    or\\n2     does     not     accept     any     responsibility,     and     disclaims     any     liability\"},{\"type\":\"paragraph\",\"text\":\"Fin YTD  Average  Average \\nIndex (1) Cash Short\"},{\"type\":\"paragraph\",\"text\":\"16.0 52.0% -12.8%\"},{\"type\":\"paragraph\",\"text\":\"8.8 27.7% -16.7%\"},{\"type\":\"paragraph\",\"text\":\"-4.5 32.1% -14.6%\"},{\"type\":\"paragraph\",\"text\":\"-1.1 51.6% -14.4%\"},{\"type\":\"paragraph\",\"text\":\"22.4 36.0% -3.7%\"},{\"type\":\"paragraph\",\"text\":\"24.7 26.9% -5.2%\"},{\"type\":\"paragraph\",\"text\":\"24.2 27.6% -3.9%\"},{\"type\":\"paragraph\",\"text\":\"30.3 32.2% -4.9%\"},{\"type\":\"paragraph\",\"text\":\"-12.1 51.1% -8.2%\"},{\"type\":\"paragraph\",\"text\":\"-22.1 46.6% -3.4%\"},{\"type\":\"paragraph\",\"text\":\"13.8 10.3% -2.6%\"},{\"type\":\"paragraph\",\"text\":\"12.2 14.1% -4.0%\"},{\"type\":\"paragraph\",\"text\":\"-7.0 23.3% -3.5%\"},{\"type\":\"paragraph\",\"text\":\"20.7 7.2% -0.2%\"},{\"type\":\"paragraph\",\"text\":\"17.6 11.7% 0.0%\"},{\"type\":\"paragraph\",\"text\":\"5.7 18.5% -0.3%\"},{\"type\":\"paragraph\",\"text\":\"2.0 19.8% -0.3%\"},{\"type\":\"paragraph\",\"text\":\"13.1 16.7% -1.5%\"},{\"type\":\"paragraph\",\"text\":\"13.7 21.6% -3.7%\"},{\"type\":\"paragraph\",\"text\":\"11.0 39.3% -3.3%\"},{\"type\":\"paragraph\",\"text\":\"-7.2 13.6% -1.6%\"},{\"type\":\"paragraph\",\"text\":\"16.0 2.8% -0.1%\"},{\"type\":\"paragraph\",\"text\":\"462.8\"},{\"type\":\"paragraph\",\"text\":\"8.4%pa 26.5% -5.0%\"},{\"type\":\"paragraph\",\"text\":\"www.k2am.com.au\"},{\"type\":\"table\",\"headers\":[\"Month End Exposures\",\"Current\",\"Monthly Move\",\"\",\"\",\"\"],\"rows\":[[\"Consumer\",\"6.7%\",\"-2.5%\",\"\",\"\",\"\"],[\"Financials\",\"44.9%\",\"+3.5%\",\"\",\"\",\"\"],[\"Health Care\",\"8.2%\",\"+0.3%\",\"\",\"\",\"\"],[\"Industrials\",\"9.4%\",\"-3.3%\",\"\",\"\",\"\"],[\"Materials\",\"25.9%\",\"+2.6%\",\"\",\"\",\"\"],[\"Real Estate\",\"2.1%\",\"-1.2%\",\"\",\"FUM\",\"AUD $21m\"],[\"Number of Positions\",\"32\",\"\",\"\",\"Portfolio Managers-2\",\"Campbell Neal, David Poppenbeek and Josh Kitchen\"],[\"Gross Equity Exposure\",\"97.2%\",\"-0.7%\",\"\",\"Strategy\",\"Australian and New Zealand Equities\"],[\"Cash Weighting\",\"2.8%\",\"+0.7%\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\",\"Objectives\",\"cycle with a focus on capital protection during periods of\"],[\"Net Equity Exposure\",\"97.2%\",\"-0.7%\",\"\",\"\",\"market declines\"],[\"\",\"\",\"\",\"\",\"Return Target\",\"+10% pa over the long term\"],[\"\",\"\",\"\",\"\",\"Number of Stocks\",\"Up to 80\"],[\"\",\"\",\"\",\"\",\"Cash\",\"Up to 100% of portfolio\"],[\"\",\"\",\"\",\"\",\"Distributions\",\"Annually\"],[\"\",\"\",\"\",\"\",\"Management Fee\",\"1.31%\"],[\"\",\"\",\"\",\"\",\"Buy/Sell\",\"Daily Application/Redemption\"],[\"\",\"\",\"\",\"\",\"\",\"15.38% pa of the amount by which the NAV per unit exceeds\"],[\"\",\"\",\"\",\"\",\"Performance Fee\",\"\"],[\"\",\"\",\"\",\"\",\"\",\"the High Water Mark once the fund achieves its hurdle\"],[\"Top 5 Stock Holdings\",\"Current\",\"Monthly Move\",\"\",\"\",\"\"],[\"BHP Group Ltd\",\"\",\"\",\"\",\"\",\"\"],[\"Macquarie Group Ltd\",\"8.6%\",\"+0.7%\",\"\",\"\",\"\"],[\"RIO Tinto Ltd\",\"\",\"\",\"\",\"\",\"\"],[\"Seven Group Holdings Ltd\",\"7.1%\",\"-0.2%\",\"\",\"\",\"\"],[\"Medibank Private Ltd\",\"\",\"\",\"\",\"\",\"\"]]},{\"type\":\"table\",\"headers\":[\"Performance (Net of Fees)\",\"-1.0%\",\"9.9%\",\"1-Oct-1999\"],\"rows\":[[\"Average Net Exposure\",\"97.5%\",\"73.4%\",\"\"]]},{\"type\":\"table\",\"headers\":[\"\"],\"rows\":[[\"Year\",\"Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun\",\"Average Cash\",\"Average Short\"],[\"1999/00\",\"1.9 2.0 9.5 -3.9 -2.6 5.6 -4.0 -1.9 2.4\",\"-12.8%\"],[\"2000/01\",\"13.1 6.8 -3.1 0.1 4.5 0.9 4.5 -2.9 -11.9 13.0 5.2 0.5\",\"-16.7%\"],[\"2001/02\",\"-7.9 -4.8 -5.4 8.7 11.5 1.8 3.9 3.5 -0.2 -0.4 2.7 -2.7\",\"-14.6%\"],[\"2002/03\",\"-6.3 3.6 -0.9 1.7 1.6 4.3 1.8 1.2 -0.2 2.2 0.7 1.5\",\"-14.4%\"],[\"2003/04\",\"3.7 7.0 1.6 2.5 -1.2 2.9 0.4 1.4 0.5 -0.1 0.3 2.2\",\"-3.7%\"],[\"2004/05\",\"3.1 1.4 4.2 4.5 3.7 1.4 3.8 0.3 -2.0 -3.4 0.8 3.2\",\"-5.2%\"],[\"2005/06\",\"1.3 0.7 3.9 -3.2 3.7 1.4 1.7 0.5 3.5 1.9 -0.4 2.0\",\"-3.9%\"],[\"2006/07\",\"-0.9 2.3 1.5 5.8 0.4 3.0 1.0 0.5 3.0 2.7 3.5 0.2\",\"-4.9%\"],[\"2007/08\",\"-0.6 -1.5 2.6 0.9 -1.9 -0.3 -9.3 -0.4 -1.5 1.6 0.9 -2.3\",\"-8.2%\"],[\"2008/09\",\"0.3 2.8 -5.8 -5.6 -3.8 3.4 -1.6 -1.2 5.7 4.7 0.9 2.9\",\"-3.4%\"],[\"2009/10\",\"7.2 7.4 5.1 -1.0 1.8 3.5 -4.0 -0.2 3.5 -0.6 -5.7 -0.9\",\"-2.6%\"],[\"2010/11\",\"2.1 -1.1 4.7 3.3 0.1 3.4 -0.5 1.9 0.0 -1.6 -1.7 -0.8\",\"-4.0%\"],[\"2011/12\",\"-3.4 -0.6 -4.8 3.7 -2.8 -2.1 3.1 1.9 1.9 -0.2 -5.5 -0.4\",\"-3.5%\"],[\"2012/13\",\"3.3 2.9 1.2 3.6 0.1 3.1 4.5 4.5 0.3 4.5 -2.8 -1.4\",\"-0.2%\"],[\"2013/14\",\"3.3 1.3 4.6 2.5 -0.3 0.1 -2.3 2.2 1.7 -0.1 0.0 -0.9\",\"0.0%\"],[\"2014/15\",\"2.8 1.6 -2.0 2.0 -0.8 -0.7 3.5 6.2 0.4 -0.3 1.2 -3.0\",\"-0.3%\"],[\"2015/16\",\"1.6 -4.1 -2.7 3.4 -0.6 -1.7 -3.8 -1.4 4.4 3.1 2.2 -3.1\",\"-0.3%\"],[\"2016/17\",\"5.1 1.3 1.3 -1.4 0.0 2.9 0.2 -1.6 1.0 -0.1 0.1 0.0\",\"-1.5%\"],[\"2017/18\",\"1.0 0.3 0.5 2.9 1.8 3.2 0.8 0.7 -2.7 1.7 0.7 1.6\",\"-3.7%\"],[\"2018/19\",\"0.4 -1.4 0.1 -7.2 -2.4 -1.2 0.1 2.4 0.2 1.4 0.3 -0.3\",\"-3.3%\"],[\"2019/20\",\"2.2 -4.6 3.6 -1.0 4.0 2.1 2.7 -9.4 -26.2 10.8 5.7 2.2\",\"-1.6%\"],[\"2020/21\",\"3.1 5.1 -3.9 1.7 13.3 2.4 -1.0\",\"-0.1%\"],[\"\",\"654.7\",\"\"],[\"\",\"9.9%pa\",\"8.4%pa\",\"26.5%\",\"-5.0%\"]]}]}",
+    "markdown": "# K2 Australian Fund 31 January 2021\n\nThe    K 2     Australian    Fund    is    an    Absolute    Return    equities    fund.    The    fund    is    index-unaware,    aiming    to    produce    positive    absolute    returns   over   the long     term     with     a    capital    preservation    mindset.    The    Fund's    mandate    allows    it    to    actively    manage    its    net    market    exposure     and shorts to help protect clients ' capital.\n\n### –    utilising    both    cash\n\n### Commentary\n\n### Inception Inception (%pa) Date\n\n### 1 Month Growth of $10,000\n\nThe    K 2     Australian    Fund    returned    - 1.0%     for    the    month    and    is   + 21.6%    this financial    year    to    be    + 5.5%     ahead    of    the    benchmark    (BM).    Since   the   lows of     the     March     correction     the     fund     is    up    + 68.5%     outperforming    the    BM    by +15.5% .      The      combination      of      good      stock      selection      and      investing      cash early       in       the       recovery       have       contributed       to       the       strong      performance      vs benchmark     since     the     severe    March    correction.    Importantly,    the    fund    has delivered       a       consistent        10%        p.a.       return      over       21       years      without      excess market volatility. Equity       markets       around       the       world       endured       a       bout      of      selling      pressure during    the    last    few    days    of    the    month.    Some    selective    over-crowed    short positions     were    squeezed    during    the    month    and    this    led    to    concerns    over the    collateral    positions    for    a   few   over-geared   hedge   funds.   In   addition,   the interbank    repo    rate    in    China    rose    nearly     3%     and    this   helped   contribute   to the     subsequent    spike    in    the    VIX    late    in    the    month    as    market    participants reigned      in      risk      positions.      The      US      reporting      season      should     continue     to provide         a         positive         undertow         over         the         coming         few        weeks        and        the Australian     profit     season     will     most     likely     deliver     to     the     upside.    That    said, we      have      been     surprised     by     the     lack     of     confidence     in     the     virtues     of     the Australian       economy.      Over      the      year      ahead      the      consensus      forecast      for GDP       growth       from       the       Australian      economy      is      meaningfully      lower      than developed     peers     like     Canada,    the    UK,    and    New    Zealand.    This    seems    at odds    to    the    recent    strength   in   commodity   prices,   the   improved   state   of   the Australian     housing     market     and     the     success     of     the    Job-keeper    package. We     believe     that     the     Australian    economy    is    well    positioned    to    outperform peer     nations     this     year    as    should    profits    from    ASX    listed    companies.    The Reserve    Bank    of    Australia    (RBA)    is    effectively    underwriting   this   backdrop with     a     strong     commitment     to     hold    interest    rates    at    minimal    levels    for    the foreseeable future.\n\n| Performance (Net of Fees) | -1.0% | 9.9% | 1-Oct-1999 |\n| --- | --- | --- | --- |\n| Average Net Exposure | 97.5% | 73.4% |  |\n\n| Month End Exposures | Current | Monthly Move |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Consumer | 6.7% | -2.5% |  |  |  |\n| Financials | 44.9% | +3.5% |  |  |  |\n| Health Care | 8.2% | +0.3% |  |  |  |\n| Industrials | 9.4% | -3.3% |  |  |  |\n| Materials | 25.9% | +2.6% |  |  |  |\n| Real Estate | 2.1% | -1.2% |  | FUM | AUD $21m |\n| Number of Positions | 32 |  |  | Portfolio Managers-2 | Campbell Neal, David Poppenbeek and Josh Kitchen |\n| Gross Equity Exposure | 97.2% | -0.7% |  | Strategy | Australian and New Zealand Equities |\n| Cash Weighting | 2.8% | +0.7% |  |  |  |\n|  |  |  |  | Objectives | cycle with a focus on capital protection during periods of |\n| Net Equity Exposure | 97.2% | -0.7% |  |  | market declines |\n|  |  |  |  | Return Target | +10% pa over the long term |\n|  |  |  |  | Number of Stocks | Up to 80 |\n|  |  |  |  | Cash | Up to 100% of portfolio |\n|  |  |  |  | Distributions | Annually |\n|  |  |  |  | Management Fee | 1.31% |\n|  |  |  |  | Buy/Sell | Daily Application/Redemption |\n|  |  |  |  |  | 15.38% pa of the amount by which the NAV per unit exceeds |\n|  |  |  |  | Performance Fee |  |\n|  |  |  |  |  | the High Water Mark once the fund achieves its hurdle |\n| Top 5 Stock Holdings | Current | Monthly Move |  |  |  |\n| BHP Group Ltd |  |  |  |  |  |\n| Macquarie Group Ltd | 8.6% | +0.7% |  |  |  |\n| RIO Tinto Ltd |  |  |  |  |  |\n| Seven Group Holdings Ltd | 7.1% | -0.2% |  |  |  |\n| Medibank Private Ltd |  |  |  |  |  |\n\n**K2 Asset Management Ltd ACN 085 445 094 / AFSL No. 244 393**\n\n## www.k2am.com.au\n\n|  |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| Year | Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun | Average Cash | Average Short |  |\n| 1999/00 | 1.9 2.0 9.5 -3.9 -2.6 5.6 -4.0 -1.9 2.4 | -12.8% |  |  |\n| 2000/01 | 13.1 6.8 -3.1 0.1 4.5 0.9 4.5 -2.9 -11.9 13.0 5.2 0.5 | -16.7% |  |  |\n| 2001/02 | -7.9 -4.8 -5.4 8.7 11.5 1.8 3.9 3.5 -0.2 -0.4 2.7 -2.7 | -14.6% |  |  |\n| 2002/03 | -6.3 3.6 -0.9 1.7 1.6 4.3 1.8 1.2 -0.2 2.2 0.7 1.5 | -14.4% |  |  |\n| 2003/04 | 3.7 7.0 1.6 2.5 -1.2 2.9 0.4 1.4 0.5 -0.1 0.3 2.2 | -3.7% |  |  |\n| 2004/05 | 3.1 1.4 4.2 4.5 3.7 1.4 3.8 0.3 -2.0 -3.4 0.8 3.2 | -5.2% |  |  |\n| 2005/06 | 1.3 0.7 3.9 -3.2 3.7 1.4 1.7 0.5 3.5 1.9 -0.4 2.0 | -3.9% |  |  |\n| 2006/07 | -0.9 2.3 1.5 5.8 0.4 3.0 1.0 0.5 3.0 2.7 3.5 0.2 | -4.9% |  |  |\n| 2007/08 | -0.6 -1.5 2.6 0.9 -1.9 -0.3 -9.3 -0.4 -1.5 1.6 0.9 -2.3 | -8.2% |  |  |\n| 2008/09 | 0.3 2.8 -5.8 -5.6 -3.8 3.4 -1.6 -1.2 5.7 4.7 0.9 2.9 | -3.4% |  |  |\n| 2009/10 | 7.2 7.4 5.1 -1.0 1.8 3.5 -4.0 -0.2 3.5 -0.6 -5.7 -0.9 | -2.6% |  |  |\n| 2010/11 | 2.1 -1.1 4.7 3.3 0.1 3.4 -0.5 1.9 0.0 -1.6 -1.7 -0.8 | -4.0% |  |  |\n| 2011/12 | -3.4 -0.6 -4.8 3.7 -2.8 -2.1 3.1 1.9 1.9 -0.2 -5.5 -0.4 | -3.5% |  |  |\n| 2012/13 | 3.3 2.9 1.2 3.6 0.1 3.1 4.5 4.5 0.3 4.5 -2.8 -1.4 | -0.2% |  |  |\n| 2013/14 | 3.3 1.3 4.6 2.5 -0.3 0.1 -2.3 2.2 1.7 -0.1 0.0 -0.9 | 0.0% |  |  |\n| 2014/15 | 2.8 1.6 -2.0 2.0 -0.8 -0.7 3.5 6.2 0.4 -0.3 1.2 -3.0 | -0.3% |  |  |\n| 2015/16 | 1.6 -4.1 -2.7 3.4 -0.6 -1.7 -3.8 -1.4 4.4 3.1 2.2 -3.1 | -0.3% |  |  |\n| 2016/17 | 5.1 1.3 1.3 -1.4 0.0 2.9 0.2 -1.6 1.0 -0.1 0.1 0.0 | -1.5% |  |  |\n| 2017/18 | 1.0 0.3 0.5 2.9 1.8 3.2 0.8 0.7 -2.7 1.7 0.7 1.6 | -3.7% |  |  |\n| 2018/19 | 0.4 -1.4 0.1 -7.2 -2.4 -1.2 0.1 2.4 0.2 1.4 0.3 -0.3 | -3.3% |  |  |\n| 2019/20 | 2.2 -4.6 3.6 -1.0 4.0 2.1 2.7 -9.4 -26.2 10.8 5.7 2.2 | -1.6% |  |  |\n| 2020/21 | 3.1 5.1 -3.9 1.7 13.3 2.4 -1.0 | -0.1% |  |  |\n|  | 654.7 |  |  |  |\n|  | 9.9%pa | 8.4%pa | 26.5% | -5.0% |\n\n- (1) S\\&P/ASX All Ordinaries Accumulation Index\n\nDISCLAIMERti    Returns    are    shown    after    fees    (including    performance    fees)    and    expenses    have    been    deducted    and    assume    the    reinvestment    of   income   distributions.   Please   note   that   past   performance   is not    a    reliable    indicator    of    future    performance.    The    information    contained    in    this    document    is    produced    by    K 2     Asset    Management    Ltd    (\"K offer      by      K 2 .      It      is      subject      to      change      without      notice,      and     is     intended     as     general     information     only     and     is     not     complete     or     definitive.     K whatsoever    for    loss    caused    to    any    party    by    reliance    on    the    information    in    this    document.    A    product    disclosure    statement    for   general   information   on   any   Fund   referred   to   in   this   document   can   be   obtained at    www.k 2 am.com.au    or    by    contacting    K 2 .    You    should    read    the    product    disclosure    statement    and    consider    whether    the    product    is    appropriate    for    you    before    making    a    decision    to    acquire   or   continue   to hold an interest in a Fund. Fees referred to in this document are inclusive of GST and RITC and do not include expense recoveries.\n\n**K2 Asset Management Ltd ACN 085 445 094 / AFSL No. 244 393** 2 \") in good faith, but does not constitute any representation or 2 does not accept any responsibility, and disclaims any liability\n\n## www.k2am.com.au\n",
+    "plain": "K2 Australian Fund\n\n31 January 2021\n\nThe    K2    Australian    Fund    is    an    Absolute    Return    equities    fund.    The    fund    is    index-unaware,    aiming    to    produce    positive    absolute    returns   over   the\nlong     term     with     a    capital    preservation    mindset.    The    Fund's    mandate    allows    it    to    actively    manage    its    net    market    exposure    \nand shorts to help protect clients’ capital.\n\n1 Month\n\nPerformance (Net of Fees) -1.0%\n\nAverage Net Exposure 97.5%\n\nGrowth of $10,000\n\nTop 5 Stock Holdings\n\nBHP Group Ltd\n\nMacquarie Group Ltd\n\nRIO Tinto Ltd\n\nSeven Group Holdings Ltd\n\nMedibank Private Ltd\n\nMonth End Exposures\n\nConsumer\n\nFinancials\n\nHealth Care\n\nIndustrials\n\nMaterials\n\nReal Estate\n\nNumber of Positions\n\nGross Equity Exposure\n\nCash Weighting\n\nNet Equity Exposure\n\nGeorge Boubouras\n Head of Research\ninvest@k2am.com.au\n\nK2 Asset Management Ltd ACN 085 445 094 / AFSL No. 244 393\n\nInception Inception \n(%pa) Date\n\n9.9% 1-Oct-1999\n\n73.4%\n\nCurrent Monthly Move\n\n–    utilising    both    cash\n\nCommentary\n\nThe    K2    Australian    Fund    returned    -1.0%     for    the    month    and    is   +21.6%    this\nfinancial    year    to    be    +5.5%     ahead    of    the    benchmark    (BM).    Since   the   lows\nof     the     March     correction     the     fund     is    up    +68.5%     outperforming    the    BM    by\n+15.5% .      The      combination      of      good      stock      selection      and      investing      cash\nearly       in       the       recovery       have       contributed       to       the       strong      performance      vs\nbenchmark     since     the     severe    March    correction.    Importantly,    the    fund    has\ndelivered       a       consistent       10%        p.a.       return      over      21      years      without      excess\nmarket volatility.\n\nEquity       markets       around       the       world       endured       a       bout      of      selling      pressure\nduring    the    last    few    days    of    the    month.    Some    selective    over-crowed    short\npositions     were    squeezed    during    the    month    and    this    led    to    concerns    over\nthe    collateral    positions    for    a   few   over-geared   hedge   funds.   In   addition,   the\ninterbank    repo    rate    in    China    rose    nearly    3%     and    this   helped   contribute   to\nthe     subsequent    spike    in    the    VIX    late    in    the    month    as    market    participants\nreigned      in      risk      positions.      The      US      reporting      season      should     continue     to\nprovide         a         positive         undertow         over         the         coming         few        weeks        and        the\nAustralian     profit     season     will     most     likely     deliver     to     the     upside.    That    said,\nwe      have      been     surprised     by     the     lack     of     confidence     in     the     virtues     of     the\nAustralian       economy.      Over      the      year      ahead      the      consensus      forecast      for\nGDP       growth       from       the       Australian      economy      is      meaningfully      lower      than\ndeveloped     peers     like     Canada,    the    UK,    and    New    Zealand.    This    seems    at\nodds    to    the    recent    strength   in   commodity   prices,   the   improved   state   of   the\nAustralian     housing     market     and     the     success     of     the    Job-keeper    package.\nWe     believe     that     the     Australian    economy    is    well    positioned    to    outperform\npeer     nations     this     year    as    should    profits    from    ASX    listed    companies.    The\nReserve    Bank    of    Australia    (RBA)    is    effectively    underwriting   this   backdrop\nwith     a     strong     commitment     to     hold    interest    rates    at    minimal    levels    for    the\nforeseeable future.\n\nThe         best         performing         holdings         for         the        Fund        this        month        were        Kina\nSecurities     (KSL),     Healthia     (HLA)     and     Westpac     Bank     (WBC)     which     rose\n13% ,     31%      and     9%     respectively.    KSL    is    PNG's    leading    financial    services8.9% +0.8%\ncompany.      During      the      month      KSL      agreed      to      acquire      Westpac's      Pacific\n8.6% +0.7% operations.       Despite       the       highly       accretive       acquisition       KSL      continues      to\ntrade     on     just     6x     next     years'     expected     profit.     HLA     is    a    small    cap    holding7.3% +0.3%\nthat        provides        podiatry       and       physiotherapy       services       and       is       attractively\n7.1% -0.2% priced        at        11x.       WBC       has       been       plagued       with       a       series       of       operational\nmissteps    and    has    subsequently   become   the   cheapest   of   the   major   banks.6.0% +0.6%\nWBC's     PE     discount     to     the     Banking     sector     hit     a     15     year     low     last     month\nand the stock price finally found some support.\n\nCurrent Monthly Move\n\n6.7% -2.5%\n\n44.9% +3.5%\n\nThe      Fund's      net      exposure      for      the      month      averaged     97.5% .     The     median\nholding        for        the        Fund        has       attractive       characteristics;       using       consensus\nforecasts      for      the      year      ahead      the      PE      is     15.3x,     ROE     is     10.6% ,     and     the\ndividend    yield    is    3.7% .    The   market   capitalisation   of   the   median   holding   for\nthe     Fund     is     $7.5     billion     and     EPS     growth    is    expected    to    be    +13.1%     over\n8.2% +0.3% the next 12 months.\n\n9.4% -3.3%\n\n25.9% +2.6% Fund Characteristics\n\n2.1% -1.2%\n\n32\n\n97.2% -0.7%\n\n2.8% +0.7%\n\n97.2% -0.7%\n\nFUM\n\nPortfolio Managers-2\n\nStrategy\n\nObjectives\n\nReturn Target\n\nNumber of Stocks\n\nCash\n\nDistributions\n\nManagement Fee\n\nBuy/Sell\n\nPerformance Fee\n\nAUD $21m\n\nCampbell Neal, David Poppenbeek and Josh Kitchen\n\nAustralian and New Zealand Equities\n\nTo deliver consistent absolute returns over the investment \ncycle with a focus on capital protection during periods of \nmarket declines\n\n+10% pa over the long term\n\nUp to 80\n\nUp to 100% of portfolio\n\nAnnually\n\n1.31%\n\nDaily Application/Redemption\n\n15.38% pa of the amount by which the NAV per unit exceeds \nthe High Water Mark once the fund achieves its hurdle\n\nwww.k2am.com.au\n\nYear Jul Aug\n\n1999/00\n\nK2 Australian Fund Net Monthly Returns in AUD\n\nSep Oct Nov Dec\n\n1.9 2.0 9.5\n\n2000/01 13.1 6.8 -3.1 0.1 4.5 0.9\n\n2001/02 -7.9 -4.8 -5.4 8.7 11.5 1.8\n\n2002/03 -6.3 3.6 -0.9 1.7 1.6 4.3\n\n2003/04 3.7 7.0 1.6 2.5 -1.2 2.9\n\n2004/05 3.1 1.4 4.2 4.5 3.7 1.4\n\n2005/06 1.3 0.7 3.9 -3.2 3.7 1.4\n\n2006/07 -0.9 2.3 1.5 5.8 0.4 3.0\n\n2007/08 -0.6 -1.5 2.6 0.9 -1.9 -0.3\n\n2008/09 0.3 2.8 -5.8 -5.6 -3.8 3.4\n\n2009/10 7.2 7.4 5.1 -1.0 1.8 3.5\n\n2010/11 2.1 -1.1 4.7 3.3 0.1 3.4\n\nJan Feb Mar Apr May Jun\n\n-3.9 -2.6 5.6 -4.0 -1.9 2.4\n\n4.5 -2.9 -11.9 13.0 5.2 0.5\n\n3.9 3.5 -0.2 -0.4 2.7 -2.7\n\n1.8 1.2 -0.2 2.2 0.7 1.5\n\n0.4 1.4 0.5 -0.1 0.3 2.2\n\n3.8 0.3 -2.0 -3.4 0.8 3.2\n\n1.7 0.5 3.5 1.9 -0.4 2.0\n\n1.0 0.5 3.0 2.7 3.5 0.2\n\n-9.3 -0.4 -1.5 1.6 0.9 -2.3\n\n-1.6 -1.2 5.7 4.7 0.9 2.9\n\n-4.0 -0.2 3.5 -0.6 -5.7 -0.9\n\n-0.5 1.9 0.0 -1.6 -1.7 -0.8\n\n2011/12 -3.4 -0.6 -4.8 3.7 -2.8 -2.1 3.1 1.9 1.9 -0.2 -5.5 -0.4\n\n2012/13 3.3 2.9 1.2 3.6 0.1 3.1 4.5 4.5 0.3 4.5 -2.8 -1.4\n\n2013/14 3.3 1.3 4.6 2.5 -0.3 0.1 -2.3 2.2 1.7 -0.1 0.0 -0.9\n\n2014/15 2.8 1.6 -2.0 2.0 -0.8 -0.7 3.5 6.2 0.4 -0.3 1.2 -3.0\n\n2015/16 1.6 -4.1 -2.7 3.4 -0.6 -1.7 -3.8 -1.4 4.4 3.1 2.2 -3.1\n\n2016/17 5.1 1.3 1.3 -1.4 0.0 2.9 0.2 -1.6 1.0 -0.1 0.1 0.0\n\n2017/18 1.0 0.3 0.5 2.9 1.8 3.2 0.8 0.7 -2.7 1.7 0.7 1.6\n\n2018/19 0.4 -1.4 0.1 -7.2 -2.4 -1.2 0.1 2.4 0.2 1.4 0.3 -0.3\n\n2019/20 2.2 -4.6 3.6 -1.0 4.0 2.1 2.7 -9.4 -26.2 10.8 5.7 2.2\n\n2020/21 3.1 5.1 -3.9 1.7 13.3 2.4 -1.0\n\nIncept\n.\nIncept\n.\n(1) S&P/ASX All Ordinaries Accumulation Index\n\nDISCLAIMER:    Returns    are    shown    after    fees    (including    performance    fees)    and    expenses    have    been    deducted    and    assume    the    reinvestment    of   income   distributions.   Please   note   that   past   performance   is\nnot    a    reliable    indicator    of    future    performance.    The    information    contained    in    this    document    is    produced    by    K2    Asset    Management    Ltd    (\"K\noffer      by      K2.      It      is      subject      to      change      without      notice,      and     is     intended     as     general     information     only     and     is     not     complete     or     definitive.     K\nwhatsoever    for    loss    caused    to    any    party    by    reliance    on    the    information    in    this    document.    A    product    disclosure    statement    for   general   information   on   any   Fund   referred   to   in   this   document   can   be   obtained\nat    www.k2am.com.au    or    by    contacting    K2.    You    should    read    the    product    disclosure    statement    and    consider    whether    the    product    is    appropriate    for    you    before    making    a    decision    to    acquire   or   continue   to\nhold an interest in a Fund. Fees referred to in this document are inclusive of GST and RITC and do not include expense recoveries.\n\nK2 Asset Management Ltd ACN 085 445 094 / AFSL No. 244 393\n\nFin YTD\n\n8.5\n\n32.2\n\n9.5\n\n11.2\n\n23.2\n\n22.6\n\n18.3\n\n25.3\n\n-11.6\n\n1.9\n\n16.3\n\n10.0\n\n-9.2\n\n26.1\n\n12.5\n\n11.0\n\n-3.2\n\n9.0\n\n13.1\n\n-7.6\n\n-12.7\n\n21.6\n\n654.7\n\n9.9%pa\n\n2\")    in    good    faith,    but    does    not    constitute    any    representation    or\n2     does     not     accept     any     responsibility,     and     disclaims     any     liability\n\nFin YTD  Average  Average \nIndex (1) Cash Short\n\n16.0 52.0% -12.8%\n\n8.8 27.7% -16.7%\n\n-4.5 32.1% -14.6%\n\n-1.1 51.6% -14.4%\n\n22.4 36.0% -3.7%\n\n24.7 26.9% -5.2%\n\n24.2 27.6% -3.9%\n\n30.3 32.2% -4.9%\n\n-12.1 51.1% -8.2%\n\n-22.1 46.6% -3.4%\n\n13.8 10.3% -2.6%\n\n12.2 14.1% -4.0%\n\n-7.0 23.3% -3.5%\n\n20.7 7.2% -0.2%\n\n17.6 11.7% 0.0%\n\n5.7 18.5% -0.3%\n\n2.0 19.8% -0.3%\n\n13.1 16.7% -1.5%\n\n13.7 21.6% -3.7%\n\n11.0 39.3% -3.3%\n\n-7.2 13.6% -1.6%\n\n16.0 2.8% -0.1%\n\n462.8\n\n8.4%pa 26.5% -5.0%\n\nwww.k2am.com.au\n\nMonth End Exposures Current Monthly Move   \nConsumer 6.7% -2.5%   \nFinancials 44.9% +3.5%   \nHealth Care 8.2% +0.3%   \nIndustrials 9.4% -3.3%   \nMaterials 25.9% +2.6%   \nReal Estate 2.1% -1.2%  FUM AUD $21m\nNumber of Positions 32   Portfolio Managers-2 Campbell Neal, David Poppenbeek and Josh Kitchen\nGross Equity Exposure 97.2% -0.7%  Strategy Australian and New Zealand Equities\nCash Weighting 2.8% +0.7%   \n    Objectives cycle with a focus on capital protection during periods of\nNet Equity Exposure 97.2% -0.7%   market declines\n    Return Target +10% pa over the long term\n    Number of Stocks Up to 80\n    Cash Up to 100% of portfolio\n    Distributions Annually\n    Management Fee 1.31%\n    Buy/Sell Daily Application/Redemption\n     15.38% pa of the amount by which the NAV per unit exceeds\n    Performance Fee \n     the High Water Mark once the fund achieves its hurdle\nTop 5 Stock Holdings Current Monthly Move   \nBHP Group Ltd     \nMacquarie Group Ltd 8.6% +0.7%   \nRIO Tinto Ltd     \nSeven Group Holdings Ltd 7.1% -0.2%   \nMedibank Private Ltd     \n\nPerformance (Net of Fees) -1.0% 9.9% 1-Oct-1999\nAverage Net Exposure 97.5% 73.4% \n\n\nYear Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Average Cash Average Short\n1999/00 1.9 2.0 9.5 -3.9 -2.6 5.6 -4.0 -1.9 2.4 -12.8%\n2000/01 13.1 6.8 -3.1 0.1 4.5 0.9 4.5 -2.9 -11.9 13.0 5.2 0.5 -16.7%\n2001/02 -7.9 -4.8 -5.4 8.7 11.5 1.8 3.9 3.5 -0.2 -0.4 2.7 -2.7 -14.6%\n2002/03 -6.3 3.6 -0.9 1.7 1.6 4.3 1.8 1.2 -0.2 2.2 0.7 1.5 -14.4%\n2003/04 3.7 7.0 1.6 2.5 -1.2 2.9 0.4 1.4 0.5 -0.1 0.3 2.2 -3.7%\n2004/05 3.1 1.4 4.2 4.5 3.7 1.4 3.8 0.3 -2.0 -3.4 0.8 3.2 -5.2%\n2005/06 1.3 0.7 3.9 -3.2 3.7 1.4 1.7 0.5 3.5 1.9 -0.4 2.0 -3.9%\n2006/07 -0.9 2.3 1.5 5.8 0.4 3.0 1.0 0.5 3.0 2.7 3.5 0.2 -4.9%\n2007/08 -0.6 -1.5 2.6 0.9 -1.9 -0.3 -9.3 -0.4 -1.5 1.6 0.9 -2.3 -8.2%\n2008/09 0.3 2.8 -5.8 -5.6 -3.8 3.4 -1.6 -1.2 5.7 4.7 0.9 2.9 -3.4%\n2009/10 7.2 7.4 5.1 -1.0 1.8 3.5 -4.0 -0.2 3.5 -0.6 -5.7 -0.9 -2.6%\n2010/11 2.1 -1.1 4.7 3.3 0.1 3.4 -0.5 1.9 0.0 -1.6 -1.7 -0.8 -4.0%\n2011/12 -3.4 -0.6 -4.8 3.7 -2.8 -2.1 3.1 1.9 1.9 -0.2 -5.5 -0.4 -3.5%\n2012/13 3.3 2.9 1.2 3.6 0.1 3.1 4.5 4.5 0.3 4.5 -2.8 -1.4 -0.2%\n2013/14 3.3 1.3 4.6 2.5 -0.3 0.1 -2.3 2.2 1.7 -0.1 0.0 -0.9 0.0%\n2014/15 2.8 1.6 -2.0 2.0 -0.8 -0.7 3.5 6.2 0.4 -0.3 1.2 -3.0 -0.3%\n2015/16 1.6 -4.1 -2.7 3.4 -0.6 -1.7 -3.8 -1.4 4.4 3.1 2.2 -3.1 -0.3%\n2016/17 5.1 1.3 1.3 -1.4 0.0 2.9 0.2 -1.6 1.0 -0.1 0.1 0.0 -1.5%\n2017/18 1.0 0.3 0.5 2.9 1.8 3.2 0.8 0.7 -2.7 1.7 0.7 1.6 -3.7%\n2018/19 0.4 -1.4 0.1 -7.2 -2.4 -1.2 0.1 2.4 0.2 1.4 0.3 -0.3 -3.3%\n2019/20 2.2 -4.6 3.6 -1.0 4.0 2.1 2.7 -9.4 -26.2 10.8 5.7 2.2 -1.6%\n2020/21 3.1 5.1 -3.9 1.7 13.3 2.4 -1.0 -0.1%\n 654.7 \n 9.9%pa 8.4%pa 26.5% -5.0%"
+  }
+}

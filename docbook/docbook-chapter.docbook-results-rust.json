@@ -1,0 +1,24 @@
+{
+  "file": "docbook/docbook-chapter.docbook",
+  "mime_type": "application/docbook+xml",
+  "success": true,
+  "metadata": {
+    "title": "Test Chapter",
+    "subject": "Title: Test Chapter",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "docbook/docbook-chapter.docbook",
+      "source_index": 0,
+      "source_uri": "docbook/docbook-chapter.docbook"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Test Chapter</h1>\n<p>This chapter uses recursive sections.</p>\n<h2>Like a Sect1</h2>\n<p>This section is like a Sect1.</p>\n<h3>Like a Sect2</h3>\n<p>This section is like a Sect2.</p>\n<h4>Like a Sect3</h4>\n<p>This section is like a Sect3.</p>\n<h5>Like a Sect4</h5>\n<p>This section is like a Sect4.</p>\n<h6>Like a Sect5</h6>\n<p>This section is like a Sect5.</p>\n<h6>Would be like a Sect6</h6>\n<p>This section would be like a Sect6, if there was one.</p>\n<h6>Would be like a Sect7</h6>\n<p>This section would be like a Sect7, if there was one.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Test Chapter\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This chapter uses recursive sections.\"},{\"type\":\"section\",\"heading\":\"Like a Sect1\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"This section is like a Sect1.\"},{\"type\":\"section\",\"heading\":\"Like a Sect2\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"This section is like a Sect2.\"},{\"type\":\"section\",\"heading\":\"Like a Sect3\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"This section is like a Sect3.\"},{\"type\":\"section\",\"heading\":\"Like a Sect4\",\"level\":5,\"body\":[{\"type\":\"paragraph\",\"text\":\"This section is like a Sect4.\"},{\"type\":\"section\",\"heading\":\"Like a Sect5\",\"level\":6,\"body\":[{\"type\":\"paragraph\",\"text\":\"This section is like a Sect5.\"}]},{\"type\":\"section\",\"heading\":\"Would be like a Sect6\",\"level\":6,\"body\":[{\"type\":\"paragraph\",\"text\":\"This section would be like a Sect6, if there was one.\"}]},{\"type\":\"section\",\"heading\":\"Would be like a Sect7\",\"level\":6,\"body\":[{\"type\":\"paragraph\",\"text\":\"This section would be like a Sect7, if there was one.\"}]}]}]}]}]}]}]}",
+    "markdown": "# Test Chapter\n\nThis chapter uses recursive sections.\n\n## Like a Sect1\n\nThis section is like a Sect1.\n\n### Like a Sect2\n\nThis section is like a Sect2.\n\n#### Like a Sect3\n\nThis section is like a Sect3.\n\n##### Like a Sect4\n\nThis section is like a Sect4.\n\n###### Like a Sect5\n\nThis section is like a Sect5.\n\n###### Would be like a Sect6\n\nThis section would be like a Sect6, if there was one.\n\n###### Would be like a Sect7\n\nThis section would be like a Sect7, if there was one.\n",
+    "plain": "Test Chapter\nThis chapter uses recursive sections.\n\n  Like a Sect1\nThis section is like a Sect1.\n\n    Like a Sect2\nThis section is like a Sect2.\n\n      Like a Sect3\nThis section is like a Sect3.\n\n        Like a Sect4\nThis section is like a Sect4.\n\n          Like a Sect5\nThis section is like a Sect5.\n\n          Would be like a Sect6\nThis section would be like a Sect6, if there was one.\n\n          Would be like a Sect7\nThis section would be like a Sect7, if there was one."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/unit_test_01.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 13,
+      "word_count": 7,
+      "character_count": 81
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/html/unit_test_01.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/html/unit_test_01.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Title</p>\n<p>section-1</p>\n<p>section-1.1</p>\n<p>section-2</p>\n<p>section-2.0.1</p>\n<p>section-2.2</p>\n<p>section-2.3</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Title\"},{\"type\":\"paragraph\",\"text\":\"section-1\"},{\"type\":\"paragraph\",\"text\":\"section-1.1\"},{\"type\":\"paragraph\",\"text\":\"section-2\"},{\"type\":\"paragraph\",\"text\":\"section-2.0.1\"},{\"type\":\"paragraph\",\"text\":\"section-2.2\"},{\"type\":\"paragraph\",\"text\":\"section-2.3\"}]}",
+    "markdown": "Title\n\nsection-1\n\nsection-1.1\n\nsection-2\n\nsection-2.0.1\n\nsection-2.2\n\nsection-2.3\n",
+    "plain": "Title\n\nsection-1\n\nsection-1.1\n\nsection-2\n\nsection-2.0.1\n\nsection-2.2\n\nsection-2.3"
+  }
+}

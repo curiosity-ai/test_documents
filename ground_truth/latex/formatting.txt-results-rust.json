@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/latex/formatting.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 15,
+      "word_count": 34,
+      "character_count": 207
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/latex/formatting.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/latex/formatting.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Text Formatting</p>\n<p>This is normal text.</p>\n<p>This is bold text.</p>\n<p>This is italic text.</p>\n<p>This is underlined text.</p>\n<p>This is emphasized text.</p>\n<p>This is monospace text.</p>\n<p>You can also combine formatting: bold and italic.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Text Formatting\"},{\"type\":\"paragraph\",\"text\":\"This is normal text.\"},{\"type\":\"paragraph\",\"text\":\"This is bold text.\"},{\"type\":\"paragraph\",\"text\":\"This is italic text.\"},{\"type\":\"paragraph\",\"text\":\"This is underlined text.\"},{\"type\":\"paragraph\",\"text\":\"This is emphasized text.\"},{\"type\":\"paragraph\",\"text\":\"This is monospace text.\"},{\"type\":\"paragraph\",\"text\":\"You can also combine formatting: bold and italic.\"}]}",
+    "markdown": "Text Formatting\n\nThis is normal text.\n\nThis is bold text.\n\nThis is italic text.\n\nThis is underlined text.\n\nThis is emphasized text.\n\nThis is monospace text.\n\nYou can also combine formatting: bold and italic.\n",
+    "plain": "Text Formatting\n\nThis is normal text.\n\nThis is bold text.\n\nThis is italic text.\n\nThis is underlined text.\n\nThis is emphasized text.\n\nThis is monospace text.\n\nYou can also combine formatting: bold and italic."
+  }
+}

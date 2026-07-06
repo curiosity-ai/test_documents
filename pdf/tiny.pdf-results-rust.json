@@ -1,0 +1,67 @@
+{
+  "file": "pdf/tiny.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "Pdf docs",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "Skia/PDF m127 Google Docs Renderer",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "extraction_method": "native",
+      "source_uri": "pdf/tiny.pdf",
+      "final_uri": "pdf/tiny.pdf"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Name",
+          "Celsius",
+          "Fahrenheit"
+        ],
+        [
+          "Water F reezing P oint",
+          "0",
+          "32"
+        ],
+        [
+          "Water B oiling P oint",
+          "100",
+          "212"
+        ],
+        [
+          "Body T emperature",
+          "37",
+          "98.6"
+        ]
+      ],
+      "markdown": "| Name | Celsius | Fahrenheit |\n| --- | --- | --- |\n| Water F reezing P oint | 0 | 32 |\n| Water B oiling P oint | 100 | 212 |\n| Body T emperature | 37 | 98.6 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 72.5,
+        "y0": 537.5,
+        "x1": 540.5,
+        "y1": 632.5
+      }
+    }
+  ],
+  "content": {
+    "html": "<p>Simple document Lorem ipsum dolor sit amet, consectetur adipiscing eli T able 1. Selected Numbers t</p>\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Celsius</th>\n<th>Fahrenheit</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Water F reezing P oint</td>\n<td>0</td>\n<td>32</td>\n</tr>\n<tr>\n<td>Water B oiling P oint</td>\n<td>100</td>\n<td>212</td>\n</tr>\n<tr>\n<td>Body T emperature</td>\n<td>37</td>\n<td>98.6</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Simple document\"},{\"type\":\"paragraph\",\"text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing eli\"},{\"type\":\"paragraph\",\"text\":\"Table 1. Selected Numbers\"},{\"type\":\"paragraph\",\"text\":\"Name Celsius\"},{\"type\":\"paragraph\",\"text\":\"Water Freezing Point 0\"},{\"type\":\"paragraph\",\"text\":\"Water Boiling Point 100\"},{\"type\":\"paragraph\",\"text\":\"Body Temperature 37\"},{\"type\":\"paragraph\",\"text\":\"t\"},{\"type\":\"paragraph\",\"text\":\"Fahrenheit\"},{\"type\":\"paragraph\",\"text\":\"32\"},{\"type\":\"paragraph\",\"text\":\"212\"},{\"type\":\"paragraph\",\"text\":\"98.6\"},{\"type\":\"table\",\"headers\":[\"Name\",\"Celsius\",\"Fahrenheit\"],\"rows\":[[\"Water F reezing P oint\",\"0\",\"32\"],[\"Water B oiling P oint\",\"100\",\"212\"],[\"Body T emperature\",\"37\",\"98.6\"]]}]}",
+    "markdown": "Simple document Lorem ipsum dolor sit amet, consectetur adipiscing eli T able 1. Selected Numbers t\n\n| Name | Celsius | Fahrenheit |\n| --- | --- | --- |\n| Water F reezing P oint | 0 | 32 |\n| Water B oiling P oint | 100 | 212 |\n| Body T emperature | 37 | 98.6 |\n",
+    "plain": "Simple document\n\nLorem ipsum dolor sit amet, consectetur adipiscing eli\n\nTable 1. Selected Numbers\n\nName Celsius\n\nWater Freezing Point 0\n\nWater Boiling Point 100\n\nBody Temperature 37\n\nt\n\nFahrenheit\n\n32\n\n212\n\n98.6\n\nName Celsius Fahrenheit\nWater F reezing P oint 0 32\nWater B oiling P oint 100 212\nBody T emperature 37 98.6"
+  }
+}

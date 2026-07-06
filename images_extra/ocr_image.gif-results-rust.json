@@ -1,0 +1,12 @@
+{
+  "file": "images_extra/ocr_image.gif",
+  "mime_type": "image/gif",
+  "success": false,
+  "error": "Unsupported format: image/gif",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

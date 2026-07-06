@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/svg/svg_flowchart.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 37,
+      "character_count": 298
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/svg/svg_flowchart.txt",
+      "source_uri": "ground_truth/svg/svg_flowchart.txt",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Software Development Lifecycle A flowchart showing the stages of software development Requirements Design Implementation Testing Gather user needs and constraints Architecture and interface planning Write and review source code Verify correctness and performance Software Development Lifecycle v2.0</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Software Development Lifecycle A flowchart showing the stages of software development Requirements Design Implementation Testing Gather user needs and constraints Architecture and interface planning Write and review source code Verify correctness and performance Software Development Lifecycle v2.0\"}]}",
+    "markdown": "Software Development Lifecycle A flowchart showing the stages of software development Requirements Design Implementation Testing Gather user needs and constraints Architecture and interface planning Write and review source code Verify correctness and performance Software Development Lifecycle v2.0\n",
+    "plain": "Software Development Lifecycle A flowchart showing the stages of software development Requirements Design Implementation Testing Gather user needs and constraints Architecture and interface planning Write and review source code Verify correctness and performance Software Development Lifecycle v2.0"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "file": "vendored/docling/groundtruth/docling_v2/docx_rich_cells.docx.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "vendored/docling/groundtruth/docling_v2/docx_rich_cells.docx.md",
+      "source_uri": "vendored/docling/groundtruth/docling_v2/docx_rich_cells.docx.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Column A",
+          "Column B"
+        ],
+        [
+          "This is a list: - A First - A Second - A Third",
+          "This is a formatted list: - B First - B Second - B Third"
+        ],
+        [
+          "First Paragraph Second Paragraph Third paragraph before a numbered list 1. Number one 2. Number two 3. Number three",
+          "This is simple text with bold , strikethrough and italic formatting with x 2 and H 2 O"
+        ],
+        [
+          "This is a paragraph This is another paragraph",
+          ""
+        ]
+      ],
+      "markdown": "| Column A | Column B |\n| --- | --- |\n| This is a list: - A First - A Second - A Third | This is a formatted list: - B First - B Second - B Third |\n| First Paragraph Second Paragraph Third paragraph before a numbered list 1. Number one 2. Number two 3. Number three | This is simple text with bold , strikethrough and italic formatting with x 2 and H 2 O |\n| This is a paragraph This is another paragraph |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Column A",
+          "Column B"
+        ],
+        [
+          "Only text",
+          ""
+        ],
+        [
+          "Text and picture",
+          ""
+        ]
+      ],
+      "markdown": "| Column A | Column B |\n| --- | --- |\n| Only text |  |\n| Text and picture |  |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h3>Table with rich cells</h3>\n<table>\n<thead>\n<tr>\n<th>Column A</th>\n<th>Column B</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>This is a list: - A First - A Second - A Third</td>\n<td>This is a formatted list: - B First - B Second - B Third</td>\n</tr>\n<tr>\n<td>First Paragraph Second Paragraph Third paragraph before a numbered list 1. Number one 2. Number two 3. Number three</td>\n<td>This is simple text with bold , strikethrough and italic formatting with x 2 and H 2 O</td>\n</tr>\n<tr>\n<td>This is a paragraph This is another paragraph</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3>Table with nested table</h3>\n<p>Before table</p>\n<p>| Column A | Column B | | ---------------------- | ------------------------------------------- | --- | --- | --- | ---------- | -------- | ------------ | --- | -------- | ------ | ---------- | --- | ------------------------ | --- | --- | --- | --- | ------------ | -------------- | -------- | --- | ---------- | ------------ | ------ | --- | | Simple cell upper left | Simple cell with <strong>bold</strong> and <em>italic</em> text | | | A | B | C | | ---------- | -------- | ------------ | | <em>Cell 1</em> | Cell 2 | <strong>Cell 3</strong> | | Rich cell A nested table | A | B | C | | ------------ | -------------- | -------- | | <del>Cell 1</del> | <em><strong>Cell 2</strong></em> | Cell 3 | |</p>\n<p>After table with <strong>bold</strong> , underline , <del>strikethrough</del> , and <em>italic</em> formatting</p>\n<h3>Table with pictures</h3>\n<table>\n<thead>\n<tr>\n<th>Column A</th>\n<th>Column B</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Only text</td>\n<td></td>\n</tr>\n<tr>\n<td>Text and picture</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Table with rich cells\",\"level\":3,\"body\":[{\"type\":\"table\",\"headers\":[\"Column A\",\"Column B\"],\"rows\":[[\"This is a list: - A First - A Second - A Third\",\"This is a formatted list: - B First - B Second - B Third\"],[\"First Paragraph Second Paragraph Third paragraph before a numbered list 1. Number one 2. Number two 3. Number three\",\"This is simple text with bold , strikethrough and italic formatting with x 2 and H 2 O\"],[\"This is a paragraph This is another paragraph\",\"\"]]}]},{\"type\":\"section\",\"heading\":\"Table with nested table\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Before table\"},{\"type\":\"paragraph\",\"text\":\"| Column A               | Column B                                    | | ---------------------- | ------------------------------------------- | --- | --- | --- | ---------- | -------- | ------------ | --- | -------- | ------ | ---------- | --- | ------------------------ | --- | --- | --- | --- | ------------ | -------------- | -------- | --- | ---------- | ------------ | ------ | --- | | Simple cell upper left | Simple cell with bold and italic text | |                        | A                                           | B   | C   |     | ---------- | -------- | ------------ |     | Cell 1 | Cell 2 | Cell 3 |     | Rich cell A nested table | A   | B   | C   |     | ------------ | -------------- | -------- |     | Cell 1 | Cell 2 | Cell 3 |     |\"},{\"type\":\"paragraph\",\"text\":\"After table with bold , underline , strikethrough , and italic formatting\"}]},{\"type\":\"section\",\"heading\":\"Table with pictures\",\"level\":3,\"body\":[{\"type\":\"table\",\"headers\":[\"Column A\",\"Column B\"],\"rows\":[[\"Only text\",\"\"],[\"Text and picture\",\"\"]]}]}]}",
+    "markdown": "### Table with rich cells\n\n| Column A | Column B |\n| --- | --- |\n| This is a list: - A First - A Second - A Third | This is a formatted list: - B First - B Second - B Third |\n| First Paragraph Second Paragraph Third paragraph before a numbered list 1. Number one 2. Number two 3. Number three | This is simple text with bold , strikethrough and italic formatting with x 2 and H 2 O |\n| This is a paragraph This is another paragraph |  |\n\n### Table with nested table\n\nBefore table\n\n| Column A | Column B | | ---------------------- | ------------------------------------------- | --- | --- | --- | ---------- | -------- | ------------ | --- | -------- | ------ | ---------- | --- | ------------------------ | --- | --- | --- | --- | ------------ | -------------- | -------- | --- | ---------- | ------------ | ------ | --- | | Simple cell upper left | Simple cell with **bold** and *italic* text | | | A | B | C | | ---------- | -------- | ------------ | | *Cell 1* | Cell 2 | **Cell 3** | | Rich cell A nested table | A | B | C | | ------------ | -------------- | -------- | | ~~Cell 1~~ | ***Cell 2*** | Cell 3 | |\n\nAfter table with **bold** , underline , ~~strikethrough~~ , and *italic* formatting\n\n### Table with pictures\n\n| Column A | Column B |\n| --- | --- |\n| Only text |  |\n| Text and picture |  |\n",
+    "plain": "    Table with rich cells\nColumn A Column B\nThis is a list: - A First - A Second - A Third This is a formatted list: - B First - B Second - B Third\nFirst Paragraph Second Paragraph Third paragraph before a numbered list 1. Number one 2. Number two 3. Number three This is simple text with bold , strikethrough and italic formatting with x 2 and H 2 O\nThis is a paragraph This is another paragraph \n\n    Table with nested table\nBefore table\n\n| Column A               | Column B                                    | | ---------------------- | ------------------------------------------- | --- | --- | --- | ---------- | -------- | ------------ | --- | -------- | ------ | ---------- | --- | ------------------------ | --- | --- | --- | --- | ------------ | -------------- | -------- | --- | ---------- | ------------ | ------ | --- | | Simple cell upper left | Simple cell with bold and italic text | |                        | A                                           | B   | C   |     | ---------- | -------- | ------------ |     | Cell 1 | Cell 2 | Cell 3 |     | Rich cell A nested table | A   | B   | C   |     | ------------ | -------------- | -------- |     | Cell 1 | Cell 2 | Cell 3 |     |\n\nAfter table with bold , underline , strikethrough , and italic formatting\n\n    Table with pictures\nColumn A Column B\nOnly text \nText and picture"
+  }
+}

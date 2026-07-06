@@ -1,0 +1,41 @@
+{
+  "file": "vendored/unstructured/msg/fake-email-attachment.msg",
+  "mime_type": "application/vnd.ms-outlook",
+  "success": true,
+  "metadata": {
+    "subject": "Fake email with attachment",
+    "authors": [
+      "Mallori Harrell"
+    ],
+    "created_at": "2023-04-20T21:39:10.475+00:00",
+    "format": {
+      "format_type": "email",
+      "from_email": "mallori@unstructured.io",
+      "from_name": "Mallori Harrell",
+      "to_emails": [
+        "\"Mallori Harrell\" <mallori@unstructured.io>"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "message_id": "<CAPgNNXSzLVJ-d1OCX_TjFgJU7ugtQrjFybPtAMmmYZzphxNFYg@mail.gmail.com>",
+      "attachments": [
+        "fake-attachment.txt"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "vendored/unstructured/msg/fake-email-attachment.msg",
+      "source_uri": "vendored/unstructured/msg/fake-email-attachment.msg"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Fake email with attachment</p>\n<p><strong>From</strong>: mallori@unstructured.io</p>\n<p><strong>To</strong>: &quot;Mallori Harrell&quot; &lt;mallori@unstructured.io&gt;</p>\n<p><strong>Date</strong>: 2023-04-20T21:39:10.475+00:00</p>\n<p>Hello! Here's the attachments! It includes: - Lots of whitespace - Little to no content - and is a quick read Best, Mallori</p>\n<p>Attachments:</p>\n<p> fake-attachment.txt (30B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Hello!\\r\\n\\r\\nHere's the attachments!\\r\\n\\r\\nIt includes:\\r\\n\\r\\n   - Lots of whitespace\\r\\n   - Little to no content\\r\\n   - and is a quick read\\r\\n\\r\\nBest,\\r\\n\\r\\nMallori\"},{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  fake-attachment.txt (30B)\"}]}",
+    "markdown": "**Subject**: Fake email with attachment\n\n**From**: mallori@unstructured.io\n\n**To**: \"Mallori Harrell\" \\<mallori@unstructured.io\\>\n\n**Date**: 2023-04-20T21:39:10.475+00:00\n\nHello\\! Here's the attachments\\! It includes: - Lots of whitespace - Little to no content - and is a quick read Best, Mallori\n\nAttachments:\n\n fake-attachment.txt (30B)\n",
+    "plain": "Subject: Fake email with attachment\nFrom: mallori@unstructured.io\nTo: \"Mallori Harrell\" <mallori@unstructured.io>\nDate: 2023-04-20T21:39:10.475+00:00\n\nHello!\r\n\r\nHere's the attachments!\r\n\r\nIt includes:\r\n\r\n   - Lots of whitespace\r\n   - Little to no content\r\n   - and is a quick read\r\n\r\nBest,\r\n\r\nMallori\n\nAttachments:\n\n  fake-attachment.txt (30B)"
+  }
+}

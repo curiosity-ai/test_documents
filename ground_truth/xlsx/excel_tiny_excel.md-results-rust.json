@@ -1,0 +1,67 @@
+{
+  "file": "ground_truth/xlsx/excel_tiny_excel.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/xlsx/excel_tiny_excel.md",
+      "source_index": 0,
+      "source_uri": "ground_truth/xlsx/excel_tiny_excel.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Column 1",
+          "Column 2"
+        ],
+        [
+          "a",
+          "1.0"
+        ],
+        [
+          "b",
+          "2.0"
+        ],
+        [
+          "c",
+          "3.0"
+        ]
+      ],
+      "markdown": "| Column 1 | Column 2 |\n| --- | --- |\n| a | 1.0 |\n| b | 2.0 |\n| c | 3.0 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Product",
+          "Value"
+        ],
+        [
+          "Tomato",
+          "1.0"
+        ],
+        [
+          "Potato",
+          "1.0"
+        ],
+        [
+          "Beetroot",
+          "2.0"
+        ]
+      ],
+      "markdown": "| Product | Value |\n| --- | --- |\n| Tomato | 1.0 |\n| Potato | 1.0 |\n| Beetroot | 2.0 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h2>first_sheet</h2>\n<table>\n<thead>\n<tr>\n<th>Column 1</th>\n<th>Column 2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>a</td>\n<td>1.0</td>\n</tr>\n<tr>\n<td>b</td>\n<td>2.0</td>\n</tr>\n<tr>\n<td>c</td>\n<td>3.0</td>\n</tr>\n</tbody>\n</table>\n<h2>second_sheet</h2>\n<table>\n<thead>\n<tr>\n<th>Product</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Tomato</td>\n<td>1.0</td>\n</tr>\n<tr>\n<td>Potato</td>\n<td>1.0</td>\n</tr>\n<tr>\n<td>Beetroot</td>\n<td>2.0</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"first_sheet\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Column 1\",\"Column 2\"],\"rows\":[[\"a\",\"1.0\"],[\"b\",\"2.0\"],[\"c\",\"3.0\"]]}]},{\"type\":\"section\",\"heading\":\"second_sheet\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Product\",\"Value\"],\"rows\":[[\"Tomato\",\"1.0\"],[\"Potato\",\"1.0\"],[\"Beetroot\",\"2.0\"]]}]}]}",
+    "markdown": "## first_sheet\n\n| Column 1 | Column 2 |\n| --- | --- |\n| a | 1.0 |\n| b | 2.0 |\n| c | 3.0 |\n\n## second_sheet\n\n| Product | Value |\n| --- | --- |\n| Tomato | 1.0 |\n| Potato | 1.0 |\n| Beetroot | 2.0 |\n",
+    "plain": "  first_sheet\nColumn 1 Column 2\na 1.0\nb 2.0\nc 3.0\n\n  second_sheet\nProduct Value\nTomato 1.0\nPotato 1.0\nBeetroot 2.0"
+  }
+}

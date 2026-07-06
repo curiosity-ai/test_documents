@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/odt/strikeout.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/odt/strikeout.md",
+      "source_uri": "ground_truth/odt/strikeout.md",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Here comes text that was <del>striken out</del>.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Here comes text that was striken out.\"}]}",
+    "markdown": "Here comes text that was ~~striken out~~.\n",
+    "plain": "Here comes text that was striken out."
+  }
+}

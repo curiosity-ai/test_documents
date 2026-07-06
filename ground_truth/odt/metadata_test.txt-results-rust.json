@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/odt/metadata_test.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 15,
+      "word_count": 26,
+      "character_count": 165
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/odt/metadata_test.txt",
+      "final_uri": "ground_truth/odt/metadata_test.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Test Metadata Document</p>\n<p>John Doe</p>\n<p>Test Document</p>\n<p>This is a test document to verify metadata extraction.</p>\n<p>Section 1</p>\n<p>Some content here.</p>\n<p>Section 2</p>\n<p>More content here.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test Metadata Document\"},{\"type\":\"paragraph\",\"text\":\"John Doe\"},{\"type\":\"paragraph\",\"text\":\"Test Document\"},{\"type\":\"paragraph\",\"text\":\"This is a test document to verify metadata extraction.\"},{\"type\":\"paragraph\",\"text\":\"Section 1\"},{\"type\":\"paragraph\",\"text\":\"Some content here.\"},{\"type\":\"paragraph\",\"text\":\"Section 2\"},{\"type\":\"paragraph\",\"text\":\"More content here.\"}]}",
+    "markdown": "Test Metadata Document\n\nJohn Doe\n\nTest Document\n\nThis is a test document to verify metadata extraction.\n\nSection 1\n\nSome content here.\n\nSection 2\n\nMore content here.\n",
+    "plain": "Test Metadata Document\n\nJohn Doe\n\nTest Document\n\nThis is a test document to verify metadata extraction.\n\nSection 1\n\nSome content here.\n\nSection 2\n\nMore content here."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "file": "ground_truth/xlsx/xlsx_05_table_with_title.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/xlsx/xlsx_05_table_with_title.md",
+      "final_uri": "ground_truth/xlsx/xlsx_05_table_with_title.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Number of freshwater ducks per year",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Year",
+          "Freshwater Ducks",
+          "",
+          ""
+        ],
+        [
+          "2019.0",
+          "120.0",
+          "",
+          ""
+        ],
+        [
+          "2020.0",
+          "135.0",
+          "",
+          ""
+        ],
+        [
+          "2021.0",
+          "150.0",
+          "",
+          ""
+        ],
+        [
+          "2022.0",
+          "170.0",
+          "",
+          ""
+        ],
+        [
+          "2023.0",
+          "160.0",
+          "",
+          ""
+        ],
+        [
+          "2024.0",
+          "180.0",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "|  |  |  |  |\n| --- | --- | --- | --- |\n| Number of freshwater ducks per year |  |  |  |\n|  |  |  |  |\n| Year | Freshwater Ducks |  |  |\n| 2019.0 | 120.0 |  |  |\n| 2020.0 | 135.0 |  |  |\n| 2021.0 | 150.0 |  |  |\n| 2022.0 | 170.0 |  |  |\n| 2023.0 | 160.0 |  |  |\n| 2024.0 | 180.0 |  |  |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h2>Duck Observations</h2>\n<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Number of freshwater ducks per year</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Year</td>\n<td>Freshwater Ducks</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2019.0</td>\n<td>120.0</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2020.0</td>\n<td>135.0</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2021.0</td>\n<td>150.0</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2022.0</td>\n<td>170.0</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2023.0</td>\n<td>160.0</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2024.0</td>\n<td>180.0</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Duck Observations\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"\",\"\",\"\",\"\"],\"rows\":[[\"Number of freshwater ducks per year\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"],[\"Year\",\"Freshwater Ducks\",\"\",\"\"],[\"2019.0\",\"120.0\",\"\",\"\"],[\"2020.0\",\"135.0\",\"\",\"\"],[\"2021.0\",\"150.0\",\"\",\"\"],[\"2022.0\",\"170.0\",\"\",\"\"],[\"2023.0\",\"160.0\",\"\",\"\"],[\"2024.0\",\"180.0\",\"\",\"\"]]}]}]}",
+    "markdown": "## Duck Observations\n\n|  |  |  |  |\n| --- | --- | --- | --- |\n| Number of freshwater ducks per year |  |  |  |\n|  |  |  |  |\n| Year | Freshwater Ducks |  |  |\n| 2019.0 | 120.0 |  |  |\n| 2020.0 | 135.0 |  |  |\n| 2021.0 | 150.0 |  |  |\n| 2022.0 | 170.0 |  |  |\n| 2023.0 | 160.0 |  |  |\n| 2024.0 | 180.0 |  |  |\n",
+    "plain": "  Duck Observations\n   \nNumber of freshwater ducks per year   \n   \nYear Freshwater Ducks  \n2019.0 120.0  \n2020.0 135.0  \n2021.0 150.0  \n2022.0 170.0  \n2023.0 160.0  \n2024.0 180.0"
+  }
+}

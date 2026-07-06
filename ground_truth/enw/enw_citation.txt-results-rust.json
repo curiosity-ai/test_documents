@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/enw/enw_citation.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 12,
+      "word_count": 40,
+      "character_count": 241
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/enw/enw_citation.txt",
+      "final_uri": "ground_truth/enw/enw_citation.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>%0 Journal Article %A Smith, John %A Doe, Jane %D 2024 %T A comprehensive study of document extraction techniques %J Journal of Information Processing %V 42 %N 3 %P 125-140 %K document extraction %K text mining %K natural language processing</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"%0 Journal Article\\n%A Smith, John\\n%A Doe, Jane\\n%D 2024\\n%T A comprehensive study of document extraction techniques\\n%J Journal of Information Processing\\n%V 42\\n%N 3\\n%P 125-140\\n%K document extraction\\n%K text mining\\n%K natural language processing\"}]}",
+    "markdown": "%0 Journal Article %A Smith, John %A Doe, Jane %D 2024 %T A comprehensive study of document extraction techniques %J Journal of Information Processing %V 42 %N 3 %P 125-140 %K document extraction %K text mining %K natural language processing\n",
+    "plain": "%0 Journal Article\n%A Smith, John\n%A Doe, Jane\n%D 2024\n%T A comprehensive study of document extraction techniques\n%J Journal of Information Processing\n%V 42\n%N 3\n%P 125-140\n%K document extraction\n%K text mining\n%K natural language processing"
+  }
+}

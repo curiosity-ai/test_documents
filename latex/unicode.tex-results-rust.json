@@ -1,0 +1,22 @@
+{
+  "file": "latex/unicode.tex",
+  "mime_type": "application/x-latex",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "latex/unicode.tex",
+      "source_uri": "latex/unicode.tex",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>=&quot;[lmroman12-regular]&quot;</p>\n<p>Hebrew: אֳרָנִים</p>\n<p>Hebrew modifier on Latin: 9ֳ9</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"=\\\"[lmroman12-regular]\\\"\"},{\"type\":\"paragraph\",\"text\":\"Hebrew: אֳרָנִים\"},{\"type\":\"paragraph\",\"text\":\"Hebrew modifier on Latin: 9ֳ9\"}]}",
+    "markdown": "=\"[lmroman12-regular]\"\n\nHebrew: אֳרָנִים\n\nHebrew modifier on Latin: 9ֳ9\n",
+    "plain": "=\"[lmroman12-regular]\"\n\nHebrew: אֳרָנִים\n\nHebrew modifier on Latin: 9ֳ9"
+  }
+}

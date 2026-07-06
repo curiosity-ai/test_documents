@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pdf/test-punkt.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/test-punkt.md",
+      "source_index": 0,
+      "final_uri": "ground_truth/pdf/test-punkt.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>https://dell-research-harvard.github.io/HJDataset/</p>\n<p>fine-tuned parameters</p>\n<p>Algorithms [2, 3]</p>\n<p>Xu et al. [23]</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"https://dell-research-harvard.github.io/HJDataset/\"},{\"type\":\"paragraph\",\"text\":\"fine-tuned parameters\"},{\"type\":\"paragraph\",\"text\":\"Algorithms [2, 3]\"},{\"type\":\"paragraph\",\"text\":\"Xu et al. [23]\"}]}",
+    "markdown": "https://dell-research-harvard.github.io/HJDataset/\n\nfine-tuned parameters\n\nAlgorithms [2, 3]\n\nXu et al. [23]\n",
+    "plain": "https://dell-research-harvard.github.io/HJDataset/\n\nfine-tuned parameters\n\nAlgorithms [2, 3]\n\nXu et al. [23]"
+  }
+}

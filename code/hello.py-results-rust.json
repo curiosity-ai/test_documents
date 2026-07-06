@@ -1,0 +1,28 @@
+{
+  "file": "code/hello.py",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 19,
+      "word_count": 47,
+      "character_count": 374
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "code/hello.py",
+      "source_kind": "uri",
+      "source_uri": "code/hello.py"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>&quot;&quot;&quot;A simple greeting module.&quot;&quot;&quot;</p>\n<p>import os from pathlib import Path</p>\n<p>def greet(name: str) -&gt; str: &quot;&quot;&quot;Return a greeting message.&quot;&quot;&quot; return f&quot;Hello, {name}!&quot;</p>\n<p>class Greeter: &quot;&quot;&quot;A greeter class.&quot;&quot;&quot;</p>\n<p>def __init__(self, prefix: str = &quot;Hello&quot;) -&gt; None: self.prefix = prefix</p>\n<p>def greet(self, name: str) -&gt; str: return f&quot;{self.prefix}, {name}!&quot;</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"\\\"\\\"\\\"A simple greeting module.\\\"\\\"\\\"\"},{\"type\":\"paragraph\",\"text\":\"import os\\nfrom pathlib import Path\"},{\"type\":\"paragraph\",\"text\":\"def greet(name: str) -> str:\\n    \\\"\\\"\\\"Return a greeting message.\\\"\\\"\\\"\\n    return f\\\"Hello, {name}!\\\"\"},{\"type\":\"paragraph\",\"text\":\"class Greeter:\\n    \\\"\\\"\\\"A greeter class.\\\"\\\"\\\"\"},{\"type\":\"paragraph\",\"text\":\"def __init__(self, prefix: str = \\\"Hello\\\") -> None:\\n        self.prefix = prefix\"},{\"type\":\"paragraph\",\"text\":\"def greet(self, name: str) -> str:\\n        return f\\\"{self.prefix}, {name}!\\\"\"}]}",
+    "markdown": "\"\"\"A simple greeting module.\"\"\"\n\nimport os from pathlib import Path\n\ndef greet(name: str) -\\> str: \"\"\"Return a greeting message.\"\"\" return f\"Hello, {name}\\!\"\n\nclass Greeter: \"\"\"A greeter class.\"\"\"\n\ndef __init__(self, prefix: str = \"Hello\") -\\> None: self.prefix = prefix\n\ndef greet(self, name: str) -\\> str: return f\"{self.prefix}, {name}\\!\"\n",
+    "plain": "\"\"\"A simple greeting module.\"\"\"\n\nimport os\nfrom pathlib import Path\n\ndef greet(name: str) -> str:\n    \"\"\"Return a greeting message.\"\"\"\n    return f\"Hello, {name}!\"\n\nclass Greeter:\n    \"\"\"A greeter class.\"\"\"\n\ndef __init__(self, prefix: str = \"Hello\") -> None:\n        self.prefix = prefix\n\ndef greet(self, name: str) -> str:\n        return f\"{self.prefix}, {name}!\""
+  }
+}

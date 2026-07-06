@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/fake-email-attachment.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 17,
+      "word_count": 43,
+      "character_count": 321
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/eml/fake-email-attachment.txt",
+      "source_uri": "ground_truth/eml/fake-email-attachment.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Fake email with attachment From: &quot;Mallori Harrell&quot; &lt;mallori@unstructured.io&gt; To: &quot;Mallori Harrell&quot; &lt;mallori@unstructured.io&gt; Date: Fri, 23 Dec 2022 12:08:48 -0600 Hello! Here's the attachments! It includes: - Lots of whitespace - Little to no content - and is a quick read Best, Mallori</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Fake email with attachment\\nFrom: \\\"Mallori Harrell\\\" <mallori@unstructured.io>\\nTo: \\\"Mallori Harrell\\\" <mallori@unstructured.io>\\nDate: Fri, 23 Dec 2022 12:08:48 -0600\\nHello!\\r\\n\\r\\nHere's the attachments!\\r\\n\\r\\nIt includes:\\r\\n\\r\\n   - Lots of whitespace\\r\\n   - Little to no content\\r\\n   - and is a quick read\\r\\n\\r\\nBest,\\r\\n\\r\\nMallori\"}]}",
+    "markdown": "Subject: Fake email with attachment From: \"Mallori Harrell\" \\<mallori@unstructured.io\\> To: \"Mallori Harrell\" \\<mallori@unstructured.io\\> Date: Fri, 23 Dec 2022 12:08:48 -0600 Hello\\! Here's the attachments\\! It includes: - Lots of whitespace - Little to no content - and is a quick read Best, Mallori\n",
+    "plain": "Subject: Fake email with attachment\nFrom: \"Mallori Harrell\" <mallori@unstructured.io>\nTo: \"Mallori Harrell\" <mallori@unstructured.io>\nDate: Fri, 23 Dec 2022 12:08:48 -0600\nHello!\r\n\r\nHere's the attachments!\r\n\r\nIt includes:\r\n\r\n   - Lots of whitespace\r\n   - Little to no content\r\n   - and is a quick read\r\n\r\nBest,\r\n\r\nMallori"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "file": "vendored/docling/md/drawingml.docx.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "vendored/docling/md/drawingml.docx.md",
+      "source_uri": "vendored/docling/md/drawingml.docx.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Text 2</p>\n<p>Text 1</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Text 2\"},{\"type\":\"paragraph\",\"text\":\"Text 1\"}]}",
+    "markdown": "Text 2\n\nText 1\n",
+    "plain": "Text 2\n\nText 1"
+  }
+}

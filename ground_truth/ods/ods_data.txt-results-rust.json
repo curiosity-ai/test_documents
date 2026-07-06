@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/ods/ods_data.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 11,
+      "word_count": 34,
+      "character_count": 176
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/ods/ods_data.txt",
+      "final_uri": "ground_truth/ods/ods_data.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Stanley Cups Team Location Stanley Cups Blues STL 1 Flyers PHI 2 Maple Leafs TOR 13</p>\n<p>Stanley Cups Since 67 Team Location Stanley Cups Blues STL 1 Flyers PHI 2 Maple Leafs TOR 0</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Stanley Cups\\nTeam Location Stanley Cups\\nBlues STL 1\\nFlyers PHI 2\\nMaple Leafs TOR 13\"},{\"type\":\"paragraph\",\"text\":\"Stanley Cups Since 67\\nTeam Location Stanley Cups\\nBlues STL 1\\nFlyers PHI 2\\nMaple Leafs TOR 0\"}]}",
+    "markdown": "Stanley Cups Team Location Stanley Cups Blues STL 1 Flyers PHI 2 Maple Leafs TOR 13\n\nStanley Cups Since 67 Team Location Stanley Cups Blues STL 1 Flyers PHI 2 Maple Leafs TOR 0\n",
+    "plain": "Stanley Cups\nTeam Location Stanley Cups\nBlues STL 1\nFlyers PHI 2\nMaple Leafs TOR 13\n\nStanley Cups Since 67\nTeam Location Stanley Cups\nBlues STL 1\nFlyers PHI 2\nMaple Leafs TOR 0"
+  }
+}

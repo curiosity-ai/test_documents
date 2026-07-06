@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/mime-multipart-digest.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 12,
+      "word_count": 37,
+      "character_count": 255
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/eml/mime-multipart-digest.txt",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/eml/mime-multipart-digest.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Example Multipart Digest Email From: alice@example.com To: bob@example.com CC: carol@example.com BCC: dave@example.com This is the first message in the digest.</p>\n<p>This is the second message in the digest.</p>\n<p>This is the third message in the digest.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Example Multipart Digest Email\\nFrom: alice@example.com\\nTo: bob@example.com\\nCC: carol@example.com\\nBCC: dave@example.com\\nThis is the first message in the digest.\"},{\"type\":\"paragraph\",\"text\":\"This is the second message in the digest.\"},{\"type\":\"paragraph\",\"text\":\"This is the third message in the digest.\"}]}",
+    "markdown": "Subject: Example Multipart Digest Email From: alice@example.com To: bob@example.com CC: carol@example.com BCC: dave@example.com This is the first message in the digest.\n\nThis is the second message in the digest.\n\nThis is the third message in the digest.\n",
+    "plain": "Subject: Example Multipart Digest Email\nFrom: alice@example.com\nTo: bob@example.com\nCC: carol@example.com\nBCC: dave@example.com\nThis is the first message in the digest.\n\nThis is the second message in the digest.\n\nThis is the third message in the digest."
+  }
+}

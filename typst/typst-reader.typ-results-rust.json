@@ -1,0 +1,22 @@
+{
+  "file": "typst/typst-reader.typ",
+  "mime_type": "application/x-typst",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "typst/typst-reader.typ",
+      "final_uri": "typst/typst-reader.typ"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>= Fibonacci sequence</h1>\n<p>The Fibonacci sequence is defined through the recurrence relation $F<em>n = F</em>(n-1) + F<em>(n-2)$. It can also be expressed in</em> closed form:_</p>\n<p>$ F_n = round(1 / sqrt(5) phi.alt^n), quad phi.alt = (1 + sqrt(5)) / 2 $</p>\n<p>if n &lt;= 2 { 1 } else { fib(n - 1) + fib(n - 2) } )</p>\n<p>The first #count numbers of the sequence are:</p>\n<p>#align(center, table( columns: count, ..nums.map(n =&gt; $F_#n$), ..nums.map(n =&gt; str(fib(n))), ))</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"= Fibonacci sequence\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"The Fibonacci sequence is defined through the recurrence relation $Fn = F(n-1) + F(n-2)$. It can also be expressed in closed form:_\"},{\"type\":\"paragraph\",\"text\":\"$ F_n = round(1 / sqrt(5) phi.alt^n), quad phi.alt = (1 + sqrt(5)) / 2 $\"},{\"type\":\"paragraph\",\"text\":\"if n <= 2 { 1 } else { fib(n - 1) + fib(n - 2) } )\"},{\"type\":\"paragraph\",\"text\":\"The first #count numbers of the sequence are:\"},{\"type\":\"paragraph\",\"text\":\"#align(center, table( columns: count, ..nums.map(n => $F_#n$), ..nums.map(n => str(fib(n))), ))\"}]}]}",
+    "markdown": "# = Fibonacci sequence\n\nThe Fibonacci sequence is defined through the recurrence relation $F*n = F*(n-1) + F*(n-2)$. It can also be expressed in* closed form:_\n\n$ F_n = round(1 / sqrt(5) phi.alt^n), quad phi.alt = (1 + sqrt(5)) / 2 $\n\nif n \\<= 2 { 1 } else { fib(n - 1) + fib(n - 2) } )\n\nThe first \\#count numbers of the sequence are:\n\n\\#align(center, table( columns: count, ..nums.map(n =\\> $F_\\#n$), ..nums.map(n =\\> str(fib(n))), ))\n",
+    "plain": "= Fibonacci sequence\nThe Fibonacci sequence is defined through the recurrence relation $Fn = F(n-1) + F(n-2)$. It can also be expressed in closed form:_\n\n$ F_n = round(1 / sqrt(5) phi.alt^n), quad phi.alt = (1 + sqrt(5)) / 2 $\n\nif n <= 2 { 1 } else { fib(n - 1) + fib(n - 2) } )\n\nThe first #count numbers of the sequence are:\n\n#align(center, table( columns: count, ..nums.map(n => $F_#n$), ..nums.map(n => str(fib(n))), ))"
+  }
+}

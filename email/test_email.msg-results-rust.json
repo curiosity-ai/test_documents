@@ -1,0 +1,46 @@
+{
+  "file": "email/test_email.msg",
+  "mime_type": "application/vnd.ms-outlook",
+  "success": true,
+  "metadata": {
+    "subject": "Test Email",
+    "created_at": "2021-01-05T03:00:32.102+00:00",
+    "format": {
+      "format_type": "email",
+      "from_email": "marirs@outlook.com",
+      "to_emails": [
+        "\"Sriram Govindan\" <marirs@gmail.com>",
+        "marirs@outlook.com"
+      ],
+      "cc_emails": [
+        "\"Sriram Govindan\" <marirs@aol.in>",
+        "marirs@outlook.in"
+      ],
+      "bcc_emails": [
+        "\"Sriram Govindan\" <marirs@aol.in>",
+        "\"Sriram Govindan\" <marirs@outlook.com>",
+        "marirs@outlook.in"
+      ],
+      "attachments": [
+        "1 Days Left—35% off cloud space, upgrade now!",
+        "milky-way-2695569_960_720.jpg",
+        "Test Email.msg"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "email/test_email.msg",
+      "source_kind": "uri",
+      "source_uri": "email/test_email.msg"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Test Email</p>\n<p><strong>From</strong>: marirs@outlook.com</p>\n<p><strong>To</strong>: &quot;Sriram Govindan&quot; &lt;marirs@gmail.com&gt;, marirs@outlook.com</p>\n<p><strong>CC</strong>: &quot;Sriram Govindan&quot; &lt;marirs@aol.in&gt;, marirs@outlook.in</p>\n<p><strong>Date</strong>: 2021-01-05T03:00:32.102+00:00</p>\n<p>Test Email --</p>\n<p>Attachments:</p>\n<p> 1 Days Left—35% off cloud space, upgrade now! (0B)</p>\n<p> milky-way-2695569_960_720.jpg (222169B)</p>\n<p> Test Email.msg (413184B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test Email\\r\\n \\r\\n--\"},{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  1 Days Left—35% off cloud space, upgrade now! (0B)\"},{\"type\":\"paragraph\",\"text\":\"  milky-way-2695569_960_720.jpg (222169B)\"},{\"type\":\"paragraph\",\"text\":\"  Test Email.msg (413184B)\"}]}",
+    "markdown": "**Subject**: Test Email\n\n**From**: marirs@outlook.com\n\n**To**: \"Sriram Govindan\" \\<marirs@gmail.com\\>, marirs@outlook.com\n\n**CC**: \"Sriram Govindan\" \\<marirs@aol.in\\>, marirs@outlook.in\n\n**Date**: 2021-01-05T03:00:32.102+00:00\n\nTest Email --\n\nAttachments:\n\n 1 Days Left—35% off cloud space, upgrade now\\! (0B)\n\n milky-way-2695569_960_720.jpg (222169B)\n\n Test Email.msg (413184B)\n",
+    "plain": "Subject: Test Email\nFrom: marirs@outlook.com\nTo: \"Sriram Govindan\" <marirs@gmail.com>, marirs@outlook.com\nCC: \"Sriram Govindan\" <marirs@aol.in>, marirs@outlook.in\nDate: 2021-01-05T03:00:32.102+00:00\n\nTest Email\r\n \r\n--\n\nAttachments:\n\n  1 Days Left—35% off cloud space, upgrade now! (0B)\n\n  milky-way-2695569_960_720.jpg (222169B)\n\n  Test Email.msg (413184B)"
+  }
+}

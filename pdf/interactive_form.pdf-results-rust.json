@@ -1,0 +1,32 @@
+{
+  "file": "pdf/interactive_form.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "pdf/interactive_form.pdf",
+      "extraction_method": "native",
+      "final_uri": "pdf/interactive_form.pdf",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Name: Email:</h1>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Name:\"},{\"type\":\"paragraph\",\"text\":\"Email:\\nJohn Smith\\njohn@example.com\"}]}",
+    "markdown": "# Name: Email:\n",
+    "plain": "Name:\n\nEmail:\nJohn Smith\njohn@example.com"
+  }
+}

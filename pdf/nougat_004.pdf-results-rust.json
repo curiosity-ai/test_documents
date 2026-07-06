@@ -1,0 +1,39 @@
+{
+  "file": "pdf/nougat_004.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "authors": [
+      "thashar"
+    ],
+    "created_at": "2009-08-19T15:24:41Z",
+    "modified_at": "2009-08-19T15:24:41Z",
+    "created_by": "Microsoft® Office Excel® 2007",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.5",
+      "producer": "Microsoft® Office Excel® 2007",
+      "is_encrypted": false,
+      "width": 792,
+      "height": 612,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "pdf/nougat_004.pdf",
+      "extraction_method": "native",
+      "source_uri": "pdf/nougat_004.pdf",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>45 ° Blue Reflective Dichroic Color Filter Coating Performance</h1>\n<p>100 90 80 70 60 50 40</p>\n<h2>Reflectance %</h2>\n<h1>FOR REFERENCE ONLY</h1>\n<p>450 500 550</p>\n<h2>Wavelength (nm)</h2>\n<p>Average Polarization S-Polarization P-Polarization 600 650 700 750 800</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"45° Blue Reflective Dichroic Color Filter Coating Performance\"},{\"type\":\"paragraph\",\"text\":\"100\"},{\"type\":\"paragraph\",\"text\":\"90\"},{\"type\":\"paragraph\",\"text\":\"80\"},{\"type\":\"paragraph\",\"text\":\"70\"},{\"type\":\"paragraph\",\"text\":\"60\"},{\"type\":\"paragraph\",\"text\":\"50\"},{\"type\":\"paragraph\",\"text\":\"40\\nReflectance %\"},{\"type\":\"paragraph\",\"text\":\"30\"},{\"type\":\"paragraph\",\"text\":\"20\"},{\"type\":\"paragraph\",\"text\":\"10\"},{\"type\":\"paragraph\",\"text\":\"0\"},{\"type\":\"paragraph\",\"text\":\"400\"},{\"type\":\"paragraph\",\"text\":\"FOR REFERENCE ONLY\"},{\"type\":\"paragraph\",\"text\":\"450 500 550\"},{\"type\":\"paragraph\",\"text\":\"Wavelength (nm)\"},{\"type\":\"paragraph\",\"text\":\"Average Polarization\\nS-Polarization\\nP-Polarization\"},{\"type\":\"paragraph\",\"text\":\"600 650 700 750 800\"}]}",
+    "markdown": "# 45 ° Blue Reflective Dichroic Color Filter Coating Performance\n\n100 90 80 70 60 50 40\n\n## Reflectance %\n\n# FOR REFERENCE ONLY\n\n450 500 550\n\n## Wavelength (nm)\n\nAverage Polarization S-Polarization P-Polarization 600 650 700 750 800\n",
+    "plain": "45° Blue Reflective Dichroic Color Filter Coating Performance\n\n100\n\n90\n\n80\n\n70\n\n60\n\n50\n\n40\nReflectance %\n\n30\n\n20\n\n10\n\n0\n\n400\n\nFOR REFERENCE ONLY\n\n450 500 550\n\nWavelength (nm)\n\nAverage Polarization\nS-Polarization\nP-Polarization\n\n600 650 700 750 800"
+  }
+}

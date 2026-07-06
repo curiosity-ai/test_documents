@@ -1,0 +1,22 @@
+{
+  "file": "iwork/test.pages",
+  "mime_type": "application/x-iwork-pages-sffpages",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "iwork/test.pages",
+      "source_uri": "iwork/test.pages",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Hello World from Pages</h2>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Hello World from Pages\",\"level\":2,\"body\":[]}]}",
+    "markdown": "## Hello World from Pages\n",
+    "plain": "  Hello World from Pages"
+  }
+}

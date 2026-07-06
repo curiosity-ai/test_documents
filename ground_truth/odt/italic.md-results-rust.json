@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/odt/italic.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/odt/italic.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/odt/italic.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Here comes <em>italic</em> text</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Here comes italic text\"}]}",
+    "markdown": "Here comes *italic* text\n",
+    "plain": "Here comes italic text"
+  }
+}

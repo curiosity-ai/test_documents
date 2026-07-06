@@ -1,0 +1,39 @@
+{
+  "file": "email/mailgun_pdf_attachment.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Test message with PDF attachment",
+    "created_at": "Mon, 04 Jun 2014 13:50:00 -0400",
+    "format": {
+      "format_type": "email",
+      "from_email": "test@mailgun.com",
+      "to_emails": [
+        "recipient@example.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "attachments": [
+        "test.pdf"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "content_type": "multipart/mixed; boundary=\"_001_538f5bb0a7956_457a8046c758764ef_\"",
+      "source_index": 0,
+      "source_uri": "email/mailgun_pdf_attachment.eml",
+      "attachment_details": "test.pdf|application/pdf|557",
+      "mime_version": "1.0",
+      "source_kind": "uri",
+      "final_uri": "email/mailgun_pdf_attachment.eml"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Test message with PDF attachment</p>\n<p><strong>From</strong>: test@mailgun.com</p>\n<p><strong>To</strong>: recipient@example.com</p>\n<p><strong>Date</strong>: Mon, 04 Jun 2014 13:50:00 -0400</p>\n<p>Test - body content</p>\n<p>Attachments:</p>\n<p> test.pdf (557B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test - body content\"},{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  test.pdf (557B)\"}]}",
+    "markdown": "**Subject**: Test message with PDF attachment\n\n**From**: test@mailgun.com\n\n**To**: recipient@example.com\n\n**Date**: Mon, 04 Jun 2014 13:50:00 -0400\n\nTest - body content\n\nAttachments:\n\n test.pdf (557B)\n",
+    "plain": "Subject: Test message with PDF attachment\nFrom: test@mailgun.com\nTo: recipient@example.com\nDate: Mon, 04 Jun 2014 13:50:00 -0400\n\nTest - body content\n\nAttachments:\n\n  test.pdf (557B)"
+  }
+}

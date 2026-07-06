@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/table_with_heading_01.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 7,
+      "word_count": 17,
+      "character_count": 82
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/md/table_with_heading_01.html.txt",
+      "final_uri": "ground_truth/md/table_with_heading_01.html.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Before tha table</p>\n<p>| A | B | |------|------| | 1... | 2... |</p>\n<p>After the table</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Before tha table\"},{\"type\":\"paragraph\",\"text\":\"| A    | B    |\\n|------|------|\\n| 1... | 2... |\"},{\"type\":\"paragraph\",\"text\":\"After the table\"}]}",
+    "markdown": "Before tha table\n\n| A | B | |------|------| | 1... | 2... |\n\nAfter the table\n",
+    "plain": "Before tha table\n\n| A    | B    |\n|------|------|\n| 1... | 2... |\n\nAfter the table"
+  }
+}

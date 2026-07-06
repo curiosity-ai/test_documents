@@ -1,0 +1,27 @@
+{
+  "file": "fictionbook/meta.fb2",
+  "mime_type": "application/x-fictionbook+xml",
+  "success": true,
+  "metadata": {
+    "title": "Book title",
+    "format": {
+      "format_type": "fiction_book",
+      "annotation": "This is the abstract. It consists of two paragraphs."
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "fictionbook/meta.fb2",
+      "source_uri": "fictionbook/meta.fb2",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Book title</h1>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Book title\",\"level\":1,\"body\":[]}]}",
+    "markdown": "# Book title\n",
+    "plain": "Book title"
+  }
+}

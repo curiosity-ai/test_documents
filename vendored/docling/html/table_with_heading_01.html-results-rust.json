@@ -1,0 +1,81 @@
+{
+  "file": "vendored/docling/html/table_with_heading_01.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "html",
+      "keywords": [],
+      "open_graph": {},
+      "twitter_card": {},
+      "meta_tags": {},
+      "headers": [
+        {
+          "level": 1,
+          "text": "A",
+          "depth": 0,
+          "html_offset": 0
+        },
+        {
+          "level": 1,
+          "text": "A",
+          "depth": 0,
+          "html_offset": 0
+        },
+        {
+          "level": 1,
+          "text": "A",
+          "depth": 0,
+          "html_offset": 0
+        }
+      ],
+      "links": [],
+      "images": [],
+      "structured_data": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "vendored/docling/html/table_with_heading_01.html",
+      "final_uri": "vendored/docling/html/table_with_heading_01.html"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "A",
+          "B"
+        ],
+        [
+          "1...",
+          "2..."
+        ]
+      ],
+      "markdown": "| A | B |\n| --- | --- |\n| 1... | 2... |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "A",
+          "B"
+        ],
+        [
+          "1...",
+          "2..."
+        ]
+      ],
+      "markdown": "| A | B |\n| --- | --- |\n| 1... | 2... |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>Before tha table</p>\n<table>\n<thead>\n<tr>\n<th>A</th>\n<th>B</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1...</td>\n<td>2...</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Before tha table\"},{\"type\":\"table\",\"headers\":[\"A\",\"B\"],\"rows\":[[\"1...\",\"2...\"]]}]}",
+    "markdown": "Before tha table\n\n| A    | B    |\n| ---- | ---- |\n| 1... | 2... |\nAfter the table\n",
+    "plain": "Before tha table\n\nA B\n1... 2..."
+  }
+}

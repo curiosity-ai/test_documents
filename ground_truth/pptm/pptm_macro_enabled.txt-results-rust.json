@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pptm/pptm_macro_enabled.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 3,
+      "word_count": 3,
+      "character_count": 19
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/pptm/pptm_macro_enabled.txt",
+      "source_uri": "ground_truth/pptm/pptm_macro_enabled.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Docling</p>\n<p>Image test</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Docling\"},{\"type\":\"paragraph\",\"text\":\"Image test\"}]}",
+    "markdown": "Docling\n\nImage test\n",
+    "plain": "Docling\n\nImage test"
+  }
+}

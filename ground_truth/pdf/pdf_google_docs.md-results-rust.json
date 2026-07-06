@@ -1,0 +1,70 @@
+{
+  "file": "ground_truth/pdf/pdf_google_docs.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Example document",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/pdf_google_docs.md",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/pdf/pdf_google_docs.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          "Indonesia",
+          "Germany",
+          "Austria",
+          "France",
+          "Vatican"
+        ],
+        [
+          "Continent",
+          "Asia",
+          "",
+          "",
+          "Europe",
+          ""
+        ],
+        [
+          "Capital",
+          "Jakarta",
+          "Berlin",
+          "Vienna",
+          "Paris",
+          "Vatican City"
+        ],
+        [
+          "Currency",
+          "Rupia",
+          "",
+          "EUR (€)",
+          "",
+          "-"
+        ],
+        [
+          "Population",
+          "273.879.7501",
+          "83,190,5562",
+          "8,935,1123",
+          "67,413,000",
+          "453"
+        ]
+      ],
+      "markdown": "|  | Indonesia | Germany | Austria | France | Vatican |\n| --- | --- | --- | --- | --- | --- |\n| Continent | Asia |  |  | Europe |  |\n| Capital | Jakarta | Berlin | Vienna | Paris | Vatican City |\n| Currency | Rupia |  | EUR (€) |  | - |\n| Population | 273.879.7501 | 83,190,5562 | 8,935,1123 | 67,413,000 | 453 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Example document</h1>\n<p>Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. Complex is better than complicated. Flat is better than nested. Sparse is better than dense. Readability counts. Special cases aren't special enough to break the rules. Although practicality beats purity. Errors should never pass silently. Unless explicitly silenced. In the face of ambiguity, refuse the temptation to guess. There should be one-- and preferably only one --obvious way to do it. Although that way may not be obvious at first unless you're Dutch. Now is better than never. Although never is often better than <em>right</em> now. If the implementation is hard to explain, it's a bad idea. If the implementation is easy to explain, it may be a good idea. Namespaces are one honking great idea -- let's do more of those!</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Indonesia</th>\n<th>Germany</th>\n<th>Austria</th>\n<th>France</th>\n<th>Vatican</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Continent</td>\n<td>Asia</td>\n<td></td>\n<td></td>\n<td>Europe</td>\n<td></td>\n</tr>\n<tr>\n<td>Capital</td>\n<td>Jakarta</td>\n<td>Berlin</td>\n<td>Vienna</td>\n<td>Paris</td>\n<td>Vatican City</td>\n</tr>\n<tr>\n<td>Currency</td>\n<td>Rupia</td>\n<td></td>\n<td>EUR (€)</td>\n<td></td>\n<td>-</td>\n</tr>\n<tr>\n<td>Population</td>\n<td>273.879.7501</td>\n<td>83,190,5562</td>\n<td>8,935,1123</td>\n<td>67,413,000</td>\n<td>453</td>\n</tr>\n</tbody>\n</table>\n<p>1 2021 estimate 2 2020 estimate 3 2020 estimate</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Example document\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. Complex is better than complicated. Flat is better than nested. Sparse is better than dense. Readability counts. Special cases aren't special enough to break the rules. Although practicality beats purity. Errors should never pass silently. Unless explicitly silenced. In the face of ambiguity, refuse the temptation to guess. There should be one-- and preferably only one --obvious way to do it. Although that way may not be obvious at first unless you're Dutch. Now is better than never. Although never is often better than right now. If the implementation is hard to explain, it's a bad idea. If the implementation is easy to explain, it may be a good idea. Namespaces are one honking great idea -- let's do more of those!\"},{\"type\":\"table\",\"headers\":[\"\",\"Indonesia\",\"Germany\",\"Austria\",\"France\",\"Vatican\"],\"rows\":[[\"Continent\",\"Asia\",\"\",\"\",\"Europe\",\"\"],[\"Capital\",\"Jakarta\",\"Berlin\",\"Vienna\",\"Paris\",\"Vatican City\"],[\"Currency\",\"Rupia\",\"\",\"EUR (€)\",\"\",\"-\"],[\"Population\",\"273.879.7501\",\"83,190,5562\",\"8,935,1123\",\"67,413,000\",\"453\"]]},{\"type\":\"paragraph\",\"text\":\"1 2021 estimate 2 2020 estimate 3 2020 estimate\"}]}]}",
+    "markdown": "# Example document\n\nBeautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. Complex is better than complicated. Flat is better than nested. Sparse is better than dense. Readability counts. Special cases aren't special enough to break the rules. Although practicality beats purity. Errors should never pass silently. Unless explicitly silenced. In the face of ambiguity, refuse the temptation to guess. There should be one-- and preferably only one --obvious way to do it. Although that way may not be obvious at first unless you're Dutch. Now is better than never. Although never is often better than *right* now. If the implementation is hard to explain, it's a bad idea. If the implementation is easy to explain, it may be a good idea. Namespaces are one honking great idea -- let's do more of those\\!\n\n|  | Indonesia | Germany | Austria | France | Vatican |\n| --- | --- | --- | --- | --- | --- |\n| Continent | Asia |  |  | Europe |  |\n| Capital | Jakarta | Berlin | Vienna | Paris | Vatican City |\n| Currency | Rupia |  | EUR (€) |  | - |\n| Population | 273.879.7501 | 83,190,5562 | 8,935,1123 | 67,413,000 | 453 |\n\n1 2021 estimate 2 2020 estimate 3 2020 estimate\n",
+    "plain": "Example document\nBeautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. Complex is better than complicated. Flat is better than nested. Sparse is better than dense. Readability counts. Special cases aren't special enough to break the rules. Although practicality beats purity. Errors should never pass silently. Unless explicitly silenced. In the face of ambiguity, refuse the temptation to guess. There should be one-- and preferably only one --obvious way to do it. Although that way may not be obvious at first unless you're Dutch. Now is better than never. Although never is often better than right now. If the implementation is hard to explain, it's a bad idea. If the implementation is easy to explain, it may be a good idea. Namespaces are one honking great idea -- let's do more of those!\n\n Indonesia Germany Austria France Vatican\nContinent Asia   Europe \nCapital Jakarta Berlin Vienna Paris Vatican City\nCurrency Rupia  EUR (€)  -\nPopulation 273.879.7501 83,190,5562 8,935,1123 67,413,000 453\n\n1 2021 estimate 2 2020 estimate 3 2020 estimate"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "file": "email/html_email_multipart.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "HTML Email Test",
+    "created_at": "Tue, 20 Feb 2024 10:15:00 +0000",
+    "format": {
+      "format_type": "email",
+      "from_email": "html-sender@example.com",
+      "to_emails": [
+        "html-recipient@example.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "message_id": "html123@example.com",
+      "attachments": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "email/html_email_multipart.eml",
+      "content_type": "multipart/alternative; boundary=\"boundary123\"",
+      "source_kind": "uri",
+      "mime_version": "1.0",
+      "source_uri": "email/html_email_multipart.eml"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: HTML Email Test</p>\n<p><strong>From</strong>: html-sender@example.com</p>\n<p><strong>To</strong>: html-recipient@example.com</p>\n<p><strong>Date</strong>: Tue, 20 Feb 2024 10:15:00 +0000</p>\n<h1>HTML Email</h1>\n<p>This is the <em>HTML</em> version with <strong>formatting</strong>.</p>\n<ul>\n<li>Item 1</li>\n<li>Item 2</li>\n</ul>\n<p>Should be cleaned of HTML tags by our parser.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"HTML Email\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is the HTML version with formatting.\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Item 1\",\"Item 2\"]},{\"type\":\"paragraph\",\"text\":\"Should be cleaned of HTML tags by our parser.\"}]}]}",
+    "markdown": "**Subject**: HTML Email Test\n\n**From**: html-sender@example.com\n\n**To**: html-recipient@example.com\n\n**Date**: Tue, 20 Feb 2024 10:15:00 +0000\n\n# HTML Email\n\nThis is the *HTML* version with **formatting**.\n\n- Item 1\n- Item 2\n\nShould be cleaned of HTML tags by our parser.\n",
+    "plain": "Subject: HTML Email Test\nFrom: html-sender@example.com\nTo: html-recipient@example.com\nDate: Tue, 20 Feb 2024 10:15:00 +0000\n\n  HTML Email\n  This is the HTML version with formatting.\n\nItem 1\nItem 2\n  Should be cleaned of HTML tags by our parser."
+  }
+}

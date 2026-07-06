@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/fb2/fb2_poem.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 16,
+      "word_count": 17,
+      "character_count": 110
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/fb2/fb2_poem.txt",
+      "final_uri": "ground_truth/fb2/fb2_poem.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Poem title</p>\n<p>Poem epigraph</p>\n<p>Subtitle</p>\n<p>First stanza title</p>\n<p>Verse More verse</p>\n<p>One more stanza</p>\n<p>Author</p>\n<p>April 2018</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Poem title\"},{\"type\":\"paragraph\",\"text\":\"Poem epigraph\"},{\"type\":\"paragraph\",\"text\":\"Subtitle\"},{\"type\":\"paragraph\",\"text\":\"First stanza title\"},{\"type\":\"paragraph\",\"text\":\"Verse\\nMore verse\"},{\"type\":\"paragraph\",\"text\":\"One more stanza\"},{\"type\":\"paragraph\",\"text\":\"Author\"},{\"type\":\"paragraph\",\"text\":\"April 2018\"}]}",
+    "markdown": "Poem title\n\nPoem epigraph\n\nSubtitle\n\nFirst stanza title\n\nVerse More verse\n\nOne more stanza\n\nAuthor\n\nApril 2018\n",
+    "plain": "Poem title\n\nPoem epigraph\n\nSubtitle\n\nFirst stanza title\n\nVerse\nMore verse\n\nOne more stanza\n\nAuthor\n\nApril 2018"
+  }
+}

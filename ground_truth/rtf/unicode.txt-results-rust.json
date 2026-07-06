@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/rtf/unicode.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 1,
+      "character_count": 23
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/rtf/unicode.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/rtf/unicode.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>“hi”‘hi’αä</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"“hi”‘hi’αä\"}]}",
+    "markdown": "“hi”‘hi’αä\n",
+    "plain": "“hi”‘hi’αä"
+  }
+}

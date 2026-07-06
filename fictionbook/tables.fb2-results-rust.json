@@ -1,0 +1,206 @@
+{
+  "file": "fictionbook/tables.fb2",
+  "mime_type": "application/x-fictionbook+xml",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "fiction_book"
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "fictionbook/tables.fb2",
+      "final_uri": "fictionbook/tables.fb2",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Right",
+          "Left",
+          "Center",
+          "Default"
+        ],
+        [
+          "12",
+          "12",
+          "12",
+          "12"
+        ],
+        [
+          "123",
+          "123",
+          "123",
+          "123"
+        ],
+        [
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      ],
+      "markdown": "| Right | Left | Center | Default |\n|------|------|------|------|\n| 12 | 12 | 12 | 12 |\n| 123 | 123 | 123 | 123 |\n| 1 | 1 | 1 | 1 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Right",
+          "Left",
+          "Center",
+          "Default"
+        ],
+        [
+          "12",
+          "12",
+          "12",
+          "12"
+        ],
+        [
+          "123",
+          "123",
+          "123",
+          "123"
+        ],
+        [
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      ],
+      "markdown": "| Right | Left | Center | Default |\n|------|------|------|------|\n| 12 | 12 | 12 | 12 |\n| 123 | 123 | 123 | 123 |\n| 1 | 1 | 1 | 1 |\n",
+      "page_number": 2
+    },
+    {
+      "cells": [
+        [
+          "Right",
+          "Left",
+          "Center",
+          "Default"
+        ],
+        [
+          "12",
+          "12",
+          "12",
+          "12"
+        ],
+        [
+          "123",
+          "123",
+          "123",
+          "123"
+        ],
+        [
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      ],
+      "markdown": "| Right | Left | Center | Default |\n|------|------|------|------|\n| 12 | 12 | 12 | 12 |\n| 123 | 123 | 123 | 123 |\n| 1 | 1 | 1 | 1 |\n",
+      "page_number": 3
+    },
+    {
+      "cells": [
+        [
+          "Centered Header",
+          "Left Aligned",
+          "Right Aligned",
+          "Default aligned"
+        ],
+        [
+          "First",
+          "row",
+          "12.0",
+          "Example of a row that spans multiple lines."
+        ],
+        [
+          "Second",
+          "row",
+          "5.0",
+          "Here’s another one. Note the blank line between rows."
+        ]
+      ],
+      "markdown": "| Centered Header | Left Aligned | Right Aligned | Default aligned |\n|------|------|------|------|\n| First | row | 12.0 | Example of a row that spans multiple lines. |\n| Second | row | 5.0 | Here’s another one. Note the blank line between rows. |\n",
+      "page_number": 4
+    },
+    {
+      "cells": [
+        [
+          "Centered Header",
+          "Left Aligned",
+          "Right Aligned",
+          "Default aligned"
+        ],
+        [
+          "First",
+          "row",
+          "12.0",
+          "Example of a row that spans multiple lines."
+        ],
+        [
+          "Second",
+          "row",
+          "5.0",
+          "Here’s another one. Note the blank line between rows."
+        ]
+      ],
+      "markdown": "| Centered Header | Left Aligned | Right Aligned | Default aligned |\n|------|------|------|------|\n| First | row | 12.0 | Example of a row that spans multiple lines. |\n| Second | row | 5.0 | Here’s another one. Note the blank line between rows. |\n",
+      "page_number": 5
+    },
+    {
+      "cells": [
+        [
+          "12",
+          "12",
+          "12",
+          "12"
+        ],
+        [
+          "123",
+          "123",
+          "123",
+          "123"
+        ],
+        [
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      ],
+      "markdown": "| 12 | 12 | 12 | 12 |\n|------|------|------|------|\n| 123 | 123 | 123 | 123 |\n| 1 | 1 | 1 | 1 |\n",
+      "page_number": 6
+    },
+    {
+      "cells": [
+        [
+          "First",
+          "row",
+          "12.0",
+          "Example of a row that spans multiple lines."
+        ],
+        [
+          "Second",
+          "row",
+          "5.0",
+          "Here’s another one. Note the blank line between rows."
+        ]
+      ],
+      "markdown": "| First | row | 12.0 | Example of a row that spans multiple lines. |\n|------|------|------|------|\n| Second | row | 5.0 | Here’s another one. Note the blank line between rows. |\n",
+      "page_number": 7
+    }
+  ],
+  "content": {
+    "html": "<p>Simple table with caption:</p>\n<p><em>Demonstration of simple table syntax.</em></p>\n<p>Simple table without caption:</p>\n<p>Simple table indented two spaces:</p>\n<p><em>Demonstration of simple table syntax.</em></p>\n<p>Multiline table with caption:</p>\n<p><em>Here’s the caption. It may span multiple lines.</em></p>\n<p>Multiline table without caption:</p>\n<p>Table without column headers:</p>\n<p>Multiline table without column headers:</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Simple table with caption:\"},{\"type\":\"paragraph\",\"text\":\"Demonstration of simple table syntax.\"},{\"type\":\"paragraph\",\"text\":\"Simple table without caption:\"},{\"type\":\"paragraph\",\"text\":\"Simple table indented two spaces:\"},{\"type\":\"paragraph\",\"text\":\"Demonstration of simple table syntax.\"},{\"type\":\"paragraph\",\"text\":\"Multiline table with caption:\"},{\"type\":\"paragraph\",\"text\":\"Here’s the caption. It may span multiple lines.\"},{\"type\":\"paragraph\",\"text\":\"Multiline table without caption:\"},{\"type\":\"paragraph\",\"text\":\"Table without column headers:\"},{\"type\":\"paragraph\",\"text\":\"Multiline table without column headers:\"}]}",
+    "markdown": "Simple table with caption:\n\n*Demonstration of simple table syntax.*\n\nSimple table without caption:\n\nSimple table indented two spaces:\n\n*Demonstration of simple table syntax.*\n\nMultiline table with caption:\n\n*Here’s the caption. It may span multiple lines.*\n\nMultiline table without caption:\n\nTable without column headers:\n\nMultiline table without column headers:\n",
+    "plain": "Simple table with caption:\n\nDemonstration of simple table syntax.\n\nSimple table without caption:\n\nSimple table indented two spaces:\n\nDemonstration of simple table syntax.\n\nMultiline table with caption:\n\nHere’s the caption. It may span multiple lines.\n\nMultiline table without caption:\n\nTable without column headers:\n\nMultiline table without column headers:"
+  }
+}

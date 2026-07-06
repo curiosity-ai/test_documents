@@ -1,0 +1,586 @@
+{
+  "file": "pdf/pdfa_042.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "JD3794: Valero-CAMS, Baton Rouge, LA",
+    "subject": "JD3794: Valero-CAMS, Baton Rouge, LA  (Report date 03/12/20)",
+    "authors": [
+      "SGS Dayton",
+      "NJ"
+    ],
+    "created_at": "2020-03-30T13:40:29Z",
+    "created_by": "SGS Dayton, NJ (COMMB)",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.7",
+      "producer": "PDFlib+PDI 8.0.4p1 (Linux-x86_64)",
+      "is_encrypted": false,
+      "width": 576,
+      "height": 756,
+      "page_count": 11
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "pdf/pdfa_042.pdf",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "pdf/pdfa_042.pdf",
+      "extraction_method": "native"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "10.1",
+          "0.20 0.11 ppbv",
+          "24.0"
+        ],
+        [
+          "ND",
+          "0.20 0.046 ppbv",
+          "ND"
+        ],
+        [
+          "0.20",
+          "0.20 0.012 ppbv",
+          "0.64"
+        ],
+        [
+          "ND",
+          "0.20 0.027 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.037 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.022 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.022 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.057 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.024 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.026 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.048 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.020 ppbv",
+          "ND"
+        ],
+        [
+          "0.75",
+          "0.20 0.015 ppbv",
+          "1.5"
+        ],
+        [
+          "ND",
+          "0.20 0.040 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.025 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.024 ppbv",
+          "ND"
+        ],
+        [
+          "1.5",
+          "0.20 0.022 ppbv",
+          "5.2"
+        ],
+        [
+          "ND",
+          "0.20 0.012 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.017 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.018 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.021 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.019 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.052 ppbv",
+          "ND"
+        ],
+        [
+          "0.48",
+          "0.20 0.017 ppbv",
+          "2.4"
+        ],
+        [
+          "ND",
+          "0.20 0.033 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.0073 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.012 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.020 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.019 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.022 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.018 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.020 ppbv",
+          "ND"
+        ]
+      ],
+      "markdown": "| 10.1 | 0.20 0.11 ppbv | 24.0 |\n| --- | --- | --- |\n| ND | 0.20 0.046 ppbv | ND |\n| 0.20 | 0.20 0.012 ppbv | 0.64 |\n| ND | 0.20 0.027 ppbv | ND |\n| ND | 0.20 0.037 ppbv | ND |\n| ND | 0.20 0.022 ppbv | ND |\n| ND | 0.20 0.022 ppbv | ND |\n| ND | 0.20 0.057 ppbv | ND |\n| ND | 0.20 0.024 ppbv | ND |\n| ND | 0.20 0.026 ppbv | ND |\n| ND | 0.20 0.048 ppbv | ND |\n| ND | 0.20 0.020 ppbv | ND |\n| 0.75 | 0.20 0.015 ppbv | 1.5 |\n| ND | 0.20 0.040 ppbv | ND |\n| ND | 0.20 0.025 ppbv | ND |\n| ND | 0.20 0.024 ppbv | ND |\n| 1.5 | 0.20 0.022 ppbv | 5.2 |\n| ND | 0.20 0.012 ppbv | ND |\n| ND | 0.20 0.017 ppbv | ND |\n| ND | 0.20 0.018 ppbv | ND |\n| ND | 0.20 0.021 ppbv | ND |\n| ND | 0.20 0.019 ppbv | ND |\n| ND | 0.20 0.052 ppbv | ND |\n| 0.48 | 0.20 0.017 ppbv | 2.4 |\n| ND | 0.20 0.033 ppbv | ND |\n| ND | 0.20 0.0073 ppbv | ND |\n| ND | 0.20 0.012 ppbv | ND |\n| ND | 0.20 0.020 ppbv | ND |\n| ND | 0.20 0.019 ppbv | ND |\n| ND | 0.20 0.022 ppbv | ND |\n| ND | 0.20 0.018 ppbv | ND |\n| ND | 0.20 0.020 ppbv | ND |\n",
+      "page_number": 5,
+      "bounding_box": {
+        "x0": 281.7105712890625,
+        "y0": 90.3552017211914,
+        "x1": 472.7929992675781,
+        "y1": 451.7760009765625
+      }
+    },
+    {
+      "cells": [
+        [
+          "4.1",
+          "0.50 0.22 ppbv",
+          "7.7"
+        ],
+        [
+          "ND",
+          "0.20 0.015 ppbv",
+          "ND"
+        ],
+        [
+          "0.11",
+          "0.20 0.038 ppbv J",
+          "0.40"
+        ],
+        [
+          "ND",
+          "0.20 0.030 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.017 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.019 ppbv",
+          "ND"
+        ],
+        [
+          "0.14",
+          "0.20 0.018 ppbv J",
+          "0.57"
+        ],
+        [
+          "ND",
+          "0.20 0.046 ppbv",
+          "ND"
+        ],
+        [
+          "19.1",
+          "0.20 0.011 ppbv",
+          "67.3"
+        ],
+        [
+          "ND",
+          "0.20 0.036 ppbv",
+          "ND"
+        ],
+        [
+          "0.60",
+          "0.20 0.065 ppbv",
+          "1.5"
+        ],
+        [
+          "1.4",
+          "0.20 0.015 ppbv",
+          "4.9"
+        ],
+        [
+          "59.2 a",
+          "0.80 0.17 ppbv",
+          "175 a"
+        ],
+        [
+          "40.8 a",
+          "0.80 0.14 ppbv",
+          "167 a"
+        ],
+        [
+          "ND",
+          "0.20 0.019 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.033 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.50 0.016 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.019 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.033 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.027 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.030 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.089 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.033 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.034 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.022 ppbv",
+          "ND"
+        ],
+        [
+          "0.18",
+          "0.20 0.014 ppbv J",
+          "0.55"
+        ],
+        [
+          "ND",
+          "0.040 0.031 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.050 ppbv",
+          "ND"
+        ],
+        [
+          "72.5 a",
+          "0.80 0.058 ppbv",
+          "273 a"
+        ],
+        [
+          "0.037",
+          "0.040 0.019 ppbv J",
+          "0.20"
+        ],
+        [
+          "0.24",
+          "0.20 0.028 ppbv",
+          "1.3"
+        ],
+        [
+          "ND",
+          "0.20 0.022 ppbv",
+          "ND"
+        ],
+        [
+          "ND",
+          "0.20 0.034 ppbv",
+          "ND"
+        ],
+        [
+          "0.36",
+          "0.20 0.034 ppbv",
+          "1.6"
+        ],
+        [
+          "0.17",
+          "0.20 0.017 ppbv J",
+          "0.74"
+        ],
+        [
+          "0.53",
+          "0.20 0.017 ppbv",
+          "2.3"
+        ]
+      ],
+      "markdown": "| 4.1 | 0.50 0.22 ppbv | 7.7 |\n| --- | --- | --- |\n| ND | 0.20 0.015 ppbv | ND |\n| 0.11 | 0.20 0.038 ppbv J | 0.40 |\n| ND | 0.20 0.030 ppbv | ND |\n| ND | 0.20 0.017 ppbv | ND |\n| ND | 0.20 0.019 ppbv | ND |\n| 0.14 | 0.20 0.018 ppbv J | 0.57 |\n| ND | 0.20 0.046 ppbv | ND |\n| 19.1 | 0.20 0.011 ppbv | 67.3 |\n| ND | 0.20 0.036 ppbv | ND |\n| 0.60 | 0.20 0.065 ppbv | 1.5 |\n| 1.4 | 0.20 0.015 ppbv | 4.9 |\n| 59.2 a | 0.80 0.17 ppbv | 175 a |\n| 40.8 a | 0.80 0.14 ppbv | 167 a |\n| ND | 0.20 0.019 ppbv | ND |\n| ND | 0.20 0.033 ppbv | ND |\n| ND | 0.50 0.016 ppbv | ND |\n| ND | 0.20 0.019 ppbv | ND |\n| ND | 0.20 0.033 ppbv | ND |\n| ND | 0.20 0.027 ppbv | ND |\n| ND | 0.20 0.030 ppbv | ND |\n| ND | 0.20 0.089 ppbv | ND |\n| ND | 0.20 0.033 ppbv | ND |\n| ND | 0.20 0.034 ppbv | ND |\n| ND | 0.20 0.022 ppbv | ND |\n| 0.18 | 0.20 0.014 ppbv J | 0.55 |\n| ND | 0.040 0.031 ppbv | ND |\n| ND | 0.20 0.050 ppbv | ND |\n| 72.5 a | 0.80 0.058 ppbv | 273 a |\n| 0.037 | 0.040 0.019 ppbv J | 0.20 |\n| 0.24 | 0.20 0.028 ppbv | 1.3 |\n| ND | 0.20 0.022 ppbv | ND |\n| ND | 0.20 0.034 ppbv | ND |\n| 0.36 | 0.20 0.034 ppbv | 1.6 |\n| 0.17 | 0.20 0.017 ppbv J | 0.74 |\n| 0.53 | 0.20 0.017 ppbv | 2.3 |\n",
+      "page_number": 6,
+      "bounding_box": {
+        "x0": 281.7105712890625,
+        "y0": 135.53280639648438,
+        "x1": 472.7929992675781,
+        "y1": 542.1312255859375
+      }
+    },
+    {
+      "cells": [
+        [
+          "Job Number: JD3794 Client: PROVIDENCE ENG",
+          "Project: PROVIDENCE - CAMS"
+        ],
+        [
+          "Delivery Method: Date / Time Received: 2/27/2020 10:45:00 AM"
+        ],
+        [
+          "Cooler Temps (Raw Measured) °C: Cooler Temps (Corrected) °C: Cooler Security Y or N Y or N",
+          "Sample Integrity - Documentation Y or N"
+        ],
+        [
+          "3. COC Present: 1. Custody Seals Present: 4. Smpl Dates/Time OK 2. Custody Seals Intact: Cooler Temperature Y or N",
+          "1. Sample labels present on bottles: 2. Container labeling complete: 3. Sample container label / COC agree:"
+        ],
+        [
+          "1. Temp criteria achieved:"
+        ],
+        [
+          "1. Sample recvd within HT:"
+        ],
+        [
+          "3. Cooler media: N/A"
+        ],
+        [
+          "4. No. Coolers: N/A"
+        ]
+      ],
+      "markdown": "| Job Number: JD3794 Client: PROVIDENCE ENG | Project: PROVIDENCE - CAMS |\n| --- | --- |\n| Delivery Method: Date / Time Received: 2/27/2020 10:45:00 AM |\n| Cooler Temps (Raw Measured) °C: Cooler Temps (Corrected) °C: Cooler Security Y or N Y or N | Sample Integrity - Documentation Y or N |\n| 3. COC Present: 1. Custody Seals Present: 4. Smpl Dates/Time OK 2. Custody Seals Intact: Cooler Temperature Y or N | 1. Sample labels present on bottles: 2. Container labeling complete: 3. Sample container label / COC agree: |\n| 1. Temp criteria achieved: |\n| 1. Sample recvd within HT: |\n| 3. Cooler media: N/A |\n| 4. No. Coolers: N/A |\n",
+      "page_number": 10,
+      "bounding_box": {
+        "x0": 41.52699279785156,
+        "y0": 549.923583984375,
+        "x1": 533.9678344726562,
+        "y1": 702.1410522460938
+      }
+    },
+    {
+      "cells": [
+        [
+          "1. Trip Blank present / cooler: 2. Trip Blank listed on COC: 3. Samples preserved properly: 4. VOCs headspace free:",
+          "1. Analysis requested is clear: 2. Bottles received for unspecified tests 3. Sufficient volume recvd for analysis: 4. Compositing instructions clear: 5. Filtering instructions clear:"
+        ],
+        [
+          "Test Strip Lot #s: 229517pH1-12:"
+        ]
+      ],
+      "markdown": "| 1. Trip Blank present / cooler: 2. Trip Blank listed on COC: 3. Samples preserved properly: 4. VOCs headspace free: | 1. Analysis requested is clear: 2. Bottles received for unspecified tests 3. Sufficient volume recvd for analysis: 4. Compositing instructions clear: 5. Filtering instructions clear: |\n| --- | --- |\n| Test Strip Lot #s: 229517pH1-12: |\n",
+      "page_number": 10,
+      "bounding_box": {
+        "x0": 41.52699279785156,
+        "y0": 446.7581787109375,
+        "x1": 533.9678344726562,
+        "y1": 532.1251831054688
+      }
+    },
+    {
+      "cells": [
+        [
+          "ND = Not detected",
+          "MDL = Method Detection",
+          "Limit J = Indicates",
+          "an estimated",
+          "value",
+          ""
+        ],
+        [
+          "RL = Reporting",
+          "Limit",
+          "B = Indicates",
+          "analyte",
+          "found in associated",
+          "method blank"
+        ],
+        [
+          "E = Indicates value",
+          "exceeds calibration range",
+          "N = Indicates",
+          "presumptive",
+          "evidence",
+          "of a compound"
+        ]
+      ],
+      "markdown": "| ND = Not detected | MDL = Method Detection | Limit J = Indicates | an estimated | value |  |\n| --- | --- | --- | --- | --- | --- |\n| RL = Reporting | Limit | B = Indicates | analyte | found in associated | method blank |\n| E = Indicates value | exceeds calibration range | N = Indicates | presumptive | evidence | of a compound |\n",
+      "page_number": 7,
+      "bounding_box": {
+        "x0": 77.0,
+        "y0": 48.0,
+        "x1": 538.0,
+        "y1": 80.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "Dayton, NJ",
+          "3"
+        ],
+        [
+          "Section",
+          "3"
+        ]
+      ],
+      "markdown": "| Dayton, NJ | 3 |\n| --- | --- |\n| Section | 3 |\n",
+      "page_number": 8,
+      "bounding_box": {
+        "x0": 162.0,
+        "y0": 639.0,
+        "x1": 569.0,
+        "y1": 671.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "SGS America North",
+          "Dayton lnc. -"
+        ],
+        [
+          "30,  2235 Route Dayton,  '1",
+          "NJ  08810"
+        ],
+        [
+          "rEt.732-329-0200",
+          "FAx  732-329-3499"
+        ]
+      ],
+      "markdown": "| SGS America North | Dayton lnc. - |\n| --- | --- |\n| 30,  2235 Route Dayton,  '1 | NJ  08810 |\n| rEt.732-329-0200 | FAx  732-329-3499 |\n",
+      "page_number": 9,
+      "bounding_box": {
+        "x0": 259.0,
+        "y0": 692.0,
+        "x1": 337.0,
+        "y1": 707.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "Summa Canister",
+          "and Flow",
+          "Controller Log Page 1 of 1",
+          ""
+        ],
+        [
+          "Job Number:",
+          "JD3794",
+          "",
+          "3.2"
+        ],
+        [
+          "Account:",
+          "PROVLABR Providence",
+          "Engineering",
+          ""
+        ],
+        [
+          "Project:",
+          "Valero-CAMS, Baton",
+          "Rouge, LA",
+          "3"
+        ],
+        [
+          "Received:",
+          "02/27/20",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| Summa Canister | and Flow | Controller Log Page 1 of 1 |  |\n| --- | --- | --- | --- |\n| Job Number: | JD3794 |  | 3.2 |\n| Account: | PROVLABR Providence | Engineering |  |\n| Project: | Valero-CAMS, Baton | Rouge, LA | 3 |\n| Received: | 02/27/20 |  |  |\n",
+      "page_number": 11,
+      "bounding_box": {
+        "x0": 77.0,
+        "y0": 647.0,
+        "x1": 577.0,
+        "y1": 705.0
+      }
+    }
+  ],
+  "content": {
+    "html": "<h2>Dayton, NJ</h2>\n<h3>The results set forth herein are provided by SGS North America Inc.</h3>\n<h2>Technical Report for</h2>\n<p>Providence Engineering</p>\n<p>Valero-CAMS, Baton Rouge, LA 712-001 SGS Job Number: JD3794</p>\n<p>Sampling Date: 02/20/20</p>\n<p>Report to: Providence Engineering</p>\n<p>kevincalhoun@providenceeng.com ATTN: Kevin Calhoun</p>\n<p>Total number of pages in report:</p>\n<p>Test results contained within this data package meet the requirements of the National Environmental Laboratory Accreditation Program and/or state specific certification programs as applicable.</p>\n<h2>Client Service contact: Victoria Pushkova 732-329-0200</h2>\n<p>Certifications: NJ(12129), NY(10983), CA, CT, FL, IL, IN, KS, KY, LA, MA, MD, ME, MN, NC, OH VAP (CL0056), AK (UST-103), AZ (AZ0786), PA, RI, SC, TX, UT, VA, WV, DoD ELAP (ANAB L2248) This report shall not be reproduced, except in its entirety, without the written approval of SGS. Test results relate only to samples analyzed.</p>\n<p>SGS North America Inc.  2235 Route 130  Dayton, NJ 08810  tel: 732-329-0200  fax: 732-329-3499 SGS is the sole authority for authorizing edits or modifications to this document. Unauthorized modification of this report is strictly prohibited. Review standard terms at: http://www.sgs.com/en/terms-and-conditions</p>\n<h3>03/30/20</h3>\n<h2>e-Hardcopy 2.0</h2>\n<h3>Automated Report</h3>\n<h2>11</h2>\n<h2>Laura Degenhardt General Manager</h2>\n<h3>1 of 11</h3>\n<h3>Please share your ideas about how we can serve you better at: EHS.US.CustomerCare@sgs.com</h3>\n<h2>JD3794</h2>\n<h2>Sections:</h2>\n<h2>1</h2>\n<h1>Table of Contents</h1>\n<h2>2</h2>\n<p><strong>-1- Section 1: Sample Summary ................................................................................................... 3 3 Section 2: Sample Results ........................................................................................................ 4 2.1:</strong></p>\n<p>JD3794-1: CAMS 519 .................................................................................................. 5 <strong>Section 3: Misc. Forms ............................................................................................................ 8 3.1:</strong></p>\n<p>Chain of Custody ........................................................................................................... 9</p>\n<h2>3.2:</h2>\n<h2>Summa Canister and Flow Controller Log .................................................................... 11</h2>\n<h3>2 of 11</h3>\n<h3>SGS LabLink@1069213 13:40 30-Mar-2020</h3>\n<h2>Sample Summary</h2>\n<h2>Providence Engineering Valero-CAMS, Baton Rouge, LA Project No: 712-001</h2>\n<h3>Sample Collected Matrix Number Date Time By Received Code Type</h3>\n<p>This report contains results reported as ND = Not detected. The following applies: Organics ND = Not detected above the MDL</p>\n<h3>JD3794-1 02/20/20 10:40 BK 02/27/20 AIR Ambient Air Comp.</h3>\n<h3>Job No: Client Sample ID</h3>\n<h3>CAMS 519</h3>\n<h2>1</h2>\n<h3>JD3794</h3>\n<h3>3 of 11</h3>\n<h3>SGS LabLink@1069213 13:40 30-Mar-2020</h3>\n<h2>Dayton, NJ</h2>\n<p>Sample Results</p>\n<p>Report of Analysis</p>\n<p><strong>2 Section 2</strong></p>\n<h3>4 of 11</h3>\n<h3>2.1</h3>\n<h3>SGS LabLink@1069213 13:40 30-Mar-2020</h3>\n<h2>2</h2>\n<h2>Report of Analysis</h2>\n<p><strong>Client Sample ID: Lab Sample ID: Matrix: Method: Project:</strong></p>\n<h3>Date Sampled:</h3>\n<p>02/20/20</p>\n<p><strong>Date Received:</strong></p>\n<p>02/27/20</p>\n<p><strong>Percent Solids:</strong></p>\n<p>n/a</p>\n<h3>File ID DF</h3>\n<h3>Analyzed</h3>\n<p><strong>By Prep Date Prep Batch</strong></p>\n<h3>Analytical Batch</h3>\n<p>Run #1 Run #2 Run #1 Run #2</p>\n<p>6W16456.D 1 6W16493.D 1</p>\n<h3>03/04/20 20:49 03/06/20 06:57</h3>\n<p>TCH n/a n/a TCH n/a n/a</p>\n<h3>V6W688 V6W689</h3>\n<p><strong>Initial Volume</strong></p>\n<p>400 ml 100 ml</p>\n<p><strong>VOA TO15 List CAS No.</strong></p>\n<h3>MW Compound</h3>\n<p><strong>Result RL MDL Units Q Result</strong></p>\n<h3>RL MDL Units</h3>\n<table>\n<thead>\n<tr>\n<th>10.1</th>\n<th>0.20 0.11 ppbv</th>\n<th>24.0</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>ND</td>\n<td>0.20 0.046 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>0.20</td>\n<td>0.20 0.012 ppbv</td>\n<td>0.64</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.027 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.037 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.022 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.022 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.057 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.024 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.026 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.048 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.020 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>0.75</td>\n<td>0.20 0.015 ppbv</td>\n<td>1.5</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.040 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.025 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.024 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>1.5</td>\n<td>0.20 0.022 ppbv</td>\n<td>5.2</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.012 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.017 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.018 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.021 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.019 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.052 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>0.48</td>\n<td>0.20 0.017 ppbv</td>\n<td>2.4</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.033 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.0073 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.012 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.020 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.019 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.022 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.018 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.020 ppbv</td>\n<td>ND</td>\n</tr>\n</tbody>\n</table>\n<p>67-64-1 106-99-0 71-43-2 75-27-4 75-25-2 74-83-9 593-60-2 100-44-7 75-15-0 108-90-7 75-00-3 67-66-3 74-87-3 107-05-1 95-49-8 56-23-5 110-82-7 75-34-3 75-35-4 106-93-4 107-06-2 78-87-5 123-91-1 75-71-8 124-48-1 156-60-5 156-59-2 10061-01-5 541-73-1 95-50-1 106-46-7 10061-02-6 ND = Not detected RL = Reporting Limit E = Indicates value exceeds calibration range CAMS 519 JD3794-1 AIR - Ambient Air Comp. Summa ID: A990 TO-15 Valero-CAMS, Baton Rouge, LA</p>\n<p>58.08 Acetone 54.09 1,3-Butadiene 78.11 Benzene 163.8 Bromodichloromethane 252.8 Bromoform 94.94 Bromomethane 106.9 Bromoethene 126 Benzyl Chloride 76.14 Carbon disulfide 112.6 Chlorobenzene 64.52 Chloroethane 119.4 Chloroform 50.49 Chloromethane 76.53 3-Chloropropene 126.6 2-Chlorotoluene 153.8 Carbon tetrachloride 84.16 Cyclohexane 98.96 1,1-Dichloroethane 96.94 1,1-Dichloroethylene 187.9 1,2-Dibromoethane 98.96 1,2-Dichloroethane 113 1,2-Dichloropropane 88.12 1,4-Dioxane 120.9 Dichlorodifluoromethane 208.3 Dibromochloromethane 96.94 trans-1,2-Dichloroethylene 96.94 cis-1,2-Dichloroethylene 111 cis-1,3-Dichloropropene 147 m-Dichlorobenzene 147 o-Dichlorobenzene 147 p-Dichlorobenzene 111 trans-1,3-Dichloropropene MDL = Method Detection Limit</p>\n<p>0.48 0.26 ug/m3 0.44 0.10 ug/m3 0.64 0.038 ug/m3 1.3 0.18 ug/m3 2.1 0.38 ug/m3 0.78 0.085 ug/m3 0.87 0.096 ug/m3 1.0 0.29 ug/m3 0.62 0.075 ug/m3 0.92 0.12 ug/m3 0.53 0.13 ug/m3 0.98 0.098 ug/m3 0.41 0.031 ug/m3 0.63 0.13 ug/m3 1.0 0.13 ug/m3 1.3 0.15 ug/m3 0.69 0.076 ug/m3 0.81 0.049 ug/m3 0.79 0.067 ug/m3 1.5 0.14 ug/m3 0.81 0.085 ug/m3 0.92 0.088 ug/m3 0.72 0.19 ug/m3 0.99 0.084 ug/m3 1.7 0.28 ug/m3 0.79 0.029 ug/m3 0.79 0.048 ug/m3 0.91 0.091 ug/m3 1.2 0.11 ug/m3 1.2 0.13 ug/m3 1.2 0.11 ug/m3 0.91 0.091 ug/m3</p>\n<p>J = Indicates an estimated value B = Indicates analyte found in associated method blank N = Indicates presumptive evidence of a compound</p>\n<h3>5 of 11</h3>\n<h3>2.1</h3>\n<h3>SGS LabLink@1069213 13:40 30-Mar-2020</h3>\n<h2>2</h2>\n<h2>Report of Analysis</h2>\n<h3>Client Sample ID: Lab Sample ID: Matrix: Method: Project: VOA TO15 List CAS No.</h3>\n<h3>CAMS 519 JD3794-1 AIR - Ambient Air Comp. Summa ID: A990 TO-15 Valero-CAMS, Baton Rouge, LA</h3>\n<p><strong>Date Sampled:</strong></p>\n<p>02/20/20</p>\n<p><strong>Date Received:</strong></p>\n<p>02/27/20</p>\n<p><strong>Percent Solids:</strong></p>\n<p>n/a</p>\n<h3>MW Compound</h3>\n<p><strong>Result RL MDL Units Q Result Run# 2 Limits</strong></p>\n<h3>RL</h3>\n<h3>MDL Units</h3>\n<table>\n<thead>\n<tr>\n<th>4.1</th>\n<th>0.50 0.22 ppbv</th>\n<th>7.7</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>ND</td>\n<td>0.20 0.015 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>0.11</td>\n<td>0.20 0.038 ppbv J</td>\n<td>0.40</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.030 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.017 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.019 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>0.14</td>\n<td>0.20 0.018 ppbv J</td>\n<td>0.57</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.046 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>19.1</td>\n<td>0.20 0.011 ppbv</td>\n<td>67.3</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.036 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>0.60</td>\n<td>0.20 0.065 ppbv</td>\n<td>1.5</td>\n</tr>\n<tr>\n<td>1.4</td>\n<td>0.20 0.015 ppbv</td>\n<td>4.9</td>\n</tr>\n<tr>\n<td>59.2 a</td>\n<td>0.80 0.17 ppbv</td>\n<td>175 a</td>\n</tr>\n<tr>\n<td>40.8 a</td>\n<td>0.80 0.14 ppbv</td>\n<td>167 a</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.019 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.033 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.50 0.016 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.019 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.033 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.027 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.030 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.089 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.033 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.034 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.022 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>0.18</td>\n<td>0.20 0.014 ppbv J</td>\n<td>0.55</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.040 0.031 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.050 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>72.5 a</td>\n<td>0.80 0.058 ppbv</td>\n<td>273 a</td>\n</tr>\n<tr>\n<td>0.037</td>\n<td>0.040 0.019 ppbv J</td>\n<td>0.20</td>\n</tr>\n<tr>\n<td>0.24</td>\n<td>0.20 0.028 ppbv</td>\n<td>1.3</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.022 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>ND</td>\n<td>0.20 0.034 ppbv</td>\n<td>ND</td>\n</tr>\n<tr>\n<td>0.36</td>\n<td>0.20 0.034 ppbv</td>\n<td>1.6</td>\n</tr>\n<tr>\n<td>0.17</td>\n<td>0.20 0.017 ppbv J</td>\n<td>0.74</td>\n</tr>\n<tr>\n<td>0.53</td>\n<td>0.20 0.017 ppbv</td>\n<td>2.3</td>\n</tr>\n</tbody>\n</table>\n<p>64-17-5 100-41-4 141-78-6 622-96-8 76-13-1 76-14-2 142-82-5 87-68-3 110-54-3 591-78-6 67-63-0 75-09-2 78-93-3 108-10-1 1634-04-4 80-62-6 115-07-1 100-42-5 71-55-6 79-34-5 79-00-5 120-82-1 95-63-6 108-67-8 540-84-1 75-65-0 127-18-4 109-99-9 108-88-3 79-01-6 75-69-4 75-01-4 108-05-4 95-47-6 1330-20-7</p>\n<p>46.07 Ethanol 106.2 Ethylbenzene 88 Ethyl Acetate 120.2 4-Ethyltoluene 187.4 Freon 113 170.9 Freon 114 100.2 Heptane 260.8 Hexachlorobutadiene 86.17 Hexane 100 2-Hexanone 60.1 Isopropyl Alcohol 84.94 Methylene chloride 72.11 Methyl ethyl ketone 100.2 Methyl Isobutyl Ketone 88.15 Methyl Tert Butyl Ether 100.12 Methylmethacrylate 42 Propylene 104.1 Styrene 133.4 1,1,1-Trichloroethane 167.9 1,1,2,2-Tetrachloroethane 133.4 1,1,2-Trichloroethane 181.5 1,2,4-Trichlorobenzene 120.2 1,2,4-Trimethylbenzene 120.2 1,3,5-Trimethylbenzene 114.2 2,2,4-Trimethylpentane 74.12 Tertiary Butyl Alcohol 165.8 Tetrachloroethylene 72.11 Tetrahydrofuran 92.14 Toluene 131.4 Trichloroethylene 137.4 Trichlorofluoromethane 62.5 Vinyl chloride 86 Vinyl Acetate 106.2 m,p-Xylene 106.2 o-Xylene 106.2 Xylenes (total)</p>\n<p>0.94 0.87 0.72 0.98 1.5 1.4 0.82 2.1 0.70 0.82 0.49 0.69 2.4 3.3 0.72 0.82 0.86 0.85 1.1 1.4 1.1 1.5 0.98 0.98 0.93 0.61 0.27 0.59 3.0 0.21 1.1 0.51 0.70 0.87 0.87 0.87</p>\n<p>0.41 ug/m3 0.065 ug/m3 0.14 ug/m3 0.15 ug/m3 0.13 ug/m3 0.13 ug/m3 0.074 ug/m3 0.49 ug/m3 0.039 ug/m3 0.15 ug/m3 0.16 ug/m3 0.052 ug/m3 0.50 ug/m3 0.57 ug/m3 0.069 ug/m3 0.14 ug/m3 0.027 ug/m3 0.081 ug/m3 0.18 ug/m3 0.19 ug/m3 0.16 ug/m3 0.66 ug/m3 0.16 ug/m3 0.17 ug/m3 0.10 ug/m3 0.042 ug/m3 0.21 ug/m3 0.15 ug/m3 0.22 ug/m3 0.10 ug/m3 0.16 ug/m3 0.056 ug/m3 0.12 ug/m3 0.15 ug/m3 0.074 ug/m3 0.074 ug/m3</p>\n<h3>CAS No.</h3>\n<h3>Surrogate Recoveries Run# 1</h3>\n<h3>460-00-4 ND = Not detected RL = Reporting Limit E = Indicates value exceeds calibration range</h3>\n<p>4-Bromofluorobenzene 96% MDL = Method Detection Limit</p>\n<p>90% 65-128% J = Indicates an estimated value B = Indicates analyte found in associated method blank N = Indicates presumptive evidence of a compound Page 2 of 3</p>\n<h3>6 of 11</h3>\n<h3>SGS LabLink@1069213 13:40 30-Mar-2020</h3>\n<h2>2</h2>\n<h2>Report of Analysis</h2>\n<p><strong>Client Sample ID: Lab Sample ID: Matrix: Method: Project: VOA TO15 List CAS No. MW</strong></p>\n<p>CAMS 519 JD3794-1 AIR - Ambient Air Comp. Summa ID: A990 TO-15 Valero-CAMS, Baton Rouge, LA</p>\n<h3>Date Sampled:</h3>\n<p>02/20/20</p>\n<p><strong>Date Received:</strong></p>\n<p>02/27/20</p>\n<p><strong>Percent Solids:</strong></p>\n<p>n/a</p>\n<p><strong>Compound</strong></p>\n<h3>Result 2.1</h3>\n<p><strong>RL MDL Units Q Result RL MDL Units</strong></p>\n<p>(a) Result is from Run# 2</p>\n<table>\n<thead>\n<tr>\n<th>ND = Not detected</th>\n<th>MDL = Method Detection</th>\n<th>Limit J = Indicates</th>\n<th>an estimated</th>\n<th>value</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>RL = Reporting</td>\n<td>Limit</td>\n<td>B = Indicates</td>\n<td>analyte</td>\n<td>found in associated</td>\n<td>method blank</td>\n</tr>\n<tr>\n<td>E = Indicates value</td>\n<td>exceeds calibration range</td>\n<td>N = Indicates</td>\n<td>presumptive</td>\n<td>evidence</td>\n<td>of a compound</td>\n</tr>\n</tbody>\n</table>\n<p><strong>7 of 11</strong></p>\n<h3>SGS LabLink@1069213 13:40 30-Mar-2020</h3>\n<table>\n<thead>\n<tr>\n<th>Dayton, NJ</th>\n<th>3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Section</td>\n<td>3</td>\n</tr>\n</tbody>\n</table>\n<h2>Misc. Forms</h2>\n<h2>Custody Documents and Other Forms</h2>\n<h2>Includes the following where applicable:</h2>\n<h3> Chain of Custody  Summa Canister and Flow Controller Log</h3>\n<h3>8 of 11</h3>\n<h3>AIR CHAIN OF CUSTODY</h3>\n<h3>PAGE OF</h3>\n<h2>LA.- A</h2>\n<table>\n<thead>\n<tr>\n<th>SGS America North</th>\n<th>Dayton lnc. -</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>30, 2235 Route Dayton, '1</td>\n<td>NJ 08810</td>\n</tr>\n<tr>\n<td>rEt.732-329-0200</td>\n<td>FAx 732-329-3499</td>\n</tr>\n</tbody>\n</table>\n<h3>3.1</h3>\n<h2>3</h2>\n<p>Contaci Day Day Day Day Form:SM088-03D (revised</p>\n<p>E-mail Approvod By: Datg:</p>\n<p>NJDEP TO-'15 is mandatory Full T1</p>\n<p>is verified upon receipt in the Labora http J/www. sgs.com/en/terms-and-cond itions</p>\n<p>2-1 2-1 8)</p>\n<h2>JD3794: Chain of Custody Page 1 of 2</h2>\n<h3>9 of 11</h3>\n<h3>SGS Sample Receipt Summary</h3>\n<table>\n<thead>\n<tr>\n<th>Job Number: JD3794 Client: PROVIDENCE ENG</th>\n<th>Project: PROVIDENCE - CAMS</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Delivery Method: Date / Time Received: 2/27/2020 10:45:00 AM</td>\n<td></td>\n</tr>\n<tr>\n<td>Cooler Temps (Raw Measured) °C: Cooler Temps (Corrected) °C: Cooler Security Y or N Y or N</td>\n<td>Sample Integrity - Documentation Y or N</td>\n</tr>\n<tr>\n<td>3. COC Present: 1. Custody Seals Present: 4. Smpl Dates/Time OK 2. Custody Seals Intact: Cooler Temperature Y or N</td>\n<td>1. Sample labels present on bottles: 2. Container labeling complete: 3. Sample container label / COC agree:</td>\n</tr>\n<tr>\n<td>1. Temp criteria achieved:</td>\n<td></td>\n</tr>\n<tr>\n<td>1. Sample recvd within HT:</td>\n<td></td>\n</tr>\n<tr>\n<td>3. Cooler media: N/A</td>\n<td></td>\n</tr>\n<tr>\n<td>4. No. Coolers: N/A</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3>3.1</h3>\n<h2>3</h2>\n<p><strong>Quality Control Preservation Y or N N/A</strong> Comments SM089-03 Rev. Date 12/7/17</p>\n<p><strong>Sample Integrity - Instructions Y or N N/A</strong></p>\n<table>\n<thead>\n<tr>\n<th>1. Trip Blank present / cooler: 2. Trip Blank listed on COC: 3. Samples preserved properly: 4. VOCs headspace free:</th>\n<th>1. Analysis requested is clear: 2. Bottles received for unspecified tests 3. Sufficient volume recvd for analysis: 4. Compositing instructions clear: 5. Filtering instructions clear:</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Test Strip Lot #s: 229517pH1-12:</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2>JD3794: Chain of Custody Page 2 of 2</h2>\n<h3>10 of 11</h3>\n<table>\n<thead>\n<tr>\n<th>Summa Canister</th>\n<th>and Flow</th>\n<th>Controller Log Page 1 of 1</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Job Number:</td>\n<td>JD3794</td>\n<td></td>\n<td>3.2</td>\n</tr>\n<tr>\n<td>Account:</td>\n<td>PROVLABR Providence</td>\n<td>Engineering</td>\n<td></td>\n</tr>\n<tr>\n<td>Project:</td>\n<td>Valero-CAMS, Baton</td>\n<td>Rouge, LA</td>\n<td>3</td>\n</tr>\n<tr>\n<td>Received:</td>\n<td>02/27/20</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3>SUMMA CANISTERS Shipping Receiving Summa ID L</h3>\n<p><strong>Vac Date &quot; Hg Out By SCC SCC Batch FileID Sample Date Number In By Vac Pres Final Dil &quot; Hg psig psig Fact</strong></p>\n<p>A990 6</p>\n<p>29.4 01/27/20 JT</p>\n<p>CP10662 3W71339.D</p>\n<p>JD3794-1 03/02/20 EH</p>\n<p>2 1</p>\n<p><strong>SGS Bottle Order(s):</strong></p>\n<p>VP-012420-47</p>\n<p><strong>Prep Date Room Temp(F) Bar Pres &quot;Hg</strong></p>\n<p>01/27/20</p>\n<p>29.92</p>\n<p><strong>11 of 11</strong></p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Dayton, NJ\"},{\"type\":\"paragraph\",\"text\":\"The results set forth herein are provided by SGS North America Inc.\"},{\"type\":\"paragraph\",\"text\":\"Technical Report for\"},{\"type\":\"paragraph\",\"text\":\"Providence Engineering\"},{\"type\":\"paragraph\",\"text\":\"Valero-CAMS, Baton Rouge, LA\"},{\"type\":\"paragraph\",\"text\":\"712-001\"},{\"type\":\"paragraph\",\"text\":\"SGS Job Number:   JD3794\"},{\"type\":\"paragraph\",\"text\":\"Sampling Date: 02/20/20\"},{\"type\":\"paragraph\",\"text\":\"Report to:\"},{\"type\":\"paragraph\",\"text\":\"Providence Engineering\"},{\"type\":\"paragraph\",\"text\":\"kevincalhoun@providenceeng.com\"},{\"type\":\"paragraph\",\"text\":\"ATTN: Kevin Calhoun\"},{\"type\":\"paragraph\",\"text\":\"Total number of pages in report:\"},{\"type\":\"paragraph\",\"text\":\"Test results contained within this data package meet the requirements \\nof the National Environmental Laboratory Accreditation Program \\nand/or state specific certification programs as applicable.\"},{\"type\":\"paragraph\",\"text\":\"Client Service contact: Victoria Pushkova   732-329-0200\"},{\"type\":\"paragraph\",\"text\":\"Certifications: NJ(12129), NY(10983), CA, CT, FL, IL, IN, KS, KY, LA, MA, MD, ME, MN, NC,\\nOH VAP (CL0056), AK (UST-103), AZ (AZ0786), PA, RI, SC, TX, UT, VA, WV, DoD ELAP (ANAB L2248)\"},{\"type\":\"paragraph\",\"text\":\"This report shall not be reproduced, except in its entirety, without the written approval of SGS.\\nTest results relate only to samples analyzed.\"},{\"type\":\"paragraph\",\"text\":\"SGS North America Inc.  2235 Route 130  Dayton, NJ 08810  tel: 732-329-0200  fax: 732-329-3499\\nSGS is the sole authority for authorizing edits or modifications to this document.\\nUnauthorized modification of this report is strictly prohibited.\\nReview standard terms at:  http://www.sgs.com/en/terms-and-conditions\"},{\"type\":\"paragraph\",\"text\":\"03/30/20\"},{\"type\":\"paragraph\",\"text\":\"03/30/20\"},{\"type\":\"paragraph\",\"text\":\"e-Hardcopy 2.0\\nAutomated Report\"},{\"type\":\"paragraph\",\"text\":\"11\"},{\"type\":\"paragraph\",\"text\":\"Laura Degenhardt\\nGeneral Manager\"},{\"type\":\"paragraph\",\"text\":\"1 of 11Please share your ideas about\\nhow we can serve you better at:\\nEHS.US.CustomerCare@sgs.com JD3794\"},{\"type\":\"paragraph\",\"text\":\"Sections: 1\\nTable of Contents\"},{\"type\":\"paragraph\",\"text\":\"2-1-\\nSection 1: Sample Summary ................................................................................................... 3\\n3Section 2: Sample Results ........................................................................................................ 4\\n2.1: JD3794-1:  CAMS 519 .................................................................................................. 5\\nSection 3: Misc. Forms ............................................................................................................ 8\\n3.1: Chain of Custody ........................................................................................................... 9\\n3.2: Summa Canister and Flow Controller Log .................................................................... 11\"},{\"type\":\"paragraph\",\"text\":\"2 of 11\"},{\"type\":\"paragraph\",\"text\":\"JD3794\"},{\"type\":\"paragraph\",\"text\":\"SGS LabLink@1069213 13:40 30-Mar-2020\"},{\"type\":\"paragraph\",\"text\":\"Sample Summary\"},{\"type\":\"paragraph\",\"text\":\"Providence Engineering\"},{\"type\":\"paragraph\",\"text\":\"Valero-CAMS, Baton Rouge, LA\\nProject No:   712-001\"},{\"type\":\"paragraph\",\"text\":\"Sample Collected Matrix\\nNumber Date Time By Received Code Type\"},{\"type\":\"paragraph\",\"text\":\"This report contains results reported as ND = Not detected. The following applies:\\nOrganics ND  = Not detected above the MDL\"},{\"type\":\"paragraph\",\"text\":\"JD3794-1 02/20/20 10:40 BK 02/27/20 AIR Ambient Air Comp.\"},{\"type\":\"paragraph\",\"text\":\"Job No:\"},{\"type\":\"paragraph\",\"text\":\"Client \\nSample ID\"},{\"type\":\"paragraph\",\"text\":\"CAMS 519\"},{\"type\":\"paragraph\",\"text\":\"1\"},{\"type\":\"paragraph\",\"text\":\"JD3794\"},{\"type\":\"paragraph\",\"text\":\"3 of 11\"},{\"type\":\"paragraph\",\"text\":\"JD3794\"},{\"type\":\"paragraph\",\"text\":\"SGS LabLink@1069213 13:40 30-Mar-2020\"},{\"type\":\"paragraph\",\"text\":\"Dayton, NJ\"},{\"type\":\"paragraph\",\"text\":\"Sample Results\"},{\"type\":\"paragraph\",\"text\":\"Report of Analysis\"},{\"type\":\"paragraph\",\"text\":\"2\"},{\"type\":\"paragraph\",\"text\":\"Section 2\"},{\"type\":\"paragraph\",\"text\":\"4 of 11\\nJD3794\"},{\"type\":\"paragraph\",\"text\":\"SGS LabLink@1069213 13:40 30-Mar-2020\"},{\"type\":\"paragraph\",\"text\":\"Client Sample ID:\\nLab Sample ID:\\nMatrix:\\nMethod:\\nProject:\"},{\"type\":\"paragraph\",\"text\":\"Run #1\\nRun #2\"},{\"type\":\"paragraph\",\"text\":\"Run #1\\nRun #2\"},{\"type\":\"paragraph\",\"text\":\"VOA TO15 List\"},{\"type\":\"paragraph\",\"text\":\"CAS No.\"},{\"type\":\"paragraph\",\"text\":\"67-64-1\\n106-99-0\\n71-43-2\\n75-27-4\\n75-25-2\\n74-83-9\\n593-60-2\\n100-44-7\\n75-15-0\\n108-90-7\\n75-00-3\\n67-66-3\\n74-87-3\\n107-05-1\\n95-49-8\\n56-23-5\\n110-82-7\\n75-34-3\\n75-35-4\\n106-93-4\\n107-06-2\\n78-87-5\\n123-91-1\\n75-71-8\\n124-48-1\\n156-60-5\\n156-59-2\\n10061-01-5\\n541-73-1\\n95-50-1\\n106-46-7\\n10061-02-6\"},{\"type\":\"paragraph\",\"text\":\"ND = Not detected\\nRL = Reporting Limit\\nE = Indicates value exceeds calibration range\"},{\"type\":\"paragraph\",\"text\":\"CAMS 519 \\nJD3794-1\\nAIR - Ambient Air Comp.   Summa ID:  A990\\nTO-15\\nValero-CAMS, Baton Rouge, LA\"},{\"type\":\"paragraph\",\"text\":\"File ID DF\\n6W16456.D 1\\n6W16493.D 1\"},{\"type\":\"paragraph\",\"text\":\"Initial Volume\\n400 ml\\n100 ml\"},{\"type\":\"paragraph\",\"text\":\"Report of Analysis\"},{\"type\":\"paragraph\",\"text\":\"Analyzed\\n03/04/20 20:49\\n03/06/20 06:57\"},{\"type\":\"paragraph\",\"text\":\"MW Compound\"},{\"type\":\"paragraph\",\"text\":\"58.08 Acetone\\n54.09 1,3-Butadiene\\n78.11 Benzene\\n163.8 Bromodichloromethane\\n252.8 Bromoform\\n94.94 Bromomethane\\n106.9 Bromoethene\\n126 Benzyl Chloride\\n76.14 Carbon disulfide\\n112.6 Chlorobenzene\\n64.52 Chloroethane\\n119.4 Chloroform\\n50.49 Chloromethane\\n76.53 3-Chloropropene\\n126.6 2-Chlorotoluene\\n153.8 Carbon tetrachloride\\n84.16 Cyclohexane\\n98.96 1,1-Dichloroethane\\n96.94 1,1-Dichloroethylene\\n187.9 1,2-Dibromoethane\\n98.96 1,2-Dichloroethane\\n113 1,2-Dichloropropane\\n88.12 1,4-Dioxane\\n120.9 Dichlorodifluoromethane\\n208.3 Dibromochloromethane\\n96.94 trans-1,2-Dichloroethylene\\n96.94 cis-1,2-Dichloroethylene\\n111 cis-1,3-Dichloropropene\\n147 m-Dichlorobenzene\\n147 o-Dichlorobenzene\\n147 p-Dichlorobenzene\\n111 trans-1,3-Dichloropropene\"},{\"type\":\"paragraph\",\"text\":\"MDL = Method Detection Limit\"},{\"type\":\"paragraph\",\"text\":\"Date Sampled: 02/20/20 \\nDate Received: 02/27/20 \\nPercent Solids: n/a\"},{\"type\":\"paragraph\",\"text\":\"By Prep Date Prep Batch\\nTCH n/a n/a\\nTCH n/a n/a\"},{\"type\":\"paragraph\",\"text\":\"Result RL MDL Units Q Result\"},{\"type\":\"paragraph\",\"text\":\"10.1 0.20 0.11 ppbv 24.0\\nND 0.20 0.046 ppbv ND\\n0.20 0.20 0.012 ppbv 0.64\\nND 0.20 0.027 ppbv ND\\nND 0.20 0.037 ppbv ND\\nND 0.20 0.022 ppbv ND\\nND 0.20 0.022 ppbv ND\\nND 0.20 0.057 ppbv ND\\nND 0.20 0.024 ppbv ND\\nND 0.20 0.026 ppbv ND\\nND 0.20 0.048 ppbv ND\\nND 0.20 0.020 ppbv ND\\n0.75 0.20 0.015 ppbv 1.5\\nND 0.20 0.040 ppbv ND\\nND 0.20 0.025 ppbv ND\\nND 0.20 0.024 ppbv ND\\n1.5 0.20 0.022 ppbv 5.2\\nND 0.20 0.012 ppbv ND\\nND 0.20 0.017 ppbv ND\\nND 0.20 0.018 ppbv ND\\nND 0.20 0.021 ppbv ND\\nND 0.20 0.019 ppbv ND\\nND 0.20 0.052 ppbv ND\\n0.48 0.20 0.017 ppbv 2.4\\nND 0.20 0.033 ppbv ND\\nND 0.20 0.0073ppbv ND\\nND 0.20 0.012 ppbv ND\\nND 0.20 0.020 ppbv ND\\nND 0.20 0.019 ppbv ND\\nND 0.20 0.022 ppbv ND\\nND 0.20 0.018 ppbv ND\\nND 0.20 0.020 ppbv ND\"},{\"type\":\"paragraph\",\"text\":\"J = Indicates an estimated value\\nB = Indicates analyte found in associated method blank\\nN = Indicates presumptive evidence of a compound\"},{\"type\":\"paragraph\",\"text\":\"2.1\"},{\"type\":\"paragraph\",\"text\":\"2\"},{\"type\":\"paragraph\",\"text\":\"Page 1 of 3\"},{\"type\":\"paragraph\",\"text\":\"Analytical Batch\\nV6W688\\nV6W689\"},{\"type\":\"paragraph\",\"text\":\"RL MDL Units\"},{\"type\":\"paragraph\",\"text\":\"0.48 0.26 ug/m3\\n0.44 0.10 ug/m3\\n0.64 0.038 ug/m3\\n1.3 0.18 ug/m3\\n2.1 0.38 ug/m3\\n0.78 0.085 ug/m3\\n0.87 0.096 ug/m3\\n1.0 0.29 ug/m3\\n0.62 0.075 ug/m3\\n0.92 0.12 ug/m3\\n0.53 0.13 ug/m3\\n0.98 0.098 ug/m3\\n0.41 0.031 ug/m3\\n0.63 0.13 ug/m3\\n1.0 0.13 ug/m3\\n1.3 0.15 ug/m3\\n0.69 0.076 ug/m3\\n0.81 0.049 ug/m3\\n0.79 0.067 ug/m3\\n1.5 0.14 ug/m3\\n0.81 0.085 ug/m3\\n0.92 0.088 ug/m3\\n0.72 0.19 ug/m3\\n0.99 0.084 ug/m3\\n1.7 0.28 ug/m3\\n0.79 0.029 ug/m3\\n0.79 0.048 ug/m3\\n0.91 0.091 ug/m3\\n1.2 0.11 ug/m3\\n1.2 0.13 ug/m3\\n1.2 0.11 ug/m3\\n0.91 0.091 ug/m3\"},{\"type\":\"paragraph\",\"text\":\"5 of 11\"},{\"type\":\"paragraph\",\"text\":\"JD3794\"},{\"type\":\"paragraph\",\"text\":\"SGS LabLink@1069213 13:40 30-Mar-2020\"},{\"type\":\"paragraph\",\"text\":\"Client Sample ID:\\nLab Sample ID:\\nMatrix:\\nMethod:\\nProject:\"},{\"type\":\"paragraph\",\"text\":\"VOA TO15 List\"},{\"type\":\"paragraph\",\"text\":\"CAS No.\"},{\"type\":\"paragraph\",\"text\":\"64-17-5\\n100-41-4\\n141-78-6\\n622-96-8\\n76-13-1\\n76-14-2\\n142-82-5\\n87-68-3\\n110-54-3\\n591-78-6\\n67-63-0\\n75-09-2\\n78-93-3\\n108-10-1\\n1634-04-4\\n80-62-6\\n115-07-1\\n100-42-5\\n71-55-6\\n79-34-5\\n79-00-5\\n120-82-1\\n95-63-6\\n108-67-8\\n540-84-1\\n75-65-0\\n127-18-4\\n109-99-9\\n108-88-3\\n79-01-6\\n75-69-4\\n75-01-4\\n108-05-4\"},{\"type\":\"paragraph\",\"text\":\"95-47-6\\n1330-20-7\"},{\"type\":\"paragraph\",\"text\":\"CAS No.\"},{\"type\":\"paragraph\",\"text\":\"460-00-4\"},{\"type\":\"paragraph\",\"text\":\"ND = Not detected\\nRL = Reporting Limit\\nE = Indicates value exceeds calibration range\"},{\"type\":\"paragraph\",\"text\":\"Report of Analysis\"},{\"type\":\"paragraph\",\"text\":\"CAMS 519 \\nJD3794-1\\nAIR - Ambient Air Comp.   Summa ID:  A990\\nTO-15\\nValero-CAMS, Baton Rouge, LA\"},{\"type\":\"paragraph\",\"text\":\"MW Compound\"},{\"type\":\"paragraph\",\"text\":\"46.07 Ethanol\\n106.2 Ethylbenzene\\n88 Ethyl Acetate\\n120.2 4-Ethyltoluene\\n187.4 Freon 113\\n170.9 Freon 114\\n100.2 Heptane\\n260.8 Hexachlorobutadiene\\n86.17 Hexane\\n100 2-Hexanone\\n60.1 Isopropyl Alcohol\\n84.94 Methylene chloride\\n72.11 Methyl ethyl ketone\\n100.2 Methyl Isobutyl Ketone\\n88.15 Methyl Tert Butyl Ether\\n100.12 Methylmethacrylate\\n42 Propylene\\n104.1 Styrene\\n133.4 1,1,1-Trichloroethane\\n167.9 1,1,2,2-Tetrachloroethane\\n133.4 1,1,2-Trichloroethane\\n181.5 1,2,4-Trichlorobenzene\\n120.2 1,2,4-Trimethylbenzene\\n120.2 1,3,5-Trimethylbenzene\\n114.2 2,2,4-Trimethylpentane\\n74.12 Tertiary Butyl Alcohol\\n165.8 Tetrachloroethylene\\n72.11 Tetrahydrofuran\\n92.14 Toluene\\n131.4 Trichloroethylene\\n137.4 Trichlorofluoromethane\\n62.5 Vinyl chloride\\n86 Vinyl Acetate\\n106.2 m,p-Xylene\\n106.2 o-Xylene\\n106.2 Xylenes (total)\"},{\"type\":\"paragraph\",\"text\":\"Surrogate Recoveries Run# 1\"},{\"type\":\"paragraph\",\"text\":\"4-Bromofluorobenzene 96%\"},{\"type\":\"paragraph\",\"text\":\"MDL = Method Detection Limit\"},{\"type\":\"paragraph\",\"text\":\"Date Sampled: 02/20/20 \\nDate Received: 02/27/20 \\nPercent Solids: n/a\"},{\"type\":\"paragraph\",\"text\":\"Result RL MDL Units Q Result\"},{\"type\":\"paragraph\",\"text\":\"4.1 0.50 0.22 ppbv 7.7\\nND 0.20 0.015 ppbv ND\\n0.11 0.20 0.038 ppbv J 0.40\\nND 0.20 0.030 ppbv ND\\nND 0.20 0.017 ppbv ND\\nND 0.20 0.019 ppbv ND\\n0.14 0.20 0.018 ppbv J 0.57\\nND 0.20 0.046 ppbv ND\\n19.1 0.20 0.011 ppbv 67.3\\nND 0.20 0.036 ppbv ND\\n0.60 0.20 0.065 ppbv 1.5\\n1.4 0.20 0.015 ppbv 4.9\\n59.2 a 0.80 0.17 ppbv 175 a\\n40.8 a 0.80 0.14 ppbv 167 a\\nND 0.20 0.019 ppbv ND\\nND 0.20 0.033 ppbv ND\\nND 0.50 0.016 ppbv ND\\nND 0.20 0.019 ppbv ND\\nND 0.20 0.033 ppbv ND\\nND 0.20 0.027 ppbv ND\\nND 0.20 0.030 ppbv ND\\nND 0.20 0.089 ppbv ND\\nND 0.20 0.033 ppbv ND\\nND 0.20 0.034 ppbv ND\\nND 0.20 0.022 ppbv ND\\n0.18 0.20 0.014 ppbv J 0.55\\nND 0.040 0.031 ppbv ND\\nND 0.20 0.050 ppbv ND\\n72.5 a 0.80 0.058 ppbv 273 a\\n0.037 0.040 0.019 ppbv J 0.20\\n0.24 0.20 0.028 ppbv 1.3\\nND 0.20 0.022 ppbv ND\\nND 0.20 0.034 ppbv ND\\n0.36 0.20 0.034 ppbv 1.6\\n0.17 0.20 0.017 ppbv J 0.74\\n0.53 0.20 0.017 ppbv 2.3\"},{\"type\":\"paragraph\",\"text\":\"Run# 2 Limits\"},{\"type\":\"paragraph\",\"text\":\"90% 65-128%\"},{\"type\":\"paragraph\",\"text\":\"J = Indicates an estimated value\\nB = Indicates analyte found in associated method blank\\nN = Indicates presumptive evidence of a compound\"},{\"type\":\"paragraph\",\"text\":\"Page 2 of 3\"},{\"type\":\"paragraph\",\"text\":\"RL\"},{\"type\":\"paragraph\",\"text\":\"0.94\\n0.87\\n0.72\\n0.98\\n1.5\\n1.4\\n0.82\\n2.1\\n0.70\\n0.82\\n0.49\\n0.69\\n2.4\\n3.3\\n0.72\\n0.82\\n0.86\\n0.85\\n1.1\\n1.4\\n1.1\\n1.5\\n0.98\\n0.98\\n0.93\\n0.61\\n0.27\\n0.59\\n3.0\\n0.21\\n1.1\\n0.51\\n0.70\\n0.87\\n0.87\\n0.87\"},{\"type\":\"paragraph\",\"text\":\"2.1\"},{\"type\":\"paragraph\",\"text\":\"2\"},{\"type\":\"paragraph\",\"text\":\"MDL Units\"},{\"type\":\"paragraph\",\"text\":\"0.41 ug/m3\\n0.065 ug/m3\\n0.14 ug/m3\\n0.15 ug/m3\\n0.13 ug/m3\\n0.13 ug/m3\\n0.074 ug/m3\\n0.49 ug/m3\\n0.039 ug/m3\\n0.15 ug/m3\\n0.16 ug/m3\\n0.052 ug/m3\\n0.50 ug/m3\\n0.57 ug/m3\\n0.069 ug/m3\\n0.14 ug/m3\\n0.027 ug/m3\\n0.081 ug/m3\\n0.18 ug/m3\\n0.19 ug/m3\\n0.16 ug/m3\\n0.66 ug/m3\\n0.16 ug/m3\\n0.17 ug/m3\\n0.10 ug/m3\\n0.042 ug/m3\\n0.21 ug/m3\\n0.15 ug/m3\\n0.22 ug/m3\\n0.10 ug/m3\\n0.16 ug/m3\\n0.056 ug/m3\\n0.12 ug/m3\\n0.15 ug/m3\\n0.074 ug/m3\\n0.074 ug/m3\"},{\"type\":\"paragraph\",\"text\":\"6 of 11\"},{\"type\":\"paragraph\",\"text\":\"JD3794\"},{\"type\":\"paragraph\",\"text\":\"SGS LabLink@1069213 13:40 30-Mar-2020\"},{\"type\":\"paragraph\",\"text\":\"Client Sample ID:\\nLab Sample ID:\\nMatrix:\\nMethod:\\nProject:\"},{\"type\":\"paragraph\",\"text\":\"VOA TO15 List\"},{\"type\":\"paragraph\",\"text\":\"CAS No. MW\"},{\"type\":\"paragraph\",\"text\":\"(a) Result is from Run# 2\"},{\"type\":\"paragraph\",\"text\":\"CAMS 519 \\nJD3794-1\\nAIR - Ambient Air Comp.   Summa ID:  A990\\nTO-15\\nValero-CAMS, Baton Rouge, LA\"},{\"type\":\"paragraph\",\"text\":\"Compound\"},{\"type\":\"paragraph\",\"text\":\"Report of Analysis\"},{\"type\":\"paragraph\",\"text\":\"Result\"},{\"type\":\"paragraph\",\"text\":\"2.1\"},{\"type\":\"paragraph\",\"text\":\"2\"},{\"type\":\"paragraph\",\"text\":\"Page 3 of 3\"},{\"type\":\"paragraph\",\"text\":\"Date Sampled: 02/20/20 \\nDate Received: 02/27/20 \\nPercent Solids: n/a\"},{\"type\":\"paragraph\",\"text\":\"RL MDL Units Q Result RL MDL Units\"},{\"type\":\"paragraph\",\"text\":\"ND = Not detected MDL = Method Detection Limit\\nRL = Reporting Limit\\nE = Indicates value exceeds calibration range\"},{\"type\":\"paragraph\",\"text\":\"J = Indicates an estimated value\\nB = Indicates analyte found in associated method blank\\nN = Indicates presumptive evidence of a compound\"},{\"type\":\"paragraph\",\"text\":\"7 of 11\"},{\"type\":\"paragraph\",\"text\":\"JD3794\"},{\"type\":\"paragraph\",\"text\":\"SGS LabLink@1069213 13:40 30-Mar-2020\"},{\"type\":\"paragraph\",\"text\":\"Dayton, NJ\"},{\"type\":\"paragraph\",\"text\":\"Misc. Forms\"},{\"type\":\"paragraph\",\"text\":\"Custody Documents and Other Forms\"},{\"type\":\"paragraph\",\"text\":\"3\\nSection 3\"},{\"type\":\"paragraph\",\"text\":\"Includes the following where applicable:\"},{\"type\":\"paragraph\",\"text\":\" Chain of Custody\\n Summa Canister and Flow Controller Log\"},{\"type\":\"paragraph\",\"text\":\"8 of 11\"},{\"type\":\"paragraph\",\"text\":\"JD3794\"},{\"type\":\"paragraph\",\"text\":\"Contaci\"},{\"type\":\"paragraph\",\"text\":\"Day\\nDay\\nDay\"},{\"type\":\"paragraph\",\"text\":\"Day\"},{\"type\":\"paragraph\",\"text\":\"Form:SM088-03D (revised\"},{\"type\":\"paragraph\",\"text\":\"LA.-A\"},{\"type\":\"paragraph\",\"text\":\"E-mail\"},{\"type\":\"paragraph\",\"text\":\"Approvod By:\"},{\"type\":\"paragraph\",\"text\":\"Datg:\"},{\"type\":\"paragraph\",\"text\":\"2-1 2-1 8)\"},{\"type\":\"paragraph\",\"text\":\"AIR CHAIN OF CUSTODY\"},{\"type\":\"paragraph\",\"text\":\"SGS North  America  lnc. - Dayton\\n2235 Route  '1 30, Dayton, NJ 08810\\nrEt.732-329-0200  FAx 732-329-3499\"},{\"type\":\"paragraph\",\"text\":\"NJDEP TO-'15 is mandatory Full T1\"},{\"type\":\"paragraph\",\"text\":\"PAGE OF\"},{\"type\":\"paragraph\",\"text\":\"3.1\"},{\"type\":\"paragraph\",\"text\":\"3\"},{\"type\":\"paragraph\",\"text\":\"is verified upon receipt in the Labora\"},{\"type\":\"paragraph\",\"text\":\"http  J/www.  sgs.com/en/terms-and-cond itions\"},{\"type\":\"paragraph\",\"text\":\"JD3794: Chain of Custody\"},{\"type\":\"paragraph\",\"text\":\"Page 1 of 2\"},{\"type\":\"paragraph\",\"text\":\"9 of 11\"},{\"type\":\"paragraph\",\"text\":\"JD3794\"},{\"type\":\"paragraph\",\"text\":\"Job Number:\"},{\"type\":\"paragraph\",\"text\":\"Date / Time Received:\"},{\"type\":\"paragraph\",\"text\":\"Cooler Temps (Raw Measured) °C:\"},{\"type\":\"paragraph\",\"text\":\"Cooler Temps (Corrected) °C:\"},{\"type\":\"paragraph\",\"text\":\"Cooler Security\"},{\"type\":\"paragraph\",\"text\":\"1. Custody Seals Present:\"},{\"type\":\"paragraph\",\"text\":\"2. Custody Seals Intact:\"},{\"type\":\"paragraph\",\"text\":\"Cooler Temperature\"},{\"type\":\"paragraph\",\"text\":\"1. Temp criteria achieved:\"},{\"type\":\"paragraph\",\"text\":\"JD3794\"},{\"type\":\"paragraph\",\"text\":\"2/27/2020 10:45:00 AM\"},{\"type\":\"paragraph\",\"text\":\"Y   or   N\"},{\"type\":\"paragraph\",\"text\":\"Y   or   N\"},{\"type\":\"paragraph\",\"text\":\"Client: PROVIDENCE ENG\"},{\"type\":\"paragraph\",\"text\":\"Delivery Method:\"},{\"type\":\"paragraph\",\"text\":\"3. COC Present:\"},{\"type\":\"paragraph\",\"text\":\"4. Smpl Dates/Time OK\"},{\"type\":\"paragraph\",\"text\":\"2. Cooler temp verification: N/A\"},{\"type\":\"paragraph\",\"text\":\"3. Cooler media: N/A\"},{\"type\":\"paragraph\",\"text\":\"4. No. Coolers: N/A\"},{\"type\":\"paragraph\",\"text\":\"Quality Control  Preservation   Y    or   N        N/A\"},{\"type\":\"paragraph\",\"text\":\"1. Trip Blank present / cooler:\"},{\"type\":\"paragraph\",\"text\":\"2. Trip Blank listed on COC:\"},{\"type\":\"paragraph\",\"text\":\"3. Samples preserved properly:\"},{\"type\":\"paragraph\",\"text\":\"4. VOCs headspace free:\"},{\"type\":\"paragraph\",\"text\":\"Test Strip Lot #s: 229517pH 1-12:\"},{\"type\":\"paragraph\",\"text\":\"Comments\"},{\"type\":\"paragraph\",\"text\":\"SM089-03\\nRev. Date 12/7/17\"},{\"type\":\"paragraph\",\"text\":\"SGS Sample Receipt Summary\"},{\"type\":\"paragraph\",\"text\":\"Project: PROVIDENCE - CAMS\"},{\"type\":\"paragraph\",\"text\":\"Airbill #'s: 3.1\"},{\"type\":\"paragraph\",\"text\":\"3\"},{\"type\":\"paragraph\",\"text\":\"Y   or   N   Sample Integrity - Documentation   Y     or     N\"},{\"type\":\"paragraph\",\"text\":\"1. Sample labels present on bottles:\"},{\"type\":\"paragraph\",\"text\":\"2. Container labeling complete:\"},{\"type\":\"paragraph\",\"text\":\"3. Sample container label / COC agree:\"},{\"type\":\"paragraph\",\"text\":\"Y     or     N  Sample Integrity - Condition\"},{\"type\":\"paragraph\",\"text\":\"1. Sample recvd within HT:\"},{\"type\":\"paragraph\",\"text\":\"2. All containers accounted for:\"},{\"type\":\"paragraph\",\"text\":\"3. Condition of sample:\"},{\"type\":\"paragraph\",\"text\":\"Sample Integrity - Instructions\"},{\"type\":\"paragraph\",\"text\":\"1. Analysis requested is clear:\"},{\"type\":\"paragraph\",\"text\":\"2. Bottles received for unspecified tests\"},{\"type\":\"paragraph\",\"text\":\"3. Sufficient volume recvd for analysis:\"},{\"type\":\"paragraph\",\"text\":\"Intact\"},{\"type\":\"paragraph\",\"text\":\"Y     or    N          N/A\"},{\"type\":\"paragraph\",\"text\":\"4. Compositing instructions clear:\"},{\"type\":\"paragraph\",\"text\":\"5. Filtering instructions clear:\"},{\"type\":\"paragraph\",\"text\":\"Other:  (Specify)208717pH 12+:\"},{\"type\":\"paragraph\",\"text\":\"JD3794: Chain of Custody\"},{\"type\":\"paragraph\",\"text\":\"Page 2 of 2\"},{\"type\":\"paragraph\",\"text\":\"10 of 11\"},{\"type\":\"paragraph\",\"text\":\"JD3794\"},{\"type\":\"paragraph\",\"text\":\"Summa Canister and Flow Controller Log\\nJob Number:\\nAccount:\\nProject:\\nReceived:\"},{\"type\":\"paragraph\",\"text\":\"SUMMA CANISTERS\\nShipping Receiving\\nSumma\\nID L\"},{\"type\":\"paragraph\",\"text\":\"A990 6\"},{\"type\":\"paragraph\",\"text\":\"SGS Bottle Order(s):\\nVP-012420-47\"},{\"type\":\"paragraph\",\"text\":\"Prep Date\\n01/27/20\"},{\"type\":\"paragraph\",\"text\":\"JD3794\\nPROVLABR Providence Engineering\\nValero-CAMS, Baton Rouge, LA\\n02/27/20\"},{\"type\":\"paragraph\",\"text\":\"Vac Date\\n\\\" Hg Out By\"},{\"type\":\"paragraph\",\"text\":\"29.4 01/27/20 JT\"},{\"type\":\"paragraph\",\"text\":\"Room Temp(F)\\n70\"},{\"type\":\"paragraph\",\"text\":\"SCC SCC\\nBatch FileID\"},{\"type\":\"paragraph\",\"text\":\"CP10662 3W71339.D\"},{\"type\":\"paragraph\",\"text\":\"Bar Pres \\\"Hg\\n29.92\"},{\"type\":\"paragraph\",\"text\":\"Sample Date\\nNumber In By\"},{\"type\":\"paragraph\",\"text\":\"JD3794-1 03/02/20 EH\"},{\"type\":\"paragraph\",\"text\":\"Page 1 of 1     \\n3.2\"},{\"type\":\"paragraph\",\"text\":\"3\"},{\"type\":\"paragraph\",\"text\":\"Vac Pres Final Dil\\n\\\" Hg psig psig Fact\"},{\"type\":\"paragraph\",\"text\":\"2 1\"},{\"type\":\"paragraph\",\"text\":\"11 of 11\"},{\"type\":\"paragraph\",\"text\":\"JD3794\"},{\"type\":\"table\",\"headers\":[\"10.1\",\"0.20 0.11 ppbv\",\"24.0\"],\"rows\":[[\"ND\",\"0.20 0.046 ppbv\",\"ND\"],[\"0.20\",\"0.20 0.012 ppbv\",\"0.64\"],[\"ND\",\"0.20 0.027 ppbv\",\"ND\"],[\"ND\",\"0.20 0.037 ppbv\",\"ND\"],[\"ND\",\"0.20 0.022 ppbv\",\"ND\"],[\"ND\",\"0.20 0.022 ppbv\",\"ND\"],[\"ND\",\"0.20 0.057 ppbv\",\"ND\"],[\"ND\",\"0.20 0.024 ppbv\",\"ND\"],[\"ND\",\"0.20 0.026 ppbv\",\"ND\"],[\"ND\",\"0.20 0.048 ppbv\",\"ND\"],[\"ND\",\"0.20 0.020 ppbv\",\"ND\"],[\"0.75\",\"0.20 0.015 ppbv\",\"1.5\"],[\"ND\",\"0.20 0.040 ppbv\",\"ND\"],[\"ND\",\"0.20 0.025 ppbv\",\"ND\"],[\"ND\",\"0.20 0.024 ppbv\",\"ND\"],[\"1.5\",\"0.20 0.022 ppbv\",\"5.2\"],[\"ND\",\"0.20 0.012 ppbv\",\"ND\"],[\"ND\",\"0.20 0.017 ppbv\",\"ND\"],[\"ND\",\"0.20 0.018 ppbv\",\"ND\"],[\"ND\",\"0.20 0.021 ppbv\",\"ND\"],[\"ND\",\"0.20 0.019 ppbv\",\"ND\"],[\"ND\",\"0.20 0.052 ppbv\",\"ND\"],[\"0.48\",\"0.20 0.017 ppbv\",\"2.4\"],[\"ND\",\"0.20 0.033 ppbv\",\"ND\"],[\"ND\",\"0.20 0.0073 ppbv\",\"ND\"],[\"ND\",\"0.20 0.012 ppbv\",\"ND\"],[\"ND\",\"0.20 0.020 ppbv\",\"ND\"],[\"ND\",\"0.20 0.019 ppbv\",\"ND\"],[\"ND\",\"0.20 0.022 ppbv\",\"ND\"],[\"ND\",\"0.20 0.018 ppbv\",\"ND\"],[\"ND\",\"0.20 0.020 ppbv\",\"ND\"]]},{\"type\":\"table\",\"headers\":[\"4.1\",\"0.50 0.22 ppbv\",\"7.7\"],\"rows\":[[\"ND\",\"0.20 0.015 ppbv\",\"ND\"],[\"0.11\",\"0.20 0.038 ppbv J\",\"0.40\"],[\"ND\",\"0.20 0.030 ppbv\",\"ND\"],[\"ND\",\"0.20 0.017 ppbv\",\"ND\"],[\"ND\",\"0.20 0.019 ppbv\",\"ND\"],[\"0.14\",\"0.20 0.018 ppbv J\",\"0.57\"],[\"ND\",\"0.20 0.046 ppbv\",\"ND\"],[\"19.1\",\"0.20 0.011 ppbv\",\"67.3\"],[\"ND\",\"0.20 0.036 ppbv\",\"ND\"],[\"0.60\",\"0.20 0.065 ppbv\",\"1.5\"],[\"1.4\",\"0.20 0.015 ppbv\",\"4.9\"],[\"59.2 a\",\"0.80 0.17 ppbv\",\"175 a\"],[\"40.8 a\",\"0.80 0.14 ppbv\",\"167 a\"],[\"ND\",\"0.20 0.019 ppbv\",\"ND\"],[\"ND\",\"0.20 0.033 ppbv\",\"ND\"],[\"ND\",\"0.50 0.016 ppbv\",\"ND\"],[\"ND\",\"0.20 0.019 ppbv\",\"ND\"],[\"ND\",\"0.20 0.033 ppbv\",\"ND\"],[\"ND\",\"0.20 0.027 ppbv\",\"ND\"],[\"ND\",\"0.20 0.030 ppbv\",\"ND\"],[\"ND\",\"0.20 0.089 ppbv\",\"ND\"],[\"ND\",\"0.20 0.033 ppbv\",\"ND\"],[\"ND\",\"0.20 0.034 ppbv\",\"ND\"],[\"ND\",\"0.20 0.022 ppbv\",\"ND\"],[\"0.18\",\"0.20 0.014 ppbv J\",\"0.55\"],[\"ND\",\"0.040 0.031 ppbv\",\"ND\"],[\"ND\",\"0.20 0.050 ppbv\",\"ND\"],[\"72.5 a\",\"0.80 0.058 ppbv\",\"273 a\"],[\"0.037\",\"0.040 0.019 ppbv J\",\"0.20\"],[\"0.24\",\"0.20 0.028 ppbv\",\"1.3\"],[\"ND\",\"0.20 0.022 ppbv\",\"ND\"],[\"ND\",\"0.20 0.034 ppbv\",\"ND\"],[\"0.36\",\"0.20 0.034 ppbv\",\"1.6\"],[\"0.17\",\"0.20 0.017 ppbv J\",\"0.74\"],[\"0.53\",\"0.20 0.017 ppbv\",\"2.3\"]]},{\"type\":\"table\",\"headers\":[\"Job Number: JD3794 Client: PROVIDENCE ENG\",\"Project: PROVIDENCE - CAMS\"],\"rows\":[[\"Delivery Method: Date / Time Received: 2/27/2020 10:45:00 AM\"],[\"Cooler Temps (Raw Measured) °C: Cooler Temps (Corrected) °C: Cooler Security Y or N Y or N\",\"Sample Integrity - Documentation Y or N\"],[\"3. COC Present: 1. Custody Seals Present: 4. Smpl Dates/Time OK 2. Custody Seals Intact: Cooler Temperature Y or N\",\"1. Sample labels present on bottles: 2. Container labeling complete: 3. Sample container label / COC agree:\"],[\"1. Temp criteria achieved:\"],[\"1. Sample recvd within HT:\"],[\"3. Cooler media: N/A\"],[\"4. No. Coolers: N/A\"]]},{\"type\":\"table\",\"headers\":[\"1. Trip Blank present / cooler: 2. Trip Blank listed on COC: 3. Samples preserved properly: 4. VOCs headspace free:\",\"1. Analysis requested is clear: 2. Bottles received for unspecified tests 3. Sufficient volume recvd for analysis: 4. Compositing instructions clear: 5. Filtering instructions clear:\"],\"rows\":[[\"Test Strip Lot #s: 229517pH1-12:\"]]},{\"type\":\"table\",\"headers\":[\"ND = Not detected\",\"MDL = Method Detection\",\"Limit J = Indicates\",\"an estimated\",\"value\",\"\"],\"rows\":[[\"RL = Reporting\",\"Limit\",\"B = Indicates\",\"analyte\",\"found in associated\",\"method blank\"],[\"E = Indicates value\",\"exceeds calibration range\",\"N = Indicates\",\"presumptive\",\"evidence\",\"of a compound\"]]},{\"type\":\"table\",\"headers\":[\"Dayton, NJ\",\"3\"],\"rows\":[[\"Section\",\"3\"]]},{\"type\":\"table\",\"headers\":[\"SGS America North\",\"Dayton lnc. -\"],\"rows\":[[\"30,  2235 Route Dayton,  '1\",\"NJ  08810\"],[\"rEt.732-329-0200\",\"FAx  732-329-3499\"]]},{\"type\":\"table\",\"headers\":[\"Summa Canister\",\"and Flow\",\"Controller Log Page 1 of 1\",\"\"],\"rows\":[[\"Job Number:\",\"JD3794\",\"\",\"3.2\"],[\"Account:\",\"PROVLABR Providence\",\"Engineering\",\"\"],[\"Project:\",\"Valero-CAMS, Baton\",\"Rouge, LA\",\"3\"],[\"Received:\",\"02/27/20\",\"\",\"\"]]}]}",
+    "markdown": "## Dayton, NJ\n\n### The results set forth herein are provided by SGS North America Inc.\n\n## Technical Report for\n\nProvidence Engineering\n\nValero-CAMS, Baton Rouge, LA 712-001 SGS Job Number: JD3794\n\nSampling Date: 02/20/20\n\nReport to: Providence Engineering\n\nkevincalhoun@providenceeng.com ATTN: Kevin Calhoun\n\nTotal number of pages in report:\n\nTest results contained within this data package meet the requirements of the National Environmental Laboratory Accreditation Program and/or state specific certification programs as applicable.\n\n## Client Service contact: Victoria Pushkova 732-329-0200\n\nCertifications: NJ(12129), NY(10983), CA, CT, FL, IL, IN, KS, KY, LA, MA, MD, ME, MN, NC, OH VAP (CL0056), AK (UST-103), AZ (AZ0786), PA, RI, SC, TX, UT, VA, WV, DoD ELAP (ANAB L2248) This report shall not be reproduced, except in its entirety, without the written approval of SGS. Test results relate only to samples analyzed.\n\nSGS North America Inc.  2235 Route 130  Dayton, NJ 08810  tel: 732-329-0200  fax: 732-329-3499 SGS is the sole authority for authorizing edits or modifications to this document. Unauthorized modification of this report is strictly prohibited. Review standard terms at: http://www.sgs.com/en/terms-and-conditions\n\n### 03/30/20\n\n## e-Hardcopy 2.0\n\n### Automated Report\n\n## 11\n\n## Laura Degenhardt General Manager\n\n### 1 of 11\n\n### Please share your ideas about how we can serve you better at: EHS.US.CustomerCare@sgs.com\n\n## JD3794\n\n## Sections:\n\n## 1\n\n# Table of Contents\n\n## 2\n\n**-1- Section 1: Sample Summary ................................................................................................... 3 3 Section 2: Sample Results ........................................................................................................ 4 2.1:**\n\nJD3794-1: CAMS 519 .................................................................................................. 5 **Section 3: Misc. Forms ............................................................................................................ 8 3.1:**\n\nChain of Custody ........................................................................................................... 9\n\n## 3.2:\n\n## Summa Canister and Flow Controller Log .................................................................... 11\n\n### 2 of 11\n\n### SGS LabLink@1069213 13:40 30-Mar-2020\n\n## Sample Summary\n\n## Providence Engineering Valero-CAMS, Baton Rouge, LA Project No: 712-001\n\n### Sample Collected Matrix Number Date Time By Received Code Type\n\nThis report contains results reported as ND = Not detected. The following applies: Organics ND = Not detected above the MDL\n\n### JD3794-1 02/20/20 10:40 BK 02/27/20 AIR Ambient Air Comp.\n\n### Job No: Client Sample ID\n\n### CAMS 519\n\n## 1\n\n### JD3794\n\n### 3 of 11\n\n### SGS LabLink@1069213 13:40 30-Mar-2020\n\n## Dayton, NJ\n\nSample Results\n\nReport of Analysis\n\n**2 Section 2**\n\n### 4 of 11\n\n### 2.1\n\n### SGS LabLink@1069213 13:40 30-Mar-2020\n\n## 2\n\n## Report of Analysis\n\n**Client Sample ID: Lab Sample ID: Matrix: Method: Project:**\n\n### Date Sampled:\n\n02/20/20\n\n**Date Received:**\n\n02/27/20\n\n**Percent Solids:**\n\nn/a\n\n### File ID DF\n\n### Analyzed\n\n**By Prep Date Prep Batch**\n\n### Analytical Batch\n\nRun \\#1 Run \\#2 Run \\#1 Run \\#2\n\n6W16456.D 1 6W16493.D 1\n\n### 03/04/20 20:49 03/06/20 06:57\n\nTCH n/a n/a TCH n/a n/a\n\n### V6W688 V6W689\n\n**Initial Volume**\n\n400 ml 100 ml\n\n**VOA TO15 List CAS No.**\n\n### MW Compound\n\n**Result RL MDL Units Q Result**\n\n### RL MDL Units\n\n| 10.1 | 0.20 0.11 ppbv | 24.0 |\n| --- | --- | --- |\n| ND | 0.20 0.046 ppbv | ND |\n| 0.20 | 0.20 0.012 ppbv | 0.64 |\n| ND | 0.20 0.027 ppbv | ND |\n| ND | 0.20 0.037 ppbv | ND |\n| ND | 0.20 0.022 ppbv | ND |\n| ND | 0.20 0.022 ppbv | ND |\n| ND | 0.20 0.057 ppbv | ND |\n| ND | 0.20 0.024 ppbv | ND |\n| ND | 0.20 0.026 ppbv | ND |\n| ND | 0.20 0.048 ppbv | ND |\n| ND | 0.20 0.020 ppbv | ND |\n| 0.75 | 0.20 0.015 ppbv | 1.5 |\n| ND | 0.20 0.040 ppbv | ND |\n| ND | 0.20 0.025 ppbv | ND |\n| ND | 0.20 0.024 ppbv | ND |\n| 1.5 | 0.20 0.022 ppbv | 5.2 |\n| ND | 0.20 0.012 ppbv | ND |\n| ND | 0.20 0.017 ppbv | ND |\n| ND | 0.20 0.018 ppbv | ND |\n| ND | 0.20 0.021 ppbv | ND |\n| ND | 0.20 0.019 ppbv | ND |\n| ND | 0.20 0.052 ppbv | ND |\n| 0.48 | 0.20 0.017 ppbv | 2.4 |\n| ND | 0.20 0.033 ppbv | ND |\n| ND | 0.20 0.0073 ppbv | ND |\n| ND | 0.20 0.012 ppbv | ND |\n| ND | 0.20 0.020 ppbv | ND |\n| ND | 0.20 0.019 ppbv | ND |\n| ND | 0.20 0.022 ppbv | ND |\n| ND | 0.20 0.018 ppbv | ND |\n| ND | 0.20 0.020 ppbv | ND |\n\n67-64-1 106-99-0 71-43-2 75-27-4 75-25-2 74-83-9 593-60-2 100-44-7 75-15-0 108-90-7 75-00-3 67-66-3 74-87-3 107-05-1 95-49-8 56-23-5 110-82-7 75-34-3 75-35-4 106-93-4 107-06-2 78-87-5 123-91-1 75-71-8 124-48-1 156-60-5 156-59-2 10061-01-5 541-73-1 95-50-1 106-46-7 10061-02-6 ND = Not detected RL = Reporting Limit E = Indicates value exceeds calibration range CAMS 519 JD3794-1 AIR - Ambient Air Comp. Summa ID: A990 TO-15 Valero-CAMS, Baton Rouge, LA\n\n58.08 Acetone 54.09 1,3-Butadiene 78.11 Benzene 163.8 Bromodichloromethane 252.8 Bromoform 94.94 Bromomethane 106.9 Bromoethene 126 Benzyl Chloride 76.14 Carbon disulfide 112.6 Chlorobenzene 64.52 Chloroethane 119.4 Chloroform 50.49 Chloromethane 76.53 3-Chloropropene 126.6 2-Chlorotoluene 153.8 Carbon tetrachloride 84.16 Cyclohexane 98.96 1,1-Dichloroethane 96.94 1,1-Dichloroethylene 187.9 1,2-Dibromoethane 98.96 1,2-Dichloroethane 113 1,2-Dichloropropane 88.12 1,4-Dioxane 120.9 Dichlorodifluoromethane 208.3 Dibromochloromethane 96.94 trans-1,2-Dichloroethylene 96.94 cis-1,2-Dichloroethylene 111 cis-1,3-Dichloropropene 147 m-Dichlorobenzene 147 o-Dichlorobenzene 147 p-Dichlorobenzene 111 trans-1,3-Dichloropropene MDL = Method Detection Limit\n\n0.48 0.26 ug/m3 0.44 0.10 ug/m3 0.64 0.038 ug/m3 1.3 0.18 ug/m3 2.1 0.38 ug/m3 0.78 0.085 ug/m3 0.87 0.096 ug/m3 1.0 0.29 ug/m3 0.62 0.075 ug/m3 0.92 0.12 ug/m3 0.53 0.13 ug/m3 0.98 0.098 ug/m3 0.41 0.031 ug/m3 0.63 0.13 ug/m3 1.0 0.13 ug/m3 1.3 0.15 ug/m3 0.69 0.076 ug/m3 0.81 0.049 ug/m3 0.79 0.067 ug/m3 1.5 0.14 ug/m3 0.81 0.085 ug/m3 0.92 0.088 ug/m3 0.72 0.19 ug/m3 0.99 0.084 ug/m3 1.7 0.28 ug/m3 0.79 0.029 ug/m3 0.79 0.048 ug/m3 0.91 0.091 ug/m3 1.2 0.11 ug/m3 1.2 0.13 ug/m3 1.2 0.11 ug/m3 0.91 0.091 ug/m3\n\nJ = Indicates an estimated value B = Indicates analyte found in associated method blank N = Indicates presumptive evidence of a compound\n\n### 5 of 11\n\n### 2.1\n\n### SGS LabLink@1069213 13:40 30-Mar-2020\n\n## 2\n\n## Report of Analysis\n\n### Client Sample ID: Lab Sample ID: Matrix: Method: Project: VOA TO15 List CAS No.\n\n### CAMS 519 JD3794-1 AIR - Ambient Air Comp. Summa ID: A990 TO-15 Valero-CAMS, Baton Rouge, LA\n\n**Date Sampled:**\n\n02/20/20\n\n**Date Received:**\n\n02/27/20\n\n**Percent Solids:**\n\nn/a\n\n### MW Compound\n\n**Result RL MDL Units Q Result Run\\# 2 Limits**\n\n### RL\n\n### MDL Units\n\n| 4.1 | 0.50 0.22 ppbv | 7.7 |\n| --- | --- | --- |\n| ND | 0.20 0.015 ppbv | ND |\n| 0.11 | 0.20 0.038 ppbv J | 0.40 |\n| ND | 0.20 0.030 ppbv | ND |\n| ND | 0.20 0.017 ppbv | ND |\n| ND | 0.20 0.019 ppbv | ND |\n| 0.14 | 0.20 0.018 ppbv J | 0.57 |\n| ND | 0.20 0.046 ppbv | ND |\n| 19.1 | 0.20 0.011 ppbv | 67.3 |\n| ND | 0.20 0.036 ppbv | ND |\n| 0.60 | 0.20 0.065 ppbv | 1.5 |\n| 1.4 | 0.20 0.015 ppbv | 4.9 |\n| 59.2 a | 0.80 0.17 ppbv | 175 a |\n| 40.8 a | 0.80 0.14 ppbv | 167 a |\n| ND | 0.20 0.019 ppbv | ND |\n| ND | 0.20 0.033 ppbv | ND |\n| ND | 0.50 0.016 ppbv | ND |\n| ND | 0.20 0.019 ppbv | ND |\n| ND | 0.20 0.033 ppbv | ND |\n| ND | 0.20 0.027 ppbv | ND |\n| ND | 0.20 0.030 ppbv | ND |\n| ND | 0.20 0.089 ppbv | ND |\n| ND | 0.20 0.033 ppbv | ND |\n| ND | 0.20 0.034 ppbv | ND |\n| ND | 0.20 0.022 ppbv | ND |\n| 0.18 | 0.20 0.014 ppbv J | 0.55 |\n| ND | 0.040 0.031 ppbv | ND |\n| ND | 0.20 0.050 ppbv | ND |\n| 72.5 a | 0.80 0.058 ppbv | 273 a |\n| 0.037 | 0.040 0.019 ppbv J | 0.20 |\n| 0.24 | 0.20 0.028 ppbv | 1.3 |\n| ND | 0.20 0.022 ppbv | ND |\n| ND | 0.20 0.034 ppbv | ND |\n| 0.36 | 0.20 0.034 ppbv | 1.6 |\n| 0.17 | 0.20 0.017 ppbv J | 0.74 |\n| 0.53 | 0.20 0.017 ppbv | 2.3 |\n\n64-17-5 100-41-4 141-78-6 622-96-8 76-13-1 76-14-2 142-82-5 87-68-3 110-54-3 591-78-6 67-63-0 75-09-2 78-93-3 108-10-1 1634-04-4 80-62-6 115-07-1 100-42-5 71-55-6 79-34-5 79-00-5 120-82-1 95-63-6 108-67-8 540-84-1 75-65-0 127-18-4 109-99-9 108-88-3 79-01-6 75-69-4 75-01-4 108-05-4 95-47-6 1330-20-7\n\n46.07 Ethanol 106.2 Ethylbenzene 88 Ethyl Acetate 120.2 4-Ethyltoluene 187.4 Freon 113 170.9 Freon 114 100.2 Heptane 260.8 Hexachlorobutadiene 86.17 Hexane 100 2-Hexanone 60.1 Isopropyl Alcohol 84.94 Methylene chloride 72.11 Methyl ethyl ketone 100.2 Methyl Isobutyl Ketone 88.15 Methyl Tert Butyl Ether 100.12 Methylmethacrylate 42 Propylene 104.1 Styrene 133.4 1,1,1-Trichloroethane 167.9 1,1,2,2-Tetrachloroethane 133.4 1,1,2-Trichloroethane 181.5 1,2,4-Trichlorobenzene 120.2 1,2,4-Trimethylbenzene 120.2 1,3,5-Trimethylbenzene 114.2 2,2,4-Trimethylpentane 74.12 Tertiary Butyl Alcohol 165.8 Tetrachloroethylene 72.11 Tetrahydrofuran 92.14 Toluene 131.4 Trichloroethylene 137.4 Trichlorofluoromethane 62.5 Vinyl chloride 86 Vinyl Acetate 106.2 m,p-Xylene 106.2 o-Xylene 106.2 Xylenes (total)\n\n0.94 0.87 0.72 0.98 1.5 1.4 0.82 2.1 0.70 0.82 0.49 0.69 2.4 3.3 0.72 0.82 0.86 0.85 1.1 1.4 1.1 1.5 0.98 0.98 0.93 0.61 0.27 0.59 3.0 0.21 1.1 0.51 0.70 0.87 0.87 0.87\n\n0.41 ug/m3 0.065 ug/m3 0.14 ug/m3 0.15 ug/m3 0.13 ug/m3 0.13 ug/m3 0.074 ug/m3 0.49 ug/m3 0.039 ug/m3 0.15 ug/m3 0.16 ug/m3 0.052 ug/m3 0.50 ug/m3 0.57 ug/m3 0.069 ug/m3 0.14 ug/m3 0.027 ug/m3 0.081 ug/m3 0.18 ug/m3 0.19 ug/m3 0.16 ug/m3 0.66 ug/m3 0.16 ug/m3 0.17 ug/m3 0.10 ug/m3 0.042 ug/m3 0.21 ug/m3 0.15 ug/m3 0.22 ug/m3 0.10 ug/m3 0.16 ug/m3 0.056 ug/m3 0.12 ug/m3 0.15 ug/m3 0.074 ug/m3 0.074 ug/m3\n\n### CAS No.\n\n### Surrogate Recoveries Run\\# 1\n\n### 460-00-4 ND = Not detected RL = Reporting Limit E = Indicates value exceeds calibration range\n\n4-Bromofluorobenzene 96% MDL = Method Detection Limit\n\n90% 65-128% J = Indicates an estimated value B = Indicates analyte found in associated method blank N = Indicates presumptive evidence of a compound Page 2 of 3\n\n### 6 of 11\n\n### SGS LabLink@1069213 13:40 30-Mar-2020\n\n## 2\n\n## Report of Analysis\n\n**Client Sample ID: Lab Sample ID: Matrix: Method: Project: VOA TO15 List CAS No. MW**\n\nCAMS 519 JD3794-1 AIR - Ambient Air Comp. Summa ID: A990 TO-15 Valero-CAMS, Baton Rouge, LA\n\n### Date Sampled:\n\n02/20/20\n\n**Date Received:**\n\n02/27/20\n\n**Percent Solids:**\n\nn/a\n\n**Compound**\n\n### Result 2.1\n\n**RL MDL Units Q Result RL MDL Units**\n\n(a) Result is from Run\\# 2\n\n| ND = Not detected | MDL = Method Detection | Limit J = Indicates | an estimated | value |  |\n| --- | --- | --- | --- | --- | --- |\n| RL = Reporting | Limit | B = Indicates | analyte | found in associated | method blank |\n| E = Indicates value | exceeds calibration range | N = Indicates | presumptive | evidence | of a compound |\n\n**7 of 11**\n\n### SGS LabLink@1069213 13:40 30-Mar-2020\n\n| Dayton, NJ | 3 |\n| --- | --- |\n| Section | 3 |\n\n## Misc. Forms\n\n## Custody Documents and Other Forms\n\n## Includes the following where applicable:\n\n###  Chain of Custody  Summa Canister and Flow Controller Log\n\n### 8 of 11\n\n### AIR CHAIN OF CUSTODY\n\n### PAGE OF\n\n## LA.- A\n\n| SGS America North | Dayton lnc. - |\n| --- | --- |\n| 30, 2235 Route Dayton, '1 | NJ 08810 |\n| rEt.732-329-0200 | FAx 732-329-3499 |\n\n### 3.1\n\n## 3\n\nContaci Day Day Day Day Form:SM088-03D (revised\n\nE-mail Approvod By: Datg:\n\nNJDEP TO-'15 is mandatory Full T1\n\nis verified upon receipt in the Labora http J/www. sgs.com/en/terms-and-cond itions\n\n2-1 2-1 8)\n\n## JD3794: Chain of Custody Page 1 of 2\n\n### 9 of 11\n\n### SGS Sample Receipt Summary\n\n| Job Number: JD3794 Client: PROVIDENCE ENG | Project: PROVIDENCE - CAMS |\n| --- | --- |\n| Delivery Method: Date / Time Received: 2/27/2020 10:45:00 AM |  |\n| Cooler Temps (Raw Measured) °C: Cooler Temps (Corrected) °C: Cooler Security Y or N Y or N | Sample Integrity - Documentation Y or N |\n| 3. COC Present: 1. Custody Seals Present: 4. Smpl Dates/Time OK 2. Custody Seals Intact: Cooler Temperature Y or N | 1. Sample labels present on bottles: 2. Container labeling complete: 3. Sample container label / COC agree: |\n| 1. Temp criteria achieved: |  |\n| 1. Sample recvd within HT: |  |\n| 3. Cooler media: N/A |  |\n| 4. No. Coolers: N/A |  |\n\n### 3.1\n\n## 3\n\n**Quality Control Preservation Y or N N/A** Comments SM089-03 Rev. Date 12/7/17\n\n**Sample Integrity - Instructions Y or N N/A**\n\n| 1. Trip Blank present / cooler: 2. Trip Blank listed on COC: 3. Samples preserved properly: 4. VOCs headspace free: | 1. Analysis requested is clear: 2. Bottles received for unspecified tests 3. Sufficient volume recvd for analysis: 4. Compositing instructions clear: 5. Filtering instructions clear: |\n| --- | --- |\n| Test Strip Lot \\#s: 229517pH1-12: |  |\n\n## JD3794: Chain of Custody Page 2 of 2\n\n### 10 of 11\n\n| Summa Canister | and Flow | Controller Log Page 1 of 1 |  |\n| --- | --- | --- | --- |\n| Job Number: | JD3794 |  | 3.2 |\n| Account: | PROVLABR Providence | Engineering |  |\n| Project: | Valero-CAMS, Baton | Rouge, LA | 3 |\n| Received: | 02/27/20 |  |  |\n\n### SUMMA CANISTERS Shipping Receiving Summa ID L\n\n**Vac Date \" Hg Out By SCC SCC Batch FileID Sample Date Number In By Vac Pres Final Dil \" Hg psig psig Fact**\n\nA990 6\n\n29.4 01/27/20 JT\n\nCP10662 3W71339.D\n\nJD3794-1 03/02/20 EH\n\n2 1\n\n**SGS Bottle Order(s):**\n\nVP-012420-47\n\n**Prep Date Room Temp(F) Bar Pres \"Hg**\n\n01/27/20\n\n29.92\n\n**11 of 11**\n",
+    "plain": "Dayton, NJ\n\nThe results set forth herein are provided by SGS North America Inc.\n\nTechnical Report for\n\nProvidence Engineering\n\nValero-CAMS, Baton Rouge, LA\n\n712-001\n\nSGS Job Number:   JD3794\n\nSampling Date: 02/20/20\n\nReport to:\n\nProvidence Engineering\n\nkevincalhoun@providenceeng.com\n\nATTN: Kevin Calhoun\n\nTotal number of pages in report:\n\nTest results contained within this data package meet the requirements \nof the National Environmental Laboratory Accreditation Program \nand/or state specific certification programs as applicable.\n\nClient Service contact: Victoria Pushkova   732-329-0200\n\nCertifications: NJ(12129), NY(10983), CA, CT, FL, IL, IN, KS, KY, LA, MA, MD, ME, MN, NC,\nOH VAP (CL0056), AK (UST-103), AZ (AZ0786), PA, RI, SC, TX, UT, VA, WV, DoD ELAP (ANAB L2248)\n\nThis report shall not be reproduced, except in its entirety, without the written approval of SGS.\nTest results relate only to samples analyzed.\n\nSGS North America Inc.  2235 Route 130  Dayton, NJ 08810  tel: 732-329-0200  fax: 732-329-3499\nSGS is the sole authority for authorizing edits or modifications to this document.\nUnauthorized modification of this report is strictly prohibited.\nReview standard terms at:  http://www.sgs.com/en/terms-and-conditions\n\n03/30/20\n\n03/30/20\n\ne-Hardcopy 2.0\nAutomated Report\n\n11\n\nLaura Degenhardt\nGeneral Manager\n\n1 of 11Please share your ideas about\nhow we can serve you better at:\nEHS.US.CustomerCare@sgs.com JD3794\n\nSections: 1\nTable of Contents\n\n2-1-\nSection 1: Sample Summary ................................................................................................... 3\n3Section 2: Sample Results ........................................................................................................ 4\n2.1: JD3794-1:  CAMS 519 .................................................................................................. 5\nSection 3: Misc. Forms ............................................................................................................ 8\n3.1: Chain of Custody ........................................................................................................... 9\n3.2: Summa Canister and Flow Controller Log .................................................................... 11\n\n2 of 11\n\nJD3794\n\nSGS LabLink@1069213 13:40 30-Mar-2020\n\nSample Summary\n\nProvidence Engineering\n\nValero-CAMS, Baton Rouge, LA\nProject No:   712-001\n\nSample Collected Matrix\nNumber Date Time By Received Code Type\n\nThis report contains results reported as ND = Not detected. The following applies:\nOrganics ND  = Not detected above the MDL\n\nJD3794-1 02/20/20 10:40 BK 02/27/20 AIR Ambient Air Comp.\n\nJob No:\n\nClient \nSample ID\n\nCAMS 519\n\n1\n\nJD3794\n\n3 of 11\n\nJD3794\n\nSGS LabLink@1069213 13:40 30-Mar-2020\n\nDayton, NJ\n\nSample Results\n\nReport of Analysis\n\n2\n\nSection 2\n\n4 of 11\nJD3794\n\nSGS LabLink@1069213 13:40 30-Mar-2020\n\nClient Sample ID:\nLab Sample ID:\nMatrix:\nMethod:\nProject:\n\nRun #1\nRun #2\n\nRun #1\nRun #2\n\nVOA TO15 List\n\nCAS No.\n\n67-64-1\n106-99-0\n71-43-2\n75-27-4\n75-25-2\n74-83-9\n593-60-2\n100-44-7\n75-15-0\n108-90-7\n75-00-3\n67-66-3\n74-87-3\n107-05-1\n95-49-8\n56-23-5\n110-82-7\n75-34-3\n75-35-4\n106-93-4\n107-06-2\n78-87-5\n123-91-1\n75-71-8\n124-48-1\n156-60-5\n156-59-2\n10061-01-5\n541-73-1\n95-50-1\n106-46-7\n10061-02-6\n\nND = Not detected\nRL = Reporting Limit\nE = Indicates value exceeds calibration range\n\nCAMS 519 \nJD3794-1\nAIR - Ambient Air Comp.   Summa ID:  A990\nTO-15\nValero-CAMS, Baton Rouge, LA\n\nFile ID DF\n6W16456.D 1\n6W16493.D 1\n\nInitial Volume\n400 ml\n100 ml\n\nReport of Analysis\n\nAnalyzed\n03/04/20 20:49\n03/06/20 06:57\n\nMW Compound\n\n58.08 Acetone\n54.09 1,3-Butadiene\n78.11 Benzene\n163.8 Bromodichloromethane\n252.8 Bromoform\n94.94 Bromomethane\n106.9 Bromoethene\n126 Benzyl Chloride\n76.14 Carbon disulfide\n112.6 Chlorobenzene\n64.52 Chloroethane\n119.4 Chloroform\n50.49 Chloromethane\n76.53 3-Chloropropene\n126.6 2-Chlorotoluene\n153.8 Carbon tetrachloride\n84.16 Cyclohexane\n98.96 1,1-Dichloroethane\n96.94 1,1-Dichloroethylene\n187.9 1,2-Dibromoethane\n98.96 1,2-Dichloroethane\n113 1,2-Dichloropropane\n88.12 1,4-Dioxane\n120.9 Dichlorodifluoromethane\n208.3 Dibromochloromethane\n96.94 trans-1,2-Dichloroethylene\n96.94 cis-1,2-Dichloroethylene\n111 cis-1,3-Dichloropropene\n147 m-Dichlorobenzene\n147 o-Dichlorobenzene\n147 p-Dichlorobenzene\n111 trans-1,3-Dichloropropene\n\nMDL = Method Detection Limit\n\nDate Sampled: 02/20/20 \nDate Received: 02/27/20 \nPercent Solids: n/a\n\nBy Prep Date Prep Batch\nTCH n/a n/a\nTCH n/a n/a\n\nResult RL MDL Units Q Result\n\n10.1 0.20 0.11 ppbv 24.0\nND 0.20 0.046 ppbv ND\n0.20 0.20 0.012 ppbv 0.64\nND 0.20 0.027 ppbv ND\nND 0.20 0.037 ppbv ND\nND 0.20 0.022 ppbv ND\nND 0.20 0.022 ppbv ND\nND 0.20 0.057 ppbv ND\nND 0.20 0.024 ppbv ND\nND 0.20 0.026 ppbv ND\nND 0.20 0.048 ppbv ND\nND 0.20 0.020 ppbv ND\n0.75 0.20 0.015 ppbv 1.5\nND 0.20 0.040 ppbv ND\nND 0.20 0.025 ppbv ND\nND 0.20 0.024 ppbv ND\n1.5 0.20 0.022 ppbv 5.2\nND 0.20 0.012 ppbv ND\nND 0.20 0.017 ppbv ND\nND 0.20 0.018 ppbv ND\nND 0.20 0.021 ppbv ND\nND 0.20 0.019 ppbv ND\nND 0.20 0.052 ppbv ND\n0.48 0.20 0.017 ppbv 2.4\nND 0.20 0.033 ppbv ND\nND 0.20 0.0073ppbv ND\nND 0.20 0.012 ppbv ND\nND 0.20 0.020 ppbv ND\nND 0.20 0.019 ppbv ND\nND 0.20 0.022 ppbv ND\nND 0.20 0.018 ppbv ND\nND 0.20 0.020 ppbv ND\n\nJ = Indicates an estimated value\nB = Indicates analyte found in associated method blank\nN = Indicates presumptive evidence of a compound\n\n2.1\n\n2\n\nPage 1 of 3\n\nAnalytical Batch\nV6W688\nV6W689\n\nRL MDL Units\n\n0.48 0.26 ug/m3\n0.44 0.10 ug/m3\n0.64 0.038 ug/m3\n1.3 0.18 ug/m3\n2.1 0.38 ug/m3\n0.78 0.085 ug/m3\n0.87 0.096 ug/m3\n1.0 0.29 ug/m3\n0.62 0.075 ug/m3\n0.92 0.12 ug/m3\n0.53 0.13 ug/m3\n0.98 0.098 ug/m3\n0.41 0.031 ug/m3\n0.63 0.13 ug/m3\n1.0 0.13 ug/m3\n1.3 0.15 ug/m3\n0.69 0.076 ug/m3\n0.81 0.049 ug/m3\n0.79 0.067 ug/m3\n1.5 0.14 ug/m3\n0.81 0.085 ug/m3\n0.92 0.088 ug/m3\n0.72 0.19 ug/m3\n0.99 0.084 ug/m3\n1.7 0.28 ug/m3\n0.79 0.029 ug/m3\n0.79 0.048 ug/m3\n0.91 0.091 ug/m3\n1.2 0.11 ug/m3\n1.2 0.13 ug/m3\n1.2 0.11 ug/m3\n0.91 0.091 ug/m3\n\n5 of 11\n\nJD3794\n\nSGS LabLink@1069213 13:40 30-Mar-2020\n\nClient Sample ID:\nLab Sample ID:\nMatrix:\nMethod:\nProject:\n\nVOA TO15 List\n\nCAS No.\n\n64-17-5\n100-41-4\n141-78-6\n622-96-8\n76-13-1\n76-14-2\n142-82-5\n87-68-3\n110-54-3\n591-78-6\n67-63-0\n75-09-2\n78-93-3\n108-10-1\n1634-04-4\n80-62-6\n115-07-1\n100-42-5\n71-55-6\n79-34-5\n79-00-5\n120-82-1\n95-63-6\n108-67-8\n540-84-1\n75-65-0\n127-18-4\n109-99-9\n108-88-3\n79-01-6\n75-69-4\n75-01-4\n108-05-4\n\n95-47-6\n1330-20-7\n\nCAS No.\n\n460-00-4\n\nND = Not detected\nRL = Reporting Limit\nE = Indicates value exceeds calibration range\n\nReport of Analysis\n\nCAMS 519 \nJD3794-1\nAIR - Ambient Air Comp.   Summa ID:  A990\nTO-15\nValero-CAMS, Baton Rouge, LA\n\nMW Compound\n\n46.07 Ethanol\n106.2 Ethylbenzene\n88 Ethyl Acetate\n120.2 4-Ethyltoluene\n187.4 Freon 113\n170.9 Freon 114\n100.2 Heptane\n260.8 Hexachlorobutadiene\n86.17 Hexane\n100 2-Hexanone\n60.1 Isopropyl Alcohol\n84.94 Methylene chloride\n72.11 Methyl ethyl ketone\n100.2 Methyl Isobutyl Ketone\n88.15 Methyl Tert Butyl Ether\n100.12 Methylmethacrylate\n42 Propylene\n104.1 Styrene\n133.4 1,1,1-Trichloroethane\n167.9 1,1,2,2-Tetrachloroethane\n133.4 1,1,2-Trichloroethane\n181.5 1,2,4-Trichlorobenzene\n120.2 1,2,4-Trimethylbenzene\n120.2 1,3,5-Trimethylbenzene\n114.2 2,2,4-Trimethylpentane\n74.12 Tertiary Butyl Alcohol\n165.8 Tetrachloroethylene\n72.11 Tetrahydrofuran\n92.14 Toluene\n131.4 Trichloroethylene\n137.4 Trichlorofluoromethane\n62.5 Vinyl chloride\n86 Vinyl Acetate\n106.2 m,p-Xylene\n106.2 o-Xylene\n106.2 Xylenes (total)\n\nSurrogate Recoveries Run# 1\n\n4-Bromofluorobenzene 96%\n\nMDL = Method Detection Limit\n\nDate Sampled: 02/20/20 \nDate Received: 02/27/20 \nPercent Solids: n/a\n\nResult RL MDL Units Q Result\n\n4.1 0.50 0.22 ppbv 7.7\nND 0.20 0.015 ppbv ND\n0.11 0.20 0.038 ppbv J 0.40\nND 0.20 0.030 ppbv ND\nND 0.20 0.017 ppbv ND\nND 0.20 0.019 ppbv ND\n0.14 0.20 0.018 ppbv J 0.57\nND 0.20 0.046 ppbv ND\n19.1 0.20 0.011 ppbv 67.3\nND 0.20 0.036 ppbv ND\n0.60 0.20 0.065 ppbv 1.5\n1.4 0.20 0.015 ppbv 4.9\n59.2 a 0.80 0.17 ppbv 175 a\n40.8 a 0.80 0.14 ppbv 167 a\nND 0.20 0.019 ppbv ND\nND 0.20 0.033 ppbv ND\nND 0.50 0.016 ppbv ND\nND 0.20 0.019 ppbv ND\nND 0.20 0.033 ppbv ND\nND 0.20 0.027 ppbv ND\nND 0.20 0.030 ppbv ND\nND 0.20 0.089 ppbv ND\nND 0.20 0.033 ppbv ND\nND 0.20 0.034 ppbv ND\nND 0.20 0.022 ppbv ND\n0.18 0.20 0.014 ppbv J 0.55\nND 0.040 0.031 ppbv ND\nND 0.20 0.050 ppbv ND\n72.5 a 0.80 0.058 ppbv 273 a\n0.037 0.040 0.019 ppbv J 0.20\n0.24 0.20 0.028 ppbv 1.3\nND 0.20 0.022 ppbv ND\nND 0.20 0.034 ppbv ND\n0.36 0.20 0.034 ppbv 1.6\n0.17 0.20 0.017 ppbv J 0.74\n0.53 0.20 0.017 ppbv 2.3\n\nRun# 2 Limits\n\n90% 65-128%\n\nJ = Indicates an estimated value\nB = Indicates analyte found in associated method blank\nN = Indicates presumptive evidence of a compound\n\nPage 2 of 3\n\nRL\n\n0.94\n0.87\n0.72\n0.98\n1.5\n1.4\n0.82\n2.1\n0.70\n0.82\n0.49\n0.69\n2.4\n3.3\n0.72\n0.82\n0.86\n0.85\n1.1\n1.4\n1.1\n1.5\n0.98\n0.98\n0.93\n0.61\n0.27\n0.59\n3.0\n0.21\n1.1\n0.51\n0.70\n0.87\n0.87\n0.87\n\n2.1\n\n2\n\nMDL Units\n\n0.41 ug/m3\n0.065 ug/m3\n0.14 ug/m3\n0.15 ug/m3\n0.13 ug/m3\n0.13 ug/m3\n0.074 ug/m3\n0.49 ug/m3\n0.039 ug/m3\n0.15 ug/m3\n0.16 ug/m3\n0.052 ug/m3\n0.50 ug/m3\n0.57 ug/m3\n0.069 ug/m3\n0.14 ug/m3\n0.027 ug/m3\n0.081 ug/m3\n0.18 ug/m3\n0.19 ug/m3\n0.16 ug/m3\n0.66 ug/m3\n0.16 ug/m3\n0.17 ug/m3\n0.10 ug/m3\n0.042 ug/m3\n0.21 ug/m3\n0.15 ug/m3\n0.22 ug/m3\n0.10 ug/m3\n0.16 ug/m3\n0.056 ug/m3\n0.12 ug/m3\n0.15 ug/m3\n0.074 ug/m3\n0.074 ug/m3\n\n6 of 11\n\nJD3794\n\nSGS LabLink@1069213 13:40 30-Mar-2020\n\nClient Sample ID:\nLab Sample ID:\nMatrix:\nMethod:\nProject:\n\nVOA TO15 List\n\nCAS No. MW\n\n(a) Result is from Run# 2\n\nCAMS 519 \nJD3794-1\nAIR - Ambient Air Comp.   Summa ID:  A990\nTO-15\nValero-CAMS, Baton Rouge, LA\n\nCompound\n\nReport of Analysis\n\nResult\n\n2.1\n\n2\n\nPage 3 of 3\n\nDate Sampled: 02/20/20 \nDate Received: 02/27/20 \nPercent Solids: n/a\n\nRL MDL Units Q Result RL MDL Units\n\nND = Not detected MDL = Method Detection Limit\nRL = Reporting Limit\nE = Indicates value exceeds calibration range\n\nJ = Indicates an estimated value\nB = Indicates analyte found in associated method blank\nN = Indicates presumptive evidence of a compound\n\n7 of 11\n\nJD3794\n\nSGS LabLink@1069213 13:40 30-Mar-2020\n\nDayton, NJ\n\nMisc. Forms\n\nCustody Documents and Other Forms\n\n3\nSection 3\n\nIncludes the following where applicable:\n\n Chain of Custody\n Summa Canister and Flow Controller Log\n\n8 of 11\n\nJD3794\n\nContaci\n\nDay\nDay\nDay\n\nDay\n\nForm:SM088-03D (revised\n\nLA.-A\n\nE-mail\n\nApprovod By:\n\nDatg:\n\n2-1 2-1 8)\n\nAIR CHAIN OF CUSTODY\n\nSGS North  America  lnc. - Dayton\n2235 Route  '1 30, Dayton, NJ 08810\nrEt.732-329-0200  FAx 732-329-3499\n\nNJDEP TO-'15 is mandatory Full T1\n\nPAGE OF\n\n3.1\n\n3\n\nis verified upon receipt in the Labora\n\nhttp  J/www.  sgs.com/en/terms-and-cond itions\n\nJD3794: Chain of Custody\n\nPage 1 of 2\n\n9 of 11\n\nJD3794\n\nJob Number:\n\nDate / Time Received:\n\nCooler Temps (Raw Measured) °C:\n\nCooler Temps (Corrected) °C:\n\nCooler Security\n\n1. Custody Seals Present:\n\n2. Custody Seals Intact:\n\nCooler Temperature\n\n1. Temp criteria achieved:\n\nJD3794\n\n2/27/2020 10:45:00 AM\n\nY   or   N\n\nY   or   N\n\nClient: PROVIDENCE ENG\n\nDelivery Method:\n\n3. COC Present:\n\n4. Smpl Dates/Time OK\n\n2. Cooler temp verification: N/A\n\n3. Cooler media: N/A\n\n4. No. Coolers: N/A\n\nQuality Control  Preservation   Y    or   N        N/A\n\n1. Trip Blank present / cooler:\n\n2. Trip Blank listed on COC:\n\n3. Samples preserved properly:\n\n4. VOCs headspace free:\n\nTest Strip Lot #s: 229517pH 1-12:\n\nComments\n\nSM089-03\nRev. Date 12/7/17\n\nSGS Sample Receipt Summary\n\nProject: PROVIDENCE - CAMS\n\nAirbill #'s: 3.1\n\n3\n\nY   or   N   Sample Integrity - Documentation   Y     or     N\n\n1. Sample labels present on bottles:\n\n2. Container labeling complete:\n\n3. Sample container label / COC agree:\n\nY     or     N  Sample Integrity - Condition\n\n1. Sample recvd within HT:\n\n2. All containers accounted for:\n\n3. Condition of sample:\n\nSample Integrity - Instructions\n\n1. Analysis requested is clear:\n\n2. Bottles received for unspecified tests\n\n3. Sufficient volume recvd for analysis:\n\nIntact\n\nY     or    N          N/A\n\n4. Compositing instructions clear:\n\n5. Filtering instructions clear:\n\nOther:  (Specify)208717pH 12+:\n\nJD3794: Chain of Custody\n\nPage 2 of 2\n\n10 of 11\n\nJD3794\n\nSumma Canister and Flow Controller Log\nJob Number:\nAccount:\nProject:\nReceived:\n\nSUMMA CANISTERS\nShipping Receiving\nSumma\nID L\n\nA990 6\n\nSGS Bottle Order(s):\nVP-012420-47\n\nPrep Date\n01/27/20\n\nJD3794\nPROVLABR Providence Engineering\nValero-CAMS, Baton Rouge, LA\n02/27/20\n\nVac Date\n\" Hg Out By\n\n29.4 01/27/20 JT\n\nRoom Temp(F)\n70\n\nSCC SCC\nBatch FileID\n\nCP10662 3W71339.D\n\nBar Pres \"Hg\n29.92\n\nSample Date\nNumber In By\n\nJD3794-1 03/02/20 EH\n\nPage 1 of 1     \n3.2\n\n3\n\nVac Pres Final Dil\n\" Hg psig psig Fact\n\n2 1\n\n11 of 11\n\nJD3794\n\n10.1 0.20 0.11 ppbv 24.0\nND 0.20 0.046 ppbv ND\n0.20 0.20 0.012 ppbv 0.64\nND 0.20 0.027 ppbv ND\nND 0.20 0.037 ppbv ND\nND 0.20 0.022 ppbv ND\nND 0.20 0.022 ppbv ND\nND 0.20 0.057 ppbv ND\nND 0.20 0.024 ppbv ND\nND 0.20 0.026 ppbv ND\nND 0.20 0.048 ppbv ND\nND 0.20 0.020 ppbv ND\n0.75 0.20 0.015 ppbv 1.5\nND 0.20 0.040 ppbv ND\nND 0.20 0.025 ppbv ND\nND 0.20 0.024 ppbv ND\n1.5 0.20 0.022 ppbv 5.2\nND 0.20 0.012 ppbv ND\nND 0.20 0.017 ppbv ND\nND 0.20 0.018 ppbv ND\nND 0.20 0.021 ppbv ND\nND 0.20 0.019 ppbv ND\nND 0.20 0.052 ppbv ND\n0.48 0.20 0.017 ppbv 2.4\nND 0.20 0.033 ppbv ND\nND 0.20 0.0073 ppbv ND\nND 0.20 0.012 ppbv ND\nND 0.20 0.020 ppbv ND\nND 0.20 0.019 ppbv ND\nND 0.20 0.022 ppbv ND\nND 0.20 0.018 ppbv ND\nND 0.20 0.020 ppbv ND\n\n4.1 0.50 0.22 ppbv 7.7\nND 0.20 0.015 ppbv ND\n0.11 0.20 0.038 ppbv J 0.40\nND 0.20 0.030 ppbv ND\nND 0.20 0.017 ppbv ND\nND 0.20 0.019 ppbv ND\n0.14 0.20 0.018 ppbv J 0.57\nND 0.20 0.046 ppbv ND\n19.1 0.20 0.011 ppbv 67.3\nND 0.20 0.036 ppbv ND\n0.60 0.20 0.065 ppbv 1.5\n1.4 0.20 0.015 ppbv 4.9\n59.2 a 0.80 0.17 ppbv 175 a\n40.8 a 0.80 0.14 ppbv 167 a\nND 0.20 0.019 ppbv ND\nND 0.20 0.033 ppbv ND\nND 0.50 0.016 ppbv ND\nND 0.20 0.019 ppbv ND\nND 0.20 0.033 ppbv ND\nND 0.20 0.027 ppbv ND\nND 0.20 0.030 ppbv ND\nND 0.20 0.089 ppbv ND\nND 0.20 0.033 ppbv ND\nND 0.20 0.034 ppbv ND\nND 0.20 0.022 ppbv ND\n0.18 0.20 0.014 ppbv J 0.55\nND 0.040 0.031 ppbv ND\nND 0.20 0.050 ppbv ND\n72.5 a 0.80 0.058 ppbv 273 a\n0.037 0.040 0.019 ppbv J 0.20\n0.24 0.20 0.028 ppbv 1.3\nND 0.20 0.022 ppbv ND\nND 0.20 0.034 ppbv ND\n0.36 0.20 0.034 ppbv 1.6\n0.17 0.20 0.017 ppbv J 0.74\n0.53 0.20 0.017 ppbv 2.3\n\nJob Number: JD3794 Client: PROVIDENCE ENG Project: PROVIDENCE - CAMS\nDelivery Method: Date / Time Received: 2/27/2020 10:45:00 AM\nCooler Temps (Raw Measured) °C: Cooler Temps (Corrected) °C: Cooler Security Y or N Y or N Sample Integrity - Documentation Y or N\n3. COC Present: 1. Custody Seals Present: 4. Smpl Dates/Time OK 2. Custody Seals Intact: Cooler Temperature Y or N 1. Sample labels present on bottles: 2. Container labeling complete: 3. Sample container label / COC agree:\n1. Temp criteria achieved:\n1. Sample recvd within HT:\n3. Cooler media: N/A\n4. No. Coolers: N/A\n\n1. Trip Blank present / cooler: 2. Trip Blank listed on COC: 3. Samples preserved properly: 4. VOCs headspace free: 1. Analysis requested is clear: 2. Bottles received for unspecified tests 3. Sufficient volume recvd for analysis: 4. Compositing instructions clear: 5. Filtering instructions clear:\nTest Strip Lot #s: 229517pH1-12:\n\nND = Not detected MDL = Method Detection Limit J = Indicates an estimated value \nRL = Reporting Limit B = Indicates analyte found in associated method blank\nE = Indicates value exceeds calibration range N = Indicates presumptive evidence of a compound\n\nDayton, NJ 3\nSection 3\n\nSGS America North Dayton lnc. -\n30,  2235 Route Dayton,  '1 NJ  08810\nrEt.732-329-0200 FAx  732-329-3499\n\nSumma Canister and Flow Controller Log Page 1 of 1 \nJob Number: JD3794  3.2\nAccount: PROVLABR Providence Engineering \nProject: Valero-CAMS, Baton Rouge, LA 3\nReceived: 02/27/20"
+  }
+}

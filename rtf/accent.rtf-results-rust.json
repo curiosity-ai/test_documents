@@ -1,0 +1,26 @@
+{
+  "file": "rtf/accent.rtf",
+  "mime_type": "application/rtf",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "word_count": 7,
+      "line_count": 1,
+      "source_index": 0,
+      "final_uri": "rtf/accent.rtf",
+      "source_uri": "rtf/accent.rtf",
+      "character_count": 25,
+      "paragraph_count": 1,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>le café où on ne fume pas</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"le café où on ne fume pas\"}]}",
+    "markdown": "le café où on ne fume pas\n",
+    "plain": "le café où on ne fume pas"
+  }
+}

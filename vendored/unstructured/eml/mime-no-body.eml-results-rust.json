@@ -1,0 +1,39 @@
+{
+  "file": "vendored/unstructured/eml/mime-no-body.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Image Only Email",
+    "created_at": "Tue, 01 Oct 2024 12:34:56 -0500",
+    "format": {
+      "format_type": "email",
+      "from_email": "sender@example.com",
+      "to_emails": [
+        "recipient@example.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "attachments": [
+        "image.jpg"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "vendored/unstructured/eml/mime-no-body.eml",
+      "attachment_details": "image.jpg|image/jpeg|652",
+      "source_kind": "uri",
+      "mime_version": "1.0",
+      "content_type": "multipart/mixed; boundary=\"boundary123\"",
+      "final_uri": "vendored/unstructured/eml/mime-no-body.eml"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Image Only Email</p>\n<p><strong>From</strong>: sender@example.com</p>\n<p><strong>To</strong>: recipient@example.com</p>\n<p><strong>Date</strong>: Tue, 01 Oct 2024 12:34:56 -0500</p>\n<p>Attachments:</p>\n<p> image.jpg (652B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  image.jpg (652B)\"}]}",
+    "markdown": "**Subject**: Image Only Email\n\n**From**: sender@example.com\n\n**To**: recipient@example.com\n\n**Date**: Tue, 01 Oct 2024 12:34:56 -0500\n\nAttachments:\n\n image.jpg (652B)\n",
+    "plain": "Subject: Image Only Email\nFrom: sender@example.com\nTo: recipient@example.com\nDate: Tue, 01 Oct 2024 12:34:56 -0500\n\nAttachments:\n\n  image.jpg (652B)"
+  }
+}

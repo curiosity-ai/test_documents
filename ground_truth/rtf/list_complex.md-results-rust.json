@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/rtf/list_complex.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/rtf/list_complex.md",
+      "final_uri": "ground_truth/rtf/list_complex.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>One</p>\n<p>Two</p>\n<ul>\n<li>\n<ul>\n<li>Three\n<ul>\n<li>Five\n<ul>\n<li>Seven\n<ul>\n<li>Nine\n<ul>\n<li>Eleven</li>\n<li>Twelve</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p>Out of list!</p>\n<p>Start with</p>\n<p>Seven Start</p>\n<p>Eight Continue</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"One\"},{\"type\":\"paragraph\",\"text\":\"Two\"},{\"type\":\"list\",\"ordered\":false,\"items\":[]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Three\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Five\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Seven\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Nine\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Eleven\",\"Twelve\"]},{\"type\":\"paragraph\",\"text\":\"Out of list!\"},{\"type\":\"paragraph\",\"text\":\"Start with\"},{\"type\":\"paragraph\",\"text\":\"Seven Start\"},{\"type\":\"paragraph\",\"text\":\"Eight Continue\"}]}",
+    "markdown": "One\n\nTwo\n\n- - Three\n    - Five\n      - Seven\n        - Nine\n          - Eleven\n          - Twelve\n\nOut of list\\!\n\nStart with\n\nSeven Start\n\nEight Continue\n",
+    "plain": "One\n\nTwo\n\nThree\nFive\nSeven\nNine\nEleven\nTwelve\nOut of list!\n\nStart with\n\nSeven Start\n\nEight Continue"
+  }
+}

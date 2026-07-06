@@ -1,0 +1,32 @@
+{
+  "file": "odt/formula.odt",
+  "mime_type": "application/vnd.oasis.opendocument.text",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Martin Linnemann"
+    ],
+    "created_at": "2015-03-01T17:26:12.31",
+    "modified_at": "2015-03-01T18:07:27.67",
+    "created_by": "Martin Linnemann",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "editing_duration": "PT10M3S",
+      "source_uri": "odt/formula.odt",
+      "final_uri": "odt/formula.odt",
+      "editing_cycles": "2",
+      "source_index": 0,
+      "generator": "OpenOffice/4.0.1$Win32 OpenOffice.org_project/401m5$Build-9714",
+      "initial_creator": "Martin Linnemann"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><span data-math-style=\"display\">E = m ⋅ c^2</span></p>\n",
+    "json": "{\"body\":[{\"type\":\"formula\",\"text\":\"E = m ⋅ c^2\"}]}",
+    "markdown": "$$E = m ⋅ c^2$$\n",
+    "plain": "E = m ⋅ c^2"
+  }
+}

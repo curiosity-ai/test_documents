@@ -1,0 +1,134 @@
+{
+  "file": "ground_truth/html/complex_table.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Quarterly Sales Report",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/html/complex_table.md",
+      "final_uri": "ground_truth/html/complex_table.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Region",
+          "2024 Sales (in thousands)",
+          "",
+          "",
+          "",
+          "Total"
+        ],
+        [
+          "Q1",
+          "Q2",
+          "Q3",
+          "Q4",
+          "",
+          ""
+        ],
+        [
+          "North America",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "USA",
+          "$150",
+          "$180",
+          "$165",
+          "$200",
+          "$695"
+        ],
+        [
+          "Canada",
+          "$45",
+          "$52",
+          "$48",
+          "$60",
+          "$205"
+        ],
+        [
+          "Europe",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "UK",
+          "$80",
+          "$95",
+          "$88",
+          "$110",
+          "$373"
+        ],
+        [
+          "Germany",
+          "$65",
+          "$75",
+          "$70",
+          "$85",
+          "$295"
+        ],
+        [
+          "France",
+          "$40",
+          "$48",
+          "$45",
+          "$55",
+          "$188"
+        ],
+        [
+          "**Grand Total**",
+          "**$380**",
+          "**$450**",
+          "**$416**",
+          "**$510**",
+          "**$1,756**"
+        ]
+      ],
+      "markdown": "| Region | 2024 Sales (in thousands) |  |  |  | Total |\n| --- | --- | --- | --- | --- | --- |\n| Q1 | Q2 | Q3 | Q4 |  |  |\n| North America |  |  |  |  |  |\n| USA | $150 | $180 | $165 | $200 | $695 |\n| Canada | $45 | $52 | $48 | $60 | $205 |\n| Europe |  |  |  |  |  |\n| UK | $80 | $95 | $88 | $110 | $373 |\n| Germany | $65 | $75 | $70 | $85 | $295 |\n| France | $40 | $48 | $45 | $55 | $188 |\n| **Grand Total** | **$380** | **$450** | **$416** | **$510** | **$1,756** |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Metric",
+          "Target",
+          "Actual",
+          "Status"
+        ],
+        [
+          "Annual Revenue",
+          "$1,500K",
+          "$1,756K",
+          "✓ Exceeded"
+        ],
+        [
+          "Growth Rate",
+          "10%",
+          "17%",
+          "✓ Exceeded"
+        ]
+      ],
+      "markdown": "| Metric | Target | Actual | Status |\n| --- | --- | --- | --- |\n| Annual Revenue | $1,500K | $1,756K | ✓ Exceeded |\n| Growth Rate | 10% | 17% | ✓ Exceeded |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Quarterly Sales Report</h1>\n<table>\n<thead>\n<tr>\n<th>Region</th>\n<th>2024 Sales (in thousands)</th>\n<th></th>\n<th></th>\n<th></th>\n<th>Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Q1</td>\n<td>Q2</td>\n<td>Q3</td>\n<td>Q4</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>North America</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>USA</td>\n<td>$150</td>\n<td>$180</td>\n<td>$165</td>\n<td>$200</td>\n<td>$695</td>\n</tr>\n<tr>\n<td>Canada</td>\n<td>$45</td>\n<td>$52</td>\n<td>$48</td>\n<td>$60</td>\n<td>$205</td>\n</tr>\n<tr>\n<td>Europe</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>UK</td>\n<td>$80</td>\n<td>$95</td>\n<td>$88</td>\n<td>$110</td>\n<td>$373</td>\n</tr>\n<tr>\n<td>Germany</td>\n<td>$65</td>\n<td>$75</td>\n<td>$70</td>\n<td>$85</td>\n<td>$295</td>\n</tr>\n<tr>\n<td>France</td>\n<td>$40</td>\n<td>$48</td>\n<td>$45</td>\n<td>$55</td>\n<td>$188</td>\n</tr>\n<tr>\n<td>**Grand Total**</td>\n<td>**$380**</td>\n<td>**$450**</td>\n<td>**$416**</td>\n<td>**$510**</td>\n<td>**$1,756**</td>\n</tr>\n</tbody>\n</table>\n<h2>Performance Metrics</h2>\n<table>\n<thead>\n<tr>\n<th>Metric</th>\n<th>Target</th>\n<th>Actual</th>\n<th>Status</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Annual Revenue</td>\n<td>$1,500K</td>\n<td>$1,756K</td>\n<td>✓ Exceeded</td>\n</tr>\n<tr>\n<td>Growth Rate</td>\n<td>10%</td>\n<td>17%</td>\n<td>✓ Exceeded</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Quarterly Sales Report\",\"level\":1,\"body\":[{\"type\":\"table\",\"headers\":[\"Region\",\"2024 Sales (in thousands)\",\"\",\"\",\"\",\"Total\"],\"rows\":[[\"Q1\",\"Q2\",\"Q3\",\"Q4\",\"\",\"\"],[\"North America\",\"\",\"\",\"\",\"\",\"\"],[\"USA\",\"$150\",\"$180\",\"$165\",\"$200\",\"$695\"],[\"Canada\",\"$45\",\"$52\",\"$48\",\"$60\",\"$205\"],[\"Europe\",\"\",\"\",\"\",\"\",\"\"],[\"UK\",\"$80\",\"$95\",\"$88\",\"$110\",\"$373\"],[\"Germany\",\"$65\",\"$75\",\"$70\",\"$85\",\"$295\"],[\"France\",\"$40\",\"$48\",\"$45\",\"$55\",\"$188\"],[\"**Grand Total**\",\"**$380**\",\"**$450**\",\"**$416**\",\"**$510**\",\"**$1,756**\"]]},{\"type\":\"section\",\"heading\":\"Performance Metrics\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Metric\",\"Target\",\"Actual\",\"Status\"],\"rows\":[[\"Annual Revenue\",\"$1,500K\",\"$1,756K\",\"✓ Exceeded\"],[\"Growth Rate\",\"10%\",\"17%\",\"✓ Exceeded\"]]}]}]}]}",
+    "markdown": "# Quarterly Sales Report\n\n| Region | 2024 Sales (in thousands) |  |  |  | Total |\n| --- | --- | --- | --- | --- | --- |\n| Q1 | Q2 | Q3 | Q4 |  |  |\n| North America |  |  |  |  |  |\n| USA | $150 | $180 | $165 | $200 | $695 |\n| Canada | $45 | $52 | $48 | $60 | $205 |\n| Europe |  |  |  |  |  |\n| UK | $80 | $95 | $88 | $110 | $373 |\n| Germany | $65 | $75 | $70 | $85 | $295 |\n| France | $40 | $48 | $45 | $55 | $188 |\n| **Grand Total** | **$380** | **$450** | **$416** | **$510** | **$1,756** |\n\n## Performance Metrics\n\n| Metric | Target | Actual | Status |\n| --- | --- | --- | --- |\n| Annual Revenue | $1,500K | $1,756K | ✓ Exceeded |\n| Growth Rate | 10% | 17% | ✓ Exceeded |\n",
+    "plain": "Quarterly Sales Report\nRegion 2024 Sales (in thousands)    Total\nQ1 Q2 Q3 Q4  \nNorth America     \nUSA $150 $180 $165 $200 $695\nCanada $45 $52 $48 $60 $205\nEurope     \nUK $80 $95 $88 $110 $373\nGermany $65 $75 $70 $85 $295\nFrance $40 $48 $45 $55 $188\n**Grand Total** **$380** **$450** **$416** **$510** **$1,756**\n\n  Performance Metrics\nMetric Target Actual Status\nAnnual Revenue $1,500K $1,756K ✓ Exceeded\nGrowth Rate 10% 17% ✓ Exceeded"
+  }
+}

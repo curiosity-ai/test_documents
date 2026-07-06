@@ -1,0 +1,28 @@
+{
+  "file": "odt/inlinedCode.odt",
+  "mime_type": "application/vnd.oasis.opendocument.text",
+  "success": true,
+  "metadata": {
+    "created_at": "2015-03-01T17:26:12.31",
+    "modified_at": "2016-10-28T13:05:58.689900775",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "editing_cycles": "6",
+      "editing_duration": "PT12M5S",
+      "source_kind": "uri",
+      "generator": "LibreOffice/4.4.6.3$Linux_X86_64 LibreOffice_project/40m0$Build-3",
+      "source_uri": "odt/inlinedCode.odt",
+      "final_uri": "odt/inlinedCode.odt",
+      "initial_creator": "Martin Linnemann",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Here comes inlined code text and an another one.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Here comes inlined code text and an another one.\"}]}",
+    "markdown": "Here comes inlined code text and an another one.\n",
+    "plain": "Here comes inlined code text and an another one."
+  }
+}

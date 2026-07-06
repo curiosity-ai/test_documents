@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/email-inline-content-disposition.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 4,
+      "word_count": 15,
+      "character_count": 115
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/eml/email-inline-content-disposition.txt",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/eml/email-inline-content-disposition.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Testing Inline From: &quot;Test User&quot; &lt;testuser@example.com&gt; To: recipient@example.com This is a test of inline</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Testing Inline\\nFrom: \\\"Test User\\\" <testuser@example.com>\\nTo: recipient@example.com\\nThis is a test of inline\"}]}",
+    "markdown": "Subject: Testing Inline From: \"Test User\" \\<testuser@example.com\\> To: recipient@example.com This is a test of inline\n",
+    "plain": "Subject: Testing Inline\nFrom: \"Test User\" <testuser@example.com>\nTo: recipient@example.com\nThis is a test of inline"
+  }
+}

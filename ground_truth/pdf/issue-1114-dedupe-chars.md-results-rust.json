@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pdf/issue-1114-dedupe-chars.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/pdf/issue-1114-dedupe-chars.md",
+      "source_uri": "ground_truth/pdf/issue-1114-dedupe-chars.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Simple</h2>\n<h2>Duplicated</h2>\n<h2>Font</h2>\n<h2>Size</h2>\n<h2>Italic</h2>\n<h2>Weight</h2>\n<h2>Horizontal shift</h2>\n<h2>Vertical shift</h2>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Simple\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Duplicated\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Font\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Size\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Italic\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Weight\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Horizontal shift\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Vertical shift\",\"level\":2,\"body\":[]}]}",
+    "markdown": "## Simple\n\n## Duplicated\n\n## Font\n\n## Size\n\n## Italic\n\n## Weight\n\n## Horizontal shift\n\n## Vertical shift\n",
+    "plain": "  Simple\n\n  Duplicated\n\n  Font\n\n  Size\n\n  Italic\n\n  Weight\n\n  Horizontal shift\n\n  Vertical shift"
+  }
+}

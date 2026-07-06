@@ -1,0 +1,533 @@
+{
+  "file": "vendored/docling/html/table_06.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "html",
+      "keywords": [],
+      "open_graph": {},
+      "twitter_card": {},
+      "meta_tags": {},
+      "headers": [
+        {
+          "level": 1,
+          "text": "Header",
+          "depth": 2,
+          "html_offset": 0
+        }
+      ],
+      "links": [],
+      "images": [],
+      "structured_data": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/docling/html/table_06.html",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "vendored/docling/html/table_06.html"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "I",
+          "II"
+        ],
+        [
+          "III",
+          "IV"
+        ],
+        [
+          "V",
+          "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |"
+        ],
+        [
+          "VII",
+          "VIII"
+        ]
+      ],
+      "markdown": "| I | II |\n| --- | --- |\n| III | IV |\n| V | | E1 | E2 |\n| --- | --- |\n| E3 | E4 | |\n| VII | VIII |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "I",
+          "II"
+        ],
+        [
+          "III",
+          "IV"
+        ],
+        [
+          "V",
+          "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |"
+        ],
+        [
+          "VII",
+          "VIII"
+        ]
+      ],
+      "markdown": "| I | II |\n| --- | --- |\n| III | IV |\n| V | | E1 | E2 |\n| --- | --- |\n| E3 | E4 | |\n| VII | VIII |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "A1",
+          "B1",
+          "C1"
+        ],
+        [
+          "D1",
+          "| I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII |",
+          "F1"
+        ]
+      ],
+      "markdown": "| A1 | B1 | C1 |\n| --- | --- | --- |\n| D1 | | I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII | | F1 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "I",
+          "II"
+        ],
+        [
+          "III",
+          "IV"
+        ],
+        [
+          "V",
+          "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |"
+        ],
+        [
+          "VII",
+          "VIII"
+        ]
+      ],
+      "markdown": "| I | II |\n| --- | --- |\n| III | IV |\n| V | | E1 | E2 |\n| --- | --- |\n| E3 | E4 | |\n| VII | VIII |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "I",
+          "II"
+        ],
+        [
+          "III",
+          "IV"
+        ],
+        [
+          "V",
+          "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |"
+        ],
+        [
+          "VII",
+          "VIII"
+        ]
+      ],
+      "markdown": "| I | II |\n| --- | --- |\n| III | IV |\n| V | | E1 | E2 |\n| --- | --- |\n| E3 | E4 | |\n| VII | VIII |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "A1",
+          "B1",
+          "C1"
+        ],
+        [
+          "D1",
+          "| I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII |",
+          "F1"
+        ]
+      ],
+      "markdown": "| A1 | B1 | C1 |\n| --- | --- | --- |\n| D1 | | I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII | | F1 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "A",
+          "B"
+        ],
+        [
+          "- A1 B1 C1\n- D1 | I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII | F1",
+          "2..."
+        ]
+      ],
+      "markdown": "| A | B |\n| --- | --- |\n| - A1 B1 C1\n- D1 | I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII | F1 | 2... |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 2
+    },
+    {
+      "cells": [
+        [
+          "I",
+          "II"
+        ],
+        [
+          "III",
+          "IV"
+        ],
+        [
+          "V",
+          "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |"
+        ],
+        [
+          "VII",
+          "VIII"
+        ]
+      ],
+      "markdown": "| I | II |\n| --- | --- |\n| III | IV |\n| V | | E1 | E2 |\n| --- | --- |\n| E3 | E4 | |\n| VII | VIII |\n",
+      "page_number": 3
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 4
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 5
+    },
+    {
+      "cells": [
+        [
+          "I",
+          "II"
+        ],
+        [
+          "III",
+          "IV"
+        ],
+        [
+          "V",
+          "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |"
+        ],
+        [
+          "VII",
+          "VIII"
+        ]
+      ],
+      "markdown": "| I | II |\n| --- | --- |\n| III | IV |\n| V | | E1 | E2 |\n| --- | --- |\n| E3 | E4 | |\n| VII | VIII |\n",
+      "page_number": 6
+    },
+    {
+      "cells": [
+        [
+          "A1",
+          "B1",
+          "C1"
+        ],
+        [
+          "D1",
+          "| I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII |",
+          "F1"
+        ]
+      ],
+      "markdown": "| A1 | B1 | C1 |\n| --- | --- | --- |\n| D1 | | I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII | | F1 |\n",
+      "page_number": 7
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 8
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 9
+    },
+    {
+      "cells": [
+        [
+          "I",
+          "II"
+        ],
+        [
+          "III",
+          "IV"
+        ],
+        [
+          "V",
+          "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |"
+        ],
+        [
+          "VII",
+          "VIII"
+        ]
+      ],
+      "markdown": "| I | II |\n| --- | --- |\n| III | IV |\n| V | | E1 | E2 |\n| --- | --- |\n| E3 | E4 | |\n| VII | VIII |\n",
+      "page_number": 10
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 11
+    },
+    {
+      "cells": [
+        [
+          "E1",
+          "E2"
+        ],
+        [
+          "E3",
+          "E4"
+        ]
+      ],
+      "markdown": "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |\n",
+      "page_number": 12
+    },
+    {
+      "cells": [
+        [
+          "I",
+          "II"
+        ],
+        [
+          "III",
+          "IV"
+        ],
+        [
+          "V",
+          "| E1 | E2 |\n| --- | --- |\n| E3 | E4 |"
+        ],
+        [
+          "VII",
+          "VIII"
+        ]
+      ],
+      "markdown": "| I | II |\n| --- | --- |\n| III | IV |\n| V | | E1 | E2 |\n| --- | --- |\n| E3 | E4 | |\n| VII | VIII |\n",
+      "page_number": 13
+    },
+    {
+      "cells": [
+        [
+          "A1",
+          "B1",
+          "C1"
+        ],
+        [
+          "D1",
+          "| I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII |",
+          "F1"
+        ]
+      ],
+      "markdown": "| A1 | B1 | C1 |\n| --- | --- | --- |\n| D1 | | I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII | | F1 |\n",
+      "page_number": 14
+    },
+    {
+      "cells": [
+        [
+          "A",
+          "B"
+        ],
+        [
+          "- A1 B1 C1\n- D1 | I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII | F1",
+          "2..."
+        ]
+      ],
+      "markdown": "| A | B |\n| --- | --- |\n| - A1 B1 C1\n- D1 | I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII | F1 | 2... |\n",
+      "page_number": 15
+    }
+  ],
+  "content": {
+    "html": "<h1>Header</h1>\n<p>This is the first paragraph.</p>\n<table>\n<thead>\n<tr>\n<th>E1</th>\n<th>E2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>E3</td>\n<td>E4</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>E1</th>\n<th>E2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>E3</td>\n<td>E4</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>I</th>\n<th>II</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>III</td>\n<td>IV</td>\n</tr>\n<tr>\n<td>V</td>\n<td>| E1 | E2 | | --- | --- | | E3 | E4 |</td>\n</tr>\n<tr>\n<td>VII</td>\n<td>VIII</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>E1</th>\n<th>E2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>E3</td>\n<td>E4</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>E1</th>\n<th>E2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>E3</td>\n<td>E4</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>I</th>\n<th>II</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>III</td>\n<td>IV</td>\n</tr>\n<tr>\n<td>V</td>\n<td>| E1 | E2 | | --- | --- | | E3 | E4 |</td>\n</tr>\n<tr>\n<td>VII</td>\n<td>VIII</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>A1</th>\n<th>B1</th>\n<th>C1</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>D1</td>\n<td>| I | II | | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | | III | IV | | V | | E1 | E2 | | --- | --- | | E3 | E4 | | | VII | VIII |</td>\n<td>F1</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>E1</th>\n<th>E2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>E3</td>\n<td>E4</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>E1</th>\n<th>E2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>E3</td>\n<td>E4</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>I</th>\n<th>II</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>III</td>\n<td>IV</td>\n</tr>\n<tr>\n<td>V</td>\n<td>| E1 | E2 | | --- | --- | | E3 | E4 |</td>\n</tr>\n<tr>\n<td>VII</td>\n<td>VIII</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>E1</th>\n<th>E2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>E3</td>\n<td>E4</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>E1</th>\n<th>E2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>E3</td>\n<td>E4</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>I</th>\n<th>II</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>III</td>\n<td>IV</td>\n</tr>\n<tr>\n<td>V</td>\n<td>| E1 | E2 | | --- | --- | | E3 | E4 |</td>\n</tr>\n<tr>\n<td>VII</td>\n<td>VIII</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>A1</th>\n<th>B1</th>\n<th>C1</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>D1</td>\n<td>| I | II | | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | | III | IV | | V | | E1 | E2 | | --- | --- | | E3 | E4 | | | VII | VIII |</td>\n<td>F1</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>A</th>\n<th>B</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>- A1 B1 C1 - D1 | I | II | | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | | III | IV | | V | | E1 | E2 | | --- | --- | | E3 | E4 | | | VII | VIII | F1</td>\n<td>2...</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Header\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is the first paragraph.\"},{\"type\":\"table\",\"headers\":[\"E1\",\"E2\"],\"rows\":[[\"E3\",\"E4\"]]},{\"type\":\"table\",\"headers\":[\"E1\",\"E2\"],\"rows\":[[\"E3\",\"E4\"]]},{\"type\":\"table\",\"headers\":[\"I\",\"II\"],\"rows\":[[\"III\",\"IV\"],[\"V\",\"| E1 | E2 |\\n| --- | --- |\\n| E3 | E4 |\"],[\"VII\",\"VIII\"]]},{\"type\":\"table\",\"headers\":[\"E1\",\"E2\"],\"rows\":[[\"E3\",\"E4\"]]},{\"type\":\"table\",\"headers\":[\"E1\",\"E2\"],\"rows\":[[\"E3\",\"E4\"]]},{\"type\":\"table\",\"headers\":[\"I\",\"II\"],\"rows\":[[\"III\",\"IV\"],[\"V\",\"| E1 | E2 |\\n| --- | --- |\\n| E3 | E4 |\"],[\"VII\",\"VIII\"]]},{\"type\":\"table\",\"headers\":[\"A1\",\"B1\",\"C1\"],\"rows\":[[\"D1\",\"| I | II |\\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\\n| III | IV |\\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\\n| VII | VIII |\",\"F1\"]]},{\"type\":\"table\",\"headers\":[\"E1\",\"E2\"],\"rows\":[[\"E3\",\"E4\"]]},{\"type\":\"table\",\"headers\":[\"E1\",\"E2\"],\"rows\":[[\"E3\",\"E4\"]]},{\"type\":\"table\",\"headers\":[\"I\",\"II\"],\"rows\":[[\"III\",\"IV\"],[\"V\",\"| E1 | E2 |\\n| --- | --- |\\n| E3 | E4 |\"],[\"VII\",\"VIII\"]]},{\"type\":\"table\",\"headers\":[\"E1\",\"E2\"],\"rows\":[[\"E3\",\"E4\"]]},{\"type\":\"table\",\"headers\":[\"E1\",\"E2\"],\"rows\":[[\"E3\",\"E4\"]]},{\"type\":\"table\",\"headers\":[\"I\",\"II\"],\"rows\":[[\"III\",\"IV\"],[\"V\",\"| E1 | E2 |\\n| --- | --- |\\n| E3 | E4 |\"],[\"VII\",\"VIII\"]]},{\"type\":\"table\",\"headers\":[\"A1\",\"B1\",\"C1\"],\"rows\":[[\"D1\",\"| I | II |\\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\\n| III | IV |\\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\\n| VII | VIII |\",\"F1\"]]},{\"type\":\"table\",\"headers\":[\"A\",\"B\"],\"rows\":[[\"- A1 B1 C1\\n- D1 | I | II |\\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\\n| III | IV |\\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\\n| VII | VIII | F1\",\"2...\"]]}]}]}",
+    "markdown": "# Header\n\nThis is the first paragraph.\n\n- A B\n- A1 B1 C1\n- D1 | I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII | F1 2...\nAfter table\n",
+    "plain": "  Header\n  This is the first paragraph.\n\nE1 E2\nE3 E4\n\nE1 E2\nE3 E4\n\nI II\nIII IV\nV | E1 | E2 |\n| --- | --- |\n| E3 | E4 |\nVII VIII\n\nE1 E2\nE3 E4\n\nE1 E2\nE3 E4\n\nI II\nIII IV\nV | E1 | E2 |\n| --- | --- |\n| E3 | E4 |\nVII VIII\n\nA1 B1 C1\nD1 | I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII | F1\n\nE1 E2\nE3 E4\n\nE1 E2\nE3 E4\n\nI II\nIII IV\nV | E1 | E2 |\n| --- | --- |\n| E3 | E4 |\nVII VIII\n\nE1 E2\nE3 E4\n\nE1 E2\nE3 E4\n\nI II\nIII IV\nV | E1 | E2 |\n| --- | --- |\n| E3 | E4 |\nVII VIII\n\nA1 B1 C1\nD1 | I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII | F1\n\nA B\n- A1 B1 C1\n- D1 | I | II |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |\n| III | IV |\n| V | | E1 | E2 | | --- | --- | | E3 | E4 | |\n| VII | VIII | F1 2..."
+  }
+}

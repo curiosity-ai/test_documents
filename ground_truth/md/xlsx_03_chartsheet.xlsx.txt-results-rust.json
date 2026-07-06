@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/xlsx_03_chartsheet.xlsx.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 8,
+      "word_count": 66,
+      "character_count": 495
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/md/xlsx_03_chartsheet.xlsx.txt",
+      "source_uri": "ground_truth/md/xlsx_03_chartsheet.xlsx.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>| Year | Freshwater Ducks | Saltwater Ducks | Ducks | |--------|--------------------|-------------------|---------| | 2019 | 120 | 80 | 200 | | 2020 | 135 | 95 | 230 | | 2021 | 150 | 100 | 250 | | 2022 | 170 | 110 | 280 | | 2023 | 160 | 120 | 280 | | 2024 | 180 | 130 | 310 |</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"|   Year |   Freshwater Ducks |   Saltwater Ducks |   Ducks |\\n|--------|--------------------|-------------------|---------|\\n|   2019 |                120 |                80 |     200 |\\n|   2020 |                135 |                95 |     230 |\\n|   2021 |                150 |               100 |     250 |\\n|   2022 |                170 |               110 |     280 |\\n|   2023 |                160 |               120 |     280 |\\n|   2024 |                180 |               130 |     310 |\"}]}",
+    "markdown": "| Year | Freshwater Ducks | Saltwater Ducks | Ducks | |--------|--------------------|-------------------|---------| | 2019 | 120 | 80 | 200 | | 2020 | 135 | 95 | 230 | | 2021 | 150 | 100 | 250 | | 2022 | 170 | 110 | 280 | | 2023 | 160 | 120 | 280 | | 2024 | 180 | 130 | 310 |\n",
+    "plain": "|   Year |   Freshwater Ducks |   Saltwater Ducks |   Ducks |\n|--------|--------------------|-------------------|---------|\n|   2019 |                120 |                80 |     200 |\n|   2020 |                135 |                95 |     230 |\n|   2021 |                150 |               100 |     250 |\n|   2022 |                170 |               110 |     280 |\n|   2023 |                160 |               120 |     280 |\n|   2024 |                180 |               130 |     310 |"
+  }
+}

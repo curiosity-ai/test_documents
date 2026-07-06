@@ -1,0 +1,22 @@
+{
+  "file": "latex/lists.tex",
+  "mime_type": "application/x-latex",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "latex/lists.tex",
+      "final_uri": "latex/lists.tex",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Lists</h1>\n<h2>Itemize</h2>\n<ul>\n<li>First item</li>\n<li>Second item</li>\n<li>Third item with nested list:\n<ul>\n<li>Nested item 1</li>\n<li>Nested item 2</li>\n</ul>\n</li>\n<li>Fourth item</li>\n</ul>\n<h2>Enumerate</h2>\n<ol>\n<li>First numbered item</li>\n<li>Second numbered item</li>\n<li>Third numbered item</li>\n</ol>\n<h2>Description</h2>\n<ul>\n<li>Term 1: Definition of term 1</li>\n<li>Term 2: Definition of term 2</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Lists\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Itemize\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"First item\",\"Second item\",\"Third item with nested list:\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Nested item 1\",\"Nested item 2\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Fourth item\"]}]},{\"type\":\"section\",\"heading\":\"Enumerate\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":true,\"items\":[\"First numbered item\",\"Second numbered item\",\"Third numbered item\"]}]},{\"type\":\"section\",\"heading\":\"Description\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"Term 1: Definition of term 1\",\"Term 2: Definition of term 2\"]}]}]}]}",
+    "markdown": "# Lists\n\n## Itemize\n\n- First item\n- Second item\n- Third item with nested list:\n  - Nested item 1\n  - Nested item 2\n- Fourth item\n\n## Enumerate\n\n1. First numbered item\n2. Second numbered item\n3. Third numbered item\n\n## Description\n\n- Term 1: Definition of term 1\n- Term 2: Definition of term 2\n",
+    "plain": "Lists\n  Itemize\nFirst item\nSecond item\nThird item with nested list:\nNested item 1\nNested item 2\nFourth item\n\n  Enumerate\nFirst numbered item\nSecond numbered item\nThird numbered item\n\n  Description\nTerm 1: Definition of term 1\nTerm 2: Definition of term 2"
+  }
+}

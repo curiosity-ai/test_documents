@@ -1,0 +1,33 @@
+{
+  "file": "vendored/pdfplumber/pdf/malformed-from-issue-932.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.7",
+      "producer": "PyPDF2",
+      "is_encrypted": false,
+      "width": 631,
+      "height": 842,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/pdfplumber/pdf/malformed-from-issue-932.pdf",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "vendored/pdfplumber/pdf/malformed-from-issue-932.pdf",
+      "extraction_method": "native"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>2021 3 31</h1>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"2021 3 31\"}]}",
+    "markdown": "# 2021 3 31\n",
+    "plain": "2021 3 31"
+  }
+}

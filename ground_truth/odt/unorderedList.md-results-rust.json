@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/odt/unorderedList.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/odt/unorderedList.md",
+      "final_uri": "ground_truth/odt/unorderedList.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<ul>\n<li>A list item</li>\n<li>A second\n<ul>\n<li>\n<ul>\n<li>And another!</li>\n<li>It's great up here!</li>\n</ul>\n</li>\n<li>Oh noes</li>\n<li>We fell!</li>\n</ul>\n</li>\n<li>Maybe someone</li>\n<li>Pushed us?</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"A list item\",\"A second\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"And another!\",\"It's great up here!\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Oh noes\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"We fell!\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Maybe someone\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Pushed us?\"]}]}",
+    "markdown": "- A list item\n- A second\n  - - And another\\!\n    - It's great up here\\!\n  - Oh noes\n  - We fell\\!\n- Maybe someone\n- Pushed us?\n",
+    "plain": "A list item\nA second\nAnd another!\nIt's great up here!\nOh noes\nWe fell!\nMaybe someone\nPushed us?"
+  }
+}

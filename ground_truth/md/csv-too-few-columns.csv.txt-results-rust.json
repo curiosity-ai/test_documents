@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/csv-too-few-columns.csv.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 6,
+      "word_count": 45,
+      "character_count": 155
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/md/csv-too-few-columns.csv.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/md/csv-too-few-columns.csv.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>| 1 | 2 | 3 | 4 | |-----|-----|-----|-----| | a | 'b' | c | d | | a | b | c | | | a | b | c | d | | a | b | c | d |</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"| 1   | 2   | 3   | 4   |\\n|-----|-----|-----|-----|\\n| a   | 'b' | c   | d   |\\n| a   | b   | c   |     |\\n| a   | b   | c   | d   |\\n| a   | b   | c   | d   |\"}]}",
+    "markdown": "| 1 | 2 | 3 | 4 | |-----|-----|-----|-----| | a | 'b' | c | d | | a | b | c | | | a | b | c | d | | a | b | c | d |\n",
+    "plain": "| 1   | 2   | 3   | 4   |\n|-----|-----|-----|-----|\n| a   | 'b' | c   | d   |\n| a   | b   | c   |     |\n| a   | b   | c   | d   |\n| a   | b   | c   | d   |"
+  }
+}

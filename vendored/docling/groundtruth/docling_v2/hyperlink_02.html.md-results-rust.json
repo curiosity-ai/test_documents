@@ -1,0 +1,22 @@
+{
+  "file": "vendored/docling/groundtruth/docling_v2/hyperlink_02.html.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "vendored/docling/groundtruth/docling_v2/hyperlink_02.html.md",
+      "final_uri": "vendored/docling/groundtruth/docling_v2/hyperlink_02.html.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2><a href=\"/home.html\">Home</a></h2>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Home\",\"level\":2,\"body\":[]}]}",
+    "markdown": "## [Home](/home.html)\n",
+    "plain": "  Home"
+  }
+}

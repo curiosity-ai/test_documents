@@ -1,0 +1,59 @@
+{
+  "file": "vendored/docling/md/ending_with_table.md.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "vendored/docling/md/ending_with_table.md.md",
+      "final_uri": "vendored/docling/md/ending_with_table.md.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Character",
+          "Name in German",
+          "Name in French",
+          "Name in Italian"
+        ],
+        [
+          "Scrooge McDuck",
+          "Dagobert Duck",
+          "Balthazar Picsou",
+          "Paperone"
+        ],
+        [
+          "Huey",
+          "Tick",
+          "Riri",
+          "Qui"
+        ],
+        [
+          "Dewey",
+          "Trick",
+          "Fifi",
+          "Quo"
+        ],
+        [
+          "Louie",
+          "Track",
+          "Loulou",
+          "Qua"
+        ]
+      ],
+      "markdown": "| Character | Name in German | Name in French | Name in Italian |\n| --- | --- | --- | --- |\n| Scrooge McDuck | Dagobert Duck | Balthazar Picsou | Paperone |\n| Huey | Tick | Riri | Qui |\n| Dewey | Trick | Fifi | Quo |\n| Louie | Track | Loulou | Qua |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>Character</th>\n<th>Name in German</th>\n<th>Name in French</th>\n<th>Name in Italian</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Scrooge McDuck</td>\n<td>Dagobert Duck</td>\n<td>Balthazar Picsou</td>\n<td>Paperone</td>\n</tr>\n<tr>\n<td>Huey</td>\n<td>Tick</td>\n<td>Riri</td>\n<td>Qui</td>\n</tr>\n<tr>\n<td>Dewey</td>\n<td>Trick</td>\n<td>Fifi</td>\n<td>Quo</td>\n</tr>\n<tr>\n<td>Louie</td>\n<td>Track</td>\n<td>Loulou</td>\n<td>Qua</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"Character\",\"Name in German\",\"Name in French\",\"Name in Italian\"],\"rows\":[[\"Scrooge McDuck\",\"Dagobert Duck\",\"Balthazar Picsou\",\"Paperone\"],[\"Huey\",\"Tick\",\"Riri\",\"Qui\"],[\"Dewey\",\"Trick\",\"Fifi\",\"Quo\"],[\"Louie\",\"Track\",\"Loulou\",\"Qua\"]]}]}",
+    "markdown": "| Character | Name in German | Name in French | Name in Italian |\n| --- | --- | --- | --- |\n| Scrooge McDuck | Dagobert Duck | Balthazar Picsou | Paperone |\n| Huey | Tick | Riri | Qui |\n| Dewey | Trick | Fifi | Quo |\n| Louie | Track | Loulou | Qua |\n",
+    "plain": "Character Name in German Name in French Name in Italian\nScrooge McDuck Dagobert Duck Balthazar Picsou Paperone\nHuey Tick Riri Qui\nDewey Trick Fifi Quo\nLouie Track Loulou Qua"
+  }
+}

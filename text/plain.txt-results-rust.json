@@ -1,0 +1,28 @@
+{
+  "file": "text/plain.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 8,
+      "character_count": 38
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "text/plain.txt",
+      "source_uri": "text/plain.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>This is a plain text file for testing.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a plain text file for testing.\"}]}",
+    "markdown": "This is a plain text file for testing.\n",
+    "plain": "This is a plain text file for testing."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/hyperlink_03.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 8,
+      "word_count": 34,
+      "character_count": 302
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/md/hyperlink_03.html.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/md/hyperlink_03.html.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>- [My Section](#) - [Some page](/start.html) - [A sub page](/home2.html) - This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text. - [Main navigation](#main-navigation) - [My organisation](#)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"- [My Section](#)\\n    - [Some page](/start.html)\\n        - [A sub page](/home2.html)\\n        - This is my [Homepage](/home.html)\\n            - List item inner\\n            - More text [with some links](/some_links.html) and more text.\\n        - [Main navigation](#main-navigation)\\n- [My organisation](#)\"}]}",
+    "markdown": "\\- [My Section](\\#) - [Some page](/start.html) - [A sub page](/home2.html) - This is my [Homepage](/home.html) - List item inner - More text [with some links](/some_links.html) and more text. - [Main navigation](\\#main-navigation) - [My organisation](\\#)\n",
+    "plain": "- [My Section](#)\n    - [Some page](/start.html)\n        - [A sub page](/home2.html)\n        - This is my [Homepage](/home.html)\n            - List item inner\n            - More text [with some links](/some_links.html) and more text.\n        - [Main navigation](#main-navigation)\n- [My organisation](#)"
+  }
+}

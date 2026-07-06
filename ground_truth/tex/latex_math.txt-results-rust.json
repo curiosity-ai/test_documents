@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/tex/latex_math.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 20,
+      "word_count": 54,
+      "character_count": 375
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/tex/latex_math.txt",
+      "source_uri": "ground_truth/tex/latex_math.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Math Formulas</p>\n<p>## Inline Math</p>\n<p>The equation $E = mc^2$ is famous. Another inline formula: $\\alpha + \\beta = \\gamma$. ## Display Math</p>\n<p>$$\\int_0^\\infty e^{-x^2} dx = \\frac{\\sqrt{\\pi}}{2}$$ ## Equation Environment</p>\n<p>$$\\begin{equation} f(x) = \\sum_{n=0}^{\\infty} \\frac{x^n}{n!} \\end{equation}$$</p>\n<p>## Align Environment</p>\n<p>$$\\begin{align} a + b &amp;= c \\\\ d + e &amp;= f \\end{align}$$</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Math Formulas\"},{\"type\":\"paragraph\",\"text\":\"## Inline Math\"},{\"type\":\"paragraph\",\"text\":\"The equation $E = mc^2$ is famous. Another inline formula: $\\\\alpha + \\\\beta = \\\\gamma$.\\n## Display Math\"},{\"type\":\"paragraph\",\"text\":\"$$\\\\int_0^\\\\infty e^{-x^2} dx = \\\\frac{\\\\sqrt{\\\\pi}}{2}$$\\n## Equation Environment\"},{\"type\":\"paragraph\",\"text\":\"$$\\\\begin{equation}\\n  f(x) = \\\\sum_{n=0}^{\\\\infty} \\\\frac{x^n}{n!}\\n\\\\end{equation}$$\"},{\"type\":\"paragraph\",\"text\":\"## Align Environment\"},{\"type\":\"paragraph\",\"text\":\"$$\\\\begin{align}\\n  a + b &= c \\\\\\\\\\n  d + e &= f\\n\\\\end{align}$$\"}]}",
+    "markdown": "\\# Math Formulas\n\n\\#\\# Inline Math\n\nThe equation $E = mc^2$ is famous. Another inline formula: $\\\\alpha + \\\\beta = \\\\gamma$. \\#\\# Display Math\n\n$$\\\\int_0^\\\\infty e^{-x^2} dx = \\\\frac{\\\\sqrt{\\\\pi}}{2}$$ \\#\\# Equation Environment\n\n$$\\\\begin{equation} f(x) = \\\\sum_{n=0}^{\\\\infty} \\\\frac{x^n}{n\\!} \\\\end{equation}$$\n\n\\#\\# Align Environment\n\n$$\\\\begin{align} a + b &= c \\\\\\\\ d + e &= f \\\\end{align}$$\n",
+    "plain": "# Math Formulas\n\n## Inline Math\n\nThe equation $E = mc^2$ is famous. Another inline formula: $\\alpha + \\beta = \\gamma$.\n## Display Math\n\n$$\\int_0^\\infty e^{-x^2} dx = \\frac{\\sqrt{\\pi}}{2}$$\n## Equation Environment\n\n$$\\begin{equation}\n  f(x) = \\sum_{n=0}^{\\infty} \\frac{x^n}{n!}\n\\end{equation}$$\n\n## Align Environment\n\n$$\\begin{align}\n  a + b &= c \\\\\n  d + e &= f\n\\end{align}$$"
+  }
+}

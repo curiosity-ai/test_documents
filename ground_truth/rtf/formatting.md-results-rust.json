@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/rtf/formatting.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/rtf/formatting.md",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/rtf/formatting.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>This is a test of FORMATTING. This is hidden: .</p>\n<p>Small Caps</p>\n<p><strong>bold</strong></p>\n<p><em>italics</em></p>\n<p><strong>bold <em>and italics</em></strong></p>\n<p>underlined</p>\n<p><del>strikeout</del></p>\n<p>xsuperscript</p>\n<p>xsubscript</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a test of FORMATTING. This is hidden: .\"},{\"type\":\"paragraph\",\"text\":\"Small Caps\"},{\"type\":\"paragraph\",\"text\":\"bold\"},{\"type\":\"paragraph\",\"text\":\"italics\"},{\"type\":\"paragraph\",\"text\":\"bold and italics\"},{\"type\":\"paragraph\",\"text\":\"underlined\"},{\"type\":\"paragraph\",\"text\":\"strikeout\"},{\"type\":\"paragraph\",\"text\":\"xsuperscript\"},{\"type\":\"paragraph\",\"text\":\"xsubscript\"}]}",
+    "markdown": "This is a test of FORMATTING. This is hidden: .\n\nSmall Caps\n\n**bold**\n\n*italics*\n\n**bold *and italics***\n\nunderlined\n\n~~strikeout~~\n\nxsuperscript\n\nxsubscript\n",
+    "plain": "This is a test of FORMATTING. This is hidden: .\n\nSmall Caps\n\nbold\n\nitalics\n\nbold and italics\n\nunderlined\n\nstrikeout\n\nxsuperscript\n\nxsubscript"
+  }
+}

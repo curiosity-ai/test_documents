@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/test_01.asciidoc.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 24,
+      "word_count": 74,
+      "character_count": 375
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/md/test_01.asciidoc.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/md/test_01.asciidoc.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Sample Document Title</p>\n<p>## Section 1</p>\n<p>This is some introductory text in section 1.</p>\n<p>## Subsection 1.1</p>\n<p>- * First list item</p>\n<p>- * Second list item</p>\n<p>This is some introductory text in section 1.1.</p>\n<p>- - A dash list item</p>\n<p>## Section 2</p>\n<p>This is some text in section 2.</p>\n<p>| Header 1 | Header 2 | |------------|------------| | Value 1 | Value 2 | | Value 3 | Value 4 |</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Sample Document Title\"},{\"type\":\"paragraph\",\"text\":\"## Section 1\"},{\"type\":\"paragraph\",\"text\":\"This is some introductory text in section 1.\"},{\"type\":\"paragraph\",\"text\":\"## Subsection 1.1\"},{\"type\":\"paragraph\",\"text\":\"- * First list item\"},{\"type\":\"paragraph\",\"text\":\"- * Second list item\"},{\"type\":\"paragraph\",\"text\":\"This is some introductory text in section 1.1.\"},{\"type\":\"paragraph\",\"text\":\"- - A dash list item\"},{\"type\":\"paragraph\",\"text\":\"## Section 2\"},{\"type\":\"paragraph\",\"text\":\"This is some text in section 2.\"},{\"type\":\"paragraph\",\"text\":\"| Header 1   | Header 2   |\\n|------------|------------|\\n| Value 1    | Value 2    |\\n| Value 3    | Value 4    |\"}]}",
+    "markdown": "\\# Sample Document Title\n\n\\#\\# Section 1\n\nThis is some introductory text in section 1.\n\n\\#\\# Subsection 1.1\n\n\\- * First list item\n\n\\- * Second list item\n\nThis is some introductory text in section 1.1.\n\n\\- - A dash list item\n\n\\#\\# Section 2\n\nThis is some text in section 2.\n\n| Header 1 | Header 2 | |------------|------------| | Value 1 | Value 2 | | Value 3 | Value 4 |\n",
+    "plain": "# Sample Document Title\n\n## Section 1\n\nThis is some introductory text in section 1.\n\n## Subsection 1.1\n\n- * First list item\n\n- * Second list item\n\nThis is some introductory text in section 1.1.\n\n- - A dash list item\n\n## Section 2\n\nThis is some text in section 2.\n\n| Header 1   | Header 2   |\n|------------|------------|\n| Value 1    | Value 2    |\n| Value 3    | Value 4    |"
+  }
+}

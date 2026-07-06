@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/csv/stanley_cups.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 6,
+      "word_count": 19,
+      "character_count": 203
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/csv/stanley_cups.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/csv/stanley_cups.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Stanley Cups -------------- ---------- -------------- Team Location Stanley Cups Blues STL 1 Flyers PHI 2 Maple Leafs TOR 13</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Stanley Cups              \\n  -------------- ---------- --------------\\n  Team           Location   Stanley Cups\\n  Blues          STL        1\\n  Flyers         PHI        2\\n  Maple Leafs    TOR        13\"}]}",
+    "markdown": "Stanley Cups -------------- ---------- -------------- Team Location Stanley Cups Blues STL 1 Flyers PHI 2 Maple Leafs TOR 13\n",
+    "plain": "Stanley Cups              \n  -------------- ---------- --------------\n  Team           Location   Stanley Cups\n  Blues          STL        1\n  Flyers         PHI        2\n  Maple Leafs    TOR        13"
+  }
+}

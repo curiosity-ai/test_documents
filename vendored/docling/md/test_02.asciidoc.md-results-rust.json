@@ -1,0 +1,131 @@
+{
+  "file": "vendored/docling/md/test_02.asciidoc.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "vendored/docling/md/test_02.asciidoc.md",
+      "source_uri": "vendored/docling/md/test_02.asciidoc.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Header 1",
+          "Header 2"
+        ],
+        [
+          "Value 1",
+          "Value 2"
+        ],
+        [
+          "Value 3",
+          "Value 4"
+        ]
+      ],
+      "markdown": "| Header 1 | Header 2 |\n| --- | --- |\n| Value 1 | Value 2 |\n| Value 3 | Value 4 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Header 1",
+          "Header 2"
+        ],
+        [
+          "Value 1",
+          "Value 2"
+        ],
+        [
+          "Value 3",
+          "Value 4"
+        ]
+      ],
+      "markdown": "| Header 1 | Header 2 |\n| --- | --- |\n| Value 1 | Value 2 |\n| Value 3 | Value 4 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Column 1 Heading",
+          "Column 2 Heading",
+          "Column 3 Heading"
+        ],
+        [
+          "Cell 1",
+          "Cell 2",
+          "Cell 3"
+        ],
+        [
+          "Cell 4",
+          "Cell 5 colspan=2",
+          "Cell spans two columns"
+        ]
+      ],
+      "markdown": "| Column 1 Heading | Column 2 Heading | Column 3 Heading |\n| --- | --- | --- |\n| Cell 1 | Cell 2 | Cell 3 |\n| Cell 4 | Cell 5 colspan=2 | Cell spans two columns |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Column 1 Heading",
+          "Column 2 Heading",
+          "Column 3 Heading"
+        ],
+        [
+          "Rowspan=2",
+          "Cell 2",
+          "Cell 3"
+        ],
+        [
+          "Cell 5",
+          "Cell 6",
+          ""
+        ]
+      ],
+      "markdown": "| Column 1 Heading | Column 2 Heading | Column 3 Heading |\n| --- | --- | --- |\n| Rowspan=2 | Cell 2 | Cell 3 |\n| Cell 5 | Cell 6 |  |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Col 1",
+          "Col 2",
+          "Col 3",
+          "Col 4"
+        ],
+        [
+          "Rowspan=2.Colspan=2",
+          "Cell spanning 2 rows and 2 columns",
+          "Col 3",
+          "Col 4"
+        ],
+        [
+          "Col 3",
+          "Col 4",
+          "",
+          ""
+        ],
+        [
+          "Col 1",
+          "Col 2",
+          "Col 3",
+          "Col 4"
+        ]
+      ],
+      "markdown": "| Col 1 | Col 2 | Col 3 | Col 4 |\n| --- | --- | --- | --- |\n| Rowspan=2.Colspan=2 | Cell spanning 2 rows and 2 columns | Col 3 | Col 4 |\n| Col 3 | Col 4 |  |  |\n| Col 1 | Col 2 | Col 3 | Col 4 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>2nd Sample Document Title</p>\n<p>This is an abstract.</p>\n<p>Section 1: Testing nestedlists</p>\n<pre><code>- First item\n- Nested item 1\n- Nested item 2\n- Second item\n- Nested ordered item 1\n- Nested ordered item 2\n- Deeper nested unordered item\n- Third item\n- Nested ordered item 1\n- Nested ordered item 2\n- Deeper nested unordered item\n- Nested ordered item 2</code></pre>\n<p>Section 2</p>\n<p>bla bla</p>\n<p>bla bla bla</p>\n<p>Section 3: test image</p>\n<p>image::images/example1.png[Example Image, width=200, height=150, align=center]</p>\n<p>.An example caption for the image</p>\n<p>image::images/example2.png[Example Image, width=200, height=150, align=center]</p>\n<p>Section 4: test tables</p>\n<table>\n<thead>\n<tr>\n<th>Header 1</th>\n<th>Header 2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Value 1</td>\n<td>Value 2</td>\n</tr>\n<tr>\n<td>Value 3</td>\n<td>Value 4</td>\n</tr>\n</tbody>\n</table>\n<p>.Caption for the table 1</p>\n<p>|===</p>\n<table>\n<thead>\n<tr>\n<th>Header 1</th>\n<th>Header 2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Value 1</td>\n<td>Value 2</td>\n</tr>\n<tr>\n<td>Value 3</td>\n<td>Value 4</td>\n</tr>\n</tbody>\n</table>\n<p>.Caption for the table 2</p>\n<p>|===</p>\n<table>\n<thead>\n<tr>\n<th>Column 1 Heading</th>\n<th>Column 2 Heading</th>\n<th>Column 3 Heading</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Cell 1</td>\n<td>Cell 2</td>\n<td>Cell 3</td>\n</tr>\n<tr>\n<td>Cell 4</td>\n<td>Cell 5 colspan=2</td>\n<td>Cell spans two columns</td>\n</tr>\n</tbody>\n</table>\n<p>.Caption for the table 3</p>\n<p>|===</p>\n<table>\n<thead>\n<tr>\n<th>Column 1 Heading</th>\n<th>Column 2 Heading</th>\n<th>Column 3 Heading</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Rowspan=2</td>\n<td>Cell 2</td>\n<td>Cell 3</td>\n</tr>\n<tr>\n<td>Cell 5</td>\n<td>Cell 6</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>.Caption for the table 4</p>\n<p>|===</p>\n<table>\n<thead>\n<tr>\n<th>Col 1</th>\n<th>Col 2</th>\n<th>Col 3</th>\n<th>Col 4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Rowspan=2.Colspan=2</td>\n<td>Cell spanning 2 rows and 2 columns</td>\n<td>Col 3</td>\n<td>Col 4</td>\n</tr>\n<tr>\n<td>Col 3</td>\n<td>Col 4</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Col 1</td>\n<td>Col 2</td>\n<td>Col 3</td>\n<td>Col 4</td>\n</tr>\n</tbody>\n</table>\n<p>SubSubSection 2.1.1</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"2nd Sample Document Title\"},{\"type\":\"paragraph\",\"text\":\"This is an abstract.\"},{\"type\":\"paragraph\",\"text\":\"Section 1: Testing nestedlists\"},{\"type\":\"code\",\"text\":\"- First item\\n- Nested item 1\\n- Nested item 2\\n- Second item\\n- Nested ordered item 1\\n- Nested ordered item 2\\n- Deeper nested unordered item\\n- Third item\\n- Nested ordered item 1\\n- Nested ordered item 2\\n- Deeper nested unordered item\\n- Nested ordered item 2\"},{\"type\":\"paragraph\",\"text\":\"Section 2\"},{\"type\":\"paragraph\",\"text\":\"bla bla\"},{\"type\":\"paragraph\",\"text\":\"bla bla bla\"},{\"type\":\"paragraph\",\"text\":\"Section 3: test image\"},{\"type\":\"paragraph\",\"text\":\"image::images/example1.png[Example Image, width=200, height=150, align=center]\"},{\"type\":\"paragraph\",\"text\":\".An example caption for the image\"},{\"type\":\"paragraph\",\"text\":\"image::images/example2.png[Example Image, width=200, height=150, align=center]\"},{\"type\":\"paragraph\",\"text\":\"Section 4: test tables\"},{\"type\":\"table\",\"headers\":[\"Header 1\",\"Header 2\"],\"rows\":[[\"Value 1\",\"Value 2\"],[\"Value 3\",\"Value 4\"]]},{\"type\":\"paragraph\",\"text\":\".Caption for the table 1\"},{\"type\":\"paragraph\",\"text\":\"|===\"},{\"type\":\"table\",\"headers\":[\"Header 1\",\"Header 2\"],\"rows\":[[\"Value 1\",\"Value 2\"],[\"Value 3\",\"Value 4\"]]},{\"type\":\"paragraph\",\"text\":\".Caption for the table 2\"},{\"type\":\"paragraph\",\"text\":\"|===\"},{\"type\":\"table\",\"headers\":[\"Column 1 Heading\",\"Column 2 Heading\",\"Column 3 Heading\"],\"rows\":[[\"Cell 1\",\"Cell 2\",\"Cell 3\"],[\"Cell 4\",\"Cell 5 colspan=2\",\"Cell spans two columns\"]]},{\"type\":\"paragraph\",\"text\":\".Caption for the table 3\"},{\"type\":\"paragraph\",\"text\":\"|===\"},{\"type\":\"table\",\"headers\":[\"Column 1 Heading\",\"Column 2 Heading\",\"Column 3 Heading\"],\"rows\":[[\"Rowspan=2\",\"Cell 2\",\"Cell 3\"],[\"Cell 5\",\"Cell 6\",\"\"]]},{\"type\":\"paragraph\",\"text\":\".Caption for the table 4\"},{\"type\":\"paragraph\",\"text\":\"|===\"},{\"type\":\"table\",\"headers\":[\"Col 1\",\"Col 2\",\"Col 3\",\"Col 4\"],\"rows\":[[\"Rowspan=2.Colspan=2\",\"Cell spanning 2 rows and 2 columns\",\"Col 3\",\"Col 4\"],[\"Col 3\",\"Col 4\",\"\",\"\"],[\"Col 1\",\"Col 2\",\"Col 3\",\"Col 4\"]]},{\"type\":\"paragraph\",\"text\":\"SubSubSection 2.1.1\"}]}",
+    "markdown": "2nd Sample Document Title\n\nThis is an abstract.\n\nSection 1: Testing nestedlists\n\n```\n- First item\n- Nested item 1\n- Nested item 2\n- Second item\n- Nested ordered item 1\n- Nested ordered item 2\n- Deeper nested unordered item\n- Third item\n- Nested ordered item 1\n- Nested ordered item 2\n- Deeper nested unordered item\n- Nested ordered item 2\n```\n\nSection 2\n\nbla bla\n\nbla bla bla\n\nSection 3: test image\n\nimage::images/example1.png[Example Image, width=200, height=150, align=center]\n\n.An example caption for the image\n\nimage::images/example2.png[Example Image, width=200, height=150, align=center]\n\nSection 4: test tables\n\n| Header 1 | Header 2 |\n| --- | --- |\n| Value 1 | Value 2 |\n| Value 3 | Value 4 |\n\n.Caption for the table 1\n\n|===\n\n| Header 1 | Header 2 |\n| --- | --- |\n| Value 1 | Value 2 |\n| Value 3 | Value 4 |\n\n.Caption for the table 2\n\n|===\n\n| Column 1 Heading | Column 2 Heading | Column 3 Heading |\n| --- | --- | --- |\n| Cell 1 | Cell 2 | Cell 3 |\n| Cell 4 | Cell 5 colspan=2 | Cell spans two columns |\n\n.Caption for the table 3\n\n|===\n\n| Column 1 Heading | Column 2 Heading | Column 3 Heading |\n| --- | --- | --- |\n| Rowspan=2 | Cell 2 | Cell 3 |\n| Cell 5 | Cell 6 |  |\n\n.Caption for the table 4\n\n|===\n\n| Col 1 | Col 2 | Col 3 | Col 4 |\n| --- | --- | --- | --- |\n| Rowspan=2.Colspan=2 | Cell spanning 2 rows and 2 columns | Col 3 | Col 4 |\n| Col 3 | Col 4 |  |  |\n| Col 1 | Col 2 | Col 3 | Col 4 |\n\nSubSubSection 2.1.1\n",
+    "plain": "2nd Sample Document Title\n\nThis is an abstract.\n\nSection 1: Testing nestedlists\n\n- First item\n- Nested item 1\n- Nested item 2\n- Second item\n- Nested ordered item 1\n- Nested ordered item 2\n- Deeper nested unordered item\n- Third item\n- Nested ordered item 1\n- Nested ordered item 2\n- Deeper nested unordered item\n- Nested ordered item 2\n\nSection 2\n\nbla bla\n\nbla bla bla\n\nSection 3: test image\n\nimage::images/example1.png[Example Image, width=200, height=150, align=center]\n\n.An example caption for the image\n\nimage::images/example2.png[Example Image, width=200, height=150, align=center]\n\nSection 4: test tables\n\nHeader 1 Header 2\nValue 1 Value 2\nValue 3 Value 4\n\n.Caption for the table 1\n\n|===\n\nHeader 1 Header 2\nValue 1 Value 2\nValue 3 Value 4\n\n.Caption for the table 2\n\n|===\n\nColumn 1 Heading Column 2 Heading Column 3 Heading\nCell 1 Cell 2 Cell 3\nCell 4 Cell 5 colspan=2 Cell spans two columns\n\n.Caption for the table 3\n\n|===\n\nColumn 1 Heading Column 2 Heading Column 3 Heading\nRowspan=2 Cell 2 Cell 3\nCell 5 Cell 6 \n\n.Caption for the table 4\n\n|===\n\nCol 1 Col 2 Col 3 Col 4\nRowspan=2.Colspan=2 Cell spanning 2 rows and 2 columns Col 3 Col 4\nCol 3 Col 4  \nCol 1 Col 2 Col 3 Col 4\n\nSubSubSection 2.1.1"
+  }
+}

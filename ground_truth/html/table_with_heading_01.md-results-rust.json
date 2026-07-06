@@ -1,0 +1,37 @@
+{
+  "file": "ground_truth/html/table_with_heading_01.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/html/table_with_heading_01.md",
+      "final_uri": "ground_truth/html/table_with_heading_01.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "A",
+          "B"
+        ],
+        [
+          "1...",
+          "2..."
+        ]
+      ],
+      "markdown": "| A | B |\n| --- | --- |\n| 1... | 2... |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>Before tha table</p>\n<table>\n<thead>\n<tr>\n<th>A</th>\n<th>B</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1...</td>\n<td>2...</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Before tha table\"},{\"type\":\"table\",\"headers\":[\"A\",\"B\"],\"rows\":[[\"1...\",\"2...\"]]}]}",
+    "markdown": "Before tha table\n\n| A | B |\n| --- | --- |\n| 1... | 2... |\n",
+    "plain": "Before tha table\n\nA B\n1... 2..."
+  }
+}

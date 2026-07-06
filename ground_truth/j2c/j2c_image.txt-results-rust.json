@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/j2c/j2c_image.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 4,
+      "character_count": 30
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/j2c/j2c_image.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/j2c/j2c_image.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Rust programming language logo</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Rust programming language logo\"}]}",
+    "markdown": "Rust programming language logo\n",
+    "plain": "Rust programming language logo"
+  }
+}

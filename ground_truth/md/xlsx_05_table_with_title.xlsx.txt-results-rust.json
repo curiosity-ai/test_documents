@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/xlsx_05_table_with_title.xlsx.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 11,
+      "word_count": 46,
+      "character_count": 340
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/md/xlsx_05_table_with_title.xlsx.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/md/xlsx_05_table_with_title.xlsx.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>| Number of freshwater ducks per year | |---------------------------------------|</p>\n<p>| Year | Freshwater Ducks | |--------|--------------------| | 2019 | 120 | | 2020 | 135 | | 2021 | 150 | | 2022 | 170 | | 2023 | 160 | | 2024 | 180 |</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"| Number of freshwater ducks per year   |\\n|---------------------------------------|\"},{\"type\":\"paragraph\",\"text\":\"|   Year |   Freshwater Ducks |\\n|--------|--------------------|\\n|   2019 |                120 |\\n|   2020 |                135 |\\n|   2021 |                150 |\\n|   2022 |                170 |\\n|   2023 |                160 |\\n|   2024 |                180 |\"}]}",
+    "markdown": "| Number of freshwater ducks per year | |---------------------------------------|\n\n| Year | Freshwater Ducks | |--------|--------------------| | 2019 | 120 | | 2020 | 135 | | 2021 | 150 | | 2022 | 170 | | 2023 | 160 | | 2024 | 180 |\n",
+    "plain": "| Number of freshwater ducks per year   |\n|---------------------------------------|\n\n|   Year |   Freshwater Ducks |\n|--------|--------------------|\n|   2019 |                120 |\n|   2020 |                135 |\n|   2021 |                150 |\n|   2022 |                170 |\n|   2023 |                160 |\n|   2024 |                180 |"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/rtf/list_complex.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 31,
+      "word_count": 35,
+      "character_count": 300
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/rtf/list_complex.txt",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/rtf/list_complex.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>1. One</p>\n<p>2. Two</p>\n<p>a. Three</p>\n<p>b. Four</p>\n<p>i. Five</p>\n<p>ii. Six</p>\n<p>A. Seven</p>\n<p>B. Eight</p>\n<p>I. Nine</p>\n<p>II. Ten</p>\n<p>- Eleven</p>\n<p>- Twelve</p>\n<p>Out of list!</p>\n<p>Start with</p>\n<p>7. Seven Start</p>\n<p>8. Eight Continue</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"1.  One\"},{\"type\":\"paragraph\",\"text\":\"2.  Two\"},{\"type\":\"paragraph\",\"text\":\"a.  Three\"},{\"type\":\"paragraph\",\"text\":\"b.  Four\"},{\"type\":\"paragraph\",\"text\":\"i.  Five\"},{\"type\":\"paragraph\",\"text\":\"ii. Six\"},{\"type\":\"paragraph\",\"text\":\"A.  Seven\"},{\"type\":\"paragraph\",\"text\":\"B.  Eight\"},{\"type\":\"paragraph\",\"text\":\"I.  Nine\"},{\"type\":\"paragraph\",\"text\":\"II. Ten\"},{\"type\":\"paragraph\",\"text\":\"- Eleven\"},{\"type\":\"paragraph\",\"text\":\"- Twelve\"},{\"type\":\"paragraph\",\"text\":\"Out of list!\"},{\"type\":\"paragraph\",\"text\":\"Start with\"},{\"type\":\"paragraph\",\"text\":\"7.  Seven Start\"},{\"type\":\"paragraph\",\"text\":\"8.  Eight Continue\"}]}",
+    "markdown": "1\\. One\n\n2\\. Two\n\na. Three\n\nb. Four\n\ni. Five\n\nii. Six\n\nA. Seven\n\nB. Eight\n\nI. Nine\n\nII. Ten\n\n\\- Eleven\n\n\\- Twelve\n\nOut of list\\!\n\nStart with\n\n7\\. Seven Start\n\n8\\. Eight Continue\n",
+    "plain": "1.  One\n\n2.  Two\n\na.  Three\n\nb.  Four\n\ni.  Five\n\nii. Six\n\nA.  Seven\n\nB.  Eight\n\nI.  Nine\n\nII. Ten\n\n- Eleven\n\n- Twelve\n\nOut of list!\n\nStart with\n\n7.  Seven Start\n\n8.  Eight Continue"
+  }
+}

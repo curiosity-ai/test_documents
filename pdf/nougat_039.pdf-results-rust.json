@@ -1,0 +1,173 @@
+{
+  "file": "pdf/nougat_039.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "authors": [
+      "Windows User"
+    ],
+    "created_at": "2020-01-29T19:23:47Z",
+    "modified_at": "2021-03-24T12:21:37Z",
+    "created_by": "Writer",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "LibreOffice 6.0",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 2
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "extraction_method": "native",
+      "source_uri": "pdf/nougat_039.pdf",
+      "source_index": 0,
+      "final_uri": "pdf/nougat_039.pdf"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "5. I hereby grant permission for my 6. I hereby authorize Leander ISD to Lodge Scholarship committee records",
+          "essay to be make available information",
+          "used in Masonic to Norton concerning my",
+          "publications Moses academic"
+        ],
+        [
+          "Counselor or Principal’s Certification I hereby certify that the academic information and summary of school activities as submitted are true and correct to the best of my knowledge",
+          "I hereby information activities correct to understand information me from"
+        ],
+        [
+          "Counselor or Principal Signature and Date",
+          "Student and",
+          "Applicant Date",
+          "Signature"
+        ],
+        [
+          "Name of College or University in order",
+          "Date",
+          "Date"
+        ]
+      ],
+      "markdown": "| 5. I hereby grant permission for my 6. I hereby authorize Leander ISD to Lodge Scholarship committee records | essay to be make available information | used in Masonic to Norton concerning my | publications Moses academic |\n| --- | --- | --- | --- |\n| Counselor or Principal’s Certification I hereby certify that the academic information and summary of school activities as submitted are true and correct to the best of my knowledge | I hereby information activities correct to understand information me from |\n| Counselor or Principal Signature and Date | Student and | Applicant Date | Signature |\n| Name of College or University in order | Date | Date |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 72.30000305175781,
+        "y0": 50.70000076293945,
+        "x1": 543.2999877929688,
+        "y1": 345.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "Employment",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Name",
+          "Yr",
+          "Yr",
+          "Yr",
+          "Yr",
+          "Average Hours per"
+        ],
+        [
+          "",
+          "09.",
+          "10",
+          "11.",
+          "12",
+          "Week/per Year"
+        ]
+      ],
+      "markdown": "| Employment |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Name | Yr | Yr | Yr | Yr | Average Hours per |\n|  | 09. | 10 | 11. | 12 | Week/per Year |\n",
+      "page_number": 2,
+      "bounding_box": {
+        "x0": 73.5,
+        "y0": 328.5,
+        "x1": 542.7000122070312,
+        "y1": 392.29998779296875
+      }
+    },
+    {
+      "cells": [
+        [
+          "Academic Honors or Other",
+          "",
+          "Achievements",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Name",
+          "Yr",
+          "Yr",
+          "Yr",
+          "Yr",
+          "Description of how honor"
+        ],
+        [
+          "",
+          "09.",
+          "10",
+          "11.",
+          "12",
+          "was earned"
+        ]
+      ],
+      "markdown": "| Academic Honors or Other |  | Achievements |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Name | Yr | Yr | Yr | Yr | Description of how honor |\n|  | 09. | 10 | 11. | 12 | was earned |\n",
+      "page_number": 2,
+      "bounding_box": {
+        "x0": 73.5,
+        "y0": 449.0,
+        "x1": 542.7000122070312,
+        "y1": 512.9000244140625
+      }
+    },
+    {
+      "cells": [
+        [
+          "Name",
+          "Yr",
+          "Yr",
+          "Yr",
+          "Yr",
+          "Description of how honor"
+        ],
+        [
+          "",
+          "09.",
+          "10",
+          "11.",
+          "12",
+          "was earned"
+        ]
+      ],
+      "markdown": "| Name | Yr | Yr | Yr | Yr | Description of how honor |\n| --- | --- | --- | --- | --- | --- |\n|  | 09. | 10 | 11. | 12 | was earned |\n",
+      "page_number": 2,
+      "bounding_box": {
+        "x0": 73.5,
+        "y0": 569.7999877929688,
+        "x1": 518.5100708007812,
+        "y1": 596.7000122070312
+      }
+    }
+  ],
+  "content": {
+    "html": "<p>Scholarship Application $1000 Scholarship Award</p>\n<h1>Norton Moses Masonic Lodge, #336</h1>\n<h1>Last Name Mailing address Phone Number High School Attended Eligibility and Requirements:</h1>\n<p>First Name City Date of Birth Gender ( M/F)</p>\n<p>Middle Name (or Initial) Zip Code</p>\n<p>Email Address US Citizen The Contributions of History</p>\n<h2>1.</h2>\n<h1>Be a graduating senior from any LISD High School</h1>\n<h2>2.</h2>\n<h1>Complete and sign this form, including signature of H.S. Counselor or Principal</h1>\n<h2>3.</h2>\n<h1>Attach a copy of your High School transcript to this application</h1>\n<h2>4.</h2>\n<h1>Attach a double spaced, 750-word essay on the following selected topictia.</h1>\n<p><strong>Freemasonry in Texas</strong></p>\n<table>\n<thead>\n<tr>\n<th>5. I hereby grant permission for my 6. I hereby authorize Leander ISD to Lodge Scholarship committee records</th>\n<th>essay to be make available information</th>\n<th>used in Masonic to Norton concerning my</th>\n<th>publications Moses academic</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Counselor or Principal’s Certification I hereby certify that the academic information and summary of school activities as submitted are true and correct to the best of my knowledge</td>\n<td>I hereby information activities correct to understand information me from</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Counselor or Principal Signature and Date</td>\n<td>Student and</td>\n<td>Applicant Date</td>\n<td>Signature</td>\n</tr>\n<tr>\n<td>Name of College or University in order</td>\n<td>Date</td>\n<td>Date</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p><strong>Norton Moses Masonic Lodge Scholarship Committee PO Box 586 Leander TX 78646</strong></p>\n<h1>preference</h1>\n<p><strong>High School Sponsored Activities (Clubs, Athletics, Band, JROTC, Etc)</strong></p>\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Yr</th>\n<th>Yr</th>\n<th>Yr</th>\n<th>Yr</th>\n<th>Description of how honor</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>09.</td>\n<td>10</td>\n<td>11.</td>\n<td>12</td>\n<td>was earned</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Academic Honors or Other</th>\n<th></th>\n<th>Achievements</th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Name</td>\n<td>Yr</td>\n<td>Yr</td>\n<td>Yr</td>\n<td>Yr</td>\n<td>Description of how honor</td>\n</tr>\n<tr>\n<td></td>\n<td>09.</td>\n<td>10</td>\n<td>11.</td>\n<td>12</td>\n<td>was earned</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Employment</th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Name</td>\n<td>Yr</td>\n<td>Yr</td>\n<td>Yr</td>\n<td>Yr</td>\n<td>Average Hours per</td>\n</tr>\n<tr>\n<td></td>\n<td>09.</td>\n<td>10</td>\n<td>11.</td>\n<td>12</td>\n<td>Week/per Year</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Community Activities Scouts, Dettiolay, 09.10 11.12 Week/per Year Rainbow Religious Et</strong>c.</p>\n<p><strong>Yr Yr Yr Yr Applied Accepted Average Hours per Scholarship Application Deadline is April 15 th</strong></p>\n<h2>2020</h2>\n<p><strong>Norton Moses Masonic Lodge Scholarship Committee PO Box 586 Leander TX 78646</strong></p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Norton Moses Masonic Lodge, #336\"},{\"type\":\"paragraph\",\"text\":\"Last Name\"},{\"type\":\"paragraph\",\"text\":\"Mailing address\"},{\"type\":\"paragraph\",\"text\":\"Phone Number\"},{\"type\":\"paragraph\",\"text\":\"High School Attended\"},{\"type\":\"paragraph\",\"text\":\"Eligibility and Requirements:\"},{\"type\":\"paragraph\",\"text\":\"1. Be a graduating senior from any LISD High School\"},{\"type\":\"paragraph\",\"text\":\"2. Complete and sign this form, including signature of H.S. Counselor or Principal\"},{\"type\":\"paragraph\",\"text\":\"3. Attach a copy of your High School transcript to this application\"},{\"type\":\"paragraph\",\"text\":\"4. Attach a double spaced, 750-word essay on the\"},{\"type\":\"paragraph\",\"text\":\"following selected topic:a.\"},{\"type\":\"paragraph\",\"text\":\"Freemasonry in Texas\"},{\"type\":\"paragraph\",\"text\":\"5. I hereby grant permission for my essay to be used in Masonic publications\"},{\"type\":\"paragraph\",\"text\":\"6. I hereby authorize Leander ISD to make available to Norton Moses\"},{\"type\":\"paragraph\",\"text\":\"Lodge Scholarship committee information concerning my academic\"},{\"type\":\"paragraph\",\"text\":\"records\"},{\"type\":\"paragraph\",\"text\":\"Counselor or Principal’s \\nCertification\"},{\"type\":\"paragraph\",\"text\":\"I hereby certify that the academic \\ninformation and summary of school \\nactivities as submitted are true and \\ncorrect to the best of my knowledge\"},{\"type\":\"paragraph\",\"text\":\"Counselor or Principal Signature \\nand Date\"},{\"type\":\"paragraph\",\"text\":\"Name of College or University in order of\"},{\"type\":\"paragraph\",\"text\":\"Norton Moses Masonic Lodge Scholarship \\nCommittee PO Box 586 Leander TX 78646\"},{\"type\":\"paragraph\",\"text\":\"Scholarship Application\"},{\"type\":\"paragraph\",\"text\":\"$1000 Scholarship Award\"},{\"type\":\"paragraph\",\"text\":\"First Name\"},{\"type\":\"paragraph\",\"text\":\"City\"},{\"type\":\"paragraph\",\"text\":\"Date of Birth\"},{\"type\":\"paragraph\",\"text\":\"Gender ( M/F)\"},{\"type\":\"paragraph\",\"text\":\"Middle Name (or \\nInitial)\"},{\"type\":\"paragraph\",\"text\":\"Zip Code\"},{\"type\":\"paragraph\",\"text\":\"Email Address\"},{\"type\":\"paragraph\",\"text\":\"US Citizen\"},{\"type\":\"paragraph\",\"text\":\"The   Contributions of\"},{\"type\":\"paragraph\",\"text\":\"History\"},{\"type\":\"paragraph\",\"text\":\"Applicant’s Certification:\"},{\"type\":\"paragraph\",\"text\":\"I hereby certify that the academic \\ninformation and summary of school \\nactivities as submitted are true and \\ncorrect to the best of my knowledge. I \\nunderstand that submitting false \\ninformation will automatically disqualify\\nme from consideration for a scholarship.\"},{\"type\":\"paragraph\",\"text\":\"Student Applicant Signature \\nand Date\"},{\"type\":\"paragraph\",\"text\":\"Date  Date\"},{\"type\":\"paragraph\",\"text\":\"preference\"},{\"type\":\"paragraph\",\"text\":\"High School Sponsored Activities (Clubs, Athletics, Band, JROTC, Etc)\"},{\"type\":\"paragraph\",\"text\":\"Name\"},{\"type\":\"paragraph\",\"text\":\"Academic Honors or Other Achievements\"},{\"type\":\"paragraph\",\"text\":\"Name\"},{\"type\":\"paragraph\",\"text\":\"Employment\"},{\"type\":\"paragraph\",\"text\":\"Name\"},{\"type\":\"paragraph\",\"text\":\"Community Activities\"},{\"type\":\"paragraph\",\"text\":\"Scouts, DeMolay, \\n09.10 11.12 Week/per YearRainbow\\nReligious Etc.\"},{\"type\":\"paragraph\",\"text\":\"Scholarship Application Deadline is April 15\"},{\"type\":\"paragraph\",\"text\":\"Norton Moses Masonic Lodge Scholarship \\nCommittee PO Box 586 Leander TX 78646\"},{\"type\":\"paragraph\",\"text\":\"Yr  Yr  Yr  Yr \\n09.10 11.12\"},{\"type\":\"paragraph\",\"text\":\"Yr  Yr  Yr  Yr \\n09.10 11.12\"},{\"type\":\"paragraph\",\"text\":\"Yr  Yr  Yr  Yr \\n09.10 11.12\"},{\"type\":\"paragraph\",\"text\":\"Yr  Yr  Yr  Yr\"},{\"type\":\"paragraph\",\"text\":\"Applied Accepted\"},{\"type\":\"paragraph\",\"text\":\"Description of how honor \\nwas earned\"},{\"type\":\"paragraph\",\"text\":\"Description of how honor \\nwas earned\"},{\"type\":\"paragraph\",\"text\":\"Average Hours per \\nWeek/per Year\"},{\"type\":\"paragraph\",\"text\":\"Average Hours per\"},{\"type\":\"paragraph\",\"text\":\"th2020\"},{\"type\":\"table\",\"headers\":[\"5. I hereby grant permission for my 6. I hereby authorize Leander ISD to Lodge Scholarship committee records\",\"essay to be make available information\",\"used in Masonic to Norton concerning my\",\"publications Moses academic\"],\"rows\":[[\"Counselor or Principal’s Certification I hereby certify that the academic information and summary of school activities as submitted are true and correct to the best of my knowledge\",\"I hereby information activities correct to understand information me from\"],[\"Counselor or Principal Signature and Date\",\"Student and\",\"Applicant Date\",\"Signature\"],[\"Name of College or University in order\",\"Date\",\"Date\"]]},{\"type\":\"table\",\"headers\":[\"Employment\",\"\",\"\",\"\",\"\",\"\"],\"rows\":[[\"Name\",\"Yr\",\"Yr\",\"Yr\",\"Yr\",\"Average Hours per\"],[\"\",\"09.\",\"10\",\"11.\",\"12\",\"Week/per Year\"]]},{\"type\":\"table\",\"headers\":[\"Academic Honors or Other\",\"\",\"Achievements\",\"\",\"\",\"\"],\"rows\":[[\"Name\",\"Yr\",\"Yr\",\"Yr\",\"Yr\",\"Description of how honor\"],[\"\",\"09.\",\"10\",\"11.\",\"12\",\"was earned\"]]},{\"type\":\"table\",\"headers\":[\"Name\",\"Yr\",\"Yr\",\"Yr\",\"Yr\",\"Description of how honor\"],\"rows\":[[\"\",\"09.\",\"10\",\"11.\",\"12\",\"was earned\"]]}]}",
+    "markdown": "Scholarship Application $1000 Scholarship Award\n\n# Norton Moses Masonic Lodge, \\#336\n\n# Last Name Mailing address Phone Number High School Attended Eligibility and Requirements:\n\nFirst Name City Date of Birth Gender ( M/F)\n\nMiddle Name (or Initial) Zip Code\n\nEmail Address US Citizen The Contributions of History\n\n## 1\\.\n\n# Be a graduating senior from any LISD High School\n\n## 2\\.\n\n# Complete and sign this form, including signature of H.S. Counselor or Principal\n\n## 3\\.\n\n# Attach a copy of your High School transcript to this application\n\n## 4\\.\n\n# Attach a double spaced, 750-word essay on the following selected topictia.\n\n**Freemasonry in Texas**\n\n| 5. I hereby grant permission for my 6. I hereby authorize Leander ISD to Lodge Scholarship committee records | essay to be make available information | used in Masonic to Norton concerning my | publications Moses academic |\n| --- | --- | --- | --- |\n| Counselor or Principal’s Certification I hereby certify that the academic information and summary of school activities as submitted are true and correct to the best of my knowledge | I hereby information activities correct to understand information me from |  |  |\n| Counselor or Principal Signature and Date | Student and | Applicant Date | Signature |\n| Name of College or University in order | Date | Date |  |\n\n**Norton Moses Masonic Lodge Scholarship Committee PO Box 586 Leander TX 78646**\n\n# preference\n\n**High School Sponsored Activities (Clubs, Athletics, Band, JROTC, Etc)**\n\n| Name | Yr | Yr | Yr | Yr | Description of how honor |\n| --- | --- | --- | --- | --- | --- |\n|  | 09. | 10 | 11. | 12 | was earned |\n\n| Academic Honors or Other |  | Achievements |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Name | Yr | Yr | Yr | Yr | Description of how honor |\n|  | 09. | 10 | 11. | 12 | was earned |\n\n| Employment |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Name | Yr | Yr | Yr | Yr | Average Hours per |\n|  | 09. | 10 | 11. | 12 | Week/per Year |\n\n**Community Activities Scouts, Dettiolay, 09.10 11.12 Week/per Year Rainbow Religious Et**c.\n\n**Yr Yr Yr Yr Applied Accepted Average Hours per Scholarship Application Deadline is April 15 th**\n\n## 2020\n\n**Norton Moses Masonic Lodge Scholarship Committee PO Box 586 Leander TX 78646**\n",
+    "plain": "Norton Moses Masonic Lodge, #336\n\nLast Name\n\nMailing address\n\nPhone Number\n\nHigh School Attended\n\nEligibility and Requirements:\n\n1. Be a graduating senior from any LISD High School\n\n2. Complete and sign this form, including signature of H.S. Counselor or Principal\n\n3. Attach a copy of your High School transcript to this application\n\n4. Attach a double spaced, 750-word essay on the\n\nfollowing selected topic:a.\n\nFreemasonry in Texas\n\n5. I hereby grant permission for my essay to be used in Masonic publications\n\n6. I hereby authorize Leander ISD to make available to Norton Moses\n\nLodge Scholarship committee information concerning my academic\n\nrecords\n\nCounselor or Principal’s \nCertification\n\nI hereby certify that the academic \ninformation and summary of school \nactivities as submitted are true and \ncorrect to the best of my knowledge\n\nCounselor or Principal Signature \nand Date\n\nName of College or University in order of\n\nNorton Moses Masonic Lodge Scholarship \nCommittee PO Box 586 Leander TX 78646\n\nScholarship Application\n\n$1000 Scholarship Award\n\nFirst Name\n\nCity\n\nDate of Birth\n\nGender ( M/F)\n\nMiddle Name (or \nInitial)\n\nZip Code\n\nEmail Address\n\nUS Citizen\n\nThe   Contributions of\n\nHistory\n\nApplicant’s Certification:\n\nI hereby certify that the academic \ninformation and summary of school \nactivities as submitted are true and \ncorrect to the best of my knowledge. I \nunderstand that submitting false \ninformation will automatically disqualify\nme from consideration for a scholarship.\n\nStudent Applicant Signature \nand Date\n\nDate  Date\n\npreference\n\nHigh School Sponsored Activities (Clubs, Athletics, Band, JROTC, Etc)\n\nName\n\nAcademic Honors or Other Achievements\n\nName\n\nEmployment\n\nName\n\nCommunity Activities\n\nScouts, DeMolay, \n09.10 11.12 Week/per YearRainbow\nReligious Etc.\n\nScholarship Application Deadline is April 15\n\nNorton Moses Masonic Lodge Scholarship \nCommittee PO Box 586 Leander TX 78646\n\nYr  Yr  Yr  Yr \n09.10 11.12\n\nYr  Yr  Yr  Yr \n09.10 11.12\n\nYr  Yr  Yr  Yr \n09.10 11.12\n\nYr  Yr  Yr  Yr\n\nApplied Accepted\n\nDescription of how honor \nwas earned\n\nDescription of how honor \nwas earned\n\nAverage Hours per \nWeek/per Year\n\nAverage Hours per\n\nth2020\n\n5. I hereby grant permission for my 6. I hereby authorize Leander ISD to Lodge Scholarship committee records essay to be make available information used in Masonic to Norton concerning my publications Moses academic\nCounselor or Principal’s Certification I hereby certify that the academic information and summary of school activities as submitted are true and correct to the best of my knowledge I hereby information activities correct to understand information me from\nCounselor or Principal Signature and Date Student and Applicant Date Signature\nName of College or University in order Date Date\n\nEmployment     \nName Yr Yr Yr Yr Average Hours per\n 09. 10 11. 12 Week/per Year\n\nAcademic Honors or Other  Achievements   \nName Yr Yr Yr Yr Description of how honor\n 09. 10 11. 12 was earned\n\nName Yr Yr Yr Yr Description of how honor\n 09. 10 11. 12 was earned"
+  }
+}

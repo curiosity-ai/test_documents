@@ -1,0 +1,34 @@
+{
+  "file": "vendored/unstructured/eml/test-invalid-date.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Test invalid date format",
+    "created_at": "INVALID-DATE-FORMAT",
+    "format": {
+      "format_type": "email",
+      "from_email": "sender@example.com",
+      "to_emails": [
+        "recipient@example.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "attachments": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/unstructured/eml/test-invalid-date.eml",
+      "source_kind": "uri",
+      "source_uri": "vendored/unstructured/eml/test-invalid-date.eml",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Test invalid date format</p>\n<p><strong>From</strong>: sender@example.com</p>\n<p><strong>To</strong>: recipient@example.com</p>\n<p><strong>Date</strong>: INVALID-DATE-FORMAT</p>\n<p>This is a test-email with an invalid date format.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a test-email with an invalid date format.\"}]}",
+    "markdown": "**Subject**: Test invalid date format\n\n**From**: sender@example.com\n\n**To**: recipient@example.com\n\n**Date**: INVALID-DATE-FORMAT\n\nThis is a test-email with an invalid date format.\n",
+    "plain": "Subject: Test invalid date format\nFrom: sender@example.com\nTo: recipient@example.com\nDate: INVALID-DATE-FORMAT\n\nThis is a test-email with an invalid date format."
+  }
+}

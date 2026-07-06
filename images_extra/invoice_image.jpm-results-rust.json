@@ -1,0 +1,12 @@
+{
+  "file": "images_extra/invoice_image.jpm",
+  "mime_type": "image/jpm",
+  "success": false,
+  "error": "Unsupported format: image/jpm",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

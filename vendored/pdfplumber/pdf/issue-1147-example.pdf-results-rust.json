@@ -1,0 +1,115 @@
+{
+  "file": "vendored/pdfplumber/pdf/issue-1147-example.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2011-07-08T17:23:47Z",
+    "created_by": "Writer",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "cpdf non-commercial use only. To buy: http://coherentpdf.com/",
+      "is_encrypted": false,
+      "width": 1191,
+      "height": 842,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "extraction_method": "native",
+      "source_kind": "uri",
+      "final_uri": "vendored/pdfplumber/pdf/issue-1147-example.pdf",
+      "source_uri": "vendored/pdfplumber/pdf/issue-1147-example.pdf"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "左右的 pv",
+          "。",
+          "",
+          "",
+          "葛海龙： 对 。有几",
+          "百个城市",
+          "的分站。服务",
+          "51CTO ：",
+          "感谢 海龙的分享",
+          "！ 本次内容",
+          "到此"
+        ],
+        [
+          "大体架构",
+          "可以分为",
+          "三层 ： 第一层",
+          "，也就是",
+          "器都在北京，然后有",
+          "cdn 加速",
+          "。 再就 是前端",
+          "结束 。 如果",
+          "您有什么 问题想要沟通",
+          "， 或者希望",
+          ""
+        ],
+        [
+          "前端是 缓存",
+          "服务  器，",
+          "用 squid",
+          "做  的 ；  第二  层",
+          "有缓存 服务器。",
+          "",
+          "",
+          "听到某位 运维",
+          "进行 分享， 欢迎留言",
+          "交流。",
+          "▌※"
+        ]
+      ],
+      "markdown": "| 左右的 pv | 。 |  |  | 葛海龙： 对 。有几 | 百个城市 | 的分站。服务 | 51CTO ： | 感谢 海龙的分享 | ！ 本次内容 | 到此 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 大体架构 | 可以分为 | 三层 ： 第一层 | ，也就是 | 器都在北京，然后有 | cdn 加速 | 。 再就 是前端 | 结束 。 如果 | 您有什么 问题想要沟通 | ， 或者希望 |  |\n| 前端是 缓存 | 服务  器， | 用 squid | 做  的 ；  第二  层 | 有缓存 服务器。 |  |  | 听到某位 运维 | 进行 分享， 欢迎留言 | 交流。 | ▌※ |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 57.0,
+        "y0": 441.0999755859375,
+        "x1": 1134.0,
+        "y1": 518.0999755859375
+      }
+    },
+    {
+      "cells": [
+        [
+          "4",
+          ""
+        ],
+        [
+          "http://g.51cto.com/linuxops/",
+          ""
+        ],
+        [
+          "http://os.51cto.com/linux/",
+          ""
+        ],
+        [
+          "投稿信箱：",
+          "yangsai@51cto.com"
+        ]
+      ],
+      "markdown": "| 4 |  |\n| --- | --- |\n| http://g.51cto.com/linuxops/ |  |\n| http://os.51cto.com/linux/ |  |\n| 投稿信箱： | yangsai@51cto.com |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 593.0,
+        "y0": 17.0999755859375,
+        "x1": 1135.0,
+        "y1": 76.0999755859375
+      }
+    }
+  ],
+  "content": {
+    "html": "<h1>人物</h1>\n<h2>People</h2>\n<p>总之， 需要关注 51CTO 护过这些高并发网站， 均 pv 应该 网当前大概的 葛海龙：饭统网现在访 IDC 主要关注 的东 西就更 多一些。 ：那 就聊聊 也是百万量级的。 架构 ，以及用到了哪些技术？ 是 web ， 第三层是存储 用 的 技术也 nginx ， 只有一个服务器还在 缓 存 的 技 存 ， memcac 载均衡用 的 是 mysql ， oracle 衡； dns 也是用的我们自己搭建的 了 master 和 nagios ，用 51CTO ： 修改 的？ 比 较丰 术有 hed 做 lvs 都 有 slave 飞信来报警 dns 是 自 网络和 硬件， 网站的事吧。您搭建维 包括 现在的饭统网，日 能否 介绍下饭统 问量在每天 。 富 ， 比如 web 使用 squid 做静 数 据 库内 容的缓 的 DR 方式； ， 它们 也 都 做 ； 监 控 是 用 的 。 己写的 ？ 还 而网站 500 万 主要是 apache ； 态 缓 存 ； 负 数 据 库 的负 载均 dns ，也做 cacti 和 是 用 bind 葛海龙： 软件， 呵呵 网上专门做 个问题。用自己的 的缓存 ，几分 51CTO 多吗？ 51CTO 再谈谈您自己的 主要有两个 务，一个 习 / 进阶计划 葛海 龙 的， 而且必须要 oracle 。 我觉得要在运维 网络，系统，数据库 想做一个管理人 就是网络 ：</p>\n<p>bind 做的，没有实力自己 写 dns 。因为我们 域名 比较多， 要是让公 dns 厂商 做的话，解析的时间是 dns ， 只要本地 没有该记录 钟内就 可以在全 球生效 。 ：原来 如此 。多 域名是指地方 分站 ：大致了解了， 十分感谢 。 最后， 成长 经历吧。我 看您的 博客 方面 ，一个是 Linux 系统和应用服 设备 。您自己 制定 过什么学 么？ 首 先 ， 系 统 和 网 络 是肯 定 要学 学好。 最近 这段时间我在学 方面 做的比较 出色的话 必须都要会 。 否则的话 员是比较有 难度 的。 51CTO ： 对 其他 Linux 运维 有 吗 ？比如您现在 招聘 Linux 运维的时候， 注他们的哪些 素质 ？ 葛海龙：我在 招聘 linux 的时候主 下几个 方面 ： 1. 基本 功必须好 ， 2. 事必须沉着 ，不 慌张 ， 3. 最好能有 运维经验。 本文为节选，原文： ， http://os.51cto.com/art/201106/272523.htm 推荐 阅读 ： 专访 田逸 ：运维这十年 手边 的那些工具 对于企 业来说 免费的 DNS 合适吗 ？ Linux 下的 DNS 安全 保障十 大技巧 习 专题：可怕的服务器并发 图解： VNC Server 攻击实战案例 ， 系统管理 员需要掌握哪些软技能 ？ ， 面向 系统管理员的 iPad 应用推荐 什 么 建议 最关 要关心以 不浮躁 ， 遇 2 年左右的</p>\n<table>\n<thead>\n<tr>\n<th>左右的 pv</th>\n<th>。</th>\n<th></th>\n<th></th>\n<th>葛海龙： 对 。有几</th>\n<th>百个城市</th>\n<th>的分站。服务</th>\n<th>51CTO ：</th>\n<th>感谢 海龙的分享</th>\n<th>！ 本次内容</th>\n<th>到此</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>大体架构</td>\n<td>可以分为</td>\n<td>三层 ： 第一层</td>\n<td>，也就是</td>\n<td>器都在北京，然后有</td>\n<td>cdn 加速</td>\n<td>。 再就 是前端</td>\n<td>结束 。 如果</td>\n<td>您有什么 问题想要沟通</td>\n<td>， 或者希望</td>\n<td></td>\n</tr>\n<tr>\n<td>前端是 缓存</td>\n<td>服务 器，</td>\n<td>用 squid</td>\n<td>做 的 ； 第二 层</td>\n<td>有缓存 服务器。</td>\n<td></td>\n<td></td>\n<td>听到某位 运维</td>\n<td>进行 分享， 欢迎留言</td>\n<td>交流。</td>\n<td>▌※</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>4</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>http://g.51cto.com/linuxops/</td>\n<td></td>\n</tr>\n<tr>\n<td>http://os.51cto.com/linux/</td>\n<td></td>\n</tr>\n<tr>\n<td>投稿信箱：</td>\n<td>yangsai@51cto.com</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"总之，\"},{\"type\":\"paragraph\",\"text\":\"需要关注\"},{\"type\":\"paragraph\",\"text\":\"51CTO\"},{\"type\":\"paragraph\",\"text\":\"护过这些高并发网站，\"},{\"type\":\"paragraph\",\"text\":\"均 pv 应该\"},{\"type\":\"paragraph\",\"text\":\"网当前大概的\"},{\"type\":\"paragraph\",\"text\":\"葛海龙：饭统网现在访\"},{\"type\":\"paragraph\",\"text\":\"IDC 主要关注\"},{\"type\":\"paragraph\",\"text\":\"的东西就更 多一些。\"},{\"type\":\"paragraph\",\"text\":\"：那 就聊聊\"},{\"type\":\"paragraph\",\"text\":\"也是百万量级的。\"},{\"type\":\"paragraph\",\"text\":\"架构，以及用到了哪些技术？\"},{\"type\":\"paragraph\",\"text\":\"左右的 pv。\"},{\"type\":\"paragraph\",\"text\":\"大体架构\"},{\"type\":\"paragraph\",\"text\":\"前端是缓存\"},{\"type\":\"paragraph\",\"text\":\"是 web，第三层是存储\"},{\"type\":\"paragraph\",\"text\":\"可以分为\"},{\"type\":\"paragraph\",\"text\":\"服务 器，\"},{\"type\":\"paragraph\",\"text\":\"用 的 技术也\"},{\"type\":\"paragraph\",\"text\":\"nginx ，只有一个服务器还在\"},{\"type\":\"paragraph\",\"text\":\"缓  存 的  技\"},{\"type\":\"paragraph\",\"text\":\"存，memcac\"},{\"type\":\"paragraph\",\"text\":\"载均衡用 的 是\"},{\"type\":\"paragraph\",\"text\":\"mysql，oracle\"},{\"type\":\"paragraph\",\"text\":\"衡；dns 也是用的我们自己搭建的\"},{\"type\":\"paragraph\",\"text\":\"了 master 和\"},{\"type\":\"paragraph\",\"text\":\"nagios ，用\"},{\"type\":\"paragraph\",\"text\":\"51CTO ：\"},{\"type\":\"paragraph\",\"text\":\"修改的？\"},{\"type\":\"paragraph\",\"text\":\"比 较丰\"},{\"type\":\"paragraph\",\"text\":\"术有\"},{\"type\":\"paragraph\",\"text\":\"hed 做\"},{\"type\":\"paragraph\",\"text\":\"lvs\"},{\"type\":\"paragraph\",\"text\":\"都 有\"},{\"type\":\"paragraph\",\"text\":\"slave\"},{\"type\":\"paragraph\",\"text\":\"飞信来报警\"},{\"type\":\"paragraph\",\"text\":\"dns 是 自\"},{\"type\":\"paragraph\",\"text\":\"网络和 硬件，\"},{\"type\":\"paragraph\",\"text\":\"网站的事吧。您搭建维\"},{\"type\":\"paragraph\",\"text\":\"包括现在的饭统网，日\"},{\"type\":\"paragraph\",\"text\":\"能否 介绍下饭统\"},{\"type\":\"paragraph\",\"text\":\"问量在每天\"},{\"type\":\"paragraph\",\"text\":\"三层 ：第一层\"},{\"type\":\"paragraph\",\"text\":\"用 squid 做 的\"},{\"type\":\"paragraph\",\"text\":\"。\"},{\"type\":\"paragraph\",\"text\":\"富 ， 比如 web\"},{\"type\":\"paragraph\",\"text\":\"使用\"},{\"type\":\"paragraph\",\"text\":\"squid 做静\"},{\"type\":\"paragraph\",\"text\":\"数 据 库内 容的缓\"},{\"type\":\"paragraph\",\"text\":\"的 DR 方式；\"},{\"type\":\"paragraph\",\"text\":\"，它们 也 都 做\"},{\"type\":\"paragraph\",\"text\":\"；监 控 是 用 的\"},{\"type\":\"paragraph\",\"text\":\"。\"},{\"type\":\"paragraph\",\"text\":\"己写的 ？ 还\"},{\"type\":\"paragraph\",\"text\":\"而网站\"},{\"type\":\"paragraph\",\"text\":\"500 万\"},{\"type\":\"paragraph\",\"text\":\"，也就是\"},{\"type\":\"paragraph\",\"text\":\"； 第二 层\"},{\"type\":\"paragraph\",\"text\":\"主要是\"},{\"type\":\"paragraph\",\"text\":\"apache ；\"},{\"type\":\"paragraph\",\"text\":\"态  缓\"},{\"type\":\"paragraph\",\"text\":\"存 ； 负\"},{\"type\":\"paragraph\",\"text\":\"数 据 库\"},{\"type\":\"paragraph\",\"text\":\"的负 载均\"},{\"type\":\"paragraph\",\"text\":\"dns，也做\"},{\"type\":\"paragraph\",\"text\":\"cacti 和\"},{\"type\":\"paragraph\",\"text\":\"是 用 bind\"},{\"type\":\"paragraph\",\"text\":\"葛海龙：\"},{\"type\":\"paragraph\",\"text\":\"软件，呵呵\"},{\"type\":\"paragraph\",\"text\":\"网上专门做\"},{\"type\":\"paragraph\",\"text\":\"个问题。用自己的\"},{\"type\":\"paragraph\",\"text\":\"的缓存，几分\"},{\"type\":\"paragraph\",\"text\":\"51CTO\"},{\"type\":\"paragraph\",\"text\":\"多吗？\"},{\"type\":\"paragraph\",\"text\":\"葛海龙：\"},{\"type\":\"paragraph\",\"text\":\"器都在北京，然后有\"},{\"type\":\"paragraph\",\"text\":\"有缓存服务器。\"},{\"type\":\"paragraph\",\"text\":\"51CTO\"},{\"type\":\"paragraph\",\"text\":\"再谈谈您自己的\"},{\"type\":\"paragraph\",\"text\":\"主要有两个\"},{\"type\":\"paragraph\",\"text\":\"务，一个\"},{\"type\":\"paragraph\",\"text\":\"习/进阶计划\"},{\"type\":\"paragraph\",\"text\":\"葛海 龙\"},{\"type\":\"paragraph\",\"text\":\"的，而且必须要\"},{\"type\":\"paragraph\",\"text\":\"oracle。\"},{\"type\":\"paragraph\",\"text\":\"我觉得要在运维\"},{\"type\":\"paragraph\",\"text\":\"网络，系统，数据库\"},{\"type\":\"paragraph\",\"text\":\"想做一个管理人\"},{\"type\":\"paragraph\",\"text\":\"就是网络\"},{\"type\":\"paragraph\",\"text\":\"：\"},{\"type\":\"paragraph\",\"text\":\"人物\"},{\"type\":\"paragraph\",\"text\":\"People\"},{\"type\":\"paragraph\",\"text\":\"bind 做的，没有实力自己 写 dns\"},{\"type\":\"paragraph\",\"text\":\"。因为我们 域名比较多， 要是让公\"},{\"type\":\"paragraph\",\"text\":\"dns 厂商 做的话，解析的时间是\"},{\"type\":\"paragraph\",\"text\":\"dns，只要本地没有该记录\"},{\"type\":\"paragraph\",\"text\":\"钟内就 可以在全 球生效 。\"},{\"type\":\"paragraph\",\"text\":\"：原来 如此 。多 域名是指地方 分站\"},{\"type\":\"paragraph\",\"text\":\"对。有几 百个城市 的分站。服务\"},{\"type\":\"paragraph\",\"text\":\"cdn 加速 。再就 是前端\"},{\"type\":\"paragraph\",\"text\":\"：大致了解了， 十分感谢 。最后，\"},{\"type\":\"paragraph\",\"text\":\"成长经历吧。我 看您的博客\"},{\"type\":\"paragraph\",\"text\":\"方面，一个是 Linux 系统和应用服\"},{\"type\":\"paragraph\",\"text\":\"设备。您自己 制定过什么学\"},{\"type\":\"paragraph\",\"text\":\"么？\"},{\"type\":\"paragraph\",\"text\":\"首 先 ， 系 统 和 网 络 是肯 定 要学\"},{\"type\":\"paragraph\",\"text\":\"学好。最近这段时间我在学\"},{\"type\":\"paragraph\",\"text\":\"方面 做的比较 出色的话\"},{\"type\":\"paragraph\",\"text\":\"必须都要会。否则的话\"},{\"type\":\"paragraph\",\"text\":\"员是比较有 难度的。\"},{\"type\":\"paragraph\",\"text\":\"4\"},{\"type\":\"paragraph\",\"text\":\"51CTO ：对 其他 Linux 运维 有\"},{\"type\":\"paragraph\",\"text\":\"吗？比如您现在 招聘 Linux 运维的时候，\"},{\"type\":\"paragraph\",\"text\":\"注他们的哪些素质？\"},{\"type\":\"paragraph\",\"text\":\"葛海龙：我在 招聘 linux 的时候主\"},{\"type\":\"paragraph\",\"text\":\"下几个 方面 ：1.基本 功必须好 ，2.\"},{\"type\":\"paragraph\",\"text\":\"事必须沉着 ，不慌张，3.最好能有\"},{\"type\":\"paragraph\",\"text\":\"运维经验。\"},{\"type\":\"paragraph\",\"text\":\"51CTO ：感谢 海龙的分享 ！本次内容\"},{\"type\":\"paragraph\",\"text\":\"结束。如果您有什么 问题想要沟通\"},{\"type\":\"paragraph\",\"text\":\"听到某位运维进行分享， 欢迎留言\"},{\"type\":\"paragraph\",\"text\":\"本文为节选，原文：\\n， http://os.51cto.com/art/201106/272523.htm\"},{\"type\":\"paragraph\",\"text\":\"推荐阅读：\"},{\"type\":\"paragraph\",\"text\":\"专访田逸：运维这十年 手边的那些工具\"},{\"type\":\"paragraph\",\"text\":\"对于企业来说 免费的    DNS    合适吗？\"},{\"type\":\"paragraph\",\"text\":\"Linux    下的    DNS    安全保障十大技巧 \\n习\\n专题：可怕的服务器并发\"},{\"type\":\"paragraph\",\"text\":\"图解：  VNC Server    攻击实战案例  \\n，\\n系统管理员需要掌握哪些软技能？\\n，\\n 面向系统管理员的    iPad    应用推荐\"},{\"type\":\"paragraph\",\"text\":\"http://g.51cto.com/linuxops/\\nhttp://os.51cto.com/linux/\\n投稿信箱：yangsai@51cto.com\"},{\"type\":\"paragraph\",\"text\":\"什 么 建议\"},{\"type\":\"paragraph\",\"text\":\"最关\"},{\"type\":\"paragraph\",\"text\":\"要关心以\"},{\"type\":\"paragraph\",\"text\":\"不浮躁 ，遇\"},{\"type\":\"paragraph\",\"text\":\"2 年左右的\"},{\"type\":\"paragraph\",\"text\":\"到此\"},{\"type\":\"paragraph\",\"text\":\"，或者希望\"},{\"type\":\"paragraph\",\"text\":\"交流。 ▌※\"},{\"type\":\"table\",\"headers\":[\"左右的 pv\",\"。\",\"\",\"\",\"葛海龙： 对 。有几\",\"百个城市\",\"的分站。服务\",\"51CTO ：\",\"感谢 海龙的分享\",\"！ 本次内容\",\"到此\"],\"rows\":[[\"大体架构\",\"可以分为\",\"三层 ： 第一层\",\"，也就是\",\"器都在北京，然后有\",\"cdn 加速\",\"。 再就 是前端\",\"结束 。 如果\",\"您有什么 问题想要沟通\",\"， 或者希望\",\"\"],[\"前端是 缓存\",\"服务  器，\",\"用 squid\",\"做  的 ；  第二  层\",\"有缓存 服务器。\",\"\",\"\",\"听到某位 运维\",\"进行 分享， 欢迎留言\",\"交流。\",\"▌※\"]]},{\"type\":\"table\",\"headers\":[\"4\",\"\"],\"rows\":[[\"http://g.51cto.com/linuxops/\",\"\"],[\"http://os.51cto.com/linux/\",\"\"],[\"投稿信箱：\",\"yangsai@51cto.com\"]]}]}",
+    "markdown": "# 人物\n\n## People\n\n总之， 需要关注 51CTO 护过这些高并发网站， 均 pv 应该 网当前大概的 葛海龙：饭统网现在访 IDC 主要关注 的东 西就更 多一些。 ：那 就聊聊 也是百万量级的。 架构 ，以及用到了哪些技术？ 是 web ， 第三层是存储 用 的 技术也 nginx ， 只有一个服务器还在 缓 存 的 技 存 ， memcac 载均衡用 的 是 mysql ， oracle 衡； dns 也是用的我们自己搭建的 了 master 和 nagios ，用 51CTO ： 修改 的？ 比 较丰 术有 hed 做 lvs 都 有 slave 飞信来报警 dns 是 自 网络和 硬件， 网站的事吧。您搭建维 包括 现在的饭统网，日 能否 介绍下饭统 问量在每天 。 富 ， 比如 web 使用 squid 做静 数 据 库内 容的缓 的 DR 方式； ， 它们 也 都 做 ； 监 控 是 用 的 。 己写的 ？ 还 而网站 500 万 主要是 apache ； 态 缓 存 ； 负 数 据 库 的负 载均 dns ，也做 cacti 和 是 用 bind 葛海龙： 软件， 呵呵 网上专门做 个问题。用自己的 的缓存 ，几分 51CTO 多吗？ 51CTO 再谈谈您自己的 主要有两个 务，一个 习 / 进阶计划 葛海 龙 的， 而且必须要 oracle 。 我觉得要在运维 网络，系统，数据库 想做一个管理人 就是网络 ：\n\nbind 做的，没有实力自己 写 dns 。因为我们 域名 比较多， 要是让公 dns 厂商 做的话，解析的时间是 dns ， 只要本地 没有该记录 钟内就 可以在全 球生效 。 ：原来 如此 。多 域名是指地方 分站 ：大致了解了， 十分感谢 。 最后， 成长 经历吧。我 看您的 博客 方面 ，一个是 Linux 系统和应用服 设备 。您自己 制定 过什么学 么？ 首 先 ， 系 统 和 网 络 是肯 定 要学 学好。 最近 这段时间我在学 方面 做的比较 出色的话 必须都要会 。 否则的话 员是比较有 难度 的。 51CTO ： 对 其他 Linux 运维 有 吗 ？比如您现在 招聘 Linux 运维的时候， 注他们的哪些 素质 ？ 葛海龙：我在 招聘 linux 的时候主 下几个 方面 ： 1. 基本 功必须好 ， 2. 事必须沉着 ，不 慌张 ， 3. 最好能有 运维经验。 本文为节选，原文： ， http://os.51cto.com/art/201106/272523.htm 推荐 阅读 ： 专访 田逸 ：运维这十年 手边 的那些工具 对于企 业来说 免费的 DNS 合适吗 ？ Linux 下的 DNS 安全 保障十 大技巧 习 专题：可怕的服务器并发 图解： VNC Server 攻击实战案例 ， 系统管理 员需要掌握哪些软技能 ？ ， 面向 系统管理员的 iPad 应用推荐 什 么 建议 最关 要关心以 不浮躁 ， 遇 2 年左右的\n\n| 左右的 pv | 。 |  |  | 葛海龙： 对 。有几 | 百个城市 | 的分站。服务 | 51CTO ： | 感谢 海龙的分享 | ！ 本次内容 | 到此 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 大体架构 | 可以分为 | 三层 ： 第一层 | ，也就是 | 器都在北京，然后有 | cdn 加速 | 。 再就 是前端 | 结束 。 如果 | 您有什么 问题想要沟通 | ， 或者希望 |  |\n| 前端是 缓存 | 服务 器， | 用 squid | 做 的 ； 第二 层 | 有缓存 服务器。 |  |  | 听到某位 运维 | 进行 分享， 欢迎留言 | 交流。 | ▌※ |\n\n| 4 |  |\n| --- | --- |\n| http://g.51cto.com/linuxops/ |  |\n| http://os.51cto.com/linux/ |  |\n| 投稿信箱： | yangsai@51cto.com |\n",
+    "plain": "总之，\n\n需要关注\n\n51CTO\n\n护过这些高并发网站，\n\n均 pv 应该\n\n网当前大概的\n\n葛海龙：饭统网现在访\n\nIDC 主要关注\n\n的东西就更 多一些。\n\n：那 就聊聊\n\n也是百万量级的。\n\n架构，以及用到了哪些技术？\n\n左右的 pv。\n\n大体架构\n\n前端是缓存\n\n是 web，第三层是存储\n\n可以分为\n\n服务 器，\n\n用 的 技术也\n\nnginx ，只有一个服务器还在\n\n缓  存 的  技\n\n存，memcac\n\n载均衡用 的 是\n\nmysql，oracle\n\n衡；dns 也是用的我们自己搭建的\n\n了 master 和\n\nnagios ，用\n\n51CTO ：\n\n修改的？\n\n比 较丰\n\n术有\n\nhed 做\n\nlvs\n\n都 有\n\nslave\n\n飞信来报警\n\ndns 是 自\n\n网络和 硬件，\n\n网站的事吧。您搭建维\n\n包括现在的饭统网，日\n\n能否 介绍下饭统\n\n问量在每天\n\n三层 ：第一层\n\n用 squid 做 的\n\n。\n\n富 ， 比如 web\n\n使用\n\nsquid 做静\n\n数 据 库内 容的缓\n\n的 DR 方式；\n\n，它们 也 都 做\n\n；监 控 是 用 的\n\n。\n\n己写的 ？ 还\n\n而网站\n\n500 万\n\n，也就是\n\n； 第二 层\n\n主要是\n\napache ；\n\n态  缓\n\n存 ； 负\n\n数 据 库\n\n的负 载均\n\ndns，也做\n\ncacti 和\n\n是 用 bind\n\n葛海龙：\n\n软件，呵呵\n\n网上专门做\n\n个问题。用自己的\n\n的缓存，几分\n\n51CTO\n\n多吗？\n\n葛海龙：\n\n器都在北京，然后有\n\n有缓存服务器。\n\n51CTO\n\n再谈谈您自己的\n\n主要有两个\n\n务，一个\n\n习/进阶计划\n\n葛海 龙\n\n的，而且必须要\n\noracle。\n\n我觉得要在运维\n\n网络，系统，数据库\n\n想做一个管理人\n\n就是网络\n\n：\n\n人物\n\nPeople\n\nbind 做的，没有实力自己 写 dns\n\n。因为我们 域名比较多， 要是让公\n\ndns 厂商 做的话，解析的时间是\n\ndns，只要本地没有该记录\n\n钟内就 可以在全 球生效 。\n\n：原来 如此 。多 域名是指地方 分站\n\n对。有几 百个城市 的分站。服务\n\ncdn 加速 。再就 是前端\n\n：大致了解了， 十分感谢 。最后，\n\n成长经历吧。我 看您的博客\n\n方面，一个是 Linux 系统和应用服\n\n设备。您自己 制定过什么学\n\n么？\n\n首 先 ， 系 统 和 网 络 是肯 定 要学\n\n学好。最近这段时间我在学\n\n方面 做的比较 出色的话\n\n必须都要会。否则的话\n\n员是比较有 难度的。\n\n4\n\n51CTO ：对 其他 Linux 运维 有\n\n吗？比如您现在 招聘 Linux 运维的时候，\n\n注他们的哪些素质？\n\n葛海龙：我在 招聘 linux 的时候主\n\n下几个 方面 ：1.基本 功必须好 ，2.\n\n事必须沉着 ，不慌张，3.最好能有\n\n运维经验。\n\n51CTO ：感谢 海龙的分享 ！本次内容\n\n结束。如果您有什么 问题想要沟通\n\n听到某位运维进行分享， 欢迎留言\n\n本文为节选，原文：\n， http://os.51cto.com/art/201106/272523.htm\n\n推荐阅读：\n\n专访田逸：运维这十年 手边的那些工具\n\n对于企业来说 免费的    DNS    合适吗？\n\nLinux    下的    DNS    安全保障十大技巧 \n习\n专题：可怕的服务器并发\n\n图解：  VNC Server    攻击实战案例  \n，\n系统管理员需要掌握哪些软技能？\n，\n 面向系统管理员的    iPad    应用推荐\n\nhttp://g.51cto.com/linuxops/\nhttp://os.51cto.com/linux/\n投稿信箱：yangsai@51cto.com\n\n什 么 建议\n\n最关\n\n要关心以\n\n不浮躁 ，遇\n\n2 年左右的\n\n到此\n\n，或者希望\n\n交流。 ▌※\n\n左右的 pv 。   葛海龙： 对 。有几 百个城市 的分站。服务 51CTO ： 感谢 海龙的分享 ！ 本次内容 到此\n大体架构 可以分为 三层 ： 第一层 ，也就是 器都在北京，然后有 cdn 加速 。 再就 是前端 结束 。 如果 您有什么 问题想要沟通 ， 或者希望 \n前端是 缓存 服务  器， 用 squid 做  的 ；  第二  层 有缓存 服务器。   听到某位 运维 进行 分享， 欢迎留言 交流。 ▌※\n\n4 \nhttp://g.51cto.com/linuxops/ \nhttp://os.51cto.com/linux/ \n投稿信箱： yangsai@51cto.com"
+  }
+}

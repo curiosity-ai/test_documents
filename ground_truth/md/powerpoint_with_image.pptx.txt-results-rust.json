@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/powerpoint_with_image.pptx.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 7,
+      "word_count": 11,
+      "character_count": 59
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/md/powerpoint_with_image.pptx.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/md/powerpoint_with_image.pptx.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Docling</p>\n<p>Image test</p>\n<p>&lt;!-- image --&gt;</p>\n<p>Image linked to file</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Docling\"},{\"type\":\"paragraph\",\"text\":\"Image test\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"Image linked to file\"}]}",
+    "markdown": "\\# Docling\n\nImage test\n\n\\<\\!-- image --\\>\n\nImage linked to file\n",
+    "plain": "# Docling\n\nImage test\n\n<!-- image -->\n\nImage linked to file"
+  }
+}

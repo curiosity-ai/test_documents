@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/org/links.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 13,
+      "word_count": 33,
+      "character_count": 183
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/org/links.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/org/links.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Links Section</p>\n<p>With ampersands</p>\n<p>Here's a link with an ampersand in the URL.</p>\n<p>Here's a link with an ampersand in the link text: AT&amp;T.</p>\n<p>Regular links</p>\n<p>Just a URL.</p>\n<p>Contact us via email.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Links Section\"},{\"type\":\"paragraph\",\"text\":\"With ampersands\"},{\"type\":\"paragraph\",\"text\":\"Here's a link with an ampersand in the URL.\"},{\"type\":\"paragraph\",\"text\":\"Here's a link with an ampersand in the link text: AT&T.\"},{\"type\":\"paragraph\",\"text\":\"Regular links\"},{\"type\":\"paragraph\",\"text\":\"Just a URL.\"},{\"type\":\"paragraph\",\"text\":\"Contact us via email.\"}]}",
+    "markdown": "Links Section\n\nWith ampersands\n\nHere's a link with an ampersand in the URL.\n\nHere's a link with an ampersand in the link text: AT\\&T.\n\nRegular links\n\nJust a URL.\n\nContact us via email.\n",
+    "plain": "Links Section\n\nWith ampersands\n\nHere's a link with an ampersand in the URL.\n\nHere's a link with an ampersand in the link text: AT&T.\n\nRegular links\n\nJust a URL.\n\nContact us via email."
+  }
+}

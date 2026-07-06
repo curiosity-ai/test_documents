@@ -1,0 +1,160 @@
+{
+  "file": "vendored/pdfplumber/pdf/issue-90-example.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "ISU Grand Prix 2012 Paris, FRA",
+    "authors": [
+      "STSP"
+    ],
+    "created_at": "2003-02-28T07:33:48Z",
+    "modified_at": "2012-11-17T22:02:05Z",
+    "created_by": "PScript5.dll Version 5.2",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.7",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 841,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "vendored/pdfplumber/pdf/issue-90-example.pdf",
+      "extraction_method": "native",
+      "final_uri": "vendored/pdfplumber/pdf/issue-90-example.pdf",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Executed#",
+          "Base GOE The Judges Panel Ref",
+          "Scores"
+        ],
+        [
+          "Elements Info",
+          "Value (in random order)",
+          "of Panel"
+        ]
+      ],
+      "markdown": "| Executed# | Base GOE The Judges Panel Ref | Scores |\n| --- | --- | --- |\n| Elements Info | Value (in random order) | of Panel |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 34.5,
+        "y0": 714.199951171875,
+        "x1": 567.3768310546875,
+        "y1": 728.9500122070312
+      }
+    },
+    {
+      "cells": [
+        [
+          "",
+          "",
+          "4.50"
+        ],
+        [
+          "",
+          "",
+          "5.57"
+        ],
+        [
+          "",
+          "",
+          "2.64"
+        ],
+        [
+          "",
+          "",
+          "4.50"
+        ],
+        [
+          "",
+          "",
+          "24.28"
+        ],
+        [
+          "",
+          "",
+          "6.79"
+        ],
+        [
+          "",
+          "",
+          "6.43"
+        ],
+        [
+          "",
+          "",
+          "6.75"
+        ],
+        [
+          "",
+          "",
+          "6.71"
+        ],
+        [
+          "",
+          "",
+          "6.57"
+        ],
+        [
+          "",
+          "",
+          "26.60"
+        ],
+        [
+          "",
+          "",
+          "-1.00"
+        ],
+        [
+          "",
+          "",
+          "Total"
+        ],
+        [
+          "",
+          "",
+          "Deductions"
+        ],
+        [
+          "",
+          "",
+          "0.00"
+        ],
+        [
+          "Executed#",
+          "Base GOE The Judges Panel Ref",
+          "Scores"
+        ],
+        [
+          "Elements Info",
+          "Value (in random order)",
+          "of Panel"
+        ]
+      ],
+      "markdown": "|  |  | 4.50 |\n| --- | --- | --- |\n|  |  | 5.57 |\n|  |  | 2.64 |\n|  |  | 4.50 |\n|  |  | 24.28 |\n|  |  | 6.79 |\n|  |  | 6.43 |\n|  |  | 6.75 |\n|  |  | 6.71 |\n|  |  | 6.57 |\n|  |  | 26.60 |\n|  |  | -1.00 |\n|  |  | Total |\n|  |  | Deductions |\n|  |  | 0.00 |\n| Executed# | Base GOE The Judges Panel Ref | Scores |\n| Elements Info | Value (in random order) | of Panel |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 28.850000381469727,
+        "y0": 499.3999938964844,
+        "x1": 567.3927612304688,
+        "y1": 710.4000244140625
+      }
+    }
+  ],
+  "content": {
+    "html": "<h1>ISU GP Trophee Bompard 2012</h1>\n<h2>ICE DANCE SHORT DANCE JUDGES DETAILS PER SKATER</h2>\n<pre><code>Rank \nName\nEkaterina PUSHKASH / Jonathan GUERREIRO\n 7\n1\n1YP2+kpNNY\n2\n2YP1+kpNNN\n3\nSTw4\n4\nSlLi4\n5\nNtttiiSt1\nProgram Components \nSkating Skills\nLinking Footwork / Movement\nPerformance\nChoreography\nInterpretation / Timing\nJudges Total Program Component Score (factored)\nDeductions: \nPrinted: 16.11.2012 21:07:09\nStarting\nTotal \nTotal \nNation\nNumber\nSegment\nElement\nScore\nScore\nRUS\n 49.88\n 24.28\n 4\nTotal\nTotal\nProgram  Component\nDeductions\nScore (factored)\n 26.60\n-1.00\n 5.00\n-0.21\n-1\n0\n1\n1\n-1\n-1\n-1\n-1\n0\n 4.79\n 3.00\n 0.14\n-1\n1\n 6.00\n 0.14\n0\n1\n 4.00\n 0.21\n1\n2\n 3.50\n-0.79\n-1\n-1\n 21.50\n1\n1\n1\n-1\n0\n0\n0\n0\n0\n-2\n-2\n-2\n-1\n0\n0\n-1\n0\n 3.14\n1\n1\n0\n0\n 6.14\n1\n0\n1\n0\n 4.21\n-1\n-2\n-2\n 2.71\n 20.99\nFactor\n 0.80\n6.75\n6.75\n6.50\n7.25\n7.25\n6.50\n6.75\n6.75\n6.75\n 6.79\n 0.70\n6.75\n6.75\n7.00\n7.25\n7.00\n6.50\n6.75\n6.50\n6.25\n 6.75\n 0.70\n6.75\n7.50\n6.75\n7.50\n7.00\n6.25\n6.50\n7.00\n6.25\n 6.82\n 0.80\n7.00\n7.25\n6.75\n7.50\n7.25\n6.75\n6.75\n6.75\n6.50\n 6.93\n 1.00\n7.00\n7.25\n6.75\n7.50\n7.00\n6.50\n6.50\n7.00\n6.75\n 6.89\n 27.36\n 0.00</code></pre>\n<table>\n<thead>\n<tr>\n<th>Executed#</th>\n<th>Base GOE The Judges Panel Ref</th>\n<th>Scores</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Elements Info</td>\n<td>Value (in random order)</td>\n<td>of Panel</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n<th>4.50</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td></td>\n<td>5.57</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>2.64</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>4.50</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>24.28</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>6.79</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>6.43</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>6.75</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>6.71</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>6.57</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>26.60</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>-1.00</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Total</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Deductions</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>0.00</td>\n</tr>\n<tr>\n<td>Executed#</td>\n<td>Base GOE The Judges Panel Ref</td>\n<td>Scores</td>\n</tr>\n<tr>\n<td>Elements Info</td>\n<td>Value (in random order)</td>\n<td>of Panel</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"ISU GP Trophee Bompard 2012\"},{\"type\":\"paragraph\",\"text\":\"ICE DANCE SHORT DANCE      JUDGES DETAILS PER SKATER\"},{\"type\":\"paragraph\",\"text\":\"Rank  Name\"},{\"type\":\"paragraph\",\"text\":\"Ekaterina PUSHKASH / Jonathan GUERREIRO 7\"},{\"type\":\"paragraph\",\"text\":\"Executed # \\nElements\"},{\"type\":\"paragraph\",\"text\":\"1 NtCiSt3\"},{\"type\":\"paragraph\",\"text\":\"2 STw3\\n3 1YP3+kpYNY\\n4 2YP1+kpNNN\\n5 RoLi4\"},{\"type\":\"paragraph\",\"text\":\"Program Components\"},{\"type\":\"paragraph\",\"text\":\"Skating Skills\\nLinking Footwork / Movement\\nPerformance\\nChoreography\\nInterpretation / Timing\\nJudges Total Program Component Score (factored)\"},{\"type\":\"paragraph\",\"text\":\"Deductions:\"},{\"type\":\"paragraph\",\"text\":\"Rank  Name\"},{\"type\":\"paragraph\",\"text\":\"8 Pernelle CARRON / Lloyd JONES\"},{\"type\":\"paragraph\",\"text\":\"Executed # \\nElements\"},{\"type\":\"paragraph\",\"text\":\"1 1YP2+kpNNY\"},{\"type\":\"paragraph\",\"text\":\"2 2YP1+kpNNN\\n3 STw4\\n4 SlLi4\\n5 NtMiSt1\"},{\"type\":\"paragraph\",\"text\":\"Program Components\"},{\"type\":\"paragraph\",\"text\":\"Skating Skills\\nLinking Footwork / Movement\\nPerformance\\nChoreography\\nInterpretation / Timing\\nJudges Total Program Component Score (factored)\"},{\"type\":\"paragraph\",\"text\":\"Deductions:\"},{\"type\":\"paragraph\",\"text\":\"Printed: 16.11.2012 21:07:09\"},{\"type\":\"paragraph\",\"text\":\"Starting Total  Total\"},{\"type\":\"paragraph\",\"text\":\"Nation Number Segment Element\"},{\"type\":\"paragraph\",\"text\":\"ScoreScore\"},{\"type\":\"paragraph\",\"text\":\"RUS  49.88  24.28 4\"},{\"type\":\"paragraph\",\"text\":\"Total Total\"},{\"type\":\"paragraph\",\"text\":\"Program  Component Deductions\"},{\"type\":\"paragraph\",\"text\":\"Score (factored)\"},{\"type\":\"paragraph\",\"text\":\"26.60 -1.00\"},{\"type\":\"paragraph\",\"text\":\"Base  GOE \\nInfoValue\"},{\"type\":\"paragraph\",\"text\":\"6.50  0.57 0\"},{\"type\":\"paragraph\",\"text\":\"5.00 -0.50 -1\"},{\"type\":\"paragraph\",\"text\":\"The Judges Panel\\n(in random order)\"},{\"type\":\"paragraph\",\"text\":\"1 0 1 0 1 0 1\"},{\"type\":\"paragraph\",\"text\":\"-1 -1 -2 -1 -1 -1 -1\"},{\"type\":\"paragraph\",\"text\":\"Ref  Scores\\nof Panel\"},{\"type\":\"paragraph\",\"text\":\"1  7.07\"},{\"type\":\"paragraph\",\"text\":\"0  4.50\\n 6.00 -0.43 -2 -1\\n 3.00 -0.36 -2 -1\\n 4.00  0.50 1 0\\n 24.50\"},{\"type\":\"paragraph\",\"text\":\"-1 -1 -1 -1\\n0 -1 -1 -1\\n1 1 1 1\"},{\"type\":\"paragraph\",\"text\":\"-1 0 1  5.57\\n-1 0 0  2.64\\n1 1 1  4.50\\n 24.28\"},{\"type\":\"paragraph\",\"text\":\"Factor\"},{\"type\":\"paragraph\",\"text\":\"0.80 6.25 6.75 7.25 6.50 6.25 7.00 6.50 7.25 7.50  6.79\\n 0.70 6.00 6.00 6.75 6.50 5.75 6.75 6.00 7.00 7.00  6.43\\n 0.70 6.50 6.50 7.00 6.25 6.25 7.00 6.50 7.50 7.50  6.75\\n 0.80 6.00 6.50 6.75 6.50 6.00 7.25 6.50 7.75 7.50  6.71\\n 1.00 5.00 6.00 6.75 6.25 6.25 7.25 6.00 7.50 7.75  6.57\\n 26.60\"},{\"type\":\"paragraph\",\"text\":\"Extended lifts: -1.00\"},{\"type\":\"paragraph\",\"text\":\"Base  GOE \\nInfoValue\"},{\"type\":\"paragraph\",\"text\":\"5.00 -0.21\"},{\"type\":\"paragraph\",\"text\":\"Starting Total  Total\"},{\"type\":\"paragraph\",\"text\":\"Nation Number Segment Element\"},{\"type\":\"paragraph\",\"text\":\"Score Score\"},{\"type\":\"paragraph\",\"text\":\"FRA  6  48.35  20.99\"},{\"type\":\"paragraph\",\"text\":\"The Judges Panel\\n(in random order)\"},{\"type\":\"paragraph\",\"text\":\"-1 0 1 1 -1 -1 -1\"},{\"type\":\"paragraph\",\"text\":\"-1.00\"},{\"type\":\"paragraph\",\"text\":\"Total Total\"},{\"type\":\"paragraph\",\"text\":\"Program  Component Deductions\"},{\"type\":\"paragraph\",\"text\":\"Score (factored)\"},{\"type\":\"paragraph\",\"text\":\"27.36  0.00\"},{\"type\":\"paragraph\",\"text\":\"Ref  Scores\\nof Panel\"},{\"type\":\"paragraph\",\"text\":\"-1 0  4.79\"},{\"type\":\"paragraph\",\"text\":\"3.00  0.14 -1 1\\n 6.00  0.14 0 1\\n 4.00  0.21 1 2\\n 3.50 -0.79 -1 -1\\n 21.50\"},{\"type\":\"paragraph\",\"text\":\"1 1 1\\n-1 0 0\\n0 0 0\\n-2 -2 -2 -1\"},{\"type\":\"paragraph\",\"text\":\"0 0 -1 0  3.14\\n1 1 0 0  6.14\\n1 0 1 0  4.21\\n-1 -2 -2  2.71\\n 20.99\"},{\"type\":\"paragraph\",\"text\":\"Factor\"},{\"type\":\"paragraph\",\"text\":\"0.80 6.75 6.75 6.50 7.25 7.25 6.50 6.75 6.75 6.75  6.79\\n 0.70 6.75 6.75 7.00 7.25 7.00 6.50 6.75 6.50 6.25  6.75\\n 0.70 6.75 7.50 6.75 7.50 7.00 6.25 6.50 7.00 6.25  6.82\\n 0.80 7.00 7.25 6.75 7.50 7.25 6.75 6.75 6.75 6.50  6.93\\n 1.00 7.00 7.25 6.75 7.50 7.00 6.50 6.50 7.00 6.75  6.89\\n 27.36\"},{\"type\":\"paragraph\",\"text\":\"0.00\"},{\"type\":\"table\",\"headers\":[\"Executed#\",\"Base GOE The Judges Panel Ref\",\"Scores\"],\"rows\":[[\"Elements Info\",\"Value (in random order)\",\"of Panel\"]]},{\"type\":\"table\",\"headers\":[\"\",\"\",\"4.50\"],\"rows\":[[\"\",\"\",\"5.57\"],[\"\",\"\",\"2.64\"],[\"\",\"\",\"4.50\"],[\"\",\"\",\"24.28\"],[\"\",\"\",\"6.79\"],[\"\",\"\",\"6.43\"],[\"\",\"\",\"6.75\"],[\"\",\"\",\"6.71\"],[\"\",\"\",\"6.57\"],[\"\",\"\",\"26.60\"],[\"\",\"\",\"-1.00\"],[\"\",\"\",\"Total\"],[\"\",\"\",\"Deductions\"],[\"\",\"\",\"0.00\"],[\"Executed#\",\"Base GOE The Judges Panel Ref\",\"Scores\"],[\"Elements Info\",\"Value (in random order)\",\"of Panel\"]]}]}",
+    "markdown": "# ISU GP Trophee Bompard 2012\n\n## ICE DANCE SHORT DANCE JUDGES DETAILS PER SKATER\n\n```\nRank \nName\nEkaterina PUSHKASH / Jonathan GUERREIRO\n 7\n1\n1YP2+kpNNY\n2\n2YP1+kpNNN\n3\nSTw4\n4\nSlLi4\n5\nNtttiiSt1\nProgram Components \nSkating Skills\nLinking Footwork / Movement\nPerformance\nChoreography\nInterpretation / Timing\nJudges Total Program Component Score (factored)\nDeductions: \nPrinted: 16.11.2012 21:07:09\nStarting\nTotal \nTotal \nNation\nNumber\nSegment\nElement\nScore\nScore\nRUS\n 49.88\n 24.28\n 4\nTotal\nTotal\nProgram  Component\nDeductions\nScore (factored)\n 26.60\n-1.00\n 5.00\n-0.21\n-1\n0\n1\n1\n-1\n-1\n-1\n-1\n0\n 4.79\n 3.00\n 0.14\n-1\n1\n 6.00\n 0.14\n0\n1\n 4.00\n 0.21\n1\n2\n 3.50\n-0.79\n-1\n-1\n 21.50\n1\n1\n1\n-1\n0\n0\n0\n0\n0\n-2\n-2\n-2\n-1\n0\n0\n-1\n0\n 3.14\n1\n1\n0\n0\n 6.14\n1\n0\n1\n0\n 4.21\n-1\n-2\n-2\n 2.71\n 20.99\nFactor\n 0.80\n6.75\n6.75\n6.50\n7.25\n7.25\n6.50\n6.75\n6.75\n6.75\n 6.79\n 0.70\n6.75\n6.75\n7.00\n7.25\n7.00\n6.50\n6.75\n6.50\n6.25\n 6.75\n 0.70\n6.75\n7.50\n6.75\n7.50\n7.00\n6.25\n6.50\n7.00\n6.25\n 6.82\n 0.80\n7.00\n7.25\n6.75\n7.50\n7.25\n6.75\n6.75\n6.75\n6.50\n 6.93\n 1.00\n7.00\n7.25\n6.75\n7.50\n7.00\n6.50\n6.50\n7.00\n6.75\n 6.89\n 27.36\n 0.00\n```\n\n| Executed\\# | Base GOE The Judges Panel Ref | Scores |\n| --- | --- | --- |\n| Elements Info | Value (in random order) | of Panel |\n\n|  |  | 4.50 |\n| --- | --- | --- |\n|  |  | 5.57 |\n|  |  | 2.64 |\n|  |  | 4.50 |\n|  |  | 24.28 |\n|  |  | 6.79 |\n|  |  | 6.43 |\n|  |  | 6.75 |\n|  |  | 6.71 |\n|  |  | 6.57 |\n|  |  | 26.60 |\n|  |  | -1.00 |\n|  |  | Total |\n|  |  | Deductions |\n|  |  | 0.00 |\n| Executed\\# | Base GOE The Judges Panel Ref | Scores |\n| Elements Info | Value (in random order) | of Panel |\n",
+    "plain": "ISU GP Trophee Bompard 2012\n\nICE DANCE SHORT DANCE      JUDGES DETAILS PER SKATER\n\nRank  Name\n\nEkaterina PUSHKASH / Jonathan GUERREIRO 7\n\nExecuted # \nElements\n\n1 NtCiSt3\n\n2 STw3\n3 1YP3+kpYNY\n4 2YP1+kpNNN\n5 RoLi4\n\nProgram Components\n\nSkating Skills\nLinking Footwork / Movement\nPerformance\nChoreography\nInterpretation / Timing\nJudges Total Program Component Score (factored)\n\nDeductions:\n\nRank  Name\n\n8 Pernelle CARRON / Lloyd JONES\n\nExecuted # \nElements\n\n1 1YP2+kpNNY\n\n2 2YP1+kpNNN\n3 STw4\n4 SlLi4\n5 NtMiSt1\n\nProgram Components\n\nSkating Skills\nLinking Footwork / Movement\nPerformance\nChoreography\nInterpretation / Timing\nJudges Total Program Component Score (factored)\n\nDeductions:\n\nPrinted: 16.11.2012 21:07:09\n\nStarting Total  Total\n\nNation Number Segment Element\n\nScoreScore\n\nRUS  49.88  24.28 4\n\nTotal Total\n\nProgram  Component Deductions\n\nScore (factored)\n\n26.60 -1.00\n\nBase  GOE \nInfoValue\n\n6.50  0.57 0\n\n5.00 -0.50 -1\n\nThe Judges Panel\n(in random order)\n\n1 0 1 0 1 0 1\n\n-1 -1 -2 -1 -1 -1 -1\n\nRef  Scores\nof Panel\n\n1  7.07\n\n0  4.50\n 6.00 -0.43 -2 -1\n 3.00 -0.36 -2 -1\n 4.00  0.50 1 0\n 24.50\n\n-1 -1 -1 -1\n0 -1 -1 -1\n1 1 1 1\n\n-1 0 1  5.57\n-1 0 0  2.64\n1 1 1  4.50\n 24.28\n\nFactor\n\n0.80 6.25 6.75 7.25 6.50 6.25 7.00 6.50 7.25 7.50  6.79\n 0.70 6.00 6.00 6.75 6.50 5.75 6.75 6.00 7.00 7.00  6.43\n 0.70 6.50 6.50 7.00 6.25 6.25 7.00 6.50 7.50 7.50  6.75\n 0.80 6.00 6.50 6.75 6.50 6.00 7.25 6.50 7.75 7.50  6.71\n 1.00 5.00 6.00 6.75 6.25 6.25 7.25 6.00 7.50 7.75  6.57\n 26.60\n\nExtended lifts: -1.00\n\nBase  GOE \nInfoValue\n\n5.00 -0.21\n\nStarting Total  Total\n\nNation Number Segment Element\n\nScore Score\n\nFRA  6  48.35  20.99\n\nThe Judges Panel\n(in random order)\n\n-1 0 1 1 -1 -1 -1\n\n-1.00\n\nTotal Total\n\nProgram  Component Deductions\n\nScore (factored)\n\n27.36  0.00\n\nRef  Scores\nof Panel\n\n-1 0  4.79\n\n3.00  0.14 -1 1\n 6.00  0.14 0 1\n 4.00  0.21 1 2\n 3.50 -0.79 -1 -1\n 21.50\n\n1 1 1\n-1 0 0\n0 0 0\n-2 -2 -2 -1\n\n0 0 -1 0  3.14\n1 1 0 0  6.14\n1 0 1 0  4.21\n-1 -2 -2  2.71\n 20.99\n\nFactor\n\n0.80 6.75 6.75 6.50 7.25 7.25 6.50 6.75 6.75 6.75  6.79\n 0.70 6.75 6.75 7.00 7.25 7.00 6.50 6.75 6.50 6.25  6.75\n 0.70 6.75 7.50 6.75 7.50 7.00 6.25 6.50 7.00 6.25  6.82\n 0.80 7.00 7.25 6.75 7.50 7.25 6.75 6.75 6.75 6.50  6.93\n 1.00 7.00 7.25 6.75 7.50 7.00 6.50 6.50 7.00 6.75  6.89\n 27.36\n\n0.00\n\nExecuted# Base GOE The Judges Panel Ref Scores\nElements Info Value (in random order) of Panel\n\n  4.50\n  5.57\n  2.64\n  4.50\n  24.28\n  6.79\n  6.43\n  6.75\n  6.71\n  6.57\n  26.60\n  -1.00\n  Total\n  Deductions\n  0.00\nExecuted# Base GOE The Judges Panel Ref Scores\nElements Info Value (in random order) of Panel"
+  }
+}

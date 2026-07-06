@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/drawingml.docx.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 7,
+      "word_count": 10,
+      "character_count": 46
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/md/drawingml.docx.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/md/drawingml.docx.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Text 2</p>\n<p>Text 1</p>\n<p>&lt;!-- image --&gt;</p>\n<p>&lt;!-- image --&gt;</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Text 2\"},{\"type\":\"paragraph\",\"text\":\"Text 1\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"}]}",
+    "markdown": "Text 2\n\nText 1\n\n\\<\\!-- image --\\>\n\n\\<\\!-- image --\\>\n",
+    "plain": "Text 2\n\nText 1\n\n<!-- image -->\n\n<!-- image -->"
+  }
+}

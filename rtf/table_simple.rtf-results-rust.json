@@ -1,0 +1,45 @@
+{
+  "file": "rtf/table_simple.rtf",
+  "mime_type": "application/rtf",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "word_count": 2,
+      "source_kind": "uri",
+      "character_count": 24,
+      "line_count": 3,
+      "source_uri": "rtf/table_simple.rtf",
+      "paragraph_count": 2,
+      "source_index": 0,
+      "final_uri": "rtf/table_simple.rtf"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        [
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      ],
+      "markdown": "| A | B | C | D |\n| --- | --- | --- | --- |\n| E | F | G | H |\n",
+      "page_number": 0
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>A</th>\n<th>B</th>\n<th>C</th>\n<th>D</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>E</td>\n<td>F</td>\n<td>G</td>\n<td>H</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"A\",\"B\",\"C\",\"D\"],\"rows\":[[\"E\",\"F\",\"G\",\"H\"]]}]}",
+    "markdown": "| A | B | C | D |\n| --- | --- | --- | --- |\n| E | F | G | H |\n",
+    "plain": "A B C D\nE F G H"
+  }
+}

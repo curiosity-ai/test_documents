@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/odt/odt_lists.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 19,
+      "word_count": 23,
+      "character_count": 123
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/odt/odt_lists.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/odt/odt_lists.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>A list item</p>\n<p>A second</p>\n<p>A third</p>\n<p>New level!</p>\n<p>And another!</p>\n<p>It's great up here!</p>\n<p>Oh noes</p>\n<p>We fell!</p>\n<p>Maybe someone</p>\n<p>Pushed us?</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"A list item\"},{\"type\":\"paragraph\",\"text\":\"A second\"},{\"type\":\"paragraph\",\"text\":\"A third\"},{\"type\":\"paragraph\",\"text\":\"New level!\"},{\"type\":\"paragraph\",\"text\":\"And another!\"},{\"type\":\"paragraph\",\"text\":\"It's great up here!\"},{\"type\":\"paragraph\",\"text\":\"Oh noes\"},{\"type\":\"paragraph\",\"text\":\"We fell!\"},{\"type\":\"paragraph\",\"text\":\"Maybe someone\"},{\"type\":\"paragraph\",\"text\":\"Pushed us?\"}]}",
+    "markdown": "A list item\n\nA second\n\nA third\n\nNew level\\!\n\nAnd another\\!\n\nIt's great up here\\!\n\nOh noes\n\nWe fell\\!\n\nMaybe someone\n\nPushed us?\n",
+    "plain": "A list item\n\nA second\n\nA third\n\nNew level!\n\nAnd another!\n\nIt's great up here!\n\nOh noes\n\nWe fell!\n\nMaybe someone\n\nPushed us?"
+  }
+}

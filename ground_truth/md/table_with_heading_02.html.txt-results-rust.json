@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/table_with_heading_02.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 11,
+      "word_count": 25,
+      "character_count": 138
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/md/table_with_heading_02.html.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/md/table_with_heading_02.html.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Main Title</p>\n<p>Before the table</p>\n<p>| ## A text | B | |--------------|------| | 1... | 2... |</p>\n<p>## Section After</p>\n<p>After the table</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Main Title\"},{\"type\":\"paragraph\",\"text\":\"Before the table\"},{\"type\":\"paragraph\",\"text\":\"| ## A  text   | B    |\\n|--------------|------|\\n| 1...         | 2... |\"},{\"type\":\"paragraph\",\"text\":\"## Section After\"},{\"type\":\"paragraph\",\"text\":\"After the table\"}]}",
+    "markdown": "\\# Main Title\n\nBefore the table\n\n| \\#\\# A text | B | |--------------|------| | 1... | 2... |\n\n\\#\\# Section After\n\nAfter the table\n",
+    "plain": "# Main Title\n\nBefore the table\n\n| ## A  text   | B    |\n|--------------|------|\n| 1...         | 2... |\n\n## Section After\n\nAfter the table"
+  }
+}

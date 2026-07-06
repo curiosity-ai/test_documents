@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/pdf/issue-1279-example.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "The Voice of God Again Is Heard",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/issue-1279-example.md",
+      "final_uri": "ground_truth/pdf/issue-1279-example.md",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>The Voice of God Again Is Heard</h1>\n<p>18</p>\n<p>Majestically 69-80</p>\n<ol>\n<li>The voice of God a - gain is heard. The silence has been bro - ken.</li>\n<li>Ο mes-sen-gers of truth, go forth, Pro - claim the gos - pel sto - ry,</li>\n</ol>\n<p>The curse of dark-ness is with-drawn. The Lord from heav'n has spo - ken. Go forth the na- tions to prepare To greet the King of glo - ry.</p>\n<p>Re - joice, ye liv - ing and ye dead! Re - joice, for your sal va - tion We shout ho san na, shout a - gain, Till all cre - a tion blend - ing</p>\n<p>Be - gins a new this happy morn Of fi nal dis - pen sa - tion. Shall join in one great, grand a - men Of an - thems nev - er - end - ing.</p>\n<p>Text and music: Evan Stephens, 1854–1930 Joseph Smith-History 1:17 Doctrine and Covenants 128:19, 22-23</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"The Voice of God Again Is Heard\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"18\"},{\"type\":\"paragraph\",\"text\":\"Majestically 69-80\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"The voice of God a - gain is heard. The silence has been bro - ken.\",\"Ο mes-sen-gers of truth, go forth, Pro - claim the gos - pel sto - ry,\"]},{\"type\":\"paragraph\",\"text\":\"The curse of dark-ness is with-drawn. The Lord from heav'n has spo - ken. Go forth the na- tions to prepare To greet the King of glo - ry.\"},{\"type\":\"paragraph\",\"text\":\"Re - joice, ye liv - ing and ye dead! Re - joice, for your sal va - tion We shout ho san na, shout a - gain, Till all cre - a tion blend - ing\"},{\"type\":\"paragraph\",\"text\":\"Be - gins a new this happy morn Of fi nal dis - pen sa - tion. Shall join in one great, grand a - men Of an - thems nev - er - end - ing.\"},{\"type\":\"paragraph\",\"text\":\"Text and music: Evan Stephens, 1854–1930 Joseph Smith-History 1:17 Doctrine and Covenants 128:19, 22-23\"}]}]}",
+    "markdown": "# The Voice of God Again Is Heard\n\n18\n\nMajestically 69-80\n\n1. The voice of God a - gain is heard. The silence has been bro - ken.\n2. Ο mes-sen-gers of truth, go forth, Pro - claim the gos - pel sto - ry,\n\nThe curse of dark-ness is with-drawn. The Lord from heav'n has spo - ken. Go forth the na- tions to prepare To greet the King of glo - ry.\n\nRe - joice, ye liv - ing and ye dead\\! Re - joice, for your sal va - tion We shout ho san na, shout a - gain, Till all cre - a tion blend - ing\n\nBe - gins a new this happy morn Of fi nal dis - pen sa - tion. Shall join in one great, grand a - men Of an - thems nev - er - end - ing.\n\nText and music: Evan Stephens, 1854–1930 Joseph Smith-History 1:17 Doctrine and Covenants 128:19, 22-23\n",
+    "plain": "The Voice of God Again Is Heard\n18\n\nMajestically 69-80\n\nThe voice of God a - gain is heard. The silence has been bro - ken.\nΟ mes-sen-gers of truth, go forth, Pro - claim the gos - pel sto - ry,\nThe curse of dark-ness is with-drawn. The Lord from heav'n has spo - ken. Go forth the na- tions to prepare To greet the King of glo - ry.\n\nRe - joice, ye liv - ing and ye dead! Re - joice, for your sal va - tion We shout ho san na, shout a - gain, Till all cre - a tion blend - ing\n\nBe - gins a new this happy morn Of fi nal dis - pen sa - tion. Shall join in one great, grand a - men Of an - thems nev - er - end - ing.\n\nText and music: Evan Stephens, 1854–1930 Joseph Smith-History 1:17 Doctrine and Covenants 128:19, 22-23"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/mixed_without_h1.md.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 10,
+      "word_count": 21,
+      "character_count": 107
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/md/mixed_without_h1.md.txt",
+      "final_uri": "ground_truth/md/mixed_without_h1.md.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Content before first heading</p>\n<p>## Some heading</p>\n<p>- A. first - subitem - B. second - 2 . strange</p>\n<p>The end!</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Content before first heading\"},{\"type\":\"paragraph\",\"text\":\"## Some heading\"},{\"type\":\"paragraph\",\"text\":\"- A. first\\n    - subitem\\n- B. second\\n- 2 . strange\"},{\"type\":\"paragraph\",\"text\":\"The end!\"}]}",
+    "markdown": "Content before first heading\n\n\\#\\# Some heading\n\n\\- A. first - subitem - B. second - 2 . strange\n\nThe end\\!\n",
+    "plain": "Content before first heading\n\n## Some heading\n\n- A. first\n    - subitem\n- B. second\n- 2 . strange\n\nThe end!"
+  }
+}

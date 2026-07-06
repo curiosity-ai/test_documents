@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/json/code_and_formula.pages.meta.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 8,
+      "word_count": 10,
+      "character_count": 60
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/json/code_and_formula.pages.meta.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/json/code_and_formula.pages.meta.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>[ { &quot;num_cells&quot;: 64 }, { &quot;num_cells&quot;: 64 } ]</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"[\\n  {\\n    \\\"num_cells\\\": 64\\n  },\\n  {\\n    \\\"num_cells\\\": 64\\n  }\\n]\"}]}",
+    "markdown": "[ { \"num_cells\": 64 }, { \"num_cells\": 64 } ]\n",
+    "plain": "[\n  {\n    \"num_cells\": 64\n  },\n  {\n    \"num_cells\": 64\n  }\n]"
+  }
+}

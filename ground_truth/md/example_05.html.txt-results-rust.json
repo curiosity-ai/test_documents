@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/example_05.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 7,
+      "word_count": 83,
+      "character_count": 474
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/md/example_05.html.txt",
+      "final_uri": "ground_truth/md/example_05.html.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Omitted html and body tags</p>\n<p>| Header 1 | Header 2 &amp; 3 (colspan) | Header 2 &amp; 3 (colspan) | |----------------------------|----------------------------|----------------------------| | Row 1 &amp; 2, Col 1 (rowspan) | Row 1, Col 2 | Row 1, Col 3 | | Row 1 &amp; 2, Col 1 (rowspan) | Row 2, Col 2 &amp; 3 (colspan) | Row 2, Col 2 &amp; 3 (colspan) | | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Omitted html and body tags\"},{\"type\":\"paragraph\",\"text\":\"| Header 1                   | Header 2 & 3 (colspan)     | Header 2 & 3 (colspan)     |\\n|----------------------------|----------------------------|----------------------------|\\n| Row 1 & 2, Col 1 (rowspan) | Row 1, Col 2               | Row 1, Col 3               |\\n| Row 1 & 2, Col 1 (rowspan) | Row 2, Col 2 & 3 (colspan) | Row 2, Col 2 & 3 (colspan) |\\n| Row 3, Col 1               | Row 3, Col 2               | Row 3, Col 3               |\"}]}",
+    "markdown": "\\# Omitted html and body tags\n\n| Header 1 | Header 2 & 3 (colspan) | Header 2 & 3 (colspan) | |----------------------------|----------------------------|----------------------------| | Row 1 & 2, Col 1 (rowspan) | Row 1, Col 2 | Row 1, Col 3 | | Row 1 & 2, Col 1 (rowspan) | Row 2, Col 2 & 3 (colspan) | Row 2, Col 2 & 3 (colspan) | | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |\n",
+    "plain": "# Omitted html and body tags\n\n| Header 1                   | Header 2 & 3 (colspan)     | Header 2 & 3 (colspan)     |\n|----------------------------|----------------------------|----------------------------|\n| Row 1 & 2, Col 1 (rowspan) | Row 1, Col 2               | Row 1, Col 3               |\n| Row 1 & 2, Col 1 (rowspan) | Row 2, Col 2 & 3 (colspan) | Row 2, Col 2 & 3 (colspan) |\n| Row 3, Col 1               | Row 3, Col 2               | Row 3, Col 3               |"
+  }
+}

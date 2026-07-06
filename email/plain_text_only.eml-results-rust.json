@@ -1,0 +1,36 @@
+{
+  "file": "email/plain_text_only.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Simple Plain Text Email",
+    "created_at": "Mon, 1 Jan 2024 12:00:00 +0000",
+    "format": {
+      "format_type": "email",
+      "from_email": "test@example.com",
+      "to_emails": [
+        "recipient@example.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "message_id": "simple123@example.com",
+      "attachments": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "email/plain_text_only.eml",
+      "content_type": "text/plain; charset=utf-8",
+      "source_uri": "email/plain_text_only.eml",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Simple Plain Text Email</p>\n<p><strong>From</strong>: test@example.com</p>\n<p><strong>To</strong>: recipient@example.com</p>\n<p><strong>Date</strong>: Mon, 1 Jan 2024 12:00:00 +0000</p>\n<p>This is a simple plain text email without any attachments.</p>\n<p>It contains multiple lines of text.</p>\n<p>Best regards, Test User</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a simple plain text email without any attachments.\"},{\"type\":\"paragraph\",\"text\":\"It contains multiple lines of text.\"},{\"type\":\"paragraph\",\"text\":\"Best regards,\\nTest User\"}]}",
+    "markdown": "**Subject**: Simple Plain Text Email\n\n**From**: test@example.com\n\n**To**: recipient@example.com\n\n**Date**: Mon, 1 Jan 2024 12:00:00 +0000\n\nThis is a simple plain text email without any attachments.\n\nIt contains multiple lines of text.\n\nBest regards, Test User\n",
+    "plain": "Subject: Simple Plain Text Email\nFrom: test@example.com\nTo: recipient@example.com\nDate: Mon, 1 Jan 2024 12:00:00 +0000\n\nThis is a simple plain text email without any attachments.\n\nIt contains multiple lines of text.\n\nBest regards,\nTest User"
+  }
+}

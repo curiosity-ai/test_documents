@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/typ/typst_simple.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 41,
+      "word_count": 88,
+      "character_count": 496
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/typ/typst_simple.txt",
+      "final_uri": "ground_truth/typ/typst_simple.txt",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Introduction</p>\n<p>This is a simple Typst document with basic formatting.</p>\n<p>Subsection</p>\n<p>Some *bold text* and _italic text_ with `inline code`.</p>\n<p>Features</p>\n<p>This document demonstrates: - Lists - *Bold* formatting - _Italic_ text - Tables - Links</p>\n<p>Lists</p>\n<p>- First item - Second item - Third item</p>\n<p>Code</p>\n<p>`#let x = 5`</p>\n<p>Tables</p>\n<p>Header 1\tHeader 2 Row 1, Col 1\tRow 1, Col 2 Row 2, Col 1\tRow 2, Col 2</p>\n<p>Links</p>\n<p>Visit Typst website for more info.</p>\n<p>Conclusion</p>\n<p>This document demonstrates the basic features of Typst.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Introduction\"},{\"type\":\"paragraph\",\"text\":\"This is a simple Typst document with basic formatting.\"},{\"type\":\"paragraph\",\"text\":\"Subsection\"},{\"type\":\"paragraph\",\"text\":\"Some *bold text* and _italic text_ with `inline code`.\"},{\"type\":\"paragraph\",\"text\":\"Features\"},{\"type\":\"paragraph\",\"text\":\"This document demonstrates:\\n- Lists\\n- *Bold* formatting\\n- _Italic_ text\\n- Tables\\n- Links\"},{\"type\":\"paragraph\",\"text\":\"Lists\"},{\"type\":\"paragraph\",\"text\":\"- First item\\n- Second item\\n- Third item\"},{\"type\":\"paragraph\",\"text\":\"Code\"},{\"type\":\"paragraph\",\"text\":\"`#let x = 5`\"},{\"type\":\"paragraph\",\"text\":\"Tables\"},{\"type\":\"paragraph\",\"text\":\"Header 1\\tHeader 2\\nRow 1, Col 1\\tRow 1, Col 2\\nRow 2, Col 1\\tRow 2, Col 2\"},{\"type\":\"paragraph\",\"text\":\"Links\"},{\"type\":\"paragraph\",\"text\":\"Visit Typst website for more info.\"},{\"type\":\"paragraph\",\"text\":\"Conclusion\"},{\"type\":\"paragraph\",\"text\":\"This document demonstrates the basic features of Typst.\"}]}",
+    "markdown": "Introduction\n\nThis is a simple Typst document with basic formatting.\n\nSubsection\n\nSome *bold text* and _italic text_ with \\`inline code\\`.\n\nFeatures\n\nThis document demonstrates: - Lists - *Bold* formatting - _Italic_ text - Tables - Links\n\nLists\n\n\\- First item - Second item - Third item\n\nCode\n\n\\`\\#let x = 5\\`\n\nTables\n\nHeader 1&#9;Header 2 Row 1, Col 1&#9;Row 1, Col 2 Row 2, Col 1&#9;Row 2, Col 2\n\nLinks\n\nVisit Typst website for more info.\n\nConclusion\n\nThis document demonstrates the basic features of Typst.\n",
+    "plain": "Introduction\n\nThis is a simple Typst document with basic formatting.\n\nSubsection\n\nSome *bold text* and _italic text_ with `inline code`.\n\nFeatures\n\nThis document demonstrates:\n- Lists\n- *Bold* formatting\n- _Italic_ text\n- Tables\n- Links\n\nLists\n\n- First item\n- Second item\n- Third item\n\nCode\n\n`#let x = 5`\n\nTables\n\nHeader 1\tHeader 2\nRow 1, Col 1\tRow 1, Col 2\nRow 2, Col 1\tRow 2, Col 2\n\nLinks\n\nVisit Typst website for more info.\n\nConclusion\n\nThis document demonstrates the basic features of Typst."
+  }
+}

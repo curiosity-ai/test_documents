@@ -1,0 +1,40 @@
+{
+  "file": "pdf/non_searchable.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "Untitled",
+    "authors": [
+      "Dell"
+    ],
+    "created_at": "2013-10-08T13:21:40Z",
+    "modified_at": "2013-10-08T13:21:40Z",
+    "created_by": "PScript5.dll Version 5.2.2",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "GPL Ghostscript 8.15",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "pdf/non_searchable.pdf",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "pdf/non_searchable.pdf",
+      "extraction_method": "native"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "",
+    "json": "{\"body\":[]}",
+    "markdown": "",
+    "plain": ""
+  }
+}

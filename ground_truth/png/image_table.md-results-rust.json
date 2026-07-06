@@ -1,0 +1,76 @@
+{
+  "file": "ground_truth/png/image_table.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Sales Report 2024",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/png/image_table.md",
+      "source_uri": "ground_truth/png/image_table.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Product",
+          "Units",
+          "Revenue"
+        ],
+        [
+          "Widget A",
+          "150",
+          ",500"
+        ],
+        [
+          "Widget B",
+          "200",
+          ",000"
+        ],
+        [
+          "Widget C",
+          "100",
+          ",000"
+        ]
+      ],
+      "markdown": "| Product | Units | Revenue |\n| --- | --- | --- |\n| Widget A | 150 | ,500 |\n| Widget B | 200 | ,000 |\n| Widget C | 100 | ,000 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Product",
+          "Units",
+          "Revenue"
+        ],
+        [
+          "Widget A",
+          "180",
+          ",000"
+        ],
+        [
+          "Widget B",
+          "220",
+          ",200"
+        ],
+        [
+          "Widget C",
+          "130",
+          ",400"
+        ]
+      ],
+      "markdown": "| Product | Units | Revenue |\n| --- | --- | --- |\n| Widget A | 180 | ,000 |\n| Widget B | 220 | ,200 |\n| Widget C | 130 | ,400 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Sales Report 2024</h1>\n<p>This report contains quarterly sales data for our products.</p>\n<h2>Q1 Sales:</h2>\n<table>\n<thead>\n<tr>\n<th>Product</th>\n<th>Units</th>\n<th>Revenue</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Widget A</td>\n<td>150</td>\n<td>,500</td>\n</tr>\n<tr>\n<td>Widget B</td>\n<td>200</td>\n<td>,000</td>\n</tr>\n<tr>\n<td>Widget C</td>\n<td>100</td>\n<td>,000</td>\n</tr>\n</tbody>\n</table>\n<h2>Q2 Sales:</h2>\n<table>\n<thead>\n<tr>\n<th>Product</th>\n<th>Units</th>\n<th>Revenue</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Widget A</td>\n<td>180</td>\n<td>,000</td>\n</tr>\n<tr>\n<td>Widget B</td>\n<td>220</td>\n<td>,200</td>\n</tr>\n<tr>\n<td>Widget C</td>\n<td>130</td>\n<td>,400</td>\n</tr>\n</tbody>\n</table>\n<h2>Summary:</h2>\n<p>Total Q1 Revenue: ,500</p>\n<p>Total Q2 Revenue: ,600</p>\n<p>Prepared by: John Doe</p>\n<p>Date: 2024-03-15</p>\n<p>Department: Finance</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Sales Report 2024\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This report contains quarterly sales data for our products.\"},{\"type\":\"section\",\"heading\":\"Q1 Sales:\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Product\",\"Units\",\"Revenue\"],\"rows\":[[\"Widget A\",\"150\",\",500\"],[\"Widget B\",\"200\",\",000\"],[\"Widget C\",\"100\",\",000\"]]}]},{\"type\":\"section\",\"heading\":\"Q2 Sales:\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Product\",\"Units\",\"Revenue\"],\"rows\":[[\"Widget A\",\"180\",\",000\"],[\"Widget B\",\"220\",\",200\"],[\"Widget C\",\"130\",\",400\"]]}]},{\"type\":\"section\",\"heading\":\"Summary:\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Total Q1 Revenue: ,500\"},{\"type\":\"paragraph\",\"text\":\"Total Q2 Revenue: ,600\"},{\"type\":\"paragraph\",\"text\":\"Prepared by: John Doe\"},{\"type\":\"paragraph\",\"text\":\"Date: 2024-03-15\"},{\"type\":\"paragraph\",\"text\":\"Department: Finance\"}]}]}]}",
+    "markdown": "# Sales Report 2024\n\nThis report contains quarterly sales data for our products.\n\n## Q1 Sales:\n\n| Product | Units | Revenue |\n| --- | --- | --- |\n| Widget A | 150 | ,500 |\n| Widget B | 200 | ,000 |\n| Widget C | 100 | ,000 |\n\n## Q2 Sales:\n\n| Product | Units | Revenue |\n| --- | --- | --- |\n| Widget A | 180 | ,000 |\n| Widget B | 220 | ,200 |\n| Widget C | 130 | ,400 |\n\n## Summary:\n\nTotal Q1 Revenue: ,500\n\nTotal Q2 Revenue: ,600\n\nPrepared by: John Doe\n\nDate: 2024-03-15\n\nDepartment: Finance\n",
+    "plain": "Sales Report 2024\nThis report contains quarterly sales data for our products.\n\n  Q1 Sales:\nProduct Units Revenue\nWidget A 150 ,500\nWidget B 200 ,000\nWidget C 100 ,000\n\n  Q2 Sales:\nProduct Units Revenue\nWidget A 180 ,000\nWidget B 220 ,200\nWidget C 130 ,400\n\n  Summary:\nTotal Q1 Revenue: ,500\n\nTotal Q2 Revenue: ,600\n\nPrepared by: John Doe\n\nDate: 2024-03-15\n\nDepartment: Finance"
+  }
+}

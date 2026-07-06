@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/example_03.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 27,
+      "word_count": 123,
+      "character_count": 610
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/md/example_03.html.txt",
+      "source_uri": "ground_truth/md/example_03.html.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Example Document</p>\n<p>## Introduction</p>\n<p>This is the first paragraph of the introduction.</p>\n<p>## Background</p>\n<p>Some background information here.</p>\n<p>- First item in unordered list - Nested item 1 - Nested item 2 - Second item in unordered list</p>\n<p>1. First item in ordered list 1. Nested ordered item 1 2. Nested ordered item 2 2. Second item in ordered list</p>\n<p>## Data Table</p>\n<p>| Header 1 | Header 2 | Header 3 | |--------------|--------------|--------------| | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 | | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Example Document\"},{\"type\":\"paragraph\",\"text\":\"## Introduction\"},{\"type\":\"paragraph\",\"text\":\"This is the first paragraph of the introduction.\"},{\"type\":\"paragraph\",\"text\":\"## Background\"},{\"type\":\"paragraph\",\"text\":\"Some background information here.\"},{\"type\":\"paragraph\",\"text\":\"- First item in unordered list\\n    - Nested item 1\\n    - Nested item 2\\n- Second item in unordered list\"},{\"type\":\"paragraph\",\"text\":\"1. First item in ordered list\\n    1. Nested ordered item 1\\n    2. Nested ordered item 2\\n2. Second item in ordered list\"},{\"type\":\"paragraph\",\"text\":\"## Data Table\"},{\"type\":\"paragraph\",\"text\":\"| Header 1     | Header 2     | Header 3     |\\n|--------------|--------------|--------------|\\n| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |\\n| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |\\n| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |\"}]}",
+    "markdown": "\\# Example Document\n\n\\#\\# Introduction\n\nThis is the first paragraph of the introduction.\n\n\\#\\# Background\n\nSome background information here.\n\n\\- First item in unordered list - Nested item 1 - Nested item 2 - Second item in unordered list\n\n1\\. First item in ordered list 1. Nested ordered item 1 2. Nested ordered item 2 2. Second item in ordered list\n\n\\#\\# Data Table\n\n| Header 1 | Header 2 | Header 3 | |--------------|--------------|--------------| | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 | | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |\n",
+    "plain": "# Example Document\n\n## Introduction\n\nThis is the first paragraph of the introduction.\n\n## Background\n\nSome background information here.\n\n- First item in unordered list\n    - Nested item 1\n    - Nested item 2\n- Second item in unordered list\n\n1. First item in ordered list\n    1. Nested ordered item 1\n    2. Nested ordered item 2\n2. Second item in ordered list\n\n## Data Table\n\n| Header 1     | Header 2     | Header 3     |\n|--------------|--------------|--------------|\n| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |\n| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |\n| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "file": "vendored/pdfplumber/pdf/table-curves-example.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "Eliquis, INN-apixaban",
+    "subject": "EPAR",
+    "authors": [
+      "CHMP"
+    ],
+    "keywords": [
+      "Eliquis",
+      "INN-apixaban"
+    ],
+    "created_at": "2022-04-26T12:28:57Z",
+    "modified_at": "2022-04-26T12:37:17Z",
+    "created_by": "PScript5.dll Version 5.2.2",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.6",
+      "producer": "cpdf non-commercial use only. To buy: http://coherentpdf.com/",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/pdfplumber/pdf/table-curves-example.pdf",
+      "extraction_method": "native",
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "vendored/pdfplumber/pdf/table-curves-example.pdf"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          "VTE in adult",
+          "stroke and",
+          "and PE, and"
+        ],
+        [
+          "",
+          "patients who",
+          "systemic",
+          "prevention of"
+        ],
+        [
+          "",
+          "have undergone",
+          "embolism in",
+          "recurrent DVT and"
+        ],
+        [
+          "",
+          "elective hip or",
+          "adult patients",
+          "PE (VTEt)"
+        ],
+        [
+          "",
+          "knee replacement",
+          "with NVAF, with",
+          ""
+        ],
+        [
+          "",
+          "surgery (VTEp)",
+          "one or more risk",
+          ""
+        ],
+        [
+          "",
+          "",
+          "factors (NVAF)",
+          ""
+        ]
+      ],
+      "markdown": "|  | VTE in adult | stroke and | and PE, and |\n| --- | --- | --- | --- |\n|  | patients who | systemic | prevention of |\n|  | have undergone | embolism in | recurrent DVT and |\n|  | elective hip or | adult patients | PE (VTEt) |\n|  | knee replacement | with NVAF, with |  |\n|  | surgery (VTEp) | one or more risk |  |\n|  |  | factors (NVAF) |  |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 92.94000244140625,
+        "y0": 595.1700439453125,
+        "x1": 532.6199951171875,
+        "y1": 690.8399658203125
+      }
+    },
+    {
+      "cells": [
+        [
+          "Haemorrhage, haematoma",
+          "Common",
+          "Common",
+          "Common"
+        ],
+        [
+          "Hypotension (including procedural",
+          "Uncommon",
+          "Common",
+          "Uncommon"
+        ]
+      ],
+      "markdown": "| Haemorrhage, haematoma | Common | Common | Common |\n| --- | --- | --- | --- |\n| Hypotension (including procedural | Uncommon | Common | Uncommon |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 92.94000244140625,
+        "y0": 372.29974365234375,
+        "x1": 532.6199951171875,
+        "y1": 394.52996826171875
+      }
+    },
+    {
+      "cells": [
+        [
+          "Haematochezia",
+          "Uncommon",
+          "Uncommon",
+          "Uncommon"
+        ],
+        [
+          "Rectal haemorrhage, gingival",
+          "Rare",
+          "Common",
+          "Common"
+        ]
+      ],
+      "markdown": "| Haematochezia | Uncommon | Uncommon | Uncommon |\n| --- | --- | --- | --- |\n| Rectal haemorrhage, gingival | Rare | Common | Common |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 92.94000244140625,
+        "y0": 201.84010314941406,
+        "x1": 532.6199951171875,
+        "y1": 224.10000610351562
+      }
+    },
+    {
+      "cells": [
+        [
+          "aminotransferase increased, blood",
+          "",
+          "",
+          ""
+        ],
+        [
+          "alkaline phosphatase increased, blood",
+          "",
+          "",
+          ""
+        ],
+        [
+          "bilirubin increased",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Gamma-glutamyltransferase",
+          "Uncommon",
+          "Common",
+          "Common"
+        ]
+      ],
+      "markdown": "| aminotransferase increased, blood |  |  |  |\n| --- | --- | --- | --- |\n| alkaline phosphatase increased, blood |  |  |  |\n| bilirubin increased |  |  |  |\n| Gamma-glutamyltransferase | Uncommon | Common | Common |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 98.04000091552734,
+        "y0": 99.78009796142578,
+        "x1": 532.6199951171875,
+        "y1": 157.67999267578125
+      }
+    }
+  ],
+  "content": {
+    "html": "<p>to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data) for VTEp, NVAF, and VTEt respectively.</p>\n<h1>Table 2: Tabulated adverse reactions</h1>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>VTE in adult</th>\n<th>stroke and</th>\n<th>and PE, and</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>patients who</td>\n<td>systemic</td>\n<td>prevention of</td>\n</tr>\n<tr>\n<td></td>\n<td>have undergone</td>\n<td>embolism in</td>\n<td>recurrent DVT and</td>\n</tr>\n<tr>\n<td></td>\n<td>elective hip or</td>\n<td>adult patients</td>\n<td>PE (VTEt)</td>\n</tr>\n<tr>\n<td></td>\n<td>knee replacement</td>\n<td>with NVAF, with</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>surgery (VTEp)</td>\n<td>one or more risk</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>factors (NVAF)</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p><em>Blood and lymphatic system disorders</em> Anaemia Thrombocytopenia <em>Immune system disorders</em> Hypersensitivity, allergic oedema and Anaphylaxis Pruritus Angioedema <em>Nervous system disorders</em> Brain haemorrhage † <em>Eye disorders</em> Eye haemorrhage (including conjunctival haemorrhage) <em>Vascular disorders</em> hypotension) Intra-abdominal haemorrhage <em>Respiratory, thoracic and mediastinal disorders</em> Epistaxis Haemoptysis Respiratory tract haemorrhage <em>Gastrointestinal disorders</em> Nausea Gastrointestinal haemorrhage Haemorrhoidal haemorrhage Mouth haemorrhage bleeding Retroperitoneal haemorrhage <em>Hepatobiliary disorders</em> increased Alanine aminotransferase increased <em>Skin and subcutaneous tissue disorders</em> Common Uncommon Rare Uncommon Not known Not known Rare Not known Uncommon Rare Not known Common Uncommon Not known Not known Not known Uncommon</p>\n<p>Common Uncommon Uncommon Uncommon Not known Uncommon Common Uncommon Common Uncommon Rare Common Common Uncommon Uncommon Rare Uncommon Common Common Uncommon Uncommon* Not known Rare Uncommon Not known Common Uncommon Rare Common Common Uncommon Common Not known Common</p>\n<table>\n<thead>\n<tr>\n<th>Haemorrhage, haematoma</th>\n<th>Common</th>\n<th>Common</th>\n<th>Common</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Hypotension (including procedural</td>\n<td>Uncommon</td>\n<td>Common</td>\n<td>Uncommon</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Haematochezia</th>\n<th>Uncommon</th>\n<th>Uncommon</th>\n<th>Uncommon</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Rectal haemorrhage, gingival</td>\n<td>Rare</td>\n<td>Common</td>\n<td>Common</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>aminotransferase increased, blood</th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>alkaline phosphatase increased, blood</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>bilirubin increased</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Gamma-glutamyltransferase</td>\n<td>Uncommon</td>\n<td>Common</td>\n<td>Common</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated \\nfrom the available data) for VTEp, NVAF, and VTEt respectively. \\n \\nTable 2: Tabulated adverse reactions \\nSystem organ class\"},{\"type\":\"paragraph\",\"text\":\"Blood and lymphatic system disorders\"},{\"type\":\"paragraph\",\"text\":\"Anaemia  \\nThrombocytopenia  \\nImmune system disorders\"},{\"type\":\"paragraph\",\"text\":\"Hypersensitivity, allergic oedema and \\nAnaphylaxis  \\nPruritus \\nAngioedema \\nNervous system disorders\"},{\"type\":\"paragraph\",\"text\":\"Brain haemorrhage† \\nEye disorders\"},{\"type\":\"paragraph\",\"text\":\"Eye haemorrhage (including \\nconjunctival haemorrhage) \\nVascular disorders\"},{\"type\":\"paragraph\",\"text\":\"Haemorrhage, haematoma \\nHypotension (including procedural \\nhypotension) \\nIntra-abdominal haemorrhage \\nRespiratory, thoracic and mediastinal disorders\"},{\"type\":\"paragraph\",\"text\":\"Epistaxis \\nHaemoptysis \\nRespiratory tract haemorrhage  \\nGastrointestinal disorders\"},{\"type\":\"paragraph\",\"text\":\"Nausea \\nGastrointestinal haemorrhage \\nHaemorrhoidal haemorrhage \\nMouth haemorrhage \\nHaematochezia \\nRectal haemorrhage, gingival \\nbleeding \\nRetroperitoneal haemorrhage \\nHepatobiliary disorders\"},{\"type\":\"paragraph\",\"text\":\"Liver function test abnormal, asparate \\naminotransferase increased, blood \\nalkaline phosphatase increased, blood \\nbilirubin increased \\nGamma-glutamyltransferase \\nincreased \\nAlanine aminotransferase increased \\nSkin and subcutaneous tissue disorders\"},{\"type\":\"paragraph\",\"text\":\"Prevention of \\nVTE in adult \\npatients who \\nhave undergone \\nelective hip or \\nknee replacement \\nsurgery (VTEp)\"},{\"type\":\"paragraph\",\"text\":\"Common \\nUncommon\"},{\"type\":\"paragraph\",\"text\":\"Rare\"},{\"type\":\"paragraph\",\"text\":\"Uncommon \\nNot known\"},{\"type\":\"paragraph\",\"text\":\"Not known\"},{\"type\":\"paragraph\",\"text\":\"Rare\"},{\"type\":\"paragraph\",\"text\":\"Common \\nUncommon\"},{\"type\":\"paragraph\",\"text\":\"Not known\"},{\"type\":\"paragraph\",\"text\":\"Uncommon \\nRare \\nNot known\"},{\"type\":\"paragraph\",\"text\":\"Common \\nUncommon \\nNot known \\nNot known \\nUncommon \\nRare\"},{\"type\":\"paragraph\",\"text\":\"Not known\"},{\"type\":\"paragraph\",\"text\":\"Uncommon\"},{\"type\":\"paragraph\",\"text\":\"Uncommon\"},{\"type\":\"paragraph\",\"text\":\"Uncommon\"},{\"type\":\"paragraph\",\"text\":\"13\"},{\"type\":\"paragraph\",\"text\":\"Prevention of \\nstroke and \\nsystemic \\nembolism in \\nadult patients \\nwith NVAF, with \\none or more risk \\nfactors (NVAF)\"},{\"type\":\"paragraph\",\"text\":\"Common \\nUncommon\"},{\"type\":\"paragraph\",\"text\":\"Uncommon\"},{\"type\":\"paragraph\",\"text\":\"Uncommon \\nNot known\"},{\"type\":\"paragraph\",\"text\":\"Uncommon\"},{\"type\":\"paragraph\",\"text\":\"Common\"},{\"type\":\"paragraph\",\"text\":\"Common \\nCommon\"},{\"type\":\"paragraph\",\"text\":\"Uncommon\"},{\"type\":\"paragraph\",\"text\":\"Common \\nUncommon \\nRare\"},{\"type\":\"paragraph\",\"text\":\"Common \\nCommon \\nUncommon \\nUncommon \\nUncommon \\nCommon\"},{\"type\":\"paragraph\",\"text\":\"Rare\"},{\"type\":\"paragraph\",\"text\":\"Uncommon\"},{\"type\":\"paragraph\",\"text\":\"Common\"},{\"type\":\"paragraph\",\"text\":\"Uncommon\"},{\"type\":\"paragraph\",\"text\":\"Treatment of DVT \\nand PE, and \\nprevention of \\nrecurrent DVT and \\nPE (VTEt)\"},{\"type\":\"paragraph\",\"text\":\"Common \\nCommon\"},{\"type\":\"paragraph\",\"text\":\"Uncommon\"},{\"type\":\"paragraph\",\"text\":\"Uncommon*\\nNot known\"},{\"type\":\"paragraph\",\"text\":\"Rare\"},{\"type\":\"paragraph\",\"text\":\"Uncommon\"},{\"type\":\"paragraph\",\"text\":\"Common \\nUncommon\"},{\"type\":\"paragraph\",\"text\":\"Not known\"},{\"type\":\"paragraph\",\"text\":\"Common \\nUncommon \\nRare\"},{\"type\":\"paragraph\",\"text\":\"Common \\nCommon \\nUncommon \\nCommon \\nUncommon \\nCommon\"},{\"type\":\"paragraph\",\"text\":\"Not known\"},{\"type\":\"paragraph\",\"text\":\"Uncommon\"},{\"type\":\"paragraph\",\"text\":\"Common\"},{\"type\":\"paragraph\",\"text\":\"Common\"},{\"type\":\"table\",\"headers\":[\"\",\"VTE in adult\",\"stroke and\",\"and PE, and\"],\"rows\":[[\"\",\"patients who\",\"systemic\",\"prevention of\"],[\"\",\"have undergone\",\"embolism in\",\"recurrent DVT and\"],[\"\",\"elective hip or\",\"adult patients\",\"PE (VTEt)\"],[\"\",\"knee replacement\",\"with NVAF, with\",\"\"],[\"\",\"surgery (VTEp)\",\"one or more risk\",\"\"],[\"\",\"\",\"factors (NVAF)\",\"\"]]},{\"type\":\"table\",\"headers\":[\"Haemorrhage, haematoma\",\"Common\",\"Common\",\"Common\"],\"rows\":[[\"Hypotension (including procedural\",\"Uncommon\",\"Common\",\"Uncommon\"]]},{\"type\":\"table\",\"headers\":[\"Haematochezia\",\"Uncommon\",\"Uncommon\",\"Uncommon\"],\"rows\":[[\"Rectal haemorrhage, gingival\",\"Rare\",\"Common\",\"Common\"]]},{\"type\":\"table\",\"headers\":[\"aminotransferase increased, blood\",\"\",\"\",\"\"],\"rows\":[[\"alkaline phosphatase increased, blood\",\"\",\"\",\"\"],[\"bilirubin increased\",\"\",\"\",\"\"],[\"Gamma-glutamyltransferase\",\"Uncommon\",\"Common\",\"Common\"]]}]}",
+    "markdown": "to \\< 1/100); rare (≥ 1/10,000 to \\< 1/1,000); very rare (\\< 1/10,000); not known (cannot be estimated from the available data) for VTEp, NVAF, and VTEt respectively.\n\n# Table 2: Tabulated adverse reactions\n\n|  | VTE in adult | stroke and | and PE, and |\n| --- | --- | --- | --- |\n|  | patients who | systemic | prevention of |\n|  | have undergone | embolism in | recurrent DVT and |\n|  | elective hip or | adult patients | PE (VTEt) |\n|  | knee replacement | with NVAF, with |  |\n|  | surgery (VTEp) | one or more risk |  |\n|  |  | factors (NVAF) |  |\n\n*Blood and lymphatic system disorders* Anaemia Thrombocytopenia *Immune system disorders* Hypersensitivity, allergic oedema and Anaphylaxis Pruritus Angioedema *Nervous system disorders* Brain haemorrhage † *Eye disorders* Eye haemorrhage (including conjunctival haemorrhage) *Vascular disorders* hypotension) Intra-abdominal haemorrhage *Respiratory, thoracic and mediastinal disorders* Epistaxis Haemoptysis Respiratory tract haemorrhage *Gastrointestinal disorders* Nausea Gastrointestinal haemorrhage Haemorrhoidal haemorrhage Mouth haemorrhage bleeding Retroperitoneal haemorrhage *Hepatobiliary disorders* increased Alanine aminotransferase increased *Skin and subcutaneous tissue disorders* Common Uncommon Rare Uncommon Not known Not known Rare Not known Uncommon Rare Not known Common Uncommon Not known Not known Not known Uncommon\n\nCommon Uncommon Uncommon Uncommon Not known Uncommon Common Uncommon Common Uncommon Rare Common Common Uncommon Uncommon Rare Uncommon Common Common Uncommon Uncommon* Not known Rare Uncommon Not known Common Uncommon Rare Common Common Uncommon Common Not known Common\n\n| Haemorrhage, haematoma | Common | Common | Common |\n| --- | --- | --- | --- |\n| Hypotension (including procedural | Uncommon | Common | Uncommon |\n\n| Haematochezia | Uncommon | Uncommon | Uncommon |\n| --- | --- | --- | --- |\n| Rectal haemorrhage, gingival | Rare | Common | Common |\n\n| aminotransferase increased, blood |  |  |  |\n| --- | --- | --- | --- |\n| alkaline phosphatase increased, blood |  |  |  |\n| bilirubin increased |  |  |  |\n| Gamma-glutamyltransferase | Uncommon | Common | Common |\n",
+    "plain": "to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated \nfrom the available data) for VTEp, NVAF, and VTEt respectively. \n \nTable 2: Tabulated adverse reactions \nSystem organ class\n\nBlood and lymphatic system disorders\n\nAnaemia  \nThrombocytopenia  \nImmune system disorders\n\nHypersensitivity, allergic oedema and \nAnaphylaxis  \nPruritus \nAngioedema \nNervous system disorders\n\nBrain haemorrhage† \nEye disorders\n\nEye haemorrhage (including \nconjunctival haemorrhage) \nVascular disorders\n\nHaemorrhage, haematoma \nHypotension (including procedural \nhypotension) \nIntra-abdominal haemorrhage \nRespiratory, thoracic and mediastinal disorders\n\nEpistaxis \nHaemoptysis \nRespiratory tract haemorrhage  \nGastrointestinal disorders\n\nNausea \nGastrointestinal haemorrhage \nHaemorrhoidal haemorrhage \nMouth haemorrhage \nHaematochezia \nRectal haemorrhage, gingival \nbleeding \nRetroperitoneal haemorrhage \nHepatobiliary disorders\n\nLiver function test abnormal, asparate \naminotransferase increased, blood \nalkaline phosphatase increased, blood \nbilirubin increased \nGamma-glutamyltransferase \nincreased \nAlanine aminotransferase increased \nSkin and subcutaneous tissue disorders\n\nPrevention of \nVTE in adult \npatients who \nhave undergone \nelective hip or \nknee replacement \nsurgery (VTEp)\n\nCommon \nUncommon\n\nRare\n\nUncommon \nNot known\n\nNot known\n\nRare\n\nCommon \nUncommon\n\nNot known\n\nUncommon \nRare \nNot known\n\nCommon \nUncommon \nNot known \nNot known \nUncommon \nRare\n\nNot known\n\nUncommon\n\nUncommon\n\nUncommon\n\n13\n\nPrevention of \nstroke and \nsystemic \nembolism in \nadult patients \nwith NVAF, with \none or more risk \nfactors (NVAF)\n\nCommon \nUncommon\n\nUncommon\n\nUncommon \nNot known\n\nUncommon\n\nCommon\n\nCommon \nCommon\n\nUncommon\n\nCommon \nUncommon \nRare\n\nCommon \nCommon \nUncommon \nUncommon \nUncommon \nCommon\n\nRare\n\nUncommon\n\nCommon\n\nUncommon\n\nTreatment of DVT \nand PE, and \nprevention of \nrecurrent DVT and \nPE (VTEt)\n\nCommon \nCommon\n\nUncommon\n\nUncommon*\nNot known\n\nRare\n\nUncommon\n\nCommon \nUncommon\n\nNot known\n\nCommon \nUncommon \nRare\n\nCommon \nCommon \nUncommon \nCommon \nUncommon \nCommon\n\nNot known\n\nUncommon\n\nCommon\n\nCommon\n\n VTE in adult stroke and and PE, and\n patients who systemic prevention of\n have undergone embolism in recurrent DVT and\n elective hip or adult patients PE (VTEt)\n knee replacement with NVAF, with \n surgery (VTEp) one or more risk \n  factors (NVAF) \n\nHaemorrhage, haematoma Common Common Common\nHypotension (including procedural Uncommon Common Uncommon\n\nHaematochezia Uncommon Uncommon Uncommon\nRectal haemorrhage, gingival Rare Common Common\n\naminotransferase increased, blood   \nalkaline phosphatase increased, blood   \nbilirubin increased   \nGamma-glutamyltransferase Uncommon Common Common"
+  }
+}

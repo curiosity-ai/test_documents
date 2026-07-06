@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/ending_with_table.md.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 6,
+      "word_count": 55,
+      "character_count": 461
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/md/ending_with_table.md.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/md/ending_with_table.md.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>| Character | Name in German | Name in French | Name in Italian | |----------------|------------------|------------------|-------------------| | Scrooge McDuck | Dagobert Duck | Balthazar Picsou | Paperone | | Huey | Tick | Riri | Qui | | Dewey | Trick | Fifi | Quo | | Louie | Track | Loulou | Qua |</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"| Character      | Name in German   | Name in French   | Name in Italian   |\\n|----------------|------------------|------------------|-------------------|\\n| Scrooge McDuck | Dagobert Duck    | Balthazar Picsou | Paperone          |\\n| Huey           | Tick             | Riri             | Qui               |\\n| Dewey          | Trick            | Fifi             | Quo               |\\n| Louie          | Track            | Loulou           | Qua               |\"}]}",
+    "markdown": "| Character | Name in German | Name in French | Name in Italian | |----------------|------------------|------------------|-------------------| | Scrooge McDuck | Dagobert Duck | Balthazar Picsou | Paperone | | Huey | Tick | Riri | Qui | | Dewey | Trick | Fifi | Quo | | Louie | Track | Loulou | Qua |\n",
+    "plain": "| Character      | Name in German   | Name in French   | Name in Italian   |\n|----------------|------------------|------------------|-------------------|\n| Scrooge McDuck | Dagobert Duck    | Balthazar Picsou | Paperone          |\n| Huey           | Tick             | Riri             | Qui               |\n| Dewey          | Trick            | Fifi             | Quo               |\n| Louie          | Track            | Loulou           | Qua               |"
+  }
+}

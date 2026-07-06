@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/4833695495684096.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 5,
+      "word_count": 7,
+      "character_count": 47
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/4833695495684096.txt",
+      "final_uri": "ground_truth/pdf/4833695495684096.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Goodbye Cruel World...</p>\n<p>I'll be back shortly!</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Goodbye Cruel World...\"},{\"type\":\"paragraph\",\"text\":\"I'll be back shortly!\"}]}",
+    "markdown": "Goodbye Cruel World...\n\nI'll be back shortly\\!\n",
+    "plain": "Goodbye Cruel World...\n\nI'll be back shortly!"
+  }
+}

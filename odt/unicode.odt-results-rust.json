@@ -1,0 +1,30 @@
+{
+  "file": "odt/unicode.odt",
+  "mime_type": "application/vnd.oasis.opendocument.text",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Martin Linnemann"
+    ],
+    "modified_at": "2015-06-15T01:42:41.10",
+    "created_by": "Martin Linnemann",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "odt/unicode.odt",
+      "final_uri": "odt/unicode.odt",
+      "editing_cycles": "1",
+      "editing_duration": "PT4M47S",
+      "source_kind": "uri",
+      "generator": "OpenOffice/4.0.1$Win32 OpenOffice.org_project/401m5$Build-9714",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>“”’çӨ©¼вбФШöÉµ</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"“”’çӨ©¼вбФШöÉµ\"}]}",
+    "markdown": "“”’çӨ©¼вбФШöÉµ\n",
+    "plain": "“”’çӨ©¼вбФШöÉµ"
+  }
+}

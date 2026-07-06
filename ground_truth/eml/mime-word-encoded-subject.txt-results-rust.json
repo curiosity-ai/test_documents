@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/mime-word-encoded-subject.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 4,
+      "word_count": 23,
+      "character_count": 171
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/eml/mime-word-encoded-subject.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/eml/mime-word-encoded-subject.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Simple email with ☸☿ Unicode subject From: sender@example.com To: recipient@example.com This is a simple email message with Unicode characters in the subject.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Simple email with ☸☿ Unicode subject\\nFrom: sender@example.com\\nTo: recipient@example.com\\nThis is a simple email message with Unicode characters in the subject.\"}]}",
+    "markdown": "Subject: Simple email with ☸☿ Unicode subject From: sender@example.com To: recipient@example.com This is a simple email message with Unicode characters in the subject.\n",
+    "plain": "Subject: Simple email with ☸☿ Unicode subject\nFrom: sender@example.com\nTo: recipient@example.com\nThis is a simple email message with Unicode characters in the subject."
+  }
+}

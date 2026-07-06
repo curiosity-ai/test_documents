@@ -1,0 +1,22 @@
+{
+  "file": "vendored/docling/md/mixed_without_h1.md.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/docling/md/mixed_without_h1.md.md",
+      "source_uri": "vendored/docling/md/mixed_without_h1.md.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Content before first heading</p>\n<h2>Some heading</h2>\n<ul>\n<li>\n<ul>\n<li>subitem</li>\n</ul>\n</li>\n<li>B. second</li>\n<li>2 . strange</li>\n</ul>\n<p>The end!</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Content before first heading\"},{\"type\":\"section\",\"heading\":\"Some heading\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"subitem\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"B. second\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"2 . strange\"]},{\"type\":\"paragraph\",\"text\":\"The end!\"}]}]}",
+    "markdown": "Content before first heading\n\n## Some heading\n\n- - subitem\n- B. second\n- 2 . strange\n\nThe end\\!\n",
+    "plain": "Content before first heading\n\n  Some heading\nsubitem\nB. second\n2 . strange\nThe end!"
+  }
+}

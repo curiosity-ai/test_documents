@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/xlsx/xlsx_05_table_with_title.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 13,
+      "word_count": 27,
+      "character_count": 713
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/xlsx/xlsx_05_table_with_title.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/xlsx/xlsx_05_table_with_title.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Duck Observations</p>\n<p>------------------------------------- ------------------ -- -- Number of freshwater ducks per year Year Freshwater Ducks 2019.0 120.0 2020.0 135.0 2021.0 150.0 2022.0 170.0 2023.0 160.0 2024.0 180.0</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Duck Observations\"},{\"type\":\"paragraph\",\"text\":\"------------------------------------- ------------------ -- --\\n  Number of freshwater ducks per year                         \\n                                                              \\n  Year                                  Freshwater Ducks      \\n  2019.0                                120.0                 \\n  2020.0                                135.0                 \\n  2021.0                                150.0                 \\n  2022.0                                170.0                 \\n  2023.0                                160.0                 \\n  2024.0                                180.0\"}]}",
+    "markdown": "Duck Observations\n\n\\------------------------------------- ------------------ -- -- Number of freshwater ducks per year Year Freshwater Ducks 2019.0 120.0 2020.0 135.0 2021.0 150.0 2022.0 170.0 2023.0 160.0 2024.0 180.0\n",
+    "plain": "Duck Observations\n\n------------------------------------- ------------------ -- --\n  Number of freshwater ducks per year                         \n                                                              \n  Year                                  Freshwater Ducks      \n  2019.0                                120.0                 \n  2020.0                                135.0                 \n  2021.0                                150.0                 \n  2022.0                                170.0                 \n  2023.0                                160.0                 \n  2024.0                                180.0"
+  }
+}

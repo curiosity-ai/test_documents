@@ -1,0 +1,59 @@
+{
+  "file": "vendored/docling/groundtruth/docling_v2/csv-inconsistent-header.csv.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/docling/groundtruth/docling_v2/csv-inconsistent-header.csv.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "vendored/docling/groundtruth/docling_v2/csv-inconsistent-header.csv.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "1",
+          "2",
+          "3",
+          ""
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        [
+          "a",
+          "b",
+          "c",
+          "d"
+        ]
+      ],
+      "markdown": "| 1 | 2 | 3 |  |\n| --- | --- | --- | --- |\n| a | b | c | d |\n| a | b | c | d |\n| a | b | c | d |\n| a | b | c | d |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>1</th>\n<th>2</th>\n<th>3</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>a</td>\n<td>b</td>\n<td>c</td>\n<td>d</td>\n</tr>\n<tr>\n<td>a</td>\n<td>b</td>\n<td>c</td>\n<td>d</td>\n</tr>\n<tr>\n<td>a</td>\n<td>b</td>\n<td>c</td>\n<td>d</td>\n</tr>\n<tr>\n<td>a</td>\n<td>b</td>\n<td>c</td>\n<td>d</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"1\",\"2\",\"3\",\"\"],\"rows\":[[\"a\",\"b\",\"c\",\"d\"],[\"a\",\"b\",\"c\",\"d\"],[\"a\",\"b\",\"c\",\"d\"],[\"a\",\"b\",\"c\",\"d\"]]}]}",
+    "markdown": "| 1 | 2 | 3 |  |\n| --- | --- | --- | --- |\n| a | b | c | d |\n| a | b | c | d |\n| a | b | c | d |\n| a | b | c | d |\n",
+    "plain": "1 2 3 \na b c d\na b c d\na b c d\na b c d"
+  }
+}

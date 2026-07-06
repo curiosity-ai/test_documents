@@ -1,0 +1,26 @@
+{
+  "file": "fictionbook/titles.fb2",
+  "mime_type": "application/x-fictionbook+xml",
+  "success": true,
+  "metadata": {
+    "title": "Test Document",
+    "format": {
+      "format_type": "fiction_book"
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "fictionbook/titles.fb2",
+      "source_index": 0,
+      "final_uri": "fictionbook/titles.fb2",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Simple title</h2>\n<p>This example tests FictionBook titles.</p>\n<h2>Emphasized Strong Title</h2>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Simple title\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"This example tests FictionBook titles.\"}]},{\"type\":\"section\",\"heading\":\"Emphasized   Strong  Title\",\"level\":2,\"body\":[]}]}",
+    "markdown": "## Simple title\n\nThis example tests FictionBook titles.\n\n## Emphasized Strong Title\n",
+    "plain": "  Simple title\nThis example tests FictionBook titles.\n\n  Emphasized   Strong  Title"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/typ/minimal.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Hello World",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/typ/minimal.md",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/typ/minimal.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Hello World</h1>\n<p>This is a minimal Typst document with just a heading and some text.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Hello World\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a minimal Typst document with just a heading and some text.\"}]}]}",
+    "markdown": "# Hello World\n\nThis is a minimal Typst document with just a heading and some text.\n",
+    "plain": "Hello World\nThis is a minimal Typst document with just a heading and some text."
+  }
+}

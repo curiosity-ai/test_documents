@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/table_01.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 10,
+      "word_count": 16,
+      "character_count": 107
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/html/table_01.txt",
+      "source_uri": "ground_truth/html/table_01.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Header</p>\n<p>This is the first paragraph.</p>\n<p>------ ------ A B 1... 2... ------ ------</p>\n<p>After table</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Header\"},{\"type\":\"paragraph\",\"text\":\"This is the first paragraph.\"},{\"type\":\"paragraph\",\"text\":\"------ ------\\n  A      B\\n  1...   2...\\n  ------ ------\"},{\"type\":\"paragraph\",\"text\":\"After table\"}]}",
+    "markdown": "Header\n\nThis is the first paragraph.\n\n\\------ ------ A B 1... 2... ------ ------\n\nAfter table\n",
+    "plain": "Header\n\nThis is the first paragraph.\n\n------ ------\n  A      B\n  1...   2...\n  ------ ------\n\nAfter table"
+  }
+}

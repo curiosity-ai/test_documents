@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/email-replace-mime-encodings-error-2.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 64,
+      "word_count": 134,
+      "character_count": 904
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/eml/email-replace-mime-encodings-error-2.txt",
+      "final_uri": "ground_truth/eml/email-replace-mime-encodings-error-2.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: RE: Random Expo Expo 2023 From: &quot;Someone Real&quot; &lt;email@domain.com&gt; To: email@domain.com Date: Thu, 30 Mar 2023 14:00:24 -0400 Hi,</p>\n<p>Did you get a chance to review my previous email?</p>\n<p>I appreciate if you could let me know your interest in acquiring the Attendee list.</p>\n<p>Regards,</p>\n<p>Someone Real</p>\n<p>From: Someone Real [mailto:email@domain.com] Sent: Wednesday, March 29, 2023 12:30 PM To: 'email@domain.com' Subject: Random Expo Expo 2023 Importance: High</p>\n<p>Dear Exhibitor,</p>\n<p>Wishing you all the best for Random Expo Conference &amp; Expo2023.</p>\n<p>Could you let me know if you want to receive Pre-Show Registered Attendee list by emails?</p>\n<p>You can send Pre-Show Invitation mailers using these lists and increase foot fall at your booth.</p>\n<p>Reply as  Yes were interested.</p>\n<p>If not reply &quot; we´re not interested&quot;.</p>\n<p>Regards,</p>\n<p>Someone Real - (Events &amp; Tradeshow Specialist)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: RE: Random Expo Expo 2023\\nFrom: \\\"Someone Real\\\" <email@domain.com>\\nTo: email@domain.com\\nDate: Thu, 30 Mar 2023 14:00:24 -0400\\nHi,\"},{\"type\":\"paragraph\",\"text\":\"Did you get a chance to review my previous email?\"},{\"type\":\"paragraph\",\"text\":\"I appreciate if you could let me know your interest in acquiring the\\nAttendee list.\"},{\"type\":\"paragraph\",\"text\":\"Regards,\"},{\"type\":\"paragraph\",\"text\":\"Someone Real\"},{\"type\":\"paragraph\",\"text\":\"From: Someone Real [mailto:email@domain.com] \\nSent: Wednesday, March 29, 2023 12:30 PM\\nTo: 'email@domain.com'\\nSubject: Random Expo Expo 2023\\nImportance: High\"},{\"type\":\"paragraph\",\"text\":\"Dear Exhibitor,\"},{\"type\":\"paragraph\",\"text\":\"Wishing you all the best for Random Expo Conference & Expo2023.\"},{\"type\":\"paragraph\",\"text\":\"Could you let me know if you want to receive Pre-Show Registered Attendee\\nlist  by emails?\"},{\"type\":\"paragraph\",\"text\":\"You can send Pre-Show Invitation mailers using these lists and increase foot\\nfall at your booth.\"},{\"type\":\"paragraph\",\"text\":\"Reply as   Yes were interested.\"},{\"type\":\"paragraph\",\"text\":\"If not reply \\\" we´re not interested\\\".\"},{\"type\":\"paragraph\",\"text\":\"Regards,\"},{\"type\":\"paragraph\",\"text\":\"Someone Real - (Events & Tradeshow Specialist)\"}]}",
+    "markdown": "Subject: RE: Random Expo Expo 2023 From: \"Someone Real\" \\<email@domain.com\\> To: email@domain.com Date: Thu, 30 Mar 2023 14:00:24 -0400 Hi,\n\nDid you get a chance to review my previous email?\n\nI appreciate if you could let me know your interest in acquiring the Attendee list.\n\nRegards,\n\nSomeone Real\n\nFrom: Someone Real [mailto:email@domain.com] Sent: Wednesday, March 29, 2023 12:30 PM To: 'email@domain.com' Subject: Random Expo Expo 2023 Importance: High\n\nDear Exhibitor,\n\nWishing you all the best for Random Expo Conference & Expo2023.\n\nCould you let me know if you want to receive Pre-Show Registered Attendee list by emails?\n\nYou can send Pre-Show Invitation mailers using these lists and increase foot fall at your booth.\n\nReply as  Yes were interested.\n\nIf not reply \" we´re not interested\".\n\nRegards,\n\nSomeone Real - (Events & Tradeshow Specialist)\n",
+    "plain": "Subject: RE: Random Expo Expo 2023\nFrom: \"Someone Real\" <email@domain.com>\nTo: email@domain.com\nDate: Thu, 30 Mar 2023 14:00:24 -0400\nHi,\n\nDid you get a chance to review my previous email?\n\nI appreciate if you could let me know your interest in acquiring the\nAttendee list.\n\nRegards,\n\nSomeone Real\n\nFrom: Someone Real [mailto:email@domain.com] \nSent: Wednesday, March 29, 2023 12:30 PM\nTo: 'email@domain.com'\nSubject: Random Expo Expo 2023\nImportance: High\n\nDear Exhibitor,\n\nWishing you all the best for Random Expo Conference & Expo2023.\n\nCould you let me know if you want to receive Pre-Show Registered Attendee\nlist  by emails?\n\nYou can send Pre-Show Invitation mailers using these lists and increase foot\nfall at your booth.\n\nReply as   Yes were interested.\n\nIf not reply \" we´re not interested\".\n\nRegards,\n\nSomeone Real - (Events & Tradeshow Specialist)"
+  }
+}

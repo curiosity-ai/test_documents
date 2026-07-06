@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/fictionbook/meta.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Book title",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/fictionbook/meta.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/fictionbook/meta.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Book title</h1>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Book title\",\"level\":1,\"body\":[]}]}",
+    "markdown": "# Book title\n",
+    "plain": "Book title"
+  }
+}

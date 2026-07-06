@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/rtf/list_simple.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/rtf/list_simple.md",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/rtf/list_simple.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<ul>\n<li>one\n<ul>\n<li>sub</li>\n</ul>\n</li>\n<li>new list</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"one\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"sub\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"new list\"]}]}",
+    "markdown": "- one\n  - sub\n- new list\n",
+    "plain": "one\nsub\nnew list"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/rtf/rtf_simple.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 52,
+      "word_count": 181,
+      "character_count": 1107
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/rtf/rtf_simple.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/rtf/rtf_simple.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Comprehensive Extraction Test Document First Section This is a regular text paragraph in the first section. It contains some content that should be extracted completely. Subsection 1.1 Here is more content in a subsection. This tests the heading hierarchy extraction. Second Section This is the content of the second section with different text. Table Section Here is a table with headers and multiple rows: Header 1 |Header 2 |Header 3 | Cell 1A |Cell 1B |Cell 1C | Cell 2A |Cell 2B |Cell 2C | Cell 3A |Cell 3B |Cell 3C |</p>\n<p>Another Table Product |Price |Quantity | Apple |$1.00 |10 | Banana |$0.50 |20 | Orange |$0.75 |15 |</p>\n<p>Third Section This is content in the third section to ensure multiple sections are extracted. More detailed content about the third section with additional text to verify complete extraction. Subsection 3.1 Some more nested content in subsection 3.1. Final Section This final section ensures we capture all content, including: - Multiple paragraphs - Different heading levels - Multiple tables - Various content types The extraction should capture everything listed here completely.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Comprehensive Extraction Test Document\\nFirst Section\\nThis is a regular text paragraph in the first section. It contains some content that should be extracted completely.\\nSubsection 1.1\\nHere is more content in a subsection. This tests the heading hierarchy extraction.\\nSecond Section\\nThis is the content of the second section with different text.\\nTable Section\\nHere is a table with headers and multiple rows:\\nHeader 1\\n|Header 2\\n|Header 3\\n|\\nCell 1A\\n|Cell 1B\\n|Cell 1C\\n|\\nCell 2A\\n|Cell 2B\\n|Cell 2C\\n|\\nCell 3A\\n|Cell 3B\\n|Cell 3C\\n|\"},{\"type\":\"paragraph\",\"text\":\"Another Table\\nProduct\\n|Price\\n|Quantity\\n|\\nApple\\n|$1.00\\n|10\\n|\\nBanana\\n|$0.50\\n|20\\n|\\nOrange\\n|$0.75\\n|15\\n|\"},{\"type\":\"paragraph\",\"text\":\"Third Section\\nThis is content in the third section to ensure multiple sections are extracted.\\nMore detailed content about the third section with additional text to verify complete extraction.\\nSubsection 3.1\\nSome more nested content in subsection 3.1.\\nFinal Section\\nThis final section ensures we capture all content, including: - Multiple paragraphs - Different heading levels - Multiple tables - Various content types\\nThe extraction should capture everything listed here completely.\"}]}",
+    "markdown": "Comprehensive Extraction Test Document First Section This is a regular text paragraph in the first section. It contains some content that should be extracted completely. Subsection 1.1 Here is more content in a subsection. This tests the heading hierarchy extraction. Second Section This is the content of the second section with different text. Table Section Here is a table with headers and multiple rows: Header 1 |Header 2 |Header 3 | Cell 1A |Cell 1B |Cell 1C | Cell 2A |Cell 2B |Cell 2C | Cell 3A |Cell 3B |Cell 3C |\n\nAnother Table Product |Price |Quantity | Apple |$1.00 |10 | Banana |$0.50 |20 | Orange |$0.75 |15 |\n\nThird Section This is content in the third section to ensure multiple sections are extracted. More detailed content about the third section with additional text to verify complete extraction. Subsection 3.1 Some more nested content in subsection 3.1. Final Section This final section ensures we capture all content, including: - Multiple paragraphs - Different heading levels - Multiple tables - Various content types The extraction should capture everything listed here completely.\n",
+    "plain": "Comprehensive Extraction Test Document\nFirst Section\nThis is a regular text paragraph in the first section. It contains some content that should be extracted completely.\nSubsection 1.1\nHere is more content in a subsection. This tests the heading hierarchy extraction.\nSecond Section\nThis is the content of the second section with different text.\nTable Section\nHere is a table with headers and multiple rows:\nHeader 1\n|Header 2\n|Header 3\n|\nCell 1A\n|Cell 1B\n|Cell 1C\n|\nCell 2A\n|Cell 2B\n|Cell 2C\n|\nCell 3A\n|Cell 3B\n|Cell 3C\n|\n\nAnother Table\nProduct\n|Price\n|Quantity\n|\nApple\n|$1.00\n|10\n|\nBanana\n|$0.50\n|20\n|\nOrange\n|$0.75\n|15\n|\n\nThird Section\nThis is content in the third section to ensure multiple sections are extracted.\nMore detailed content about the third section with additional text to verify complete extraction.\nSubsection 3.1\nSome more nested content in subsection 3.1.\nFinal Section\nThis final section ensures we capture all content, including: - Multiple paragraphs - Different heading levels - Multiple tables - Various content types\nThe extraction should capture everything listed here completely."
+  }
+}

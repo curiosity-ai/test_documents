@@ -1,0 +1,12 @@
+{
+  "file": "images_extra/ocr_image.webp",
+  "mime_type": "image/webp",
+  "success": false,
+  "error": "Unsupported format: image/webp",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/table_with_heading_02.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 15,
+      "word_count": 30,
+      "character_count": 579
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/html/table_with_heading_02.txt",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/html/table_with_heading_02.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Main Title</p>\n<p>Before the table</p>\n<p>+-----------------------------------+-----------------------------------+ | A | B | | | | | text | | +-----------------------------------+-----------------------------------+ | 1... | 2... | +-----------------------------------+-----------------------------------+</p>\n<p>Section After</p>\n<p>After the table</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Main Title\"},{\"type\":\"paragraph\",\"text\":\"Before the table\"},{\"type\":\"paragraph\",\"text\":\"+-----------------------------------+-----------------------------------+\\n| A                                 | B                                 |\\n|                                   |                                   |\\n| text                              |                                   |\\n+-----------------------------------+-----------------------------------+\\n| 1...                              | 2...                              |\\n+-----------------------------------+-----------------------------------+\"},{\"type\":\"paragraph\",\"text\":\"Section After\"},{\"type\":\"paragraph\",\"text\":\"After the table\"}]}",
+    "markdown": "Main Title\n\nBefore the table\n\n\\+-----------------------------------+-----------------------------------+ | A | B | | | | | text | | +-----------------------------------+-----------------------------------+ | 1... | 2... | +-----------------------------------+-----------------------------------+\n\nSection After\n\nAfter the table\n",
+    "plain": "Main Title\n\nBefore the table\n\n+-----------------------------------+-----------------------------------+\n| A                                 | B                                 |\n|                                   |                                   |\n| text                              |                                   |\n+-----------------------------------+-----------------------------------+\n| 1...                              | 2...                              |\n+-----------------------------------+-----------------------------------+\n\nSection After\n\nAfter the table"
+  }
+}

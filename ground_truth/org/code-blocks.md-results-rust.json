@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/org/code-blocks.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Python Code",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/org/code-blocks.md",
+      "source_index": 0,
+      "source_uri": "ground_truth/org/code-blocks.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>TITLE</strong>: Code Blocks Test</p>\n<p><strong>AUTHOR</strong>: Test Author</p>\n<h1>Python Code</h1>\n<pre lang=\"python\"><code>def hello():\n    print(&quot;Hello, World!&quot;)</code></pre>\n<h1>Bash Code</h1>\n<pre lang=\"bash\"><code>echo &quot;Testing bash&quot;\nls -la</code></pre>\n<h1>JavaScript Code</h1>\n<pre lang=\"javascript\"><code>function greet(name) {\n  return `Hello, ${name}!`;\n}</code></pre>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"TITLE: Code Blocks Test\"},{\"type\":\"paragraph\",\"text\":\"AUTHOR: Test Author\"},{\"type\":\"section\",\"heading\":\"Python Code\",\"level\":1,\"body\":[{\"type\":\"code\",\"text\":\"def hello():\\n    print(\\\"Hello, World!\\\")\",\"language\":\"python\"}]},{\"type\":\"section\",\"heading\":\"Bash Code\",\"level\":1,\"body\":[{\"type\":\"code\",\"text\":\"echo \\\"Testing bash\\\"\\nls -la\",\"language\":\"bash\"}]},{\"type\":\"section\",\"heading\":\"JavaScript Code\",\"level\":1,\"body\":[{\"type\":\"code\",\"text\":\"function greet(name) {\\n  return `Hello, ${name}!`;\\n}\",\"language\":\"javascript\"}]}]}",
+    "markdown": "**TITLE**: Code Blocks Test\n\n**AUTHOR**: Test Author\n\n# Python Code\n\n```python\ndef hello():\n    print(\"Hello, World!\")\n```\n\n# Bash Code\n\n```bash\necho \"Testing bash\"\nls -la\n```\n\n# JavaScript Code\n\n```javascript\nfunction greet(name) {\n  return `Hello, ${name}!`;\n}\n```\n",
+    "plain": "TITLE: Code Blocks Test\n\nAUTHOR: Test Author\n\nPython Code\ndef hello():\n    print(\"Hello, World!\")\n\nBash Code\necho \"Testing bash\"\nls -la\n\nJavaScript Code\nfunction greet(name) {\n  return `Hello, ${name}!`;\n}"
+  }
+}

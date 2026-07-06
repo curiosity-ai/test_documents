@@ -1,0 +1,87 @@
+{
+  "file": "pdf/google_doc_document.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "PDF Example Document",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "Skia/PDF m103 Google Docs Renderer",
+      "is_encrypted": false,
+      "width": 596,
+      "height": 842,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "extraction_method": "native",
+      "source_uri": "pdf/google_doc_document.pdf",
+      "source_kind": "uri",
+      "final_uri": "pdf/google_doc_document.pdf"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          "Indonesia 🇮🇩",
+          "Germany 🇩🇪",
+          "Austria 🇦🇹",
+          "France",
+          "Vatican 🇻🇦"
+        ],
+        [
+          "Continent",
+          "Asia",
+          "",
+          "Europe",
+          "",
+          ""
+        ],
+        [
+          "Capital",
+          "Jakarta",
+          "Berlin",
+          "Vienna",
+          "Paris",
+          "Vatican City"
+        ],
+        [
+          "Currency",
+          "Rupia",
+          "",
+          "EUR (€)",
+          "",
+          "-"
+        ],
+        [
+          "Population",
+          "273.879.750",
+          "183,190,5562",
+          "8,935,112",
+          "67,413,000",
+          "453"
+        ]
+      ],
+      "markdown": "|  | Indonesia 🇮🇩 | Germany 🇩🇪 | Austria 🇦🇹 | France | Vatican 🇻🇦 |\n| --- | --- | --- | --- | --- | --- |\n| Continent | Asia |  | Europe |  |  |\n| Capital | Jakarta | Berlin | Vienna | Paris | Vatican City |\n| Currency | Rupia |  | EUR (€) |  | - |\n| Population | 273.879.750 | 183,190,5562 | 8,935,112 | 67,413,000 | 453 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 72.5,
+        "y0": 315.2327880859375,
+        "x1": 522.5,
+        "y1": 427.5
+      }
+    }
+  ],
+  "content": {
+    "html": "<h1>Example document</h1>\n<p>Beautiful is better than ugly . Explicit is better than implicit. Simple is better than complex. Complex is better than complicated. Flat is better than nested. Sparse is better than dense. Readability counts. Special cases aren't special enough to break the rules. Although practicality beats purity . Errors should never pass silently . Unless explicitly silenced. In the face of ambiguity , refuse the temptation to guess. There should be one-- and preferably only one --obvious way to do it. Although that way may not be obvious at first unless you're Dutch. Now is better than never . Although never is often better than * right * now . If the implementation is hard to explain, it's a bad idea. If the implementation is easy to explain, it may be a good idea. Namespaces are one honking great idea -- let's do more of those!</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Indonesia 🇮🇩</th>\n<th>Germany 🇩🇪</th>\n<th>Austria 🇦🇹</th>\n<th>France</th>\n<th>Vatican 🇻🇦</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Continent</td>\n<td>Asia</td>\n<td></td>\n<td>Europe</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Capital</td>\n<td>Jakarta</td>\n<td>Berlin</td>\n<td>Vienna</td>\n<td>Paris</td>\n<td>Vatican City</td>\n</tr>\n<tr>\n<td>Currency</td>\n<td>Rupia</td>\n<td></td>\n<td>EUR (€)</td>\n<td></td>\n<td>-</td>\n</tr>\n<tr>\n<td>Population</td>\n<td>273.879.750</td>\n<td>183,190,5562</td>\n<td>8,935,112</td>\n<td>67,413,000</td>\n<td>453</td>\n</tr>\n</tbody>\n</table>\n<h3>2021 estimate</h3>\n<h3>2020 estimate</h3>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Example document\"},{\"type\":\"paragraph\",\"text\":\"Beautiful is better than ugly.\\nExplicit is better than implicit.\\nSimple is better than complex.\\nComplex is better than complicated.\\nFlat is better than nested.\\nSparse is better than dense.\\nReadability counts.\\nSpecial cases aren't special enough to break the rules.\\nAlthough practicality beats purity.\\nErrors should never pass silently.\\nUnless explicitly silenced.\\nIn the face of ambiguity, refuse the temptation to guess.\\nThere should be one-- and preferably only one --obvious way to do it.\\nAlthough that way may not be obvious at first unless you're Dutch.\\nNow is better than never.\\nAlthough never is often better than *right* now.\\nIf the implementation is hard to explain, it's a bad idea.\\nIf the implementation is easy to explain, it may be a good idea.\\nNamespaces are one honking great idea -- let's do more of those!\"},{\"type\":\"paragraph\",\"text\":\"Indonesia 🇮🇩 Germany 🇩🇪\"},{\"type\":\"paragraph\",\"text\":\"Continent Asia\"},{\"type\":\"paragraph\",\"text\":\"Capital Jakarta\"},{\"type\":\"paragraph\",\"text\":\"Currency Rupia\"},{\"type\":\"paragraph\",\"text\":\"Population 273.879.750\"},{\"type\":\"paragraph\",\"text\":\"1 2021 estimate\\n2 2020 estimate\\n3 2020 estimate\"},{\"type\":\"paragraph\",\"text\":\"Berlin\"},{\"type\":\"paragraph\",\"text\":\"1 83,190,5562\"},{\"type\":\"paragraph\",\"text\":\"Austria 🇦🇹\"},{\"type\":\"paragraph\",\"text\":\"Europe\"},{\"type\":\"paragraph\",\"text\":\"Vienna\"},{\"type\":\"paragraph\",\"text\":\"EUR (€)\"},{\"type\":\"paragraph\",\"text\":\"8,935,1123\"},{\"type\":\"paragraph\",\"text\":\"France\"},{\"type\":\"paragraph\",\"text\":\"Paris\"},{\"type\":\"paragraph\",\"text\":\"67,413,000\"},{\"type\":\"paragraph\",\"text\":\"Vatican 🇻🇦\"},{\"type\":\"paragraph\",\"text\":\"Vatican City\"},{\"type\":\"paragraph\",\"text\":\"-\"},{\"type\":\"paragraph\",\"text\":\"453\"},{\"type\":\"table\",\"headers\":[\"\",\"Indonesia 🇮🇩\",\"Germany 🇩🇪\",\"Austria 🇦🇹\",\"France\",\"Vatican 🇻🇦\"],\"rows\":[[\"Continent\",\"Asia\",\"\",\"Europe\",\"\",\"\"],[\"Capital\",\"Jakarta\",\"Berlin\",\"Vienna\",\"Paris\",\"Vatican City\"],[\"Currency\",\"Rupia\",\"\",\"EUR (€)\",\"\",\"-\"],[\"Population\",\"273.879.750\",\"183,190,5562\",\"8,935,112\",\"67,413,000\",\"453\"]]}]}",
+    "markdown": "# Example document\n\nBeautiful is better than ugly . Explicit is better than implicit. Simple is better than complex. Complex is better than complicated. Flat is better than nested. Sparse is better than dense. Readability counts. Special cases aren't special enough to break the rules. Although practicality beats purity . Errors should never pass silently . Unless explicitly silenced. In the face of ambiguity , refuse the temptation to guess. There should be one-- and preferably only one --obvious way to do it. Although that way may not be obvious at first unless you're Dutch. Now is better than never . Although never is often better than * right * now . If the implementation is hard to explain, it's a bad idea. If the implementation is easy to explain, it may be a good idea. Namespaces are one honking great idea -- let's do more of those\\!\n\n|  | Indonesia 🇮🇩 | Germany 🇩🇪 | Austria 🇦🇹 | France | Vatican 🇻🇦 |\n| --- | --- | --- | --- | --- | --- |\n| Continent | Asia |  | Europe |  |  |\n| Capital | Jakarta | Berlin | Vienna | Paris | Vatican City |\n| Currency | Rupia |  | EUR (€) |  | - |\n| Population | 273.879.750 | 183,190,5562 | 8,935,112 | 67,413,000 | 453 |\n\n### 2021 estimate\n\n### 2020 estimate\n",
+    "plain": "Example document\n\nBeautiful is better than ugly.\nExplicit is better than implicit.\nSimple is better than complex.\nComplex is better than complicated.\nFlat is better than nested.\nSparse is better than dense.\nReadability counts.\nSpecial cases aren't special enough to break the rules.\nAlthough practicality beats purity.\nErrors should never pass silently.\nUnless explicitly silenced.\nIn the face of ambiguity, refuse the temptation to guess.\nThere should be one-- and preferably only one --obvious way to do it.\nAlthough that way may not be obvious at first unless you're Dutch.\nNow is better than never.\nAlthough never is often better than *right* now.\nIf the implementation is hard to explain, it's a bad idea.\nIf the implementation is easy to explain, it may be a good idea.\nNamespaces are one honking great idea -- let's do more of those!\n\nIndonesia 🇮🇩 Germany 🇩🇪\n\nContinent Asia\n\nCapital Jakarta\n\nCurrency Rupia\n\nPopulation 273.879.750\n\n1 2021 estimate\n2 2020 estimate\n3 2020 estimate\n\nBerlin\n\n1 83,190,5562\n\nAustria 🇦🇹\n\nEurope\n\nVienna\n\nEUR (€)\n\n8,935,1123\n\nFrance\n\nParis\n\n67,413,000\n\nVatican 🇻🇦\n\nVatican City\n\n-\n\n453\n\n Indonesia 🇮🇩 Germany 🇩🇪 Austria 🇦🇹 France Vatican 🇻🇦\nContinent Asia  Europe  \nCapital Jakarta Berlin Vienna Paris Vatican City\nCurrency Rupia  EUR (€)  -\nPopulation 273.879.750 183,190,5562 8,935,112 67,413,000 453"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/opml/feeds.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Technology",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/opml/feeds.md",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/opml/feeds.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Technology</h1>\n<h2>Hacker News</h2>\n<h2>TechCrunch</h2>\n<h2>The Verge</h2>\n<h1>Programming</h1>\n<h2>Rust Blog</h2>\n<h2>Dev.to</h2>\n<h2>InfoQ</h2>\n<h1>Uncategorized</h1>\n<h2>Reddit Programming</h2>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Technology\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Hacker News\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"TechCrunch\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"The Verge\",\"level\":2,\"body\":[]}]},{\"type\":\"section\",\"heading\":\"Programming\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Rust Blog\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Dev.to\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"InfoQ\",\"level\":2,\"body\":[]}]},{\"type\":\"section\",\"heading\":\"Uncategorized\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Reddit Programming\",\"level\":2,\"body\":[]}]}]}",
+    "markdown": "# Technology\n\n## Hacker News\n\n## TechCrunch\n\n## The Verge\n\n# Programming\n\n## Rust Blog\n\n## Dev.to\n\n## InfoQ\n\n# Uncategorized\n\n## Reddit Programming\n",
+    "plain": "Technology\n  Hacker News\n\n  TechCrunch\n\n  The Verge\nProgramming\n  Rust Blog\n\n  Dev.to\n\n  InfoQ\nUncategorized\n  Reddit Programming"
+  }
+}

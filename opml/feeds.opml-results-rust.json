@@ -1,0 +1,71 @@
+{
+  "file": "opml/feeds.opml",
+  "mime_type": "application/xml+opml",
+  "success": true,
+  "metadata": {
+    "title": "Tech News Feeds",
+    "created_at": "Mon, 06 Nov 2023 00:00:00 GMT",
+    "modified_at": "Fri, 01 Dec 2023 12:00:00 GMT",
+    "created_by": "John Smith",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "feed_urls": [
+        {
+          "xmlUrl": "https://news.ycombinator.com/rss",
+          "text": "Hacker News",
+          "htmlUrl": "https://news.ycombinator.com/",
+          "type": "rss"
+        },
+        {
+          "xmlUrl": "https://techcrunch.com/feed/",
+          "text": "TechCrunch",
+          "htmlUrl": "https://techcrunch.com/",
+          "type": "rss"
+        },
+        {
+          "xmlUrl": "https://www.theverge.com/rss/index.xml",
+          "text": "The Verge",
+          "htmlUrl": "https://www.theverge.com/",
+          "type": "rss"
+        },
+        {
+          "xmlUrl": "https://blog.rust-lang.org/feed.xml",
+          "text": "Rust Blog",
+          "htmlUrl": "https://blog.rust-lang.org/",
+          "type": "rss"
+        },
+        {
+          "xmlUrl": "https://dev.to/feed",
+          "text": "Dev.to",
+          "htmlUrl": "https://dev.to/",
+          "type": "rss"
+        },
+        {
+          "xmlUrl": "https://feed.infoq.com/feed/",
+          "text": "InfoQ",
+          "htmlUrl": "https://www.infoq.com/",
+          "type": "rss"
+        },
+        {
+          "xmlUrl": "https://www.reddit.com/r/programming/.rss",
+          "text": "Reddit Programming",
+          "htmlUrl": "https://www.reddit.com/r/programming/",
+          "type": "rss"
+        }
+      ],
+      "final_uri": "opml/feeds.opml",
+      "source_index": 0,
+      "source_uri": "opml/feeds.opml",
+      "ownerEmail": "john@example.com"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Technology</h1>\n<h2>Hacker News</h2>\n<h2>TechCrunch</h2>\n<h2>The Verge</h2>\n<h1>Programming</h1>\n<h2>Rust Blog</h2>\n<h2>Dev.to</h2>\n<h2>InfoQ</h2>\n<h1>Uncategorized</h1>\n<h2>Reddit Programming</h2>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Technology\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Hacker News\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"TechCrunch\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"The Verge\",\"level\":2,\"body\":[]}]},{\"type\":\"section\",\"heading\":\"Programming\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Rust Blog\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Dev.to\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"InfoQ\",\"level\":2,\"body\":[]}]},{\"type\":\"section\",\"heading\":\"Uncategorized\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Reddit Programming\",\"level\":2,\"body\":[]}]}]}",
+    "markdown": "# Technology\n\n## Hacker News\n\n## TechCrunch\n\n## The Verge\n\n# Programming\n\n## Rust Blog\n\n## Dev.to\n\n## InfoQ\n\n# Uncategorized\n\n## Reddit Programming\n",
+    "plain": "Technology (type: folder)\n  Hacker News (htmlUrl: https://news.ycombinator.com/, type: rss, xmlUrl: https://news.ycombinator.com/rss)\n\n  TechCrunch (htmlUrl: https://techcrunch.com/, type: rss, xmlUrl: https://techcrunch.com/feed/)\n\n  The Verge (htmlUrl: https://www.theverge.com/, type: rss, xmlUrl: https://www.theverge.com/rss/index.xml)\nProgramming (type: folder)\n  Rust Blog (htmlUrl: https://blog.rust-lang.org/, type: rss, xmlUrl: https://blog.rust-lang.org/feed.xml)\n\n  Dev.to (htmlUrl: https://dev.to/, type: rss, xmlUrl: https://dev.to/feed)\n\n  InfoQ (htmlUrl: https://www.infoq.com/, type: rss, xmlUrl: https://feed.infoq.com/feed/)\nUncategorized (type: folder)\n  Reddit Programming (htmlUrl: https://www.reddit.com/r/programming/, type: rss, xmlUrl: https://www.reddit.com/r/programming/.rss)"
+  }
+}

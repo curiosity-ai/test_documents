@@ -1,0 +1,39 @@
+{
+  "file": "vendored/pdfplumber/pdfs/annotations-rotated-270.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "authors": [
+      "Evangelos Vlachogiannis"
+    ],
+    "created_at": "2007-02-23T17:56:37Z",
+    "modified_at": "2024-06-11T14:55:05Z",
+    "created_by": "Writer",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "macOS Version 14.3.1 (Build 23D60) Quartz PDFContext, AppendMode 1.1",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 842,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/pdfplumber/pdfs/annotations-rotated-270.pdf",
+      "extraction_method": "native",
+      "final_uri": "vendored/pdfplumber/pdfs/annotations-rotated-270.pdf",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Dummy PDF file</h1>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Dummy PDF file\"}]}",
+    "markdown": "# Dummy PDF file\n",
+    "plain": "Dummy PDF file"
+  }
+}

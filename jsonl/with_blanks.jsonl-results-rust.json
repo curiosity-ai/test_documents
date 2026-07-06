@@ -1,0 +1,25 @@
+{
+  "file": "jsonl/with_blanks.jsonl",
+  "mime_type": "application/x-ndjson",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "data_format": "jsonl",
+      "source_uri": "jsonl/with_blanks.jsonl",
+      "field_count": 3,
+      "source_index": 0,
+      "final_uri": "jsonl/with_blanks.jsonl",
+      "title": "Third",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<pre lang=\"json\"><code>[\n  {\n    &quot;id&quot;: 1,\n    &quot;title&quot;: &quot;First&quot;\n  },\n  {\n    &quot;id&quot;: 2,\n    &quot;title&quot;: &quot;Second&quot;\n  },\n  {\n    &quot;id&quot;: 3,\n    &quot;title&quot;: &quot;Third&quot;\n  }\n]</code></pre>\n",
+    "json": "{\"body\":[{\"type\":\"code\",\"text\":\"[\\n  {\\n    \\\"id\\\": 1,\\n    \\\"title\\\": \\\"First\\\"\\n  },\\n  {\\n    \\\"id\\\": 2,\\n    \\\"title\\\": \\\"Second\\\"\\n  },\\n  {\\n    \\\"id\\\": 3,\\n    \\\"title\\\": \\\"Third\\\"\\n  }\\n]\",\"language\":\"json\"}]}",
+    "markdown": "```json\n[\n  {\n    \"id\": 1,\n    \"title\": \"First\"\n  },\n  {\n    \"id\": 2,\n    \"title\": \"Second\"\n  },\n  {\n    \"id\": 3,\n    \"title\": \"Third\"\n  }\n]\n```\n",
+    "plain": "[\n  {\n    \"id\": 1,\n    \"title\": \"First\"\n  },\n  {\n    \"id\": 2,\n    \"title\": \"Second\"\n  },\n  {\n    \"id\": 3,\n    \"title\": \"Third\"\n  }\n]"
+  }
+}

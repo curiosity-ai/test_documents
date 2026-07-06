@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/inline_and_formatting.md.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 32,
+      "word_count": 124,
+      "character_count": 940
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/md/inline_and_formatting.md.txt",
+      "final_uri": "ground_truth/md/inline_and_formatting.md.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Contribution guideline example</p>\n<p>This is simple.</p>\n<p>Foo *emphasis* **strong emphasis** ***both*** .</p>\n<p>Create your feature branch: `git checkout -b feature/AmazingFeature` .</p>\n<p>1. Pull the [**repository**](https://github.com/docling-project/docling) . 2. Create your feature branch ( `git checkout -b feature/AmazingFeature` ) 3. Commit your changes ( `git commit -m 'Add some AmazingFeature'` ) 4. Push to the branch ( `git push origin feature/AmazingFeature` ) 5. Open a Pull Request 6. **Whole list item has same formatting** 7. List item has *mixed or partial* formatting</p>\n<p># *Whole heading is italic*</p>\n<p>- **First** : Lorem ipsum. - **Second** : Dolor `sit` amet.</p>\n<p>Some *`formatted_code`*</p>\n<p>## *Partially formatted* heading to\\_escape `not_to_escape`</p>\n<p>[$$E=mc^2$$](https://en.wikipedia.org/wiki/Albert_Einstein)</p>\n<p>## Table Heading</p>\n<p>| Bold Heading | Italic Heading | |----------------|------------------| | data a | data b |</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Contribution guideline example\"},{\"type\":\"paragraph\",\"text\":\"This is simple.\"},{\"type\":\"paragraph\",\"text\":\"Foo *emphasis* **strong emphasis** ***both*** .\"},{\"type\":\"paragraph\",\"text\":\"Create your feature branch: `git checkout -b feature/AmazingFeature` .\"},{\"type\":\"paragraph\",\"text\":\"1. Pull the [**repository**](https://github.com/docling-project/docling) .\\n2. Create your feature branch ( `git checkout -b feature/AmazingFeature` )\\n3. Commit your changes ( `git commit -m 'Add some AmazingFeature'` )\\n4. Push to the branch ( `git push origin feature/AmazingFeature` )\\n5. Open a Pull Request\\n6. **Whole list item has same formatting**\\n7. List item has *mixed or partial* formatting\"},{\"type\":\"paragraph\",\"text\":\"# *Whole heading is italic*\"},{\"type\":\"paragraph\",\"text\":\"- **First** : Lorem ipsum.\\n- **Second** : Dolor `sit` amet.\"},{\"type\":\"paragraph\",\"text\":\"Some *`formatted_code`*\"},{\"type\":\"paragraph\",\"text\":\"## *Partially formatted* heading to\\\\_escape `not_to_escape`\"},{\"type\":\"paragraph\",\"text\":\"[$$E=mc^2$$](https://en.wikipedia.org/wiki/Albert_Einstein)\"},{\"type\":\"paragraph\",\"text\":\"## Table Heading\"},{\"type\":\"paragraph\",\"text\":\"| Bold Heading   | Italic Heading   |\\n|----------------|------------------|\\n| data a         | data b           |\"}]}",
+    "markdown": "\\# Contribution guideline example\n\nThis is simple.\n\nFoo *emphasis* **strong emphasis** ***both*** .\n\nCreate your feature branch: \\`git checkout -b feature/AmazingFeature\\` .\n\n1\\. Pull the [**repository**](https://github.com/docling-project/docling) . 2. Create your feature branch ( \\`git checkout -b feature/AmazingFeature\\` ) 3. Commit your changes ( \\`git commit -m 'Add some AmazingFeature'\\` ) 4. Push to the branch ( \\`git push origin feature/AmazingFeature\\` ) 5. Open a Pull Request 6. **Whole list item has same formatting** 7. List item has *mixed or partial* formatting\n\n\\# *Whole heading is italic*\n\n\\- **First** : Lorem ipsum. - **Second** : Dolor \\`sit\\` amet.\n\nSome *\\`formatted_code\\`*\n\n\\#\\# *Partially formatted* heading to\\\\_escape \\`not_to_escape\\`\n\n[$$E=mc^2$$](https://en.wikipedia.org/wiki/Albert_Einstein)\n\n\\#\\# Table Heading\n\n| Bold Heading | Italic Heading | |----------------|------------------| | data a | data b |\n",
+    "plain": "# Contribution guideline example\n\nThis is simple.\n\nFoo *emphasis* **strong emphasis** ***both*** .\n\nCreate your feature branch: `git checkout -b feature/AmazingFeature` .\n\n1. Pull the [**repository**](https://github.com/docling-project/docling) .\n2. Create your feature branch ( `git checkout -b feature/AmazingFeature` )\n3. Commit your changes ( `git commit -m 'Add some AmazingFeature'` )\n4. Push to the branch ( `git push origin feature/AmazingFeature` )\n5. Open a Pull Request\n6. **Whole list item has same formatting**\n7. List item has *mixed or partial* formatting\n\n# *Whole heading is italic*\n\n- **First** : Lorem ipsum.\n- **Second** : Dolor `sit` amet.\n\nSome *`formatted_code`*\n\n## *Partially formatted* heading to\\_escape `not_to_escape`\n\n[$$E=mc^2$$](https://en.wikipedia.org/wiki/Albert_Einstein)\n\n## Table Heading\n\n| Bold Heading   | Italic Heading   |\n|----------------|------------------|\n| data a         | data b           |"
+  }
+}

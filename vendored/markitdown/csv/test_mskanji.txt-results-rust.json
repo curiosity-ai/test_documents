@@ -1,0 +1,28 @@
+{
+  "file": "vendored/markitdown/csv/test_mskanji.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 4,
+      "word_count": 12,
+      "character_count": 89
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/markitdown/csv/test_mskanji.txt",
+      "source_uri": "vendored/markitdown/csv/test_mskanji.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>名前 年齢 住所 佐藤太郎 30 東京 三木英子 25 大阪 髙橋淳 35 名古屋</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"名前 年齢 住所\\n佐藤太郎 30 東京\\n三木英子 25 大阪\\n髙橋淳 35 名古屋\"}]}",
+    "markdown": "名前 年齢 住所 佐藤太郎 30 東京 三木英子 25 大阪 髙橋淳 35 名古屋\n",
+    "plain": "名前 年齢 住所\n佐藤太郎 30 東京\n三木英子 25 大阪\n髙橋淳 35 名古屋"
+  }
+}

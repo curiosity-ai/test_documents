@@ -1,0 +1,36 @@
+{
+  "file": "vendored/unstructured/eml/mime-simple.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Example Multipart/Alternative Email",
+    "format": {
+      "format_type": "email",
+      "from_email": "sender@example.com",
+      "to_emails": [
+        "recipient@example.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "message_id": "1234567890@example.com",
+      "attachments": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/unstructured/eml/mime-simple.eml",
+      "source_uri": "vendored/unstructured/eml/mime-simple.eml",
+      "content_type": "multipart/alternative; boundary=\"boundary123\"",
+      "source_kind": "uri",
+      "mime_version": "1.0",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Example Multipart/Alternative Email</p>\n<p><strong>From</strong>: sender@example.com</p>\n<p><strong>To</strong>: recipient@example.com</p>\n<p>This is a simple email message.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a simple email message.\"}]}",
+    "markdown": "**Subject**: Example Multipart/Alternative Email\n\n**From**: sender@example.com\n\n**To**: recipient@example.com\n\nThis is a simple email message.\n",
+    "plain": "Subject: Example Multipart/Alternative Email\nFrom: sender@example.com\nTo: recipient@example.com\n\nThis is a simple email message."
+  }
+}

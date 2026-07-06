@@ -1,0 +1,846 @@
+{
+  "file": "pdf/pdfa_027.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "authors": [
+      "Pc1"
+    ],
+    "created_at": "2021-02-22T17:09:46Z",
+    "modified_at": "2021-02-22T17:09:46Z",
+    "created_by": "Microsoft® Word 2010",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.5",
+      "producer": "Microsoft® Word 2010",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 842,
+      "page_count": 9
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "pdf/pdfa_027.pdf",
+      "source_uri": "pdf/pdfa_027.pdf",
+      "extraction_method": "native",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Journal of Rajasthan ISSN: 0972",
+          "Academy -6306; of URL",
+          "Physical",
+          "Sciences : http://raops.org.in",
+          ""
+        ],
+        [
+          "Vol .19, No.3&4,",
+          "July",
+          "-December,",
+          "2020",
+          ", 259-266"
+        ]
+      ],
+      "markdown": "| Journal of Rajasthan ISSN: 0972 | Academy -6306; of URL | Physical | Sciences : http://raops.org.in |  |\n| --- | --- | --- | --- | --- |\n| Vol .19, No.3&4, | July | -December, | 2020 | , 259-266 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 100.0,
+        "y0": 668.0,
+        "x1": 295.0,
+        "y1": 701.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "2. The Metric We consider the and Field LRS Bianchi type",
+          "Equations",
+          "-I space",
+          "time as",
+          ""
+        ],
+        [
+          "2 ds  dt  2",
+          "2 A dx  B 2",
+          "2 ( dy  2",
+          "dz ) 2",
+          "(1)"
+        ]
+      ],
+      "markdown": "| 2. The Metric We consider the and Field LRS Bianchi type | Equations | -I space | time as |  |\n| --- | --- | --- | --- | --- |\n| 2 ds  dt  2 | 2 A dx  B 2 | 2 ( dy  2 | dz ) 2 | (1) |\n",
+      "page_number": 3,
+      "bounding_box": {
+        "x0": 100.0,
+        "y0": 432.0,
+        "x1": 497.0,
+        "y1": 701.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "1",
+          " j T",
+          "",
+          " T j",
+          ""
+        ],
+        [
+          "R  Rg  j j i i",
+          " 8  G  i",
+          "",
+          "i ",
+          "(2)"
+        ],
+        [
+          "2",
+          "( m ",
+          ")",
+          "( c ) ",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| 1 |  j T |  |  T j |  |\n| --- | --- | --- | --- | --- |\n| R  Rg  j j i i |  8  G  i |  | i  | (2) |\n| 2 | ( m  | ) | ( c )  |  |\n|  |  |  |  |  |\n",
+      "page_number": 3,
+      "bounding_box": {
+        "x0": 138.0,
+        "y0": 326.0,
+        "x1": 489.0,
+        "y1": 362.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "T j i (3)",
+          ""
+        ],
+        [
+          " ( p  ",
+          ") v vj  pg j i i"
+        ],
+        [
+          "( m )",
+          ""
+        ]
+      ],
+      "markdown": "| T j i (3) |  |\n| --- | --- |\n|  ( p   | ) v vj  pg j i i |\n| ( m ) |  |\n",
+      "page_number": 3,
+      "bounding_box": {
+        "x0": 138.0,
+        "y0": 227.0,
+        "x1": 489.0,
+        "y1": 254.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "Tj  i",
+          "1",
+          "",
+          ""
+        ],
+        [
+          "  f CCj ",
+          " gjC ",
+          "C ",
+          "(4)"
+        ],
+        [
+          "( c ) ",
+          "i i 2",
+          " ",
+          ""
+        ]
+      ],
+      "markdown": "| Tj  i | 1 |  |  |\n| --- | --- | --- | --- |\n|   f CCj  |  gjC  | C  | (4) |\n| ( c )  | i i 2 |   |  |\n",
+      "page_number": 3,
+      "bounding_box": {
+        "x0": 138.0,
+        "y0": 184.0,
+        "x1": 489.0,
+        "y1": 216.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "2B B 44",
+          "2  4",
+          "1  ",
+          ""
+        ],
+        [
+          "",
+          " 8  G ",
+          "2  p  f C ",
+          "(5)"
+        ],
+        [
+          "B B",
+          " 2",
+          "2 ",
+          ""
+        ]
+      ],
+      "markdown": "| 2B B 44 | 2  4 | 1   |  |\n| --- | --- | --- | --- |\n|  |  8  G  | 2  p  f C  | (5) |\n| B B |  2 | 2  |  |\n",
+      "page_number": 4,
+      "bounding_box": {
+        "x0": 139.0,
+        "y0": 649.0,
+        "x1": 489.0,
+        "y1": 678.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "A B 44",
+          "A B 4 4",
+          "",
+          "1  ",
+          ""
+        ],
+        [
+          "",
+          " 44",
+          " 8  G  ",
+          "2 p  f C ",
+          "(6)"
+        ],
+        [
+          "A B",
+          "AB",
+          "",
+          "2 ",
+          ""
+        ]
+      ],
+      "markdown": "| A B 44 | A B 4 4 |  | 1   |  |\n| --- | --- | --- | --- | --- |\n|  |  44 |  8  G   | 2 p  f C  | (6) |\n| A B | AB |  | 2  |  |\n",
+      "page_number": 4,
+      "bounding_box": {
+        "x0": 139.0,
+        "y0": 608.0,
+        "x1": 489.0,
+        "y1": 638.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "2A B 4.4",
+          "B 2 4",
+          "1   ",
+          ""
+        ],
+        [
+          "",
+          "  8  G",
+          "2   f C  ",
+          "(7)"
+        ],
+        [
+          "AB",
+          "B 2",
+          "2  ",
+          ""
+        ]
+      ],
+      "markdown": "| 2A B 4.4 | B 2 4 | 1    |  |\n| --- | --- | --- | --- |\n|  |   8  G | 2   f C   | (7) |\n| AB | B 2 | 2   |  |\n",
+      "page_number": 4,
+      "bounding_box": {
+        "x0": 139.0,
+        "y0": 566.0,
+        "x1": 489.0,
+        "y1": 595.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "where the suffix 4 denoted the differentiation with respect to time t.",
+          "",
+          ""
+        ],
+        [
+          "3. Solution",
+          "of Field",
+          "Equations"
+        ],
+        [
+          "The conservation",
+          "equation",
+          ""
+        ]
+      ],
+      "markdown": "| where the suffix 4 denoted the differentiation with respect to time t. |  |  |\n| --- | --- | --- |\n| 3. Solution | of Field | Equations |\n| The conservation | equation |  |\n",
+      "page_number": 4,
+      "bounding_box": {
+        "x0": 100.0,
+        "y0": 511.0,
+        "x1": 288.0,
+        "y1": 559.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "d",
+          "A  4",
+          "2B  4",
+          "",
+          " 2  4",
+          "A   4",
+          "2B  4",
+          ""
+        ],
+        [
+          " 2 C",
+          " 2  ",
+          "C ",
+          " 2 ",
+          "",
+          " ",
+          "",
+          "(9)"
+        ],
+        [
+          "dt",
+          "A ",
+          "B ",
+          "",
+          "f",
+          "f A ",
+          "B ",
+          ""
+        ]
+      ],
+      "markdown": "| d | A  4 | 2B  4 |  |  2  4 | A   4 | 2B  4 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  2 C |  2   | C  |  2  |  |   |  | (9) |\n| dt | A  | B  |  | f | f A  | B  |  |\n",
+      "page_number": 4,
+      "bounding_box": {
+        "x0": 139.0,
+        "y0": 426.0,
+        "x1": 489.0,
+        "y1": 455.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "Equation (5), (6) and",
+          "(7) are three equations",
+          "in 4 unknowns",
+          "A, B, P and",
+          " , to get"
+        ],
+        [
+          "deterministic  solution,",
+          "a supplementary",
+          "condition between metric",
+          "potential",
+          ""
+        ],
+        [
+          "n A = B",
+          "",
+          "",
+          "",
+          "(10)"
+        ]
+      ],
+      "markdown": "| Equation (5), (6) and | (7) are three equations | in 4 unknowns | A, B, P and |  , to get |\n| --- | --- | --- | --- | --- |\n| deterministic  solution, | a supplementary | condition between metric | potential |  |\n| n A = B |  |  |  | (10) |\n",
+      "page_number": 4,
+      "bounding_box": {
+        "x0": 100.0,
+        "y0": 318.0,
+        "x1": 493.0,
+        "y1": 360.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "2B B 44",
+          "2 ",
+          "1 ",
+          ""
+        ],
+        [
+          "",
+          " 8  G 4 ",
+          "p  f ",
+          "(11)"
+        ],
+        [
+          "B B",
+          " 2",
+          "2 ",
+          ""
+        ]
+      ],
+      "markdown": "| 2B B 44 | 2  | 1  |  |\n| --- | --- | --- | --- |\n|  |  8  G 4  | p  f  | (11) |\n| B B |  2 | 2  |  |\n",
+      "page_number": 4,
+      "bounding_box": {
+        "x0": 139.0,
+        "y0": 256.0,
+        "x1": 489.0,
+        "y1": 284.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "A B 44",
+          "A B 4 4",
+          "",
+          "1 ",
+          ""
+        ],
+        [
+          "",
+          " 44",
+          " 8  G  ",
+          "p  f  ",
+          "(12)"
+        ],
+        [
+          "A B",
+          "AB",
+          "",
+          "2 ",
+          ""
+        ]
+      ],
+      "markdown": "| A B 44 | A B 4 4 |  | 1  |  |\n| --- | --- | --- | --- | --- |\n|  |  44 |  8  G   | p  f   | (12) |\n| A B | AB |  | 2  |  |\n",
+      "page_number": 4,
+      "bounding_box": {
+        "x0": 139.0,
+        "y0": 214.0,
+        "x1": 489.0,
+        "y1": 244.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "2A B 4.4",
+          "B 2 4",
+          "1  ",
+          ""
+        ],
+        [
+          "",
+          " 8 ",
+          "G   f  ",
+          "(13)"
+        ],
+        [
+          "AB",
+          "B 2",
+          "2  ",
+          ""
+        ]
+      ],
+      "markdown": "| 2A B 4.4 | B 2 4 | 1   |  |\n| --- | --- | --- | --- |\n|  |  8  | G   f   | (13) |\n| AB | B 2 | 2   |  |\n",
+      "page_number": 4,
+      "bounding_box": {
+        "x0": 139.0,
+        "y0": 172.0,
+        "x1": 489.0,
+        "y1": 201.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "Equation (10) and (19) leads",
+          "to",
+          ""
+        ],
+        [
+          "",
+          "n",
+          ""
+        ],
+        [
+          "A  ( Lt",
+          "2  K ) n ",
+          "(20)"
+        ]
+      ],
+      "markdown": "| Equation (10) and (19) leads | to |  |\n| --- | --- | --- |\n|  | n |  |\n| A  ( Lt | 2  K ) n  | (20) |\n",
+      "page_number": 5,
+      "bounding_box": {
+        "x0": 100.0,
+        "y0": 332.0,
+        "x1": 489.0,
+        "y1": 374.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "",
+          " 1",
+          " L 2",
+          " f",
+          ""
+        ],
+        [
+          " ",
+          "",
+          "",
+          " ",
+          "(21)"
+        ],
+        [
+          "8 ",
+          "G ( Lt  ",
+          " k",
+          "2 )  2 ",
+          ""
+        ]
+      ],
+      "markdown": "|  |  1 |  L 2 |  f |  |\n| --- | --- | --- | --- | --- |\n|   |  |  |   | (21) |\n| 8  | G ( Lt   |  k | 2 )  2  |  |\n",
+      "page_number": 5,
+      "bounding_box": {
+        "x0": 138.0,
+        "y0": 267.0,
+        "x1": 489.0,
+        "y1": 301.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "d",
+          "2 L ",
+          "",
+          "2 L  ",
+          ""
+        ],
+        [
+          " 2 ( C ) ",
+          "",
+          " 2 C  ",
+          " ",
+          "(23)"
+        ],
+        [
+          "dt",
+          "Lt  K ",
+          "",
+          "Lt  K  ",
+          ""
+        ]
+      ],
+      "markdown": "| d | 2 L  |  | 2 L   |  |\n| --- | --- | --- | --- | --- |\n|  2 ( C )  |  |  2 C   |   | (23) |\n| dt | Lt  K  |  | Lt  K   |  |\n",
+      "page_number": 5,
+      "bounding_box": {
+        "x0": 139.0,
+        "y0": 155.0,
+        "x1": 492.0,
+        "y1": 186.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "",
+          " 1",
+          " L 2",
+          " f",
+          ""
+        ],
+        [
+          " ",
+          "",
+          "",
+          " ",
+          "(27)"
+        ],
+        [
+          "8 ",
+          "G ( Lt  ",
+          " k",
+          "2 )  2 ",
+          ""
+        ]
+      ],
+      "markdown": "|  |  1 |  L 2 |  f |  |\n| --- | --- | --- | --- | --- |\n|   |  |  |   | (27) |\n| 8  | G ( Lt   |  k | 2 )  2  |  |\n",
+      "page_number": 6,
+      "bounding_box": {
+        "x0": 138.0,
+        "y0": 477.0,
+        "x1": 489.0,
+        "y1": 511.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "L",
+          ""
+        ],
+        [
+          " ",
+          "(31)"
+        ],
+        [
+          "Lt  K",
+          ""
+        ]
+      ],
+      "markdown": "| L |  |\n| --- | --- |\n|   | (31) |\n| Lt  K |  |\n",
+      "page_number": 6,
+      "bounding_box": {
+        "x0": 138.0,
+        "y0": 376.0,
+        "x1": 489.0,
+        "y1": 406.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "",
+          "L 2",
+          " 2n  2",
+          " 4n  2",
+          ""
+        ],
+        [
+          "  2",
+          "",
+          "",
+          "",
+          "(32)"
+        ],
+        [
+          "",
+          "( Lt  K",
+          ") 6( n  2 ",
+          " 2)  2 ",
+          ""
+        ]
+      ],
+      "markdown": "|  | L 2 |  2n  2 |  4n  2 |  |\n| --- | --- | --- | --- | --- |\n|   2 |  |  |  | (32) |\n|  | ( Lt  K | ) 6( n  2  |  2)  2  |  |\n",
+      "page_number": 6,
+      "bounding_box": {
+        "x0": 138.0,
+        "y0": 332.0,
+        "x1": 489.0,
+        "y1": 366.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "Universe. [7] Chandel,",
+          "Monthly S. and Ram,",
+          "Notices of the S. (2015).",
+          "Royal Astronomical Spatially Homogeneous",
+          "Society, Cosmological",
+          "Model in",
+          "",
+          "108 , p. 252.",
+          ""
+        ],
+        [
+          "f(R",
+          ", T) Theory of Gravity,",
+          "EJTP12,",
+          "",
+          "32 ,",
+          "69-82.",
+          "",
+          "",
+          ""
+        ],
+        [
+          "[8] Hoyle,",
+          "F. and Narlikar,",
+          "J.V. (1964).",
+          "A new theory",
+          "of gravitation,",
+          "Mathematical",
+          "",
+          "",
+          ""
+        ],
+        [
+          "and Physical",
+          "Sciences,",
+          "Proc. Royl.",
+          "Soc. A",
+          "",
+          "282 , 191",
+          "-207.",
+          "",
+          ""
+        ],
+        [
+          "[9] Katanaev,",
+          "M.O. (2017).",
+          "Cosmological",
+          "Models with",
+          "Homogeneous and",
+          "Isotro",
+          "",
+          "",
+          "pic"
+        ],
+        [
+          "Spatial",
+          "Sections,",
+          "Theoretical and",
+          "Mathematical Physics,",
+          "",
+          "",
+          "191 (2),",
+          "661-668.",
+          ""
+        ],
+        [
+          "[10] Mohanty,",
+          "G. Tiwari,",
+          "R.N. and Rao,",
+          "J.R. (1982). Cylindrically",
+          "Symmetric",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Zel'dovich",
+          "Fluid distribution",
+          "in General",
+          "Theory of Relativity,",
+          "Int. J. Theo.",
+          "Phys.,",
+          "",
+          "",
+          ""
+        ],
+        [
+          "21 (2),",
+          "105-119.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| Universe. [7] Chandel, | Monthly S. and Ram, | Notices of the S. (2015). | Royal Astronomical Spatially Homogeneous | Society, Cosmological | Model in |  | 108 , p. 252. |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| f(R | , T) Theory of Gravity, | EJTP12, |  | 32 , | 69-82. |  |  |  |\n| [8] Hoyle, | F. and Narlikar, | J.V. (1964). | A new theory | of gravitation, | Mathematical |  |  |  |\n| and Physical | Sciences, | Proc. Royl. | Soc. A |  | 282 , 191 | -207. |  |  |\n| [9] Katanaev, | M.O. (2017). | Cosmological | Models with | Homogeneous and | Isotro |  |  | pic |\n| Spatial | Sections, | Theoretical and | Mathematical Physics, |  |  | 191 (2), | 661-668. |  |\n| [10] Mohanty, | G. Tiwari, | R.N. and Rao, | J.R. (1982). Cylindrically | Symmetric |  |  |  |  |\n| Zel'dovich | Fluid distribution | in General | Theory of Relativity, | Int. J. Theo. | Phys., |  |  |  |\n| 21 (2), | 105-119. |  |  |  |  |  |  |  |\n",
+      "page_number": 7,
+      "bounding_box": {
+        "x0": 100.0,
+        "y0": 148.0,
+        "x1": 497.0,
+        "y1": 624.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "[13]",
+          "Percival, Gustic Oscillation",
+          "W.J., Cole,",
+          "S., Daniel Scale Using",
+          "J., Einstein the Sloan",
+          "et al. Digital Sky",
+          "(2007). Measuring Survey and 2dF",
+          "the Baryon Galaxy Red",
+          "a"
+        ],
+        [
+          "",
+          "Shift Survey",
+          "",
+          ", Mon. Not.",
+          "R. Astron.",
+          "Soc.",
+          "381",
+          ", 1053",
+          "-1066."
+        ],
+        [
+          "[14]",
+          "Shamir, M.F.",
+          "(2010).",
+          "Some Bianchi",
+          "type Cosmological",
+          "Model",
+          "in f(A) Gravity,",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Astrophys.",
+          "Space Sci.",
+          "",
+          "330",
+          ", 183-189.",
+          "",
+          "",
+          ""
+        ],
+        [
+          "[15]",
+          "Sharif,",
+          "M. and Siddiya,",
+          "A. (2018).",
+          "Study",
+          "of Homogeneous",
+          "and Isotropic",
+          "Universe",
+          ""
+        ],
+        [
+          "",
+          "in F(R, T",
+          " ) Gravity,",
+          "",
+          "Ad. High Energy",
+          "Phys., ID",
+          "9534279.",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| [13] | Percival, Gustic Oscillation | W.J., Cole, | S., Daniel Scale Using | J., Einstein the Sloan | et al. Digital Sky | (2007). Measuring Survey and 2dF | the Baryon Galaxy Red | a |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | Shift Survey |  | , Mon. Not. | R. Astron. | Soc. | 381 | , 1053 | -1066. |\n| [14] | Shamir, M.F. | (2010). | Some Bianchi | type Cosmological | Model | in f(A) Gravity, |  |  |\n|  | Astrophys. | Space Sci. |  | 330 | , 183-189. |  |  |  |\n| [15] | Sharif, | M. and Siddiya, | A. (2018). | Study | of Homogeneous | and Isotropic | Universe |  |\n|  | in F(R, T |  ) Gravity, |  | Ad. High Energy | Phys., ID | 9534279. |  |  |\n",
+      "page_number": 8,
+      "bounding_box": {
+        "x0": 100.0,
+        "y0": 538.0,
+        "x1": 476.0,
+        "y1": 701.0
+      }
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>Journal of Rajasthan ISSN: 0972</th>\n<th>Academy -6306; of URL</th>\n<th>Physical</th>\n<th>Sciences : http://raops.org.in</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Vol .19, No.3&amp;4,</td>\n<td>July</td>\n<td>-December,</td>\n<td>2020</td>\n<td>, 259-266</td>\n</tr>\n</tbody>\n</table>\n<h1>STIFF FLUID COSMOLOGICAL MODEL WITH C -FIELD IN LOCALLY ROTATIONALLY SYMMETRIC BIANCHI TYPE -I SPACE TIME</h1>\n<h3>Atul Tyagi</h3>\n<h2>1</h2>\n<h3>, Jaipal Singh</h3>\n<h2>2</h2>\n<h3>and</h3>\n<h2>3</h2>\n<h3>Gajendra Pal Singh</h3>\n<p>Department of Mathematics and Statistics, University College of Sc ience, MLS University, Udaipur -313001, India Email: tyagi.atul10@gmail.com</p>\n<p>Email: jaipalsingh075@gmail.com</p>\n<p>Department of Mathematics, Geetanjali Institute of Technical Studies, Udaipur -313001, India Email: gajendrasingh237@gmail.com</p>\n<p><strong>Abstract:</strong></p>\n<p>We have investigated stiff fluid cosmological model with C -field in LRS Bianchi type -I space time. To get the deterministic solution, we assume that  (shear</p>\n<p>n</p>\n<h3>tensor) is proportional to </h3>\n<ul>\n<li>(expansion) which leads to A = B , where n is constant. The physical and geometrical aspects of the model are also discussed.</li>\n</ul>\n<h3>Keywords :</h3>\n<h3>C -field cosmology, stiff fluid, LRS Bianchi type -I</h3>\n<h3>1. Introduction</h3>\n<p>In modern physical cosmology, the cosmological principle is the notion that the spatial distribution of matter in the universe is homogeneous and isotropic where homogeneous is defined as &quot;The universe is same in all locations&quot; while isotropic means &quot;The universe is same in all directions&quot;. These concepts are important because most of the modern cosmology is based on the &quot;Cosmological principle&quot; the assumption that on large scale, the universe is both homogeneous and isotropic. The cosmological observations obtained by Type I Supernova Tonry et al. [17] and large scale structure Tegmark et al. [16],</p>\n<p>a</p>\n<p>Percival et al. [13]. Sharif and Siddiya [15] have studied of Homogeneous and Isotropic universe in f(R, T) gravity. Katanaev [9] also investigated cosmological model with homogeneous and isotropic spatial sections. Shamir [14] investigated the exact vacuum solutions of Bianchi type I, III space times. Chandel and Ram [7] have studied spatially homogeneous cosmological models in f(R, T) theory of gravity. The distribution of matter can be satisfactorily describe by perfect fluid due to the large scale distribution of galaxies in our universe. Stiff fluid cosmological models create interest in the study because for these models, the speed of light is equal to speed of sound and its governing equation have the same characteristic as those of gravitational field. Zel'dovich [21] and Barrow [5] have discussed the relevance of stiff fluid equation</p>\n<p>of state (p =  ) to the matter content of the universe in the early state of evolution of universe. Wesson [20] has investigated an exact solution of Einstein's field equation with Stiff flui d equation of state. Mohanty et al. [10] have investigated cylindrically symmetric Zel'dovich fluid distribution in general relativity. Bali and Sharma [4] have investigated Bianchi type -I stiff fluid magnetized cosmological model in General Relativity. In the early universe, all the investigations dealing with physical process use a model of the universe usually called a big -bang model. The big -band model based on Einstein field equation successfully explains the three important observation in Astronomy :</p>\n<ul>\n<li>(i) The phenomena of expanding universe, (ii) Primordial nucleo synthesis, (iii) The observed isotropy of the cosmic background radiation. The astronomical observation in the late eighties has revealed that the predications of FRW type models do not always meet with our requirements as we believe earlier, the big bang model is known to have the following short comings :</li>\n</ul>\n<h3>(i) The model has singularity in the past and possibly one in future.</h3>\n<ul>\n<li>(ii) The conservation of energy is violated in the big -bang model. (i ii) The big -bang models based on reasonable equations of state lead to a very small particle horizon in the early epochs of the universe. This fact gives rise to the 'Horizon problem'.</li>\n</ul>\n<p>(iv) No consistent scenario exists within the frame work of big -bang mo del that explains the origin, evaluation and characteristic of structure in the universe of small scales.</p>\n<ul>\n<li>(v) Flatness problem Thus alternative theories were proposed from time to time. The most well known theory is the 'Steady State Theory' by Bondi and G old. In this theory the universe does not have any singular beginning nor an end on the cosmic time scale to maintain constancy of matter density. They envisaged a very slow but continuous creation of matter in contrast to the irrespective certain at t = 0 of the standard FRW model. However, it suffers the serious disqualification for not giving any physical justification in the form of any dynamical theory for continuous creation of matter, also the principle energy conservation is scarifies in this formul ism. To remove this problem, Hoyle and Narlikar [8] adopted a field theoretic approach introducing a massless and chargeless scalar field in Einstein Hilbert action to account for creation of matter. In C -field theory, there is no big -bang type singularity as in the steady state theory of Bondi and Gold [6], Narlikar and Padmanabhan [11] have investigated the solution of Einstein's field equation which admit radiation and negative energy massless scalar c -field as source. Bali and Tikekar [3] have investiga ted C -field cosmological model for dust distribution in Flat FRW model with variable gravitation constant.</li>\n</ul>\n<table>\n<thead>\n<tr>\n<th>2. The Metric We consider the and Field LRS Bianchi type</th>\n<th>Equations</th>\n<th>-I space</th>\n<th>time as</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2 ds  dt  2</td>\n<td>2 A dx  B 2</td>\n<td>2 ( dy  2</td>\n<td>dz ) 2</td>\n<td>(1)</td>\n</tr>\n</tbody>\n</table>\n<h2>T</h2>\n<p>j R C T ds dx B )</p>\n<p> g where the metric potential A and B are function of t alone and = AB Einstein modified field equation by introduction of C -field are given by Hoyle and Narlikar as</p>\n<table>\n<thead>\n<tr>\n<th>1</th>\n<th> j T</th>\n<th></th>\n<th> T j</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>R  Rg  j j i i</td>\n<td> 8  G  i</td>\n<td></td>\n<td>i </td>\n<td>(2)</td>\n</tr>\n<tr>\n<td>2</td>\n<td>( m </td>\n<td>)</td>\n<td>( c ) </td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>j</p>\n<h2>T T</h2>\n<p>j</p>\n<h2>R</h2>\n<p>j j</p>\n<h2>G The energy momentum tensor by Hoyle and Narlikar [8] as ) T</h2>\n<p>j i</p>\n<p>j i</p>\n<h3>for perfect fluid and ( m ) T</h3>\n<h3>for Creation field are given ( c ) T</h3>\n<table>\n<thead>\n<tr>\n<th>T j i (3)</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td> ( p  </td>\n<td>) v vj  pg j i i</td>\n</tr>\n<tr>\n<td>( m )</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>j ) j</p>\n<table>\n<thead>\n<tr>\n<th>Tj  i</th>\n<th>1</th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>  f CCj </td>\n<td> gjC </td>\n<td>C </td>\n<td>(4)</td>\n</tr>\n<tr>\n<td>( c ) </td>\n<td>i i 2</td>\n<td> </td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2>( ) where f &gt; 0 is the coupling constant between matter and creation field and dC C  .</h2>\n<p>i i</p>\n<h3>dx</h3>\n<p>The modified field equation (2) for the B G p B B B B metric (1) leads to B G p B B B</p>\n<table>\n<thead>\n<tr>\n<th>2B B 44</th>\n<th>2  4</th>\n<th>1  </th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td> 8  G </td>\n<td>2  p  f C </td>\n<td>(5)</td>\n</tr>\n<tr>\n<td>B B</td>\n<td> 2</td>\n<td>2 </td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>A B 44</th>\n<th>A B 4 4</th>\n<th></th>\n<th>1  </th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td> 44</td>\n<td> 8  G  </td>\n<td>2 p  f C </td>\n<td>(6)</td>\n</tr>\n<tr>\n<td>A B</td>\n<td>AB</td>\n<td></td>\n<td>2 </td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>2A B 4.4</th>\n<th>B 2 4</th>\n<th>1   </th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>  8  G</td>\n<td>2   f C  </td>\n<td>(7)</td>\n</tr>\n<tr>\n<td>AB</td>\n<td>B 2</td>\n<td>2  </td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3>G leads to d C B C</h3>\n<table>\n<thead>\n<tr>\n<th>where the suffix 4 denoted the differentiation with respect to time t.</th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3. Solution</td>\n<td>of Field</td>\n<td>Equations</td>\n</tr>\n<tr>\n<td>The conservation</td>\n<td>equation</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>j</p>\n<h2>[ 8  GT ]  0</h2>\n<p>; j i</p>\n<table>\n<thead>\n<tr>\n<th>d</th>\n<th>A  4</th>\n<th>2B  4</th>\n<th></th>\n<th> 2  4</th>\n<th>A   4</th>\n<th>2B  4</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td> 2 C</td>\n<td> 2  </td>\n<td>C </td>\n<td> 2 </td>\n<td></td>\n<td> </td>\n<td></td>\n<td>(9)</td>\n</tr>\n<tr>\n<td>dt</td>\n<td>A </td>\n<td>B </td>\n<td></td>\n<td>f</td>\n<td>f A </td>\n<td>B </td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3> The source equation of C -field</h3>\n<p>, i  Thus = 1 C  Using in equation (5), (6) and (7) which leads to C  1 B f f B n leads to C = t for large r f B B B B B B B Adding equation (11) and (13), using stiff fluid condition (p = G p f B G p G f (8)  ), we have</p>\n<table>\n<thead>\n<tr>\n<th>Equation (5), (6) and</th>\n<th>(7) are three equations</th>\n<th>in 4 unknowns</th>\n<th>A, B, P and</th>\n<th> , to get</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>deterministic solution,</td>\n<td>a supplementary</td>\n<td>condition between metric</td>\n<td>potential</td>\n<td></td>\n</tr>\n<tr>\n<td>n A = B</td>\n<td></td>\n<td></td>\n<td></td>\n<td>(10)</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>2B B 44</th>\n<th>2 </th>\n<th>1 </th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td> 8  G 4 </td>\n<td>p  f </td>\n<td>(11)</td>\n</tr>\n<tr>\n<td>B B</td>\n<td> 2</td>\n<td>2 </td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>A B 44</th>\n<th>A B 4 4</th>\n<th></th>\n<th>1 </th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td> 44</td>\n<td> 8  G  </td>\n<td>p  f </td>\n<td>(12)</td>\n</tr>\n<tr>\n<td>A B</td>\n<td>AB</td>\n<td></td>\n<td>2 </td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>2A B 4.4</th>\n<th>B 2 4</th>\n<th>1  </th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td> 8 </td>\n<td>G   f  </td>\n<td>(13)</td>\n</tr>\n<tr>\n<td>AB</td>\n<td>B 2</td>\n<td>2  </td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2>B B</h2>\n<h2>A B</h2>\n<p>44 4.4</p>\n<p></p>\n<h2>  0 B AB B</h2>\n<h3>Equation (10) and (14) leads to B</h3>\n<p>2 4</p>\n<h3>B  ( n  1 )  0</h3>\n<h3>B To get the deterministic value of A and B, we assume B  f ( B )</h3>\n<p>4 Using equation (15) and (16) leads to d f 2</p>\n<h3>( f</h3>\n<p>)  2( n  1 )  0 dt B Equation (17) leads to M f  where M is a integration constant  1 )</p>\n<h3>B</h3>\n<p>( n</p>\n<h3>Equation (18) leads to</h3>\n<p>1 2</p>\n<h3>B  ( Lt  K )</h3>\n<p>n  where <em>L</em>  <em>M</em> ( <em>n</em>  2) and K  P (n ( ) Using equation for (7), (19) and (20) which leads to L f G k ) Thus the metric (1) after using equation (19) and (20) leads to</p>\n<table>\n<thead>\n<tr>\n<th>Equation (10) and (19) leads</th>\n<th>to</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>n</td>\n<td></td>\n</tr>\n<tr>\n<td>A  ( Lt</td>\n<td>2  K ) n </td>\n<td>(20)</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th></th>\n<th> 1</th>\n<th> L 2</th>\n<th> f</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td> </td>\n<td></td>\n<td></td>\n<td> </td>\n<td>(21)</td>\n</tr>\n<tr>\n<td>8 </td>\n<td>G ( Lt  </td>\n<td> k</td>\n<td>2 )  2 </td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>2 n  2)</p>\n<p>2 2</p>\n<h3>(22) dz</h3>\n<h2>ds</h2>\n<h2> dt</h2>\n<h2> ( Lt  K )</h2>\n<p>( n</p>\n<h2>dx</h2>\n<h2> ( Lt  K )</h2>\n<p>n </p>\n<h2>( dy</h2>\n<h2> (14) (15) (16) (17) (18) (19)</h2>\n<p>)</p>\n<h3>Using equation (19), (20) into equation (9) we have ( )  2) constant</h3>\n<table>\n<thead>\n<tr>\n<th>d</th>\n<th>2 L </th>\n<th></th>\n<th>2 L  </th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td> 2 ( C ) </td>\n<td></td>\n<td> 2 C  </td>\n<td> </td>\n<td>(23)</td>\n</tr>\n<tr>\n<td>dt</td>\n<td>Lt  K </td>\n<td></td>\n<td>Lt  K  </td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3>Equation (23) leads to </h3>\n<h3>(24) (25) (26)</h3>\n<h2>( C )( Lt  K )</h2>\n<h2> ( Lt  K ) </h2>\n<p> Q ), the creation field (C), spatial volume (R  ) and expansion (  ) of the model (22) are given by L K L K )   Constant </p>\n<p>C  1  Thus we have or C = t C  1 For simplicity, we assume that integral constant Q = 0 which leads to We find C = t, which agrees with the value used in the source equation. Thus Creation field C is proportional to time t.</p>\n<h3>4. Some Physical and Geometrical Features</h3>\n<p>The homogeneous mass densit y (  deceleration parameter (q), shear tensor ( L f G k ) C = t R</p>\n<h3>), the (28) (29) (30) (33)</h3>\n<table>\n<thead>\n<tr>\n<th></th>\n<th> 1</th>\n<th> L 2</th>\n<th> f</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td> </td>\n<td></td>\n<td></td>\n<td> </td>\n<td>(27)</td>\n</tr>\n<tr>\n<td>8 </td>\n<td>G ( Lt  </td>\n<td> k</td>\n<td>2 )  2 </td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2> ( Lt  K ) q = 2</h2>\n<table>\n<thead>\n<tr>\n<th>L</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td> </td>\n<td>(31)</td>\n</tr>\n<tr>\n<td>Lt  K</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>L 2</th>\n<th> 2n  2</th>\n<th> 4n  2</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>  2</td>\n<td></td>\n<td></td>\n<td></td>\n<td>(32)</td>\n</tr>\n<tr>\n<td></td>\n<td>( Lt  K</td>\n<td>) 6( n  2 </td>\n<td> 2)  2 </td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3>5. Conclusion and Discussion</h3>\n<h3>The scale factor R increases with time. The deceleration parameter q &gt;</h3>\n<p>Creation exists all the time , so there is a big crunch bet  is constant, therefore model (22) does not approach to isotropy at late time. Since     at t = 0, hence model (22) is free from initial singularity.</p>\n<p>, t  </p>\n<h3>The coordinate distance to the horizon is the maximum distance a null ray could have </h3>\n<p>H</p>\n<h3>travelled at time t starting from infinite past i.e.</h3>\n<p>t</p>\n<h2>dt   </h2>\n<p>H</p>\n<h2>R</h2>\n<h2>( t)</h2>\n<ul>\n<li></li>\n</ul>\n<table>\n<thead>\n<tr>\n<th>Universe. [7] Chandel,</th>\n<th>Monthly S. and Ram,</th>\n<th>Notices of the S. (2015).</th>\n<th>Royal Astronomical Spatially Homogeneous</th>\n<th>Society, Cosmological</th>\n<th>Model in</th>\n<th></th>\n<th>108 , p. 252.</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>f(R</td>\n<td>, T) Theory of Gravity,</td>\n<td>EJTP12,</td>\n<td></td>\n<td>32 ,</td>\n<td>69-82.</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>[8] Hoyle,</td>\n<td>F. and Narlikar,</td>\n<td>J.V. (1964).</td>\n<td>A new theory</td>\n<td>of gravitation,</td>\n<td>Mathematical</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>and Physical</td>\n<td>Sciences,</td>\n<td>Proc. Royl.</td>\n<td>Soc. A</td>\n<td></td>\n<td>282 , 191</td>\n<td>-207.</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>[9] Katanaev,</td>\n<td>M.O. (2017).</td>\n<td>Cosmological</td>\n<td>Models with</td>\n<td>Homogeneous and</td>\n<td>Isotro</td>\n<td></td>\n<td></td>\n<td>pic</td>\n</tr>\n<tr>\n<td>Spatial</td>\n<td>Sections,</td>\n<td>Theoretical and</td>\n<td>Mathematical Physics,</td>\n<td></td>\n<td></td>\n<td>191 (2),</td>\n<td>661-668.</td>\n<td></td>\n</tr>\n<tr>\n<td>[10] Mohanty,</td>\n<td>G. Tiwari,</td>\n<td>R.N. and Rao,</td>\n<td>J.R. (1982). Cylindrically</td>\n<td>Symmetric</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Zel'dovich</td>\n<td>Fluid distribution</td>\n<td>in General</td>\n<td>Theory of Relativity,</td>\n<td>Int. J. Theo.</td>\n<td>Phys.,</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>21 (2),</td>\n<td>105-119.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>( ) ( ) ( )</p>\n<table>\n<thead>\n<tr>\n<th>[13]</th>\n<th>Percival, Gustic Oscillation</th>\n<th>W.J., Cole,</th>\n<th>S., Daniel Scale Using</th>\n<th>J., Einstein the Sloan</th>\n<th>et al. Digital Sky</th>\n<th>(2007). Measuring Survey and 2dF</th>\n<th>the Baryon Galaxy Red</th>\n<th>a</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>Shift Survey</td>\n<td></td>\n<td>, Mon. Not.</td>\n<td>R. Astron.</td>\n<td>Soc.</td>\n<td>381</td>\n<td>, 1053</td>\n<td>-1066.</td>\n</tr>\n<tr>\n<td>[14]</td>\n<td>Shamir, M.F.</td>\n<td>(2010).</td>\n<td>Some Bianchi</td>\n<td>type Cosmological</td>\n<td>Model</td>\n<td>in f(A) Gravity,</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Astrophys.</td>\n<td>Space Sci.</td>\n<td></td>\n<td>330</td>\n<td>, 183-189.</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>[15]</td>\n<td>Sharif,</td>\n<td>M. and Siddiya,</td>\n<td>A. (2018).</td>\n<td>Study</td>\n<td>of Homogeneous</td>\n<td>and Isotropic</td>\n<td>Universe</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>in F(R, T</td>\n<td> ) Gravity,</td>\n<td></td>\n<td>Ad. High Energy</td>\n<td>Phys., ID</td>\n<td>9534279.</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3>[16] Tegmark, M. et al. (2014). Cosmological Parameter from SDSS and WMAP, Phys. Rev. D.</h3>\n<h2>69</h2>\n<h3>, 103501. [17] Tonry, J.L. et al. (2003). Cosmological Results from High Astrophysical,</h3>\n<h2>594</h2>\n<p>, 1 -24. [18] Tyagi, A. and Singh G. (2015). LRS Bianchi Type V Perfect Fluid Cosmological Model in C -field Theory with Variable  , Journal of Chemical, Biological and Physical Sciences,</p>\n<h2>5</h2>\n<p>(2), 1878 -1883. [19] Tyagi, A. and Singh, G.P. (2015). Time Dependent A in C LRS Bianchi type III Universe and Barotropic Perfect Fluid. Prespacetime Journal,</p>\n<h2>6</h2>\n<p>(2), 143 -150. [20] Wesson, P.S. (1978). An Exact Solution to Einstein's Equation with a Stiff Equation of State, J. Maths, Phys.,</p>\n<h2>19</h2>\n<p>, 2283. [21] Zel'dovich, Ya. B. (1970). Anisotropy of the microwave background in the inflationary cosmology. Mon. Not. R. Astron. Soc.</p>\n<h2>160</h2>\n<h3>. -Z Supernovae, The -fie ld Theory with</h3>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Journal of Rajasthan Academy of Physical Sciences  \\nISSN: 0972 -6306; URL :  http://raops.org.in  \\nVol .19, No.3&4, July -December, 2020 , 259-266 \\n \\nSTIFF FLUID COSMOLOGICAL MODEL WITH C-FIELD IN \\nLOCALLY ROTATIONALLY SYMMETRIC BIANCHI TYPE-I \\nSPACE TIME \\n \\nAtul Tyagi1, Jaipal Singh2 and 3Gajendra Pal Singh \\n1Department of Mathematics and Statistics, University College of Sc ience, MLS \\nUniversity, Udaipur -313001, India  \\nEmail:  tyagi.atul10@gmail.com  \\n2Email: jaipalsingh075@gmail.com  \\n3Department of Mathematics, Geetanjali  Institute of Technical Studies,  \\nUdaipur -313001, India  \\nEmail: gajendrasingh237@gmail.com  \\n \\nAbstract: We have investigated stiff fluid cosmological model with C -field in LRS \\nBianchi type -I space time. To get the deterministic solution, we assume that   (shear \\nntensor) is proportional to  (expansion) which leads to A = B , where n is constant. The \\nphysical  and geometrical aspects of the model are also discussed.\"},{\"type\":\"paragraph\",\"text\":\"Keywords : C -field cosmology, stiff fluid, LRS Bianchi type -I \\n \\n1. Introduction\"},{\"type\":\"paragraph\",\"text\":\"In modern physical cosmology, the cosmological principle is the notion that the spatial \\ndistribution of matter in the  universe is homogeneous and isotropic where homogeneous \\nis defined as \\\"The universe is same in all locations\\\" while isotropic means \\\"The universe \\nis same in all directions\\\". These concepts are important because most of the modern \\ncosmology is based on the  \\\"Cosmological principle\\\" the assumption that on large scale, \\nthe universe is both homogeneous and isotropic. The cosmological observations obtained \\nby Type I  Supernova Tonry et al. [17] and large scale structure Tegmark et al. [16], a\\nPercival et al. [13].  Sharif and Siddiya [15] have studied of Homogeneous and Isotropic \\nuniverse in f(R, T) gravity. Katanaev [9] also investigated cosmological model with \\nhomogeneous and isotropic spatial sections. Shamir [14] investigated the exact vacuum \\nsolutions of Bianchi  type I, III space times. Chandel and Ram [7] have studied spatially \\nhomogeneous cosmological models in f(R, T) theory of gravity.\"},{\"type\":\"paragraph\",\"text\":\"The distribution of matter can be satisfactorily describe by perfect fluid due to the large \\nscale distribution of galaxies in  our universe. Stiff fluid cosmological models create \\ninterest in the study because for these models, the speed of light is equal to speed of \\nsound and its governing equation have the same characteristic as those of gravitational \\nfield. Zel'dovich [21] and  Barrow [5] have discussed the relevance of stiff fluid equation\"},{\"type\":\"paragraph\",\"text\":\"260  Atul Tyagi, Jaipal Singh and Gajendra Pal Singh\"},{\"type\":\"paragraph\",\"text\":\"of state (p =  ) to the matter content of the universe in the early state of evolution of \\nuniverse. Wesson [20] has investigated an exact solution of Einstein's field equation with \\nStiff flui d equation of state. Mohanty et al. [10] have investigated cylindrically symmetric \\nZel'dovich fluid distribution in general relativity.\"},{\"type\":\"paragraph\",\"text\":\"Bali and Sharma [4] have investigated Bianchi type -I stiff fluid magnetized cosmological \\nmodel in General Relativity.\"},{\"type\":\"paragraph\",\"text\":\"In the early universe, all the investigations dealing with physical process use a model of \\nthe universe usually called a big -bang model. The big -band model based on Einstein field \\nequation successfully explains the three important observation in Astronomy :  (i) The \\nphenomena of expanding universe, (ii) Primordial nucleo synthesis, (iii) The observed \\nisotropy of the cosmic background radiation.\"},{\"type\":\"paragraph\",\"text\":\"The astronomical observation in the late eighties has revealed that the predications of \\nFRW type models do not always  meet with our requirements as we believe earlier, the big \\nbang model is known to have the following short comings :\"},{\"type\":\"paragraph\",\"text\":\"(i)   The model has singularity in the past and possibly one in future.\"},{\"type\":\"paragraph\",\"text\":\"(ii)   The conservation of energy is violated in the big -bang model.\"},{\"type\":\"paragraph\",\"text\":\"(i ii) The big -bang models based on reasonable equations of state lead to a very small \\nparticle horizon in the early epochs of the universe. This fact gives rise to the \\n'Horizon problem'.\"},{\"type\":\"paragraph\",\"text\":\"(iv)  No consistent scenario exists within the frame work of big -bang mo del that explains \\nthe origin, evaluation and characteristic of structure in the universe of small scales.\"},{\"type\":\"paragraph\",\"text\":\"(v)   Flatness problem\"},{\"type\":\"paragraph\",\"text\":\"Thus alternative theories were proposed from time to time. The most well known theory \\nis the 'Steady State Theory' by Bondi and G old. In this theory the universe does not have \\nany singular beginning nor an end on the cosmic time scale to maintain constancy of \\nmatter density. They envisaged a very slow but continuous creation of matter in contrast \\nto the irrespective certain at t = 0  of the standard FRW model. However, it suffers the \\nserious disqualification for not giving any physical justification in the form of any \\ndynamical  theory  for  continuous  creation  of  matter,  also  the  principle  energy \\nconservation is scarifies in this formul ism.\"},{\"type\":\"paragraph\",\"text\":\"To remove this problem, Hoyle and Narlikar [8] adopted a field theoretic approach \\nintroducing a massless and chargeless scalar field in Einstein Hilbert action to account for \\ncreation of matter. In C -field theory, there is no big -bang type singularity  as in the steady \\nstate theory of Bondi and Gold [6], Narlikar and Padmanabhan [11] have investigated the \\nsolution of Einstein's field equation which admit radiation and negative energy massless \\nscalar c -field as source. Bali and Tikekar [3] have investiga ted C -field cosmological \\nmodel for dust distribution in Flat FRW model with variable gravitation constant.\"},{\"type\":\"paragraph\",\"text\":\"Stiff Fluid Cosmological Model  w ith C -Field  in...   261 \\nBali and Kumawat [1] have investigated C -field cosmological model with variable G in \\nFRW space -time. Bali and Saraf [2] studied C -field cosmological  model for dust \\ndistribution with varying   in FRW space -time. To get deterministic model satisfying \\nconservation equation  Ti; jj 0 they have assumed   1 where R is the scale factor.  \\nR 2\\nTyagi and Singh [19] have studied a  cosmological model for barotropic fluid distribution in \\nC -field cosmology with varying cosmological constant ( ) in Bianchi type -III space time. \\nLRS Bianchi type V perfect fluid cosmological model in C -field theory with variable   have \\nbeen studied by Tyag i and Singh [18]. Parikh and Tyagi [12] have studied time -dependent   \\nin Bianchi type IX space time with barotropic perfect fluid in C -field.  \\nIn this paper, we have investigated stiff fluid cosmological model with C -field in LRS \\nBianchi type -I space time.  The stiff fluid condition leads to p =  , p -being isotropic pressure. \\nTo get deterministic solution, we have assume   (shear tensor) proportional to  (expansion) \\nn\\nwhich leads to A = B , where n is constant. We find that creation field increases with time. \\nT he other physical and geometrical aspects of the model are also discussed.  \\n2. The Metric and Field Equations \\nWe consider the LRS Bianchi type -I space time as  \\n  ds 2dt 2A2dx 2B 2( dy 2dz 2)   (1)  \\nwhere the metric potential A and B are function of t alone and  g = AB 2 \\nEinstein modified field equation by introduction of C -field are given by Hoyle and \\nNarlikar as  \\n  R ij1Rg ij 8G T ij  T ij  (2)  \\n2 ( m ) ( c )\\nThe energy momentum tensor  T ij  for perfect fluid and  T ij  for Creation field are given \\n( m ) ( c )\\nby Hoyle and Narlikar [8] as  \\n  T ij ( p  ) v vji pgij  (3)  \\n( m )\\nTji  1 \\n   fCCji  gjCi C  (4)  \\n(c)  2 \\ndC\\nwhere f  > 0 is the coupling constant between matter and creation field and  C i i. \\ndx\"},{\"type\":\"paragraph\",\"text\":\"262  Atul Tyagi, Jaipal Singh and Gajendra Pal Singh  \\nThe modified field equation (2) for the  metric (1) leads to  \\n  2B 44B 248G p 1f C2  (5)  \\nB B 2  2 \\n  A44B 44A4B 48G p 1f C2  (6)  \\nA B AB  2 \\n  2A4.4B B 248G  1f C2  (7)  \\nAB B 2  2 \\nwhere the suffix 4 denoted the differentiation with respect to time t.  \\n3. Solution of Field Equations \\nThe conservation equation  \\nj\\n  [ 8GT i]; j0  (8)  \\nleads to  \\n  d C22A42B 4 C224 A42B 4  (9)  \\ndt  A B  f f  A B \\nn\\nThe source equation of C -field  C i, i  leads to C = t for large r  \\nf\\nThus    C= 1  \\nEquation (5), (6) and (7) are three equations in 4 unknowns A, B, P and  , to get \\ndeterministic  solution, a supplementary condition between metric potential  \\nn\\n  A = B    (10)  \\nUsing  C1 in equation (5), (6) and (7) which leads to  \\n   2B 44B 248G p 1f   (11)  \\nB B 2  2 \\n  A44B 44A4B 48G p 1f   (12)  \\nA B AB  2 \\n  2A4.4B B 248G  1f   (13)  \\nAB B 2  2 \\nAdding equation (11) and (13), using stiff fluid condition (p =  ), we have\"},{\"type\":\"paragraph\",\"text\":\"Stiff Fluid Cosmological Model  w ith C -Field  in...   263 \\nB44B42A B4.40  (14)  \\n             B B2 AB\\nEquation (10) and (14) leads to  \\n   B 44( n1) B 240  (15)  \\nB\\nTo get the deterministic value of A and B, we assume  \\n            B 4f ( B )     (16)  \\nUsing equation (15) and (16) leads to   \\nd f 2\\n  ( f 2) 2( n1) 0  (17)  \\ndt B\\nEquation (17) leads to  \\nM\\n  f   where M is a integration constant    (18)  \\n1)\\nB ( n\\nEquation (18) leads to  \\n1\\n  B ( Lt K )n2  (19)  \\nwhere  LM(n2) and K   P (n 2) constant  \\nEquation (10) and (19) leads to  \\nn\\n  A(LtK)n2  (20)  \\nUsing equation for (7), (19) and (20) which leads to   \\n1  L 2  f\\n        (21)  \\n8G ( Lt k )2 2\\nThus the metric (1) after using equation (19) and (20) leads to   \\n2n 2\\n  ds2dt2(LtK)(n2)dx2(LtK)n2(dy2dz2)   (22)  \\nUsing equation (19), (20) into equation (9) we have  \\n  d(C2)  2L  C2 2L   (23)   \\ndt LtK LtK\"},{\"type\":\"paragraph\",\"text\":\"264  Atul Tyagi, Jaipal Singh and Gajendra Pal Singh  \\nEquation (23) leads to  \\n           (C2)( LtK)2(LtK)2Q   (24)  \\n  C21   (25)  \\nThus we have  C1 or C = t   (26)  \\nFor  simplicity, we assume that integral constant Q = 0 which leads to  \\nWe find C = t, which agrees with the value used in the source equation. Thus Creation \\nfield C is proportional to time t.  \\n4. Some Physical and Geometrical Features \\n3\\nThe homogeneous mass densit y ( ), the creation field (C), spatial volume (R ), the \\ndeceleration parameter (q), shear tensor ( ) and expansion ( ) of the model (22) are given by  \\n1  L 2  f\\n        (27)  \\n8G ( Lt k )2 2\\n  C = t     (28)  \\n  R3(LtK)  (29)  \\n  q = 2     (30)  \\nL\\n      (31)  \\nLt K\\nL 2 2n24n2\\n  2    (32)  \\n( Lt K )2 6( n2)2 \\n\\n  Constant   (33)  \\n\\n5. Conclusion and Discussion \\nThe scale factor R increases with time. The deceleration parameter q >               \\n                                                                                       \\n                                                                                                \\nCreation exists all the time , so there is a big crunch bet                                     \\n                                                                                    t , \\n\\n is constant, therefore model (22) does not approach to isotropy at late time. Since \\n\\n   at t = 0, hence model (22) is free from initial singularity.\"},{\"type\":\"paragraph\",\"text\":\"Stiff Fluid Cosmological Model  w ith C -Field  in...   265 \\nThe coordinate distance  H  to the horizon is the maximum distance a null ray could have \\ntravelled at time t starting from infinite past i.e.  \\nt dt\\n  H    \\n–R 3( t)\\nWe could extent the proper time t to in the past because of non -singular nature of space \\ntime, thus  \\nt t\\ndt dt\\n  H(t) 3    \\n0R(t) 0(LtK)\\nThe integral of diverge at lower limit shows the model is free from event horizon.  \\nAcknowledgements: The auth ors are thankful to the Referee for valuable comments and \\nsuggestions.  \\nReferences \\n[1]   Bali, R. and Kumawat, M. (2009). C -field Cosmological Model with Variable G \\nin FRW Space time, Int. J. Theor. Phys.,  48, 3410. \\n[2]   Bali, R. and Saraf, S. (2013). C -field  Cosmological Model for Dust Distribution \\nwith Varying   in FRW Space -time, Prespace Journal,  4 (5), 545.  \\n[3]   Bali, R. and Tikekar, R. (2007). C -field Cosmology with Variable G in Flat FRW \\nModel, Chin. Phys. Lett.  24 (11), 2390.  \\n[4]   Bali, R. and Sharma, K. (2003). Bianchi type -I Stiff Fluid Magnetized \\nCosmological Model in General Relativity, Astro Phys. and Space Science,  283, \\n11-22. \\n[5]   Barrow, J.D. (1986). The deflationary Universe : An Instability of the Desitter \\nUniverse, Phys. L ett. B.,  180, 335 -339. \\n[6]   Bondi, H. and Gold, T. (1948). The Steady State Theory of the Expanding \\nUniverse. Monthly Notices of the Royal Astronomical Society,  108, p. 252.  \\n[7]   Chandel, S. and Ram, S. (2015). Spatially Homogeneous Cosmological Model in \\nf(R , T) Theory of Gravity, EJTP12,  32, 69 -82. \\n[8]   Hoyle, F. and Narlikar, J.V. (1964). A new theory of gravitation, Mathematical \\nand Physical Sciences, Proc. Royl. Soc. A  282, 191 -207. \\n[9]   Katanaev, M.O. (2017). Cosmological Models with Homogeneous and Isotro pic \\nSpatial Sections, Theoretical and Mathematical Physics,  191 (2), 661 -668. \\n[10]   Mohanty, G. Tiwari, R.N. and Rao, J.R. (1982). Cylindrically Symmetric \\nZel'dovich Fluid distribution in General Theory of Relativity, Int. J. Theo. Phys., \\n21 (2), 105 -119.\"},{\"type\":\"paragraph\",\"text\":\"266  Atul Tyagi, Jaipal Singh and Gajendra Pal Singh\"},{\"type\":\"paragraph\",\"text\":\"[ 11]  Narlikar, J.V. and Padmanabhan, T. (1985). Creation Field Cosmology : A Possible \\nSolution to Singularity, Horizon and Flatness Problems, Phys. Rev. D.,\"},{\"type\":\"paragraph\",\"text\":\"[12]   Parikh, S. and Tyagi, A. (2016). Time -dependent   in Bianchi type\\nwith  Barotropic Perfect fluid in C -field theory, Prespace Journal,\"},{\"type\":\"paragraph\",\"text\":\"[13]   Percival, W.J., Cole, S., Daniel J., Einstein et al. (2007). Measuring the Baryon a \\nGustic Oscillation Scale Using the Sloan Digital Sky Survey and 2dF Galaxy Red \\nShift Survey , Mon. Not. R. Astron. Soc.  381, 1053 -1066.\"},{\"type\":\"paragraph\",\"text\":\"[14]   Shamir, M.F. (2010). Some Bianchi type Cosmological Model in f(A) Gravity, \\nAstrophys. Space Sci.  330, 183-189.\"},{\"type\":\"paragraph\",\"text\":\"[15]   Sharif, M. and Siddiya, A. (2018). Study of Homogeneous and Isotropic Universe \\nin F(R, T ) Gravity, Ad. High Energy Phys., ID 9534279.\"},{\"type\":\"paragraph\",\"text\":\"[16]   Tegmark, M. et al. (2014). Cosmological Parameter from SDSS and WMAP, \\nPhys. Rev. D.  69, 103501.\"},{\"type\":\"paragraph\",\"text\":\"[17]   Tonry, J.L. et al. (2003). Cosmological Results from High\\nAstrophysical,  594, 1 -24.\"},{\"type\":\"paragraph\",\"text\":\"[18]   Tyagi, A. and Singh G. (2015). LRS Bianchi Type V Perfect Fluid Cosmological \\nModel in C -field Theory with Variable  , Journal of Chemical, Biological and \\nPhysical Sciences,  5 (2), 1878 -1883.\"},{\"type\":\"paragraph\",\"text\":\"[19]   Tyagi, A. and Singh, G.P. (2015). Time Dependent A in C\\nLRS Bianchi type III Universe and Barotropic Perfect Fluid. Prespacetime \\nJournal,  6 (2), 143 -150.\"},{\"type\":\"paragraph\",\"text\":\"[20]   Wesson, P.S. (1978). An Exact Solution to Einstein's Equation with a Stiff \\nEquation of State, J. Maths, Phys.,  19, 2283.\"},{\"type\":\"paragraph\",\"text\":\"[21]   Zel'dovich,  Ya. B. (1970). Anisotropy of the microwave background in the \\ninflationary cosmology. Mon. Not. R. Astron. Soc.  160.\"},{\"type\":\"paragraph\",\"text\":\"32, 1928.\"},{\"type\":\"paragraph\",\"text\":\"-IX Space Time \\n7 (12), 1645.\"},{\"type\":\"paragraph\",\"text\":\"-Z Supernovae, The\"},{\"type\":\"paragraph\",\"text\":\"-fie ld Theory with\"},{\"type\":\"table\",\"headers\":[\"Journal of Rajasthan ISSN: 0972\",\"Academy -6306; of URL\",\"Physical\",\"Sciences : http://raops.org.in\",\"\"],\"rows\":[[\"Vol .19, No.3&4,\",\"July\",\"-December,\",\"2020\",\", 259-266\"]]},{\"type\":\"table\",\"headers\":[\"2. The Metric We consider the and Field LRS Bianchi type\",\"Equations\",\"-I space\",\"time as\",\"\"],\"rows\":[[\"2 ds  dt  2\",\"2 A dx  B 2\",\"2 ( dy  2\",\"dz ) 2\",\"(1)\"]]},{\"type\":\"table\",\"headers\":[\"1\",\" j T\",\"\",\" T j\",\"\"],\"rows\":[[\"R  Rg  j j i i\",\" 8  G  i\",\"\",\"i \",\"(2)\"],[\"2\",\"( m \",\")\",\"( c ) \",\"\"],[\"\",\"\",\"\",\"\",\"\"]]},{\"type\":\"table\",\"headers\":[\"T j i (3)\",\"\"],\"rows\":[[\" ( p  \",\") v vj  pg j i i\"],[\"( m )\",\"\"]]},{\"type\":\"table\",\"headers\":[\"Tj  i\",\"1\",\"\",\"\"],\"rows\":[[\"  f CCj \",\" gjC \",\"C \",\"(4)\"],[\"( c ) \",\"i i 2\",\" \",\"\"]]},{\"type\":\"table\",\"headers\":[\"2B B 44\",\"2  4\",\"1  \",\"\"],\"rows\":[[\"\",\" 8  G \",\"2  p  f C \",\"(5)\"],[\"B B\",\" 2\",\"2 \",\"\"]]},{\"type\":\"table\",\"headers\":[\"A B 44\",\"A B 4 4\",\"\",\"1  \",\"\"],\"rows\":[[\"\",\" 44\",\" 8  G  \",\"2 p  f C \",\"(6)\"],[\"A B\",\"AB\",\"\",\"2 \",\"\"]]},{\"type\":\"table\",\"headers\":[\"2A B 4.4\",\"B 2 4\",\"1   \",\"\"],\"rows\":[[\"\",\"  8  G\",\"2   f C  \",\"(7)\"],[\"AB\",\"B 2\",\"2  \",\"\"]]},{\"type\":\"table\",\"headers\":[\"where the suffix 4 denoted the differentiation with respect to time t.\",\"\",\"\"],\"rows\":[[\"3. Solution\",\"of Field\",\"Equations\"],[\"The conservation\",\"equation\",\"\"]]},{\"type\":\"table\",\"headers\":[\"d\",\"A  4\",\"2B  4\",\"\",\" 2  4\",\"A   4\",\"2B  4\",\"\"],\"rows\":[[\" 2 C\",\" 2  \",\"C \",\" 2 \",\"\",\" \",\"\",\"(9)\"],[\"dt\",\"A \",\"B \",\"\",\"f\",\"f A \",\"B \",\"\"]]},{\"type\":\"table\",\"headers\":[\"Equation (5), (6) and\",\"(7) are three equations\",\"in 4 unknowns\",\"A, B, P and\",\" , to get\"],\"rows\":[[\"deterministic  solution,\",\"a supplementary\",\"condition between metric\",\"potential\",\"\"],[\"n A = B\",\"\",\"\",\"\",\"(10)\"]]},{\"type\":\"table\",\"headers\":[\"2B B 44\",\"2 \",\"1 \",\"\"],\"rows\":[[\"\",\" 8  G 4 \",\"p  f \",\"(11)\"],[\"B B\",\" 2\",\"2 \",\"\"]]},{\"type\":\"table\",\"headers\":[\"A B 44\",\"A B 4 4\",\"\",\"1 \",\"\"],\"rows\":[[\"\",\" 44\",\" 8  G  \",\"p  f  \",\"(12)\"],[\"A B\",\"AB\",\"\",\"2 \",\"\"]]},{\"type\":\"table\",\"headers\":[\"2A B 4.4\",\"B 2 4\",\"1  \",\"\"],\"rows\":[[\"\",\" 8 \",\"G   f  \",\"(13)\"],[\"AB\",\"B 2\",\"2  \",\"\"]]},{\"type\":\"table\",\"headers\":[\"Equation (10) and (19) leads\",\"to\",\"\"],\"rows\":[[\"\",\"n\",\"\"],[\"A  ( Lt\",\"2  K ) n \",\"(20)\"]]},{\"type\":\"table\",\"headers\":[\"\",\" 1\",\" L 2\",\" f\",\"\"],\"rows\":[[\" \",\"\",\"\",\" \",\"(21)\"],[\"8 \",\"G ( Lt  \",\" k\",\"2 )  2 \",\"\"]]},{\"type\":\"table\",\"headers\":[\"d\",\"2 L \",\"\",\"2 L  \",\"\"],\"rows\":[[\" 2 ( C ) \",\"\",\" 2 C  \",\" \",\"(23)\"],[\"dt\",\"Lt  K \",\"\",\"Lt  K  \",\"\"]]},{\"type\":\"table\",\"headers\":[\"\",\" 1\",\" L 2\",\" f\",\"\"],\"rows\":[[\" \",\"\",\"\",\" \",\"(27)\"],[\"8 \",\"G ( Lt  \",\" k\",\"2 )  2 \",\"\"]]},{\"type\":\"table\",\"headers\":[\"L\",\"\"],\"rows\":[[\" \",\"(31)\"],[\"Lt  K\",\"\"]]},{\"type\":\"table\",\"headers\":[\"\",\"L 2\",\" 2n  2\",\" 4n  2\",\"\"],\"rows\":[[\"  2\",\"\",\"\",\"\",\"(32)\"],[\"\",\"( Lt  K\",\") 6( n  2 \",\" 2)  2 \",\"\"]]},{\"type\":\"table\",\"headers\":[\"Universe. [7] Chandel,\",\"Monthly S. and Ram,\",\"Notices of the S. (2015).\",\"Royal Astronomical Spatially Homogeneous\",\"Society, Cosmological\",\"Model in\",\"\",\"108 , p. 252.\",\"\"],\"rows\":[[\"f(R\",\", T) Theory of Gravity,\",\"EJTP12,\",\"\",\"32 ,\",\"69-82.\",\"\",\"\",\"\"],[\"[8] Hoyle,\",\"F. and Narlikar,\",\"J.V. (1964).\",\"A new theory\",\"of gravitation,\",\"Mathematical\",\"\",\"\",\"\"],[\"and Physical\",\"Sciences,\",\"Proc. Royl.\",\"Soc. A\",\"\",\"282 , 191\",\"-207.\",\"\",\"\"],[\"[9] Katanaev,\",\"M.O. (2017).\",\"Cosmological\",\"Models with\",\"Homogeneous and\",\"Isotro\",\"\",\"\",\"pic\"],[\"Spatial\",\"Sections,\",\"Theoretical and\",\"Mathematical Physics,\",\"\",\"\",\"191 (2),\",\"661-668.\",\"\"],[\"[10] Mohanty,\",\"G. Tiwari,\",\"R.N. and Rao,\",\"J.R. (1982). Cylindrically\",\"Symmetric\",\"\",\"\",\"\",\"\"],[\"Zel'dovich\",\"Fluid distribution\",\"in General\",\"Theory of Relativity,\",\"Int. J. Theo.\",\"Phys.,\",\"\",\"\",\"\"],[\"21 (2),\",\"105-119.\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"]]},{\"type\":\"table\",\"headers\":[\"[13]\",\"Percival, Gustic Oscillation\",\"W.J., Cole,\",\"S., Daniel Scale Using\",\"J., Einstein the Sloan\",\"et al. Digital Sky\",\"(2007). Measuring Survey and 2dF\",\"the Baryon Galaxy Red\",\"a\"],\"rows\":[[\"\",\"Shift Survey\",\"\",\", Mon. Not.\",\"R. Astron.\",\"Soc.\",\"381\",\", 1053\",\"-1066.\"],[\"[14]\",\"Shamir, M.F.\",\"(2010).\",\"Some Bianchi\",\"type Cosmological\",\"Model\",\"in f(A) Gravity,\",\"\",\"\"],[\"\",\"Astrophys.\",\"Space Sci.\",\"\",\"330\",\", 183-189.\",\"\",\"\",\"\"],[\"[15]\",\"Sharif,\",\"M. and Siddiya,\",\"A. (2018).\",\"Study\",\"of Homogeneous\",\"and Isotropic\",\"Universe\",\"\"],[\"\",\"in F(R, T\",\" ) Gravity,\",\"\",\"Ad. High Energy\",\"Phys., ID\",\"9534279.\",\"\",\"\"]]}]}",
+    "markdown": "| Journal of Rajasthan ISSN: 0972 | Academy -6306; of URL | Physical | Sciences : http://raops.org.in |  |\n| --- | --- | --- | --- | --- |\n| Vol .19, No.3&4, | July | -December, | 2020 | , 259-266 |\n\n# STIFF FLUID COSMOLOGICAL MODEL WITH C -FIELD IN LOCALLY ROTATIONALLY SYMMETRIC BIANCHI TYPE -I SPACE TIME\n\n### Atul Tyagi\n\n## 1\n\n### , Jaipal Singh\n\n## 2\n\n### and\n\n## 3\n\n### Gajendra Pal Singh\n\nDepartment of Mathematics and Statistics, University College of Sc ience, MLS University, Udaipur -313001, India Email: tyagi.atul10@gmail.com\n\nEmail: jaipalsingh075@gmail.com\n\nDepartment of Mathematics, Geetanjali Institute of Technical Studies, Udaipur -313001, India Email: gajendrasingh237@gmail.com\n\n**Abstract:**\n\nWe have investigated stiff fluid cosmological model with C -field in LRS Bianchi type -I space time. To get the deterministic solution, we assume that  (shear\n\nn\n\n### tensor) is proportional to \n\n- (expansion) which leads to A = B , where n is constant. The physical and geometrical aspects of the model are also discussed.\n\n### Keywords :\n\n### C -field cosmology, stiff fluid, LRS Bianchi type -I\n\n### 1\\. Introduction\n\nIn modern physical cosmology, the cosmological principle is the notion that the spatial distribution of matter in the universe is homogeneous and isotropic where homogeneous is defined as \"The universe is same in all locations\" while isotropic means \"The universe is same in all directions\". These concepts are important because most of the modern cosmology is based on the \"Cosmological principle\" the assumption that on large scale, the universe is both homogeneous and isotropic. The cosmological observations obtained by Type I Supernova Tonry et al. [17] and large scale structure Tegmark et al. [16],\n\na\n\nPercival et al. [13]. Sharif and Siddiya [15] have studied of Homogeneous and Isotropic universe in f(R, T) gravity. Katanaev [9] also investigated cosmological model with homogeneous and isotropic spatial sections. Shamir [14] investigated the exact vacuum solutions of Bianchi type I, III space times. Chandel and Ram [7] have studied spatially homogeneous cosmological models in f(R, T) theory of gravity. The distribution of matter can be satisfactorily describe by perfect fluid due to the large scale distribution of galaxies in our universe. Stiff fluid cosmological models create interest in the study because for these models, the speed of light is equal to speed of sound and its governing equation have the same characteristic as those of gravitational field. Zel'dovich [21] and Barrow [5] have discussed the relevance of stiff fluid equation\n\nof state (p =  ) to the matter content of the universe in the early state of evolution of universe. Wesson [20] has investigated an exact solution of Einstein's field equation with Stiff flui d equation of state. Mohanty et al. [10] have investigated cylindrically symmetric Zel'dovich fluid distribution in general relativity. Bali and Sharma [4] have investigated Bianchi type -I stiff fluid magnetized cosmological model in General Relativity. In the early universe, all the investigations dealing with physical process use a model of the universe usually called a big -bang model. The big -band model based on Einstein field equation successfully explains the three important observation in Astronomy :\n\n- (i) The phenomena of expanding universe, (ii) Primordial nucleo synthesis, (iii) The observed isotropy of the cosmic background radiation. The astronomical observation in the late eighties has revealed that the predications of FRW type models do not always meet with our requirements as we believe earlier, the big bang model is known to have the following short comings :\n\n### (i) The model has singularity in the past and possibly one in future.\n\n- (ii) The conservation of energy is violated in the big -bang model. (i ii) The big -bang models based on reasonable equations of state lead to a very small particle horizon in the early epochs of the universe. This fact gives rise to the 'Horizon problem'.\n\n(iv) No consistent scenario exists within the frame work of big -bang mo del that explains the origin, evaluation and characteristic of structure in the universe of small scales.\n\n- (v) Flatness problem Thus alternative theories were proposed from time to time. The most well known theory is the 'Steady State Theory' by Bondi and G old. In this theory the universe does not have any singular beginning nor an end on the cosmic time scale to maintain constancy of matter density. They envisaged a very slow but continuous creation of matter in contrast to the irrespective certain at t = 0 of the standard FRW model. However, it suffers the serious disqualification for not giving any physical justification in the form of any dynamical theory for continuous creation of matter, also the principle energy conservation is scarifies in this formul ism. To remove this problem, Hoyle and Narlikar [8] adopted a field theoretic approach introducing a massless and chargeless scalar field in Einstein Hilbert action to account for creation of matter. In C -field theory, there is no big -bang type singularity as in the steady state theory of Bondi and Gold [6], Narlikar and Padmanabhan [11] have investigated the solution of Einstein's field equation which admit radiation and negative energy massless scalar c -field as source. Bali and Tikekar [3] have investiga ted C -field cosmological model for dust distribution in Flat FRW model with variable gravitation constant.\n\n| 2. The Metric We consider the and Field LRS Bianchi type | Equations | -I space | time as |  |\n| --- | --- | --- | --- | --- |\n| 2 ds  dt  2 | 2 A dx  B 2 | 2 ( dy  2 | dz ) 2 | (1) |\n\n## T\n\nj R C T ds dx B )\n\n g where the metric potential A and B are function of t alone and = AB Einstein modified field equation by introduction of C -field are given by Hoyle and Narlikar as\n\n| 1 |  j T |  |  T j |  |\n| --- | --- | --- | --- | --- |\n| R  Rg  j j i i |  8  G  i |  | i  | (2) |\n| 2 | ( m  | ) | ( c )  |  |\n|  |  |  |  |  |\n\nj\n\n## T T\n\nj\n\n## R\n\nj j\n\n## G The energy momentum tensor by Hoyle and Narlikar [8] as ) T\n\nj i\n\nj i\n\n### for perfect fluid and ( m ) T\n\n### for Creation field are given ( c ) T\n\n| T j i (3) |  |\n| --- | --- |\n|  ( p   | ) v vj  pg j i i |\n| ( m ) |  |\n\nj ) j\n\n| Tj  i | 1 |  |  |\n| --- | --- | --- | --- |\n|   f CCj  |  gjC  | C  | (4) |\n| ( c )  | i i 2 |   |  |\n\n## ( ) where f \\> 0 is the coupling constant between matter and creation field and dC C  .\n\ni i\n\n### dx\n\nThe modified field equation (2) for the B G p B B B B metric (1) leads to B G p B B B\n\n| 2B B 44 | 2  4 | 1   |  |\n| --- | --- | --- | --- |\n|  |  8  G  | 2  p  f C  | (5) |\n| B B |  2 | 2  |  |\n\n| A B 44 | A B 4 4 |  | 1   |  |\n| --- | --- | --- | --- | --- |\n|  |  44 |  8  G   | 2 p  f C  | (6) |\n| A B | AB |  | 2  |  |\n\n| 2A B 4.4 | B 2 4 | 1    |  |\n| --- | --- | --- | --- |\n|  |   8  G | 2   f C   | (7) |\n| AB | B 2 | 2   |  |\n\n### G leads to d C B C\n\n| where the suffix 4 denoted the differentiation with respect to time t. |  |  |\n| --- | --- | --- |\n| 3. Solution | of Field | Equations |\n| The conservation | equation |  |\n\nj\n\n## [ 8  GT ]  0\n\n; j i\n\n| d | A  4 | 2B  4 |  |  2  4 | A   4 | 2B  4 |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  2 C |  2   | C  |  2  |  |   |  | (9) |\n| dt | A  | B  |  | f | f A  | B  |  |\n\n###  The source equation of C -field\n\n, i  Thus = 1 C  Using in equation (5), (6) and (7) which leads to C  1 B f f B n leads to C = t for large r f B B B B B B B Adding equation (11) and (13), using stiff fluid condition (p = G p f B G p G f (8)  ), we have\n\n| Equation (5), (6) and | (7) are three equations | in 4 unknowns | A, B, P and |  , to get |\n| --- | --- | --- | --- | --- |\n| deterministic solution, | a supplementary | condition between metric | potential |  |\n| n A = B |  |  |  | (10) |\n\n| 2B B 44 | 2  | 1  |  |\n| --- | --- | --- | --- |\n|  |  8  G 4  | p  f  | (11) |\n| B B |  2 | 2  |  |\n\n| A B 44 | A B 4 4 |  | 1  |  |\n| --- | --- | --- | --- | --- |\n|  |  44 |  8  G   | p  f  | (12) |\n| A B | AB |  | 2  |  |\n\n| 2A B 4.4 | B 2 4 | 1   |  |\n| --- | --- | --- | --- |\n|  |  8  | G   f   | (13) |\n| AB | B 2 | 2   |  |\n\n## B B\n\n## A B\n\n44 4.4\n\n\n\n##   0 B AB B\n\n### Equation (10) and (14) leads to B\n\n2 4\n\n### B  ( n  1 )  0\n\n### B To get the deterministic value of A and B, we assume B  f ( B )\n\n4 Using equation (15) and (16) leads to d f 2\n\n### ( f\n\n)  2( n  1 )  0 dt B Equation (17) leads to M f  where M is a integration constant  1 )\n\n### B\n\n( n\n\n### Equation (18) leads to\n\n1 2\n\n### B  ( Lt  K )\n\nn  where *L*  *M* ( *n*  2) and K  P (n ( ) Using equation for (7), (19) and (20) which leads to L f G k ) Thus the metric (1) after using equation (19) and (20) leads to\n\n| Equation (10) and (19) leads | to |  |\n| --- | --- | --- |\n|  | n |  |\n| A  ( Lt | 2  K ) n  | (20) |\n\n|  |  1 |  L 2 |  f |  |\n| --- | --- | --- | --- | --- |\n|   |  |  |   | (21) |\n| 8  | G ( Lt   |  k | 2 )  2  |  |\n\n2 n  2)\n\n2 2\n\n### (22) dz\n\n## ds\n\n##  dt\n\n##  ( Lt  K )\n\n( n\n\n## dx\n\n##  ( Lt  K )\n\nn \n\n## ( dy\n\n##  (14) (15) (16) (17) (18) (19)\n\n)\n\n### Using equation (19), (20) into equation (9) we have ( )  2) constant\n\n| d | 2 L  |  | 2 L   |  |\n| --- | --- | --- | --- | --- |\n|  2 ( C )  |  |  2 C   |   | (23) |\n| dt | Lt  K  |  | Lt  K   |  |\n\n### Equation (23) leads to \n\n### (24) (25) (26)\n\n## ( C )( Lt  K )\n\n##  ( Lt  K ) \n\n Q ), the creation field (C), spatial volume (R  ) and expansion (  ) of the model (22) are given by L K L K )   Constant \n\nC  1  Thus we have or C = t C  1 For simplicity, we assume that integral constant Q = 0 which leads to We find C = t, which agrees with the value used in the source equation. Thus Creation field C is proportional to time t.\n\n### 4\\. Some Physical and Geometrical Features\n\nThe homogeneous mass densit y (  deceleration parameter (q), shear tensor ( L f G k ) C = t R\n\n### ), the (28) (29) (30) (33)\n\n|  |  1 |  L 2 |  f |  |\n| --- | --- | --- | --- | --- |\n|   |  |  |   | (27) |\n| 8  | G ( Lt   |  k | 2 )  2  |  |\n\n##  ( Lt  K ) q = 2\n\n| L |  |\n| --- | --- |\n|   | (31) |\n| Lt  K |  |\n\n|  | L 2 |  2n  2 |  4n  2 |  |\n| --- | --- | --- | --- | --- |\n|   2 |  |  |  | (32) |\n|  | ( Lt  K | ) 6( n  2  |  2)  2  |  |\n\n### 5\\. Conclusion and Discussion\n\n### The scale factor R increases with time. The deceleration parameter q \\>\n\nCreation exists all the time , so there is a big crunch bet  is constant, therefore model (22) does not approach to isotropy at late time. Since     at t = 0, hence model (22) is free from initial singularity.\n\n, t  \n\n### The coordinate distance to the horizon is the maximum distance a null ray could have \n\nH\n\n### travelled at time t starting from infinite past i.e.\n\nt\n\n## dt   \n\nH\n\n## R\n\n## ( t)\n\n- \n\n| Universe. [7] Chandel, | Monthly S. and Ram, | Notices of the S. (2015). | Royal Astronomical Spatially Homogeneous | Society, Cosmological | Model in |  | 108 , p. 252. |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| f(R | , T) Theory of Gravity, | EJTP12, |  | 32 , | 69-82. |  |  |  |\n| [8] Hoyle, | F. and Narlikar, | J.V. (1964). | A new theory | of gravitation, | Mathematical |  |  |  |\n| and Physical | Sciences, | Proc. Royl. | Soc. A |  | 282 , 191 | -207. |  |  |\n| [9] Katanaev, | M.O. (2017). | Cosmological | Models with | Homogeneous and | Isotro |  |  | pic |\n| Spatial | Sections, | Theoretical and | Mathematical Physics, |  |  | 191 (2), | 661-668. |  |\n| [10] Mohanty, | G. Tiwari, | R.N. and Rao, | J.R. (1982). Cylindrically | Symmetric |  |  |  |  |\n| Zel'dovich | Fluid distribution | in General | Theory of Relativity, | Int. J. Theo. | Phys., |  |  |  |\n| 21 (2), | 105-119. |  |  |  |  |  |  |  |\n\n( ) ( ) ( )\n\n| [13] | Percival, Gustic Oscillation | W.J., Cole, | S., Daniel Scale Using | J., Einstein the Sloan | et al. Digital Sky | (2007). Measuring Survey and 2dF | the Baryon Galaxy Red | a |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  | Shift Survey |  | , Mon. Not. | R. Astron. | Soc. | 381 | , 1053 | -1066. |\n| [14] | Shamir, M.F. | (2010). | Some Bianchi | type Cosmological | Model | in f(A) Gravity, |  |  |\n|  | Astrophys. | Space Sci. |  | 330 | , 183-189. |  |  |  |\n| [15] | Sharif, | M. and Siddiya, | A. (2018). | Study | of Homogeneous | and Isotropic | Universe |  |\n|  | in F(R, T |  ) Gravity, |  | Ad. High Energy | Phys., ID | 9534279. |  |  |\n\n### [16] Tegmark, M. et al. (2014). Cosmological Parameter from SDSS and WMAP, Phys. Rev. D.\n\n## 69\n\n### , 103501. [17] Tonry, J.L. et al. (2003). Cosmological Results from High Astrophysical,\n\n## 594\n\n, 1 -24. [18] Tyagi, A. and Singh G. (2015). LRS Bianchi Type V Perfect Fluid Cosmological Model in C -field Theory with Variable  , Journal of Chemical, Biological and Physical Sciences,\n\n## 5\n\n(2), 1878 -1883. [19] Tyagi, A. and Singh, G.P. (2015). Time Dependent A in C LRS Bianchi type III Universe and Barotropic Perfect Fluid. Prespacetime Journal,\n\n## 6\n\n(2), 143 -150. [20] Wesson, P.S. (1978). An Exact Solution to Einstein's Equation with a Stiff Equation of State, J. Maths, Phys.,\n\n## 19\n\n, 2283. [21] Zel'dovich, Ya. B. (1970). Anisotropy of the microwave background in the inflationary cosmology. Mon. Not. R. Astron. Soc.\n\n## 160\n\n### . -Z Supernovae, The -fie ld Theory with\n",
+    "plain": "Journal of Rajasthan Academy of Physical Sciences  \nISSN: 0972 -6306; URL :  http://raops.org.in  \nVol .19, No.3&4, July -December, 2020 , 259-266 \n \nSTIFF FLUID COSMOLOGICAL MODEL WITH C-FIELD IN \nLOCALLY ROTATIONALLY SYMMETRIC BIANCHI TYPE-I \nSPACE TIME \n \nAtul Tyagi1, Jaipal Singh2 and 3Gajendra Pal Singh \n1Department of Mathematics and Statistics, University College of Sc ience, MLS \nUniversity, Udaipur -313001, India  \nEmail:  tyagi.atul10@gmail.com  \n2Email: jaipalsingh075@gmail.com  \n3Department of Mathematics, Geetanjali  Institute of Technical Studies,  \nUdaipur -313001, India  \nEmail: gajendrasingh237@gmail.com  \n \nAbstract: We have investigated stiff fluid cosmological model with C -field in LRS \nBianchi type -I space time. To get the deterministic solution, we assume that   (shear \nntensor) is proportional to  (expansion) which leads to A = B , where n is constant. The \nphysical  and geometrical aspects of the model are also discussed.\n\nKeywords : C -field cosmology, stiff fluid, LRS Bianchi type -I \n \n1. Introduction\n\nIn modern physical cosmology, the cosmological principle is the notion that the spatial \ndistribution of matter in the  universe is homogeneous and isotropic where homogeneous \nis defined as \"The universe is same in all locations\" while isotropic means \"The universe \nis same in all directions\". These concepts are important because most of the modern \ncosmology is based on the  \"Cosmological principle\" the assumption that on large scale, \nthe universe is both homogeneous and isotropic. The cosmological observations obtained \nby Type I  Supernova Tonry et al. [17] and large scale structure Tegmark et al. [16], a\nPercival et al. [13].  Sharif and Siddiya [15] have studied of Homogeneous and Isotropic \nuniverse in f(R, T) gravity. Katanaev [9] also investigated cosmological model with \nhomogeneous and isotropic spatial sections. Shamir [14] investigated the exact vacuum \nsolutions of Bianchi  type I, III space times. Chandel and Ram [7] have studied spatially \nhomogeneous cosmological models in f(R, T) theory of gravity.\n\nThe distribution of matter can be satisfactorily describe by perfect fluid due to the large \nscale distribution of galaxies in  our universe. Stiff fluid cosmological models create \ninterest in the study because for these models, the speed of light is equal to speed of \nsound and its governing equation have the same characteristic as those of gravitational \nfield. Zel'dovich [21] and  Barrow [5] have discussed the relevance of stiff fluid equation\n\n260  Atul Tyagi, Jaipal Singh and Gajendra Pal Singh\n\nof state (p =  ) to the matter content of the universe in the early state of evolution of \nuniverse. Wesson [20] has investigated an exact solution of Einstein's field equation with \nStiff flui d equation of state. Mohanty et al. [10] have investigated cylindrically symmetric \nZel'dovich fluid distribution in general relativity.\n\nBali and Sharma [4] have investigated Bianchi type -I stiff fluid magnetized cosmological \nmodel in General Relativity.\n\nIn the early universe, all the investigations dealing with physical process use a model of \nthe universe usually called a big -bang model. The big -band model based on Einstein field \nequation successfully explains the three important observation in Astronomy :  (i) The \nphenomena of expanding universe, (ii) Primordial nucleo synthesis, (iii) The observed \nisotropy of the cosmic background radiation.\n\nThe astronomical observation in the late eighties has revealed that the predications of \nFRW type models do not always  meet with our requirements as we believe earlier, the big \nbang model is known to have the following short comings :\n\n(i)   The model has singularity in the past and possibly one in future.\n\n(ii)   The conservation of energy is violated in the big -bang model.\n\n(i ii) The big -bang models based on reasonable equations of state lead to a very small \nparticle horizon in the early epochs of the universe. This fact gives rise to the \n'Horizon problem'.\n\n(iv)  No consistent scenario exists within the frame work of big -bang mo del that explains \nthe origin, evaluation and characteristic of structure in the universe of small scales.\n\n(v)   Flatness problem\n\nThus alternative theories were proposed from time to time. The most well known theory \nis the 'Steady State Theory' by Bondi and G old. In this theory the universe does not have \nany singular beginning nor an end on the cosmic time scale to maintain constancy of \nmatter density. They envisaged a very slow but continuous creation of matter in contrast \nto the irrespective certain at t = 0  of the standard FRW model. However, it suffers the \nserious disqualification for not giving any physical justification in the form of any \ndynamical  theory  for  continuous  creation  of  matter,  also  the  principle  energy \nconservation is scarifies in this formul ism.\n\nTo remove this problem, Hoyle and Narlikar [8] adopted a field theoretic approach \nintroducing a massless and chargeless scalar field in Einstein Hilbert action to account for \ncreation of matter. In C -field theory, there is no big -bang type singularity  as in the steady \nstate theory of Bondi and Gold [6], Narlikar and Padmanabhan [11] have investigated the \nsolution of Einstein's field equation which admit radiation and negative energy massless \nscalar c -field as source. Bali and Tikekar [3] have investiga ted C -field cosmological \nmodel for dust distribution in Flat FRW model with variable gravitation constant.\n\nStiff Fluid Cosmological Model  w ith C -Field  in...   261 \nBali and Kumawat [1] have investigated C -field cosmological model with variable G in \nFRW space -time. Bali and Saraf [2] studied C -field cosmological  model for dust \ndistribution with varying   in FRW space -time. To get deterministic model satisfying \nconservation equation  Ti; jj 0 they have assumed   1 where R is the scale factor.  \nR 2\nTyagi and Singh [19] have studied a  cosmological model for barotropic fluid distribution in \nC -field cosmology with varying cosmological constant ( ) in Bianchi type -III space time. \nLRS Bianchi type V perfect fluid cosmological model in C -field theory with variable   have \nbeen studied by Tyag i and Singh [18]. Parikh and Tyagi [12] have studied time -dependent   \nin Bianchi type IX space time with barotropic perfect fluid in C -field.  \nIn this paper, we have investigated stiff fluid cosmological model with C -field in LRS \nBianchi type -I space time.  The stiff fluid condition leads to p =  , p -being isotropic pressure. \nTo get deterministic solution, we have assume   (shear tensor) proportional to  (expansion) \nn\nwhich leads to A = B , where n is constant. We find that creation field increases with time. \nT he other physical and geometrical aspects of the model are also discussed.  \n2. The Metric and Field Equations \nWe consider the LRS Bianchi type -I space time as  \n  ds 2dt 2A2dx 2B 2( dy 2dz 2)   (1)  \nwhere the metric potential A and B are function of t alone and  g = AB 2 \nEinstein modified field equation by introduction of C -field are given by Hoyle and \nNarlikar as  \n  R ij1Rg ij 8G T ij  T ij  (2)  \n2 ( m ) ( c )\nThe energy momentum tensor  T ij  for perfect fluid and  T ij  for Creation field are given \n( m ) ( c )\nby Hoyle and Narlikar [8] as  \n  T ij ( p  ) v vji pgij  (3)  \n( m )\nTji  1 \n   fCCji  gjCi C  (4)  \n(c)  2 \ndC\nwhere f  > 0 is the coupling constant between matter and creation field and  C i i. \ndx\n\n262  Atul Tyagi, Jaipal Singh and Gajendra Pal Singh  \nThe modified field equation (2) for the  metric (1) leads to  \n  2B 44B 248G p 1f C2  (5)  \nB B 2  2 \n  A44B 44A4B 48G p 1f C2  (6)  \nA B AB  2 \n  2A4.4B B 248G  1f C2  (7)  \nAB B 2  2 \nwhere the suffix 4 denoted the differentiation with respect to time t.  \n3. Solution of Field Equations \nThe conservation equation  \nj\n  [ 8GT i]; j0  (8)  \nleads to  \n  d C22A42B 4 C224 A42B 4  (9)  \ndt  A B  f f  A B \nn\nThe source equation of C -field  C i, i  leads to C = t for large r  \nf\nThus    C= 1  \nEquation (5), (6) and (7) are three equations in 4 unknowns A, B, P and  , to get \ndeterministic  solution, a supplementary condition between metric potential  \nn\n  A = B    (10)  \nUsing  C1 in equation (5), (6) and (7) which leads to  \n   2B 44B 248G p 1f   (11)  \nB B 2  2 \n  A44B 44A4B 48G p 1f   (12)  \nA B AB  2 \n  2A4.4B B 248G  1f   (13)  \nAB B 2  2 \nAdding equation (11) and (13), using stiff fluid condition (p =  ), we have\n\nStiff Fluid Cosmological Model  w ith C -Field  in...   263 \nB44B42A B4.40  (14)  \n             B B2 AB\nEquation (10) and (14) leads to  \n   B 44( n1) B 240  (15)  \nB\nTo get the deterministic value of A and B, we assume  \n            B 4f ( B )     (16)  \nUsing equation (15) and (16) leads to   \nd f 2\n  ( f 2) 2( n1) 0  (17)  \ndt B\nEquation (17) leads to  \nM\n  f   where M is a integration constant    (18)  \n1)\nB ( n\nEquation (18) leads to  \n1\n  B ( Lt K )n2  (19)  \nwhere  LM(n2) and K   P (n 2) constant  \nEquation (10) and (19) leads to  \nn\n  A(LtK)n2  (20)  \nUsing equation for (7), (19) and (20) which leads to   \n1  L 2  f\n        (21)  \n8G ( Lt k )2 2\nThus the metric (1) after using equation (19) and (20) leads to   \n2n 2\n  ds2dt2(LtK)(n2)dx2(LtK)n2(dy2dz2)   (22)  \nUsing equation (19), (20) into equation (9) we have  \n  d(C2)  2L  C2 2L   (23)   \ndt LtK LtK\n\n264  Atul Tyagi, Jaipal Singh and Gajendra Pal Singh  \nEquation (23) leads to  \n           (C2)( LtK)2(LtK)2Q   (24)  \n  C21   (25)  \nThus we have  C1 or C = t   (26)  \nFor  simplicity, we assume that integral constant Q = 0 which leads to  \nWe find C = t, which agrees with the value used in the source equation. Thus Creation \nfield C is proportional to time t.  \n4. Some Physical and Geometrical Features \n3\nThe homogeneous mass densit y ( ), the creation field (C), spatial volume (R ), the \ndeceleration parameter (q), shear tensor ( ) and expansion ( ) of the model (22) are given by  \n1  L 2  f\n        (27)  \n8G ( Lt k )2 2\n  C = t     (28)  \n  R3(LtK)  (29)  \n  q = 2     (30)  \nL\n      (31)  \nLt K\nL 2 2n24n2\n  2    (32)  \n( Lt K )2 6( n2)2 \n\n  Constant   (33)  \n\n5. Conclusion and Discussion \nThe scale factor R increases with time. The deceleration parameter q >               \n                                                                                       \n                                                                                                \nCreation exists all the time , so there is a big crunch bet                                     \n                                                                                    t , \n\n is constant, therefore model (22) does not approach to isotropy at late time. Since \n\n   at t = 0, hence model (22) is free from initial singularity.\n\nStiff Fluid Cosmological Model  w ith C -Field  in...   265 \nThe coordinate distance  H  to the horizon is the maximum distance a null ray could have \ntravelled at time t starting from infinite past i.e.  \nt dt\n  H    \n–R 3( t)\nWe could extent the proper time t to in the past because of non -singular nature of space \ntime, thus  \nt t\ndt dt\n  H(t) 3    \n0R(t) 0(LtK)\nThe integral of diverge at lower limit shows the model is free from event horizon.  \nAcknowledgements: The auth ors are thankful to the Referee for valuable comments and \nsuggestions.  \nReferences \n[1]   Bali, R. and Kumawat, M. (2009). C -field Cosmological Model with Variable G \nin FRW Space time, Int. J. Theor. Phys.,  48, 3410. \n[2]   Bali, R. and Saraf, S. (2013). C -field  Cosmological Model for Dust Distribution \nwith Varying   in FRW Space -time, Prespace Journal,  4 (5), 545.  \n[3]   Bali, R. and Tikekar, R. (2007). C -field Cosmology with Variable G in Flat FRW \nModel, Chin. Phys. Lett.  24 (11), 2390.  \n[4]   Bali, R. and Sharma, K. (2003). Bianchi type -I Stiff Fluid Magnetized \nCosmological Model in General Relativity, Astro Phys. and Space Science,  283, \n11-22. \n[5]   Barrow, J.D. (1986). The deflationary Universe : An Instability of the Desitter \nUniverse, Phys. L ett. B.,  180, 335 -339. \n[6]   Bondi, H. and Gold, T. (1948). The Steady State Theory of the Expanding \nUniverse. Monthly Notices of the Royal Astronomical Society,  108, p. 252.  \n[7]   Chandel, S. and Ram, S. (2015). Spatially Homogeneous Cosmological Model in \nf(R , T) Theory of Gravity, EJTP12,  32, 69 -82. \n[8]   Hoyle, F. and Narlikar, J.V. (1964). A new theory of gravitation, Mathematical \nand Physical Sciences, Proc. Royl. Soc. A  282, 191 -207. \n[9]   Katanaev, M.O. (2017). Cosmological Models with Homogeneous and Isotro pic \nSpatial Sections, Theoretical and Mathematical Physics,  191 (2), 661 -668. \n[10]   Mohanty, G. Tiwari, R.N. and Rao, J.R. (1982). Cylindrically Symmetric \nZel'dovich Fluid distribution in General Theory of Relativity, Int. J. Theo. Phys., \n21 (2), 105 -119.\n\n266  Atul Tyagi, Jaipal Singh and Gajendra Pal Singh\n\n[ 11]  Narlikar, J.V. and Padmanabhan, T. (1985). Creation Field Cosmology : A Possible \nSolution to Singularity, Horizon and Flatness Problems, Phys. Rev. D.,\n\n[12]   Parikh, S. and Tyagi, A. (2016). Time -dependent   in Bianchi type\nwith  Barotropic Perfect fluid in C -field theory, Prespace Journal,\n\n[13]   Percival, W.J., Cole, S., Daniel J., Einstein et al. (2007). Measuring the Baryon a \nGustic Oscillation Scale Using the Sloan Digital Sky Survey and 2dF Galaxy Red \nShift Survey , Mon. Not. R. Astron. Soc.  381, 1053 -1066.\n\n[14]   Shamir, M.F. (2010). Some Bianchi type Cosmological Model in f(A) Gravity, \nAstrophys. Space Sci.  330, 183-189.\n\n[15]   Sharif, M. and Siddiya, A. (2018). Study of Homogeneous and Isotropic Universe \nin F(R, T ) Gravity, Ad. High Energy Phys., ID 9534279.\n\n[16]   Tegmark, M. et al. (2014). Cosmological Parameter from SDSS and WMAP, \nPhys. Rev. D.  69, 103501.\n\n[17]   Tonry, J.L. et al. (2003). Cosmological Results from High\nAstrophysical,  594, 1 -24.\n\n[18]   Tyagi, A. and Singh G. (2015). LRS Bianchi Type V Perfect Fluid Cosmological \nModel in C -field Theory with Variable  , Journal of Chemical, Biological and \nPhysical Sciences,  5 (2), 1878 -1883.\n\n[19]   Tyagi, A. and Singh, G.P. (2015). Time Dependent A in C\nLRS Bianchi type III Universe and Barotropic Perfect Fluid. Prespacetime \nJournal,  6 (2), 143 -150.\n\n[20]   Wesson, P.S. (1978). An Exact Solution to Einstein's Equation with a Stiff \nEquation of State, J. Maths, Phys.,  19, 2283.\n\n[21]   Zel'dovich,  Ya. B. (1970). Anisotropy of the microwave background in the \ninflationary cosmology. Mon. Not. R. Astron. Soc.  160.\n\n32, 1928.\n\n-IX Space Time \n7 (12), 1645.\n\n-Z Supernovae, The\n\n-fie ld Theory with\n\nJournal of Rajasthan ISSN: 0972 Academy -6306; of URL Physical Sciences : http://raops.org.in \nVol .19, No.3&4, July -December, 2020 , 259-266\n\n2. The Metric We consider the and Field LRS Bianchi type Equations -I space time as \n2 ds  dt  2 2 A dx  B 2 2 ( dy  2 dz ) 2 (1)\n\n1  j T   T j \nR  Rg  j j i i  8  G  i  i  (2)\n2 ( m  ) ( c )  \n    \n\nT j i (3) \n ( p   ) v vj  pg j i i\n( m ) \n\nTj  i 1  \n  f CCj   gjC  C  (4)\n( c )  i i 2   \n\n2B B 44 2  4 1   \n  8  G  2  p  f C  (5)\nB B  2 2  \n\nA B 44 A B 4 4  1   \n  44  8  G   2 p  f C  (6)\nA B AB  2  \n\n2A B 4.4 B 2 4 1    \n   8  G 2   f C   (7)\nAB B 2 2   \n\nwhere the suffix 4 denoted the differentiation with respect to time t.  \n3. Solution of Field Equations\nThe conservation equation \n\nd A  4 2B  4   2  4 A   4 2B  4 \n 2 C  2   C   2      (9)\ndt A  B   f f A  B  \n\nEquation (5), (6) and (7) are three equations in 4 unknowns A, B, P and  , to get\ndeterministic  solution, a supplementary condition between metric potential \nn A = B    (10)\n\n2B B 44 2  1  \n  8  G 4  p  f  (11)\nB B  2 2  \n\nA B 44 A B 4 4  1  \n  44  8  G   p  f   (12)\nA B AB  2  \n\n2A B 4.4 B 2 4 1   \n  8  G   f   (13)\nAB B 2 2   \n\nEquation (10) and (19) leads to \n n \nA  ( Lt 2  K ) n  (20)\n\n  1  L 2  f \n      (21)\n8  G ( Lt    k 2 )  2  \n\nd 2 L   2 L   \n 2 ( C )    2 C     (23)\ndt Lt  K   Lt  K   \n\n  1  L 2  f \n      (27)\n8  G ( Lt    k 2 )  2  \n\nL \n  (31)\nLt  K \n\n L 2  2n  2  4n  2 \n  2    (32)\n ( Lt  K ) 6( n  2   2)  2  \n\nUniverse. [7] Chandel, Monthly S. and Ram, Notices of the S. (2015). Royal Astronomical Spatially Homogeneous Society, Cosmological Model in  108 , p. 252. \nf(R , T) Theory of Gravity, EJTP12,  32 , 69-82.   \n[8] Hoyle, F. and Narlikar, J.V. (1964). A new theory of gravitation, Mathematical   \nand Physical Sciences, Proc. Royl. Soc. A  282 , 191 -207.  \n[9] Katanaev, M.O. (2017). Cosmological Models with Homogeneous and Isotro   pic\nSpatial Sections, Theoretical and Mathematical Physics,   191 (2), 661-668. \n[10] Mohanty, G. Tiwari, R.N. and Rao, J.R. (1982). Cylindrically Symmetric    \nZel'dovich Fluid distribution in General Theory of Relativity, Int. J. Theo. Phys.,   \n21 (2), 105-119.       \n\n[13] Percival, Gustic Oscillation W.J., Cole, S., Daniel Scale Using J., Einstein the Sloan et al. Digital Sky (2007). Measuring Survey and 2dF the Baryon Galaxy Red a\n Shift Survey  , Mon. Not. R. Astron. Soc. 381 , 1053 -1066.\n[14] Shamir, M.F. (2010). Some Bianchi type Cosmological Model in f(A) Gravity,  \n Astrophys. Space Sci.  330 , 183-189.   \n[15] Sharif, M. and Siddiya, A. (2018). Study of Homogeneous and Isotropic Universe \n in F(R, T  ) Gravity,  Ad. High Energy Phys., ID 9534279."
+  }
+}

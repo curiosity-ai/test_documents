@@ -1,0 +1,36 @@
+{
+  "file": "vendored/pdfplumber/pdf/issue-905.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2024-08-04T17:29:06Z",
+    "modified_at": "2024-08-04T17:29:06Z",
+    "created_by": "TextEdit",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.3",
+      "producer": "macOS Version 14.5 (Build 23F79) Quartz PDFContext",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/pdfplumber/pdf/issue-905.pdf",
+      "final_uri": "vendored/pdfplumber/pdf/issue-905.pdf",
+      "source_kind": "uri",
+      "extraction_method": "native",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>; ;</h1>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\";;\"}]}",
+    "markdown": "# ; ;\n",
+    "plain": ";;"
+  }
+}

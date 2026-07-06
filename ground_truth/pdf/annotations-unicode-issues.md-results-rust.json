@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pdf/annotations-unicode-issues.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/annotations-unicode-issues.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/pdf/annotations-unicode-issues.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Test unicode decoding issues in annotations</p>\n<p>invalid utf-8◆◇◆ED A0 80</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test unicode decoding issues in annotations\"},{\"type\":\"paragraph\",\"text\":\"invalid utf-8◆◇◆ED A0 80\"}]}",
+    "markdown": "Test unicode decoding issues in annotations\n\ninvalid utf-8◆◇◆ED A0 80\n",
+    "plain": "Test unicode decoding issues in annotations\n\ninvalid utf-8◆◇◆ED A0 80"
+  }
+}

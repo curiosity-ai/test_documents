@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/odt/odt_simple.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 17,
+      "word_count": 32,
+      "character_count": 183
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/odt/odt_simple.txt",
+      "source_uri": "ground_truth/odt/odt_simple.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>These are a few of my favorite things:</p>\n<p>• Parrots</p>\n<p>•</p>\n<p>Hockey</p>\n<p>Analysis</p>\n<p>This is my first thought. This is my second thought.</p>\n<p>This is my third thought.</p>\n<p>2023</p>\n<p>DOYLESTOWN, PA 18901</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"These are a few of my favorite things:\"},{\"type\":\"paragraph\",\"text\":\"• Parrots\"},{\"type\":\"paragraph\",\"text\":\"•\"},{\"type\":\"paragraph\",\"text\":\"Hockey\"},{\"type\":\"paragraph\",\"text\":\"Analysis\"},{\"type\":\"paragraph\",\"text\":\"This is my first thought. This is my second thought.\"},{\"type\":\"paragraph\",\"text\":\"This is my third thought.\"},{\"type\":\"paragraph\",\"text\":\"2023\"},{\"type\":\"paragraph\",\"text\":\"DOYLESTOWN, PA 18901\"}]}",
+    "markdown": "These are a few of my favorite things:\n\n• Parrots\n\n•\n\nHockey\n\nAnalysis\n\nThis is my first thought. This is my second thought.\n\nThis is my third thought.\n\n2023\n\nDOYLESTOWN, PA 18901\n",
+    "plain": "These are a few of my favorite things:\n\n• Parrots\n\n•\n\nHockey\n\nAnalysis\n\nThis is my first thought. This is my second thought.\n\nThis is my third thought.\n\n2023\n\nDOYLESTOWN, PA 18901"
+  }
+}

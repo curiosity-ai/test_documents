@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/simple_table.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 16,
+      "word_count": 45,
+      "character_count": 443
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/html/simple_table.txt",
+      "source_uri": "ground_truth/html/simple_table.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Sample Data Table</p>\n<p>Product Category Price Stock ------------ ------------- --------- ------- Laptop Electronics $999.99 25 Desk Chair Furniture $199.99 8 Coffee Mug Kitchen $9.99 150 Notebook Office $3.49 75</p>\n<p>Summary Statistics</p>\n<p>----------------- ----------- Total Products: 4 Average Price: $303.12 Total Stock: 258 units ----------------- -----------</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Sample Data Table\"},{\"type\":\"paragraph\",\"text\":\"Product      Category      Price     Stock\\n  ------------ ------------- --------- -------\\n  Laptop       Electronics   $999.99   25\\n  Desk Chair   Furniture     $199.99   8\\n  Coffee Mug   Kitchen       $9.99     150\\n  Notebook     Office        $3.49     75\"},{\"type\":\"paragraph\",\"text\":\"Summary Statistics\"},{\"type\":\"paragraph\",\"text\":\"----------------- -----------\\n  Total Products:   4\\n  Average Price:    $303.12\\n  Total Stock:      258 units\\n  ----------------- -----------\"}]}",
+    "markdown": "Sample Data Table\n\nProduct Category Price Stock ------------ ------------- --------- ------- Laptop Electronics $999.99 25 Desk Chair Furniture $199.99 8 Coffee Mug Kitchen $9.99 150 Notebook Office $3.49 75\n\nSummary Statistics\n\n\\----------------- ----------- Total Products: 4 Average Price: $303.12 Total Stock: 258 units ----------------- -----------\n",
+    "plain": "Sample Data Table\n\nProduct      Category      Price     Stock\n  ------------ ------------- --------- -------\n  Laptop       Electronics   $999.99   25\n  Desk Chair   Furniture     $199.99   8\n  Coffee Mug   Kitchen       $9.99     150\n  Notebook     Office        $3.49     75\n\nSummary Statistics\n\n----------------- -----------\n  Total Products:   4\n  Average Price:    $303.12\n  Total Stock:      258 units\n  ----------------- -----------"
+  }
+}

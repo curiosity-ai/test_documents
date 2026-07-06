@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/eml_simple.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 10,
+      "word_count": 36,
+      "character_count": 239
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/eml/eml_simple.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/eml/eml_simple.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Simple Plain Text Email From: test@example.com To: recipient@example.com Date: Mon, 1 Jan 2024 12:00:00 +0000 This is a simple plain text email without any attachments.</p>\n<p>It contains multiple lines of text.</p>\n<p>Best regards, Test User</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Simple Plain Text Email\\nFrom: test@example.com\\nTo: recipient@example.com\\nDate: Mon, 1 Jan 2024 12:00:00 +0000\\nThis is a simple plain text email without any attachments.\"},{\"type\":\"paragraph\",\"text\":\"It contains multiple lines of text.\"},{\"type\":\"paragraph\",\"text\":\"Best regards,\\nTest User\"}]}",
+    "markdown": "Subject: Simple Plain Text Email From: test@example.com To: recipient@example.com Date: Mon, 1 Jan 2024 12:00:00 +0000 This is a simple plain text email without any attachments.\n\nIt contains multiple lines of text.\n\nBest regards, Test User\n",
+    "plain": "Subject: Simple Plain Text Email\nFrom: test@example.com\nTo: recipient@example.com\nDate: Mon, 1 Jan 2024 12:00:00 +0000\nThis is a simple plain text email without any attachments.\n\nIt contains multiple lines of text.\n\nBest regards,\nTest User"
+  }
+}

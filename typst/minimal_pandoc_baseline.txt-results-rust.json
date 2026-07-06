@@ -1,0 +1,28 @@
+{
+  "file": "typst/minimal_pandoc_baseline.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 3,
+      "word_count": 16,
+      "character_count": 82
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "typst/minimal_pandoc_baseline.txt",
+      "source_uri": "typst/minimal_pandoc_baseline.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Hello World</p>\n<p>This is a minimal Typst document with just a heading and some text.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Hello World\"},{\"type\":\"paragraph\",\"text\":\"This is a minimal Typst document with just a heading and some text.\"}]}",
+    "markdown": "\\# Hello World\n\nThis is a minimal Typst document with just a heading and some text.\n",
+    "plain": "# Hello World\n\nThis is a minimal Typst document with just a heading and some text."
+  }
+}

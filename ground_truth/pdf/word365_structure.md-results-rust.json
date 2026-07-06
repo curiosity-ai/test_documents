@@ -1,0 +1,45 @@
+{
+  "file": "ground_truth/pdf/word365_structure.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Titre",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/pdf/word365_structure.md",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/word365_structure.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "En-tête 1",
+          "En-tête 2",
+          "En-tête 3"
+        ],
+        [
+          "Ligne 1",
+          "Alouette",
+          "Farfadet"
+        ],
+        [
+          "Linge 2",
+          "Belette",
+          "Bibitte"
+        ]
+      ],
+      "markdown": "| En-tête 1 | En-tête 2 | En-tête 3 |\n| --- | --- | --- |\n| Ligne 1 | Alouette | Farfadet |\n| Linge 2 | Belette | Bibitte |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Titre</h1>\n<p>Lorem ipsum dolor</p>\n<ul>\n<li>Liste</li>\n<li>Liste 2</li>\n<li>Liste 3 Lorem ipsum dolor sit amet</li>\n</ul>\n<ol>\n<li>Liste numérotée</li>\n<li>Liste numérotée</li>\n</ol>\n<table>\n<thead>\n<tr>\n<th>En-tête 1</th>\n<th>En-tête 2</th>\n<th>En-tête 3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Ligne 1</td>\n<td>Alouette</td>\n<td>Farfadet</td>\n</tr>\n<tr>\n<td>Linge 2</td>\n<td>Belette</td>\n<td>Bibitte</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Titre\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Lorem ipsum dolor\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Liste\",\"Liste 2\",\"Liste 3 Lorem ipsum dolor sit amet\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Liste numérotée\",\"Liste numérotée\"]},{\"type\":\"table\",\"headers\":[\"En-tête 1\",\"En-tête 2\",\"En-tête 3\"],\"rows\":[[\"Ligne 1\",\"Alouette\",\"Farfadet\"],[\"Linge 2\",\"Belette\",\"Bibitte\"]]}]}]}",
+    "markdown": "# Titre\n\nLorem ipsum dolor\n\n- Liste\n- Liste 2\n- Liste 3 Lorem ipsum dolor sit amet\n\n1. Liste numérotée\n2. Liste numérotée\n\n| En-tête 1 | En-tête 2 | En-tête 3 |\n| --- | --- | --- |\n| Ligne 1 | Alouette | Farfadet |\n| Linge 2 | Belette | Bibitte |\n",
+    "plain": "Titre\nLorem ipsum dolor\n\nListe\nListe 2\nListe 3 Lorem ipsum dolor sit amet\nListe numérotée\nListe numérotée\nEn-tête 1 En-tête 2 En-tête 3\nLigne 1 Alouette Farfadet\nLinge 2 Belette Bibitte"
+  }
+}

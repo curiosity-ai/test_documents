@@ -1,0 +1,27 @@
+{
+  "file": "json/sample_document.json",
+  "mime_type": "application/json",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "content": "This is a sample JSON file with text content.",
+      "title": "Sample Document",
+      "source_kind": "uri",
+      "source_uri": "json/sample_document.json",
+      "field_count": 3,
+      "author": "Test Author",
+      "source_index": 0,
+      "data_format": "json",
+      "final_uri": "json/sample_document.json"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>title: Sample Document</p>\n<p>content: This is a sample JSON file with text content.</p>\n<p>author: Test Author</p>\n<h1>data</h1>\n<ul>\n<li>{&quot;item&quot;:&quot;first&quot;}</li>\n<li>{&quot;item&quot;:&quot;second&quot;}</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"title: Sample Document\"},{\"type\":\"paragraph\",\"text\":\"content: This is a sample JSON file with text content.\"},{\"type\":\"paragraph\",\"text\":\"author: Test Author\"},{\"type\":\"section\",\"heading\":\"data\",\"level\":1,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"{\\\"item\\\":\\\"first\\\"}\",\"{\\\"item\\\":\\\"second\\\"}\"]}]}]}",
+    "markdown": "title: Sample Document\n\ncontent: This is a sample JSON file with text content.\n\nauthor: Test Author\n\n# data\n\n- {\"item\":\"first\"}\n- {\"item\":\"second\"}\n",
+    "plain": "title: Sample Document\n\ncontent: This is a sample JSON file with text content.\n\nauthor: Test Author\n\ndata\n{\"item\":\"first\"}\n{\"item\":\"second\"}"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/rtf/table_error_codes.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 29,
+      "word_count": 58,
+      "character_count": 906
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/rtf/table_error_codes.txt",
+      "source_uri": "ground_truth/rtf/table_error_codes.txt",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>------ --------------------------------- Code Error 3 PandocFailOnWarningError 4 PandocAppError 5 PandocTemplateError 6 PandocOptionError 21 PandocUnknownReaderError 22 PandocUnknownWriterError 23 PandocUnsupportedExtensionError 24 PandocCiteprocError 31 PandocEpubSubdirectoryError 43 PandocPDFError 44 PandocXMLError 47 PandocPDFProgramNotFoundError 61 PandocHttpError 62 PandocShouldNeverHappenError 63 PandocSomeError 64 PandocParseError 65 PandocParsecError 66 PandocMakePDFError 67 PandocSyntaxMapError 83 PandocFilterError 91 PandocMacroLoop 92 PandocUTF8DecodingError 93 PandocIpynbDecodingError 94 PandocUnsupportedCharsetError 97 PandocCouldNotFindDataFileError 99 PandocResourceNotFound ------ ---------------------------------</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"------ ---------------------------------\\n  Code   Error\\n  3      PandocFailOnWarningError\\n  4      PandocAppError\\n  5      PandocTemplateError\\n  6      PandocOptionError\\n  21     PandocUnknownReaderError\\n  22     PandocUnknownWriterError\\n  23     PandocUnsupportedExtensionError\\n  24     PandocCiteprocError\\n  31     PandocEpubSubdirectoryError\\n  43     PandocPDFError\\n  44     PandocXMLError\\n  47     PandocPDFProgramNotFoundError\\n  61     PandocHttpError\\n  62     PandocShouldNeverHappenError\\n  63     PandocSomeError\\n  64     PandocParseError\\n  65     PandocParsecError\\n  66     PandocMakePDFError\\n  67     PandocSyntaxMapError\\n  83     PandocFilterError\\n  91     PandocMacroLoop\\n  92     PandocUTF8DecodingError\\n  93     PandocIpynbDecodingError\\n  94     PandocUnsupportedCharsetError\\n  97     PandocCouldNotFindDataFileError\\n  99     PandocResourceNotFound\\n  ------ ---------------------------------\"}]}",
+    "markdown": "\\------ --------------------------------- Code Error 3 PandocFailOnWarningError 4 PandocAppError 5 PandocTemplateError 6 PandocOptionError 21 PandocUnknownReaderError 22 PandocUnknownWriterError 23 PandocUnsupportedExtensionError 24 PandocCiteprocError 31 PandocEpubSubdirectoryError 43 PandocPDFError 44 PandocXMLError 47 PandocPDFProgramNotFoundError 61 PandocHttpError 62 PandocShouldNeverHappenError 63 PandocSomeError 64 PandocParseError 65 PandocParsecError 66 PandocMakePDFError 67 PandocSyntaxMapError 83 PandocFilterError 91 PandocMacroLoop 92 PandocUTF8DecodingError 93 PandocIpynbDecodingError 94 PandocUnsupportedCharsetError 97 PandocCouldNotFindDataFileError 99 PandocResourceNotFound ------ ---------------------------------\n",
+    "plain": "------ ---------------------------------\n  Code   Error\n  3      PandocFailOnWarningError\n  4      PandocAppError\n  5      PandocTemplateError\n  6      PandocOptionError\n  21     PandocUnknownReaderError\n  22     PandocUnknownWriterError\n  23     PandocUnsupportedExtensionError\n  24     PandocCiteprocError\n  31     PandocEpubSubdirectoryError\n  43     PandocPDFError\n  44     PandocXMLError\n  47     PandocPDFProgramNotFoundError\n  61     PandocHttpError\n  62     PandocShouldNeverHappenError\n  63     PandocSomeError\n  64     PandocParseError\n  65     PandocParsecError\n  66     PandocMakePDFError\n  67     PandocSyntaxMapError\n  83     PandocFilterError\n  91     PandocMacroLoop\n  92     PandocUTF8DecodingError\n  93     PandocIpynbDecodingError\n  94     PandocUnsupportedCharsetError\n  97     PandocCouldNotFindDataFileError\n  99     PandocResourceNotFound\n  ------ ---------------------------------"
+  }
+}

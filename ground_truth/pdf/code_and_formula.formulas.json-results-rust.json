@@ -1,0 +1,24 @@
+{
+  "file": "ground_truth/pdf/code_and_formula.formulas.json",
+  "mime_type": "application/json",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/code_and_formula.formulas.json",
+      "data_format": "json",
+      "source_kind": "uri",
+      "source_index": 0,
+      "field_count": 0,
+      "final_uri": "ground_truth/pdf/code_and_formula.formulas.json"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>formulas</h1>\n<ul>\n<li>a^{2} + 8 = 12</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"formulas\",\"level\":1,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"a^{2} + 8 = 12\"]}]}]}",
+    "markdown": "# formulas\n\n- a^{2} + 8 = 12\n",
+    "plain": "formulas\na^{2} + 8 = 12"
+  }
+}

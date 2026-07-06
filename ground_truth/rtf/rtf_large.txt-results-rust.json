@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/rtf/rtf_large.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 39,
+      "word_count": 136,
+      "character_count": 753
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/rtf/rtf_large.txt",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/rtf/rtf_large.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Swimming in the lake Duck</p>\n<p>Figure 1: This is a cute duckling Let’s swim! To get started with swimming, first lay down in a water and try not to drown: •\tYou can relax and look around •\tPaddle about •\tEnjoy summer warmth Also, don’t forget: 1.\tWear sunglasses 2.\tDon’t forget to drink water 3.\tUse sun cream Hmm, what else… Let’s eat After we had a good day of swimming in the lake, it’s important to eat something nice I like to eat leaves Here are some interesting things a respectful duck could eat: |Food |Calories per portion | Leaves |Ash, Elm, Maple |50 | Berries |Blueberry, Strawberry, Cranberry |150 | Grain |Corn, Buckwheat, Barley |200 | Content table And let’s add another list in the end: 1.\tLeaves 2.\tBerries 3.\tGrain</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Swimming in the lake\\n Duck\"},{\"type\":\"paragraph\",\"text\":\"Figure 1: This is a cute duckling\\nLet’s swim!\\nTo get started with swimming, first lay down in a water and try not to drown:\\n•\\tYou can relax and look around\\n•\\tPaddle about\\n•\\tEnjoy summer warmth\\nAlso, don’t forget:\\n1.\\tWear sunglasses\\n2.\\tDon’t forget to drink water\\n3.\\tUse sun cream\\nHmm, what else…\\nLet’s eat\\nAfter we had a good day of swimming in the lake, it’s important to eat something nice\\nI like to eat leaves\\nHere are some interesting things a respectful duck could eat:\\n|Food\\n|Calories per portion\\n|\\nLeaves\\n|Ash, Elm, Maple\\n|50\\n|\\nBerries\\n|Blueberry, Strawberry, Cranberry\\n|150\\n|\\nGrain\\n|Corn, Buckwheat, Barley\\n|200\\n|\\nContent table\\nAnd let’s add another list in the end:\\n1.\\tLeaves\\n2.\\tBerries\\n3.\\tGrain\"}]}",
+    "markdown": "Swimming in the lake Duck\n\nFigure 1: This is a cute duckling Let’s swim\\! To get started with swimming, first lay down in a water and try not to drown: •&#9;You can relax and look around •&#9;Paddle about •&#9;Enjoy summer warmth Also, don’t forget: 1.&#9;Wear sunglasses 2.&#9;Don’t forget to drink water 3.&#9;Use sun cream Hmm, what else… Let’s eat After we had a good day of swimming in the lake, it’s important to eat something nice I like to eat leaves Here are some interesting things a respectful duck could eat: |Food |Calories per portion | Leaves |Ash, Elm, Maple |50 | Berries |Blueberry, Strawberry, Cranberry |150 | Grain |Corn, Buckwheat, Barley |200 | Content table And let’s add another list in the end: 1.&#9;Leaves 2.&#9;Berries 3.&#9;Grain\n",
+    "plain": "Swimming in the lake\n Duck\n\nFigure 1: This is a cute duckling\nLet’s swim!\nTo get started with swimming, first lay down in a water and try not to drown:\n•\tYou can relax and look around\n•\tPaddle about\n•\tEnjoy summer warmth\nAlso, don’t forget:\n1.\tWear sunglasses\n2.\tDon’t forget to drink water\n3.\tUse sun cream\nHmm, what else…\nLet’s eat\nAfter we had a good day of swimming in the lake, it’s important to eat something nice\nI like to eat leaves\nHere are some interesting things a respectful duck could eat:\n|Food\n|Calories per portion\n|\nLeaves\n|Ash, Elm, Maple\n|50\n|\nBerries\n|Blueberry, Strawberry, Cranberry\n|150\n|\nGrain\n|Corn, Buckwheat, Barley\n|200\n|\nContent table\nAnd let’s add another list in the end:\n1.\tLeaves\n2.\tBerries\n3.\tGrain"
+  }
+}

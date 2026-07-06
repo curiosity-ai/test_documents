@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/fb2/tables.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/fb2/tables.md",
+      "source_uri": "ground_truth/fb2/tables.md",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Simple table with caption:</p>\n<p><em>Demonstration of simple table syntax.</em></p>\n<p>Simple table without caption:</p>\n<p>Simple table indented two spaces:</p>\n<p><em>Demonstration of simple table syntax.</em></p>\n<p>Multiline table with caption:</p>\n<p><em>Here’s the caption. It may span multiple lines.</em></p>\n<p>Multiline table without caption:</p>\n<p>Table without column headers:</p>\n<p>Multiline table without column headers:</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Simple table with caption:\"},{\"type\":\"paragraph\",\"text\":\"Demonstration of simple table syntax.\"},{\"type\":\"paragraph\",\"text\":\"Simple table without caption:\"},{\"type\":\"paragraph\",\"text\":\"Simple table indented two spaces:\"},{\"type\":\"paragraph\",\"text\":\"Demonstration of simple table syntax.\"},{\"type\":\"paragraph\",\"text\":\"Multiline table with caption:\"},{\"type\":\"paragraph\",\"text\":\"Here’s the caption. It may span multiple lines.\"},{\"type\":\"paragraph\",\"text\":\"Multiline table without caption:\"},{\"type\":\"paragraph\",\"text\":\"Table without column headers:\"},{\"type\":\"paragraph\",\"text\":\"Multiline table without column headers:\"}]}",
+    "markdown": "Simple table with caption:\n\n*Demonstration of simple table syntax.*\n\nSimple table without caption:\n\nSimple table indented two spaces:\n\n*Demonstration of simple table syntax.*\n\nMultiline table with caption:\n\n*Here’s the caption. It may span multiple lines.*\n\nMultiline table without caption:\n\nTable without column headers:\n\nMultiline table without column headers:\n",
+    "plain": "Simple table with caption:\n\nDemonstration of simple table syntax.\n\nSimple table without caption:\n\nSimple table indented two spaces:\n\nDemonstration of simple table syntax.\n\nMultiline table with caption:\n\nHere’s the caption. It may span multiple lines.\n\nMultiline table without caption:\n\nTable without column headers:\n\nMultiline table without column headers:"
+  }
+}

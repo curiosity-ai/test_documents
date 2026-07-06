@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/docx/docx_large_formatted.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 11,
+      "word_count": 25,
+      "character_count": 159
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/docx/docx_large_formatted.txt",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/docx/docx_large_formatted.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Test with three images in unusual formats</p>\n<p>Raster in emf:</p>\n<p>Vector in emf:</p>\n<p>Raster in webp:</p>\n<p>A cartoon duck holding a paper</p>\n<p>Description automatically generated</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test with three images in unusual formats\"},{\"type\":\"paragraph\",\"text\":\"Raster in emf:\"},{\"type\":\"paragraph\",\"text\":\"Vector in emf:\"},{\"type\":\"paragraph\",\"text\":\"Raster in webp:\"},{\"type\":\"paragraph\",\"text\":\"A cartoon duck holding a paper\"},{\"type\":\"paragraph\",\"text\":\"Description automatically generated\"}]}",
+    "markdown": "Test with three images in unusual formats\n\nRaster in emf:\n\nVector in emf:\n\nRaster in webp:\n\nA cartoon duck holding a paper\n\nDescription automatically generated\n",
+    "plain": "Test with three images in unusual formats\n\nRaster in emf:\n\nVector in emf:\n\nRaster in webp:\n\nA cartoon duck holding a paper\n\nDescription automatically generated"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "text/fake_text.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 9,
+      "word_count": 29,
+      "character_count": 168
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "text/fake_text.txt",
+      "source_index": 0,
+      "final_uri": "text/fake_text.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>This is a test document to use for unit tests.</p>\n<p>Doylestown, PA 18901</p>\n<p>Important points:</p>\n<p>- Hamburgers are delicious - Dogs are the best - I love fuzzy blankets</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a test document to use for unit tests.\"},{\"type\":\"paragraph\",\"text\":\"Doylestown, PA 18901\"},{\"type\":\"paragraph\",\"text\":\"Important points:\"},{\"type\":\"paragraph\",\"text\":\"- Hamburgers are delicious\\n   - Dogs are the best\\n   - I love fuzzy blankets\"}]}",
+    "markdown": "This is a test document to use for unit tests.\n\nDoylestown, PA 18901\n\nImportant points:\n\n\\- Hamburgers are delicious - Dogs are the best - I love fuzzy blankets\n",
+    "plain": "This is a test document to use for unit tests.\n\nDoylestown, PA 18901\n\nImportant points:\n\n- Hamburgers are delicious\n   - Dogs are the best\n   - I love fuzzy blankets"
+  }
+}

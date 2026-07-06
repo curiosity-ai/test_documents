@@ -1,0 +1,37 @@
+{
+  "file": "ground_truth/odt/simpleTableWithCaption.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/odt/simpleTableWithCaption.md",
+      "source_uri": "ground_truth/odt/simpleTableWithCaption.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          ""
+        ],
+        [
+          "Content",
+          "More content"
+        ]
+      ],
+      "markdown": "|  |  |\n| --- | --- |\n| Content | More content |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Content</td>\n<td>More content</td>\n</tr>\n</tbody>\n</table>\n<p>Table 1: Some caption for a table</p>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"\",\"\"],\"rows\":[[\"Content\",\"More content\"]]},{\"type\":\"paragraph\",\"text\":\"Table 1: Some caption for a table\"}]}",
+    "markdown": "|  |  |\n| --- | --- |\n| Content | More content |\n\nTable 1: Some caption for a table\n",
+    "plain": " \nContent More content\n\nTable 1: Some caption for a table"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "file": "xml/simple_svg.svg",
+  "mime_type": "image/svg+xml",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "xml",
+      "element_count": 6,
+      "unique_elements": [
+        "circle",
+        "desc",
+        "rect",
+        "svg",
+        "text",
+        "title"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "xml/simple_svg.svg",
+      "source_kind": "uri",
+      "source_uri": "xml/simple_svg.svg"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>svg</h1>\n<h2>title</h2>\n<p>Simple SVG Example</p>\n<h2>desc</h2>\n<p>A simple SVG file with basic shapes</p>\n<h2>rect</h2>\n<h2>circle</h2>\n<h2>text</h2>\n<p>Hello SVG</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"svg\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"title\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Simple SVG Example\"}]},{\"type\":\"section\",\"heading\":\"desc\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"A simple SVG file with basic shapes\"}]},{\"type\":\"section\",\"heading\":\"rect\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"circle\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"text\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Hello SVG\"}]}]}]}",
+    "markdown": "# svg\n\n## title\n\nSimple SVG Example\n\n## desc\n\nA simple SVG file with basic shapes\n\n## rect\n\n## circle\n\n## text\n\nHello SVG\n",
+    "plain": "svg (height: 200, viewBox: 0 0 200 200, width: 200)\n  title\n  Simple SVG Example\n\n  desc\n  A simple SVG file with basic shapes\n\n  rect (fill: blue, height: 80, width: 80, x: 10, y: 10)\n\n  circle (cx: 150, cy: 50, fill: red, r: 40)\n\n  text (font-family: Arial, font-size: 20, text-anchor: middle, x: 100, y: 150)\n  Hello SVG"
+  }
+}

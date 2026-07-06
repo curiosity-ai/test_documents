@@ -1,0 +1,12 @@
+{
+  "file": "images/test.heif",
+  "mime_type": "image/heif",
+  "success": false,
+  "error": "Unsupported format: image/heif",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

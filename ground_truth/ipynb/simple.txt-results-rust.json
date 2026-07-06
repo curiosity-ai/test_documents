@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/ipynb/simple.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 18,
+      "word_count": 39,
+      "character_count": 318
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/ipynb/simple.txt",
+      "final_uri": "ground_truth/ipynb/simple.txt",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Lorem ipsum</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc luctus bibendum felis dictum sodales.</p>\n<p>Pyout</p>\n<p>from IPython.display import HTML</p>\n<p>HTML(&quot;&quot;&quot; &lt;script&gt; console.log(&quot;hello&quot;); &lt;/script&gt; &lt;b&gt;HTML&lt;/b&gt; &quot;&quot;&quot;)</p>\n<p>Image</p>\n<p>This image [the moon] will be included as a cell attachment.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Lorem ipsum\"},{\"type\":\"paragraph\",\"text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc luctus bibendum felis dictum sodales.\"},{\"type\":\"paragraph\",\"text\":\"Pyout\"},{\"type\":\"paragraph\",\"text\":\"from IPython.display import HTML\"},{\"type\":\"paragraph\",\"text\":\"HTML(\\\"\\\"\\\"\\n    <script>\\n    console.log(\\\"hello\\\");\\n    </script>\\n    <b>HTML</b>\\n    \\\"\\\"\\\")\"},{\"type\":\"paragraph\",\"text\":\"Image\"},{\"type\":\"paragraph\",\"text\":\"This image [the moon] will be included as a cell attachment.\"}]}",
+    "markdown": "Lorem ipsum\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc luctus bibendum felis dictum sodales.\n\nPyout\n\nfrom IPython.display import HTML\n\nHTML(\"\"\" \\<script\\> console.log(\"hello\"); \\</script\\> \\<b\\>HTML\\</b\\> \"\"\")\n\nImage\n\nThis image [the moon] will be included as a cell attachment.\n",
+    "plain": "Lorem ipsum\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc luctus bibendum felis dictum sodales.\n\nPyout\n\nfrom IPython.display import HTML\n\nHTML(\"\"\"\n    <script>\n    console.log(\"hello\");\n    </script>\n    <b>HTML</b>\n    \"\"\")\n\nImage\n\nThis image [the moon] will be included as a cell attachment."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "file": "markdown/simple_metadata.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Introduction",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "markdown/simple_metadata.md",
+      "final_uri": "markdown/simple_metadata.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Column 1",
+          "Column 2",
+          "Column 3"
+        ],
+        [
+          "Data 1",
+          "Data 2",
+          "Data 3"
+        ],
+        [
+          "Data 4",
+          "Data 5",
+          "Data 6"
+        ]
+      ],
+      "markdown": "| Column 1 | Column 2 | Column 3 |\n| --- | --- | --- |\n| Data 1 | Data 2 | Data 3 |\n| Data 4 | Data 5 | Data 6 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>title: Test Document with Metadata author:</p>\n<ul>\n<li>Alice Johnson</li>\n<li>Bob Smith date: 2025-09-27 abstract: | This is a test document designed to verify pandoc metadata extraction. It contains multiple paragraphs in the abstract.</li>\n</ul>\n<h2>And even includes line breaks. keywords: [testing, pandoc, metadata, extraction] lang: en-US subject: Document Processing institute: Xberg Testing Labs</h2>\n<h1>Introduction</h1>\n<p>This is a simple test document with comprehensive metadata for testing pandoc extraction behavior.</p>\n<h2>Section with Citations</h2>\n<p>According to recent research [@smith2024; @jones2023], metadata extraction is crucial for document intelligence.</p>\n<h2>Code Block</h2>\n<pre lang=\"python\"><code>def extract_metadata(document):\n    &quot;&quot;&quot;Extract metadata from document.&quot;&quot;&quot;\n    return document.metadata</code></pre>\n<h2>Table</h2>\n<table>\n<thead>\n<tr>\n<th>Column 1</th>\n<th>Column 2</th>\n<th>Column 3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Data 1</td>\n<td>Data 2</td>\n<td>Data 3</td>\n</tr>\n<tr>\n<td>Data 4</td>\n<td>Data 5</td>\n<td>Data 6</td>\n</tr>\n</tbody>\n</table>\n<h2>Conclusion</h2>\n<p>This document serves as a test fixture for pandoc extraction.</p>\n<h1>References</h1>\n<ul>\n<li>Smith, J. (2024). <em>Document Processing</em>. Test Publisher.</li>\n<li>Jones, A. (2023). <em>Metadata Extraction</em>. Example Press.</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"title: Test Document with Metadata author:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Alice Johnson\",\"Bob Smith date: 2025-09-27 abstract: | This is a test document designed to verify pandoc metadata extraction. It contains multiple paragraphs in the abstract.\"]},{\"type\":\"section\",\"heading\":\"And even includes line breaks. keywords: [testing, pandoc, metadata, extraction] lang: en-US subject: Document Processing institute: Xberg Testing Labs\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Introduction\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a simple test document with comprehensive metadata for testing pandoc extraction behavior.\"},{\"type\":\"section\",\"heading\":\"Section with Citations\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"According to recent research [@smith2024; @jones2023], metadata extraction is crucial for document intelligence.\"}]},{\"type\":\"section\",\"heading\":\"Code Block\",\"level\":2,\"body\":[{\"type\":\"code\",\"text\":\"def extract_metadata(document):\\n    \\\"\\\"\\\"Extract metadata from document.\\\"\\\"\\\"\\n    return document.metadata\",\"language\":\"python\"}]},{\"type\":\"section\",\"heading\":\"Table\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Column 1\",\"Column 2\",\"Column 3\"],\"rows\":[[\"Data 1\",\"Data 2\",\"Data 3\"],[\"Data 4\",\"Data 5\",\"Data 6\"]]}]},{\"type\":\"section\",\"heading\":\"Conclusion\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"This document serves as a test fixture for pandoc extraction.\"}]}]},{\"type\":\"section\",\"heading\":\"References\",\"level\":1,\"body\":[{\"type\":\"list\",\"ordered\":false,\"items\":[\"Smith, J. (2024). Document Processing. Test Publisher.\",\"Jones, A. (2023). Metadata Extraction. Example Press.\"]}]}]}",
+    "markdown": "title: Test Document with Metadata author:\n\n- Alice Johnson\n- Bob Smith date: 2025-09-27 abstract: | This is a test document designed to verify pandoc metadata extraction. It contains multiple paragraphs in the abstract.\n\n## And even includes line breaks. keywords: [testing, pandoc, metadata, extraction] lang: en-US subject: Document Processing institute: Xberg Testing Labs\n\n# Introduction\n\nThis is a simple test document with comprehensive metadata for testing pandoc extraction behavior.\n\n## Section with Citations\n\nAccording to recent research [@smith2024; @jones2023], metadata extraction is crucial for document intelligence.\n\n## Code Block\n\n```python\ndef extract_metadata(document):\n    \"\"\"Extract metadata from document.\"\"\"\n    return document.metadata\n```\n\n## Table\n\n| Column 1 | Column 2 | Column 3 |\n| --- | --- | --- |\n| Data 1 | Data 2 | Data 3 |\n| Data 4 | Data 5 | Data 6 |\n\n## Conclusion\n\nThis document serves as a test fixture for pandoc extraction.\n\n# References\n\n- Smith, J. (2024). *Document Processing*. Test Publisher.\n- Jones, A. (2023). *Metadata Extraction*. Example Press.\n",
+    "plain": "title: Test Document with Metadata author:\n\nAlice Johnson\nBob Smith date: 2025-09-27 abstract: | This is a test document designed to verify pandoc metadata extraction. It contains multiple paragraphs in the abstract.\n  And even includes line breaks. keywords: [testing, pandoc, metadata, extraction] lang: en-US subject: Document Processing institute: Xberg Testing Labs\nIntroduction\nThis is a simple test document with comprehensive metadata for testing pandoc extraction behavior.\n\n  Section with Citations\nAccording to recent research [@smith2024; @jones2023], metadata extraction is crucial for document intelligence.\n\n  Code Block\ndef extract_metadata(document):\n    \"\"\"Extract metadata from document.\"\"\"\n    return document.metadata\n\n  Table\nColumn 1 Column 2 Column 3\nData 1 Data 2 Data 3\nData 4 Data 5 Data 6\n\n  Conclusion\nThis document serves as a test fixture for pandoc extraction.\n\nReferences\nSmith, J. (2024). Document Processing. Test Publisher.\nJones, A. (2023). Metadata Extraction. Example Press."
+  }
+}

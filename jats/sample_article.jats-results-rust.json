@@ -1,0 +1,80 @@
+{
+  "file": "jats/sample_article.jats",
+  "mime_type": "application/x-jats+xml",
+  "success": true,
+  "metadata": {
+    "title": "Effects of Caffeine on Human Health",
+    "subject": "Title: Effects of Caffeine on Human Health | Subtitle: A Systematic Review and Meta-Analysis | Authors: Smith John A.; Johnson Jane B.; Williams Robert C. | Affiliations: 1 Department of Medicine, Harvard University, Cambridge, Massachusetts, United States; 2 Center for Health Research, Boston Medical Center, Boston, Massachusetts, United States; 3 Department of Nutrition, Yale University, New Haven, Connecticut, United States | DOI: 10.1371/journal.pmed.0020124 | PII: 05-PLME-RA-0071R2 | Keywords: caffeine; meta-analysis; systematic review; human health | Publication Date: 18  04  2005 | Volume: 2 | Issue: 4 | Pages: e124-e132 | Article Type: research-article | Abstract: Background Caffeine is one of the most widely consumed psychoactive substances in the world. Methods and Findings We conducted a systematic review and meta-analysis of studies examining the effects of caffeine on human health. Conclusions Moderate caffeine consumption appears to have both beneficial and adverse health effects. | Corresponding Author: *  To whom correspondence should be addressed. E-mail:  rwilliams@yale.edu | Copyright: Smith et al.",
+    "authors": [
+      "Smith John A.",
+      "Johnson Jane B.",
+      "Williams Robert C."
+    ],
+    "keywords": [
+      "caffeine",
+      "meta-analysis",
+      "systematic review",
+      "human health"
+    ],
+    "created_at": "18  04  2005",
+    "format": {
+      "format_type": "jats",
+      "copyright": "Smith et al.",
+      "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License",
+      "contributor_roles": [
+        {
+          "name": "Smith John A.",
+          "role": "author"
+        },
+        {
+          "name": "Johnson Jane B.",
+          "role": "author"
+        },
+        {
+          "name": "Williams Robert C.",
+          "role": "author"
+        }
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "jats/sample_article.jats",
+      "source_uri": "jats/sample_article.jats",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Study",
+          "Year",
+          "Population",
+          "Outcome"
+        ],
+        [
+          "Study A",
+          "2003",
+          "100 adults",
+          "Increased alertness"
+        ],
+        [
+          "Study B",
+          "2004",
+          "50 subjects",
+          "Sleep disruption"
+        ]
+      ],
+      "markdown": "| Study | Year | Population | Outcome |\n| --- | --- | --- | --- |\n| Study A | 2003 | 100 adults | Increased alertness |\n| Study B | 2004 | 50 subjects | Sleep disruption |\n",
+      "page_number": 0
+    }
+  ],
+  "content": {
+    "html": "<h1>Effects of Caffeine on Human Health</h1>\n<h2>Abstract</h2>\n<h3>Background</h3>\n<p>Caffeine is one of the most widely consumed psychoactive substances in the world.</p>\n<h3>Methods and Findings</h3>\n<p>We conducted a systematic review and meta-analysis of studies examining the effects of caffeine on human health.</p>\n<h3>Conclusions</h3>\n<p>Moderate caffeine consumption appears to have both beneficial and adverse health effects.</p>\n<h2>Introduction</h2>\n<p>Caffeine (1,3,7-trimethylxanthine) is a stimulant of the central nervous system.</p>\n<p>This review examines the evidence for both beneficial and adverse effects of caffeine consumption.</p>\n<h2>Methods</h2>\n<h3>Search Strategy</h3>\n<p>We searched MEDLINE, Embase, and the Cochrane Central Register of Controlled Trials.</p>\n<h3>Selection Criteria</h3>\n<p>We included randomized controlled trials and observational studies examining caffeine effects.</p>\n<h2>Results</h2>\n<p>We identified 47 studies meeting inclusion criteria.</p>\n<h2>Characteristics of Included Studies</h2>\n<p>Summary of study design and population characteristics.</p>\n<table>\n<thead>\n<tr>\n<th>Study</th>\n<th>Year</th>\n<th>Population</th>\n<th>Outcome</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Study A</td>\n<td>2003</td>\n<td>100 adults</td>\n<td>Increased alertness</td>\n</tr>\n<tr>\n<td>Study B</td>\n<td>2004</td>\n<td>50 subjects</td>\n<td>Sleep disruption</td>\n</tr>\n</tbody>\n</table>\n<h2>Discussion</h2>\n<p>Our findings suggest that caffeine has complex effects on human health.</p>\n<p>Low to moderate consumption may provide cognitive benefits 1 , while high doses may lead to adverse effects 2 .</p>\n<h2>Conclusions</h2>\n<p>Caffeine consumption should be tailored to individual tolerance and health status.</p>\n<h2>Acknowledgments</h2>\n<p>We thank all participants who contributed to this research.</p>\n<h2>References</h2>\n<ol>\n<li>Brown T, Davis K. Cognitive effects of caffeine. J Neurosci. 2002;15:234-241.</li>\n<li>Green M. Adverse effects of high caffeine consumption. Am J Health. 2003;8:112-120.</li>\n</ol>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Effects of Caffeine on Human Health\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Abstract\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"Background\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Caffeine is one of the most widely consumed psychoactive substances in the world.\"}]},{\"type\":\"section\",\"heading\":\"Methods and Findings\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"We conducted a systematic review and meta-analysis of studies examining the effects of caffeine on human health.\"}]},{\"type\":\"section\",\"heading\":\"Conclusions\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"Moderate caffeine consumption appears to have both beneficial and adverse health effects.\"}]}]},{\"type\":\"section\",\"heading\":\"Introduction\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Caffeine (1,3,7-trimethylxanthine) is a stimulant of the central nervous system.\"},{\"type\":\"paragraph\",\"text\":\"This review examines the evidence for both beneficial and adverse effects of caffeine consumption.\"}]},{\"type\":\"section\",\"heading\":\"Methods\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"Search Strategy\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"We searched MEDLINE, Embase, and the Cochrane Central Register of Controlled Trials.\"}]},{\"type\":\"section\",\"heading\":\"Selection Criteria\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"We included randomized controlled trials and observational studies examining caffeine effects.\"}]}]},{\"type\":\"section\",\"heading\":\"Results\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"We identified 47 studies meeting inclusion criteria.\"}]},{\"type\":\"section\",\"heading\":\"Characteristics of Included Studies\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Summary of study design and population characteristics.\"},{\"type\":\"table\",\"headers\":[\"Study\",\"Year\",\"Population\",\"Outcome\"],\"rows\":[[\"Study A\",\"2003\",\"100 adults\",\"Increased alertness\"],[\"Study B\",\"2004\",\"50 subjects\",\"Sleep disruption\"]]}]},{\"type\":\"section\",\"heading\":\"Discussion\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Our findings suggest that caffeine has complex effects on human health.\"},{\"type\":\"paragraph\",\"text\":\"Low to moderate consumption may provide cognitive benefits 1 , while high doses may lead to adverse effects 2 .\"}]},{\"type\":\"section\",\"heading\":\"Conclusions\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Caffeine consumption should be tailored to individual tolerance and health status.\"}]},{\"type\":\"section\",\"heading\":\"Acknowledgments\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"We thank all participants who contributed to this research.\"}]},{\"type\":\"section\",\"heading\":\"References\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":true,\"items\":[\"Brown T, Davis K. Cognitive effects of caffeine. J Neurosci. 2002;15:234-241.\",\"Green M. Adverse effects of high caffeine consumption. Am J Health. 2003;8:112-120.\"]}]}]}]}",
+    "markdown": "# Effects of Caffeine on Human Health\n\n## Abstract\n\n### Background\n\nCaffeine is one of the most widely consumed psychoactive substances in the world.\n\n### Methods and Findings\n\nWe conducted a systematic review and meta-analysis of studies examining the effects of caffeine on human health.\n\n### Conclusions\n\nModerate caffeine consumption appears to have both beneficial and adverse health effects.\n\n## Introduction\n\nCaffeine (1,3,7-trimethylxanthine) is a stimulant of the central nervous system.\n\nThis review examines the evidence for both beneficial and adverse effects of caffeine consumption.\n\n## Methods\n\n### Search Strategy\n\nWe searched MEDLINE, Embase, and the Cochrane Central Register of Controlled Trials.\n\n### Selection Criteria\n\nWe included randomized controlled trials and observational studies examining caffeine effects.\n\n## Results\n\nWe identified 47 studies meeting inclusion criteria.\n\n## Characteristics of Included Studies\n\nSummary of study design and population characteristics.\n\n| Study | Year | Population | Outcome |\n| --- | --- | --- | --- |\n| Study A | 2003 | 100 adults | Increased alertness |\n| Study B | 2004 | 50 subjects | Sleep disruption |\n\n## Discussion\n\nOur findings suggest that caffeine has complex effects on human health.\n\nLow to moderate consumption may provide cognitive benefits 1 , while high doses may lead to adverse effects 2 .\n\n## Conclusions\n\nCaffeine consumption should be tailored to individual tolerance and health status.\n\n## Acknowledgments\n\nWe thank all participants who contributed to this research.\n\n## References\n\n1. Brown T, Davis K. Cognitive effects of caffeine. J Neurosci. 2002;15:234-241.\n2. Green M. Adverse effects of high caffeine consumption. Am J Health. 2003;8:112-120.\n",
+    "plain": "Effects of Caffeine on Human Health\n  Abstract\n    Background\nCaffeine is one of the most widely consumed psychoactive substances in the world.\n\n    Methods and Findings\nWe conducted a systematic review and meta-analysis of studies examining the effects of caffeine on human health.\n\n    Conclusions\nModerate caffeine consumption appears to have both beneficial and adverse health effects.\n\n  Introduction\nCaffeine (1,3,7-trimethylxanthine) is a stimulant of the central nervous system.\n\nThis review examines the evidence for both beneficial and adverse effects of caffeine consumption.\n\n  Methods\n    Search Strategy\nWe searched MEDLINE, Embase, and the Cochrane Central Register of Controlled Trials.\n\n    Selection Criteria\nWe included randomized controlled trials and observational studies examining caffeine effects.\n\n  Results\nWe identified 47 studies meeting inclusion criteria.\n\n  Characteristics of Included Studies\nSummary of study design and population characteristics.\n\nStudy Year Population Outcome\nStudy A 2003 100 adults Increased alertness\nStudy B 2004 50 subjects Sleep disruption\n\n  Discussion\nOur findings suggest that caffeine has complex effects on human health.\n\nLow to moderate consumption may provide cognitive benefits 1 , while high doses may lead to adverse effects 2 .\n\n  Conclusions\nCaffeine consumption should be tailored to individual tolerance and health status.\n\n  Acknowledgments\nWe thank all participants who contributed to this research.\n\n  References\nBrown T, Davis K. Cognitive effects of caffeine. J Neurosci. 2002;15:234-241.\nGreen M. Adverse effects of high caffeine consumption. Am J Health. 2003;8:112-120."
+  }
+}

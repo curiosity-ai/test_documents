@@ -1,0 +1,71 @@
+{
+  "file": "opml/podcasts.opml",
+  "mime_type": "application/xml+opml",
+  "success": true,
+  "metadata": {
+    "title": "Podcast Directory",
+    "created_at": "Wed, 15 Mar 2023 08:30:00 GMT",
+    "modified_at": "Mon, 04 Dec 2023 14:20:00 GMT",
+    "created_by": "Jane Doe",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "ownerEmail": "jane.doe@example.org",
+      "source_index": 0,
+      "source_uri": "opml/podcasts.opml",
+      "feed_urls": [
+        {
+          "xmlUrl": "https://www.joerogan.com/feed",
+          "text": "The Joe Rogan Experience",
+          "htmlUrl": "https://www.joerogan.com/",
+          "type": "podcast"
+        },
+        {
+          "xmlUrl": "https://syntax.fm/rss",
+          "text": "Syntax - Tasty Web Development Treats",
+          "htmlUrl": "https://syntax.fm/",
+          "type": "podcast"
+        },
+        {
+          "xmlUrl": "https://reactnativeradio.com/feed.xml",
+          "text": "React Native Radio",
+          "htmlUrl": "https://reactnativeradio.com/",
+          "type": "podcast"
+        },
+        {
+          "xmlUrl": "https://www.acquired.fm/feed.xml",
+          "text": "Acquired",
+          "htmlUrl": "https://www.acquired.fm/",
+          "type": "podcast"
+        },
+        {
+          "xmlUrl": "https://mastersofscale.com/feed/",
+          "text": "Masters of Scale",
+          "htmlUrl": "https://mastersofscale.com/",
+          "type": "podcast"
+        },
+        {
+          "xmlUrl": "https://www.startalkradio.net/feed/podcast/",
+          "text": "StarTalk Radio",
+          "htmlUrl": "https://www.startalkradio.net/",
+          "type": "podcast"
+        },
+        {
+          "xmlUrl": "https://www.nature.com/nature/podcast.xml",
+          "text": "Nature Podcast",
+          "htmlUrl": "https://www.nature.com/nature/",
+          "type": "podcast"
+        }
+      ],
+      "final_uri": "opml/podcasts.opml"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Technology Podcasts</h1>\n<h2>The Joe Rogan Experience</h2>\n<h2>Syntax - Tasty Web Development Treats</h2>\n<h2>React Native Radio</h2>\n<h1>Business &amp; Startups</h1>\n<h2>Acquired</h2>\n<h2>Masters of Scale</h2>\n<h1>Science &amp; Nature</h1>\n<h2>StarTalk Radio</h2>\n<h2>Nature Podcast</h2>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Technology Podcasts\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"The Joe Rogan Experience\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Syntax - Tasty Web Development Treats\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"React Native Radio\",\"level\":2,\"body\":[]}]},{\"type\":\"section\",\"heading\":\"Business & Startups\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Acquired\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Masters of Scale\",\"level\":2,\"body\":[]}]},{\"type\":\"section\",\"heading\":\"Science & Nature\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"StarTalk Radio\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Nature Podcast\",\"level\":2,\"body\":[]}]}]}",
+    "markdown": "# Technology Podcasts\n\n## The Joe Rogan Experience\n\n## Syntax - Tasty Web Development Treats\n\n## React Native Radio\n\n# Business & Startups\n\n## Acquired\n\n## Masters of Scale\n\n# Science & Nature\n\n## StarTalk Radio\n\n## Nature Podcast\n",
+    "plain": "Technology Podcasts (type: folder)\n  The Joe Rogan Experience (htmlUrl: https://www.joerogan.com/, type: podcast, xmlUrl: https://www.joerogan.com/feed)\n\n  Syntax - Tasty Web Development Treats (htmlUrl: https://syntax.fm/, type: podcast, xmlUrl: https://syntax.fm/rss)\n\n  React Native Radio (htmlUrl: https://reactnativeradio.com/, type: podcast, xmlUrl: https://reactnativeradio.com/feed.xml)\nBusiness & Startups (type: folder)\n  Acquired (htmlUrl: https://www.acquired.fm/, type: podcast, xmlUrl: https://www.acquired.fm/feed.xml)\n\n  Masters of Scale (htmlUrl: https://mastersofscale.com/, type: podcast, xmlUrl: https://mastersofscale.com/feed/)\nScience & Nature (type: folder)\n  StarTalk Radio (description: Cosmos, science and more, htmlUrl: https://www.startalkradio.net/, type: podcast, xmlUrl: https://www.startalkradio.net/feed/podcast/)\n\n  Nature Podcast (htmlUrl: https://www.nature.com/nature/, type: podcast, xmlUrl: https://www.nature.com/nature/podcast.xml)"
+  }
+}

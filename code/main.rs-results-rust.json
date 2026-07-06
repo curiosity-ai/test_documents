@@ -1,0 +1,12 @@
+{
+  "file": "code/main.rs",
+  "mime_type": "text/x-rust",
+  "success": false,
+  "error": "Unsupported format: text/x-rust",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

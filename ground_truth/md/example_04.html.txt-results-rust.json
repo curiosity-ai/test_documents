@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/example_04.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 7,
+      "word_count": 84,
+      "character_count": 483
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/md/example_04.html.txt",
+      "final_uri": "ground_truth/md/example_04.html.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Data Table with Rowspan and Colspan</p>\n<p>| Header 1 | Header 2 &amp; 3 (colspan) | Header 2 &amp; 3 (colspan) | |----------------------------|----------------------------|----------------------------| | Row 1 &amp; 2, Col 1 (rowspan) | Row 1, Col 2 | Row 1, Col 3 | | Row 1 &amp; 2, Col 1 (rowspan) | Row 2, Col 2 &amp; 3 (colspan) | Row 2, Col 2 &amp; 3 (colspan) | | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Data Table with Rowspan and Colspan\"},{\"type\":\"paragraph\",\"text\":\"| Header 1                   | Header 2 & 3 (colspan)     | Header 2 & 3 (colspan)     |\\n|----------------------------|----------------------------|----------------------------|\\n| Row 1 & 2, Col 1 (rowspan) | Row 1, Col 2               | Row 1, Col 3               |\\n| Row 1 & 2, Col 1 (rowspan) | Row 2, Col 2 & 3 (colspan) | Row 2, Col 2 & 3 (colspan) |\\n| Row 3, Col 1               | Row 3, Col 2               | Row 3, Col 3               |\"}]}",
+    "markdown": "\\# Data Table with Rowspan and Colspan\n\n| Header 1 | Header 2 & 3 (colspan) | Header 2 & 3 (colspan) | |----------------------------|----------------------------|----------------------------| | Row 1 & 2, Col 1 (rowspan) | Row 1, Col 2 | Row 1, Col 3 | | Row 1 & 2, Col 1 (rowspan) | Row 2, Col 2 & 3 (colspan) | Row 2, Col 2 & 3 (colspan) | | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |\n",
+    "plain": "# Data Table with Rowspan and Colspan\n\n| Header 1                   | Header 2 & 3 (colspan)     | Header 2 & 3 (colspan)     |\n|----------------------------|----------------------------|----------------------------|\n| Row 1 & 2, Col 1 (rowspan) | Row 1, Col 2               | Row 1, Col 3               |\n| Row 1 & 2, Col 1 (rowspan) | Row 2, Col 2 & 3 (colspan) | Row 2, Col 2 & 3 (colspan) |\n| Row 3, Col 1               | Row 3, Col 2               | Row 3, Col 3               |"
+  }
+}

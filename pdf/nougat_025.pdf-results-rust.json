@@ -1,0 +1,103 @@
+{
+  "file": "pdf/nougat_025.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2021-01-08T11:24:24Z",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "iText by lowagie.com (r0.97 - paulo 112)",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "pdf/nougat_025.pdf",
+      "final_uri": "pdf/nougat_025.pdf",
+      "source_kind": "uri",
+      "source_index": 0,
+      "extraction_method": "native"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Security Symbol",
+          ": PKGP PAKGEN POWER LIMITED",
+          "Page# : 1 of 1"
+        ],
+        [
+          "Non Free Float",
+          "Date : 31/12/2020",
+          "User : C0069419"
+        ],
+        [
+          "",
+          "",
+          "Date : 08/01/2021"
+        ],
+        [
+          "",
+          "",
+          "Time : 11:24:23"
+        ]
+      ],
+      "markdown": "| Security Symbol | : PKGP PAKGEN POWER LIMITED | Page# : 1 of 1 |\n| --- | --- | --- |\n| Non Free Float | Date : 31/12/2020 | User : C0069419 |\n|  |  | Date : 08/01/2021 |\n|  |  | Time : 11:24:23 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 14.0,
+        "y0": 696.0,
+        "x1": 571.0,
+        "y1": 739.0
+      }
+    },
+    {
+      "cells": [
+        [
+          "Category No.",
+          "Category Description",
+          "",
+          "",
+          "No. Of Shares",
+          ""
+        ],
+        [
+          "---------------------",
+          "----------------------------------------------------",
+          "",
+          "",
+          "----------------------------------",
+          ""
+        ],
+        [
+          "Issued Share /",
+          "Certificate Capital of the",
+          "Company / Modaraba",
+          "/ Mutual Funds",
+          "",
+          "372,081,591"
+        ]
+      ],
+      "markdown": "| Category No. | Category Description |  |  | No. Of Shares |  |\n| --- | --- | --- | --- | --- | --- |\n| --------------------- | ---------------------------------------------------- |  |  | ---------------------------------- |  |\n| Issued Share / | Certificate Capital of the | Company / Modaraba | / Mutual Funds |  | 372,081,591 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 14.0,
+        "y0": 655.0,
+        "x1": 576.0,
+        "y1": 686.0
+      }
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>Security Symbol</th>\n<th>: PKGP PAKGEN POWER LIMITED</th>\n<th>Page# : 1 of 1</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Non Free Float</td>\n<td>Date : 31/12/2020</td>\n<td>User : C0069419</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Date : 08/01/2021</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Time : 11:24:23</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Category No.</th>\n<th>Category Description</th>\n<th></th>\n<th></th>\n<th>No. Of Shares</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>---------------------</td>\n<td>----------------------------------------------------</td>\n<td></td>\n<td></td>\n<td>----------------------------------</td>\n<td></td>\n</tr>\n<tr>\n<td>Issued Share /</td>\n<td>Certificate Capital of the</td>\n<td>Company / Modaraba</td>\n<td>/ Mutual Funds</td>\n<td></td>\n<td>372,081,591</td>\n</tr>\n</tbody>\n</table>\n<pre><code>Less:\nPhysical Shares\nCAT02\nCAT04\nFree Float Shares\nCentral Depository Company of Pakistan Limited\nNon Free Float Security Wise Summary Report\nDirectors, Sponsors and Senior Management\nOfficers and their Associates\nAssociate companies / Group Companies (cross\nholdings)\nConfidential\n(381,003)\n(14,933,840)\n(199,565,474)\n157,201,274</code></pre>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Security Symbol\\nNon Free Float Date : 31/12/2020\"},{\"type\":\"paragraph\",\"text\":\"Category No.\\n---------------------\\nIssued Share / Certificate Capital of the Company / Modaraba / Mutual Funds\"},{\"type\":\"paragraph\",\"text\":\"Less:\\nPhysical Shares\\nCAT02\"},{\"type\":\"paragraph\",\"text\":\"CAT04\"},{\"type\":\"paragraph\",\"text\":\"Free Float Shares\"},{\"type\":\"paragraph\",\"text\":\"Central Depository Company of Pakistan Limited\\nNon Free Float Security Wise Summary Report\"},{\"type\":\"paragraph\",\"text\":\": PKGP PAKGEN POWER LIMITED\"},{\"type\":\"paragraph\",\"text\":\"Category Description\\n----------------------------------------------------\"},{\"type\":\"paragraph\",\"text\":\"Directors, Sponsors and Senior Management\\nOfficers and their Associates\"},{\"type\":\"paragraph\",\"text\":\"Associate companies / Group Companies (cross\\nholdings)\"},{\"type\":\"paragraph\",\"text\":\"Confidential\"},{\"type\":\"paragraph\",\"text\":\"Page#\\nUser\\nDate\\nTime\"},{\"type\":\"paragraph\",\"text\":\"No. Of Shares\\n----------------------------------\"},{\"type\":\"paragraph\",\"text\":\": 1 of 1\\n: C0069419\\n: 08/01/2021\\n: 11:24:23\"},{\"type\":\"paragraph\",\"text\":\"372,081,591\"},{\"type\":\"paragraph\",\"text\":\"(381,003)\\n(14,933,840)\"},{\"type\":\"paragraph\",\"text\":\"(199,565,474)\"},{\"type\":\"paragraph\",\"text\":\"157,201,274\"},{\"type\":\"table\",\"headers\":[\"Security Symbol\",\": PKGP PAKGEN POWER LIMITED\",\"Page# : 1 of 1\"],\"rows\":[[\"Non Free Float\",\"Date : 31/12/2020\",\"User : C0069419\"],[\"\",\"\",\"Date : 08/01/2021\"],[\"\",\"\",\"Time : 11:24:23\"]]},{\"type\":\"table\",\"headers\":[\"Category No.\",\"Category Description\",\"\",\"\",\"No. Of Shares\",\"\"],\"rows\":[[\"---------------------\",\"----------------------------------------------------\",\"\",\"\",\"----------------------------------\",\"\"],[\"Issued Share /\",\"Certificate Capital of the\",\"Company / Modaraba\",\"/ Mutual Funds\",\"\",\"372,081,591\"]]}]}",
+    "markdown": "| Security Symbol | : PKGP PAKGEN POWER LIMITED | Page\\# : 1 of 1 |\n| --- | --- | --- |\n| Non Free Float | Date : 31/12/2020 | User : C0069419 |\n|  |  | Date : 08/01/2021 |\n|  |  | Time : 11:24:23 |\n\n| Category No. | Category Description |  |  | No. Of Shares |  |\n| --- | --- | --- | --- | --- | --- |\n| --------------------- | ---------------------------------------------------- |  |  | ---------------------------------- |  |\n| Issued Share / | Certificate Capital of the | Company / Modaraba | / Mutual Funds |  | 372,081,591 |\n\n```\nLess:\nPhysical Shares\nCAT02\nCAT04\nFree Float Shares\nCentral Depository Company of Pakistan Limited\nNon Free Float Security Wise Summary Report\nDirectors, Sponsors and Senior Management\nOfficers and their Associates\nAssociate companies / Group Companies (cross\nholdings)\nConfidential\n(381,003)\n(14,933,840)\n(199,565,474)\n157,201,274\n```\n",
+    "plain": "Security Symbol\nNon Free Float Date : 31/12/2020\n\nCategory No.\n---------------------\nIssued Share / Certificate Capital of the Company / Modaraba / Mutual Funds\n\nLess:\nPhysical Shares\nCAT02\n\nCAT04\n\nFree Float Shares\n\nCentral Depository Company of Pakistan Limited\nNon Free Float Security Wise Summary Report\n\n: PKGP PAKGEN POWER LIMITED\n\nCategory Description\n----------------------------------------------------\n\nDirectors, Sponsors and Senior Management\nOfficers and their Associates\n\nAssociate companies / Group Companies (cross\nholdings)\n\nConfidential\n\nPage#\nUser\nDate\nTime\n\nNo. Of Shares\n----------------------------------\n\n: 1 of 1\n: C0069419\n: 08/01/2021\n: 11:24:23\n\n372,081,591\n\n(381,003)\n(14,933,840)\n\n(199,565,474)\n\n157,201,274\n\nSecurity Symbol : PKGP PAKGEN POWER LIMITED Page# : 1 of 1\nNon Free Float Date : 31/12/2020 User : C0069419\n  Date : 08/01/2021\n  Time : 11:24:23\n\nCategory No. Category Description   No. Of Shares \n--------------------- ----------------------------------------------------   ---------------------------------- \nIssued Share / Certificate Capital of the Company / Modaraba / Mutual Funds  372,081,591"
+  }
+}

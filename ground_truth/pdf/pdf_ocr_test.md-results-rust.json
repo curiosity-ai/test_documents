@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/pdf/pdf_ocr_test.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "OCR Test Document",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/pdf_ocr_test.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/pdf_ocr_test.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>OCR Test Document</h1>\n<p>Docling bundles PDF document conversion to JSON and Markdown in an easy self contained package</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"OCR Test Document\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Docling bundles PDF document conversion to JSON and Markdown in an easy self contained package\"}]}]}",
+    "markdown": "# OCR Test Document\n\nDocling bundles PDF document conversion to JSON and Markdown in an easy self contained package\n",
+    "plain": "OCR Test Document\nDocling bundles PDF document conversion to JSON and Markdown in an easy self contained package"
+  }
+}

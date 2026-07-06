@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/rtf/fake-doc.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 9,
+      "word_count": 40,
+      "character_count": 316
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/rtf/fake-doc.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/rtf/fake-doc.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>My First Heading</p>\n<p>My first paragraph.</p>\n<p>Table Example:</p>\n<p>---------- ---------- --------------- --------------- --------------- --------------- Column 1 Column 2 Row 1, Cell 1 Row 1, Cell 2 Row 2, Cell 1 Row 2, Cell 2 ---------- ---------- --------------- --------------- --------------- ---------------</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"My First Heading\"},{\"type\":\"paragraph\",\"text\":\"My first paragraph.\"},{\"type\":\"paragraph\",\"text\":\"Table Example:\"},{\"type\":\"paragraph\",\"text\":\"---------- ---------- --------------- --------------- --------------- ---------------\\n  Column 1   Column 2   Row 1, Cell 1   Row 1, Cell 2   Row 2, Cell 1   Row 2, Cell 2\\n  ---------- ---------- --------------- --------------- --------------- ---------------\"}]}",
+    "markdown": "My First Heading\n\nMy first paragraph.\n\nTable Example:\n\n\\---------- ---------- --------------- --------------- --------------- --------------- Column 1 Column 2 Row 1, Cell 1 Row 1, Cell 2 Row 2, Cell 1 Row 2, Cell 2 ---------- ---------- --------------- --------------- --------------- ---------------\n",
+    "plain": "My First Heading\n\nMy first paragraph.\n\nTable Example:\n\n---------- ---------- --------------- --------------- --------------- ---------------\n  Column 1   Column 2   Row 1, Cell 1   Row 1, Cell 2   Row 2, Cell 1   Row 2, Cell 2\n  ---------- ---------- --------------- --------------- --------------- ---------------"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "file": "vendored/docling/md/mixed.md.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Title",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "vendored/docling/md/mixed.md.md",
+      "source_index": 0,
+      "source_uri": "vendored/docling/md/mixed.md.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Character",
+          "Name in German",
+          "Name in French",
+          "Name in Italian"
+        ],
+        [
+          "Scrooge McDuck",
+          "Dagobert Duck",
+          "Balthazar Picsou",
+          "Paperone"
+        ],
+        [
+          "Huey",
+          "Tick",
+          "Riri",
+          "Qui"
+        ],
+        [
+          "Dewey",
+          "Trick",
+          "Fifi",
+          "Quo"
+        ],
+        [
+          "Louie",
+          "Track",
+          "Loulou",
+          "Qua"
+        ]
+      ],
+      "markdown": "| Character | Name in German | Name in French | Name in Italian |\n| --- | --- | --- | --- |\n| Scrooge McDuck | Dagobert Duck | Balthazar Picsou | Paperone |\n| Huey | Tick | Riri | Qui |\n| Dewey | Trick | Fifi | Quo |\n| Louie | Track | Loulou | Qua |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Title</h1>\n<p>Some text</p>\n<h2>Famous ducks</h2>\n<p>Here is a table:</p>\n<table>\n<thead>\n<tr>\n<th>Character</th>\n<th>Name in German</th>\n<th>Name in French</th>\n<th>Name in Italian</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Scrooge McDuck</td>\n<td>Dagobert Duck</td>\n<td>Balthazar Picsou</td>\n<td>Paperone</td>\n</tr>\n<tr>\n<td>Huey</td>\n<td>Tick</td>\n<td>Riri</td>\n<td>Qui</td>\n</tr>\n<tr>\n<td>Dewey</td>\n<td>Trick</td>\n<td>Fifi</td>\n<td>Quo</td>\n</tr>\n<tr>\n<td>Louie</td>\n<td>Track</td>\n<td>Loulou</td>\n<td>Qua</td>\n</tr>\n</tbody>\n</table>\n<p>And here is more HTML:</p>\n<p>Some paragraph.</p>\n<p>Now a div - almost there...</p>\n<ul>\n<li>foo</li>\n<li>bar</li>\n</ul>\n<p>The end!</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Title\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Some text\"},{\"type\":\"section\",\"heading\":\"Famous ducks\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Here is a table:\"},{\"type\":\"table\",\"headers\":[\"Character\",\"Name in German\",\"Name in French\",\"Name in Italian\"],\"rows\":[[\"Scrooge McDuck\",\"Dagobert Duck\",\"Balthazar Picsou\",\"Paperone\"],[\"Huey\",\"Tick\",\"Riri\",\"Qui\"],[\"Dewey\",\"Trick\",\"Fifi\",\"Quo\"],[\"Louie\",\"Track\",\"Loulou\",\"Qua\"]]},{\"type\":\"paragraph\",\"text\":\"And here is more HTML:\"},{\"type\":\"paragraph\",\"text\":\"Some paragraph.\"},{\"type\":\"paragraph\",\"text\":\"Now a div - almost there...\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"foo\",\"bar\"]},{\"type\":\"paragraph\",\"text\":\"The end!\"}]}]}]}",
+    "markdown": "# Title\n\nSome text\n\n## Famous ducks\n\nHere is a table:\n\n| Character | Name in German | Name in French | Name in Italian |\n| --- | --- | --- | --- |\n| Scrooge McDuck | Dagobert Duck | Balthazar Picsou | Paperone |\n| Huey | Tick | Riri | Qui |\n| Dewey | Trick | Fifi | Quo |\n| Louie | Track | Loulou | Qua |\n\nAnd here is more HTML:\n\nSome paragraph.\n\nNow a div - almost there...\n\n- foo\n- bar\n\nThe end\\!\n",
+    "plain": "Title\nSome text\n\n  Famous ducks\nHere is a table:\n\nCharacter Name in German Name in French Name in Italian\nScrooge McDuck Dagobert Duck Balthazar Picsou Paperone\nHuey Tick Riri Qui\nDewey Trick Fifi Quo\nLouie Track Loulou Qua\n\nAnd here is more HTML:\n\nSome paragraph.\n\nNow a div - almost there...\n\nfoo\nbar\nThe end!"
+  }
+}

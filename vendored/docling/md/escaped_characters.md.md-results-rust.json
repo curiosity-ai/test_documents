@@ -1,0 +1,58 @@
+{
+  "file": "vendored/docling/md/escaped_characters.md.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Headers:",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/docling/md/escaped_characters.md.md",
+      "source_kind": "uri",
+      "source_uri": "vendored/docling/md/escaped_characters.md.md",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Key",
+          "Example"
+        ],
+        [
+          "Ampersand",
+          "&"
+        ],
+        [
+          "Less-than",
+          "<"
+        ],
+        [
+          "Greater-than",
+          ">"
+        ],
+        [
+          "Quotes",
+          "\""
+        ],
+        [
+          "Apostrophes",
+          "'"
+        ],
+        [
+          "Pipe",
+          "| | |"
+        ]
+      ],
+      "markdown": "| Key | Example |\n| --- | --- |\n| Ampersand | & |\n| Less-than | < |\n| Greater-than | > |\n| Quotes | \" |\n| Apostrophes | ' |\n| Pipe | | | | |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Headers:</h1>\n<h2>&amp; &lt; &gt; &quot; '</h2>\n<p>Text: 00:16.000 ----&gt; 00:18.000 &amp; &lt; &gt; &quot; '</p>\n<h1>Lists</h1>\n<ol>\n<li>&amp; &lt; &gt; &quot; '</li>\n</ol>\n<ul>\n<li>&amp; &lt; &gt; &quot; '</li>\n</ul>\n<h1>Inline code</h1>\n<pre><code>&amp; &lt; &gt; &quot; '</code></pre>\n<h1>Code block</h1>\n<pre><code>&amp; &lt; &gt; &quot; '</code></pre>\n<h1>Table</h1>\n<table>\n<thead>\n<tr>\n<th>Key</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Ampersand</td>\n<td>&amp;</td>\n</tr>\n<tr>\n<td>Less-than</td>\n<td>&lt;</td>\n</tr>\n<tr>\n<td>Greater-than</td>\n<td>&gt;</td>\n</tr>\n<tr>\n<td>Quotes</td>\n<td>&quot;</td>\n</tr>\n<tr>\n<td>Apostrophes</td>\n<td>'</td>\n</tr>\n<tr>\n<td>Pipe</td>\n<td>| | |</td>\n</tr>\n</tbody>\n</table>\n<p>The pipe symbol (| or <code>|</code> ) only needs to be escaped in tables.</p>\n<h1>Raw HTML</h1>\n<p>&amp; &lt; &gt; &quot; '/div&gt;</p>\n<h2>Link</h2>\n<p><a href=\"https://en.wikipedia.org/wiki/Albert_Einstein\">&amp; &lt; &gt; &quot; '</a></p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Headers:\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"& < > \\\" '\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Text: 00:16.000 ----> 00:18.000 & < > \\\" '\"}]}]},{\"type\":\"section\",\"heading\":\"Lists\",\"level\":1,\"body\":[{\"type\":\"list\",\"ordered\":true,\"items\":[\"& < > \\\" '\"]},{\"type\":\"list\",\"ordered\":false,\"items\":[\"& < > \\\" '\"]}]},{\"type\":\"section\",\"heading\":\"Inline code\",\"level\":1,\"body\":[{\"type\":\"code\",\"text\":\"& < > \\\" '\"}]},{\"type\":\"section\",\"heading\":\"Code block\",\"level\":1,\"body\":[{\"type\":\"code\",\"text\":\"& < > \\\" '\"}]},{\"type\":\"section\",\"heading\":\"Table\",\"level\":1,\"body\":[{\"type\":\"table\",\"headers\":[\"Key\",\"Example\"],\"rows\":[[\"Ampersand\",\"&\"],[\"Less-than\",\"<\"],[\"Greater-than\",\">\"],[\"Quotes\",\"\\\"\"],[\"Apostrophes\",\"'\"],[\"Pipe\",\"| | |\"]]},{\"type\":\"paragraph\",\"text\":\"The pipe symbol (| or | ) only needs to be escaped in tables.\"}]},{\"type\":\"section\",\"heading\":\"Raw HTML\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"& < > \\\" '/div>\"},{\"type\":\"section\",\"heading\":\"Link\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"& < > \\\" '\"}]}]}]}",
+    "markdown": "# Headers:\n\n## & \\< \\> \" '\n\nText: 00:16.000 ----\\> 00:18.000 & \\< \\> \" '\n\n# Lists\n\n1. & \\< \\> \" '\n\n- & \\< \\> \" '\n\n# Inline code\n\n```\n& < > \" '\n```\n\n# Code block\n\n```\n& < > \" '\n```\n\n# Table\n\n| Key | Example |\n| --- | --- |\n| Ampersand | & |\n| Less-than | \\< |\n| Greater-than | \\> |\n| Quotes | \" |\n| Apostrophes | ' |\n| Pipe | \\| \\| \\| |\n\nThe pipe symbol (| or `|` ) only needs to be escaped in tables.\n\n# Raw HTML\n\n& \\< \\> \" '/div\\>\n\n## Link\n\n[& \\< \\> \" '](https://en.wikipedia.org/wiki/Albert_Einstein)\n",
+    "plain": "Headers:\n  & < > \" '\nText: 00:16.000 ----> 00:18.000 & < > \" '\n\nLists\n& < > \" '\n& < > \" '\n\nInline code\n& < > \" '\n\nCode block\n& < > \" '\n\nTable\nKey Example\nAmpersand &\nLess-than <\nGreater-than >\nQuotes \"\nApostrophes '\nPipe | | |\n\nThe pipe symbol (| or | ) only needs to be escaped in tables.\n\nRaw HTML\n& < > \" '/div>\n\n  Link\n& < > \" '"
+  }
+}

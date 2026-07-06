@@ -1,0 +1,36 @@
+{
+  "file": "vendored/unstructured/eml/mime-html-only.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Example HTML Only MIME Email",
+    "created_at": "Tue, 01 Oct 2024 12:34:56 -0500",
+    "format": {
+      "format_type": "email",
+      "from_email": "sender@example.com",
+      "to_emails": [
+        "recipient@example.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "attachments": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "content_type": "text/html; charset=\"ISO-8859-1\"",
+      "mime_version": "1.0",
+      "source_uri": "vendored/unstructured/eml/mime-html-only.eml",
+      "source_index": 0,
+      "final_uri": "vendored/unstructured/eml/mime-html-only.eml",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Example HTML Only MIME Email</p>\n<p><strong>From</strong>: sender@example.com</p>\n<p><strong>To</strong>: recipient@example.com</p>\n<p><strong>Date</strong>: Tue, 01 Oct 2024 12:34:56 -0500</p>\n<p>This is a text/html part.</p>\n<p>The first emoticon, :) , was proposed by Scott Fahlman in 1982 to indicate just or sarcasm in text emails.</p>\n<p>Gmail was launched by Google in 2004 with 1 GB of free storage, significantly more than what other services offered at the time.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a text/html part.\"},{\"type\":\"paragraph\",\"text\":\"The first emoticon, :) , was proposed by Scott Fahlman in 1982 to indicate just or sarcasm in text emails.\"},{\"type\":\"paragraph\",\"text\":\"Gmail was launched by Google in 2004 with 1 GB of free storage, significantly more than what other services offered at the time.\"}]}",
+    "markdown": "**Subject**: Example HTML Only MIME Email\n\n**From**: sender@example.com\n\n**To**: recipient@example.com\n\n**Date**: Tue, 01 Oct 2024 12:34:56 -0500\n\nThis is a text/html part.\n\nThe first emoticon, :) , was proposed by Scott Fahlman in 1982 to indicate just or sarcasm in text emails.\n\nGmail was launched by Google in 2004 with 1 GB of free storage, significantly more than what other services offered at the time.\n",
+    "plain": "Subject: Example HTML Only MIME Email\nFrom: sender@example.com\nTo: recipient@example.com\nDate: Tue, 01 Oct 2024 12:34:56 -0500\n\nThis is a text/html part.\n\nThe first emoticon, :) , was proposed by Scott Fahlman in 1982 to indicate just or sarcasm in text emails.\n\nGmail was launched by Google in 2004 with 1 GB of free storage, significantly more than what other services offered at the time."
+  }
+}

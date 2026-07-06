@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/table_03.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 13,
+      "word_count": 35,
+      "character_count": 568
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/html/table_03.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/html/table_03.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Header</p>\n<p>This is the first paragraph.</p>\n<p>+-----------------------------------+-----------------------------------+ | A | B | +-----------------------------------+-----------------------------------+ | - First item | 2... | | - Second item | | | - Third item | | +-----------------------------------+-----------------------------------+</p>\n<p>After table</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Header\"},{\"type\":\"paragraph\",\"text\":\"This is the first paragraph.\"},{\"type\":\"paragraph\",\"text\":\"+-----------------------------------+-----------------------------------+\\n| A                                 | B                                 |\\n+-----------------------------------+-----------------------------------+\\n| - First item                      | 2...                              |\\n| - Second item                     |                                   |\\n| - Third item                      |                                   |\\n+-----------------------------------+-----------------------------------+\"},{\"type\":\"paragraph\",\"text\":\"After table\"}]}",
+    "markdown": "Header\n\nThis is the first paragraph.\n\n\\+-----------------------------------+-----------------------------------+ | A | B | +-----------------------------------+-----------------------------------+ | - First item | 2... | | - Second item | | | - Third item | | +-----------------------------------+-----------------------------------+\n\nAfter table\n",
+    "plain": "Header\n\nThis is the first paragraph.\n\n+-----------------------------------+-----------------------------------+\n| A                                 | B                                 |\n+-----------------------------------+-----------------------------------+\n| - First item                      | 2...                              |\n| - Second item                     |                                   |\n| - Third item                      |                                   |\n+-----------------------------------+-----------------------------------+\n\nAfter table"
+  }
+}

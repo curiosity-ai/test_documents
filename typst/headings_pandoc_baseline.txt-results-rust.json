@@ -1,0 +1,28 @@
+{
+  "file": "typst/headings_pandoc_baseline.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 23,
+      "word_count": 48,
+      "character_count": 271
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "typst/headings_pandoc_baseline.txt",
+      "source_uri": "typst/headings_pandoc_baseline.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Level 1 Heading</p>\n<p>Content under level 1.</p>\n<p>## Level 2 Heading</p>\n<p>Content under level 2.</p>\n<p>### Level 3 Heading</p>\n<p>Content under level 3.</p>\n<p>#### Level 4 Heading</p>\n<p>Content under level 4.</p>\n<p>##### Level 5 Heading</p>\n<p>Content under level 5.</p>\n<p>###### Level 6 Heading</p>\n<p>Content under level 6.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Level 1 Heading\"},{\"type\":\"paragraph\",\"text\":\"Content under level 1.\"},{\"type\":\"paragraph\",\"text\":\"## Level 2 Heading\"},{\"type\":\"paragraph\",\"text\":\"Content under level 2.\"},{\"type\":\"paragraph\",\"text\":\"### Level 3 Heading\"},{\"type\":\"paragraph\",\"text\":\"Content under level 3.\"},{\"type\":\"paragraph\",\"text\":\"#### Level 4 Heading\"},{\"type\":\"paragraph\",\"text\":\"Content under level 4.\"},{\"type\":\"paragraph\",\"text\":\"##### Level 5 Heading\"},{\"type\":\"paragraph\",\"text\":\"Content under level 5.\"},{\"type\":\"paragraph\",\"text\":\"###### Level 6 Heading\"},{\"type\":\"paragraph\",\"text\":\"Content under level 6.\"}]}",
+    "markdown": "\\# Level 1 Heading\n\nContent under level 1.\n\n\\#\\# Level 2 Heading\n\nContent under level 2.\n\n\\#\\#\\# Level 3 Heading\n\nContent under level 3.\n\n\\#\\#\\#\\# Level 4 Heading\n\nContent under level 4.\n\n\\#\\#\\#\\#\\# Level 5 Heading\n\nContent under level 5.\n\n\\#\\#\\#\\#\\#\\# Level 6 Heading\n\nContent under level 6.\n",
+    "plain": "# Level 1 Heading\n\nContent under level 1.\n\n## Level 2 Heading\n\nContent under level 2.\n\n### Level 3 Heading\n\nContent under level 3.\n\n#### Level 4 Heading\n\nContent under level 4.\n\n##### Level 5 Heading\n\nContent under level 5.\n\n###### Level 6 Heading\n\nContent under level 6."
+  }
+}

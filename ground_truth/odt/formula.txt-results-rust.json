@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/odt/formula.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 5,
+      "character_count": 21
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/odt/formula.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/odt/formula.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>E = m ⋅ c²</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"E = m ⋅ c²\"}]}",
+    "markdown": "E = m ⋅ c²\n",
+    "plain": "E = m ⋅ c²"
+  }
+}

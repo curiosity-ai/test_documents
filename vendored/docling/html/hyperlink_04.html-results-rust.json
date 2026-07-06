@@ -1,0 +1,41 @@
+{
+  "file": "vendored/docling/html/hyperlink_04.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "html",
+      "keywords": [],
+      "open_graph": {},
+      "twitter_card": {},
+      "meta_tags": {},
+      "headers": [],
+      "links": [
+        {
+          "href": "/start.html",
+          "text": "This is some text.",
+          "link_type": "internal",
+          "rel": [],
+          "attributes": []
+        }
+      ],
+      "images": [],
+      "structured_data": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "vendored/docling/html/hyperlink_04.html",
+      "source_uri": "vendored/docling/html/hyperlink_04.html",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>[This is some text.](/start.html) </p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"[This is some text.](/start.html)\\n\"}]}",
+    "markdown": "[This is some text.](/start.html)\n",
+    "plain": "\nThis is some text."
+  }
+}

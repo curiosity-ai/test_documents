@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/jpm/jpm_image.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 13,
+      "word_count": 16,
+      "character_count": 92
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/jpm/jpm_image.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/jpm/jpm_image.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>INVOICE</p>\n<p>Bill To</p>\n<p>John Doe</p>\n<p>123 Main St</p>\n<p>Anytown, USA 12345</p>\n<p>Invoice # 123</p>\n<p>Date: 2025-07-10</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"INVOICE\"},{\"type\":\"paragraph\",\"text\":\"Bill To\"},{\"type\":\"paragraph\",\"text\":\"John Doe\"},{\"type\":\"paragraph\",\"text\":\"123 Main St\"},{\"type\":\"paragraph\",\"text\":\"Anytown, USA 12345\"},{\"type\":\"paragraph\",\"text\":\"Invoice # 123\"},{\"type\":\"paragraph\",\"text\":\"Date: 2025-07-10\"}]}",
+    "markdown": "INVOICE\n\nBill To\n\nJohn Doe\n\n123 Main St\n\nAnytown, USA 12345\n\nInvoice \\# 123\n\nDate: 2025-07-10\n",
+    "plain": "INVOICE\n\nBill To\n\nJohn Doe\n\n123 Main St\n\nAnytown, USA 12345\n\nInvoice # 123\n\nDate: 2025-07-10"
+  }
+}

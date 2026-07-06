@@ -1,0 +1,27 @@
+{
+  "file": "hwpx/simple.hwpx",
+  "mime_type": "application/haansofthwpx",
+  "success": true,
+  "metadata": {
+    "title": "Test HWPX Document",
+    "authors": [
+      "Kreuzberg Tests"
+    ],
+    "document_version": "HWPX",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "hwpx/simple.hwpx",
+      "source_uri": "hwpx/simple.hwpx",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Hello from HWPX document.</p>\n<p>Second paragraph with more content.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Hello from HWPX document.\"},{\"type\":\"paragraph\",\"text\":\"Second paragraph with more content.\"}]}",
+    "markdown": "Hello from HWPX document.\n\nSecond paragraph with more content.\n",
+    "plain": "Hello from HWPX document.\n\nSecond paragraph with more content."
+  }
+}

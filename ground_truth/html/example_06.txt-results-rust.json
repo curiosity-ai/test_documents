@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/example_06.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 14,
+      "word_count": 45,
+      "character_count": 239
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/html/example_06.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/html/example_06.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>This is a div with text.</p>\n<p>This is another div with text.</p>\n<p>This is a regular paragraph.</p>\n<p>This is a third div with a new line.</p>\n<p>Heading for the details element</p>\n<p>Description of the details element.</p>\n<p>This is a fourth div with a bold paragraph.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a div with text.\"},{\"type\":\"paragraph\",\"text\":\"This is another div with text.\"},{\"type\":\"paragraph\",\"text\":\"This is a regular paragraph.\"},{\"type\":\"paragraph\",\"text\":\"This is a third div\\nwith a new line.\"},{\"type\":\"paragraph\",\"text\":\"Heading for the details element\"},{\"type\":\"paragraph\",\"text\":\"Description of the details element.\"},{\"type\":\"paragraph\",\"text\":\"This is a fourth div with a bold paragraph.\"}]}",
+    "markdown": "This is a div with text.\n\nThis is another div with text.\n\nThis is a regular paragraph.\n\nThis is a third div with a new line.\n\nHeading for the details element\n\nDescription of the details element.\n\nThis is a fourth div with a bold paragraph.\n",
+    "plain": "This is a div with text.\n\nThis is another div with text.\n\nThis is a regular paragraph.\n\nThis is a third div\nwith a new line.\n\nHeading for the details element\n\nDescription of the details element.\n\nThis is a fourth div with a bold paragraph."
+  }
+}

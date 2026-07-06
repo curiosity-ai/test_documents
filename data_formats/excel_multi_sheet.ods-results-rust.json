@@ -1,0 +1,77 @@
+{
+  "file": "data_formats/excel_multi_sheet.ods",
+  "mime_type": "application/vnd.oasis.opendocument.spreadsheet",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "excel",
+      "sheet_count": 2,
+      "sheet_names": [
+        "first_sheet",
+        "second_sheet"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "sheet_names": "first_sheet, second_sheet",
+      "final_uri": "data_formats/excel_multi_sheet.ods",
+      "source_index": 0,
+      "sheet_count": "2",
+      "source_kind": "uri",
+      "source_uri": "data_formats/excel_multi_sheet.ods"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Column 1",
+          "Column 2"
+        ],
+        [
+          "a",
+          "1"
+        ],
+        [
+          "b",
+          "2"
+        ],
+        [
+          "c",
+          "3"
+        ]
+      ],
+      "markdown": "| Column 1 | Column 2 |\n| --- | --- |\n| a | 1 |\n| b | 2 |\n| c | 3 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Product",
+          "Value"
+        ],
+        [
+          "Tomato",
+          "1"
+        ],
+        [
+          "Potato",
+          "1"
+        ],
+        [
+          "Beetroot",
+          "2"
+        ]
+      ],
+      "markdown": "| Product | Value |\n| --- | --- |\n| Tomato | 1 |\n| Potato | 1 |\n| Beetroot | 2 |\n",
+      "page_number": 2
+    }
+  ],
+  "content": {
+    "html": "<h2>first_sheet</h2>\n<table>\n<thead>\n<tr>\n<th>Column 1</th>\n<th>Column 2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>a</td>\n<td>1</td>\n</tr>\n<tr>\n<td>b</td>\n<td>2</td>\n</tr>\n<tr>\n<td>c</td>\n<td>3</td>\n</tr>\n</tbody>\n</table>\n<h2>second_sheet</h2>\n<table>\n<thead>\n<tr>\n<th>Product</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Tomato</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Potato</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Beetroot</td>\n<td>2</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"first_sheet\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Column 1\",\"Column 2\"],\"rows\":[[\"a\",\"1\"],[\"b\",\"2\"],[\"c\",\"3\"]]}]},{\"type\":\"section\",\"heading\":\"second_sheet\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Product\",\"Value\"],\"rows\":[[\"Tomato\",\"1\"],[\"Potato\",\"1\"],[\"Beetroot\",\"2\"]]}]}]}",
+    "markdown": "## first_sheet\n\n| Column 1 | Column 2 |\n| --- | --- |\n| a | 1 |\n| b | 2 |\n| c | 3 |\n\n## second_sheet\n\n| Product | Value |\n| --- | --- |\n| Tomato | 1 |\n| Potato | 1 |\n| Beetroot | 2 |\n",
+    "plain": "  first_sheet\nColumn 1 Column 2\na 1\nb 2\nc 3\n\n  second_sheet\nProduct Value\nTomato 1\nPotato 1\nBeetroot 2"
+  }
+}

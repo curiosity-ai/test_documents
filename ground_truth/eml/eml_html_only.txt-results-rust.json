@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/eml_html_only.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 12,
+      "word_count": 56,
+      "character_count": 381
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/eml/eml_html_only.txt",
+      "final_uri": "ground_truth/eml/eml_html_only.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: HTML Only Email From: html-sender@example.com To: html-recipient@example.com Date: Fri, 10 May 2024 16:45:00 +0000 Welcome to Our Service This email contains only HTML content. It includes: HTML entities: &lt;, &gt;, &amp;, &quot; Special characters: €, ©, ® Formatting: italic, bold The Rust implementation should clean this HTML and extract meaningful text. © 2024 Example Company</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: HTML Only Email\\nFrom: html-sender@example.com\\nTo: html-recipient@example.com\\nDate: Fri, 10 May 2024 16:45:00 +0000\\nWelcome to Our Service\\nThis email contains only HTML content.\\nIt includes:\\nHTML entities: <, >, &, \\\"\\nSpecial characters: €, ©, ®\\nFormatting: italic, bold\\nThe Rust implementation should clean this HTML and extract meaningful text.\\n© 2024 Example Company\"}]}",
+    "markdown": "Subject: HTML Only Email From: html-sender@example.com To: html-recipient@example.com Date: Fri, 10 May 2024 16:45:00 +0000 Welcome to Our Service This email contains only HTML content. It includes: HTML entities: \\<, \\>, &, \" Special characters: €, ©, ® Formatting: italic, bold The Rust implementation should clean this HTML and extract meaningful text. © 2024 Example Company\n",
+    "plain": "Subject: HTML Only Email\nFrom: html-sender@example.com\nTo: html-recipient@example.com\nDate: Fri, 10 May 2024 16:45:00 +0000\nWelcome to Our Service\nThis email contains only HTML content.\nIt includes:\nHTML entities: <, >, &, \"\nSpecial characters: €, ©, ®\nFormatting: italic, bold\nThe Rust implementation should clean this HTML and extract meaningful text.\n© 2024 Example Company"
+  }
+}

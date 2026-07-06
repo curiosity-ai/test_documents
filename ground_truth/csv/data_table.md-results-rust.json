@@ -1,0 +1,106 @@
+{
+  "file": "ground_truth/csv/data_table.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/csv/data_table.md",
+      "final_uri": "ground_truth/csv/data_table.md",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Name",
+          "Department",
+          "Salary",
+          "Start Date",
+          "Active"
+        ],
+        [
+          "Alice Johnson",
+          "Engineering",
+          "95000",
+          "2020-01-15",
+          "true"
+        ],
+        [
+          "Bob Smith",
+          "Marketing",
+          "75000",
+          "2019-06-01",
+          "true"
+        ],
+        [
+          "Carol White",
+          "Sales",
+          "82000",
+          "2021-03-10",
+          "false"
+        ],
+        [
+          "David Brown",
+          "Engineering",
+          "105000",
+          "2018-11-20",
+          "true"
+        ],
+        [
+          "Emily Chen",
+          "HR",
+          "70000",
+          "2022-02-28",
+          "true"
+        ],
+        [
+          "Frank Davis",
+          "Operations",
+          "88000",
+          "2020-07-15",
+          "false"
+        ],
+        [
+          "Grace Lee",
+          "Marketing",
+          "79000",
+          "2021-09-01",
+          "true"
+        ],
+        [
+          "Henry Wilson",
+          "Engineering",
+          "115000",
+          "2017-04-12",
+          "true"
+        ],
+        [
+          "Isabella Martinez",
+          "Sales",
+          "91000",
+          "2019-12-05",
+          "true"
+        ],
+        [
+          "Jack Thompson",
+          "HR",
+          "68000",
+          "2023-01-10",
+          "true"
+        ]
+      ],
+      "markdown": "| Name | Department | Salary | Start Date | Active |\n| --- | --- | --- | --- | --- |\n| Alice Johnson | Engineering | 95000 | 2020-01-15 | true |\n| Bob Smith | Marketing | 75000 | 2019-06-01 | true |\n| Carol White | Sales | 82000 | 2021-03-10 | false |\n| David Brown | Engineering | 105000 | 2018-11-20 | true |\n| Emily Chen | HR | 70000 | 2022-02-28 | true |\n| Frank Davis | Operations | 88000 | 2020-07-15 | false |\n| Grace Lee | Marketing | 79000 | 2021-09-01 | true |\n| Henry Wilson | Engineering | 115000 | 2017-04-12 | true |\n| Isabella Martinez | Sales | 91000 | 2019-12-05 | true |\n| Jack Thompson | HR | 68000 | 2023-01-10 | true |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Department</th>\n<th>Salary</th>\n<th>Start Date</th>\n<th>Active</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Alice Johnson</td>\n<td>Engineering</td>\n<td>95000</td>\n<td>2020-01-15</td>\n<td>true</td>\n</tr>\n<tr>\n<td>Bob Smith</td>\n<td>Marketing</td>\n<td>75000</td>\n<td>2019-06-01</td>\n<td>true</td>\n</tr>\n<tr>\n<td>Carol White</td>\n<td>Sales</td>\n<td>82000</td>\n<td>2021-03-10</td>\n<td>false</td>\n</tr>\n<tr>\n<td>David Brown</td>\n<td>Engineering</td>\n<td>105000</td>\n<td>2018-11-20</td>\n<td>true</td>\n</tr>\n<tr>\n<td>Emily Chen</td>\n<td>HR</td>\n<td>70000</td>\n<td>2022-02-28</td>\n<td>true</td>\n</tr>\n<tr>\n<td>Frank Davis</td>\n<td>Operations</td>\n<td>88000</td>\n<td>2020-07-15</td>\n<td>false</td>\n</tr>\n<tr>\n<td>Grace Lee</td>\n<td>Marketing</td>\n<td>79000</td>\n<td>2021-09-01</td>\n<td>true</td>\n</tr>\n<tr>\n<td>Henry Wilson</td>\n<td>Engineering</td>\n<td>115000</td>\n<td>2017-04-12</td>\n<td>true</td>\n</tr>\n<tr>\n<td>Isabella Martinez</td>\n<td>Sales</td>\n<td>91000</td>\n<td>2019-12-05</td>\n<td>true</td>\n</tr>\n<tr>\n<td>Jack Thompson</td>\n<td>HR</td>\n<td>68000</td>\n<td>2023-01-10</td>\n<td>true</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"Name\",\"Department\",\"Salary\",\"Start Date\",\"Active\"],\"rows\":[[\"Alice Johnson\",\"Engineering\",\"95000\",\"2020-01-15\",\"true\"],[\"Bob Smith\",\"Marketing\",\"75000\",\"2019-06-01\",\"true\"],[\"Carol White\",\"Sales\",\"82000\",\"2021-03-10\",\"false\"],[\"David Brown\",\"Engineering\",\"105000\",\"2018-11-20\",\"true\"],[\"Emily Chen\",\"HR\",\"70000\",\"2022-02-28\",\"true\"],[\"Frank Davis\",\"Operations\",\"88000\",\"2020-07-15\",\"false\"],[\"Grace Lee\",\"Marketing\",\"79000\",\"2021-09-01\",\"true\"],[\"Henry Wilson\",\"Engineering\",\"115000\",\"2017-04-12\",\"true\"],[\"Isabella Martinez\",\"Sales\",\"91000\",\"2019-12-05\",\"true\"],[\"Jack Thompson\",\"HR\",\"68000\",\"2023-01-10\",\"true\"]]}]}",
+    "markdown": "| Name | Department | Salary | Start Date | Active |\n| --- | --- | --- | --- | --- |\n| Alice Johnson | Engineering | 95000 | 2020-01-15 | true |\n| Bob Smith | Marketing | 75000 | 2019-06-01 | true |\n| Carol White | Sales | 82000 | 2021-03-10 | false |\n| David Brown | Engineering | 105000 | 2018-11-20 | true |\n| Emily Chen | HR | 70000 | 2022-02-28 | true |\n| Frank Davis | Operations | 88000 | 2020-07-15 | false |\n| Grace Lee | Marketing | 79000 | 2021-09-01 | true |\n| Henry Wilson | Engineering | 115000 | 2017-04-12 | true |\n| Isabella Martinez | Sales | 91000 | 2019-12-05 | true |\n| Jack Thompson | HR | 68000 | 2023-01-10 | true |\n",
+    "plain": "Name Department Salary Start Date Active\nAlice Johnson Engineering 95000 2020-01-15 true\nBob Smith Marketing 75000 2019-06-01 true\nCarol White Sales 82000 2021-03-10 false\nDavid Brown Engineering 105000 2018-11-20 true\nEmily Chen HR 70000 2022-02-28 true\nFrank Davis Operations 88000 2020-07-15 false\nGrace Lee Marketing 79000 2021-09-01 true\nHenry Wilson Engineering 115000 2017-04-12 true\nIsabella Martinez Sales 91000 2019-12-05 true\nJack Thompson HR 68000 2023-01-10 true"
+  }
+}

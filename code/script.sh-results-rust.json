@@ -1,0 +1,12 @@
+{
+  "file": "code/script.sh",
+  "mime_type": "application/x-sh",
+  "success": false,
+  "error": "Unsupported format: application/x-sh",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

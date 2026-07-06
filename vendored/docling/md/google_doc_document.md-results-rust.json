@@ -1,0 +1,69 @@
+{
+  "file": "vendored/docling/md/google_doc_document.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/docling/md/google_doc_document.md",
+      "source_index": 0,
+      "final_uri": "vendored/docling/md/google_doc_document.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          "Indonesia 󰏙",
+          "Germany 󰎲",
+          "Austria 󰎈",
+          "France",
+          "Vatican 󰑗"
+        ],
+        [
+          "Continent Asia",
+          "Europe",
+          "Europe",
+          "Europe",
+          "Europe",
+          "Europe"
+        ],
+        [
+          "Capital",
+          "Jakarta",
+          "Berlin",
+          "Vienna",
+          "Paris",
+          "Vatican City"
+        ],
+        [
+          "Currency Rupia",
+          "",
+          "EUR (€)",
+          "EUR (€)",
+          "EUR (€)",
+          "-"
+        ],
+        [
+          "Population 273.879.750",
+          "1 83,190,556 2",
+          "8,935,112 3",
+          "67,413,000",
+          "453",
+          ""
+        ]
+      ],
+      "markdown": "|  | Indonesia 󰏙 | Germany 󰎲 | Austria 󰎈 | France | Vatican 󰑗 |\n| --- | --- | --- | --- | --- | --- |\n| Continent Asia | Europe | Europe | Europe | Europe | Europe |\n| Capital | Jakarta | Berlin | Vienna | Paris | Vatican City |\n| Currency Rupia |  | EUR (€) | EUR (€) | EUR (€) | - |\n| Population 273.879.750 | 1 83,190,556 2 | 8,935,112 3 | 67,413,000 | 453 |  |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h2>Example document</h2>\n<p>Beautiful is better than ugly.</p>\n<p>Explicit is better than implicit.</p>\n<p>Simple is better than complex.</p>\n<p>Complex is better than complicated.</p>\n<p>Flat is better than nested.</p>\n<p>Sparse is better than dense.</p>\n<p>Readability counts.</p>\n<p>Special cases aren't special enough to break the rules.</p>\n<p>Although practicality beats purity.</p>\n<p>Errors should never pass silently.</p>\n<p>Unless explicitly silenced.</p>\n<p>In the face of ambiguity, refuse the temptation to guess.</p>\n<p>There should be one-- and preferably only one --obvious way to do it.</p>\n<p>Although that way may not be obvious at first unless you're Dutch.</p>\n<p>Now is better than never.</p>\n<p>Although never is often better than _ right _ now.</p>\n<p>If the implementation is hard to explain, it's a bad idea.</p>\n<p>If the implementation is easy to explain, it may be a good idea.</p>\n<p>Namespaces are one honking great idea -- let's do more of those!</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Indonesia 󰏙</th>\n<th>Germany 󰎲</th>\n<th>Austria 󰎈</th>\n<th>France</th>\n<th>Vatican 󰑗</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Continent Asia</td>\n<td>Europe</td>\n<td>Europe</td>\n<td>Europe</td>\n<td>Europe</td>\n<td>Europe</td>\n</tr>\n<tr>\n<td>Capital</td>\n<td>Jakarta</td>\n<td>Berlin</td>\n<td>Vienna</td>\n<td>Paris</td>\n<td>Vatican City</td>\n</tr>\n<tr>\n<td>Currency Rupia</td>\n<td></td>\n<td>EUR (€)</td>\n<td>EUR (€)</td>\n<td>EUR (€)</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Population 273.879.750</td>\n<td>1 83,190,556 2</td>\n<td>8,935,112 3</td>\n<td>67,413,000</td>\n<td>453</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Example document\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Beautiful is better than ugly.\"},{\"type\":\"paragraph\",\"text\":\"Explicit is better than implicit.\"},{\"type\":\"paragraph\",\"text\":\"Simple is better than complex.\"},{\"type\":\"paragraph\",\"text\":\"Complex is better than complicated.\"},{\"type\":\"paragraph\",\"text\":\"Flat is better than nested.\"},{\"type\":\"paragraph\",\"text\":\"Sparse is better than dense.\"},{\"type\":\"paragraph\",\"text\":\"Readability counts.\"},{\"type\":\"paragraph\",\"text\":\"Special cases aren't special enough to break the rules.\"},{\"type\":\"paragraph\",\"text\":\"Although practicality beats purity.\"},{\"type\":\"paragraph\",\"text\":\"Errors should never pass silently.\"},{\"type\":\"paragraph\",\"text\":\"Unless explicitly silenced.\"},{\"type\":\"paragraph\",\"text\":\"In the face of ambiguity, refuse the temptation to guess.\"},{\"type\":\"paragraph\",\"text\":\"There should be one-- and preferably only one --obvious way to do it.\"},{\"type\":\"paragraph\",\"text\":\"Although that way may not be obvious at first unless you're Dutch.\"},{\"type\":\"paragraph\",\"text\":\"Now is better than never.\"},{\"type\":\"paragraph\",\"text\":\"Although never is often better than _ right _ now.\"},{\"type\":\"paragraph\",\"text\":\"If the implementation is hard to explain, it's a bad idea.\"},{\"type\":\"paragraph\",\"text\":\"If the implementation is easy to explain, it may be a good idea.\"},{\"type\":\"paragraph\",\"text\":\"Namespaces are one honking great idea -- let's do more of those!\"},{\"type\":\"table\",\"headers\":[\"\",\"Indonesia 󰏙\",\"Germany 󰎲\",\"Austria 󰎈\",\"France\",\"Vatican 󰑗\"],\"rows\":[[\"Continent Asia\",\"Europe\",\"Europe\",\"Europe\",\"Europe\",\"Europe\"],[\"Capital\",\"Jakarta\",\"Berlin\",\"Vienna\",\"Paris\",\"Vatican City\"],[\"Currency Rupia\",\"\",\"EUR (€)\",\"EUR (€)\",\"EUR (€)\",\"-\"],[\"Population 273.879.750\",\"1 83,190,556 2\",\"8,935,112 3\",\"67,413,000\",\"453\",\"\"]]}]}]}",
+    "markdown": "## Example document\n\nBeautiful is better than ugly.\n\nExplicit is better than implicit.\n\nSimple is better than complex.\n\nComplex is better than complicated.\n\nFlat is better than nested.\n\nSparse is better than dense.\n\nReadability counts.\n\nSpecial cases aren't special enough to break the rules.\n\nAlthough practicality beats purity.\n\nErrors should never pass silently.\n\nUnless explicitly silenced.\n\nIn the face of ambiguity, refuse the temptation to guess.\n\nThere should be one-- and preferably only one --obvious way to do it.\n\nAlthough that way may not be obvious at first unless you're Dutch.\n\nNow is better than never.\n\nAlthough never is often better than _ right _ now.\n\nIf the implementation is hard to explain, it's a bad idea.\n\nIf the implementation is easy to explain, it may be a good idea.\n\nNamespaces are one honking great idea -- let's do more of those\\!\n\n|  | Indonesia 󰏙 | Germany 󰎲 | Austria 󰎈 | France | Vatican 󰑗 |\n| --- | --- | --- | --- | --- | --- |\n| Continent Asia | Europe | Europe | Europe | Europe | Europe |\n| Capital | Jakarta | Berlin | Vienna | Paris | Vatican City |\n| Currency Rupia |  | EUR (€) | EUR (€) | EUR (€) | - |\n| Population 273.879.750 | 1 83,190,556 2 | 8,935,112 3 | 67,413,000 | 453 |  |\n",
+    "plain": "  Example document\nBeautiful is better than ugly.\n\nExplicit is better than implicit.\n\nSimple is better than complex.\n\nComplex is better than complicated.\n\nFlat is better than nested.\n\nSparse is better than dense.\n\nReadability counts.\n\nSpecial cases aren't special enough to break the rules.\n\nAlthough practicality beats purity.\n\nErrors should never pass silently.\n\nUnless explicitly silenced.\n\nIn the face of ambiguity, refuse the temptation to guess.\n\nThere should be one-- and preferably only one --obvious way to do it.\n\nAlthough that way may not be obvious at first unless you're Dutch.\n\nNow is better than never.\n\nAlthough never is often better than _ right _ now.\n\nIf the implementation is hard to explain, it's a bad idea.\n\nIf the implementation is easy to explain, it may be a good idea.\n\nNamespaces are one honking great idea -- let's do more of those!\n\n Indonesia 󰏙 Germany 󰎲 Austria 󰎈 France Vatican 󰑗\nContinent Asia Europe Europe Europe Europe Europe\nCapital Jakarta Berlin Vienna Paris Vatican City\nCurrency Rupia  EUR (€) EUR (€) EUR (€) -\nPopulation 273.879.750 1 83,190,556 2 8,935,112 3 67,413,000 453"
+  }
+}

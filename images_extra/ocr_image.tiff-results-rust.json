@@ -1,0 +1,12 @@
+{
+  "file": "images_extra/ocr_image.tiff",
+  "mime_type": "image/tiff",
+  "success": false,
+  "error": "Unsupported format: image/tiff",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

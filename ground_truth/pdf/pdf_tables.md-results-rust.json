@@ -1,0 +1,49 @@
+{
+  "file": "ground_truth/pdf/pdf_tables.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/pdf/pdf_tables.md",
+      "source_index": 0,
+      "source_uri": "ground_truth/pdf/pdf_tables.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Name",
+          "Celsius",
+          "Fahrenheit"
+        ],
+        [
+          "Water Freezing Point",
+          "0",
+          "32"
+        ],
+        [
+          "Water Boiling Point",
+          "100",
+          "212"
+        ],
+        [
+          "Body Temperature",
+          "37",
+          "98.6"
+        ]
+      ],
+      "markdown": "| Name | Celsius | Fahrenheit |\n| --- | --- | --- |\n| Water Freezing Point | 0 | 32 |\n| Water Boiling Point | 100 | 212 |\n| Body Temperature | 37 | 98.6 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>Simple document Lorem ipsum dolor sit amet, consectetur adipiscing elit Table 1. Selected Numbers</p>\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Celsius</th>\n<th>Fahrenheit</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Water Freezing Point</td>\n<td>0</td>\n<td>32</td>\n</tr>\n<tr>\n<td>Water Boiling Point</td>\n<td>100</td>\n<td>212</td>\n</tr>\n<tr>\n<td>Body Temperature</td>\n<td>37</td>\n<td>98.6</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Simple document Lorem ipsum dolor sit amet, consectetur adipiscing elit Table 1. Selected Numbers\"},{\"type\":\"table\",\"headers\":[\"Name\",\"Celsius\",\"Fahrenheit\"],\"rows\":[[\"Water Freezing Point\",\"0\",\"32\"],[\"Water Boiling Point\",\"100\",\"212\"],[\"Body Temperature\",\"37\",\"98.6\"]]}]}",
+    "markdown": "Simple document Lorem ipsum dolor sit amet, consectetur adipiscing elit Table 1. Selected Numbers\n\n| Name | Celsius | Fahrenheit |\n| --- | --- | --- |\n| Water Freezing Point | 0 | 32 |\n| Water Boiling Point | 100 | 212 |\n| Body Temperature | 37 | 98.6 |\n",
+    "plain": "Simple document Lorem ipsum dolor sit amet, consectetur adipiscing elit Table 1. Selected Numbers\n\nName Celsius Fahrenheit\nWater Freezing Point 0 32\nWater Boiling Point 100 212\nBody Temperature 37 98.6"
+  }
+}

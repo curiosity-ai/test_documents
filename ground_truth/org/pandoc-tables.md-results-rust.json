@@ -1,0 +1,215 @@
+{
+  "file": "ground_truth/org/pandoc-tables.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/org/pandoc-tables.md",
+      "final_uri": "ground_truth/org/pandoc-tables.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Right",
+          "Left",
+          "Center",
+          "Default"
+        ],
+        [
+          "12",
+          "12",
+          "12",
+          "12"
+        ],
+        [
+          "123",
+          "123",
+          "123",
+          "123"
+        ],
+        [
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      ],
+      "markdown": "| Right | Left | Center | Default |\n| --- | --- | --- | --- |\n| 12 | 12 | 12 | 12 |\n| 123 | 123 | 123 | 123 |\n| 1 | 1 | 1 | 1 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Right",
+          "Left",
+          "Center",
+          "Default"
+        ],
+        [
+          "12",
+          "12",
+          "12",
+          "12"
+        ],
+        [
+          "123",
+          "123",
+          "123",
+          "123"
+        ],
+        [
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      ],
+      "markdown": "| Right | Left | Center | Default |\n| --- | --- | --- | --- |\n| 12 | 12 | 12 | 12 |\n| 123 | 123 | 123 | 123 |\n| 1 | 1 | 1 | 1 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Right",
+          "Left",
+          "Center",
+          "Default"
+        ],
+        [
+          "12",
+          "12",
+          "12",
+          "12"
+        ],
+        [
+          "123",
+          "123",
+          "123",
+          "123"
+        ],
+        [
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      ],
+      "markdown": "| Right | Left | Center | Default |\n| --- | --- | --- | --- |\n| 12 | 12 | 12 | 12 |\n| 123 | 123 | 123 | 123 |\n| 1 | 1 | 1 | 1 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Centered Header",
+          "Left Aligned",
+          "Right Aligned",
+          "Default aligned"
+        ],
+        [
+          "First",
+          "row",
+          "12.0",
+          "Example of a row that spans multiple lines."
+        ],
+        [
+          "Second",
+          "row",
+          "5.0",
+          "Here's another one. Note the blank line between rows."
+        ]
+      ],
+      "markdown": "| Centered Header | Left Aligned | Right Aligned | Default aligned |\n| --- | --- | --- | --- |\n| First | row | 12.0 | Example of a row that spans multiple lines. |\n| Second | row | 5.0 | Here's another one. Note the blank line between rows. |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Centered Header",
+          "Left Aligned",
+          "Right Aligned",
+          "Default aligned"
+        ],
+        [
+          "First",
+          "row",
+          "12.0",
+          "Example of a row that spans multiple lines."
+        ],
+        [
+          "Second",
+          "row",
+          "5.0",
+          "Here's another one. Note the blank line between rows."
+        ]
+      ],
+      "markdown": "| Centered Header | Left Aligned | Right Aligned | Default aligned |\n| --- | --- | --- | --- |\n| First | row | 12.0 | Example of a row that spans multiple lines. |\n| Second | row | 5.0 | Here's another one. Note the blank line between rows. |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "12",
+          "12",
+          "12",
+          "12"
+        ],
+        [
+          "123",
+          "123",
+          "123",
+          "123"
+        ],
+        [
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      ],
+      "markdown": "|  |  |  |  |\n| --- | --- | --- | --- |\n| 12 | 12 | 12 | 12 |\n| 123 | 123 | 123 | 123 |\n| 1 | 1 | 1 | 1 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "First",
+          "row",
+          "12.0",
+          "Example of a row that spans multiple lines."
+        ],
+        [
+          "Second",
+          "row",
+          "5.0",
+          "Here's another one. Note the blank line between rows."
+        ]
+      ],
+      "markdown": "|  |  |  |  |\n| --- | --- | --- | --- |\n| First | row | 12.0 | Example of a row that spans multiple lines. |\n| Second | row | 5.0 | Here's another one. Note the blank line between rows. |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>Simple table with caption:</p>\n<table>\n<thead>\n<tr>\n<th>Right</th>\n<th>Left</th>\n<th>Center</th>\n<th>Default</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>12</td>\n<td>12</td>\n<td>12</td>\n<td>12</td>\n</tr>\n<tr>\n<td>123</td>\n<td>123</td>\n<td>123</td>\n<td>123</td>\n</tr>\n<tr>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n<p>Simple table without caption:</p>\n<table>\n<thead>\n<tr>\n<th>Right</th>\n<th>Left</th>\n<th>Center</th>\n<th>Default</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>12</td>\n<td>12</td>\n<td>12</td>\n<td>12</td>\n</tr>\n<tr>\n<td>123</td>\n<td>123</td>\n<td>123</td>\n<td>123</td>\n</tr>\n<tr>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n<p>Simple table indented two spaces:</p>\n<table>\n<thead>\n<tr>\n<th>Right</th>\n<th>Left</th>\n<th>Center</th>\n<th>Default</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>12</td>\n<td>12</td>\n<td>12</td>\n<td>12</td>\n</tr>\n<tr>\n<td>123</td>\n<td>123</td>\n<td>123</td>\n<td>123</td>\n</tr>\n<tr>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n<p>Multiline table with caption:</p>\n<table>\n<thead>\n<tr>\n<th>Centered Header</th>\n<th>Left Aligned</th>\n<th>Right Aligned</th>\n<th>Default aligned</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>First</td>\n<td>row</td>\n<td>12.0</td>\n<td>Example of a row that spans multiple lines.</td>\n</tr>\n<tr>\n<td>Second</td>\n<td>row</td>\n<td>5.0</td>\n<td>Here's another one. Note the blank line between rows.</td>\n</tr>\n</tbody>\n</table>\n<p>Multiline table without caption:</p>\n<table>\n<thead>\n<tr>\n<th>Centered Header</th>\n<th>Left Aligned</th>\n<th>Right Aligned</th>\n<th>Default aligned</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>First</td>\n<td>row</td>\n<td>12.0</td>\n<td>Example of a row that spans multiple lines.</td>\n</tr>\n<tr>\n<td>Second</td>\n<td>row</td>\n<td>5.0</td>\n<td>Here's another one. Note the blank line between rows.</td>\n</tr>\n</tbody>\n</table>\n<p>Table without column headers:</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>12</td>\n<td>12</td>\n<td>12</td>\n<td>12</td>\n</tr>\n<tr>\n<td>123</td>\n<td>123</td>\n<td>123</td>\n<td>123</td>\n</tr>\n<tr>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n<p>Multiline table without column headers:</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>First</td>\n<td>row</td>\n<td>12.0</td>\n<td>Example of a row that spans multiple lines.</td>\n</tr>\n<tr>\n<td>Second</td>\n<td>row</td>\n<td>5.0</td>\n<td>Here's another one. Note the blank line between rows.</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Simple table with caption:\"},{\"type\":\"table\",\"headers\":[\"Right\",\"Left\",\"Center\",\"Default\"],\"rows\":[[\"12\",\"12\",\"12\",\"12\"],[\"123\",\"123\",\"123\",\"123\"],[\"1\",\"1\",\"1\",\"1\"]]},{\"type\":\"paragraph\",\"text\":\"Simple table without caption:\"},{\"type\":\"table\",\"headers\":[\"Right\",\"Left\",\"Center\",\"Default\"],\"rows\":[[\"12\",\"12\",\"12\",\"12\"],[\"123\",\"123\",\"123\",\"123\"],[\"1\",\"1\",\"1\",\"1\"]]},{\"type\":\"paragraph\",\"text\":\"Simple table indented two spaces:\"},{\"type\":\"table\",\"headers\":[\"Right\",\"Left\",\"Center\",\"Default\"],\"rows\":[[\"12\",\"12\",\"12\",\"12\"],[\"123\",\"123\",\"123\",\"123\"],[\"1\",\"1\",\"1\",\"1\"]]},{\"type\":\"paragraph\",\"text\":\"Multiline table with caption:\"},{\"type\":\"table\",\"headers\":[\"Centered Header\",\"Left Aligned\",\"Right Aligned\",\"Default aligned\"],\"rows\":[[\"First\",\"row\",\"12.0\",\"Example of a row that spans multiple lines.\"],[\"Second\",\"row\",\"5.0\",\"Here's another one. Note the blank line between rows.\"]]},{\"type\":\"paragraph\",\"text\":\"Multiline table without caption:\"},{\"type\":\"table\",\"headers\":[\"Centered Header\",\"Left Aligned\",\"Right Aligned\",\"Default aligned\"],\"rows\":[[\"First\",\"row\",\"12.0\",\"Example of a row that spans multiple lines.\"],[\"Second\",\"row\",\"5.0\",\"Here's another one. Note the blank line between rows.\"]]},{\"type\":\"paragraph\",\"text\":\"Table without column headers:\"},{\"type\":\"table\",\"headers\":[\"\",\"\",\"\",\"\"],\"rows\":[[\"12\",\"12\",\"12\",\"12\"],[\"123\",\"123\",\"123\",\"123\"],[\"1\",\"1\",\"1\",\"1\"]]},{\"type\":\"paragraph\",\"text\":\"Multiline table without column headers:\"},{\"type\":\"table\",\"headers\":[\"\",\"\",\"\",\"\"],\"rows\":[[\"First\",\"row\",\"12.0\",\"Example of a row that spans multiple lines.\"],[\"Second\",\"row\",\"5.0\",\"Here's another one. Note the blank line between rows.\"]]}]}",
+    "markdown": "Simple table with caption:\n\n| Right | Left | Center | Default |\n| --- | --- | --- | --- |\n| 12 | 12 | 12 | 12 |\n| 123 | 123 | 123 | 123 |\n| 1 | 1 | 1 | 1 |\n\nSimple table without caption:\n\n| Right | Left | Center | Default |\n| --- | --- | --- | --- |\n| 12 | 12 | 12 | 12 |\n| 123 | 123 | 123 | 123 |\n| 1 | 1 | 1 | 1 |\n\nSimple table indented two spaces:\n\n| Right | Left | Center | Default |\n| --- | --- | --- | --- |\n| 12 | 12 | 12 | 12 |\n| 123 | 123 | 123 | 123 |\n| 1 | 1 | 1 | 1 |\n\nMultiline table with caption:\n\n| Centered Header | Left Aligned | Right Aligned | Default aligned |\n| --- | --- | --- | --- |\n| First | row | 12.0 | Example of a row that spans multiple lines. |\n| Second | row | 5.0 | Here's another one. Note the blank line between rows. |\n\nMultiline table without caption:\n\n| Centered Header | Left Aligned | Right Aligned | Default aligned |\n| --- | --- | --- | --- |\n| First | row | 12.0 | Example of a row that spans multiple lines. |\n| Second | row | 5.0 | Here's another one. Note the blank line between rows. |\n\nTable without column headers:\n\n|  |  |  |  |\n| --- | --- | --- | --- |\n| 12 | 12 | 12 | 12 |\n| 123 | 123 | 123 | 123 |\n| 1 | 1 | 1 | 1 |\n\nMultiline table without column headers:\n\n|  |  |  |  |\n| --- | --- | --- | --- |\n| First | row | 12.0 | Example of a row that spans multiple lines. |\n| Second | row | 5.0 | Here's another one. Note the blank line between rows. |\n",
+    "plain": "Simple table with caption:\n\nRight Left Center Default\n12 12 12 12\n123 123 123 123\n1 1 1 1\n\nSimple table without caption:\n\nRight Left Center Default\n12 12 12 12\n123 123 123 123\n1 1 1 1\n\nSimple table indented two spaces:\n\nRight Left Center Default\n12 12 12 12\n123 123 123 123\n1 1 1 1\n\nMultiline table with caption:\n\nCentered Header Left Aligned Right Aligned Default aligned\nFirst row 12.0 Example of a row that spans multiple lines.\nSecond row 5.0 Here's another one. Note the blank line between rows.\n\nMultiline table without caption:\n\nCentered Header Left Aligned Right Aligned Default aligned\nFirst row 12.0 Example of a row that spans multiple lines.\nSecond row 5.0 Here's another one. Note the blank line between rows.\n\nTable without column headers:\n\n   \n12 12 12 12\n123 123 123 123\n1 1 1 1\n\nMultiline table without column headers:\n\n   \nFirst row 12.0 Example of a row that spans multiple lines.\nSecond row 5.0 Here's another one. Note the blank line between rows."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "file": "fictionbook/emphasis.fb2",
+  "mime_type": "application/x-fictionbook+xml",
+  "success": true,
+  "metadata": {
+    "title": "Test Document",
+    "format": {
+      "format_type": "fiction_book"
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "fictionbook/emphasis.fb2",
+      "source_uri": "fictionbook/emphasis.fb2",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Plain, <strong>strong</strong> , <em>emphasis</em> , <em><strong>strong emphasis</strong></em> , <strong><em>emphasized strong</em></strong> .</p>\n<p>Strikethrough: <del>deleted</del></p>\n<p>Subscript and superscript</p>\n<p>Some <code>code</code></p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Plain, strong , emphasis , strong emphasis , emphasized strong .\"},{\"type\":\"paragraph\",\"text\":\"Strikethrough: deleted\"},{\"type\":\"paragraph\",\"text\":\"Subscript  and superscript\"},{\"type\":\"paragraph\",\"text\":\"Some code\"}]}",
+    "markdown": "Plain, **strong** , *emphasis* , ***strong emphasis*** , ***emphasized strong*** .\n\nStrikethrough: ~~deleted~~\n\nSubscript and superscript\n\nSome `code`\n",
+    "plain": "Plain, strong , emphasis , strong emphasis , emphasized strong .\n\nStrikethrough: deleted\n\nSubscript  and superscript\n\nSome code"
+  }
+}

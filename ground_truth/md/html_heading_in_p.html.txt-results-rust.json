@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/html_heading_in_p.html.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 15,
+      "word_count": 52,
+      "character_count": 264
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/md/html_heading_in_p.html.txt",
+      "source_uri": "ground_truth/md/html_heading_in_p.html.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># 1</p>\n<p>1st paragraph</p>\n<p>| **2** | **3** | **4** | |---------|---------|---------| | 5 | 6 | 7 | | 8 | 9 | 10 | | 11 | 12 | 13 | | 14 | 15 | 16 | | 17 | 18 | 19 20 |</p>\n<p># 21</p>\n<p>2nd paragraph</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# 1\"},{\"type\":\"paragraph\",\"text\":\"1st paragraph\"},{\"type\":\"paragraph\",\"text\":\"|   **2** |   **3** | **4**   |\\n|---------|---------|---------|\\n|       5 |       6 | 7       |\\n|       8 |       9 | 10      |\\n|      11 |      12 | 13      |\\n|      14 |      15 | 16      |\\n|      17 |      18 | 19  20  |\"},{\"type\":\"paragraph\",\"text\":\"# 21\"},{\"type\":\"paragraph\",\"text\":\"2nd paragraph\"}]}",
+    "markdown": "\\# 1\n\n1st paragraph\n\n| **2** | **3** | **4** | |---------|---------|---------| | 5 | 6 | 7 | | 8 | 9 | 10 | | 11 | 12 | 13 | | 14 | 15 | 16 | | 17 | 18 | 19 20 |\n\n\\# 21\n\n2nd paragraph\n",
+    "plain": "# 1\n\n1st paragraph\n\n|   **2** |   **3** | **4**   |\n|---------|---------|---------|\n|       5 |       6 | 7       |\n|       8 |       9 | 10      |\n|      11 |      12 | 13      |\n|      14 |      15 | 16      |\n|      17 |      18 | 19  20  |\n\n# 21\n\n2nd paragraph"
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "file": "vendored/pdfplumber/pdf/la-precinct-bulletin-2014-p1.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "905_Precinct_NoOU",
+    "authors": [
+      "e516160"
+    ],
+    "created_at": "2016-02-28T17:45:01Z",
+    "modified_at": "2016-02-28T17:45:01Z",
+    "created_by": "PDFCreator Version 1.4.3",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "GPL Ghostscript 9.10",
+      "is_encrypted": false,
+      "width": 792,
+      "height": 612,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/pdfplumber/pdf/la-precinct-bulletin-2014-p1.pdf",
+      "source_index": 0,
+      "extraction_method": "native",
+      "source_uri": "vendored/pdfplumber/pdf/la-precinct-bulletin-2014-p1.pdf",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "GOVERNOR",
+          "AJ-SUPREME CT-G. LIU",
+          "AJ 2D APP DV8-L. RUBIN",
+          "STATE MEASURE 48"
+        ],
+        [
+          "VOTER NOMINATED",
+          "YES 90",
+          "YES 109",
+          "YES 96"
+        ],
+        [
+          "NEEL KASHKARI REP 247",
+          "NO 142",
+          "NO 105",
+          "NO 216"
+        ],
+        [
+          "EDMUND G BROWN DEM 69",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "A J-SUPREME CT-M. CUELLAR",
+          "AJ 2D APP DV8-M. FLIER",
+          "COUNTY MEASURE P"
+        ],
+        [
+          "LIEUTENANT GOVERNOR",
+          "YES 86",
+          "YES 98",
+          "YES 102"
+        ],
+        [
+          "VOTER NOMINATED",
+          "NO 148",
+          "NO 117",
+          "NO 200"
+        ],
+        [
+          "GAVIN NEWSOM DEM 64",
+          "",
+          "",
+          ""
+        ],
+        [
+          "RON NEHRING REP 247",
+          "AJ-SUPREME CT-WERDERGAR",
+          "JUDGE-SUPERIOR COURT #61",
+          "ANTELOPE VALLEY HEALTH BD"
+        ],
+        [
+          "",
+          "YES 121",
+          "JACQUELINE H LEWIS 64",
+          "MUKUND SHAH 159"
+        ],
+        [
+          "SECRETARY OF STATE",
+          "NO 108",
+          "DAYAN MATHAI 175",
+          "MICHAEL P RIVES 67"
+        ],
+        [
+          "VOTER NOMINATED",
+          "",
+          "",
+          "DON V PARAZO 104"
+        ],
+        [
+          "PETE PETERSON REP 248",
+          "PJ 2D APP DV1-ROTHSCHILD",
+          "JUDGE-SUPERIOR COURT #87",
+          "ROE LEER 39"
+        ],
+        [
+          "ALEX PADILLA DEM 64",
+          "YES 112",
+          "ANDREW M STEIN 51",
+          ""
+        ],
+        [
+          "",
+          "NO 115",
+          "TOM GRIEGO 180",
+          ""
+        ],
+        [
+          "CONTROLLER",
+          "",
+          "",
+          ""
+        ],
+        [
+          "VOTER NOMINATED",
+          "AJ 2D APP DV1-J. JOHNSON",
+          "SUPERINTENDENT PUBLIC INST",
+          ""
+        ],
+        [
+          "BETTY T YEE DEM 59",
+          "YES 145",
+          "MARSHALL TUCK 188",
+          ""
+        ],
+        [
+          "ASHLEY SWEARENGIN REP 249",
+          "NO 78",
+          "TOM TORLAKSON 88",
+          ""
+        ],
+        [
+          "TREASURER",
+          "AJ 2D APP DV2-B. HOFFSTADT",
+          "ASSESSOR",
+          ""
+        ],
+        [
+          "VOTER NOMINATED",
+          "YES 99",
+          "JEFFREY PRANG 104",
+          ""
+        ],
+        [
+          "GREG CONLON REP 240",
+          "NO 116",
+          "JOHN MORRIS 136",
+          ""
+        ],
+        [
+          "JOHN CHIANG DEM 69",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "PJ 2D APP DV3-L. EDMON",
+          "SHERIFF",
+          ""
+        ],
+        [
+          "ATTORNEY GENERAL",
+          "YES 106",
+          "JIM MCDONNELL 219",
+          ""
+        ],
+        [
+          "VOTER NOMINATED",
+          "NO 111",
+          "PAUL TANAKA 61",
+          ""
+        ],
+        [
+          "RONALD GOLD REP 245",
+          "",
+          "",
+          ""
+        ],
+        [
+          "KAMALA D HARRIS DEM 68",
+          "AJ 2D APP DV4-A. COLLINS",
+          "STATE MEASURE 1",
+          ""
+        ],
+        [
+          "",
+          "YES 103",
+          "YES 104",
+          ""
+        ],
+        [
+          "INSURANCE COMMISSIONER",
+          "NO 113",
+          "NO 214",
+          ""
+        ],
+        [
+          "VOTER NOMINATED",
+          "",
+          "",
+          ""
+        ],
+        [
+          "TED GAINES REP 249",
+          "AJ 2D APP DV4-N. MANELLA",
+          "STATE MEASURE 2",
+          ""
+        ],
+        [
+          "DAVE JONES DEM 60",
+          "YES 120",
+          "YES 133",
+          ""
+        ],
+        [
+          "",
+          "NO 95",
+          "NO 180",
+          ""
+        ],
+        [
+          "STATE BD EQUALIZATION D1",
+          "",
+          "",
+          ""
+        ],
+        [
+          "VOTER NOMINATED",
+          "PJ 2D APP DV5-P. TURNER",
+          "STATE MEASURE 45",
+          ""
+        ],
+        [
+          "CHRIS PARKER DEM 62",
+          "YES 138",
+          "YES 92",
+          ""
+        ],
+        [
+          "GEORGE RUNNER REP 244",
+          "NO 77",
+          "NO 221",
+          ""
+        ],
+        [
+          "25TH CONGRESS DIST",
+          "A J 2D APP DV6-K. YEGAN",
+          "STATE MEASURE 46",
+          ""
+        ],
+        [
+          "VOTER NOMINATED",
+          "YES 138",
+          "YES 91",
+          ""
+        ],
+        [
+          "TONY STRICKLAND REP 149",
+          "NO 80",
+          "NO 228",
+          ""
+        ],
+        [
+          "STEVE KNIGHT REP 146",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "PJ 2D APP DV7-D. PERLUSS",
+          "STATE MEASURE 47",
+          ""
+        ],
+        [
+          "36TH ASSEMBLY DIST",
+          "YES 99",
+          "YES 107",
+          ""
+        ],
+        [
+          "VOTER NOMINATED",
+          "NO 115",
+          "NO 206",
+          ""
+        ],
+        [
+          "STEVE FOX DEM 63",
+          "",
+          "",
+          ""
+        ],
+        [
+          "TOM LACKEY REP 249",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| GOVERNOR | AJ-SUPREME CT-G. LIU | AJ 2D APP DV8-L. RUBIN | STATE MEASURE 48 |\n| --- | --- | --- | --- |\n| VOTER NOMINATED | YES 90 | YES 109 | YES 96 |\n| NEEL KASHKARI REP 247 | NO 142 | NO 105 | NO 216 |\n| EDMUND G BROWN DEM 69 |  |  |  |\n|  | A J-SUPREME CT-M. CUELLAR | AJ 2D APP DV8-M. FLIER | COUNTY MEASURE P |\n| LIEUTENANT GOVERNOR | YES 86 | YES 98 | YES 102 |\n| VOTER NOMINATED | NO 148 | NO 117 | NO 200 |\n| GAVIN NEWSOM DEM 64 |  |  |  |\n| RON NEHRING REP 247 | AJ-SUPREME CT-WERDERGAR | JUDGE-SUPERIOR COURT #61 | ANTELOPE VALLEY HEALTH BD |\n|  | YES 121 | JACQUELINE H LEWIS 64 | MUKUND SHAH 159 |\n| SECRETARY OF STATE | NO 108 | DAYAN MATHAI 175 | MICHAEL P RIVES 67 |\n| VOTER NOMINATED |  |  | DON V PARAZO 104 |\n| PETE PETERSON REP 248 | PJ 2D APP DV1-ROTHSCHILD | JUDGE-SUPERIOR COURT #87 | ROE LEER 39 |\n| ALEX PADILLA DEM 64 | YES 112 | ANDREW M STEIN 51 |  |\n|  | NO 115 | TOM GRIEGO 180 |  |\n| CONTROLLER |  |  |  |\n| VOTER NOMINATED | AJ 2D APP DV1-J. JOHNSON | SUPERINTENDENT PUBLIC INST |  |\n| BETTY T YEE DEM 59 | YES 145 | MARSHALL TUCK 188 |  |\n| ASHLEY SWEARENGIN REP 249 | NO 78 | TOM TORLAKSON 88 |  |\n| TREASURER | AJ 2D APP DV2-B. HOFFSTADT | ASSESSOR |  |\n| VOTER NOMINATED | YES 99 | JEFFREY PRANG 104 |  |\n| GREG CONLON REP 240 | NO 116 | JOHN MORRIS 136 |  |\n| JOHN CHIANG DEM 69 |  |  |  |\n|  | PJ 2D APP DV3-L. EDMON | SHERIFF |  |\n| ATTORNEY GENERAL | YES 106 | JIM MCDONNELL 219 |  |\n| VOTER NOMINATED | NO 111 | PAUL TANAKA 61 |  |\n| RONALD GOLD REP 245 |  |  |  |\n| KAMALA D HARRIS DEM 68 | AJ 2D APP DV4-A. COLLINS | STATE MEASURE 1 |  |\n|  | YES 103 | YES 104 |  |\n| INSURANCE COMMISSIONER | NO 113 | NO 214 |  |\n| VOTER NOMINATED |  |  |  |\n| TED GAINES REP 249 | AJ 2D APP DV4-N. MANELLA | STATE MEASURE 2 |  |\n| DAVE JONES DEM 60 | YES 120 | YES 133 |  |\n|  | NO 95 | NO 180 |  |\n| STATE BD EQUALIZATION D1 |  |  |  |\n| VOTER NOMINATED | PJ 2D APP DV5-P. TURNER | STATE MEASURE 45 |  |\n| CHRIS PARKER DEM 62 | YES 138 | YES 92 |  |\n| GEORGE RUNNER REP 244 | NO 77 | NO 221 |  |\n| 25TH CONGRESS DIST | A J 2D APP DV6-K. YEGAN | STATE MEASURE 46 |  |\n| VOTER NOMINATED | YES 138 | YES 91 |  |\n| TONY STRICKLAND REP 149 | NO 80 | NO 228 |  |\n| STEVE KNIGHT REP 146 |  |  |  |\n|  | PJ 2D APP DV7-D. PERLUSS | STATE MEASURE 47 |  |\n| 36TH ASSEMBLY DIST | YES 99 | YES 107 |  |\n| VOTER NOMINATED | NO 115 | NO 206 |  |\n| STEVE FOX DEM 63 |  |  |  |\n| TOM LACKEY REP 249 |  |  |  |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 28.80000114440918,
+        "y0": 28.80000114440918,
+        "x1": 763.2000122070312,
+        "y1": 536.4000244140625
+      }
+    }
+  ],
+  "content": {
+    "html": "<p><strong>Precinct RUN 12/3/2014 11:57:01 AM JOB 0014 GENERAL ELECTION PRECINCT 0050003A ACTON 327 BALLOTS CAST 1100 REGISTERED VOTERS REGISTRAR-RECORDE R/COUNTY CLERK PRECINCT BULLETINS TO BE HELD 11/04/14 CLOSE 10/20/14 GROUP 13 CONTINUED FROM PAGE 20213 CONG 25 SEN 21 ASM 36 BOE 01 SUP 05 PAGE 1 SERIAL 1</strong></p>\n<table>\n<thead>\n<tr>\n<th>GOVERNOR</th>\n<th>AJ-SUPREME CT-G. LIU</th>\n<th>AJ 2D APP DV8-L. RUBIN</th>\n<th>STATE MEASURE 48</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>VOTER NOMINATED</td>\n<td>YES 90</td>\n<td>YES 109</td>\n<td>YES 96</td>\n</tr>\n<tr>\n<td>NEEL KASHKARI REP 247</td>\n<td>NO 142</td>\n<td>NO 105</td>\n<td>NO 216</td>\n</tr>\n<tr>\n<td>EDMUND G BROWN DEM 69</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>A J-SUPREME CT-M. CUELLAR</td>\n<td>AJ 2D APP DV8-M. FLIER</td>\n<td>COUNTY MEASURE P</td>\n</tr>\n<tr>\n<td>LIEUTENANT GOVERNOR</td>\n<td>YES 86</td>\n<td>YES 98</td>\n<td>YES 102</td>\n</tr>\n<tr>\n<td>VOTER NOMINATED</td>\n<td>NO 148</td>\n<td>NO 117</td>\n<td>NO 200</td>\n</tr>\n<tr>\n<td>GAVIN NEWSOM DEM 64</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>RON NEHRING REP 247</td>\n<td>AJ-SUPREME CT-WERDERGAR</td>\n<td>JUDGE-SUPERIOR COURT #61</td>\n<td>ANTELOPE VALLEY HEALTH BD</td>\n</tr>\n<tr>\n<td></td>\n<td>YES 121</td>\n<td>JACQUELINE H LEWIS 64</td>\n<td>MUKUND SHAH 159</td>\n</tr>\n<tr>\n<td>SECRETARY OF STATE</td>\n<td>NO 108</td>\n<td>DAYAN MATHAI 175</td>\n<td>MICHAEL P RIVES 67</td>\n</tr>\n<tr>\n<td>VOTER NOMINATED</td>\n<td></td>\n<td></td>\n<td>DON V PARAZO 104</td>\n</tr>\n<tr>\n<td>PETE PETERSON REP 248</td>\n<td>PJ 2D APP DV1-ROTHSCHILD</td>\n<td>JUDGE-SUPERIOR COURT #87</td>\n<td>ROE LEER 39</td>\n</tr>\n<tr>\n<td>ALEX PADILLA DEM 64</td>\n<td>YES 112</td>\n<td>ANDREW M STEIN 51</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>NO 115</td>\n<td>TOM GRIEGO 180</td>\n<td></td>\n</tr>\n<tr>\n<td>CONTROLLER</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>VOTER NOMINATED</td>\n<td>AJ 2D APP DV1-J. JOHNSON</td>\n<td>SUPERINTENDENT PUBLIC INST</td>\n<td></td>\n</tr>\n<tr>\n<td>BETTY T YEE DEM 59</td>\n<td>YES 145</td>\n<td>MARSHALL TUCK 188</td>\n<td></td>\n</tr>\n<tr>\n<td>ASHLEY SWEARENGIN REP 249</td>\n<td>NO 78</td>\n<td>TOM TORLAKSON 88</td>\n<td></td>\n</tr>\n<tr>\n<td>TREASURER</td>\n<td>AJ 2D APP DV2-B. HOFFSTADT</td>\n<td>ASSESSOR</td>\n<td></td>\n</tr>\n<tr>\n<td>VOTER NOMINATED</td>\n<td>YES 99</td>\n<td>JEFFREY PRANG 104</td>\n<td></td>\n</tr>\n<tr>\n<td>GREG CONLON REP 240</td>\n<td>NO 116</td>\n<td>JOHN MORRIS 136</td>\n<td></td>\n</tr>\n<tr>\n<td>JOHN CHIANG DEM 69</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>PJ 2D APP DV3-L. EDMON</td>\n<td>SHERIFF</td>\n<td></td>\n</tr>\n<tr>\n<td>ATTORNEY GENERAL</td>\n<td>YES 106</td>\n<td>JIM MCDONNELL 219</td>\n<td></td>\n</tr>\n<tr>\n<td>VOTER NOMINATED</td>\n<td>NO 111</td>\n<td>PAUL TANAKA 61</td>\n<td></td>\n</tr>\n<tr>\n<td>RONALD GOLD REP 245</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>KAMALA D HARRIS DEM 68</td>\n<td>AJ 2D APP DV4-A. COLLINS</td>\n<td>STATE MEASURE 1</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>YES 103</td>\n<td>YES 104</td>\n<td></td>\n</tr>\n<tr>\n<td>INSURANCE COMMISSIONER</td>\n<td>NO 113</td>\n<td>NO 214</td>\n<td></td>\n</tr>\n<tr>\n<td>VOTER NOMINATED</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>TED GAINES REP 249</td>\n<td>AJ 2D APP DV4-N. MANELLA</td>\n<td>STATE MEASURE 2</td>\n<td></td>\n</tr>\n<tr>\n<td>DAVE JONES DEM 60</td>\n<td>YES 120</td>\n<td>YES 133</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>NO 95</td>\n<td>NO 180</td>\n<td></td>\n</tr>\n<tr>\n<td>STATE BD EQUALIZATION D1</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>VOTER NOMINATED</td>\n<td>PJ 2D APP DV5-P. TURNER</td>\n<td>STATE MEASURE 45</td>\n<td></td>\n</tr>\n<tr>\n<td>CHRIS PARKER DEM 62</td>\n<td>YES 138</td>\n<td>YES 92</td>\n<td></td>\n</tr>\n<tr>\n<td>GEORGE RUNNER REP 244</td>\n<td>NO 77</td>\n<td>NO 221</td>\n<td></td>\n</tr>\n<tr>\n<td>25TH CONGRESS DIST</td>\n<td>A J 2D APP DV6-K. YEGAN</td>\n<td>STATE MEASURE 46</td>\n<td></td>\n</tr>\n<tr>\n<td>VOTER NOMINATED</td>\n<td>YES 138</td>\n<td>YES 91</td>\n<td></td>\n</tr>\n<tr>\n<td>TONY STRICKLAND REP 149</td>\n<td>NO 80</td>\n<td>NO 228</td>\n<td></td>\n</tr>\n<tr>\n<td>STEVE KNIGHT REP 146</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>PJ 2D APP DV7-D. PERLUSS</td>\n<td>STATE MEASURE 47</td>\n<td></td>\n</tr>\n<tr>\n<td>36TH ASSEMBLY DIST</td>\n<td>YES 99</td>\n<td>YES 107</td>\n<td></td>\n</tr>\n<tr>\n<td>VOTER NOMINATED</td>\n<td>NO 115</td>\n<td>NO 206</td>\n<td></td>\n</tr>\n<tr>\n<td>STEVE FOX DEM 63</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>TOM LACKEY REP 249</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Precinct  RUN 12/3/2014 11:57:01 AM\\nJOB 0014  GENERAL ELECTION\\nPRECINCT          0050003A        ACTON\"},{\"type\":\"paragraph\",\"text\":\"327 BALLOTS CAST\"},{\"type\":\"paragraph\",\"text\":\"1100 REGISTERED VOTERS\"},{\"type\":\"paragraph\",\"text\":\"GOVERNOR\\nVOTER NOMINATED\\nNEEL KASHKARI\\nEDMUND G BROWN\"},{\"type\":\"paragraph\",\"text\":\"LIEUTENANT GOVERNOR\\nVOTER NOMINATED \\nGAVIN NEWSOM \\nRON NEHRING\"},{\"type\":\"paragraph\",\"text\":\"SECRETARY OF STATE \\nVOTER NOMINATED\\nPETE PETERSON\\nALEX PADILLA\"},{\"type\":\"paragraph\",\"text\":\"CONTROLLER\\nVOTER NOMINATED \\nBETTY T YEE \\nASHLEY SWEARENGIN\"},{\"type\":\"paragraph\",\"text\":\"TREASURER\\nVOTER NOMINATED\\nGREG CONLON\\nJOHN CHIANG\"},{\"type\":\"paragraph\",\"text\":\"ATTORNEY GENERAL\\nVOTER NOMINATED \\nRONALD GOLD\\nKAMALA D HARRIS\"},{\"type\":\"paragraph\",\"text\":\"INSURANCE COMMISSIONER\\nVOTER NOMINATED\\nTED GAINES REP\\nDAVE JONES\"},{\"type\":\"paragraph\",\"text\":\"STATE BD EQUALIZATION D1\\nVOTER NOMINATED \\nCHRIS PARKER \\nGEORGE RUNNER\"},{\"type\":\"paragraph\",\"text\":\"25TH CONGRESS DIST \\nVOTER NOMINATED\\nTONY STRICKLAND \\nSTEVE KNIGHT\"},{\"type\":\"paragraph\",\"text\":\"36TH ASSEMBLY DIST\\nVOTER NOMINATED \\nSTEVE FOX \\nTOM LACKEY\"},{\"type\":\"paragraph\",\"text\":\"REGISTRAR-RECORDE\"},{\"type\":\"paragraph\",\"text\":\"AJ-SUPREME CT-G. LIU\\nYES\\nREP  247 NO\\nDEM 69\\nA J-SUPREME CT-M. CUELLAR\\nYES\\nNO\\nDEM 64\\nREP  247 AJ-SUPREME CT-WERDERGAR\\nYES\\nNO\"},{\"type\":\"paragraph\",\"text\":\"REP  248 PJ 2D APP DV1-ROTHSCHILD\\nDEM 64 YES\\nNO\"},{\"type\":\"paragraph\",\"text\":\"AJ 2D APP DV1-J. JOHNSON\\nDEM 59 YES\\nREP  249 NO\"},{\"type\":\"paragraph\",\"text\":\"AJ 2D APP DV2-B. HOFFSTADT\\nYES\\nREP  240 NO\\nDEM 69\\nPJ 2D APP DV3-L. EDMON\\nYES\\nNO\\nREP 245\\nDEM  68 AJ 2D APP DV4-A. COLLINS\\nYES\\n  NO\"},{\"type\":\"paragraph\",\"text\":\"249 AJ 2D APP DV4-N. MANELLA\\nDEM 60 YES\\nNO\"},{\"type\":\"paragraph\",\"text\":\"PJ 2D APP DV5-P. TURNER\\nDEM 62 YES\\nREP  244 NO\"},{\"type\":\"paragraph\",\"text\":\"A J 2D APP DV6-K. YEGAN\\nYES\\nREP  149 NO\\nREP 146\\nPJ 2D APP DV7-D. PERLUSS\\nYES\\nNO\\nDEM 63\\nREP 249\"},{\"type\":\"paragraph\",\"text\":\"R/COUNTY CLERK          PRECINCT BULLETINS\\nTO BE HELD 11/04/14        CLOSE 10/20/14\\nGROUP 13        CONTINUED FROM PAGE    20213\"},{\"type\":\"paragraph\",\"text\":\"CONG  25   SEN  21   ASM  36   BOE  01   SUP  05\"},{\"type\":\"paragraph\",\"text\":\"AJ 2D APP DV8-L. RUBIN \\n90 YES\\n142  NO\"},{\"type\":\"paragraph\",\"text\":\"AJ 2D APP DV8-M. FLIER \\n86 YES\\n148  NO\"},{\"type\":\"paragraph\",\"text\":\"JUDGE-SUPERIOR COURT #61\\n121  JACQUELINE H LEWIS \\n108  DAYAN MATHAI\"},{\"type\":\"paragraph\",\"text\":\"JUDGE-SUPERIOR COURT #87\\n112  ANDREW M STEIN \\n115  TOM GRIEGO\"},{\"type\":\"paragraph\",\"text\":\"SUPERINTENDENT PUBLIC INST\\n145  MARSHALL TUCK \\n78  TOM TORLAKSON\"},{\"type\":\"paragraph\",\"text\":\"ASSESSOR\\n99  JEFFREY PRANG \\n116  JOHN MORRIS\"},{\"type\":\"paragraph\",\"text\":\"SHERIFF\\n106  JIM MCDONNELL\\n111  PAUL TANAKA\"},{\"type\":\"paragraph\",\"text\":\"STATE MEASURE 1\\n103 YES\\n113  NO\"},{\"type\":\"paragraph\",\"text\":\"STATE MEASURE 2\\n120 YES\\n95  NO\"},{\"type\":\"paragraph\",\"text\":\"STATE MEASURE 45\\n138 YES\\n77  NO\"},{\"type\":\"paragraph\",\"text\":\"STATE MEASURE 46\\n138 YES\\n80  NO\"},{\"type\":\"paragraph\",\"text\":\"STATE MEASURE 47\\n99 YES\\n115  NO\"},{\"type\":\"paragraph\",\"text\":\"PAGE     1\"},{\"type\":\"paragraph\",\"text\":\"SERIAL     1\"},{\"type\":\"paragraph\",\"text\":\"STATE MEASURE 48\\n109 YES 96\\n105  NO 216\"},{\"type\":\"paragraph\",\"text\":\"COUNTY MEASURE P\\n98 YES 102\\n117  NO 200\"},{\"type\":\"paragraph\",\"text\":\"ANTELOPE VALLEY HEALTH BD\\n64  MUKUND SHAH  159\\n175  MICHAEL P RIVES  67\\nDON V PARAZO  104\\nROE LEER  39\\n51\\n180\"},{\"type\":\"paragraph\",\"text\":\"188\\n88\"},{\"type\":\"paragraph\",\"text\":\"104\\n136\"},{\"type\":\"paragraph\",\"text\":\"219\\n61\"},{\"type\":\"paragraph\",\"text\":\"104\\n214\"},{\"type\":\"paragraph\",\"text\":\"133\\n180\"},{\"type\":\"paragraph\",\"text\":\"92\\n221\"},{\"type\":\"paragraph\",\"text\":\"91\\n228\"},{\"type\":\"paragraph\",\"text\":\"107\\n206\"},{\"type\":\"table\",\"headers\":[\"GOVERNOR\",\"AJ-SUPREME CT-G. LIU\",\"AJ 2D APP DV8-L. RUBIN\",\"STATE MEASURE 48\"],\"rows\":[[\"VOTER NOMINATED\",\"YES 90\",\"YES 109\",\"YES 96\"],[\"NEEL KASHKARI REP 247\",\"NO 142\",\"NO 105\",\"NO 216\"],[\"EDMUND G BROWN DEM 69\",\"\",\"\",\"\"],[\"\",\"A J-SUPREME CT-M. CUELLAR\",\"AJ 2D APP DV8-M. FLIER\",\"COUNTY MEASURE P\"],[\"LIEUTENANT GOVERNOR\",\"YES 86\",\"YES 98\",\"YES 102\"],[\"VOTER NOMINATED\",\"NO 148\",\"NO 117\",\"NO 200\"],[\"GAVIN NEWSOM DEM 64\",\"\",\"\",\"\"],[\"RON NEHRING REP 247\",\"AJ-SUPREME CT-WERDERGAR\",\"JUDGE-SUPERIOR COURT #61\",\"ANTELOPE VALLEY HEALTH BD\"],[\"\",\"YES 121\",\"JACQUELINE H LEWIS 64\",\"MUKUND SHAH 159\"],[\"SECRETARY OF STATE\",\"NO 108\",\"DAYAN MATHAI 175\",\"MICHAEL P RIVES 67\"],[\"VOTER NOMINATED\",\"\",\"\",\"DON V PARAZO 104\"],[\"PETE PETERSON REP 248\",\"PJ 2D APP DV1-ROTHSCHILD\",\"JUDGE-SUPERIOR COURT #87\",\"ROE LEER 39\"],[\"ALEX PADILLA DEM 64\",\"YES 112\",\"ANDREW M STEIN 51\",\"\"],[\"\",\"NO 115\",\"TOM GRIEGO 180\",\"\"],[\"CONTROLLER\",\"\",\"\",\"\"],[\"VOTER NOMINATED\",\"AJ 2D APP DV1-J. JOHNSON\",\"SUPERINTENDENT PUBLIC INST\",\"\"],[\"BETTY T YEE DEM 59\",\"YES 145\",\"MARSHALL TUCK 188\",\"\"],[\"ASHLEY SWEARENGIN REP 249\",\"NO 78\",\"TOM TORLAKSON 88\",\"\"],[\"TREASURER\",\"AJ 2D APP DV2-B. HOFFSTADT\",\"ASSESSOR\",\"\"],[\"VOTER NOMINATED\",\"YES 99\",\"JEFFREY PRANG 104\",\"\"],[\"GREG CONLON REP 240\",\"NO 116\",\"JOHN MORRIS 136\",\"\"],[\"JOHN CHIANG DEM 69\",\"\",\"\",\"\"],[\"\",\"PJ 2D APP DV3-L. EDMON\",\"SHERIFF\",\"\"],[\"ATTORNEY GENERAL\",\"YES 106\",\"JIM MCDONNELL 219\",\"\"],[\"VOTER NOMINATED\",\"NO 111\",\"PAUL TANAKA 61\",\"\"],[\"RONALD GOLD REP 245\",\"\",\"\",\"\"],[\"KAMALA D HARRIS DEM 68\",\"AJ 2D APP DV4-A. COLLINS\",\"STATE MEASURE 1\",\"\"],[\"\",\"YES 103\",\"YES 104\",\"\"],[\"INSURANCE COMMISSIONER\",\"NO 113\",\"NO 214\",\"\"],[\"VOTER NOMINATED\",\"\",\"\",\"\"],[\"TED GAINES REP 249\",\"AJ 2D APP DV4-N. MANELLA\",\"STATE MEASURE 2\",\"\"],[\"DAVE JONES DEM 60\",\"YES 120\",\"YES 133\",\"\"],[\"\",\"NO 95\",\"NO 180\",\"\"],[\"STATE BD EQUALIZATION D1\",\"\",\"\",\"\"],[\"VOTER NOMINATED\",\"PJ 2D APP DV5-P. TURNER\",\"STATE MEASURE 45\",\"\"],[\"CHRIS PARKER DEM 62\",\"YES 138\",\"YES 92\",\"\"],[\"GEORGE RUNNER REP 244\",\"NO 77\",\"NO 221\",\"\"],[\"25TH CONGRESS DIST\",\"A J 2D APP DV6-K. YEGAN\",\"STATE MEASURE 46\",\"\"],[\"VOTER NOMINATED\",\"YES 138\",\"YES 91\",\"\"],[\"TONY STRICKLAND REP 149\",\"NO 80\",\"NO 228\",\"\"],[\"STEVE KNIGHT REP 146\",\"\",\"\",\"\"],[\"\",\"PJ 2D APP DV7-D. PERLUSS\",\"STATE MEASURE 47\",\"\"],[\"36TH ASSEMBLY DIST\",\"YES 99\",\"YES 107\",\"\"],[\"VOTER NOMINATED\",\"NO 115\",\"NO 206\",\"\"],[\"STEVE FOX DEM 63\",\"\",\"\",\"\"],[\"TOM LACKEY REP 249\",\"\",\"\",\"\"]]}]}",
+    "markdown": "**Precinct RUN 12/3/2014 11:57:01 AM JOB 0014 GENERAL ELECTION PRECINCT 0050003A ACTON 327 BALLOTS CAST 1100 REGISTERED VOTERS REGISTRAR-RECORDE R/COUNTY CLERK PRECINCT BULLETINS TO BE HELD 11/04/14 CLOSE 10/20/14 GROUP 13 CONTINUED FROM PAGE 20213 CONG 25 SEN 21 ASM 36 BOE 01 SUP 05 PAGE 1 SERIAL 1**\n\n| GOVERNOR | AJ-SUPREME CT-G. LIU | AJ 2D APP DV8-L. RUBIN | STATE MEASURE 48 |\n| --- | --- | --- | --- |\n| VOTER NOMINATED | YES 90 | YES 109 | YES 96 |\n| NEEL KASHKARI REP 247 | NO 142 | NO 105 | NO 216 |\n| EDMUND G BROWN DEM 69 |  |  |  |\n|  | A J-SUPREME CT-M. CUELLAR | AJ 2D APP DV8-M. FLIER | COUNTY MEASURE P |\n| LIEUTENANT GOVERNOR | YES 86 | YES 98 | YES 102 |\n| VOTER NOMINATED | NO 148 | NO 117 | NO 200 |\n| GAVIN NEWSOM DEM 64 |  |  |  |\n| RON NEHRING REP 247 | AJ-SUPREME CT-WERDERGAR | JUDGE-SUPERIOR COURT \\#61 | ANTELOPE VALLEY HEALTH BD |\n|  | YES 121 | JACQUELINE H LEWIS 64 | MUKUND SHAH 159 |\n| SECRETARY OF STATE | NO 108 | DAYAN MATHAI 175 | MICHAEL P RIVES 67 |\n| VOTER NOMINATED |  |  | DON V PARAZO 104 |\n| PETE PETERSON REP 248 | PJ 2D APP DV1-ROTHSCHILD | JUDGE-SUPERIOR COURT \\#87 | ROE LEER 39 |\n| ALEX PADILLA DEM 64 | YES 112 | ANDREW M STEIN 51 |  |\n|  | NO 115 | TOM GRIEGO 180 |  |\n| CONTROLLER |  |  |  |\n| VOTER NOMINATED | AJ 2D APP DV1-J. JOHNSON | SUPERINTENDENT PUBLIC INST |  |\n| BETTY T YEE DEM 59 | YES 145 | MARSHALL TUCK 188 |  |\n| ASHLEY SWEARENGIN REP 249 | NO 78 | TOM TORLAKSON 88 |  |\n| TREASURER | AJ 2D APP DV2-B. HOFFSTADT | ASSESSOR |  |\n| VOTER NOMINATED | YES 99 | JEFFREY PRANG 104 |  |\n| GREG CONLON REP 240 | NO 116 | JOHN MORRIS 136 |  |\n| JOHN CHIANG DEM 69 |  |  |  |\n|  | PJ 2D APP DV3-L. EDMON | SHERIFF |  |\n| ATTORNEY GENERAL | YES 106 | JIM MCDONNELL 219 |  |\n| VOTER NOMINATED | NO 111 | PAUL TANAKA 61 |  |\n| RONALD GOLD REP 245 |  |  |  |\n| KAMALA D HARRIS DEM 68 | AJ 2D APP DV4-A. COLLINS | STATE MEASURE 1 |  |\n|  | YES 103 | YES 104 |  |\n| INSURANCE COMMISSIONER | NO 113 | NO 214 |  |\n| VOTER NOMINATED |  |  |  |\n| TED GAINES REP 249 | AJ 2D APP DV4-N. MANELLA | STATE MEASURE 2 |  |\n| DAVE JONES DEM 60 | YES 120 | YES 133 |  |\n|  | NO 95 | NO 180 |  |\n| STATE BD EQUALIZATION D1 |  |  |  |\n| VOTER NOMINATED | PJ 2D APP DV5-P. TURNER | STATE MEASURE 45 |  |\n| CHRIS PARKER DEM 62 | YES 138 | YES 92 |  |\n| GEORGE RUNNER REP 244 | NO 77 | NO 221 |  |\n| 25TH CONGRESS DIST | A J 2D APP DV6-K. YEGAN | STATE MEASURE 46 |  |\n| VOTER NOMINATED | YES 138 | YES 91 |  |\n| TONY STRICKLAND REP 149 | NO 80 | NO 228 |  |\n| STEVE KNIGHT REP 146 |  |  |  |\n|  | PJ 2D APP DV7-D. PERLUSS | STATE MEASURE 47 |  |\n| 36TH ASSEMBLY DIST | YES 99 | YES 107 |  |\n| VOTER NOMINATED | NO 115 | NO 206 |  |\n| STEVE FOX DEM 63 |  |  |  |\n| TOM LACKEY REP 249 |  |  |  |\n",
+    "plain": "Precinct  RUN 12/3/2014 11:57:01 AM\nJOB 0014  GENERAL ELECTION\nPRECINCT          0050003A        ACTON\n\n327 BALLOTS CAST\n\n1100 REGISTERED VOTERS\n\nGOVERNOR\nVOTER NOMINATED\nNEEL KASHKARI\nEDMUND G BROWN\n\nLIEUTENANT GOVERNOR\nVOTER NOMINATED \nGAVIN NEWSOM \nRON NEHRING\n\nSECRETARY OF STATE \nVOTER NOMINATED\nPETE PETERSON\nALEX PADILLA\n\nCONTROLLER\nVOTER NOMINATED \nBETTY T YEE \nASHLEY SWEARENGIN\n\nTREASURER\nVOTER NOMINATED\nGREG CONLON\nJOHN CHIANG\n\nATTORNEY GENERAL\nVOTER NOMINATED \nRONALD GOLD\nKAMALA D HARRIS\n\nINSURANCE COMMISSIONER\nVOTER NOMINATED\nTED GAINES REP\nDAVE JONES\n\nSTATE BD EQUALIZATION D1\nVOTER NOMINATED \nCHRIS PARKER \nGEORGE RUNNER\n\n25TH CONGRESS DIST \nVOTER NOMINATED\nTONY STRICKLAND \nSTEVE KNIGHT\n\n36TH ASSEMBLY DIST\nVOTER NOMINATED \nSTEVE FOX \nTOM LACKEY\n\nREGISTRAR-RECORDE\n\nAJ-SUPREME CT-G. LIU\nYES\nREP  247 NO\nDEM 69\nA J-SUPREME CT-M. CUELLAR\nYES\nNO\nDEM 64\nREP  247 AJ-SUPREME CT-WERDERGAR\nYES\nNO\n\nREP  248 PJ 2D APP DV1-ROTHSCHILD\nDEM 64 YES\nNO\n\nAJ 2D APP DV1-J. JOHNSON\nDEM 59 YES\nREP  249 NO\n\nAJ 2D APP DV2-B. HOFFSTADT\nYES\nREP  240 NO\nDEM 69\nPJ 2D APP DV3-L. EDMON\nYES\nNO\nREP 245\nDEM  68 AJ 2D APP DV4-A. COLLINS\nYES\n  NO\n\n249 AJ 2D APP DV4-N. MANELLA\nDEM 60 YES\nNO\n\nPJ 2D APP DV5-P. TURNER\nDEM 62 YES\nREP  244 NO\n\nA J 2D APP DV6-K. YEGAN\nYES\nREP  149 NO\nREP 146\nPJ 2D APP DV7-D. PERLUSS\nYES\nNO\nDEM 63\nREP 249\n\nR/COUNTY CLERK          PRECINCT BULLETINS\nTO BE HELD 11/04/14        CLOSE 10/20/14\nGROUP 13        CONTINUED FROM PAGE    20213\n\nCONG  25   SEN  21   ASM  36   BOE  01   SUP  05\n\nAJ 2D APP DV8-L. RUBIN \n90 YES\n142  NO\n\nAJ 2D APP DV8-M. FLIER \n86 YES\n148  NO\n\nJUDGE-SUPERIOR COURT #61\n121  JACQUELINE H LEWIS \n108  DAYAN MATHAI\n\nJUDGE-SUPERIOR COURT #87\n112  ANDREW M STEIN \n115  TOM GRIEGO\n\nSUPERINTENDENT PUBLIC INST\n145  MARSHALL TUCK \n78  TOM TORLAKSON\n\nASSESSOR\n99  JEFFREY PRANG \n116  JOHN MORRIS\n\nSHERIFF\n106  JIM MCDONNELL\n111  PAUL TANAKA\n\nSTATE MEASURE 1\n103 YES\n113  NO\n\nSTATE MEASURE 2\n120 YES\n95  NO\n\nSTATE MEASURE 45\n138 YES\n77  NO\n\nSTATE MEASURE 46\n138 YES\n80  NO\n\nSTATE MEASURE 47\n99 YES\n115  NO\n\nPAGE     1\n\nSERIAL     1\n\nSTATE MEASURE 48\n109 YES 96\n105  NO 216\n\nCOUNTY MEASURE P\n98 YES 102\n117  NO 200\n\nANTELOPE VALLEY HEALTH BD\n64  MUKUND SHAH  159\n175  MICHAEL P RIVES  67\nDON V PARAZO  104\nROE LEER  39\n51\n180\n\n188\n88\n\n104\n136\n\n219\n61\n\n104\n214\n\n133\n180\n\n92\n221\n\n91\n228\n\n107\n206\n\nGOVERNOR AJ-SUPREME CT-G. LIU AJ 2D APP DV8-L. RUBIN STATE MEASURE 48\nVOTER NOMINATED YES 90 YES 109 YES 96\nNEEL KASHKARI REP 247 NO 142 NO 105 NO 216\nEDMUND G BROWN DEM 69   \n A J-SUPREME CT-M. CUELLAR AJ 2D APP DV8-M. FLIER COUNTY MEASURE P\nLIEUTENANT GOVERNOR YES 86 YES 98 YES 102\nVOTER NOMINATED NO 148 NO 117 NO 200\nGAVIN NEWSOM DEM 64   \nRON NEHRING REP 247 AJ-SUPREME CT-WERDERGAR JUDGE-SUPERIOR COURT #61 ANTELOPE VALLEY HEALTH BD\n YES 121 JACQUELINE H LEWIS 64 MUKUND SHAH 159\nSECRETARY OF STATE NO 108 DAYAN MATHAI 175 MICHAEL P RIVES 67\nVOTER NOMINATED   DON V PARAZO 104\nPETE PETERSON REP 248 PJ 2D APP DV1-ROTHSCHILD JUDGE-SUPERIOR COURT #87 ROE LEER 39\nALEX PADILLA DEM 64 YES 112 ANDREW M STEIN 51 \n NO 115 TOM GRIEGO 180 \nCONTROLLER   \nVOTER NOMINATED AJ 2D APP DV1-J. JOHNSON SUPERINTENDENT PUBLIC INST \nBETTY T YEE DEM 59 YES 145 MARSHALL TUCK 188 \nASHLEY SWEARENGIN REP 249 NO 78 TOM TORLAKSON 88 \nTREASURER AJ 2D APP DV2-B. HOFFSTADT ASSESSOR \nVOTER NOMINATED YES 99 JEFFREY PRANG 104 \nGREG CONLON REP 240 NO 116 JOHN MORRIS 136 \nJOHN CHIANG DEM 69   \n PJ 2D APP DV3-L. EDMON SHERIFF \nATTORNEY GENERAL YES 106 JIM MCDONNELL 219 \nVOTER NOMINATED NO 111 PAUL TANAKA 61 \nRONALD GOLD REP 245   \nKAMALA D HARRIS DEM 68 AJ 2D APP DV4-A. COLLINS STATE MEASURE 1 \n YES 103 YES 104 \nINSURANCE COMMISSIONER NO 113 NO 214 \nVOTER NOMINATED   \nTED GAINES REP 249 AJ 2D APP DV4-N. MANELLA STATE MEASURE 2 \nDAVE JONES DEM 60 YES 120 YES 133 \n NO 95 NO 180 \nSTATE BD EQUALIZATION D1   \nVOTER NOMINATED PJ 2D APP DV5-P. TURNER STATE MEASURE 45 \nCHRIS PARKER DEM 62 YES 138 YES 92 \nGEORGE RUNNER REP 244 NO 77 NO 221 \n25TH CONGRESS DIST A J 2D APP DV6-K. YEGAN STATE MEASURE 46 \nVOTER NOMINATED YES 138 YES 91 \nTONY STRICKLAND REP 149 NO 80 NO 228 \nSTEVE KNIGHT REP 146   \n PJ 2D APP DV7-D. PERLUSS STATE MEASURE 47 \n36TH ASSEMBLY DIST YES 99 YES 107 \nVOTER NOMINATED NO 115 NO 206 \nSTEVE FOX DEM 63   \nTOM LACKEY REP 249"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "file": "charts/chart_bar.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "charts/chart_bar.pdf",
+      "source_index": 0,
+      "extraction_method": "native",
+      "source_uri": "charts/chart_bar.pdf",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Quarterly Revenue Performance</h1>\n<p>Revenue</p>\n<p>Quarter</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Quarterly Revenue Performance\"},{\"type\":\"paragraph\",\"text\":\"Revenue\"},{\"type\":\"paragraph\",\"text\":\"40\"},{\"type\":\"paragraph\",\"text\":\"Q2\"},{\"type\":\"paragraph\",\"text\":\"25\"},{\"type\":\"paragraph\",\"text\":\"Q1\"},{\"type\":\"paragraph\",\"text\":\"50\"},{\"type\":\"paragraph\",\"text\":\"35\"},{\"type\":\"paragraph\",\"text\":\"Q4\"},{\"type\":\"paragraph\",\"text\":\"Q3\"},{\"type\":\"paragraph\",\"text\":\"Quarter\"}]}",
+    "markdown": "# Quarterly Revenue Performance\n\nRevenue\n\nQuarter\n",
+    "plain": "Quarterly Revenue Performance\n\nRevenue\n\n40\n\nQ2\n\n25\n\nQ1\n\n50\n\n35\n\nQ4\n\nQ3\n\nQuarter"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/rtf/heading.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 7,
+      "word_count": 7,
+      "character_count": 42
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/rtf/heading.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/rtf/heading.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Heading 1</p>\n<p>Heading 2</p>\n<p>Heading 3</p>\n<p>Paragraph</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Heading 1\"},{\"type\":\"paragraph\",\"text\":\"Heading 2\"},{\"type\":\"paragraph\",\"text\":\"Heading 3\"},{\"type\":\"paragraph\",\"text\":\"Paragraph\"}]}",
+    "markdown": "Heading 1\n\nHeading 2\n\nHeading 3\n\nParagraph\n",
+    "plain": "Heading 1\n\nHeading 2\n\nHeading 3\n\nParagraph"
+  }
+}

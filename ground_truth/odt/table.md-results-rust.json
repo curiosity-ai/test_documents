@@ -1,0 +1,41 @@
+{
+  "file": "ground_truth/odt/table.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/odt/table.md",
+      "source_uri": "ground_truth/odt/table.md",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          ""
+        ],
+        [
+          "Table header",
+          "Another header"
+        ],
+        [
+          "Content",
+          "More content"
+        ]
+      ],
+      "markdown": "|  |  |\n| --- | --- |\n| Table header | Another header |\n| Content | More content |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Table header</td>\n<td>Another header</td>\n</tr>\n<tr>\n<td>Content</td>\n<td>More content</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"\",\"\"],\"rows\":[[\"Table header\",\"Another header\"],[\"Content\",\"More content\"]]}]}",
+    "markdown": "|  |  |\n| --- | --- |\n| Table header | Another header |\n| Content | More content |\n",
+    "plain": " \nTable header Another header\nContent More content"
+  }
+}

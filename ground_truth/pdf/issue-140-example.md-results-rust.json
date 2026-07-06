@@ -1,0 +1,84 @@
+{
+  "file": "ground_truth/pdf/issue-140-example.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pdf/issue-140-example.md",
+      "source_index": 0,
+      "final_uri": "ground_truth/pdf/issue-140-example.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Line no",
+          "UPC code",
+          "Location",
+          "Item Description",
+          "Item Quantity",
+          "Bill Amount",
+          "Accrued Amount",
+          "Handling Rate",
+          "PO number"
+        ],
+        [
+          "0085648100305",
+          "CENTRAL KMA",
+          "LILYS 40% SLTD ALMND CHOC",
+          "637",
+          "$ 0.61",
+          "$ 388.57",
+          "0.0000",
+          "",
+          ""
+        ],
+        [
+          "0085648100380",
+          "CENTRAL KMA",
+          "LILYS DRK CHC CRMLZD SLTD",
+          "688",
+          "$ 0.61",
+          "$ 419.68",
+          "0.0000",
+          "",
+          ""
+        ],
+        [
+          "0085648100303",
+          "CENTRAL KMA",
+          "LILYS ALMND 55% DARK CHOC",
+          "560",
+          "$ 0.61",
+          "$ 341.60",
+          "0.0000",
+          "",
+          ""
+        ],
+        [
+          "0085648100300",
+          "CENTRAL KMA",
+          "LILYS 55% DARK CHOC BAR",
+          "415",
+          "$ 0.61",
+          "$ 253.15",
+          "0.0000",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| Line no | UPC code | Location | Item Description | Item Quantity | Bill Amount | Accrued Amount | Handling Rate | PO number |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 0085648100305 | CENTRAL KMA | LILYS 40% SLTD ALMND CHOC | 637 | $ 0.61 | $ 388.57 | 0.0000 |  |  |\n| 0085648100380 | CENTRAL KMA | LILYS DRK CHC CRMLZD SLTD | 688 | $ 0.61 | $ 419.68 | 0.0000 |  |  |\n| 0085648100303 | CENTRAL KMA | LILYS ALMND 55% DARK CHOC | 560 | $ 0.61 | $ 341.60 | 0.0000 |  |  |\n| 0085648100300 | CENTRAL KMA | LILYS 55% DARK CHOC BAR | 415 | $ 0.61 | $ 253.15 | 0.0000 |  |  |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>Line no</th>\n<th>UPC code</th>\n<th>Location</th>\n<th>Item Description</th>\n<th>Item Quantity</th>\n<th>Bill Amount</th>\n<th>Accrued Amount</th>\n<th>Handling Rate</th>\n<th>PO number</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>0085648100305</td>\n<td>CENTRAL KMA</td>\n<td>LILYS 40% SLTD ALMND CHOC</td>\n<td>637</td>\n<td>$ 0.61</td>\n<td>$ 388.57</td>\n<td>0.0000</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>0085648100380</td>\n<td>CENTRAL KMA</td>\n<td>LILYS DRK CHC CRMLZD SLTD</td>\n<td>688</td>\n<td>$ 0.61</td>\n<td>$ 419.68</td>\n<td>0.0000</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>0085648100303</td>\n<td>CENTRAL KMA</td>\n<td>LILYS ALMND 55% DARK CHOC</td>\n<td>560</td>\n<td>$ 0.61</td>\n<td>$ 341.60</td>\n<td>0.0000</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>0085648100300</td>\n<td>CENTRAL KMA</td>\n<td>LILYS 55% DARK CHOC BAR</td>\n<td>415</td>\n<td>$ 0.61</td>\n<td>$ 253.15</td>\n<td>0.0000</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>Associated claims Claim ID | Claim type | Claim date | Claim amount | Claim status | Claim requested By | Claim category ------- | -------- | -------- | ------------ | ------------ | ----------------- | ------------- No results</p>\n<p>Supporting documents Document type | Document name | Uploaded by | Updated on | Buyer/ supplier | Document visibility ------------- | ------------- | ----------- | ---------- | --------------- | ------------------- No results</p>\n<p>Approval history Action date and time | Action taken | Actor | Approval type | Attached documents | Comments ------------------- | ----------- | ----- | ------------- | ----------------- | -------- No results</p>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"Line no\",\"UPC code\",\"Location\",\"Item Description\",\"Item Quantity\",\"Bill Amount\",\"Accrued Amount\",\"Handling Rate\",\"PO number\"],\"rows\":[[\"0085648100305\",\"CENTRAL KMA\",\"LILYS 40% SLTD ALMND CHOC\",\"637\",\"$ 0.61\",\"$ 388.57\",\"0.0000\",\"\",\"\"],[\"0085648100380\",\"CENTRAL KMA\",\"LILYS DRK CHC CRMLZD SLTD\",\"688\",\"$ 0.61\",\"$ 419.68\",\"0.0000\",\"\",\"\"],[\"0085648100303\",\"CENTRAL KMA\",\"LILYS ALMND 55% DARK CHOC\",\"560\",\"$ 0.61\",\"$ 341.60\",\"0.0000\",\"\",\"\"],[\"0085648100300\",\"CENTRAL KMA\",\"LILYS 55% DARK CHOC BAR\",\"415\",\"$ 0.61\",\"$ 253.15\",\"0.0000\",\"\",\"\"]]},{\"type\":\"paragraph\",\"text\":\"Associated claims Claim ID | Claim type | Claim date | Claim amount | Claim status | Claim requested By | Claim category ------- | -------- | -------- | ------------ | ------------ | ----------------- | ------------- No results\"},{\"type\":\"paragraph\",\"text\":\"Supporting documents Document type | Document name | Uploaded by | Updated on | Buyer/ supplier | Document visibility ------------- | ------------- | ----------- | ---------- | --------------- | ------------------- No results\"},{\"type\":\"paragraph\",\"text\":\"Approval history Action date and time | Action taken | Actor | Approval type | Attached documents | Comments ------------------- | ----------- | ----- | ------------- | ----------------- | -------- No results\"}]}",
+    "markdown": "| Line no | UPC code | Location | Item Description | Item Quantity | Bill Amount | Accrued Amount | Handling Rate | PO number |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 0085648100305 | CENTRAL KMA | LILYS 40% SLTD ALMND CHOC | 637 | $ 0.61 | $ 388.57 | 0.0000 |  |  |\n| 0085648100380 | CENTRAL KMA | LILYS DRK CHC CRMLZD SLTD | 688 | $ 0.61 | $ 419.68 | 0.0000 |  |  |\n| 0085648100303 | CENTRAL KMA | LILYS ALMND 55% DARK CHOC | 560 | $ 0.61 | $ 341.60 | 0.0000 |  |  |\n| 0085648100300 | CENTRAL KMA | LILYS 55% DARK CHOC BAR | 415 | $ 0.61 | $ 253.15 | 0.0000 |  |  |\n\nAssociated claims Claim ID | Claim type | Claim date | Claim amount | Claim status | Claim requested By | Claim category ------- | -------- | -------- | ------------ | ------------ | ----------------- | ------------- No results\n\nSupporting documents Document type | Document name | Uploaded by | Updated on | Buyer/ supplier | Document visibility ------------- | ------------- | ----------- | ---------- | --------------- | ------------------- No results\n\nApproval history Action date and time | Action taken | Actor | Approval type | Attached documents | Comments ------------------- | ----------- | ----- | ------------- | ----------------- | -------- No results\n",
+    "plain": "Line no UPC code Location Item Description Item Quantity Bill Amount Accrued Amount Handling Rate PO number\n0085648100305 CENTRAL KMA LILYS 40% SLTD ALMND CHOC 637 $ 0.61 $ 388.57 0.0000  \n0085648100380 CENTRAL KMA LILYS DRK CHC CRMLZD SLTD 688 $ 0.61 $ 419.68 0.0000  \n0085648100303 CENTRAL KMA LILYS ALMND 55% DARK CHOC 560 $ 0.61 $ 341.60 0.0000  \n0085648100300 CENTRAL KMA LILYS 55% DARK CHOC BAR 415 $ 0.61 $ 253.15 0.0000  \n\nAssociated claims Claim ID | Claim type | Claim date | Claim amount | Claim status | Claim requested By | Claim category ------- | -------- | -------- | ------------ | ------------ | ----------------- | ------------- No results\n\nSupporting documents Document type | Document name | Uploaded by | Updated on | Buyer/ supplier | Document visibility ------------- | ------------- | ----------- | ---------- | --------------- | ------------------- No results\n\nApproval history Action date and time | Action taken | Actor | Approval type | Attached documents | Comments ------------------- | ----------- | ----- | ------------- | ----------------- | -------- No results"
+  }
+}

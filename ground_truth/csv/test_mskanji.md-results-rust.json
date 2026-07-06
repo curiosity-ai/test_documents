@@ -1,0 +1,49 @@
+{
+  "file": "ground_truth/csv/test_mskanji.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/csv/test_mskanji.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/csv/test_mskanji.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "名前",
+          "年齢",
+          "住所"
+        ],
+        [
+          "佐藤太郎",
+          "30",
+          "東京"
+        ],
+        [
+          "三木英子",
+          "25",
+          "大阪"
+        ],
+        [
+          "髙橋淳",
+          "35",
+          "名古屋"
+        ]
+      ],
+      "markdown": "| 名前 | 年齢 | 住所 |\n| --- | --- | --- |\n| 佐藤太郎 | 30 | 東京 |\n| 三木英子 | 25 | 大阪 |\n| 髙橋淳 | 35 | 名古屋 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>名前</th>\n<th>年齢</th>\n<th>住所</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>佐藤太郎</td>\n<td>30</td>\n<td>東京</td>\n</tr>\n<tr>\n<td>三木英子</td>\n<td>25</td>\n<td>大阪</td>\n</tr>\n<tr>\n<td>髙橋淳</td>\n<td>35</td>\n<td>名古屋</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"名前\",\"年齢\",\"住所\"],\"rows\":[[\"佐藤太郎\",\"30\",\"東京\"],[\"三木英子\",\"25\",\"大阪\"],[\"髙橋淳\",\"35\",\"名古屋\"]]}]}",
+    "markdown": "| 名前 | 年齢 | 住所 |\n| --- | --- | --- |\n| 佐藤太郎 | 30 | 東京 |\n| 三木英子 | 25 | 大阪 |\n| 髙橋淳 | 35 | 名古屋 |\n",
+    "plain": "名前 年齢 住所\n佐藤太郎 30 東京\n三木英子 25 大阪\n髙橋淳 35 名古屋"
+  }
+}

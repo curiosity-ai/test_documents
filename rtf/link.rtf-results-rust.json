@@ -1,0 +1,26 @@
+{
+  "file": "rtf/link.rtf",
+  "mime_type": "application/rtf",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "word_count": 1,
+      "character_count": 6,
+      "source_kind": "uri",
+      "line_count": 1,
+      "final_uri": "rtf/link.rtf",
+      "source_uri": "rtf/link.rtf",
+      "source_index": 0,
+      "paragraph_count": 1
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><a href=\"http://pandoc.org\">pandoc</a></p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"pandoc\"}]}",
+    "markdown": "[pandoc](http://pandoc.org)\n",
+    "plain": "pandoc"
+  }
+}

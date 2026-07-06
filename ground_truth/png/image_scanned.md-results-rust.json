@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/png/image_scanned.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "RULES AND INSTRUCTIONS",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/png/image_scanned.md",
+      "final_uri": "ground_truth/png/image_scanned.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>RULES AND INSTRUCTIONS</h1>\n<ol>\n<li>If typed (for day 2, submit form</li>\n<li>Use of your accounts, use different emails to read in better if needed</li>\n</ol>\n<p>Note: Remember to write your own &quot;OPENING MESSAGE&quot; that needs to write down template, please always include [TREASURE MARKED] for example:</p>\n<p>ここの最初の言葉について、[例えば]はじめてやるのかもまた言葉を同じ 例えば名前をカナ表記で示して、様々な言葉をここに含める必要があります。</p>\n<p>If international sales of Hamas on your feed to send you successfully lets, show that in below to also inform your below the dates sent email</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"RULES AND INSTRUCTIONS\",\"level\":1,\"body\":[{\"type\":\"list\",\"ordered\":true,\"items\":[\"If typed (for day 2, submit form\",\"Use of your accounts, use different emails to read in better if needed\"]},{\"type\":\"paragraph\",\"text\":\"Note: Remember to write your own \\\"OPENING MESSAGE\\\" that needs to write down template, please always include [TREASURE MARKED] for example:\"},{\"type\":\"paragraph\",\"text\":\"ここの最初の言葉について、[例えば]はじめてやるのかもまた言葉を同じ 例えば名前をカナ表記で示して、様々な言葉をここに含める必要があります。\"},{\"type\":\"paragraph\",\"text\":\"If international sales of Hamas on your feed to send you successfully lets, show that in below to also inform your below the dates sent email\"}]}]}",
+    "markdown": "# RULES AND INSTRUCTIONS\n\n1. If typed (for day 2, submit form\n2. Use of your accounts, use different emails to read in better if needed\n\nNote: Remember to write your own \"OPENING MESSAGE\" that needs to write down template, please always include [TREASURE MARKED] for example:\n\nここの最初の言葉について、[例えば]はじめてやるのかもまた言葉を同じ 例えば名前をカナ表記で示して、様々な言葉をここに含める必要があります。\n\nIf international sales of Hamas on your feed to send you successfully lets, show that in below to also inform your below the dates sent email\n",
+    "plain": "RULES AND INSTRUCTIONS\nIf typed (for day 2, submit form\nUse of your accounts, use different emails to read in better if needed\nNote: Remember to write your own \"OPENING MESSAGE\" that needs to write down template, please always include [TREASURE MARKED] for example:\n\nここの最初の言葉について、[例えば]はじめてやるのかもまた言葉を同じ 例えば名前をカナ表記で示して、様々な言葉をここに含める必要があります。\n\nIf international sales of Hamas on your feed to send you successfully lets, show that in below to also inform your below the dates sent email"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "file": "vendored/unstructured/msg/fake-email-multiple-attachments.msg",
+  "mime_type": "application/vnd.ms-outlook",
+  "success": true,
+  "metadata": {
+    "subject": "multiple attachments",
+    "authors": [
+      "Mallori Harrell"
+    ],
+    "created_at": "2023-04-20T16:28:48.334+00:00",
+    "format": {
+      "format_type": "email",
+      "from_email": "mallori@unstructured.io",
+      "from_name": "Mallori Harrell",
+      "to_emails": [
+        "\"Mallori Harrell\" <mallori@unstructured.io>"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "message_id": "<CAPgNNXSjYkOrKbNa97wof1CdJDH=EV9FKmW1jLZOHVLhrQp36Q@mail.gmail.com>",
+      "attachments": [
+        "unstructured_logo.png",
+        "dense_doc.pdf",
+        "Engineering Onboarding.pptx"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/unstructured/msg/fake-email-multiple-attachments.msg",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "vendored/unstructured/msg/fake-email-multiple-attachments.msg"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: multiple attachments</p>\n<p><strong>From</strong>: mallori@unstructured.io</p>\n<p><strong>To</strong>: &quot;Mallori Harrell&quot; &lt;mallori@unstructured.io&gt;</p>\n<p><strong>Date</strong>: 2023-04-20T16:28:48.334+00:00</p>\n<p>Here are those documents. -- Mallori Harrell Unstructured Technologies Data Scientist</p>\n<p>Attachments:</p>\n<p> unstructured_logo.png (96226B)</p>\n<p> dense_doc.pdf (383508B)</p>\n<p> Engineering Onboarding.pptx (3786141B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Here are those documents.\\r\\n\\r\\n-- \\r\\nMallori Harrell\\r\\nUnstructured Technologies\\r\\nData Scientist\"},{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  unstructured_logo.png (96226B)\"},{\"type\":\"paragraph\",\"text\":\"  dense_doc.pdf (383508B)\"},{\"type\":\"paragraph\",\"text\":\"  Engineering Onboarding.pptx (3786141B)\"}]}",
+    "markdown": "**Subject**: multiple attachments\n\n**From**: mallori@unstructured.io\n\n**To**: \"Mallori Harrell\" \\<mallori@unstructured.io\\>\n\n**Date**: 2023-04-20T16:28:48.334+00:00\n\nHere are those documents. -- Mallori Harrell Unstructured Technologies Data Scientist\n\nAttachments:\n\n unstructured_logo.png (96226B)\n\n dense_doc.pdf (383508B)\n\n Engineering Onboarding.pptx (3786141B)\n",
+    "plain": "Subject: multiple attachments\nFrom: mallori@unstructured.io\nTo: \"Mallori Harrell\" <mallori@unstructured.io>\nDate: 2023-04-20T16:28:48.334+00:00\n\nHere are those documents.\r\n\r\n-- \r\nMallori Harrell\r\nUnstructured Technologies\r\nData Scientist\n\nAttachments:\n\n  unstructured_logo.png (96226B)\n\n  dense_doc.pdf (383508B)\n\n  Engineering Onboarding.pptx (3786141B)"
+  }
+}

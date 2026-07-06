@@ -1,0 +1,39 @@
+{
+  "file": "email/msg_with_attachments_alt.msg",
+  "mime_type": "application/vnd.ms-outlook",
+  "success": true,
+  "metadata": {
+    "subject": "This is the subject",
+    "authors": [
+      "peterpan@neverland.com"
+    ],
+    "format": {
+      "format_type": "email",
+      "from_email": "peterpan@neverland.com",
+      "from_name": "peterpan@neverland.com",
+      "to_emails": [
+        "crocodile@neverland.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "attachments": [
+        "canvas.png"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "email/msg_with_attachments_alt.msg",
+      "source_index": 0,
+      "final_uri": "email/msg_with_attachments_alt.msg"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: This is the subject</p>\n<p><strong>From</strong>: peterpan@neverland.com</p>\n<p><strong>To</strong>: crocodile@neverland.com</p>\n<p>Attachments:</p>\n<p> canvas.png (259345B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  canvas.png (259345B)\"}]}",
+    "markdown": "**Subject**: This is the subject\n\n**From**: peterpan@neverland.com\n\n**To**: crocodile@neverland.com\n\nAttachments:\n\n canvas.png (259345B)\n",
+    "plain": "Subject: This is the subject\nFrom: peterpan@neverland.com\nTo: crocodile@neverland.com\n\nAttachments:\n\n  canvas.png (259345B)"
+  }
+}

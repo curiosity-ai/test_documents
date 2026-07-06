@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/issue-1181.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 15,
+      "word_count": 24,
+      "character_count": 216
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/pdf/issue-1181.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/pdf/issue-1181.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>FooCol1 FooCol2 FooCol3</p>\n<p>Foo4 Foo5 Foo6</p>\n<p>Foo7 Foo8 Foo9</p>\n<p>Foo10 Foo11 Foo12 BarCol1 BarCol2 BarCol3</p>\n<p>Bar4 Bar5 Bar6</p>\n<p>Bar7 Bar8 Bar9</p>\n<p>Bar10 Bar11 Bar12</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"FooCol1   FooCol2   FooCol3\"},{\"type\":\"paragraph\",\"text\":\"Foo4      Foo5      Foo6\"},{\"type\":\"paragraph\",\"text\":\"Foo7      Foo8      Foo9\"},{\"type\":\"paragraph\",\"text\":\"Foo10     Foo11     Foo12\\n\\fBarCol1   BarCol2   BarCol3\"},{\"type\":\"paragraph\",\"text\":\"Bar4      Bar5      Bar6\"},{\"type\":\"paragraph\",\"text\":\"Bar7      Bar8      Bar9\"},{\"type\":\"paragraph\",\"text\":\"Bar10     Bar11     Bar12\"}]}",
+    "markdown": "FooCol1 FooCol2 FooCol3\n\nFoo4 Foo5 Foo6\n\nFoo7 Foo8 Foo9\n\nFoo10 Foo11 Foo12 BarCol1 BarCol2 BarCol3\n\nBar4 Bar5 Bar6\n\nBar7 Bar8 Bar9\n\nBar10 Bar11 Bar12\n",
+    "plain": "FooCol1   FooCol2   FooCol3\n\nFoo4      Foo5      Foo6\n\nFoo7      Foo8      Foo9\n\nFoo10     Foo11     Foo12\n\fBarCol1   BarCol2   BarCol3\n\nBar4      Bar5      Bar6\n\nBar7      Bar8      Bar9\n\nBar10     Bar11     Bar12"
+  }
+}

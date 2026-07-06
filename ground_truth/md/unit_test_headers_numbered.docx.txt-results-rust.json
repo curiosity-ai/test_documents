@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/unit_test_headers_numbered.docx.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 43,
+      "word_count": 59,
+      "character_count": 400
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/md/unit_test_headers_numbered.docx.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/md/unit_test_headers_numbered.docx.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Test Document</p>\n<p>## 1 Section 1</p>\n<p>Paragraph 1.1</p>\n<p>Paragraph 1.2</p>\n<p>### 1.1 Section 1.1</p>\n<p>Paragraph 1.1.1</p>\n<p>Paragraph 1.1.2</p>\n<p>### 1.2 Section 1.2</p>\n<p>Paragraph 1.1.1</p>\n<p>Paragraph 1.1.2</p>\n<p>#### 1.2.1 Section 1.2.3</p>\n<p>Paragraph 1.2.3.1</p>\n<p>Paragraph 1.2.3.1</p>\n<p>## 2 Section 2</p>\n<p>Paragraph 2.1</p>\n<p>Paragraph 2.2</p>\n<p>#### 2.1.1 Section 2.1.1</p>\n<p>Paragraph 2.1.1.1</p>\n<p>Paragraph 2.1.1.1</p>\n<p>### 2.2 Section 2.1</p>\n<p>Paragraph 2.1.1</p>\n<p>Paragraph 2.1.2</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Test Document\"},{\"type\":\"paragraph\",\"text\":\"## 1 Section 1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.2\"},{\"type\":\"paragraph\",\"text\":\"### 1.1 Section 1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1.2\"},{\"type\":\"paragraph\",\"text\":\"### 1.2 Section 1.2\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.1.2\"},{\"type\":\"paragraph\",\"text\":\"#### 1.2.1 Section 1.2.3\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.2.3.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 1.2.3.1\"},{\"type\":\"paragraph\",\"text\":\"## 2 Section 2\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.2\"},{\"type\":\"paragraph\",\"text\":\"#### 2.1.1 Section 2.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1.1.1\"},{\"type\":\"paragraph\",\"text\":\"### 2.2 Section 2.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1.1\"},{\"type\":\"paragraph\",\"text\":\"Paragraph 2.1.2\"}]}",
+    "markdown": "\\# Test Document\n\n\\#\\# 1 Section 1\n\nParagraph 1.1\n\nParagraph 1.2\n\n\\#\\#\\# 1.1 Section 1.1\n\nParagraph 1.1.1\n\nParagraph 1.1.2\n\n\\#\\#\\# 1.2 Section 1.2\n\nParagraph 1.1.1\n\nParagraph 1.1.2\n\n\\#\\#\\#\\# 1.2.1 Section 1.2.3\n\nParagraph 1.2.3.1\n\nParagraph 1.2.3.1\n\n\\#\\# 2 Section 2\n\nParagraph 2.1\n\nParagraph 2.2\n\n\\#\\#\\#\\# 2.1.1 Section 2.1.1\n\nParagraph 2.1.1.1\n\nParagraph 2.1.1.1\n\n\\#\\#\\# 2.2 Section 2.1\n\nParagraph 2.1.1\n\nParagraph 2.1.2\n",
+    "plain": "# Test Document\n\n## 1 Section 1\n\nParagraph 1.1\n\nParagraph 1.2\n\n### 1.1 Section 1.1\n\nParagraph 1.1.1\n\nParagraph 1.1.2\n\n### 1.2 Section 1.2\n\nParagraph 1.1.1\n\nParagraph 1.1.2\n\n#### 1.2.1 Section 1.2.3\n\nParagraph 1.2.3.1\n\nParagraph 1.2.3.1\n\n## 2 Section 2\n\nParagraph 2.1\n\nParagraph 2.2\n\n#### 2.1.1 Section 2.1.1\n\nParagraph 2.1.1.1\n\nParagraph 2.1.1.1\n\n### 2.2 Section 2.1\n\nParagraph 2.1.1\n\nParagraph 2.1.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "file": "code/app.js",
+  "mime_type": "text/javascript",
+  "success": false,
+  "error": "Unsupported format: text/javascript",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

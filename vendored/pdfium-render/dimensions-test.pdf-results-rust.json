@@ -1,0 +1,36 @@
+{
+  "file": "vendored/pdfium-render/dimensions-test.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2023-03-08T10:52:10Z",
+    "modified_at": "2023-05-24T10:01:31Z",
+    "created_by": "Impress",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.6",
+      "producer": "LibreOffice 7.3",
+      "is_encrypted": false,
+      "width": 720,
+      "height": 405,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "vendored/pdfium-render/dimensions-test.pdf",
+      "final_uri": "vendored/pdfium-render/dimensions-test.pdf",
+      "extraction_method": "native",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>E mp t y d o c u me nt</h1>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Empty d            ocument\"}]}",
+    "markdown": "# E mp t y d o c u me nt\n",
+    "plain": "Empty d            ocument"
+  }
+}

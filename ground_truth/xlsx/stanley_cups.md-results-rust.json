@@ -1,0 +1,85 @@
+{
+  "file": "ground_truth/xlsx/stanley_cups.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/xlsx/stanley_cups.md",
+      "final_uri": "ground_truth/xlsx/stanley_cups.md",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Stanley Cups",
+          "",
+          ""
+        ],
+        [
+          "Team",
+          "Location",
+          "Stanley Cups"
+        ],
+        [
+          "Blues",
+          "STL",
+          "1.0"
+        ],
+        [
+          "Flyers",
+          "PHI",
+          "2.0"
+        ],
+        [
+          "Maple Leafs",
+          "TOR",
+          "13.0"
+        ]
+      ],
+      "markdown": "| Stanley Cups |  |  |\n| --- | --- | --- |\n| Team | Location | Stanley Cups |\n| Blues | STL | 1.0 |\n| Flyers | PHI | 2.0 |\n| Maple Leafs | TOR | 13.0 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Stanley Cups Since 67",
+          "",
+          ""
+        ],
+        [
+          "Team",
+          "Location",
+          "Stanley Cups"
+        ],
+        [
+          "Blues",
+          "STL",
+          "1.0"
+        ],
+        [
+          "Flyers",
+          "PHI",
+          "2.0"
+        ],
+        [
+          "Maple Leafs",
+          "TOR",
+          "0.0"
+        ]
+      ],
+      "markdown": "| Stanley Cups Since 67 |  |  |\n| --- | --- | --- |\n| Team | Location | Stanley Cups |\n| Blues | STL | 1.0 |\n| Flyers | PHI | 2.0 |\n| Maple Leafs | TOR | 0.0 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h2>Stanley Cups</h2>\n<table>\n<thead>\n<tr>\n<th>Stanley Cups</th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Team</td>\n<td>Location</td>\n<td>Stanley Cups</td>\n</tr>\n<tr>\n<td>Blues</td>\n<td>STL</td>\n<td>1.0</td>\n</tr>\n<tr>\n<td>Flyers</td>\n<td>PHI</td>\n<td>2.0</td>\n</tr>\n<tr>\n<td>Maple Leafs</td>\n<td>TOR</td>\n<td>13.0</td>\n</tr>\n</tbody>\n</table>\n<h2>Stanley Cups Since 67</h2>\n<table>\n<thead>\n<tr>\n<th>Stanley Cups Since 67</th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Team</td>\n<td>Location</td>\n<td>Stanley Cups</td>\n</tr>\n<tr>\n<td>Blues</td>\n<td>STL</td>\n<td>1.0</td>\n</tr>\n<tr>\n<td>Flyers</td>\n<td>PHI</td>\n<td>2.0</td>\n</tr>\n<tr>\n<td>Maple Leafs</td>\n<td>TOR</td>\n<td>0.0</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Stanley Cups\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Stanley Cups\",\"\",\"\"],\"rows\":[[\"Team\",\"Location\",\"Stanley Cups\"],[\"Blues\",\"STL\",\"1.0\"],[\"Flyers\",\"PHI\",\"2.0\"],[\"Maple Leafs\",\"TOR\",\"13.0\"]]}]},{\"type\":\"section\",\"heading\":\"Stanley Cups Since 67\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Stanley Cups Since 67\",\"\",\"\"],\"rows\":[[\"Team\",\"Location\",\"Stanley Cups\"],[\"Blues\",\"STL\",\"1.0\"],[\"Flyers\",\"PHI\",\"2.0\"],[\"Maple Leafs\",\"TOR\",\"0.0\"]]}]}]}",
+    "markdown": "## Stanley Cups\n\n| Stanley Cups |  |  |\n| --- | --- | --- |\n| Team | Location | Stanley Cups |\n| Blues | STL | 1.0 |\n| Flyers | PHI | 2.0 |\n| Maple Leafs | TOR | 13.0 |\n\n## Stanley Cups Since 67\n\n| Stanley Cups Since 67 |  |  |\n| --- | --- | --- |\n| Team | Location | Stanley Cups |\n| Blues | STL | 1.0 |\n| Flyers | PHI | 2.0 |\n| Maple Leafs | TOR | 0.0 |\n",
+    "plain": "  Stanley Cups\nStanley Cups  \nTeam Location Stanley Cups\nBlues STL 1.0\nFlyers PHI 2.0\nMaple Leafs TOR 13.0\n\n  Stanley Cups Since 67\nStanley Cups Since 67  \nTeam Location Stanley Cups\nBlues STL 1.0\nFlyers PHI 2.0\nMaple Leafs TOR 0.0"
+  }
+}

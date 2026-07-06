@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/epub/img.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/epub/img.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/epub/img.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Multimedia</h2>\n<h3>Images</h3>\n<h4>[REQUIRED] img-010 GIF</h4>\n<p>Tests whether the GIF image format is supported.</p>\n<p>If a checkmark precedes this paragaph, the test passes.</p>\n<h4>[REQUIRED] img-020 PNG</h4>\n<p>Tests whether the PNG image format is supported.</p>\n<p>If a checkmark precedes this paragaph, the test passes.</p>\n<h4>[REQUIRED] img-030 JPEG</h4>\n<p>Tests whether the JPEG image format is supported.</p>\n<p>If a checkmark precedes this paragaph, the test passes.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Multimedia\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"Images\",\"level\":3,\"body\":[{\"type\":\"section\",\"heading\":\"[REQUIRED] img-010 GIF\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"Tests whether the GIF image format is supported.\"},{\"type\":\"image\"},{\"type\":\"paragraph\",\"text\":\"If a checkmark precedes this paragaph, the test passes.\"}]},{\"type\":\"section\",\"heading\":\"[REQUIRED] img-020 PNG\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"Tests whether the PNG image format is supported.\"},{\"type\":\"image\"},{\"type\":\"paragraph\",\"text\":\"If a checkmark precedes this paragaph, the test passes.\"}]},{\"type\":\"section\",\"heading\":\"[REQUIRED] img-030 JPEG\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"Tests whether the JPEG image format is supported.\"},{\"type\":\"image\"},{\"type\":\"paragraph\",\"text\":\"If a checkmark precedes this paragaph, the test passes.\"}]}]}]}]}",
+    "markdown": "## Multimedia\n\n### Images\n\n#### [REQUIRED] img-010 GIF\n\nTests whether the GIF image format is supported.\n\nIf a checkmark precedes this paragaph, the test passes.\n\n#### [REQUIRED] img-020 PNG\n\nTests whether the PNG image format is supported.\n\nIf a checkmark precedes this paragaph, the test passes.\n\n#### [REQUIRED] img-030 JPEG\n\nTests whether the JPEG image format is supported.\n\nIf a checkmark precedes this paragaph, the test passes.\n",
+    "plain": "  Multimedia\n    Images\n      [REQUIRED] img-010 GIF\nTests whether the GIF image format is supported.\n\nIf a checkmark precedes this paragaph, the test passes.\n\n      [REQUIRED] img-020 PNG\nTests whether the PNG image format is supported.\n\nIf a checkmark precedes this paragaph, the test passes.\n\n      [REQUIRED] img-030 JPEG\nTests whether the JPEG image format is supported.\n\nIf a checkmark precedes this paragaph, the test passes."
+  }
+}

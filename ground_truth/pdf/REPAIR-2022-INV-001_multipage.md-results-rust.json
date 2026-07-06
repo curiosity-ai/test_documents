@@ -1,0 +1,343 @@
+{
+  "file": "ground_truth/pdf/REPAIR-2022-INV-001_multipage.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "ZAVA AUTO REPAIR",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/REPAIR-2022-INV-001_multipage.md",
+      "source_index": 0,
+      "final_uri": "ground_truth/pdf/REPAIR-2022-INV-001_multipage.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Customer Information",
+          "",
+          "Vehicle Information",
+          ""
+        ],
+        [
+          "Insured name",
+          "Gabriel Diaz",
+          "Year",
+          "2022"
+        ],
+        [
+          "Claim #",
+          "SF-1008",
+          "Make",
+          "Jeep"
+        ],
+        [
+          "Policy #",
+          "POL-2022-555",
+          "Model",
+          "Grand Cherokee"
+        ],
+        [
+          "Phone",
+          "(425) 111-1111",
+          "Trim",
+          "Limited"
+        ],
+        [
+          "Email",
+          "gabriel@contoso.com",
+          "VIN",
+          "1C4RJFBG2NC123456"
+        ],
+        [
+          "",
+          "",
+          "Color",
+          "White"
+        ],
+        [
+          "",
+          "",
+          "Odometer",
+          "9,800"
+        ],
+        [
+          "Repair Order #",
+          "RO-20221108",
+          "Estimator",
+          "Ellis Turner"
+        ]
+      ],
+      "markdown": "| Customer Information |  | Vehicle Information |  |\n| --- | --- | --- | --- |\n| Insured name | Gabriel Diaz | Year | 2022 |\n| Claim # | SF-1008 | Make | Jeep |\n| Policy # | POL-2022-555 | Model | Grand Cherokee |\n| Phone | (425) 111-1111 | Trim | Limited |\n| Email | gabriel@contoso.com | VIN | 1C4RJFBG2NC123456 |\n|  |  | Color | White |\n|  |  | Odometer | 9,800 |\n| Repair Order # | RO-20221108 | Estimator | Ellis Turner |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "",
+          "Hours",
+          "Rate",
+          "Cost"
+        ],
+        [
+          "Parts",
+          "",
+          "",
+          "2,100"
+        ],
+        [
+          "Body Labor",
+          "2",
+          "150",
+          "300"
+        ],
+        [
+          "Paint Labor",
+          "1.5",
+          "150",
+          "225"
+        ],
+        [
+          "Mechanical Labor",
+          "-",
+          "-",
+          "-"
+        ],
+        [
+          "Supplies",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Paint Supplies",
+          "",
+          "",
+          "60"
+        ],
+        [
+          "Body Supplies",
+          "",
+          "",
+          "30"
+        ],
+        [
+          "Other Charges",
+          "",
+          "",
+          "15"
+        ],
+        [
+          "Subtotal",
+          "",
+          "",
+          "2,730"
+        ],
+        [
+          "Sales Tax",
+          "",
+          "10.20%",
+          "278.46"
+        ],
+        [
+          "GRAND TOTAL",
+          "",
+          "",
+          "5,738"
+        ]
+      ],
+      "markdown": "|  | Hours | Rate | Cost |\n| --- | --- | --- | --- |\n| Parts |  |  | 2,100 |\n| Body Labor | 2 | 150 | 300 |\n| Paint Labor | 1.5 | 150 | 225 |\n| Mechanical Labor | - | - | - |\n| Supplies |  |  |  |\n| Paint Supplies |  |  | 60 |\n| Body Supplies |  |  | 30 |\n| Other Charges |  |  | 15 |\n| Subtotal |  |  | 2,730 |\n| Sales Tax |  | 10.20% | 278.46 |\n| GRAND TOTAL |  |  | 5,738 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "Preliminary Estimate (ID: EST-1008)",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Customer Information",
+          "",
+          "",
+          "Vehicle Information",
+          ""
+        ],
+        [
+          "Insured name",
+          "Bruce Wayne",
+          "",
+          "Year",
+          "2025"
+        ],
+        [
+          "Claim #",
+          "",
+          "999",
+          "Make",
+          "Batman"
+        ],
+        [
+          "Policy #",
+          "IM-BATMAN",
+          "",
+          "Model",
+          "Batmobile"
+        ],
+        [
+          "Phone",
+          "(416) 555-1234",
+          "",
+          "Trim",
+          "Limited"
+        ],
+        [
+          "Email",
+          "batman@wayneindustries.com",
+          "",
+          "VIN",
+          "XXX"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Color",
+          "Black"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Odometer",
+          "1"
+        ],
+        [
+          "Repair Order #",
+          "RO-20221108",
+          "",
+          "Estimator",
+          "Ellis Turner"
+        ],
+        [
+          "Estimate Totals",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "---",
+          "---",
+          "---",
+          "---",
+          "---"
+        ],
+        [
+          "",
+          "",
+          "Hours",
+          "Rate",
+          "Cost"
+        ],
+        [
+          "Parts",
+          "",
+          "",
+          "",
+          "99,999"
+        ],
+        [
+          "Body Labor",
+          "",
+          "2",
+          "150",
+          "300"
+        ],
+        [
+          "Paint Labor",
+          "",
+          "1.5",
+          "150",
+          "225"
+        ],
+        [
+          "Mechanical Labor",
+          "",
+          "-",
+          "-",
+          "-"
+        ],
+        [
+          "Supplies",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Paint Supplies",
+          "",
+          "",
+          "60"
+        ],
+        [
+          "",
+          "Body Supplies",
+          "",
+          "",
+          "30"
+        ],
+        [
+          "Other Charges",
+          "",
+          "",
+          "",
+          "15"
+        ],
+        [
+          "Subtotal",
+          "",
+          "",
+          "",
+          "100,629"
+        ],
+        [
+          "Sales Tax",
+          "",
+          "",
+          "10.20%",
+          "10264.158"
+        ],
+        [
+          "GRAND TOTAL",
+          "",
+          "",
+          "",
+          "211,522"
+        ],
+        [
+          "Note",
+          "Minor rear bumper repair",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| Preliminary Estimate (ID: EST-1008) |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| Customer Information |  |  | Vehicle Information |  |\n| Insured name | Bruce Wayne |  | Year | 2025 |\n| Claim # |  | 999 | Make | Batman |\n| Policy # | IM-BATMAN |  | Model | Batmobile |\n| Phone | (416) 555-1234 |  | Trim | Limited |\n| Email | batman@wayneindustries.com |  | VIN | XXX |\n|  |  |  | Color | Black |\n|  |  |  | Odometer | 1 |\n| Repair Order # | RO-20221108 |  | Estimator | Ellis Turner |\n| Estimate Totals |  |  |  |  |\n| --- | --- | --- | --- | --- |\n|  |  | Hours | Rate | Cost |\n| Parts |  |  |  | 99,999 |\n| Body Labor |  | 2 | 150 | 300 |\n| Paint Labor |  | 1.5 | 150 | 225 |\n| Mechanical Labor |  | - | - | - |\n| Supplies |  |  |  |  |\n|  | Paint Supplies |  |  | 60 |\n|  | Body Supplies |  |  | 30 |\n| Other Charges |  |  |  | 15 |\n| Subtotal |  |  |  | 100,629 |\n| Sales Tax |  |  | 10.20% | 10264.158 |\n| GRAND TOTAL |  |  |  | 211,522 |\n| Note | Minor rear bumper repair |  |  |  |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>ZAVA AUTO REPAIR</h1>\n<p>Certified Collision Repair</p>\n<p>123 Main Street, Redmond, WA 98052</p>\n<p>Phone: (425) 000-0000</p>\n<p>Preliminary Estimate (ID: EST-1008)</p>\n<table>\n<thead>\n<tr>\n<th>Customer Information</th>\n<th></th>\n<th>Vehicle Information</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Insured name</td>\n<td>Gabriel Diaz</td>\n<td>Year</td>\n<td>2022</td>\n</tr>\n<tr>\n<td>Claim #</td>\n<td>SF-1008</td>\n<td>Make</td>\n<td>Jeep</td>\n</tr>\n<tr>\n<td>Policy #</td>\n<td>POL-2022-555</td>\n<td>Model</td>\n<td>Grand Cherokee</td>\n</tr>\n<tr>\n<td>Phone</td>\n<td>(425) 111-1111</td>\n<td>Trim</td>\n<td>Limited</td>\n</tr>\n<tr>\n<td>Email</td>\n<td>gabriel@contoso.com</td>\n<td>VIN</td>\n<td>1C4RJFBG2NC123456</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Color</td>\n<td>White</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Odometer</td>\n<td>9,800</td>\n</tr>\n<tr>\n<td>Repair Order #</td>\n<td>RO-20221108</td>\n<td>Estimator</td>\n<td>Ellis Turner</td>\n</tr>\n</tbody>\n</table>\n<p>Estimate Totals</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Hours</th>\n<th>Rate</th>\n<th>Cost</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Parts</td>\n<td></td>\n<td></td>\n<td>2,100</td>\n</tr>\n<tr>\n<td>Body Labor</td>\n<td>2</td>\n<td>150</td>\n<td>300</td>\n</tr>\n<tr>\n<td>Paint Labor</td>\n<td>1.5</td>\n<td>150</td>\n<td>225</td>\n</tr>\n<tr>\n<td>Mechanical Labor</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Supplies</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Paint Supplies</td>\n<td></td>\n<td></td>\n<td>60</td>\n</tr>\n<tr>\n<td>Body Supplies</td>\n<td></td>\n<td></td>\n<td>30</td>\n</tr>\n<tr>\n<td>Other Charges</td>\n<td></td>\n<td></td>\n<td>15</td>\n</tr>\n<tr>\n<td>Subtotal</td>\n<td></td>\n<td></td>\n<td>2,730</td>\n</tr>\n<tr>\n<td>Sales Tax</td>\n<td></td>\n<td>10.20%</td>\n<td>278.46</td>\n</tr>\n<tr>\n<td>GRAND TOTAL</td>\n<td></td>\n<td></td>\n<td>5,738</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Note</strong> Minor rear bumper repair</p>\n<p>This is a preliminary estimate for the visible damage of the vehicle. Additional damage / repairs / parts may be found after the vehicle has been disassembled and damaged parts have been removed. Suspension damages may be present, but can not be determined until an alignment on the vehicle has been done. Parts Prices may vary due to models and vehicle maker price updates. Please be advised if vehicle owner elects to have vehicle sent to service for any mechanical concerns, ALL service departments charge a vehicle diagnostic charge. If the mechanical concern is deemed not related to an insurance claim, vehicle owner will be responsible for charges.</p>\n<h1>ZAVA</h1>\n<h1>AUTO REPAIR</h1>\n<h1>ZAVA AUTO REPAIR</h1>\n<p>Certified Collision Repair</p>\n<p>123 Main Street, Redmond, WA 98052</p>\n<p>Phone: (425) 000-0000</p>\n<table>\n<thead>\n<tr>\n<th>Preliminary Estimate (ID: EST-1008)</th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Customer Information</td>\n<td></td>\n<td></td>\n<td>Vehicle Information</td>\n<td></td>\n</tr>\n<tr>\n<td>Insured name</td>\n<td>Bruce Wayne</td>\n<td></td>\n<td>Year</td>\n<td>2025</td>\n</tr>\n<tr>\n<td>Claim #</td>\n<td></td>\n<td>999</td>\n<td>Make</td>\n<td>Batman</td>\n</tr>\n<tr>\n<td>Policy #</td>\n<td>IM-BATMAN</td>\n<td></td>\n<td>Model</td>\n<td>Batmobile</td>\n</tr>\n<tr>\n<td>Phone</td>\n<td>(416) 555-1234</td>\n<td></td>\n<td>Trim</td>\n<td>Limited</td>\n</tr>\n<tr>\n<td>Email</td>\n<td>batman@wayneindustries.com</td>\n<td></td>\n<td>VIN</td>\n<td>XXX</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Color</td>\n<td>Black</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Odometer</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Repair Order #</td>\n<td>RO-20221108</td>\n<td></td>\n<td>Estimator</td>\n<td>Ellis Turner</td>\n</tr>\n<tr>\n<td>Estimate Totals</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>---</td>\n<td>---</td>\n<td>---</td>\n<td>---</td>\n<td>---</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td>Hours</td>\n<td>Rate</td>\n<td>Cost</td>\n</tr>\n<tr>\n<td>Parts</td>\n<td></td>\n<td></td>\n<td></td>\n<td>99,999</td>\n</tr>\n<tr>\n<td>Body Labor</td>\n<td></td>\n<td>2</td>\n<td>150</td>\n<td>300</td>\n</tr>\n<tr>\n<td>Paint Labor</td>\n<td></td>\n<td>1.5</td>\n<td>150</td>\n<td>225</td>\n</tr>\n<tr>\n<td>Mechanical Labor</td>\n<td></td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n</tr>\n<tr>\n<td>Supplies</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Paint Supplies</td>\n<td></td>\n<td></td>\n<td>60</td>\n</tr>\n<tr>\n<td></td>\n<td>Body Supplies</td>\n<td></td>\n<td></td>\n<td>30</td>\n</tr>\n<tr>\n<td>Other Charges</td>\n<td></td>\n<td></td>\n<td></td>\n<td>15</td>\n</tr>\n<tr>\n<td>Subtotal</td>\n<td></td>\n<td></td>\n<td></td>\n<td>100,629</td>\n</tr>\n<tr>\n<td>Sales Tax</td>\n<td></td>\n<td></td>\n<td>10.20%</td>\n<td>10264.158</td>\n</tr>\n<tr>\n<td>GRAND TOTAL</td>\n<td></td>\n<td></td>\n<td></td>\n<td>211,522</td>\n</tr>\n<tr>\n<td>Note</td>\n<td>Minor rear bumper repair</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>This is a preliminary estimate for the visible damage of the vehicle. Additional damage / repairs / parts may be found after the vehicle has been disassembled and damaged parts have been removed. Suspension damages may be present, but can not be determined until an alignment on the vehicle has been done. Parts Prices may vary due to models and vehicle maker price updates. Please be advised if vehicle owner elects to have vehicle sent to service for any mechanical concerns, ALL service departments charge a vehicle diagnostic charge. If the mechanical concern is deemed not related to an insurance claim, vehicle owner will be responsible for charges.</p>\n",
+    "json": "{\"body\":[{\"type\":\"image\"},{\"type\":\"section\",\"heading\":\"ZAVA AUTO REPAIR\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Certified Collision Repair\"},{\"type\":\"paragraph\",\"text\":\"123 Main Street, Redmond, WA 98052\"},{\"type\":\"paragraph\",\"text\":\"Phone: (425) 000-0000\"},{\"type\":\"paragraph\",\"text\":\"Preliminary Estimate (ID: EST-1008)\"},{\"type\":\"table\",\"headers\":[\"Customer Information\",\"\",\"Vehicle Information\",\"\"],\"rows\":[[\"Insured name\",\"Gabriel Diaz\",\"Year\",\"2022\"],[\"Claim #\",\"SF-1008\",\"Make\",\"Jeep\"],[\"Policy #\",\"POL-2022-555\",\"Model\",\"Grand Cherokee\"],[\"Phone\",\"(425) 111-1111\",\"Trim\",\"Limited\"],[\"Email\",\"gabriel@contoso.com\",\"VIN\",\"1C4RJFBG2NC123456\"],[\"\",\"\",\"Color\",\"White\"],[\"\",\"\",\"Odometer\",\"9,800\"],[\"Repair Order #\",\"RO-20221108\",\"Estimator\",\"Ellis Turner\"]]},{\"type\":\"paragraph\",\"text\":\"Estimate Totals\"},{\"type\":\"table\",\"headers\":[\"\",\"Hours\",\"Rate\",\"Cost\"],\"rows\":[[\"Parts\",\"\",\"\",\"2,100\"],[\"Body Labor\",\"2\",\"150\",\"300\"],[\"Paint Labor\",\"1.5\",\"150\",\"225\"],[\"Mechanical Labor\",\"-\",\"-\",\"-\"],[\"Supplies\",\"\",\"\",\"\"],[\"Paint Supplies\",\"\",\"\",\"60\"],[\"Body Supplies\",\"\",\"\",\"30\"],[\"Other Charges\",\"\",\"\",\"15\"],[\"Subtotal\",\"\",\"\",\"2,730\"],[\"Sales Tax\",\"\",\"10.20%\",\"278.46\"],[\"GRAND TOTAL\",\"\",\"\",\"5,738\"]]},{\"type\":\"paragraph\",\"text\":\"Note Minor rear bumper repair\"},{\"type\":\"paragraph\",\"text\":\"This is a preliminary estimate for the visible damage of the vehicle. Additional damage / repairs / parts may be found after the vehicle has been disassembled and damaged parts have been removed. Suspension damages may be present, but can not be determined until an alignment on the vehicle has been done. Parts Prices may vary due to models and vehicle maker price updates. Please be advised if vehicle owner elects to have vehicle sent to service for any mechanical concerns, ALL service departments charge a vehicle diagnostic charge. If the mechanical concern is deemed not related to an insurance claim, vehicle owner will be responsible for charges.\"},{\"type\":\"image\"}]},{\"type\":\"section\",\"heading\":\"ZAVA\",\"level\":1,\"body\":[]},{\"type\":\"section\",\"heading\":\"AUTO REPAIR\",\"level\":1,\"body\":[]},{\"type\":\"section\",\"heading\":\"ZAVA AUTO REPAIR\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Certified Collision Repair\"},{\"type\":\"paragraph\",\"text\":\"123 Main Street, Redmond, WA 98052\"},{\"type\":\"paragraph\",\"text\":\"Phone: (425) 000-0000\"},{\"type\":\"table\",\"headers\":[\"Preliminary Estimate (ID: EST-1008)\",\"\",\"\",\"\",\"\"],\"rows\":[[\"Customer Information\",\"\",\"\",\"Vehicle Information\",\"\"],[\"Insured name\",\"Bruce Wayne\",\"\",\"Year\",\"2025\"],[\"Claim #\",\"\",\"999\",\"Make\",\"Batman\"],[\"Policy #\",\"IM-BATMAN\",\"\",\"Model\",\"Batmobile\"],[\"Phone\",\"(416) 555-1234\",\"\",\"Trim\",\"Limited\"],[\"Email\",\"batman@wayneindustries.com\",\"\",\"VIN\",\"XXX\"],[\"\",\"\",\"\",\"Color\",\"Black\"],[\"\",\"\",\"\",\"Odometer\",\"1\"],[\"Repair Order #\",\"RO-20221108\",\"\",\"Estimator\",\"Ellis Turner\"],[\"Estimate Totals\",\"\",\"\",\"\",\"\"],[\"---\",\"---\",\"---\",\"---\",\"---\"],[\"\",\"\",\"Hours\",\"Rate\",\"Cost\"],[\"Parts\",\"\",\"\",\"\",\"99,999\"],[\"Body Labor\",\"\",\"2\",\"150\",\"300\"],[\"Paint Labor\",\"\",\"1.5\",\"150\",\"225\"],[\"Mechanical Labor\",\"\",\"-\",\"-\",\"-\"],[\"Supplies\",\"\",\"\",\"\",\"\"],[\"\",\"Paint Supplies\",\"\",\"\",\"60\"],[\"\",\"Body Supplies\",\"\",\"\",\"30\"],[\"Other Charges\",\"\",\"\",\"\",\"15\"],[\"Subtotal\",\"\",\"\",\"\",\"100,629\"],[\"Sales Tax\",\"\",\"\",\"10.20%\",\"10264.158\"],[\"GRAND TOTAL\",\"\",\"\",\"\",\"211,522\"],[\"Note\",\"Minor rear bumper repair\",\"\",\"\",\"\"]]},{\"type\":\"paragraph\",\"text\":\"This is a preliminary estimate for the visible damage of the vehicle. Additional damage / repairs / parts may be found after the vehicle has been disassembled and damaged parts have been removed. Suspension damages may be present, but can not be determined until an alignment on the vehicle has been done. Parts Prices may vary due to models and vehicle maker price updates. Please be advised if vehicle owner elects to have vehicle sent to service for any mechanical concerns, ALL service departments charge a vehicle diagnostic charge. If the mechanical concern is deemed not related to an insurance claim, vehicle owner will be responsible for charges.\"}]}]}",
+    "markdown": "# ZAVA AUTO REPAIR\n\nCertified Collision Repair\n\n123 Main Street, Redmond, WA 98052\n\nPhone: (425) 000-0000\n\nPreliminary Estimate (ID: EST-1008)\n\n| Customer Information |  | Vehicle Information |  |\n| --- | --- | --- | --- |\n| Insured name | Gabriel Diaz | Year | 2022 |\n| Claim \\# | SF-1008 | Make | Jeep |\n| Policy \\# | POL-2022-555 | Model | Grand Cherokee |\n| Phone | (425) 111-1111 | Trim | Limited |\n| Email | gabriel@contoso.com | VIN | 1C4RJFBG2NC123456 |\n|  |  | Color | White |\n|  |  | Odometer | 9,800 |\n| Repair Order \\# | RO-20221108 | Estimator | Ellis Turner |\n\nEstimate Totals\n\n|  | Hours | Rate | Cost |\n| --- | --- | --- | --- |\n| Parts |  |  | 2,100 |\n| Body Labor | 2 | 150 | 300 |\n| Paint Labor | 1.5 | 150 | 225 |\n| Mechanical Labor | - | - | - |\n| Supplies |  |  |  |\n| Paint Supplies |  |  | 60 |\n| Body Supplies |  |  | 30 |\n| Other Charges |  |  | 15 |\n| Subtotal |  |  | 2,730 |\n| Sales Tax |  | 10.20% | 278.46 |\n| GRAND TOTAL |  |  | 5,738 |\n\n**Note** Minor rear bumper repair\n\nThis is a preliminary estimate for the visible damage of the vehicle. Additional damage / repairs / parts may be found after the vehicle has been disassembled and damaged parts have been removed. Suspension damages may be present, but can not be determined until an alignment on the vehicle has been done. Parts Prices may vary due to models and vehicle maker price updates. Please be advised if vehicle owner elects to have vehicle sent to service for any mechanical concerns, ALL service departments charge a vehicle diagnostic charge. If the mechanical concern is deemed not related to an insurance claim, vehicle owner will be responsible for charges.\n\n# ZAVA\n\n# AUTO REPAIR\n\n# ZAVA AUTO REPAIR\n\nCertified Collision Repair\n\n123 Main Street, Redmond, WA 98052\n\nPhone: (425) 000-0000\n\n| Preliminary Estimate (ID: EST-1008) |  |  |  |  |\n| --- | --- | --- | --- | --- |\n| Customer Information |  |  | Vehicle Information |  |\n| Insured name | Bruce Wayne |  | Year | 2025 |\n| Claim \\# |  | 999 | Make | Batman |\n| Policy \\# | IM-BATMAN |  | Model | Batmobile |\n| Phone | (416) 555-1234 |  | Trim | Limited |\n| Email | batman@wayneindustries.com |  | VIN | XXX |\n|  |  |  | Color | Black |\n|  |  |  | Odometer | 1 |\n| Repair Order \\# | RO-20221108 |  | Estimator | Ellis Turner |\n| Estimate Totals |  |  |  |  |\n| --- | --- | --- | --- | --- |\n|  |  | Hours | Rate | Cost |\n| Parts |  |  |  | 99,999 |\n| Body Labor |  | 2 | 150 | 300 |\n| Paint Labor |  | 1.5 | 150 | 225 |\n| Mechanical Labor |  | - | - | - |\n| Supplies |  |  |  |  |\n|  | Paint Supplies |  |  | 60 |\n|  | Body Supplies |  |  | 30 |\n| Other Charges |  |  |  | 15 |\n| Subtotal |  |  |  | 100,629 |\n| Sales Tax |  |  | 10.20% | 10264.158 |\n| GRAND TOTAL |  |  |  | 211,522 |\n| Note | Minor rear bumper repair |  |  |  |\n\nThis is a preliminary estimate for the visible damage of the vehicle. Additional damage / repairs / parts may be found after the vehicle has been disassembled and damaged parts have been removed. Suspension damages may be present, but can not be determined until an alignment on the vehicle has been done. Parts Prices may vary due to models and vehicle maker price updates. Please be advised if vehicle owner elects to have vehicle sent to service for any mechanical concerns, ALL service departments charge a vehicle diagnostic charge. If the mechanical concern is deemed not related to an insurance claim, vehicle owner will be responsible for charges.\n",
+    "plain": "ZAVA AUTO REPAIR\nCertified Collision Repair\n\n123 Main Street, Redmond, WA 98052\n\nPhone: (425) 000-0000\n\nPreliminary Estimate (ID: EST-1008)\n\nCustomer Information  Vehicle Information \nInsured name Gabriel Diaz Year 2022\nClaim # SF-1008 Make Jeep\nPolicy # POL-2022-555 Model Grand Cherokee\nPhone (425) 111-1111 Trim Limited\nEmail gabriel@contoso.com VIN 1C4RJFBG2NC123456\n  Color White\n  Odometer 9,800\nRepair Order # RO-20221108 Estimator Ellis Turner\n\nEstimate Totals\n\n Hours Rate Cost\nParts   2,100\nBody Labor 2 150 300\nPaint Labor 1.5 150 225\nMechanical Labor - - -\nSupplies   \nPaint Supplies   60\nBody Supplies   30\nOther Charges   15\nSubtotal   2,730\nSales Tax  10.20% 278.46\nGRAND TOTAL   5,738\n\nNote Minor rear bumper repair\n\nThis is a preliminary estimate for the visible damage of the vehicle. Additional damage / repairs / parts may be found after the vehicle has been disassembled and damaged parts have been removed. Suspension damages may be present, but can not be determined until an alignment on the vehicle has been done. Parts Prices may vary due to models and vehicle maker price updates. Please be advised if vehicle owner elects to have vehicle sent to service for any mechanical concerns, ALL service departments charge a vehicle diagnostic charge. If the mechanical concern is deemed not related to an insurance claim, vehicle owner will be responsible for charges.\n\nZAVA\n\nAUTO REPAIR\n\nZAVA AUTO REPAIR\nCertified Collision Repair\n\n123 Main Street, Redmond, WA 98052\n\nPhone: (425) 000-0000\n\nPreliminary Estimate (ID: EST-1008)    \nCustomer Information   Vehicle Information \nInsured name Bruce Wayne  Year 2025\nClaim #  999 Make Batman\nPolicy # IM-BATMAN  Model Batmobile\nPhone (416) 555-1234  Trim Limited\nEmail batman@wayneindustries.com  VIN XXX\n   Color Black\n   Odometer 1\nRepair Order # RO-20221108  Estimator Ellis Turner\nEstimate Totals    \n--- --- --- --- ---\n  Hours Rate Cost\nParts    99,999\nBody Labor  2 150 300\nPaint Labor  1.5 150 225\nMechanical Labor  - - -\nSupplies    \n Paint Supplies   60\n Body Supplies   30\nOther Charges    15\nSubtotal    100,629\nSales Tax   10.20% 10264.158\nGRAND TOTAL    211,522\nNote Minor rear bumper repair   \n\nThis is a preliminary estimate for the visible damage of the vehicle. Additional damage / repairs / parts may be found after the vehicle has been disassembled and damaged parts have been removed. Suspension damages may be present, but can not be determined until an alignment on the vehicle has been done. Parts Prices may vary due to models and vehicle maker price updates. Please be advised if vehicle owner elects to have vehicle sent to service for any mechanical concerns, ALL service departments charge a vehicle diagnostic charge. If the mechanical concern is deemed not related to an insurance claim, vehicle owner will be responsible for charges."
+  }
+}

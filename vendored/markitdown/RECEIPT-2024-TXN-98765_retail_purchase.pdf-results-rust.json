@@ -1,0 +1,139 @@
+{
+  "file": "vendored/markitdown/RECEIPT-2024-TXN-98765_retail_purchase.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "(anonymous)",
+    "subject": "(unspecified)",
+    "authors": [
+      "(anonymous)"
+    ],
+    "created_at": "2025-12-05T10:49:51Z",
+    "modified_at": "2025-12-05T10:49:51Z",
+    "created_by": "(unspecified)",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "ReportLab PDF Library - www.reportlab.com",
+      "is_encrypted": false,
+      "width": 216,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "vendored/markitdown/RECEIPT-2024-TXN-98765_retail_purchase.pdf",
+      "extraction_method": "native",
+      "final_uri": "vendored/markitdown/RECEIPT-2024-TXN-98765_retail_purchase.pdf"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "PAYMENT",
+          "METHOD",
+          ""
+        ],
+        [
+          "Visa",
+          "Card ending",
+          "in 4782"
+        ],
+        [
+          "Auth:",
+          "847392",
+          ""
+        ],
+        [
+          "Ref:",
+          "REF-20241123-98765",
+          ""
+        ],
+        [
+          "-----------------------------------",
+          "",
+          ""
+        ],
+        [
+          "REWARDS",
+          "MEMBER",
+          ""
+        ],
+        [
+          "Sarah",
+          "Mitchell",
+          ""
+        ],
+        [
+          "ID:",
+          "TM-447821",
+          ""
+        ],
+        [
+          "Points",
+          "Earned:",
+          "821"
+        ],
+        [
+          "Total",
+          "Points:",
+          "3,247"
+        ],
+        [
+          "Next",
+          "Reward: $50",
+          "gift card"
+        ],
+        [
+          "at 5,000",
+          "pts (1,753",
+          "to go)"
+        ],
+        [
+          "-----------------------------------",
+          "",
+          ""
+        ],
+        [
+          "RETURN",
+          "POLICY",
+          ""
+        ],
+        [
+          "Returns",
+          "within",
+          "30 days"
+        ],
+        [
+          "Receipt",
+          "required",
+          ""
+        ],
+        [
+          "Electronics",
+          "must",
+          "be unopened"
+        ]
+      ],
+      "markdown": "| PAYMENT | METHOD |  |\n| --- | --- | --- |\n| Visa | Card ending | in 4782 |\n| Auth: | 847392 |  |\n| Ref: | REF-20241123-98765 |  |\n| ----------------------------------- |  |  |\n| REWARDS | MEMBER |  |\n| Sarah | Mitchell |  |\n| ID: | TM-447821 |  |\n| Points | Earned: | 821 |\n| Total | Points: | 3,247 |\n| Next | Reward: $50 | gift card |\n| at 5,000 | pts (1,753 | to go) |\n| ----------------------------------- |  |  |\n| RETURN | POLICY |  |\n| Returns | within | 30 days |\n| Receipt | required |  |\n| Electronics | must | be unopened |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 17.0,
+        "y0": 151.0,
+        "x1": 164.0,
+        "y1": 313.0
+      }
+    }
+  ],
+  "content": {
+    "html": "<h1>TECHMART ELECTRONICS</h1>\n<pre><code>4567 Innovation Blvd\nSan Francisco, CA 94103\n(415) 555-0199\n===================================\nStore #0342 - Downtown SF\n11/23/2024 14:32:18 PST\nTXN: TXN-98765-2024\nCashier: Emily Rodriguez\nRegister: POS-07\n-----------------------------------\nWireless Noise-Cancelling\nHeadphones - Premium Black\nAUDIO-5521 1 @ $349.99\nMember Discount $-50.00\n$299.99\nUSB-C Hub 7-in-1 Adapter\nwith HDMI &amp; Ethernet\nACC-8834 2 @ $79.99\n$159.98\nPortable SSD 2TB\nThunderbolt 3 Compatible\nSTOR-2241 1 @ $289.00\nMember Discount $-29.00\n$260.00\nErgonomic Wireless Mouse\nRechargeable Battery\nACC-9012 1 @ $59.99\n$59.99\nScreen Cleaning Kit\nProfessional Grade\nCARE-1156 3 @ $12.99\n$38.97\nHDMI 2.1 Cable 6ft\n8K Resolution Support\nCABLE-7789 2 @ $24.99\nMember Discount $-5.00\n$44.98\n-----------------------------------\nSUBTOTAL $863.91\nMember Discount (15%)-$84.00\nSales Tax (8.5%) $66.23\nRewards Applied -$25.00\n===================================</code></pre>\n<h2>TOTAL $821.14</h2>\n<p>===================================</p>\n<table>\n<thead>\n<tr>\n<th>PAYMENT</th>\n<th>METHOD</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Visa</td>\n<td>Card ending</td>\n<td>in 4782</td>\n</tr>\n<tr>\n<td>Auth:</td>\n<td>847392</td>\n<td></td>\n</tr>\n<tr>\n<td>Ref:</td>\n<td>REF-20241123-98765</td>\n<td></td>\n</tr>\n<tr>\n<td>-----------------------------------</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>REWARDS</td>\n<td>MEMBER</td>\n<td></td>\n</tr>\n<tr>\n<td>Sarah</td>\n<td>Mitchell</td>\n<td></td>\n</tr>\n<tr>\n<td>ID:</td>\n<td>TM-447821</td>\n<td></td>\n</tr>\n<tr>\n<td>Points</td>\n<td>Earned:</td>\n<td>821</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>Points:</td>\n<td>3,247</td>\n</tr>\n<tr>\n<td>Next</td>\n<td>Reward: $50</td>\n<td>gift card</td>\n</tr>\n<tr>\n<td>at 5,000</td>\n<td>pts (1,753</td>\n<td>to go)</td>\n</tr>\n<tr>\n<td>-----------------------------------</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>RETURN</td>\n<td>POLICY</td>\n<td></td>\n</tr>\n<tr>\n<td>Returns</td>\n<td>within</td>\n<td>30 days</td>\n</tr>\n<tr>\n<td>Receipt</td>\n<td>required</td>\n<td></td>\n</tr>\n<tr>\n<td>Electronics</td>\n<td>must</td>\n<td>be unopened</td>\n</tr>\n</tbody>\n</table>\n<h1>*TXN98765202411231432*</h1>\n<pre><code>Thank you for shopping!\nwww.techmart.example.com\n===================================</code></pre>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"TECHMART ELECTRONICS\\n4567 Innovation Blvd\\nSan Francisco, CA 94103\\n(415) 555-0199\"},{\"type\":\"paragraph\",\"text\":\"===================================\"},{\"type\":\"paragraph\",\"text\":\"Store #0342 - Downtown SF\\n11/23/2024 14:32:18 PST\\nTXN: TXN-98765-2024\\nCashier: Emily Rodriguez\\nRegister: POS-07\\n-----------------------------------\"},{\"type\":\"paragraph\",\"text\":\"Wireless Noise-Cancelling\\nHeadphones - Premium Black\\nAUDIO-5521 1 @ $349.99\\nMember Discount $-50.00\\n$299.99\\nUSB-C Hub 7-in-1 Adapter\\nwith HDMI & Ethernet\\nACC-8834 2 @ $79.99\\n$159.98\\nPortable SSD 2TB\\nThunderbolt 3 Compatible\\nSTOR-2241 1 @ $289.00\\nMember Discount $-29.00\\n$260.00\\nErgonomic Wireless Mouse\\nRechargeable Battery\\nACC-9012 1 @ $59.99\\n$59.99\\nScreen Cleaning Kit\\nProfessional Grade\\nCARE-1156 3 @ $12.99\\n$38.97\\nHDMI 2.1 Cable 6ft\\n8K Resolution Support\\nCABLE-7789 2 @ $24.99\\nMember Discount $-5.00\\n$44.98\\n-----------------------------------\"},{\"type\":\"paragraph\",\"text\":\"SUBTOTAL $863.91\\nMember Discount (15%)-$84.00\\nSales Tax (8.5%) $66.23\\nRewards Applied -$25.00\\n===================================\"},{\"type\":\"paragraph\",\"text\":\"TOTAL $821.14\\n===================================\"},{\"type\":\"paragraph\",\"text\":\"PAYMENT METHOD\\nVisa Card ending in 4782\\nAuth: 847392\\nRef: REF-20241123-98765\"},{\"type\":\"paragraph\",\"text\":\"-----------------------------------\"},{\"type\":\"paragraph\",\"text\":\"REWARDS MEMBER\\nSarah Mitchell\\nID: TM-447821\\nPoints Earned: 821\\nTotal Points: 3,247\\nNext Reward: $50 gift card\\nat 5,000 pts (1,753 to go)\"},{\"type\":\"paragraph\",\"text\":\"-----------------------------------\\nRETURN POLICY\\nReturns within 30 days\\nReceipt required\\nElectronics must be unopened\"},{\"type\":\"paragraph\",\"text\":\"*TXN98765202411231432*\"},{\"type\":\"paragraph\",\"text\":\"Thank you for shopping!\\nwww.techmart.example.com\\n===================================\"},{\"type\":\"table\",\"headers\":[\"PAYMENT\",\"METHOD\",\"\"],\"rows\":[[\"Visa\",\"Card ending\",\"in 4782\"],[\"Auth:\",\"847392\",\"\"],[\"Ref:\",\"REF-20241123-98765\",\"\"],[\"-----------------------------------\",\"\",\"\"],[\"REWARDS\",\"MEMBER\",\"\"],[\"Sarah\",\"Mitchell\",\"\"],[\"ID:\",\"TM-447821\",\"\"],[\"Points\",\"Earned:\",\"821\"],[\"Total\",\"Points:\",\"3,247\"],[\"Next\",\"Reward: $50\",\"gift card\"],[\"at 5,000\",\"pts (1,753\",\"to go)\"],[\"-----------------------------------\",\"\",\"\"],[\"RETURN\",\"POLICY\",\"\"],[\"Returns\",\"within\",\"30 days\"],[\"Receipt\",\"required\",\"\"],[\"Electronics\",\"must\",\"be unopened\"]]}]}",
+    "markdown": "# TECHMART ELECTRONICS\n\n```\n4567 Innovation Blvd\nSan Francisco, CA 94103\n(415) 555-0199\n===================================\nStore #0342 - Downtown SF\n11/23/2024 14:32:18 PST\nTXN: TXN-98765-2024\nCashier: Emily Rodriguez\nRegister: POS-07\n-----------------------------------\nWireless Noise-Cancelling\nHeadphones - Premium Black\nAUDIO-5521 1 @ $349.99\nMember Discount $-50.00\n$299.99\nUSB-C Hub 7-in-1 Adapter\nwith HDMI & Ethernet\nACC-8834 2 @ $79.99\n$159.98\nPortable SSD 2TB\nThunderbolt 3 Compatible\nSTOR-2241 1 @ $289.00\nMember Discount $-29.00\n$260.00\nErgonomic Wireless Mouse\nRechargeable Battery\nACC-9012 1 @ $59.99\n$59.99\nScreen Cleaning Kit\nProfessional Grade\nCARE-1156 3 @ $12.99\n$38.97\nHDMI 2.1 Cable 6ft\n8K Resolution Support\nCABLE-7789 2 @ $24.99\nMember Discount $-5.00\n$44.98\n-----------------------------------\nSUBTOTAL $863.91\nMember Discount (15%)-$84.00\nSales Tax (8.5%) $66.23\nRewards Applied -$25.00\n===================================\n```\n\n## TOTAL $821.14\n\n===================================\n\n| PAYMENT | METHOD |  |\n| --- | --- | --- |\n| Visa | Card ending | in 4782 |\n| Auth: | 847392 |  |\n| Ref: | REF-20241123-98765 |  |\n| ----------------------------------- |  |  |\n| REWARDS | MEMBER |  |\n| Sarah | Mitchell |  |\n| ID: | TM-447821 |  |\n| Points | Earned: | 821 |\n| Total | Points: | 3,247 |\n| Next | Reward: $50 | gift card |\n| at 5,000 | pts (1,753 | to go) |\n| ----------------------------------- |  |  |\n| RETURN | POLICY |  |\n| Returns | within | 30 days |\n| Receipt | required |  |\n| Electronics | must | be unopened |\n\n# *TXN98765202411231432*\n\n```\nThank you for shopping!\nwww.techmart.example.com\n===================================\n```\n",
+    "plain": "TECHMART ELECTRONICS\n4567 Innovation Blvd\nSan Francisco, CA 94103\n(415) 555-0199\n\n===================================\n\nStore #0342 - Downtown SF\n11/23/2024 14:32:18 PST\nTXN: TXN-98765-2024\nCashier: Emily Rodriguez\nRegister: POS-07\n-----------------------------------\n\nWireless Noise-Cancelling\nHeadphones - Premium Black\nAUDIO-5521 1 @ $349.99\nMember Discount $-50.00\n$299.99\nUSB-C Hub 7-in-1 Adapter\nwith HDMI & Ethernet\nACC-8834 2 @ $79.99\n$159.98\nPortable SSD 2TB\nThunderbolt 3 Compatible\nSTOR-2241 1 @ $289.00\nMember Discount $-29.00\n$260.00\nErgonomic Wireless Mouse\nRechargeable Battery\nACC-9012 1 @ $59.99\n$59.99\nScreen Cleaning Kit\nProfessional Grade\nCARE-1156 3 @ $12.99\n$38.97\nHDMI 2.1 Cable 6ft\n8K Resolution Support\nCABLE-7789 2 @ $24.99\nMember Discount $-5.00\n$44.98\n-----------------------------------\n\nSUBTOTAL $863.91\nMember Discount (15%)-$84.00\nSales Tax (8.5%) $66.23\nRewards Applied -$25.00\n===================================\n\nTOTAL $821.14\n===================================\n\nPAYMENT METHOD\nVisa Card ending in 4782\nAuth: 847392\nRef: REF-20241123-98765\n\n-----------------------------------\n\nREWARDS MEMBER\nSarah Mitchell\nID: TM-447821\nPoints Earned: 821\nTotal Points: 3,247\nNext Reward: $50 gift card\nat 5,000 pts (1,753 to go)\n\n-----------------------------------\nRETURN POLICY\nReturns within 30 days\nReceipt required\nElectronics must be unopened\n\n*TXN98765202411231432*\n\nThank you for shopping!\nwww.techmart.example.com\n===================================\n\nPAYMENT METHOD \nVisa Card ending in 4782\nAuth: 847392 \nRef: REF-20241123-98765 \n-----------------------------------  \nREWARDS MEMBER \nSarah Mitchell \nID: TM-447821 \nPoints Earned: 821\nTotal Points: 3,247\nNext Reward: $50 gift card\nat 5,000 pts (1,753 to go)\n-----------------------------------  \nRETURN POLICY \nReturns within 30 days\nReceipt required \nElectronics must be unopened"
+  }
+}

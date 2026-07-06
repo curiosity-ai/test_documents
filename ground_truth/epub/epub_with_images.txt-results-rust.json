@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/epub/epub_with_images.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 21,
+      "word_count": 81,
+      "character_count": 524
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/epub/epub_with_images.txt",
+      "source_uri": "ground_truth/epub/epub_with_images.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Table of Contents Table of Contents XHTML Content Documents Inline Frames Images GIF PNG JPEG Guide Table of Contents Multimedia Images [REQUIRED] img-010 GIF Tests whether the GIF image format is supported. If a checkmark precedes this paragaph, the test passes. [REQUIRED] img-020 PNG Tests whether the PNG image format is supported. If a checkmark precedes this paragaph, the test passes. [REQUIRED] img-030 JPEG Tests whether the JPEG image format is supported. If a checkmark precedes this paragaph, the test passes.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Table of Contents\\nTable of Contents\\nXHTML Content Documents \\nInline Frames \\nImages \\nGIF\\nPNG\\nJPEG\\nGuide\\nTable of Contents\\nMultimedia\\nImages\\n[REQUIRED] img-010 GIF\\nTests whether the GIF image format is supported.\\nIf a checkmark precedes this paragaph, the test passes.\\n[REQUIRED] img-020 PNG\\nTests whether the PNG image format is supported.\\nIf a checkmark precedes this paragaph, the test passes.\\n[REQUIRED] img-030 JPEG\\nTests whether the JPEG image format is supported.\\nIf a checkmark precedes this paragaph, the test passes.\"}]}",
+    "markdown": "Table of Contents Table of Contents XHTML Content Documents Inline Frames Images GIF PNG JPEG Guide Table of Contents Multimedia Images [REQUIRED] img-010 GIF Tests whether the GIF image format is supported. If a checkmark precedes this paragaph, the test passes. [REQUIRED] img-020 PNG Tests whether the PNG image format is supported. If a checkmark precedes this paragaph, the test passes. [REQUIRED] img-030 JPEG Tests whether the JPEG image format is supported. If a checkmark precedes this paragaph, the test passes.\n",
+    "plain": "Table of Contents\nTable of Contents\nXHTML Content Documents \nInline Frames \nImages \nGIF\nPNG\nJPEG\nGuide\nTable of Contents\nMultimedia\nImages\n[REQUIRED] img-010 GIF\nTests whether the GIF image format is supported.\nIf a checkmark precedes this paragaph, the test passes.\n[REQUIRED] img-020 PNG\nTests whether the PNG image format is supported.\nIf a checkmark precedes this paragaph, the test passes.\n[REQUIRED] img-030 JPEG\nTests whether the JPEG image format is supported.\nIf a checkmark precedes this paragaph, the test passes."
+  }
+}

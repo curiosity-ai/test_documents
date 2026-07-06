@@ -1,0 +1,33 @@
+{
+  "file": "epub/epub2_cover.epub",
+  "mime_type": "application/epub+zip",
+  "success": true,
+  "metadata": {
+    "title": "Pandoc EPUB Test",
+    "authors": [
+      "François Martin"
+    ],
+    "language": "de-DE",
+    "created_at": "2019-06-22T15:01:38Z",
+    "format": {
+      "format_type": "epub",
+      "cover_image": "OEBPS/image/cover.jpg"
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "epub/epub2_cover.epub",
+      "source_index": 0,
+      "final_uri": "epub/epub2_cover.epub",
+      "source_kind": "uri",
+      "identifier": "urn:uuid:bf73ac09-2ce7-4a11-8982-3a93f28a21dd"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><img src=\"image_0.jpeg\" alt=\"Cover\" /></p>\n<p>Pandoc EPUB2 Test</p>\n",
+    "json": "{\"body\":[{\"type\":\"image\",\"alt\":\"Cover\",\"src\":\"image_0.jpeg\"},{\"type\":\"paragraph\",\"text\":\"Pandoc EPUB2 Test\"}]}",
+    "markdown": "Pandoc EPUB2 Test\n",
+    "plain": "[Image: Cover]\n\nPandoc EPUB2 Test"
+  }
+}

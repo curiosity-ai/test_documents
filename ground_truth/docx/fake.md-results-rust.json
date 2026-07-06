@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/docx/fake.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/docx/fake.md",
+      "source_uri": "ground_truth/docx/fake.md",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Lorem ipsum dolor sit amet.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Lorem ipsum dolor sit amet.\"}]}",
+    "markdown": "Lorem ipsum dolor sit amet.\n",
+    "plain": "Lorem ipsum dolor sit amet."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/pdf_structure.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 26,
+      "word_count": 178,
+      "character_count": 1327
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/pdf_structure.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/pdf/pdf_structure.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Titre du document Titre 1 Contenu 1, contenu 2, contenu 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<p>Titre 2 Encore du contenu! 1. Énumération 1 2. Énumération 2 a) Énumération imbriquée 3. Longue énumération : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<p>Tableau Chose Truc Chose 1 Truc 1 Chose 2 Truc 2</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Titre du document\\nTitre 1\\nContenu 1, contenu 2, contenu 3.\\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et\\ndolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\\naliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum\\ndolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia\\ndeserunt mollit anim id est laborum.\"},{\"type\":\"paragraph\",\"text\":\"Titre 2\\nEncore du contenu!\\n   1. Énumération 1\\n   2. Énumération 2\\n       a) Énumération imbriquée\\n   3. Longue énumération : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod\\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\\n      exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in\\n      reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint\\n      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"},{\"type\":\"paragraph\",\"text\":\"Tableau\\nChose                                                Truc\\nChose 1                                              Truc 1\\nChose 2                                              Truc 2\"}]}",
+    "markdown": "Titre du document Titre 1 Contenu 1, contenu 2, contenu 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\nTitre 2 Encore du contenu\\! 1. Énumération 1 2. Énumération 2 a) Énumération imbriquée 3. Longue énumération : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\nTableau Chose Truc Chose 1 Truc 1 Chose 2 Truc 2\n",
+    "plain": "Titre du document\nTitre 1\nContenu 1, contenu 2, contenu 3.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et\ndolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\naliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum\ndolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia\ndeserunt mollit anim id est laborum.\n\nTitre 2\nEncore du contenu!\n   1. Énumération 1\n   2. Énumération 2\n       a) Énumération imbriquée\n   3. Longue énumération : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod\n      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\n      exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in\n      reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint\n      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\nTableau\nChose                                                Truc\nChose 1                                              Truc 1\nChose 2                                              Truc 2"
+  }
+}

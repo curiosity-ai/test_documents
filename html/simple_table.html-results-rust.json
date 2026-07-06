@@ -1,0 +1,157 @@
+{
+  "file": "html/simple_table.html",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "title": "Simple Table Test",
+    "format": {
+      "format_type": "html",
+      "title": "Simple Table Test",
+      "keywords": [],
+      "open_graph": {},
+      "twitter_card": {},
+      "meta_tags": {},
+      "headers": [
+        {
+          "level": 1,
+          "text": "Sample Data Table",
+          "depth": 2,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "Summary Statistics",
+          "depth": 2,
+          "html_offset": 0
+        }
+      ],
+      "links": [],
+      "images": [],
+      "structured_data": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "html/simple_table.html",
+      "final_uri": "html/simple_table.html",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Product",
+          "Category",
+          "Price",
+          "Stock"
+        ],
+        [
+          "Laptop",
+          "Electronics",
+          "$999.99",
+          "25"
+        ],
+        [
+          "Desk Chair",
+          "Furniture",
+          "$199.99",
+          "8"
+        ],
+        [
+          "Coffee Mug",
+          "Kitchen",
+          "$9.99",
+          "150"
+        ],
+        [
+          "Notebook",
+          "Office",
+          "$3.49",
+          "75"
+        ]
+      ],
+      "markdown": "| Product | Category | Price | Stock |\n| --- | --- | --- | --- |\n| Laptop | Electronics | $999.99 | 25 |\n| Desk Chair | Furniture | $199.99 | 8 |\n| Coffee Mug | Kitchen | $9.99 | 150 |\n| Notebook | Office | $3.49 | 75 |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "**Total Products:**",
+          "4"
+        ],
+        [
+          "**Average Price:**",
+          "$303.12"
+        ],
+        [
+          "**Total Stock:**",
+          "258 units"
+        ]
+      ],
+      "markdown": "| **Total Products:** | 4 |\n| --- | --- |\n| **Average Price:** | $303.12 |\n| **Total Stock:** | 258 units |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Product",
+          "Category",
+          "Price",
+          "Stock"
+        ],
+        [
+          "Laptop",
+          "Electronics",
+          "$999.99",
+          "25"
+        ],
+        [
+          "Desk Chair",
+          "Furniture",
+          "$199.99",
+          "8"
+        ],
+        [
+          "Coffee Mug",
+          "Kitchen",
+          "$9.99",
+          "150"
+        ],
+        [
+          "Notebook",
+          "Office",
+          "$3.49",
+          "75"
+        ]
+      ],
+      "markdown": "| Product | Category | Price | Stock |\n| --- | --- | --- | --- |\n| Laptop | Electronics | $999.99 | 25 |\n| Desk Chair | Furniture | $199.99 | 8 |\n| Coffee Mug | Kitchen | $9.99 | 150 |\n| Notebook | Office | $3.49 | 75 |\n",
+      "page_number": 1
+    },
+    {
+      "cells": [
+        [
+          "**Total Products:**",
+          "4"
+        ],
+        [
+          "**Average Price:**",
+          "$303.12"
+        ],
+        [
+          "**Total Stock:**",
+          "258 units"
+        ]
+      ],
+      "markdown": "| **Total Products:** | 4 |\n| --- | --- |\n| **Average Price:** | $303.12 |\n| **Total Stock:** | 258 units |\n",
+      "page_number": 2
+    }
+  ],
+  "content": {
+    "html": "<h1>Sample Data Table</h1>\n<table>\n<thead>\n<tr>\n<th>Product</th>\n<th>Category</th>\n<th>Price</th>\n<th>Stock</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Laptop</td>\n<td>Electronics</td>\n<td>$999.99</td>\n<td>25</td>\n</tr>\n<tr>\n<td>Desk Chair</td>\n<td>Furniture</td>\n<td>$199.99</td>\n<td>8</td>\n</tr>\n<tr>\n<td>Coffee Mug</td>\n<td>Kitchen</td>\n<td>$9.99</td>\n<td>150</td>\n</tr>\n<tr>\n<td>Notebook</td>\n<td>Office</td>\n<td>$3.49</td>\n<td>75</td>\n</tr>\n</tbody>\n</table>\n<h2>Summary Statistics</h2>\n<table>\n<thead>\n<tr>\n<th>**Total Products:**</th>\n<th>4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>**Average Price:**</td>\n<td>$303.12</td>\n</tr>\n<tr>\n<td>**Total Stock:**</td>\n<td>258 units</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Sample Data Table\",\"level\":1,\"body\":[{\"type\":\"table\",\"headers\":[\"Product\",\"Category\",\"Price\",\"Stock\"],\"rows\":[[\"Laptop\",\"Electronics\",\"$999.99\",\"25\"],[\"Desk Chair\",\"Furniture\",\"$199.99\",\"8\"],[\"Coffee Mug\",\"Kitchen\",\"$9.99\",\"150\"],[\"Notebook\",\"Office\",\"$3.49\",\"75\"]]},{\"type\":\"section\",\"heading\":\"Summary Statistics\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"**Total Products:**\",\"4\"],\"rows\":[[\"**Average Price:**\",\"$303.12\"],[\"**Total Stock:**\",\"258 units\"]]}]}]}]}",
+    "markdown": "---\n\n## title: Simple Table Test\n\n# Sample Data Table\n\n| Product    | Category    | Price   | Stock |\n| ---------- | ----------- | ------- | ----- |\n| Laptop     | Electronics | $999.99 | 25    |\n| Desk Chair | Furniture   | $199.99 | 8     |\n| Coffee Mug | Kitchen     | $9.99   | 150   |\n| Notebook   | Office      | $3.49   | 75    |\n\n## Summary Statistics\n\n| **Total Products:** | 4         |\n| ------------------- | --------- |\n| **Average Price:**  | $303.12   |\n| **Total Stock:**    | 258 units |\n",
+    "plain": "  Sample Data Table\nProduct Category Price Stock\nLaptop Electronics $999.99 25\nDesk Chair Furniture $199.99 8\nCoffee Mug Kitchen $9.99 150\nNotebook Office $3.49 75\n\n    Summary Statistics\n**Total Products:** 4\n**Average Price:** $303.12\n**Total Stock:** 258 units"
+  }
+}

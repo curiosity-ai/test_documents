@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/tex/latex_document.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 46,
+      "word_count": 148,
+      "character_count": 869
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/tex/latex_document.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/tex/latex_document.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>This is a LaTeX document for testing pandoc extraction. It includes mathematical equations and special formatting.</p>\n<p># Introduction</p>\n<p>LaTeX is widely used for academic and scientific documents. This document tests pandoc's ability to extract content and metadata from LaTeX sources.</p>\n<p># Mathematical Content</p>\n<p>The quadratic formula is given by: $$\\begin{equation} x = \\frac{-b \\pm \\sqrt{b^2-4ac}}{2a} \\end{equation}$$</p>\n<p>Inline math also works: $E = mc^2$.</p>\n<p># Lists and Formatting</p>\n<p>## Enumerated List</p>\n<p>1. First item 2. Second item with bold text 3. Third item with italic text</p>\n<p>## Itemized List</p>\n<p>- Bullet point one - Bullet point two - Nested items: - Sub-item A - Sub-item B</p>\n<p># Tables</p>\n<p>Sample Table | Left | Center | Right | | --- | --- | --- | | A1 | B1 | C1 | | A2 | B2 | C2 |</p>\n<p># Conclusion</p>\n<p>This document demonstrates LaTeX features for pandoc extraction testing.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a LaTeX document for testing pandoc extraction.\\nIt includes mathematical equations and special formatting.\"},{\"type\":\"paragraph\",\"text\":\"# Introduction\"},{\"type\":\"paragraph\",\"text\":\"LaTeX is widely used for academic and scientific documents.\\nThis document tests pandoc's ability to extract content and metadata from LaTeX sources.\"},{\"type\":\"paragraph\",\"text\":\"# Mathematical Content\"},{\"type\":\"paragraph\",\"text\":\"The quadratic formula is given by:\\n$$\\\\begin{equation}\\nx = \\\\frac{-b \\\\pm \\\\sqrt{b^2-4ac}}{2a}\\n\\\\end{equation}$$\"},{\"type\":\"paragraph\",\"text\":\"Inline math also works: $E = mc^2$.\"},{\"type\":\"paragraph\",\"text\":\"# Lists and Formatting\"},{\"type\":\"paragraph\",\"text\":\"## Enumerated List\"},{\"type\":\"paragraph\",\"text\":\"1. First item\\n2. Second item with bold text\\n3. Third item with italic text\"},{\"type\":\"paragraph\",\"text\":\"## Itemized List\"},{\"type\":\"paragraph\",\"text\":\"- Bullet point one\\n- Bullet point two\\n- Nested items:\\n  - Sub-item A\\n  - Sub-item B\"},{\"type\":\"paragraph\",\"text\":\"# Tables\"},{\"type\":\"paragraph\",\"text\":\"Sample Table\\n| Left | Center | Right |\\n| --- | --- | --- |\\n| A1 | B1 | C1 |\\n| A2 | B2 | C2 |\"},{\"type\":\"paragraph\",\"text\":\"# Conclusion\"},{\"type\":\"paragraph\",\"text\":\"This document demonstrates LaTeX features for pandoc extraction testing.\"}]}",
+    "markdown": "This is a LaTeX document for testing pandoc extraction. It includes mathematical equations and special formatting.\n\n\\# Introduction\n\nLaTeX is widely used for academic and scientific documents. This document tests pandoc's ability to extract content and metadata from LaTeX sources.\n\n\\# Mathematical Content\n\nThe quadratic formula is given by: $$\\\\begin{equation} x = \\\\frac{-b \\\\pm \\\\sqrt{b^2-4ac}}{2a} \\\\end{equation}$$\n\nInline math also works: $E = mc^2$.\n\n\\# Lists and Formatting\n\n\\#\\# Enumerated List\n\n1\\. First item 2. Second item with bold text 3. Third item with italic text\n\n\\#\\# Itemized List\n\n\\- Bullet point one - Bullet point two - Nested items: - Sub-item A - Sub-item B\n\n\\# Tables\n\nSample Table | Left | Center | Right | | --- | --- | --- | | A1 | B1 | C1 | | A2 | B2 | C2 |\n\n\\# Conclusion\n\nThis document demonstrates LaTeX features for pandoc extraction testing.\n",
+    "plain": "This is a LaTeX document for testing pandoc extraction.\nIt includes mathematical equations and special formatting.\n\n# Introduction\n\nLaTeX is widely used for academic and scientific documents.\nThis document tests pandoc's ability to extract content and metadata from LaTeX sources.\n\n# Mathematical Content\n\nThe quadratic formula is given by:\n$$\\begin{equation}\nx = \\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}\n\\end{equation}$$\n\nInline math also works: $E = mc^2$.\n\n# Lists and Formatting\n\n## Enumerated List\n\n1. First item\n2. Second item with bold text\n3. Third item with italic text\n\n## Itemized List\n\n- Bullet point one\n- Bullet point two\n- Nested items:\n  - Sub-item A\n  - Sub-item B\n\n# Tables\n\nSample Table\n| Left | Center | Right |\n| --- | --- | --- |\n| A1 | B1 | C1 |\n| A2 | B2 | C2 |\n\n# Conclusion\n\nThis document demonstrates LaTeX features for pandoc extraction testing."
+  }
+}

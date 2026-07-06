@@ -1,0 +1,33 @@
+{
+  "file": "xml/simple_note.xml",
+  "mime_type": "application/xml",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "xml",
+      "element_count": 5,
+      "unique_elements": [
+        "body",
+        "from",
+        "heading",
+        "note",
+        "to"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "xml/simple_note.xml",
+      "source_uri": "xml/simple_note.xml",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>note</h1>\n<h2>to</h2>\n<p>Tove</p>\n<h2>from</h2>\n<p>Jani</p>\n<h2>heading</h2>\n<p>Reminder</p>\n<h2>body</h2>\n<p>Don't forget me this weekend!</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"note\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"to\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Tove\"}]},{\"type\":\"section\",\"heading\":\"from\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Jani\"}]},{\"type\":\"section\",\"heading\":\"heading\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Reminder\"}]},{\"type\":\"section\",\"heading\":\"body\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Don't forget me this weekend!\"}]}]}]}",
+    "markdown": "# note\n\n## to\n\nTove\n\n## from\n\nJani\n\n## heading\n\nReminder\n\n## body\n\nDon't forget me this weekend\\!\n",
+    "plain": "note\n  to\n  Tove\n\n  from\n  Jani\n\n  heading\n  Reminder\n\n  body\n  Don't forget me this weekend!"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "file": "pdf/pdfa_031.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2021-01-08T22:51:00Z",
+    "modified_at": "2021-01-08T22:51:00Z",
+    "created_by": "Microsoft® Word 2016",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.5",
+      "producer": "Microsoft® Word 2016",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "pdf/pdfa_031.pdf",
+      "source_kind": "uri",
+      "source_index": 0,
+      "extraction_method": "native",
+      "source_uri": "pdf/pdfa_031.pdf"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>§ 162-56. Place of confinement.</h1>\n<p>Persons committed to the custody of a sheriff shall be confined in the facilities designated by law for such confinement, and shall not be confined in any other place. Nothing herein shall be construed to prohibit or limit the authority of a sheriff to house prisoners committed to his custody in quarters, approved by the Department of Health and Human Services, other than the county jail. (1795, c. 433, s. 4; R.C., c. 87, s. 16; Code, s. 3471; Rev., s. 3660; C.S., s. 4408; 1983, c. 631, s. 2; 1997-443, s. 11A.118(a).)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"§ 162-56.  Place of confinement. \\nPersons committed to the custody of a sheriff shall be confined in the facilities designated \\nby law for such confinement, and shall not be confined in any other place. Nothing herein shall \\nbe construed to prohibit or limit the authority of a sheriff to house prisoners committed to his \\ncustody in quarters, approved by the Department of Health and Human Services, other than the \\ncounty jail. (1795, c. 433, s. 4; R.C., c. 87, s. 16; Code, s. 3471; Rev., s. 3660; C.S., s. 4408; \\n1983, c. 631, s. 2; 1997-443, s. 11A.118(a).)\"},{\"type\":\"paragraph\",\"text\":\"G.S. 162-56  Page 1\"}]}",
+    "markdown": "# § 162-56. Place of confinement.\n\nPersons committed to the custody of a sheriff shall be confined in the facilities designated by law for such confinement, and shall not be confined in any other place. Nothing herein shall be construed to prohibit or limit the authority of a sheriff to house prisoners committed to his custody in quarters, approved by the Department of Health and Human Services, other than the county jail. (1795, c. 433, s. 4; R.C., c. 87, s. 16; Code, s. 3471; Rev., s. 3660; C.S., s. 4408; 1983, c. 631, s. 2; 1997-443, s. 11A.118(a).)\n",
+    "plain": "§ 162-56.  Place of confinement. \nPersons committed to the custody of a sheriff shall be confined in the facilities designated \nby law for such confinement, and shall not be confined in any other place. Nothing herein shall \nbe construed to prohibit or limit the authority of a sheriff to house prisoners committed to his \ncustody in quarters, approved by the Department of Health and Human Services, other than the \ncounty jail. (1795, c. 433, s. 4; R.C., c. 87, s. 16; Code, s. 3471; Rev., s. 3660; C.S., s. 4408; \n1983, c. 631, s. 2; 1997-443, s. 11A.118(a).)\n\nG.S. 162-56  Page 1"
+  }
+}

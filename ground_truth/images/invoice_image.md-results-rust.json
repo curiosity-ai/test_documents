@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/images/invoice_image.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "INVOICE",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/images/invoice_image.md",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/images/invoice_image.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>INVOICE</h1>\n<p>Bill To</p>\n<p>John Doe</p>\n<p>123 Main St</p>\n<p>Anytown, USA 12345</p>\n<p>Invoice #: 123</p>\n<p>Date: 2025-07-10</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"INVOICE\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Bill To\"},{\"type\":\"paragraph\",\"text\":\"John Doe\"},{\"type\":\"paragraph\",\"text\":\"123 Main St\"},{\"type\":\"paragraph\",\"text\":\"Anytown, USA 12345\"},{\"type\":\"paragraph\",\"text\":\"Invoice #: 123\"},{\"type\":\"paragraph\",\"text\":\"Date: 2025-07-10\"}]}]}",
+    "markdown": "# INVOICE\n\nBill To\n\nJohn Doe\n\n123 Main St\n\nAnytown, USA 12345\n\nInvoice \\#: 123\n\nDate: 2025-07-10\n",
+    "plain": "INVOICE\nBill To\n\nJohn Doe\n\n123 Main St\n\nAnytown, USA 12345\n\nInvoice #: 123\n\nDate: 2025-07-10"
+  }
+}

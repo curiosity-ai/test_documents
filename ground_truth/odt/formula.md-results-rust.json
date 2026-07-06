@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/odt/formula.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/odt/formula.md",
+      "final_uri": "ground_truth/odt/formula.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>$$E = m ⋅ c^2$$</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"$$E = m ⋅ c^2$$\"}]}",
+    "markdown": "$$E = m ⋅ c^2$$\n",
+    "plain": "$$E = m ⋅ c^2$$"
+  }
+}

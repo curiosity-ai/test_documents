@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/json/2305.03393v1.pages.meta.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 44,
+      "word_count": 58,
+      "character_count": 411
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/json/2305.03393v1.pages.meta.txt",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/json/2305.03393v1.pages.meta.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>[ { &quot;num_cells&quot;: 88 }, { &quot;num_cells&quot;: 95 }, { &quot;num_cells&quot;: 73 }, { &quot;num_cells&quot;: 73 }, { &quot;num_cells&quot;: 51 }, { &quot;num_cells&quot;: 60 }, { &quot;num_cells&quot;: 99 }, { &quot;num_cells&quot;: 101 }, { &quot;num_cells&quot;: 112 }, { &quot;num_cells&quot;: 169 }, { &quot;num_cells&quot;: 19 }, { &quot;num_cells&quot;: 78 }, { &quot;num_cells&quot;: 92 }, { &quot;num_cells&quot;: 55 } ]</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"[\\n  {\\n    \\\"num_cells\\\": 88\\n  },\\n  {\\n    \\\"num_cells\\\": 95\\n  },\\n  {\\n    \\\"num_cells\\\": 73\\n  },\\n  {\\n    \\\"num_cells\\\": 73\\n  },\\n  {\\n    \\\"num_cells\\\": 51\\n  },\\n  {\\n    \\\"num_cells\\\": 60\\n  },\\n  {\\n    \\\"num_cells\\\": 99\\n  },\\n  {\\n    \\\"num_cells\\\": 101\\n  },\\n  {\\n    \\\"num_cells\\\": 112\\n  },\\n  {\\n    \\\"num_cells\\\": 169\\n  },\\n  {\\n    \\\"num_cells\\\": 19\\n  },\\n  {\\n    \\\"num_cells\\\": 78\\n  },\\n  {\\n    \\\"num_cells\\\": 92\\n  },\\n  {\\n    \\\"num_cells\\\": 55\\n  }\\n]\"}]}",
+    "markdown": "[ { \"num_cells\": 88 }, { \"num_cells\": 95 }, { \"num_cells\": 73 }, { \"num_cells\": 73 }, { \"num_cells\": 51 }, { \"num_cells\": 60 }, { \"num_cells\": 99 }, { \"num_cells\": 101 }, { \"num_cells\": 112 }, { \"num_cells\": 169 }, { \"num_cells\": 19 }, { \"num_cells\": 78 }, { \"num_cells\": 92 }, { \"num_cells\": 55 } ]\n",
+    "plain": "[\n  {\n    \"num_cells\": 88\n  },\n  {\n    \"num_cells\": 95\n  },\n  {\n    \"num_cells\": 73\n  },\n  {\n    \"num_cells\": 73\n  },\n  {\n    \"num_cells\": 51\n  },\n  {\n    \"num_cells\": 60\n  },\n  {\n    \"num_cells\": 99\n  },\n  {\n    \"num_cells\": 101\n  },\n  {\n    \"num_cells\": 112\n  },\n  {\n    \"num_cells\": 169\n  },\n  {\n    \"num_cells\": 19\n  },\n  {\n    \"num_cells\": 78\n  },\n  {\n    \"num_cells\": 92\n  },\n  {\n    \"num_cells\": 55\n  }\n]"
+  }
+}

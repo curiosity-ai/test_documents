@@ -1,0 +1,77 @@
+{
+  "file": "docx/word_image_anchors.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Un-named"
+    ],
+    "created_at": "2025-05-22T09:50:00Z",
+    "modified_at": "2025-05-22T13:11:00Z",
+    "created_by": "Un-named",
+    "modified_by": "Michael Krissgau",
+    "format": {
+      "format_type": "docx",
+      "core_properties": {
+        "title": null,
+        "subject": null,
+        "creator": "Un-named",
+        "keywords": null,
+        "description": null,
+        "last_modified_by": "Michael Krissgau",
+        "revision": "5",
+        "created": "2025-05-22T09:50:00Z",
+        "modified": "2025-05-22T13:11:00Z",
+        "category": null,
+        "content_status": null,
+        "language": null,
+        "identifier": null,
+        "version": null,
+        "last_printed": null
+      },
+      "app_properties": {
+        "application": "Microsoft Office Word",
+        "app_version": "16.0000",
+        "template": "Normal.dotm",
+        "total_time": 2,
+        "pages": 1,
+        "words": 18,
+        "characters": 103,
+        "characters_with_spaces": 120,
+        "lines": 1,
+        "paragraphs": 1,
+        "company": null,
+        "doc_security": 0,
+        "scale_crop": false,
+        "links_up_to_date": false,
+        "shared_doc": false,
+        "hyperlinks_changed": false
+      },
+      "custom_properties": {}
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "word_count": 18,
+      "source_uri": "docx/word_image_anchors.docx",
+      "character_count": 103,
+      "total_editing_time_minutes": 2,
+      "source_kind": "uri",
+      "page_count": 1,
+      "application": "Microsoft Office Word",
+      "paragraph_count": 1,
+      "line_count": 1,
+      "template": "Normal.dotm",
+      "revision": "5",
+      "final_uri": "docx/word_image_anchors.docx"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Transcript</strong></p>\n<p>February 20, 2025, 8:32PM</p>\n<p><img src=\"media/image1.png\" alt=\"\" /></p>\n<p><img src=\"media/image2.png\" alt=\"\" /></p>\n<p> <strong>This is test 1</strong> 0:08 Correct, he is not.</p>\n<p><img src=\"media/image2.png\" alt=\"\" /></p>\n<p><strong>This is test 2</strong> 0:16 Yeah, exactly.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Transcript\"},{\"type\":\"paragraph\",\"text\":\"February 20, 2025, 8:32PM\"},{\"type\":\"image\",\"src\":\"media/image1.png\"},{\"type\":\"image\",\"src\":\"media/image2.png\"},{\"type\":\"paragraph\",\"text\":\"\\nThis is test 1   0:08\\nCorrect, he is not.\"},{\"type\":\"image\",\"src\":\"media/image2.png\"},{\"type\":\"paragraph\",\"text\":\"This is test 2 0:16\\nYeah, exactly.\"}]}",
+    "markdown": "**Transcript**\n\nFebruary 20, 2025, 8:32PM\n\n![](media/image1.png)\n\n![](media/image2.png)\n\n **This is test 1** 0:08 Correct, he is not.\n\n![](media/image2.png)\n\n**This is test 2** 0:16 Yeah, exactly.\n",
+    "plain": "Transcript\n\nFebruary 20, 2025, 8:32PM\n\n\nThis is test 1   0:08\nCorrect, he is not.\n\nThis is test 2 0:16\nYeah, exactly."
+  }
+}

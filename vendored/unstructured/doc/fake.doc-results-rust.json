@@ -1,0 +1,28 @@
+{
+  "file": "vendored/unstructured/doc/fake.doc",
+  "mime_type": "application/msword",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Mr. Miagi"
+    ],
+    "created_by": "Mr. Miagi",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "extraction_method": "native_ole",
+      "source_kind": "uri",
+      "source_uri": "vendored/unstructured/doc/fake.doc",
+      "final_uri": "vendored/unstructured/doc/fake.doc",
+      "source_index": 0,
+      "revision": "1"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Lorem ipsum dolor sit amet.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Lorem ipsum dolor sit amet.\"}]}",
+    "markdown": "Lorem ipsum dolor sit amet.\n",
+    "plain": "Lorem ipsum dolor sit amet."
+  }
+}

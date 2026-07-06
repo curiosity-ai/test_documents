@@ -1,0 +1,22 @@
+{
+  "file": "vendored/docling/groundtruth/docling_v2/webvtt_example_02.vtt.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/docling/groundtruth/docling_v2/webvtt_example_02.vtt.md",
+      "final_uri": "vendored/docling/groundtruth/docling_v2/webvtt_example_02.vtt.md",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>It’s a blue apple tree!</p>\n<p>No way!</p>\n<p>Hee! <em>laughter</em></p>\n<p>That’s awesome!</p>\n<p>Sur les <em>playground</em> , ici à Montpellier</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"It’s a blue apple tree!\"},{\"type\":\"paragraph\",\"text\":\"No way!\"},{\"type\":\"paragraph\",\"text\":\"Hee! laughter\"},{\"type\":\"paragraph\",\"text\":\"That’s awesome!\"},{\"type\":\"paragraph\",\"text\":\"Sur les playground , ici à Montpellier\"}]}",
+    "markdown": "It’s a blue apple tree\\!\n\nNo way\\!\n\nHee\\! *laughter*\n\nThat’s awesome\\!\n\nSur les *playground* , ici à Montpellier\n",
+    "plain": "It’s a blue apple tree!\n\nNo way!\n\nHee! laughter\n\nThat’s awesome!\n\nSur les playground , ici à Montpellier"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "file": "vendored/unstructured/eml/fake-email-header.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Test Email",
+    "created_at": "Fri, 16 Dec 2022 17:04:16 -0500",
+    "format": {
+      "format_type": "email",
+      "from_email": "mrobinson@unstructured.io",
+      "to_emails": [
+        "mrobinson@unstructured.io"
+      ],
+      "cc_emails": [
+        "fake-email@unstructured.io",
+        "test@unstructured.io"
+      ],
+      "bcc_emails": [
+        "hello@unstructured.io"
+      ],
+      "message_id": "CADc-_xaLB2FeVQ7mNsoX+NJb_7hAJhBKa_zet-rtgPGenj0uVw@mail.gmail.com",
+      "attachments": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/unstructured/eml/fake-email-header.eml",
+      "mime_version": "1.0",
+      "source_uri": "vendored/unstructured/eml/fake-email-header.eml",
+      "source_index": 0,
+      "content_type": "multipart/alternative; boundary=\"00000000000095c9b205eff92630\"",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Test Email</p>\n<p><strong>From</strong>: mrobinson@unstructured.io</p>\n<p><strong>To</strong>: mrobinson@unstructured.io</p>\n<p><strong>CC</strong>: fake-email@unstructured.io, test@unstructured.io</p>\n<p><strong>Date</strong>: Fri, 16 Dec 2022 17:04:16 -0500</p>\n<p>This is a test email to use for unit tests.</p>\n<p>Important points:</p>\n<ul>\n<li>Roses are red</li>\n<li>Violets are blue</li>\n</ul>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a test email to use for unit tests.\"},{\"type\":\"paragraph\",\"text\":\"Important points:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Roses are red\",\"Violets are blue\"]}]}",
+    "markdown": "**Subject**: Test Email\n\n**From**: mrobinson@unstructured.io\n\n**To**: mrobinson@unstructured.io\n\n**CC**: fake-email@unstructured.io, test@unstructured.io\n\n**Date**: Fri, 16 Dec 2022 17:04:16 -0500\n\nThis is a test email to use for unit tests.\n\nImportant points:\n\n- Roses are red\n- Violets are blue\n",
+    "plain": "Subject: Test Email\nFrom: mrobinson@unstructured.io\nTo: mrobinson@unstructured.io\nCC: fake-email@unstructured.io, test@unstructured.io\nDate: Fri, 16 Dec 2022 17:04:16 -0500\n\nThis is a test email to use for unit tests.\n\nImportant points:\n\nRoses are red\nViolets are blue"
+  }
+}

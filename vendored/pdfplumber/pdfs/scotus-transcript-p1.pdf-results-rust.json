@@ -1,0 +1,40 @@
+{
+  "file": "vendored/pdfplumber/pdfs/scotus-transcript-p1.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "10811.exe",
+    "authors": [
+      "Supreme"
+    ],
+    "created_at": "2009-01-13T15:23:05Z",
+    "modified_at": "2009-01-13T16:10:34Z",
+    "created_by": "PScript5.dll Version 5.2.2",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.5",
+      "producer": "Acrobat Distiller 6.0 (Windows)",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/pdfplumber/pdfs/scotus-transcript-p1.pdf",
+      "source_kind": "uri",
+      "source_uri": "vendored/pdfplumber/pdfs/scotus-transcript-p1.pdf",
+      "source_index": 0,
+      "extraction_method": "native"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<pre><code>IN THE SUPREME COURT OF THE UNITED STATES \n- - - - - - - - - - - - - - - - - x \nMICHAEL A. KNOWLES, \nWARDEN, \n Petitioner \n v. \nALEXANDRE MIRZAYANCE. \n- - - - - - - - - - - - - - - - - x\n The above-entitled matter came on for oral \nargument before the Supreme Court of the United States \nat 1:01 p.m. \n: \n:\n:\n: \nNo. 07-1315 \n: \n Washington, D.C.\n Tuesday, January 13, 2009\nAPPEARANCES: \nSTEVEN E. MERCER, ESQ., Deputy Attorney General, Los\n Angeles, Cal.; on behalf of the Petitioner. \nCHARLES M. SEVILLA, ESQ., San Diego, Cal.; on behalf\n of the Respondent. \n1</code></pre>\n<p>Alderson Reporting Company</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Official - Subject to Final Review\"},{\"type\":\"paragraph\",\"text\":\"1 IN THE SUPREME COURT OF THE UNITED STATES\"},{\"type\":\"paragraph\",\"text\":\"2 - - - - - - - - - - - - - - - - - x\"},{\"type\":\"paragraph\",\"text\":\"3 MICHAEL A. KNOWLES,\"},{\"type\":\"paragraph\",\"text\":\"4 WARDEN,\"},{\"type\":\"paragraph\",\"text\":\"5  Petitioner\"},{\"type\":\"paragraph\",\"text\":\"6  v.\"},{\"type\":\"paragraph\",\"text\":\"7 ALEXANDRE MIRZAYANCE.\"},{\"type\":\"paragraph\",\"text\":\"8 - - - - - - - - - - - - - - - - - x\"},{\"type\":\"paragraph\",\"text\":\"9\"},{\"type\":\"paragraph\",\"text\":\"10\"},{\"type\":\"paragraph\",\"text\":\"11\"},{\"type\":\"paragraph\",\"text\":\"12  The above-entitled matter came on for oral\"},{\"type\":\"paragraph\",\"text\":\"13 argument before the Supreme Court of the United States\"},{\"type\":\"paragraph\",\"text\":\"14 at 1:01 p.m.\"},{\"type\":\"paragraph\",\"text\":\":\"},{\"type\":\"paragraph\",\"text\":\":\"},{\"type\":\"paragraph\",\"text\":\":\"},{\"type\":\"paragraph\",\"text\":\":  No. 07-1315\"},{\"type\":\"paragraph\",\"text\":\":\"},{\"type\":\"paragraph\",\"text\":\"Washington, D.C.\"},{\"type\":\"paragraph\",\"text\":\"Tuesday, January 13, 2009\"},{\"type\":\"paragraph\",\"text\":\"15 APPEARANCES:\"},{\"type\":\"paragraph\",\"text\":\"16 STEVEN E. MERCER, ESQ., Deputy Attorney General, Los\"},{\"type\":\"paragraph\",\"text\":\"17  Angeles, Cal.; on behalf of the Petitioner.\"},{\"type\":\"paragraph\",\"text\":\"18 CHARLES M. SEVILLA, ESQ., San Diego, Cal.; on behalf\"},{\"type\":\"paragraph\",\"text\":\"19  of the Respondent.\"},{\"type\":\"paragraph\",\"text\":\"20\"},{\"type\":\"paragraph\",\"text\":\"21\"},{\"type\":\"paragraph\",\"text\":\"22\"},{\"type\":\"paragraph\",\"text\":\"23\"},{\"type\":\"paragraph\",\"text\":\"24\"},{\"type\":\"paragraph\",\"text\":\"25\"},{\"type\":\"paragraph\",\"text\":\"1\"},{\"type\":\"paragraph\",\"text\":\"Alderson Reporting Company\"}]}",
+    "markdown": "```\nIN THE SUPREME COURT OF THE UNITED STATES \n- - - - - - - - - - - - - - - - - x \nMICHAEL A. KNOWLES, \nWARDEN, \n Petitioner \n v. \nALEXANDRE MIRZAYANCE. \n- - - - - - - - - - - - - - - - - x\n The above-entitled matter came on for oral \nargument before the Supreme Court of the United States \nat 1:01 p.m. \n: \n:\n:\n: \nNo. 07-1315 \n: \n Washington, D.C.\n Tuesday, January 13, 2009\nAPPEARANCES: \nSTEVEN E. MERCER, ESQ., Deputy Attorney General, Los\n Angeles, Cal.; on behalf of the Petitioner. \nCHARLES M. SEVILLA, ESQ., San Diego, Cal.; on behalf\n of the Respondent. \n1\n```\n\nAlderson Reporting Company\n",
+    "plain": "Official - Subject to Final Review\n\n1 IN THE SUPREME COURT OF THE UNITED STATES\n\n2 - - - - - - - - - - - - - - - - - x\n\n3 MICHAEL A. KNOWLES,\n\n4 WARDEN,\n\n5  Petitioner\n\n6  v.\n\n7 ALEXANDRE MIRZAYANCE.\n\n8 - - - - - - - - - - - - - - - - - x\n\n9\n\n10\n\n11\n\n12  The above-entitled matter came on for oral\n\n13 argument before the Supreme Court of the United States\n\n14 at 1:01 p.m.\n\n:\n\n:\n\n:\n\n:  No. 07-1315\n\n:\n\nWashington, D.C.\n\nTuesday, January 13, 2009\n\n15 APPEARANCES:\n\n16 STEVEN E. MERCER, ESQ., Deputy Attorney General, Los\n\n17  Angeles, Cal.; on behalf of the Petitioner.\n\n18 CHARLES M. SEVILLA, ESQ., San Diego, Cal.; on behalf\n\n19  of the Respondent.\n\n20\n\n21\n\n22\n\n23\n\n24\n\n25\n\n1\n\nAlderson Reporting Company"
+  }
+}

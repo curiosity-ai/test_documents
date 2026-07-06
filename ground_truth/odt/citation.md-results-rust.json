@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/odt/citation.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "ground_truth/odt/citation.md",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/odt/citation.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Some text[Ex] with a citation.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Some text[Ex] with a citation.\"}]}",
+    "markdown": "Some text[Ex] with a citation.\n",
+    "plain": "Some text[Ex] with a citation."
+  }
+}

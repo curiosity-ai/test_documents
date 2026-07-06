@@ -1,0 +1,46 @@
+{
+  "file": "ground_truth/typ/simple.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Introduction",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/typ/simple.md",
+      "source_uri": "ground_truth/typ/simple.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          ""
+        ],
+        [
+          "Header 1",
+          "Header 2"
+        ],
+        [
+          "Row 1, Col 1",
+          "Row 1, Col 2"
+        ],
+        [
+          "Row 2, Col 1",
+          "Row 2, Col 2"
+        ]
+      ],
+      "markdown": "|  |  |\n| --- | --- |\n| Header 1 | Header 2 |\n| Row 1, Col 1 | Row 1, Col 2 |\n| Row 2, Col 1 | Row 2, Col 2 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Introduction</h1>\n<p>This is a simple Typst document with basic formatting.</p>\n<h2>Subsection</h2>\n<p>Some <strong>bold text</strong> and <em>italic text</em> with <code>inline code</code>.</p>\n<h1>Features</h1>\n<p>This document demonstrates:</p>\n<ul>\n<li>Lists</li>\n<li><strong>Bold</strong> formatting</li>\n<li><em>Italic</em> text</li>\n<li>Tables</li>\n<li>Links</li>\n</ul>\n<h2>Lists</h2>\n<ol>\n<li>First item</li>\n<li>Second item</li>\n<li>Third item</li>\n</ol>\n<h2>Code</h2>\n<p><code>#let x = 5</code></p>\n<h2>Tables</h2>\n<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Header 1</td>\n<td>Header 2</td>\n</tr>\n<tr>\n<td>Row 1, Col 1</td>\n<td>Row 1, Col 2</td>\n</tr>\n<tr>\n<td>Row 2, Col 1</td>\n<td>Row 2, Col 2</td>\n</tr>\n</tbody>\n</table>\n<h2>Links</h2>\n<p>Visit <a href=\"https://typst.app\">Typst website</a> for more info.</p>\n<h1>Conclusion</h1>\n<p>This document demonstrates the basic features of Typst.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Introduction\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a simple Typst document with basic formatting.\"},{\"type\":\"section\",\"heading\":\"Subsection\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Some bold text and italic text with inline code.\"}]}]},{\"type\":\"section\",\"heading\":\"Features\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This document demonstrates:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"Lists\",\"Bold formatting\",\"Italic text\",\"Tables\",\"Links\"]},{\"type\":\"section\",\"heading\":\"Lists\",\"level\":2,\"body\":[{\"type\":\"list\",\"ordered\":true,\"items\":[\"First item\",\"Second item\",\"Third item\"]}]},{\"type\":\"section\",\"heading\":\"Code\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"#let x = 5\"}]},{\"type\":\"section\",\"heading\":\"Tables\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"\",\"\"],\"rows\":[[\"Header 1\",\"Header 2\"],[\"Row 1, Col 1\",\"Row 1, Col 2\"],[\"Row 2, Col 1\",\"Row 2, Col 2\"]]}]},{\"type\":\"section\",\"heading\":\"Links\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Visit Typst website for more info.\"}]}]},{\"type\":\"section\",\"heading\":\"Conclusion\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This document demonstrates the basic features of Typst.\"}]}]}",
+    "markdown": "# Introduction\n\nThis is a simple Typst document with basic formatting.\n\n## Subsection\n\nSome **bold text** and *italic text* with `inline code`.\n\n# Features\n\nThis document demonstrates:\n\n- Lists\n- **Bold** formatting\n- *Italic* text\n- Tables\n- Links\n\n## Lists\n\n1. First item\n2. Second item\n3. Third item\n\n## Code\n\n`#let x = 5`\n\n## Tables\n\n|  |  |\n| --- | --- |\n| Header 1 | Header 2 |\n| Row 1, Col 1 | Row 1, Col 2 |\n| Row 2, Col 1 | Row 2, Col 2 |\n\n## Links\n\nVisit [Typst website](https://typst.app) for more info.\n\n# Conclusion\n\nThis document demonstrates the basic features of Typst.\n",
+    "plain": "Introduction\nThis is a simple Typst document with basic formatting.\n\n  Subsection\nSome bold text and italic text with inline code.\n\nFeatures\nThis document demonstrates:\n\nLists\nBold formatting\nItalic text\nTables\nLinks\n  Lists\nFirst item\nSecond item\nThird item\n\n  Code\n#let x = 5\n\n  Tables\n \nHeader 1 Header 2\nRow 1, Col 1 Row 1, Col 2\nRow 2, Col 1 Row 2, Col 2\n\n  Links\nVisit Typst website for more info.\n\nConclusion\nThis document demonstrates the basic features of Typst."
+  }
+}

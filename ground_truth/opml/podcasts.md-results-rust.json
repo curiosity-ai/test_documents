@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/opml/podcasts.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Technology Podcasts",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/opml/podcasts.md",
+      "final_uri": "ground_truth/opml/podcasts.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Technology Podcasts</h1>\n<h2>The Joe Rogan Experience</h2>\n<h2>Syntax - Tasty Web Development Treats</h2>\n<h2>React Native Radio</h2>\n<h1>Business &amp; Startups</h1>\n<h2>Acquired</h2>\n<h2>Masters of Scale</h2>\n<h1>Science &amp; Nature</h1>\n<h2>StarTalk Radio</h2>\n<h2>Nature Podcast</h2>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Technology Podcasts\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"The Joe Rogan Experience\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Syntax - Tasty Web Development Treats\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"React Native Radio\",\"level\":2,\"body\":[]}]},{\"type\":\"section\",\"heading\":\"Business & Startups\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Acquired\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Masters of Scale\",\"level\":2,\"body\":[]}]},{\"type\":\"section\",\"heading\":\"Science & Nature\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"StarTalk Radio\",\"level\":2,\"body\":[]},{\"type\":\"section\",\"heading\":\"Nature Podcast\",\"level\":2,\"body\":[]}]}]}",
+    "markdown": "# Technology Podcasts\n\n## The Joe Rogan Experience\n\n## Syntax - Tasty Web Development Treats\n\n## React Native Radio\n\n# Business & Startups\n\n## Acquired\n\n## Masters of Scale\n\n# Science & Nature\n\n## StarTalk Radio\n\n## Nature Podcast\n",
+    "plain": "Technology Podcasts\n  The Joe Rogan Experience\n\n  Syntax - Tasty Web Development Treats\n\n  React Native Radio\nBusiness & Startups\n  Acquired\n\n  Masters of Scale\nScience & Nature\n  StarTalk Radio\n\n  Nature Podcast"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/hyperlink_03.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 9,
+      "word_count": 34,
+      "character_count": 185
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/html/hyperlink_03.txt",
+      "final_uri": "ground_truth/html/hyperlink_03.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>- My Section - Some page - A sub page</p>\n<p>- This is my Homepage - List item inner - More text with some links and more text. - Main navigation - My organisation</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"-  My Section\\n  - Some page\\n    - A sub page\"},{\"type\":\"paragraph\",\"text\":\"- This is my Homepage\\n      - List item inner\\n      - More text with some links and more text.\\n    - Main navigation\\n-  My organisation\"}]}",
+    "markdown": "\\- My Section - Some page - A sub page\n\n\\- This is my Homepage - List item inner - More text with some links and more text. - Main navigation - My organisation\n",
+    "plain": "-  My Section\n  - Some page\n    - A sub page\n\n- This is my Homepage\n      - List item inner\n      - More text with some links and more text.\n    - Main navigation\n-  My organisation"
+  }
+}

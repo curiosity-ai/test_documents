@@ -1,0 +1,26 @@
+{
+  "file": "rtf/bookmark.rtf",
+  "mime_type": "application/rtf",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "paragraph_count": 2,
+      "line_count": 3,
+      "character_count": 20,
+      "source_uri": "rtf/bookmark.rtf",
+      "final_uri": "rtf/bookmark.rtf",
+      "word_count": 3
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Bookmark_1</p>\n<p><a href=\"#bookmark_1\">click me</a></p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Bookmark_1\"},{\"type\":\"paragraph\",\"text\":\"click me\"}]}",
+    "markdown": "Bookmark_1\n\n[click me](#bookmark_1)\n",
+    "plain": "Bookmark_1\n\nclick me"
+  }
+}

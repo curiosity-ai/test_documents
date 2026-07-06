@@ -1,0 +1,78 @@
+{
+  "file": "vendored/unstructured/eml/email-replace-mime-encodings-error-1.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "Someone has joined your meeting - Someone: 45 Minute Meeting",
+    "created_at": "Fri, 28 Oct 2022 08:59:12 +0000 (UTC)",
+    "format": {
+      "format_type": "email",
+      "from_email": "email@domain.com",
+      "to_emails": [
+        "email@domain.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "message_id": "OYKTVL8bRwayw3F6Pdbr5g@geopod-ismtpd-2-2",
+      "attachments": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "mime_version": "1.0",
+      "final_uri": "vendored/unstructured/eml/email-replace-mime-encodings-error-1.eml",
+      "source_kind": "uri",
+      "source_index": 0,
+      "content_type": "text/html; charset=us-ascii",
+      "source_uri": "vendored/unstructured/eml/email-replace-mime-encodings-error-1.eml"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "\n                                                             \n                                                        ",
+          "\n                                                            \n                                                                Start Meeting\n                                                            \n                                                        ",
+          "\n                                                             \n                                                        "
+        ]
+      ],
+      "markdown": "| \n                                                             \n                                                         | \n                                                            \n                                                                Start Meeting\n                                                            \n                                                         | \n                                                             \n                                                         |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "\n                                                Thank you for choosing Zoom.\n                                                -The Zoom Team\n                                            "
+        ]
+      ],
+      "markdown": "| \n                                                Thank you for choosing Zoom.\n                                                -The Zoom Team\n                                             |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "\n                                                \n                                                    \n                                                \n                                            ",
+          "\n                                                \n                                                    \n                                                \n                                            ",
+          "\n                                                \n                                                    \n                                                \n                                            "
+        ]
+      ],
+      "markdown": "| \n                                                \n                                                    \n                                                \n                                             | \n                                                \n                                                    \n                                                \n                                             | \n                                                \n                                                    \n                                                \n                                             |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "\n                                                Copyright ©2022 Zoom Video Communications, Inc. All rights reserved.\n                                            "
+        ]
+      ],
+      "markdown": "| \n                                                Copyright ©2022 Zoom Video Communications, Inc. All rights reserved.\n                                             |\n",
+      "page_number": 0
+    }
+  ],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Someone has joined your meeting - Someone: 45 Minute Meeting</p>\n<p><strong>From</strong>: email@domain.com</p>\n<p><strong>To</strong>: email@domain.com</p>\n<p><strong>Date</strong>: Fri, 28 Oct 2022 08:59:12 +0000 (UTC)</p>\n<p>[Image]</p>\n<table>\n<thead>\n<tr>\n<th> </th>\n<th> Start Meeting </th>\n<th> </th>\n</tr>\n</thead>\n</table>\n<table>\n<thead>\n<tr>\n<th> Thank you for choosing Zoom. -The Zoom Team </th>\n</tr>\n</thead>\n</table>\n<table>\n<thead>\n<tr>\n<th> </th>\n<th> </th>\n<th> </th>\n</tr>\n</thead>\n</table>\n<table>\n<thead>\n<tr>\n<th> Copyright ©2022 Zoom Video Communications, Inc. All rights reserved. </th>\n</tr>\n</thead>\n</table>\n<p>From 1759159613117388594@xxx Wed Mar 01 10:09:01 +0000 2023 X-GM-THRID: 1759159613117388594</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"[Image]\"},{\"type\":\"table\",\"headers\":[\"\\n                                                             \\n                                                        \",\"\\n                                                            \\n                                                                Start Meeting\\n                                                            \\n                                                        \",\"\\n                                                             \\n                                                        \"],\"rows\":[]},{\"type\":\"table\",\"headers\":[\"\\n                                                Thank you for choosing Zoom.\\n                                                -The Zoom Team\\n                                            \"],\"rows\":[]},{\"type\":\"table\",\"headers\":[\"\\n                                                \\n                                                    \\n                                                \\n                                            \",\"\\n                                                \\n                                                    \\n                                                \\n                                            \",\"\\n                                                \\n                                                    \\n                                                \\n                                            \"],\"rows\":[]},{\"type\":\"table\",\"headers\":[\"\\n                                                Copyright ©2022 Zoom Video Communications, Inc. All rights reserved.\\n                                            \"],\"rows\":[]},{\"type\":\"paragraph\",\"text\":\"From 1759159613117388594@xxx Wed Mar 01 10:09:01 +0000 2023 X-GM-THRID: 1759159613117388594\"}]}",
+    "markdown": "**Subject**: Someone has joined your meeting - Someone: 45 Minute Meeting\n\n**From**: email@domain.com\n\n**To**: email@domain.com\n\n**Date**: Fri, 28 Oct 2022 08:59:12 +0000 (UTC)\n\n[Image]\n\n|   |  Start Meeting  |   |\n| --- | --- | --- |\n\n|  Thank you for choosing Zoom. -The Zoom Team  |\n| --- |\n\n|   |   |   |\n| --- | --- | --- |\n\n|  Copyright ©2022 Zoom Video Communications, Inc. All rights reserved.  |\n| --- |\n\nFrom 1759159613117388594@xxx Wed Mar 01 10:09:01 +0000 2023 X-GM-THRID: 1759159613117388594\n",
+    "plain": "Subject: Someone has joined your meeting - Someone: 45 Minute Meeting\nFrom: email@domain.com\nTo: email@domain.com\nDate: Fri, 28 Oct 2022 08:59:12 +0000 (UTC)\n\n[Image]\n\n\n                                                             \n                                                         \n                                                            \n                                                                Start Meeting\n                                                            \n                                                         \n                                                             \n                                                        \n\n\n                                                Thank you for choosing Zoom.\n                                                -The Zoom Team\n                                            \n\n\n                                                Copyright ©2022 Zoom Video Communications, Inc. All rights reserved.\n                                            \n\nFrom 1759159613117388594@xxx Wed Mar 01 10:09:01 +0000 2023 X-GM-THRID: 1759159613117388594"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/opml/outline.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 43,
+      "word_count": 50,
+      "character_count": 426
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/opml/outline.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/opml/outline.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Project Alpha</p>\n<p>Phase 1: Planning</p>\n<p>Requirements gathering</p>\n<p>Resource allocation</p>\n<p>Risk assessment</p>\n<p>Phase 2: Development</p>\n<p>Architecture design</p>\n<p>Backend implementation</p>\n<p>Frontend implementation</p>\n<p>Database setup</p>\n<p>Phase 3: Testing</p>\n<p>Unit testing</p>\n<p>Integration testing</p>\n<p>User acceptance testing</p>\n<p>Phase 4: Deployment</p>\n<p>Production setup</p>\n<p>Documentation</p>\n<p>Training</p>\n<p>Notes &amp; Resources</p>\n<p>Technical References</p>\n<p>Team Meeting Minutes</p>\n<p>Budget &amp; Timeline</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Project Alpha\"},{\"type\":\"paragraph\",\"text\":\"Phase 1: Planning\"},{\"type\":\"paragraph\",\"text\":\"Requirements gathering\"},{\"type\":\"paragraph\",\"text\":\"Resource allocation\"},{\"type\":\"paragraph\",\"text\":\"Risk assessment\"},{\"type\":\"paragraph\",\"text\":\"Phase 2: Development\"},{\"type\":\"paragraph\",\"text\":\"Architecture design\"},{\"type\":\"paragraph\",\"text\":\"Backend implementation\"},{\"type\":\"paragraph\",\"text\":\"Frontend implementation\"},{\"type\":\"paragraph\",\"text\":\"Database setup\"},{\"type\":\"paragraph\",\"text\":\"Phase 3: Testing\"},{\"type\":\"paragraph\",\"text\":\"Unit testing\"},{\"type\":\"paragraph\",\"text\":\"Integration testing\"},{\"type\":\"paragraph\",\"text\":\"User acceptance testing\"},{\"type\":\"paragraph\",\"text\":\"Phase 4: Deployment\"},{\"type\":\"paragraph\",\"text\":\"Production setup\"},{\"type\":\"paragraph\",\"text\":\"Documentation\"},{\"type\":\"paragraph\",\"text\":\"Training\"},{\"type\":\"paragraph\",\"text\":\"Notes & Resources\"},{\"type\":\"paragraph\",\"text\":\"Technical References\"},{\"type\":\"paragraph\",\"text\":\"Team Meeting Minutes\"},{\"type\":\"paragraph\",\"text\":\"Budget & Timeline\"}]}",
+    "markdown": "Project Alpha\n\nPhase 1: Planning\n\nRequirements gathering\n\nResource allocation\n\nRisk assessment\n\nPhase 2: Development\n\nArchitecture design\n\nBackend implementation\n\nFrontend implementation\n\nDatabase setup\n\nPhase 3: Testing\n\nUnit testing\n\nIntegration testing\n\nUser acceptance testing\n\nPhase 4: Deployment\n\nProduction setup\n\nDocumentation\n\nTraining\n\nNotes & Resources\n\nTechnical References\n\nTeam Meeting Minutes\n\nBudget & Timeline\n",
+    "plain": "Project Alpha\n\nPhase 1: Planning\n\nRequirements gathering\n\nResource allocation\n\nRisk assessment\n\nPhase 2: Development\n\nArchitecture design\n\nBackend implementation\n\nFrontend implementation\n\nDatabase setup\n\nPhase 3: Testing\n\nUnit testing\n\nIntegration testing\n\nUser acceptance testing\n\nPhase 4: Deployment\n\nProduction setup\n\nDocumentation\n\nTraining\n\nNotes & Resources\n\nTechnical References\n\nTeam Meeting Minutes\n\nBudget & Timeline"
+  }
+}

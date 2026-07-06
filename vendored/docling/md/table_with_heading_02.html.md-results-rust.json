@@ -1,0 +1,38 @@
+{
+  "file": "vendored/docling/md/table_with_heading_02.html.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Main Title",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "vendored/docling/md/table_with_heading_02.html.md",
+      "final_uri": "vendored/docling/md/table_with_heading_02.html.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "## A text",
+          "B"
+        ],
+        [
+          "1...",
+          "2..."
+        ]
+      ],
+      "markdown": "| ## A text | B |\n| --- | --- |\n| 1... | 2... |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Main Title</h1>\n<p>Before the table</p>\n<table>\n<thead>\n<tr>\n<th>## A text</th>\n<th>B</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1...</td>\n<td>2...</td>\n</tr>\n</tbody>\n</table>\n<h2>Section After</h2>\n<p>After the table</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Main Title\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Before the table\"},{\"type\":\"table\",\"headers\":[\"## A text\",\"B\"],\"rows\":[[\"1...\",\"2...\"]]},{\"type\":\"section\",\"heading\":\"Section After\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"After the table\"}]}]}]}",
+    "markdown": "# Main Title\n\nBefore the table\n\n| \\#\\# A text | B |\n| --- | --- |\n| 1... | 2... |\n\n## Section After\n\nAfter the table\n",
+    "plain": "Main Title\nBefore the table\n\n## A text B\n1... 2...\n\n  Section After\nAfter the table"
+  }
+}

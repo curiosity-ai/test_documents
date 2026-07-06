@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pdf/hello_structure.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/pdf/hello_structure.md",
+      "final_uri": "ground_truth/pdf/hello_structure.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Hello World</p>\n<p>Goodbye Cruel World...</p>\n<p>I'll be back shortly!</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Hello World\"},{\"type\":\"paragraph\",\"text\":\"Goodbye Cruel World...\"},{\"type\":\"paragraph\",\"text\":\"I'll be back shortly!\"}]}",
+    "markdown": "Hello World\n\nGoodbye Cruel World...\n\nI'll be back shortly\\!\n",
+    "plain": "Hello World\n\nGoodbye Cruel World...\n\nI'll be back shortly!"
+  }
+}

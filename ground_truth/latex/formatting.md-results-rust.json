@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/latex/formatting.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Text Formatting",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/latex/formatting.md",
+      "source_kind": "uri",
+      "source_uri": "ground_truth/latex/formatting.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Text Formatting</h1>\n<p>This is normal text.</p>\n<p><strong>This is bold text.</strong></p>\n<p><em>This is italic text.</em></p>\n<p><strong>This is underlined text.</strong></p>\n<p><em>This is emphasized text.</em></p>\n<p><code>This is monospace text.</code></p>\n<p>You can also combine formatting: <em>bold and italic</em>.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Text Formatting\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is normal text.\"},{\"type\":\"paragraph\",\"text\":\"This is bold text.\"},{\"type\":\"paragraph\",\"text\":\"This is italic text.\"},{\"type\":\"paragraph\",\"text\":\"This is underlined text.\"},{\"type\":\"paragraph\",\"text\":\"This is emphasized text.\"},{\"type\":\"paragraph\",\"text\":\"This is monospace text.\"},{\"type\":\"paragraph\",\"text\":\"You can also combine formatting: bold and italic.\"}]}]}",
+    "markdown": "# Text Formatting\n\nThis is normal text.\n\n**This is bold text.**\n\n*This is italic text.*\n\n**This is underlined text.**\n\n*This is emphasized text.*\n\n`This is monospace text.`\n\nYou can also combine formatting: *bold and italic*.\n",
+    "plain": "Text Formatting\nThis is normal text.\n\nThis is bold text.\n\nThis is italic text.\n\nThis is underlined text.\n\nThis is emphasized text.\n\nThis is monospace text.\n\nYou can also combine formatting: bold and italic."
+  }
+}

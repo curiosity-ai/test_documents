@@ -1,0 +1,136 @@
+{
+  "file": "vendored/docling/docx/docx_rich_cells.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Cesar Berrospi Ramis"
+    ],
+    "created_at": "2025-10-30T09:31:00Z",
+    "modified_at": "2025-11-05T14:29:00Z",
+    "created_by": "Cesar Berrospi Ramis",
+    "modified_by": "Cesar Berrospi Ramis",
+    "format": {
+      "format_type": "docx",
+      "core_properties": {
+        "title": null,
+        "subject": null,
+        "creator": "Cesar Berrospi Ramis",
+        "keywords": null,
+        "description": null,
+        "last_modified_by": "Cesar Berrospi Ramis",
+        "revision": "52",
+        "created": "2025-10-30T09:31:00Z",
+        "modified": "2025-11-05T14:29:00Z",
+        "category": null,
+        "content_status": null,
+        "language": null,
+        "identifier": null,
+        "version": null,
+        "last_printed": null
+      },
+      "app_properties": {
+        "application": "Microsoft Office Word",
+        "app_version": "16.0000",
+        "template": "Normal.dotm",
+        "total_time": 60,
+        "pages": 1,
+        "words": 176,
+        "characters": 762,
+        "characters_with_spaces": 866,
+        "lines": 84,
+        "paragraphs": 72,
+        "company": null,
+        "doc_security": 0,
+        "scale_crop": false,
+        "links_up_to_date": false,
+        "shared_doc": false,
+        "hyperlinks_changed": false
+      },
+      "custom_properties": {}
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "vendored/docling/docx/docx_rich_cells.docx",
+      "word_count": 176,
+      "page_count": 1,
+      "application": "Microsoft Office Word",
+      "line_count": 84,
+      "source_uri": "vendored/docling/docx/docx_rich_cells.docx",
+      "source_kind": "uri",
+      "revision": "52",
+      "character_count": 762,
+      "template": "Normal.dotm",
+      "total_editing_time_minutes": 60,
+      "source_index": 0,
+      "paragraph_count": 72
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Column A",
+          "Column B"
+        ],
+        [
+          "This is a list: A First A Second A Third",
+          "This is a formatted list: B **First** B *Second* B <u>Third</u>"
+        ],
+        [
+          "First Paragraph\n\nSecond Paragraph \nThird paragraph before a numbered list Number one Number two Number three",
+          "This is simple text with **bold**, ~~strikethrough~~ and *italic* formatting with x2 and H2O"
+        ],
+        [
+          "This is a paragraph This is another paragraph",
+          ""
+        ]
+      ],
+      "markdown": "| Column A | Column B |\n| --- | --- |\n| This is a list: A First A Second A Third | This is a formatted list: B **First** B *Second* B <u>Third</u> |\n| First Paragraph\n\nSecond Paragraph \nThird paragraph before a numbered list Number one Number two Number three | This is simple text with **bold**, ~~strikethrough~~ and *italic* formatting with x2 and H2O |\n| This is a paragraph This is another paragraph |  |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Column A",
+          "Column B"
+        ],
+        [
+          "Simple cell upper left",
+          "Simple cell with **bold** and *italic* text"
+        ],
+        [
+          "A B C *Cell 1* <u>Cell 2</u> **Cell 3**",
+          "Rich cell\nA nested table\n A B C ~~Cell 1~~ ***Cell 2*** <u>Cell 3</u>"
+        ]
+      ],
+      "markdown": "| Column A | Column B |\n| --- | --- |\n| Simple cell upper left | Simple cell with **bold** and *italic* text |\n| A B C *Cell 1* <u>Cell 2</u> **Cell 3** | Rich cell\nA nested table\n A B C ~~Cell 1~~ ***Cell 2*** <u>Cell 3</u> |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "Column A",
+          "Column B"
+        ],
+        [
+          "Only text",
+          ""
+        ],
+        [
+          "Text and picture",
+          ""
+        ]
+      ],
+      "markdown": "| Column A | Column B |\n| --- | --- |\n| Only text |  |\n| Text and picture |  |\n",
+      "page_number": 0
+    }
+  ],
+  "content": {
+    "html": "<h2>Table with rich cells</h2>\n<table>\n<thead>\n<tr>\n<th>Column A</th>\n<th>Column B</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>This is a list: A First A Second A Third</td>\n<td>This is a formatted list: B **First** B *Second* B &lt;u&gt;Third&lt;/u&gt;</td>\n</tr>\n<tr>\n<td>First Paragraph Second Paragraph Third paragraph before a numbered list Number one Number two Number three</td>\n<td>This is simple text with **bold**, ~~strikethrough~~ and *italic* formatting with x2 and H2O</td>\n</tr>\n<tr>\n<td>This is a paragraph This is another paragraph</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<h2>Table with nested table</h2>\n<p>Before table</p>\n<table>\n<thead>\n<tr>\n<th>Column A</th>\n<th>Column B</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Simple cell upper left</td>\n<td>Simple cell with **bold** and *italic* text</td>\n</tr>\n<tr>\n<td>A B C *Cell 1* &lt;u&gt;Cell 2&lt;/u&gt; **Cell 3**</td>\n<td>Rich cell A nested table A B C ~~Cell 1~~ ***Cell 2*** &lt;u&gt;Cell 3&lt;/u&gt;</td>\n</tr>\n</tbody>\n</table>\n<p>After table with <strong>bold</strong>, <u>underline</u>, <del>strikethrough</del>, and <em>italic</em> formatting</p>\n<h2>Table with pictures</h2>\n<p><img src=\"media/image1.png\" alt=\"Owner avatar\" /></p>\n<p><img src=\"media/image1.png\" alt=\"Owner avatar\" /></p>\n<table>\n<thead>\n<tr>\n<th>Column A</th>\n<th>Column B</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Only text</td>\n<td></td>\n</tr>\n<tr>\n<td>Text and picture</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Table with rich cells\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Column A\",\"Column B\"],\"rows\":[[\"This is a list: A First A Second A Third\",\"This is a formatted list: B **First** B *Second* B <u>Third</u>\"],[\"First Paragraph\\n\\nSecond Paragraph \\nThird paragraph before a numbered list Number one Number two Number three\",\"This is simple text with **bold**, ~~strikethrough~~ and *italic* formatting with x2 and H2O\"],[\"This is a paragraph This is another paragraph\",\"\"]]},{\"type\":\"paragraph\",\"text\":\"\\n\"}]},{\"type\":\"section\",\"heading\":\"Table with nested table\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Before table\"},{\"type\":\"table\",\"headers\":[\"Column A\",\"Column B\"],\"rows\":[[\"Simple cell upper left\",\"Simple cell with **bold** and *italic* text\"],[\"A B C *Cell 1* <u>Cell 2</u> **Cell 3**\",\"Rich cell\\nA nested table\\n A B C ~~Cell 1~~ ***Cell 2*** <u>Cell 3</u>\"]]},{\"type\":\"paragraph\",\"text\":\"After table with bold, underline, strikethrough, and italic formatting\"}]},{\"type\":\"section\",\"heading\":\"Table with pictures\",\"level\":2,\"body\":[{\"type\":\"image\",\"alt\":\"Owner avatar\",\"src\":\"media/image1.png\"},{\"type\":\"image\",\"alt\":\"Owner avatar\",\"src\":\"media/image1.png\"},{\"type\":\"table\",\"headers\":[\"Column A\",\"Column B\"],\"rows\":[[\"Only text\",\"\"],[\"Text and picture\",\"\"]]}]}]}",
+    "markdown": "## Table with rich cells\n\n| Column A | Column B |\n| --- | --- |\n| This is a list: A First A Second A Third | This is a formatted list: B **First** B *Second* B \\<u\\>Third\\</u\\> |\n| First Paragraph Second Paragraph Third paragraph before a numbered list Number one Number two Number three | This is simple text with **bold**, \\~\\~strikethrough\\~\\~ and *italic* formatting with x2 and H2O |\n| This is a paragraph This is another paragraph |  |\n\n \n\n## Table with nested table\n\nBefore table\n\n| Column A | Column B |\n| --- | --- |\n| Simple cell upper left | Simple cell with **bold** and *italic* text |\n| A B C *Cell 1* \\<u\\>Cell 2\\</u\\> **Cell 3** | Rich cell A nested table A B C \\~\\~Cell 1\\~\\~ ***Cell 2*** \\<u\\>Cell 3\\</u\\> |\n\nAfter table with **bold**, __underline__, ~~strikethrough~~, and *italic* formatting\n\n## Table with pictures\n\n![Owner avatar](media/image1.png)\n\n![Owner avatar](media/image1.png)\n\n| Column A | Column B |\n| --- | --- |\n| Only text |  |\n| Text and picture |  |\n",
+    "plain": "  Table with rich cells\nColumn A Column B\nThis is a list: A First A Second A Third This is a formatted list: B **First** B *Second* B <u>Third</u>\nFirst Paragraph\n\nSecond Paragraph \nThird paragraph before a numbered list Number one Number two Number three This is simple text with **bold**, ~~strikethrough~~ and *italic* formatting with x2 and H2O\nThis is a paragraph This is another paragraph \n\n\n\n\n  Table with nested table\nBefore table\n\nColumn A Column B\nSimple cell upper left Simple cell with **bold** and *italic* text\nA B C *Cell 1* <u>Cell 2</u> **Cell 3** Rich cell\nA nested table\n A B C ~~Cell 1~~ ***Cell 2*** <u>Cell 3</u>\n\nAfter table with bold, underline, strikethrough, and italic formatting\n\n  Table with pictures\n[Image: Owner avatar]\n\n[Image: Owner avatar]\n\nColumn A Column B\nOnly text \nText and picture"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/csv/data_table.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 12,
+      "word_count": 71,
+      "character_count": 763
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/csv/data_table.txt",
+      "source_uri": "ground_truth/csv/data_table.txt",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Name Department Salary Start Date Active ------------------- ------------- -------- ------------ -------- Alice Johnson Engineering 95000 2020-01-15 true Bob Smith Marketing 75000 2019-06-01 true Carol White Sales 82000 2021-03-10 false David Brown Engineering 105000 2018-11-20 true Emily Chen HR 70000 2022-02-28 true Frank Davis Operations 88000 2020-07-15 false Grace Lee Marketing 79000 2021-09-01 true Henry Wilson Engineering 115000 2017-04-12 true Isabella Martinez Sales 91000 2019-12-05 true Jack Thompson HR 68000 2023-01-10 true</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Name                Department    Salary   Start Date   Active\\n  ------------------- ------------- -------- ------------ --------\\n  Alice Johnson       Engineering   95000    2020-01-15   true\\n  Bob Smith           Marketing     75000    2019-06-01   true\\n  Carol White         Sales         82000    2021-03-10   false\\n  David Brown         Engineering   105000   2018-11-20   true\\n  Emily Chen          HR            70000    2022-02-28   true\\n  Frank Davis         Operations    88000    2020-07-15   false\\n  Grace Lee           Marketing     79000    2021-09-01   true\\n  Henry Wilson        Engineering   115000   2017-04-12   true\\n  Isabella Martinez   Sales         91000    2019-12-05   true\\n  Jack Thompson       HR            68000    2023-01-10   true\"}]}",
+    "markdown": "Name Department Salary Start Date Active ------------------- ------------- -------- ------------ -------- Alice Johnson Engineering 95000 2020-01-15 true Bob Smith Marketing 75000 2019-06-01 true Carol White Sales 82000 2021-03-10 false David Brown Engineering 105000 2018-11-20 true Emily Chen HR 70000 2022-02-28 true Frank Davis Operations 88000 2020-07-15 false Grace Lee Marketing 79000 2021-09-01 true Henry Wilson Engineering 115000 2017-04-12 true Isabella Martinez Sales 91000 2019-12-05 true Jack Thompson HR 68000 2023-01-10 true\n",
+    "plain": "Name                Department    Salary   Start Date   Active\n  ------------------- ------------- -------- ------------ --------\n  Alice Johnson       Engineering   95000    2020-01-15   true\n  Bob Smith           Marketing     75000    2019-06-01   true\n  Carol White         Sales         82000    2021-03-10   false\n  David Brown         Engineering   105000   2018-11-20   true\n  Emily Chen          HR            70000    2022-02-28   true\n  Frank Davis         Operations    88000    2020-07-15   false\n  Grace Lee           Marketing     79000    2021-09-01   true\n  Henry Wilson        Engineering   115000   2017-04-12   true\n  Isabella Martinez   Sales         91000    2019-12-05   true\n  Jack Thompson       HR            68000    2023-01-10   true"
+  }
+}

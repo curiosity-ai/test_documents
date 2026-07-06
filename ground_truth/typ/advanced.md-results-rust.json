@@ -1,0 +1,44 @@
+{
+  "file": "ground_truth/typ/advanced.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Mathematical Notation",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/typ/advanced.md",
+      "source_index": 0,
+      "source_uri": "ground_truth/typ/advanced.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Name",
+          "Age",
+          "City",
+          "Alice",
+          "30",
+          "New York",
+          "Bob",
+          "25",
+          "San Francisco",
+          "Carol",
+          "35",
+          "Boston"
+        ]
+      ],
+      "markdown": "| Name | Age | City | Alice | 30 | New York | Bob | 25 | San Francisco | Carol | 35 | Boston |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Mathematical Notation</h1>\n<p>The equation $x = (-b plus.minus sqrt(b^2 - 4a c)) / (2a)$ is well-known.</p>\n<p>Display math:</p>\n<p>$$x^2 + y^2 = r^2$$</p>\n<h1>Formatting Showcase</h1>\n<p>Different types of <strong>bold</strong>, <em>italic</em>, and <code>code</code> can be combined:</p>\n<ul>\n<li>*<em>bold and italic</em>*</li>\n<li>`#set heading(numbering: &quot;1.&quot;)`</li>\n</ul>\n<h1>Structured Content</h1>\n<h2>Code Blocks</h2>\n<pre lang=\"python\"><code>def fibonacci(n):\n    if n &lt;= 1:\n        return n\n    return fibonacci(n-1) + fibonacci(n-2)</code></pre>\n<h2>Nested Headings</h2>\n<h3>Level 3 heading</h3>\n<p>This is under a level 3 heading.</p>\n<h4>Level 4 heading</h4>\n<p>And this is level 4.</p>\n<h1>Tables and Data</h1>\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Age</th>\n<th>City</th>\n<th>Alice</th>\n<th>30</th>\n<th>New York</th>\n<th>Bob</th>\n<th>25</th>\n<th>San Francisco</th>\n<th>Carol</th>\n<th>35</th>\n<th>Boston</th>\n</tr>\n</thead>\n</table>\n<h1>Multiple Paragraphs</h1>\n<p>First paragraph here.</p>\n<p>Second paragraph with some <em>emphasized</em> text.</p>\n<p>Third paragraph with a <a href=\"https://example.com\">link to example</a>.</p>\n<h1>Conclusion</h1>\n<p>This demonstrates various Typst features for testing purposes.</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Mathematical Notation\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"The equation $x = (-b plus.minus sqrt(b^2 - 4a c)) / (2a)$ is well-known.\"},{\"type\":\"paragraph\",\"text\":\"Display math:\"},{\"type\":\"paragraph\",\"text\":\"$$x^2 + y^2 = r^2$$\"}]},{\"type\":\"section\",\"heading\":\"Formatting Showcase\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Different types of bold, italic, and code can be combined:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"*bold and italic*\",\"`#set heading(numbering: \\\"1.\\\")`\"]}]},{\"type\":\"section\",\"heading\":\"Structured Content\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Code Blocks\",\"level\":2,\"body\":[{\"type\":\"code\",\"text\":\"def fibonacci(n):\\n    if n <= 1:\\n        return n\\n    return fibonacci(n-1) + fibonacci(n-2)\",\"language\":\"python\"}]},{\"type\":\"section\",\"heading\":\"Nested Headings\",\"level\":2,\"body\":[{\"type\":\"section\",\"heading\":\"Level 3 heading\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is under a level 3 heading.\"},{\"type\":\"section\",\"heading\":\"Level 4 heading\",\"level\":4,\"body\":[{\"type\":\"paragraph\",\"text\":\"And this is level 4.\"}]}]}]}]},{\"type\":\"section\",\"heading\":\"Tables and Data\",\"level\":1,\"body\":[{\"type\":\"table\",\"headers\":[\"Name\",\"Age\",\"City\",\"Alice\",\"30\",\"New York\",\"Bob\",\"25\",\"San Francisco\",\"Carol\",\"35\",\"Boston\"],\"rows\":[]}]},{\"type\":\"section\",\"heading\":\"Multiple Paragraphs\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"First paragraph here.\"},{\"type\":\"paragraph\",\"text\":\"Second paragraph with some emphasized text.\"},{\"type\":\"paragraph\",\"text\":\"Third paragraph with a link to example.\"}]},{\"type\":\"section\",\"heading\":\"Conclusion\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This demonstrates various Typst features for testing purposes.\"}]}]}",
+    "markdown": "# Mathematical Notation\n\nThe equation $x = (-b plus.minus sqrt(b^2 - 4a c)) / (2a)$ is well-known.\n\nDisplay math:\n\n$$x^2 + y^2 = r^2$$\n\n# Formatting Showcase\n\nDifferent types of **bold**, *italic*, and `code` can be combined:\n\n- **bold and italic**\n- \\`\\#set heading(numbering: \"1.\")\\`\n\n# Structured Content\n\n## Code Blocks\n\n```python\ndef fibonacci(n):\n    if n <= 1:\n        return n\n    return fibonacci(n-1) + fibonacci(n-2)\n```\n\n## Nested Headings\n\n### Level 3 heading\n\nThis is under a level 3 heading.\n\n#### Level 4 heading\n\nAnd this is level 4.\n\n# Tables and Data\n\n| Name | Age | City | Alice | 30 | New York | Bob | 25 | San Francisco | Carol | 35 | Boston |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n# Multiple Paragraphs\n\nFirst paragraph here.\n\nSecond paragraph with some *emphasized* text.\n\nThird paragraph with a [link to example](https://example.com).\n\n# Conclusion\n\nThis demonstrates various Typst features for testing purposes.\n",
+    "plain": "Mathematical Notation\nThe equation $x = (-b plus.minus sqrt(b^2 - 4a c)) / (2a)$ is well-known.\n\nDisplay math:\n\n$$x^2 + y^2 = r^2$$\n\nFormatting Showcase\nDifferent types of bold, italic, and code can be combined:\n\n*bold and italic*\n`#set heading(numbering: \"1.\")`\n\nStructured Content\n  Code Blocks\ndef fibonacci(n):\n    if n <= 1:\n        return n\n    return fibonacci(n-1) + fibonacci(n-2)\n\n  Nested Headings\n    Level 3 heading\nThis is under a level 3 heading.\n\n      Level 4 heading\nAnd this is level 4.\n\nTables and Data\nName Age City Alice 30 New York Bob 25 San Francisco Carol 35 Boston\n\nMultiple Paragraphs\nFirst paragraph here.\n\nSecond paragraph with some emphasized text.\n\nThird paragraph with a link to example.\n\nConclusion\nThis demonstrates various Typst features for testing purposes."
+  }
+}

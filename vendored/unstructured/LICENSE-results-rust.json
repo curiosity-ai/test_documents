@@ -1,0 +1,12 @@
+{
+  "file": "vendored/unstructured/LICENSE",
+  "mime_type": "application/octet-stream",
+  "success": false,
+  "error": "Validation error: Could not determine MIME type from file path: /workspace/test_documents/vendored/unstructured/LICENSE",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

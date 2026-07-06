@@ -1,0 +1,35 @@
+{
+  "file": "data_formats/sample.nbib",
+  "mime_type": "application/x-pubmed",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "J Doe",
+      "J Smith"
+    ],
+    "format": {
+      "format_type": "citation",
+      "citation_count": 1,
+      "format": "PubMed",
+      "authors": [
+        "J Doe",
+        "J Smith"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "data_formats/sample.nbib",
+      "final_uri": "data_formats/sample.nbib"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<section class=\"footnotes\" data-footnotes>\n<ol>\n<li id=\"fn-A%20comprehensive%20study%20of%20document%20extraction%20techniques\">\n<p>A comprehensive study of document extraction techniques <a href=\"#fnref-A%20comprehensive%20study%20of%20document%20extraction%20techniques\" class=\"footnote-backref\" data-footnote-backref data-footnote-backref-idx=\"1\" aria-label=\"Back to reference 1\">↩</a></p>\n</li>\n</ol>\n</section>\n",
+    "json": "{\"body\":[]}",
+    "markdown": "[^A comprehensive study of document extraction techniques]:\n    A comprehensive study of document extraction techniques\n",
+    "plain": "A comprehensive study of document extraction techniques"
+  }
+}

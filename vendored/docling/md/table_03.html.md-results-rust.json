@@ -1,0 +1,38 @@
+{
+  "file": "vendored/docling/md/table_03.html.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Header",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/docling/md/table_03.html.md",
+      "final_uri": "vendored/docling/md/table_03.html.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "A",
+          "B"
+        ],
+        [
+          "- First item - Second item - Third item",
+          "2..."
+        ]
+      ],
+      "markdown": "| A | B |\n| --- | --- |\n| - First item - Second item - Third item | 2... |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h1>Header</h1>\n<p>This is the first paragraph.</p>\n<table>\n<thead>\n<tr>\n<th>A</th>\n<th>B</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>- First item - Second item - Third item</td>\n<td>2...</td>\n</tr>\n</tbody>\n</table>\n<p>After table</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Header\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is the first paragraph.\"},{\"type\":\"table\",\"headers\":[\"A\",\"B\"],\"rows\":[[\"- First item - Second item - Third item\",\"2...\"]]},{\"type\":\"paragraph\",\"text\":\"After table\"}]}]}",
+    "markdown": "# Header\n\nThis is the first paragraph.\n\n| A | B |\n| --- | --- |\n| - First item - Second item - Third item | 2... |\n\nAfter table\n",
+    "plain": "Header\nThis is the first paragraph.\n\nA B\n- First item - Second item - Third item 2...\n\nAfter table"
+  }
+}

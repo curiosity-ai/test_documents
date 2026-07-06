@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/fake-email-image-embedded.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 12,
+      "word_count": 43,
+      "character_count": 340
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/eml/fake-email-image-embedded.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "final_uri": "ground_truth/eml/fake-email-image-embedded.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: fake-email-image-embedded From: &quot;Mallori Harrell&quot; &lt;mallori@unstructured.io&gt; To: &quot;Mallori Harrell&quot; &lt;mallori@unstructured.io&gt; Date: Mon, 9 Jan 2023 15:00:43 -0600 This is a test email to use for unit tests. Important points: hello[image: unstructured_logo.png] this is our logo. - Roses are red - Violets are blue</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: fake-email-image-embedded\\r\\nFrom: \\\"Mallori Harrell\\\" <mallori@unstructured.io>\\r\\nTo: \\\"Mallori Harrell\\\" <mallori@unstructured.io>\\r\\nDate: Mon, 9 Jan 2023 15:00:43 -0600\\r\\nThis is a test email to use for unit tests.\\r\\n\\r\\nImportant points:\\r\\n\\r\\nhello[image: unstructured_logo.png] this is our logo.\\r\\n\\r\\n   - Roses are red\\r\\n   - Violets are blue\"}]}",
+    "markdown": "Subject: fake-email-image-embedded From: \"Mallori Harrell\" \\<mallori@unstructured.io\\> To: \"Mallori Harrell\" \\<mallori@unstructured.io\\> Date: Mon, 9 Jan 2023 15:00:43 -0600 This is a test email to use for unit tests. Important points: hello[image: unstructured_logo.png] this is our logo. - Roses are red - Violets are blue\n",
+    "plain": "Subject: fake-email-image-embedded\r\nFrom: \"Mallori Harrell\" <mallori@unstructured.io>\r\nTo: \"Mallori Harrell\" <mallori@unstructured.io>\r\nDate: Mon, 9 Jan 2023 15:00:43 -0600\r\nThis is a test email to use for unit tests.\r\n\r\nImportant points:\r\n\r\nhello[image: unstructured_logo.png] this is our logo.\r\n\r\n   - Roses are red\r\n   - Violets are blue"
+  }
+}

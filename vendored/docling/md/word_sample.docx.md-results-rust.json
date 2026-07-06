@@ -1,0 +1,50 @@
+{
+  "file": "vendored/docling/md/word_sample.docx.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Swimming in the lake",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "vendored/docling/md/word_sample.docx.md",
+      "source_kind": "uri",
+      "source_uri": "vendored/docling/md/word_sample.docx.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "",
+          "Food",
+          "Calories per portion"
+        ],
+        [
+          "Leaves",
+          "Ash, Elm, Maple",
+          "50"
+        ],
+        [
+          "Berries",
+          "Blueberry, Strawberry, Cranberry",
+          "150"
+        ],
+        [
+          "Grain",
+          "Corn, Buckwheat, Barley",
+          "200"
+        ]
+      ],
+      "markdown": "|  | Food | Calories per portion |\n| --- | --- | --- |\n| Leaves | Ash, Elm, Maple | 50 |\n| Berries | Blueberry, Strawberry, Cranberry | 150 |\n| Grain | Corn, Buckwheat, Barley | 200 |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<p>Summer activities</p>\n<h1>Swimming in the lake</h1>\n<p>Duck</p>\n<p>Figure 1: This is a cute duckling</p>\n<h2>Let’s swim!</h2>\n<p>To get started with swimming, first lay down in a water and try not to drown:</p>\n<ul>\n<li>You can relax and look around</li>\n<li>Paddle about</li>\n<li>Enjoy summer warmth</li>\n</ul>\n<p>Also, don’t forget:</p>\n<ol>\n<li>Wear sunglasses</li>\n<li>Don’t forget to drink water</li>\n<li>Use sun cream</li>\n</ol>\n<p>Hmm, what else…</p>\n<h3>Let’s eat</h3>\n<p>After we had a good day of swimming in the lake, it’s important to eat something nice</p>\n<p>I like to eat leaves</p>\n<p>Here are some interesting things a respectful duck could eat:</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Food</th>\n<th>Calories per portion</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Leaves</td>\n<td>Ash, Elm, Maple</td>\n<td>50</td>\n</tr>\n<tr>\n<td>Berries</td>\n<td>Blueberry, Strawberry, Cranberry</td>\n<td>150</td>\n</tr>\n<tr>\n<td>Grain</td>\n<td>Corn, Buckwheat, Barley</td>\n<td>200</td>\n</tr>\n</tbody>\n</table>\n<p>And let’s add another list in the end:</p>\n<ol>\n<li>Leaves</li>\n<li>Berries</li>\n<li>Grain</li>\n</ol>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Summer activities\"},{\"type\":\"section\",\"heading\":\"Swimming in the lake\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"Duck\"},{\"type\":\"paragraph\",\"text\":\"Figure 1: This is a cute duckling\"},{\"type\":\"section\",\"heading\":\"Let’s swim!\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"To get started with swimming, first lay down in a water and try not to drown:\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"You can relax and look around\",\"Paddle about\",\"Enjoy summer warmth\"]},{\"type\":\"paragraph\",\"text\":\"Also, don’t forget:\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Wear sunglasses\",\"Don’t forget to drink water\",\"Use sun cream\"]},{\"type\":\"paragraph\",\"text\":\"Hmm, what else…\"},{\"type\":\"section\",\"heading\":\"Let’s eat\",\"level\":3,\"body\":[{\"type\":\"paragraph\",\"text\":\"After we had a good day of swimming in the lake, it’s important to eat something nice\"},{\"type\":\"paragraph\",\"text\":\"I like to eat leaves\"},{\"type\":\"paragraph\",\"text\":\"Here are some interesting things a respectful duck could eat:\"},{\"type\":\"table\",\"headers\":[\"\",\"Food\",\"Calories per portion\"],\"rows\":[[\"Leaves\",\"Ash, Elm, Maple\",\"50\"],[\"Berries\",\"Blueberry, Strawberry, Cranberry\",\"150\"],[\"Grain\",\"Corn, Buckwheat, Barley\",\"200\"]]},{\"type\":\"paragraph\",\"text\":\"And let’s add another list in the end:\"},{\"type\":\"list\",\"ordered\":true,\"items\":[\"Leaves\",\"Berries\",\"Grain\"]}]}]}]}]}",
+    "markdown": "Summer activities\n\n# Swimming in the lake\n\nDuck\n\nFigure 1: This is a cute duckling\n\n## Let’s swim\\!\n\nTo get started with swimming, first lay down in a water and try not to drown:\n\n- You can relax and look around\n- Paddle about\n- Enjoy summer warmth\n\nAlso, don’t forget:\n\n1. Wear sunglasses\n2. Don’t forget to drink water\n3. Use sun cream\n\nHmm, what else…\n\n### Let’s eat\n\nAfter we had a good day of swimming in the lake, it’s important to eat something nice\n\nI like to eat leaves\n\nHere are some interesting things a respectful duck could eat:\n\n|  | Food | Calories per portion |\n| --- | --- | --- |\n| Leaves | Ash, Elm, Maple | 50 |\n| Berries | Blueberry, Strawberry, Cranberry | 150 |\n| Grain | Corn, Buckwheat, Barley | 200 |\n\nAnd let’s add another list in the end:\n\n1. Leaves\n2. Berries\n3. Grain\n",
+    "plain": "Summer activities\n\nSwimming in the lake\nDuck\n\nFigure 1: This is a cute duckling\n\n  Let’s swim!\nTo get started with swimming, first lay down in a water and try not to drown:\n\nYou can relax and look around\nPaddle about\nEnjoy summer warmth\nAlso, don’t forget:\n\nWear sunglasses\nDon’t forget to drink water\nUse sun cream\nHmm, what else…\n\n    Let’s eat\nAfter we had a good day of swimming in the lake, it’s important to eat something nice\n\nI like to eat leaves\n\nHere are some interesting things a respectful duck could eat:\n\n Food Calories per portion\nLeaves Ash, Elm, Maple 50\nBerries Blueberry, Strawberry, Cranberry 150\nGrain Corn, Buckwheat, Barley 200\n\nAnd let’s add another list in the end:\n\nLeaves\nBerries\nGrain"
+  }
+}

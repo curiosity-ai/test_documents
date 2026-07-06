@@ -1,0 +1,102 @@
+{
+  "file": "html/html.htm",
+  "mime_type": "text/html",
+  "success": true,
+  "metadata": {
+    "title": "Test HTML Page for Metadata Extraction",
+    "subject": "Test page for HTML metadata extraction",
+    "authors": [
+      "Xberg Test"
+    ],
+    "keywords": [
+      "test",
+      "extraction",
+      "metadata",
+      "html"
+    ],
+    "format": {
+      "format_type": "html",
+      "title": "Test HTML Page for Metadata Extraction",
+      "description": "Test page for HTML metadata extraction",
+      "keywords": [
+        "test",
+        "extraction",
+        "metadata",
+        "html"
+      ],
+      "author": "Xberg Test",
+      "open_graph": {
+        "description": "Test description for Open Graph",
+        "image": "https://example.com/image.jpg",
+        "title": "Test Page Title"
+      },
+      "twitter_card": {
+        "card": "summary",
+        "description": "Test Twitter description",
+        "title": "Test Twitter Title"
+      },
+      "meta_tags": {
+        "viewport": "width=device-width, initial-scale=1.0"
+      },
+      "headers": [
+        {
+          "level": 1,
+          "text": "Main Heading",
+          "depth": 2,
+          "html_offset": 0
+        },
+        {
+          "level": 2,
+          "text": "Sub Heading",
+          "depth": 2,
+          "html_offset": 0
+        }
+      ],
+      "links": [
+        {
+          "href": "https://example.com",
+          "text": "Example Link",
+          "link_type": "external",
+          "rel": [],
+          "attributes": []
+        }
+      ],
+      "images": [
+        {
+          "src": "https://example.com/test.jpg",
+          "alt": "Test Image",
+          "dimensions": null,
+          "image_type": "external",
+          "attributes": [
+            [
+              "alt",
+              "Test Image"
+            ]
+          ]
+        }
+      ],
+      "structured_data": [
+        {
+          "data_type": "json-ld",
+          "raw_json": "{\n        \"@context\": \"https://schema.org\",\n        \"@type\": \"Article\",\n        \"headline\": \"Test Article\",\n        \"description\": \"A test article for structured data\",\n        \"author\": {\n          \"@type\": \"Person\",\n          \"name\": \"Test Author\"\n        }\n      }",
+          "schema_type": "Article"
+        }
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "html/html.htm",
+      "source_uri": "html/html.htm",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Main Heading</h1>\n<h2>Sub Heading</h2>\n<p>Browsers usually insert quotation marks around the q element.</p>\n<p>WWF's goal is to: &quot;Build a future where people live in harmony with nature.&quot;</p>\n<p>![Test Image](https://example.com/test.jpg)</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Main Heading\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Sub Heading\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Browsers usually insert quotation marks around the q element.\"},{\"type\":\"paragraph\",\"text\":\"WWF's goal is to: \\\"Build a future where people live in harmony with nature.\\\"\"},{\"type\":\"paragraph\",\"text\":\"![Test Image](https://example.com/test.jpg)\"}]}]}]}",
+    "markdown": "---\nmeta-author: Xberg Test\nmeta-description: Test page for HTML metadata extraction\nmeta-keywords: test,extraction,metadata,html\nmeta-og:description: Test description for Open Graph\nmeta-og:image: https://example.com/image.jpg\nmeta-og:title: Test Page Title\nmeta-twitter:card: summary\nmeta-twitter:description: Test Twitter description\nmeta-twitter:title: Test Twitter Title\nmeta-viewport: width=device-width, initial-scale=1.0\n\n## title: Test HTML Page for Metadata Extraction\n\n# Main Heading\n\n## Sub Heading\n\nBrowsers usually insert quotation marks around the q element.\n\nWWF's goal is to: \"Build a future where people live in harmony with nature.\"\n\n[Example Link](https://example.com) ![Test Image](https://example.com/test.jpg)\n",
+    "plain": "  Main Heading\n    Sub Heading\n    Browsers usually insert quotation marks around the q element.\n\n    WWF's goal is to: \"Build a future where people live in harmony with nature.\"\n\n    ![Test Image](https://example.com/test.jpg)"
+  }
+}

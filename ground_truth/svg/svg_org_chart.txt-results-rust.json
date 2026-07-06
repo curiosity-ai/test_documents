@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/svg/svg_org_chart.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 58,
+      "character_count": 417
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/svg/svg_org_chart.txt",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/svg/svg_org_chart.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Organization Chart Company organizational structure showing departments and roles Jane Smith Chief Executive Officer Bob Chen Chief Technology Officer Maria Garcia Chief Financial Officer Alex Johnson Chief Operating Officer Engineering Product Finance Sales Operations 15 engineers 8 product managers 6 analysts 12 sales reps 10 ops staff Total headcount: 51 employees across 5 departments Last updated: January 2024</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Organization Chart Company organizational structure showing departments and roles Jane Smith Chief Executive Officer Bob Chen Chief Technology Officer Maria Garcia Chief Financial Officer Alex Johnson Chief Operating Officer Engineering Product Finance Sales Operations 15 engineers 8 product managers 6 analysts 12 sales reps 10 ops staff Total headcount: 51 employees across 5 departments Last updated: January 2024\"}]}",
+    "markdown": "Organization Chart Company organizational structure showing departments and roles Jane Smith Chief Executive Officer Bob Chen Chief Technology Officer Maria Garcia Chief Financial Officer Alex Johnson Chief Operating Officer Engineering Product Finance Sales Operations 15 engineers 8 product managers 6 analysts 12 sales reps 10 ops staff Total headcount: 51 employees across 5 departments Last updated: January 2024\n",
+    "plain": "Organization Chart Company organizational structure showing departments and roles Jane Smith Chief Executive Officer Bob Chen Chief Technology Officer Maria Garcia Chief Financial Officer Alex Johnson Chief Operating Officer Engineering Product Finance Sales Operations 15 engineers 8 product managers 6 analysts 12 sales reps 10 ops staff Total headcount: 51 employees across 5 departments Last updated: January 2024"
+  }
+}

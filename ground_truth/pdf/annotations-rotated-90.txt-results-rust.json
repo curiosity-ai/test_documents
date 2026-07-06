@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/annotations-rotated-90.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 3,
+      "word_count": 5,
+      "character_count": 26
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/annotations-rotated-90.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/pdf/annotations-rotated-90.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>PDF file Dummy PDF file</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"PDF file\\nDummy PDF file\"}]}",
+    "markdown": "PDF file Dummy PDF file\n",
+    "plain": "PDF file\nDummy PDF file"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "file": "test_fixtures/invalid-config.toml",
+  "mime_type": "application/toml",
+  "success": false,
+  "error": "Parsing error: Failed to parse TOML: TOML parse error at line 1, column 5\n  |\n1 | [ocr\n  |     ^\nunclosed table, expected `]`\n",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

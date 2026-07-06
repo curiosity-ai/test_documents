@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/fictionbook/emphasis.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/fictionbook/emphasis.md",
+      "source_uri": "ground_truth/fictionbook/emphasis.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Plain, <strong>strong</strong>, <em>emphasis</em>, <em><strong>strong emphasis</strong></em>, <em><strong>emphasized strong</strong></em>.</p>\n<p>Strikethrough: <del>deleted</del></p>\n<p>Subscript and superscript</p>\n<p>Some <code>code</code></p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Plain, strong, emphasis, strong emphasis, emphasized strong.\"},{\"type\":\"paragraph\",\"text\":\"Strikethrough: deleted\"},{\"type\":\"paragraph\",\"text\":\"Subscript and superscript\"},{\"type\":\"paragraph\",\"text\":\"Some code\"}]}",
+    "markdown": "Plain, **strong**, *emphasis*, ***strong emphasis***, ***emphasized strong***.\n\nStrikethrough: ~~deleted~~\n\nSubscript and superscript\n\nSome `code`\n",
+    "plain": "Plain, strong, emphasis, strong emphasis, emphasized strong.\n\nStrikethrough: deleted\n\nSubscript and superscript\n\nSome code"
+  }
+}

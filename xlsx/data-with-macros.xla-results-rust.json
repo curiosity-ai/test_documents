@@ -1,0 +1,174 @@
+{
+  "file": "xlsx/data-with-macros.xla",
+  "mime_type": "application/vnd.ms-excel.template.macroEnabled.12",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "excel",
+      "sheet_count": 1,
+      "sheet_names": [
+        "Sheet1"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "sheet_names": "Sheet1",
+      "source_uri": "xlsx/data-with-macros.xla",
+      "final_uri": "xlsx/data-with-macros.xla",
+      "sheet_count": "1",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Item",
+          "Year 1",
+          "Year 2",
+          "Year 3",
+          "Year 4",
+          "Year 5",
+          "Year 6",
+          "Total",
+          "",
+          "Retail",
+          "Monthly",
+          "Unit",
+          "Cost",
+          "Margin",
+          ""
+        ],
+        [
+          "Microsoft Office 365 E5",
+          "192000",
+          "192000",
+          "192000",
+          "192000",
+          "192000",
+          "192000",
+          "1152000",
+          "",
+          "35",
+          "32",
+          "500",
+          "28.4",
+          "21600",
+          ""
+        ],
+        [
+          "AD Premium P1",
+          "31200",
+          "31200",
+          "31200",
+          "31200",
+          "31200",
+          "31200",
+          "187200",
+          "",
+          "6",
+          "5.2",
+          "500",
+          "4.8",
+          "2400",
+          ""
+        ],
+        [
+          "Barracuda Essentials Complete",
+          "36000",
+          "36000",
+          "36000",
+          "36000",
+          "36000",
+          "36000",
+          "216000",
+          "",
+          "6",
+          "6",
+          "500",
+          "3.6",
+          "14400",
+          ""
+        ],
+        [
+          "Level 1 Support Office 365",
+          "6000",
+          "6000",
+          "6000",
+          "6000",
+          "6000",
+          "6000",
+          "36000",
+          "",
+          "",
+          "1",
+          "500",
+          "2",
+          "-6000",
+          ""
+        ],
+        [
+          "Professional Services Fees",
+          "89100",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "89100",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "38400",
+          "230400"
+        ],
+        [
+          "Total",
+          "354300",
+          "265200",
+          "265200",
+          "265200",
+          "265200",
+          "265200",
+          "1680300",
+          "1736350",
+          "56050",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "0.032280358222708555",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "markdown": "| Item | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 | Year 6 | Total |  | Retail | Monthly | Unit | Cost | Margin |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Microsoft Office 365 E5 | 192000 | 192000 | 192000 | 192000 | 192000 | 192000 | 1152000 |  | 35 | 32 | 500 | 28.4 | 21600 |  |\n| AD Premium P1 | 31200 | 31200 | 31200 | 31200 | 31200 | 31200 | 187200 |  | 6 | 5.2 | 500 | 4.8 | 2400 |  |\n| Barracuda Essentials Complete | 36000 | 36000 | 36000 | 36000 | 36000 | 36000 | 216000 |  | 6 | 6 | 500 | 3.6 | 14400 |  |\n| Level 1 Support Office 365 | 6000 | 6000 | 6000 | 6000 | 6000 | 6000 | 36000 |  |  | 1 | 500 | 2 | -6000 |  |\n| Professional Services Fees | 89100 | 0 | 0 | 0 | 0 | 0 | 89100 |  |  |  |  |  | 38400 | 230400 |\n| Total | 354300 | 265200 | 265200 | 265200 | 265200 | 265200 | 1680300 | 1736350 | 56050 |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  | 0.032280358222708555 |  |  |  |  |  |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<h2>Sheet1</h2>\n<table>\n<thead>\n<tr>\n<th>Item</th>\n<th>Year 1</th>\n<th>Year 2</th>\n<th>Year 3</th>\n<th>Year 4</th>\n<th>Year 5</th>\n<th>Year 6</th>\n<th>Total</th>\n<th></th>\n<th>Retail</th>\n<th>Monthly</th>\n<th>Unit</th>\n<th>Cost</th>\n<th>Margin</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Microsoft Office 365 E5</td>\n<td>192000</td>\n<td>192000</td>\n<td>192000</td>\n<td>192000</td>\n<td>192000</td>\n<td>192000</td>\n<td>1152000</td>\n<td></td>\n<td>35</td>\n<td>32</td>\n<td>500</td>\n<td>28.4</td>\n<td>21600</td>\n<td></td>\n</tr>\n<tr>\n<td>AD Premium P1</td>\n<td>31200</td>\n<td>31200</td>\n<td>31200</td>\n<td>31200</td>\n<td>31200</td>\n<td>31200</td>\n<td>187200</td>\n<td></td>\n<td>6</td>\n<td>5.2</td>\n<td>500</td>\n<td>4.8</td>\n<td>2400</td>\n<td></td>\n</tr>\n<tr>\n<td>Barracuda Essentials Complete</td>\n<td>36000</td>\n<td>36000</td>\n<td>36000</td>\n<td>36000</td>\n<td>36000</td>\n<td>36000</td>\n<td>216000</td>\n<td></td>\n<td>6</td>\n<td>6</td>\n<td>500</td>\n<td>3.6</td>\n<td>14400</td>\n<td></td>\n</tr>\n<tr>\n<td>Level 1 Support Office 365</td>\n<td>6000</td>\n<td>6000</td>\n<td>6000</td>\n<td>6000</td>\n<td>6000</td>\n<td>6000</td>\n<td>36000</td>\n<td></td>\n<td></td>\n<td>1</td>\n<td>500</td>\n<td>2</td>\n<td>-6000</td>\n<td></td>\n</tr>\n<tr>\n<td>Professional Services Fees</td>\n<td>89100</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>89100</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>38400</td>\n<td>230400</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>354300</td>\n<td>265200</td>\n<td>265200</td>\n<td>265200</td>\n<td>265200</td>\n<td>265200</td>\n<td>1680300</td>\n<td>1736350</td>\n<td>56050</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>0.032280358222708555</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Sheet1\",\"level\":2,\"body\":[{\"type\":\"table\",\"headers\":[\"Item\",\"Year 1\",\"Year 2\",\"Year 3\",\"Year 4\",\"Year 5\",\"Year 6\",\"Total\",\"\",\"Retail\",\"Monthly\",\"Unit\",\"Cost\",\"Margin\",\"\"],\"rows\":[[\"Microsoft Office 365 E5\",\"192000\",\"192000\",\"192000\",\"192000\",\"192000\",\"192000\",\"1152000\",\"\",\"35\",\"32\",\"500\",\"28.4\",\"21600\",\"\"],[\"AD Premium P1\",\"31200\",\"31200\",\"31200\",\"31200\",\"31200\",\"31200\",\"187200\",\"\",\"6\",\"5.2\",\"500\",\"4.8\",\"2400\",\"\"],[\"Barracuda Essentials Complete\",\"36000\",\"36000\",\"36000\",\"36000\",\"36000\",\"36000\",\"216000\",\"\",\"6\",\"6\",\"500\",\"3.6\",\"14400\",\"\"],[\"Level 1 Support Office 365\",\"6000\",\"6000\",\"6000\",\"6000\",\"6000\",\"6000\",\"36000\",\"\",\"\",\"1\",\"500\",\"2\",\"-6000\",\"\"],[\"Professional Services Fees\",\"89100\",\"0\",\"0\",\"0\",\"0\",\"0\",\"89100\",\"\",\"\",\"\",\"\",\"\",\"38400\",\"230400\"],[\"Total\",\"354300\",\"265200\",\"265200\",\"265200\",\"265200\",\"265200\",\"1680300\",\"1736350\",\"56050\",\"\",\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"0.032280358222708555\",\"\",\"\",\"\",\"\",\"\"]]}]}]}",
+    "markdown": "## Sheet1\n\n| Item | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 | Year 6 | Total |  | Retail | Monthly | Unit | Cost | Margin |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Microsoft Office 365 E5 | 192000 | 192000 | 192000 | 192000 | 192000 | 192000 | 1152000 |  | 35 | 32 | 500 | 28.4 | 21600 |  |\n| AD Premium P1 | 31200 | 31200 | 31200 | 31200 | 31200 | 31200 | 187200 |  | 6 | 5.2 | 500 | 4.8 | 2400 |  |\n| Barracuda Essentials Complete | 36000 | 36000 | 36000 | 36000 | 36000 | 36000 | 216000 |  | 6 | 6 | 500 | 3.6 | 14400 |  |\n| Level 1 Support Office 365 | 6000 | 6000 | 6000 | 6000 | 6000 | 6000 | 36000 |  |  | 1 | 500 | 2 | -6000 |  |\n| Professional Services Fees | 89100 | 0 | 0 | 0 | 0 | 0 | 89100 |  |  |  |  |  | 38400 | 230400 |\n| Total | 354300 | 265200 | 265200 | 265200 | 265200 | 265200 | 1680300 | 1736350 | 56050 |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  | 0.032280358222708555 |  |  |  |  |  |\n",
+    "plain": "  Sheet1\nItem Year 1 Year 2 Year 3 Year 4 Year 5 Year 6 Total  Retail Monthly Unit Cost Margin \nMicrosoft Office 365 E5 192000 192000 192000 192000 192000 192000 1152000  35 32 500 28.4 21600 \nAD Premium P1 31200 31200 31200 31200 31200 31200 187200  6 5.2 500 4.8 2400 \nBarracuda Essentials Complete 36000 36000 36000 36000 36000 36000 216000  6 6 500 3.6 14400 \nLevel 1 Support Office 365 6000 6000 6000 6000 6000 6000 36000   1 500 2 -6000 \nProfessional Services Fees 89100 0 0 0 0 0 89100      38400 230400\nTotal 354300 265200 265200 265200 265200 265200 1680300 1736350 56050     \n         0.032280358222708555"
+  }
+}

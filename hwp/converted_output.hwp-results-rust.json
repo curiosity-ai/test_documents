@@ -1,0 +1,12 @@
+{
+  "file": "hwp/converted_output.hwp",
+  "mime_type": "application/x-hwp",
+  "success": false,
+  "error": "Parsing error: no BodyText sections found in HWP document",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

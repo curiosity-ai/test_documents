@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/pptx/pptx_reversed_slide_order_issue329.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pptx/pptx_reversed_slide_order_issue329.md",
+      "final_uri": "ground_truth/pptx/pptx_reversed_slide_order_issue329.md",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>![Ein Bild, das Wolke, Wasser, Himmel, draußen enthält. KI-generierte Inhalte können fehlerhaft sein.](../media/image1.jpg)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"![Ein Bild, das Wolke, Wasser, Himmel, draußen enthält. KI-generierte Inhalte können fehlerhaft sein.](../media/image1.jpg)\"}]}",
+    "markdown": "\\![Ein Bild, das Wolke, Wasser, Himmel, draußen enthält. KI-generierte Inhalte können fehlerhaft sein.](../media/image1.jpg)\n",
+    "plain": "![Ein Bild, das Wolke, Wasser, Himmel, draußen enthält. KI-generierte Inhalte können fehlerhaft sein.](../media/image1.jpg)"
+  }
+}

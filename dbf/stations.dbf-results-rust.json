@@ -1,0 +1,574 @@
+{
+  "file": "dbf/stations.dbf",
+  "mime_type": "application/x-dbf",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "dbf",
+      "record_count": 86,
+      "field_count": 4,
+      "fields": [
+        {
+          "name": "name",
+          "field_type": "Character"
+        },
+        {
+          "name": "marker-col",
+          "field_type": "Character"
+        },
+        {
+          "name": "marker-sym",
+          "field_type": "Character"
+        },
+        {
+          "name": "line",
+          "field_type": "Character"
+        }
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "dbf/stations.dbf",
+      "source_uri": "dbf/stations.dbf",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "name",
+          "marker-col",
+          "marker-sym",
+          "line"
+        ],
+        [
+          "Van Dorn Street",
+          "rail-metro",
+          "#0000ff",
+          "blue"
+        ],
+        [
+          "rail-metro",
+          "Franconia-Springfield",
+          "#0000ff",
+          "blue"
+        ],
+        [
+          "rail-metro",
+          "Federal Center SW",
+          "#0000ff",
+          "blue"
+        ],
+        [
+          "Judiciary Sq",
+          "rail-metro",
+          "#ff0000",
+          "red"
+        ],
+        [
+          "blue",
+          "rail-metro",
+          "Capitol South",
+          "#0000ff"
+        ],
+        [
+          "red",
+          "#ff0000",
+          "Metro Center",
+          "rail-metro"
+        ],
+        [
+          "red",
+          "Gallery Pl-Chinatown",
+          "rail-metro",
+          "#ff0000"
+        ],
+        [
+          "rail-metro",
+          "Mt Vernon Sq - 7th St Convention Center",
+          "green",
+          "#008000"
+        ],
+        [
+          "U St/African-Amer Civil War Memorial/Cardozo",
+          "#008000",
+          "rail-metro",
+          "green"
+        ],
+        [
+          "Union Station",
+          "red",
+          "#ff0000",
+          "rail-metro"
+        ],
+        [
+          "rail-metro",
+          "#008000",
+          "Congress Heights",
+          "green"
+        ],
+        [
+          "Naylor Road",
+          "#008000",
+          "rail-metro",
+          "green"
+        ],
+        [
+          "rail-metro",
+          "Suitland",
+          "#008000",
+          "green"
+        ],
+        [
+          "#008000",
+          "Branch Ave",
+          "rail-metro",
+          "green"
+        ],
+        [
+          "blue",
+          "rail-metro",
+          "Braddock Road",
+          "#0000ff"
+        ],
+        [
+          "King St - Old Town",
+          "rail-metro",
+          "blue",
+          "#0000ff"
+        ],
+        [
+          "Eisenhower Ave",
+          "#ffff00",
+          "rail-metro",
+          "yellow"
+        ],
+        [
+          "Huntington",
+          "rail-metro",
+          "yellow",
+          "#ffff00"
+        ],
+        [
+          "green",
+          "rail-metro",
+          "#008000",
+          "Anacostia"
+        ],
+        [
+          "rail-metro",
+          "blue",
+          "Eastern Market",
+          "#0000ff"
+        ],
+        [
+          "Potomac Ave",
+          "#0000ff",
+          "rail-metro",
+          "blue"
+        ],
+        [
+          "Stadium Armory",
+          "#0000ff",
+          "rail-metro",
+          "blue"
+        ],
+        [
+          "red",
+          "rail-metro",
+          "#ff0000",
+          "Rhode Island Ave"
+        ],
+        [
+          "Minnesota Ave",
+          "#ffa500",
+          "orange",
+          "rail-metro"
+        ],
+        [
+          "Van Ness-UDC",
+          "#ff0000",
+          "red",
+          "rail-metro"
+        ],
+        [
+          "red",
+          "#ff0000",
+          "Cleveland Park",
+          "rail-metro"
+        ],
+        [
+          "#008000",
+          "green",
+          "rail-metro",
+          "Columbia Heights"
+        ],
+        [
+          "rail-metro",
+          "green",
+          "#008000",
+          "College Park-U of Md"
+        ],
+        [
+          "Capitol Heights",
+          "rail-metro",
+          "blue",
+          "#0000ff"
+        ],
+        [
+          "#0000ff",
+          "Morgan Boulevard",
+          "rail-metro",
+          "blue"
+        ],
+        [
+          "green",
+          "Georgia Ave Petworth",
+          "rail-metro",
+          "#008000"
+        ],
+        [
+          "#ff0000",
+          "Takoma",
+          "red",
+          "rail-metro"
+        ],
+        [
+          "Glenmont",
+          "#ff0000",
+          "red",
+          "rail-metro"
+        ],
+        [
+          "Wheaton",
+          "#ff0000",
+          "rail-metro",
+          "red"
+        ],
+        [
+          "red",
+          "Forest Glen",
+          "rail-metro",
+          "#ff0000"
+        ],
+        [
+          "Silver Spring",
+          "#ff0000",
+          "red",
+          "rail-metro"
+        ],
+        [
+          "red",
+          "Brookland-CUA",
+          "rail-metro",
+          "#ff0000"
+        ],
+        [
+          "Fort Totten",
+          "red",
+          "#ff0000",
+          "rail-metro"
+        ],
+        [
+          "green",
+          "Prince George's Plaza",
+          "rail-metro",
+          "#008000"
+        ],
+        [
+          "rail-metro",
+          "West Hyattsville",
+          "#008000",
+          "green"
+        ],
+        [
+          "#0000ff",
+          "Benning Road",
+          "rail-metro",
+          "blue"
+        ],
+        [
+          "Addison Road Seat Pleasant",
+          "rail-metro",
+          "blue",
+          "#0000ff"
+        ],
+        [
+          "rail-metro",
+          "#ffa500",
+          "Deanwood",
+          "orange"
+        ],
+        [
+          "orange",
+          "New Carrollton",
+          "rail-metro",
+          "#ffa500"
+        ],
+        [
+          "Landover",
+          "#ffa500",
+          "orange",
+          "rail-metro"
+        ],
+        [
+          "rail-metro",
+          "Cheverly",
+          "#ffa500",
+          "orange"
+        ],
+        [
+          "rail-metro",
+          "blue",
+          "#0000ff",
+          "Largo Town Center"
+        ],
+        [
+          "red",
+          "rail-metro",
+          "#ff0000",
+          "NoMa - Gallaudet U"
+        ],
+        [
+          "blue",
+          "Rosslyn",
+          "rail-metro",
+          "#0000ff"
+        ],
+        [
+          "#0000ff",
+          "Arlington|Cemetery",
+          "blue",
+          "rail-metro"
+        ],
+        [
+          "#ff0000",
+          "Dupont Circle",
+          "rail-metro",
+          "red"
+        ],
+        [
+          "Pentagon",
+          "#0000ff",
+          "blue",
+          "rail-metro"
+        ],
+        [
+          "blue",
+          "#0000ff",
+          "rail-metro",
+          "Crystal City"
+        ],
+        [
+          "green",
+          "Navy Yard - Ballpark",
+          "rail-metro",
+          "#008000"
+        ],
+        [
+          "#0000ff",
+          "blue",
+          "rail-metro",
+          "McPherson Sq"
+        ],
+        [
+          "green",
+          "rail-metro",
+          "Shaw-Howard Univ",
+          "#008000"
+        ],
+        [
+          "#008000",
+          "green",
+          "Southern Ave",
+          "rail-metro"
+        ],
+        [
+          "Greenbelt",
+          "rail-metro",
+          "#008000",
+          "green"
+        ],
+        [
+          "red",
+          "rail-metro",
+          "#ff0000",
+          "Tenleytown-AU"
+        ],
+        [
+          "West Falls Church VT/UVA",
+          "#ffa500",
+          "orange",
+          "rail-metro"
+        ],
+        [
+          "orange",
+          "rail-metro",
+          "#ffa500",
+          "Dunn Loring Merrifield"
+        ],
+        [
+          "#ffa500",
+          "rail-metro",
+          "Vienna Fairfax-GMU",
+          "orange"
+        ],
+        [
+          "rail-metro",
+          "Friendship Heights",
+          "#ff0000",
+          "red"
+        ],
+        [
+          "rail-metro",
+          "#ff0000",
+          "red",
+          "Shady Grove"
+        ],
+        [
+          "Rockville",
+          "red",
+          "#ff0000",
+          "rail-metro"
+        ],
+        [
+          "#ff0000",
+          "Twinbrook",
+          "red",
+          "rail-metro"
+        ],
+        [
+          "White Flint",
+          "#ff0000",
+          "rail-metro",
+          "red"
+        ],
+        [
+          "red",
+          "#ff0000",
+          "rail-metro",
+          "Grosvenor-Strathmore"
+        ],
+        [
+          "rail-metro",
+          "#ff0000",
+          "red",
+          "Medical Center"
+        ],
+        [
+          "red",
+          "#ff0000",
+          "rail-metro",
+          "Bethesda"
+        ],
+        [
+          "#0000ff",
+          "rail-metro",
+          "Foggy Bottom GWU",
+          "blue"
+        ],
+        [
+          "#ffa500",
+          "orange",
+          "Court House",
+          "rail-metro"
+        ],
+        [
+          "rail-metro",
+          "orange",
+          "#ffa500",
+          "Clarendon"
+        ],
+        [
+          "rail-metro",
+          "East Falls Church",
+          "#ffa500",
+          "orange"
+        ],
+        [
+          "Virginia Square-GMU",
+          "rail-metro",
+          "orange",
+          "#ffa500"
+        ],
+        [
+          "Ballston-MU",
+          "#ffa500",
+          "orange",
+          "rail-metro"
+        ],
+        [
+          "Farragut West",
+          "blue",
+          "rail-metro",
+          "#0000ff"
+        ],
+        [
+          "red",
+          "#ff0000",
+          "Farragut North",
+          "rail-metro"
+        ],
+        [
+          "rail-metro",
+          "Woodley Park-Zoo Adams Morgan",
+          "#ff0000",
+          "red"
+        ],
+        [
+          "L'Enfant Plaza",
+          "rail-metro",
+          "#008000",
+          "green"
+        ],
+        [
+          "blue",
+          "rail-metro",
+          "Smithsonian",
+          "#0000ff"
+        ],
+        [
+          "Pentagon City",
+          "#0000ff",
+          "rail-metro",
+          "blue"
+        ],
+        [
+          "#0000ff",
+          "rail-metro",
+          "Federal Triangle",
+          "blue"
+        ],
+        [
+          "green",
+          "rail-metro",
+          "Archives-Navy Mem'l",
+          "#008000"
+        ],
+        [
+          "green",
+          "#008000",
+          "Waterfront",
+          "rail-metro"
+        ],
+        [
+          "#0000ff",
+          "blue",
+          "Ronald Reagan Washington National Airport",
+          "rail-metro"
+        ]
+      ],
+      "markdown": "| name | marker-col | marker-sym | line |\n| --- | --- | --- | --- |\n| Van Dorn Street | rail-metro | #0000ff | blue |\n| rail-metro | Franconia-Springfield | #0000ff | blue |\n| rail-metro | Federal Center SW | #0000ff | blue |\n| Judiciary Sq | rail-metro | #ff0000 | red |\n| blue | rail-metro | Capitol South | #0000ff |\n| red | #ff0000 | Metro Center | rail-metro |\n| red | Gallery Pl-Chinatown | rail-metro | #ff0000 |\n| rail-metro | Mt Vernon Sq - 7th St Convention Center | green | #008000 |\n| U St/African-Amer Civil War Memorial/Cardozo | #008000 | rail-metro | green |\n| Union Station | red | #ff0000 | rail-metro |\n| rail-metro | #008000 | Congress Heights | green |\n| Naylor Road | #008000 | rail-metro | green |\n| rail-metro | Suitland | #008000 | green |\n| #008000 | Branch Ave | rail-metro | green |\n| blue | rail-metro | Braddock Road | #0000ff |\n| King St - Old Town | rail-metro | blue | #0000ff |\n| Eisenhower Ave | #ffff00 | rail-metro | yellow |\n| Huntington | rail-metro | yellow | #ffff00 |\n| green | rail-metro | #008000 | Anacostia |\n| rail-metro | blue | Eastern Market | #0000ff |\n| Potomac Ave | #0000ff | rail-metro | blue |\n| Stadium Armory | #0000ff | rail-metro | blue |\n| red | rail-metro | #ff0000 | Rhode Island Ave |\n| Minnesota Ave | #ffa500 | orange | rail-metro |\n| Van Ness-UDC | #ff0000 | red | rail-metro |\n| red | #ff0000 | Cleveland Park | rail-metro |\n| #008000 | green | rail-metro | Columbia Heights |\n| rail-metro | green | #008000 | College Park-U of Md |\n| Capitol Heights | rail-metro | blue | #0000ff |\n| #0000ff | Morgan Boulevard | rail-metro | blue |\n| green | Georgia Ave Petworth | rail-metro | #008000 |\n| #ff0000 | Takoma | red | rail-metro |\n| Glenmont | #ff0000 | red | rail-metro |\n| Wheaton | #ff0000 | rail-metro | red |\n| red | Forest Glen | rail-metro | #ff0000 |\n| Silver Spring | #ff0000 | red | rail-metro |\n| red | Brookland-CUA | rail-metro | #ff0000 |\n| Fort Totten | red | #ff0000 | rail-metro |\n| green | Prince George's Plaza | rail-metro | #008000 |\n| rail-metro | West Hyattsville | #008000 | green |\n| #0000ff | Benning Road | rail-metro | blue |\n| Addison Road Seat Pleasant | rail-metro | blue | #0000ff |\n| rail-metro | #ffa500 | Deanwood | orange |\n| orange | New Carrollton | rail-metro | #ffa500 |\n| Landover | #ffa500 | orange | rail-metro |\n| rail-metro | Cheverly | #ffa500 | orange |\n| rail-metro | blue | #0000ff | Largo Town Center |\n| red | rail-metro | #ff0000 | NoMa - Gallaudet U |\n| blue | Rosslyn | rail-metro | #0000ff |\n| #0000ff | Arlington|Cemetery | blue | rail-metro |\n| #ff0000 | Dupont Circle | rail-metro | red |\n| Pentagon | #0000ff | blue | rail-metro |\n| blue | #0000ff | rail-metro | Crystal City |\n| green | Navy Yard - Ballpark | rail-metro | #008000 |\n| #0000ff | blue | rail-metro | McPherson Sq |\n| green | rail-metro | Shaw-Howard Univ | #008000 |\n| #008000 | green | Southern Ave | rail-metro |\n| Greenbelt | rail-metro | #008000 | green |\n| red | rail-metro | #ff0000 | Tenleytown-AU |\n| West Falls Church VT/UVA | #ffa500 | orange | rail-metro |\n| orange | rail-metro | #ffa500 | Dunn Loring Merrifield |\n| #ffa500 | rail-metro | Vienna Fairfax-GMU | orange |\n| rail-metro | Friendship Heights | #ff0000 | red |\n| rail-metro | #ff0000 | red | Shady Grove |\n| Rockville | red | #ff0000 | rail-metro |\n| #ff0000 | Twinbrook | red | rail-metro |\n| White Flint | #ff0000 | rail-metro | red |\n| red | #ff0000 | rail-metro | Grosvenor-Strathmore |\n| rail-metro | #ff0000 | red | Medical Center |\n| red | #ff0000 | rail-metro | Bethesda |\n| #0000ff | rail-metro | Foggy Bottom GWU | blue |\n| #ffa500 | orange | Court House | rail-metro |\n| rail-metro | orange | #ffa500 | Clarendon |\n| rail-metro | East Falls Church | #ffa500 | orange |\n| Virginia Square-GMU | rail-metro | orange | #ffa500 |\n| Ballston-MU | #ffa500 | orange | rail-metro |\n| Farragut West | blue | rail-metro | #0000ff |\n| red | #ff0000 | Farragut North | rail-metro |\n| rail-metro | Woodley Park-Zoo Adams Morgan | #ff0000 | red |\n| L'Enfant Plaza | rail-metro | #008000 | green |\n| blue | rail-metro | Smithsonian | #0000ff |\n| Pentagon City | #0000ff | rail-metro | blue |\n| #0000ff | rail-metro | Federal Triangle | blue |\n| green | rail-metro | Archives-Navy Mem'l | #008000 |\n| green | #008000 | Waterfront | rail-metro |\n| #0000ff | blue | Ronald Reagan Washington National Airport | rail-metro |\n",
+      "page_number": 0
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>name</th>\n<th>marker-col</th>\n<th>marker-sym</th>\n<th>line</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Van Dorn Street</td>\n<td>blue</td>\n<td>#0000ff</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>#0000ff</td>\n<td>blue</td>\n<td>Franconia-Springfield</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>blue</td>\n<td>Federal Center SW</td>\n<td>rail-metro</td>\n<td>#0000ff</td>\n</tr>\n<tr>\n<td>red</td>\n<td>Judiciary Sq</td>\n<td>#ff0000</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>Capitol South</td>\n<td>#0000ff</td>\n<td>rail-metro</td>\n<td>blue</td>\n</tr>\n<tr>\n<td>rail-metro</td>\n<td>#ff0000</td>\n<td>red</td>\n<td>Metro Center</td>\n</tr>\n<tr>\n<td>#ff0000</td>\n<td>red</td>\n<td>rail-metro</td>\n<td>Gallery Pl-Chinatown</td>\n</tr>\n<tr>\n<td>#008000</td>\n<td>Mt Vernon Sq - 7th St Convention Center</td>\n<td>green</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>U St/African-Amer Civil War Memorial/Cardozo</td>\n<td>green</td>\n<td>rail-metro</td>\n<td>#008000</td>\n</tr>\n<tr>\n<td>red</td>\n<td>Union Station</td>\n<td>rail-metro</td>\n<td>#ff0000</td>\n</tr>\n<tr>\n<td>green</td>\n<td>#008000</td>\n<td>Congress Heights</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>Naylor Road</td>\n<td>rail-metro</td>\n<td>green</td>\n<td>#008000</td>\n</tr>\n<tr>\n<td>#008000</td>\n<td>rail-metro</td>\n<td>green</td>\n<td>Suitland</td>\n</tr>\n<tr>\n<td>green</td>\n<td>#008000</td>\n<td>Branch Ave</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>rail-metro</td>\n<td>#0000ff</td>\n<td>Braddock Road</td>\n<td>blue</td>\n</tr>\n<tr>\n<td>King St - Old Town</td>\n<td>#0000ff</td>\n<td>blue</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>yellow</td>\n<td>Eisenhower Ave</td>\n<td>#ffff00</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>Huntington</td>\n<td>#ffff00</td>\n<td>yellow</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>rail-metro</td>\n<td>#008000</td>\n<td>Anacostia</td>\n<td>green</td>\n</tr>\n<tr>\n<td>#0000ff</td>\n<td>rail-metro</td>\n<td>Eastern Market</td>\n<td>blue</td>\n</tr>\n<tr>\n<td>Potomac Ave</td>\n<td>rail-metro</td>\n<td>#0000ff</td>\n<td>blue</td>\n</tr>\n<tr>\n<td>Stadium Armory</td>\n<td>rail-metro</td>\n<td>#0000ff</td>\n<td>blue</td>\n</tr>\n<tr>\n<td>rail-metro</td>\n<td>Rhode Island Ave</td>\n<td>#ff0000</td>\n<td>red</td>\n</tr>\n<tr>\n<td>Minnesota Ave</td>\n<td>rail-metro</td>\n<td>orange</td>\n<td>#ffa500</td>\n</tr>\n<tr>\n<td>Van Ness-UDC</td>\n<td>#ff0000</td>\n<td>red</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>rail-metro</td>\n<td>Cleveland Park</td>\n<td>#ff0000</td>\n<td>red</td>\n</tr>\n<tr>\n<td>#008000</td>\n<td>rail-metro</td>\n<td>green</td>\n<td>Columbia Heights</td>\n</tr>\n<tr>\n<td>College Park-U of Md</td>\n<td>#008000</td>\n<td>rail-metro</td>\n<td>green</td>\n</tr>\n<tr>\n<td>rail-metro</td>\n<td>#0000ff</td>\n<td>blue</td>\n<td>Capitol Heights</td>\n</tr>\n<tr>\n<td>#0000ff</td>\n<td>Morgan Boulevard</td>\n<td>rail-metro</td>\n<td>blue</td>\n</tr>\n<tr>\n<td>rail-metro</td>\n<td>Georgia Ave Petworth</td>\n<td>green</td>\n<td>#008000</td>\n</tr>\n<tr>\n<td>Takoma</td>\n<td>#ff0000</td>\n<td>rail-metro</td>\n<td>red</td>\n</tr>\n<tr>\n<td>#ff0000</td>\n<td>Glenmont</td>\n<td>rail-metro</td>\n<td>red</td>\n</tr>\n<tr>\n<td>#ff0000</td>\n<td>rail-metro</td>\n<td>Wheaton</td>\n<td>red</td>\n</tr>\n<tr>\n<td>rail-metro</td>\n<td>Forest Glen</td>\n<td>#ff0000</td>\n<td>red</td>\n</tr>\n<tr>\n<td>#ff0000</td>\n<td>Silver Spring</td>\n<td>rail-metro</td>\n<td>red</td>\n</tr>\n<tr>\n<td>rail-metro</td>\n<td>Brookland-CUA</td>\n<td>#ff0000</td>\n<td>red</td>\n</tr>\n<tr>\n<td>#ff0000</td>\n<td>Fort Totten</td>\n<td>red</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>Prince George's Plaza</td>\n<td>green</td>\n<td>rail-metro</td>\n<td>#008000</td>\n</tr>\n<tr>\n<td>West Hyattsville</td>\n<td>green</td>\n<td>#008000</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>Benning Road</td>\n<td>#0000ff</td>\n<td>rail-metro</td>\n<td>blue</td>\n</tr>\n<tr>\n<td>rail-metro</td>\n<td>Addison Road Seat Pleasant</td>\n<td>blue</td>\n<td>#0000ff</td>\n</tr>\n<tr>\n<td>#ffa500</td>\n<td>orange</td>\n<td>rail-metro</td>\n<td>Deanwood</td>\n</tr>\n<tr>\n<td>New Carrollton</td>\n<td>orange</td>\n<td>#ffa500</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>#ffa500</td>\n<td>Landover</td>\n<td>orange</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>rail-metro</td>\n<td>Cheverly</td>\n<td>orange</td>\n<td>#ffa500</td>\n</tr>\n<tr>\n<td>Largo Town Center</td>\n<td>#0000ff</td>\n<td>blue</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>rail-metro</td>\n<td>red</td>\n<td>#ff0000</td>\n<td>NoMa - Gallaudet U</td>\n</tr>\n<tr>\n<td>Rosslyn</td>\n<td>rail-metro</td>\n<td>#0000ff</td>\n<td>blue</td>\n</tr>\n<tr>\n<td>blue</td>\n<td>Arlington|Cemetery</td>\n<td>#0000ff</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>Dupont Circle</td>\n<td>#ff0000</td>\n<td>rail-metro</td>\n<td>red</td>\n</tr>\n<tr>\n<td>blue</td>\n<td>Pentagon</td>\n<td>rail-metro</td>\n<td>#0000ff</td>\n</tr>\n<tr>\n<td>blue</td>\n<td>rail-metro</td>\n<td>#0000ff</td>\n<td>Crystal City</td>\n</tr>\n<tr>\n<td>#008000</td>\n<td>Navy Yard - Ballpark</td>\n<td>rail-metro</td>\n<td>green</td>\n</tr>\n<tr>\n<td>McPherson Sq</td>\n<td>#0000ff</td>\n<td>blue</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>green</td>\n<td>rail-metro</td>\n<td>Shaw-Howard Univ</td>\n<td>#008000</td>\n</tr>\n<tr>\n<td>#008000</td>\n<td>rail-metro</td>\n<td>green</td>\n<td>Southern Ave</td>\n</tr>\n<tr>\n<td>#008000</td>\n<td>green</td>\n<td>rail-metro</td>\n<td>Greenbelt</td>\n</tr>\n<tr>\n<td>red</td>\n<td>#ff0000</td>\n<td>Tenleytown-AU</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>West Falls Church VT/UVA</td>\n<td>rail-metro</td>\n<td>#ffa500</td>\n<td>orange</td>\n</tr>\n<tr>\n<td>Dunn Loring Merrifield</td>\n<td>orange</td>\n<td>#ffa500</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>#ffa500</td>\n<td>Vienna Fairfax-GMU</td>\n<td>rail-metro</td>\n<td>orange</td>\n</tr>\n<tr>\n<td>Friendship Heights</td>\n<td>red</td>\n<td>rail-metro</td>\n<td>#ff0000</td>\n</tr>\n<tr>\n<td>rail-metro</td>\n<td>red</td>\n<td>Shady Grove</td>\n<td>#ff0000</td>\n</tr>\n<tr>\n<td>#ff0000</td>\n<td>red</td>\n<td>Rockville</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>red</td>\n<td>rail-metro</td>\n<td>Twinbrook</td>\n<td>#ff0000</td>\n</tr>\n<tr>\n<td>red</td>\n<td>White Flint</td>\n<td>rail-metro</td>\n<td>#ff0000</td>\n</tr>\n<tr>\n<td>#ff0000</td>\n<td>Grosvenor-Strathmore</td>\n<td>red</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>Medical Center</td>\n<td>rail-metro</td>\n<td>#ff0000</td>\n<td>red</td>\n</tr>\n<tr>\n<td>#ff0000</td>\n<td>Bethesda</td>\n<td>red</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>blue</td>\n<td>Foggy Bottom GWU</td>\n<td>#0000ff</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>Court House</td>\n<td>rail-metro</td>\n<td>orange</td>\n<td>#ffa500</td>\n</tr>\n<tr>\n<td>Clarendon</td>\n<td>orange</td>\n<td>rail-metro</td>\n<td>#ffa500</td>\n</tr>\n<tr>\n<td>orange</td>\n<td>#ffa500</td>\n<td>East Falls Church</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>orange</td>\n<td>Virginia Square-GMU</td>\n<td>#ffa500</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>Ballston-MU</td>\n<td>rail-metro</td>\n<td>orange</td>\n<td>#ffa500</td>\n</tr>\n<tr>\n<td>#0000ff</td>\n<td>rail-metro</td>\n<td>Farragut West</td>\n<td>blue</td>\n</tr>\n<tr>\n<td>Farragut North</td>\n<td>#ff0000</td>\n<td>red</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>red</td>\n<td>#ff0000</td>\n<td>rail-metro</td>\n<td>Woodley Park-Zoo Adams Morgan</td>\n</tr>\n<tr>\n<td>green</td>\n<td>rail-metro</td>\n<td>#008000</td>\n<td>L'Enfant Plaza</td>\n</tr>\n<tr>\n<td>Smithsonian</td>\n<td>rail-metro</td>\n<td>blue</td>\n<td>#0000ff</td>\n</tr>\n<tr>\n<td>blue</td>\n<td>rail-metro</td>\n<td>#0000ff</td>\n<td>Pentagon City</td>\n</tr>\n<tr>\n<td>Federal Triangle</td>\n<td>#0000ff</td>\n<td>rail-metro</td>\n<td>blue</td>\n</tr>\n<tr>\n<td>green</td>\n<td>Archives-Navy Mem'l</td>\n<td>#008000</td>\n<td>rail-metro</td>\n</tr>\n<tr>\n<td>green</td>\n<td>rail-metro</td>\n<td>Waterfront</td>\n<td>#008000</td>\n</tr>\n<tr>\n<td>rail-metro</td>\n<td>#0000ff</td>\n<td>blue</td>\n<td>Ronald Reagan Washington National Airport</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"name\",\"marker-col\",\"marker-sym\",\"line\"],\"rows\":[[\"blue\",\"#0000ff\",\"rail-metro\",\"Van Dorn Street\"],[\"Franconia-Springfield\",\"rail-metro\",\"#0000ff\",\"blue\"],[\"blue\",\"#0000ff\",\"rail-metro\",\"Federal Center SW\"],[\"#ff0000\",\"red\",\"rail-metro\",\"Judiciary Sq\"],[\"Capitol South\",\"blue\",\"rail-metro\",\"#0000ff\"],[\"Metro Center\",\"red\",\"rail-metro\",\"#ff0000\"],[\"red\",\"#ff0000\",\"rail-metro\",\"Gallery Pl-Chinatown\"],[\"Mt Vernon Sq - 7th St Convention Center\",\"green\",\"#008000\",\"rail-metro\"],[\"#008000\",\"rail-metro\",\"green\",\"U St/African-Amer Civil War Memorial/Cardozo\"],[\"#ff0000\",\"red\",\"rail-metro\",\"Union Station\"],[\"Congress Heights\",\"green\",\"rail-metro\",\"#008000\"],[\"#008000\",\"green\",\"Naylor Road\",\"rail-metro\"],[\"rail-metro\",\"green\",\"#008000\",\"Suitland\"],[\"green\",\"Branch Ave\",\"rail-metro\",\"#008000\"],[\"rail-metro\",\"blue\",\"Braddock Road\",\"#0000ff\"],[\"King St - Old Town\",\"rail-metro\",\"#0000ff\",\"blue\"],[\"rail-metro\",\"yellow\",\"Eisenhower Ave\",\"#ffff00\"],[\"yellow\",\"#ffff00\",\"rail-metro\",\"Huntington\"],[\"green\",\"Anacostia\",\"#008000\",\"rail-metro\"],[\"Eastern Market\",\"#0000ff\",\"blue\",\"rail-metro\"],[\"blue\",\"Potomac Ave\",\"rail-metro\",\"#0000ff\"],[\"rail-metro\",\"Stadium Armory\",\"blue\",\"#0000ff\"],[\"#ff0000\",\"red\",\"rail-metro\",\"Rhode Island Ave\"],[\"orange\",\"rail-metro\",\"#ffa500\",\"Minnesota Ave\"],[\"Van Ness-UDC\",\"red\",\"#ff0000\",\"rail-metro\"],[\"#ff0000\",\"Cleveland Park\",\"rail-metro\",\"red\"],[\"green\",\"#008000\",\"Columbia Heights\",\"rail-metro\"],[\"#008000\",\"rail-metro\",\"green\",\"College Park-U of Md\"],[\"rail-metro\",\"#0000ff\",\"Capitol Heights\",\"blue\"],[\"blue\",\"#0000ff\",\"Morgan Boulevard\",\"rail-metro\"],[\"rail-metro\",\"Georgia Ave Petworth\",\"#008000\",\"green\"],[\"Takoma\",\"#ff0000\",\"rail-metro\",\"red\"],[\"rail-metro\",\"Glenmont\",\"#ff0000\",\"red\"],[\"rail-metro\",\"Wheaton\",\"#ff0000\",\"red\"],[\"Forest Glen\",\"#ff0000\",\"rail-metro\",\"red\"],[\"Silver Spring\",\"#ff0000\",\"red\",\"rail-metro\"],[\"red\",\"rail-metro\",\"#ff0000\",\"Brookland-CUA\"],[\"Fort Totten\",\"red\",\"rail-metro\",\"#ff0000\"],[\"rail-metro\",\"green\",\"Prince George's Plaza\",\"#008000\"],[\"green\",\"West Hyattsville\",\"rail-metro\",\"#008000\"],[\"rail-metro\",\"Benning Road\",\"blue\",\"#0000ff\"],[\"rail-metro\",\"Addison Road Seat Pleasant\",\"#0000ff\",\"blue\"],[\"#ffa500\",\"rail-metro\",\"orange\",\"Deanwood\"],[\"New Carrollton\",\"#ffa500\",\"orange\",\"rail-metro\"],[\"#ffa500\",\"orange\",\"rail-metro\",\"Landover\"],[\"rail-metro\",\"Cheverly\",\"orange\",\"#ffa500\"],[\"blue\",\"#0000ff\",\"rail-metro\",\"Largo Town Center\"],[\"rail-metro\",\"#ff0000\",\"NoMa - Gallaudet U\",\"red\"],[\"#0000ff\",\"Rosslyn\",\"rail-metro\",\"blue\"],[\"rail-metro\",\"#0000ff\",\"blue\",\"Arlington|Cemetery\"],[\"#ff0000\",\"Dupont Circle\",\"red\",\"rail-metro\"],[\"#0000ff\",\"blue\",\"rail-metro\",\"Pentagon\"],[\"blue\",\"#0000ff\",\"Crystal City\",\"rail-metro\"],[\"Navy Yard - Ballpark\",\"rail-metro\",\"#008000\",\"green\"],[\"rail-metro\",\"McPherson Sq\",\"blue\",\"#0000ff\"],[\"#008000\",\"Shaw-Howard Univ\",\"green\",\"rail-metro\"],[\"rail-metro\",\"#008000\",\"green\",\"Southern Ave\"],[\"rail-metro\",\"#008000\",\"green\",\"Greenbelt\"],[\"Tenleytown-AU\",\"red\",\"rail-metro\",\"#ff0000\"],[\"orange\",\"#ffa500\",\"rail-metro\",\"West Falls Church VT/UVA\"],[\"orange\",\"rail-metro\",\"Dunn Loring Merrifield\",\"#ffa500\"],[\"Vienna Fairfax-GMU\",\"#ffa500\",\"orange\",\"rail-metro\"],[\"rail-metro\",\"Friendship Heights\",\"red\",\"#ff0000\"],[\"red\",\"Shady Grove\",\"rail-metro\",\"#ff0000\"],[\"#ff0000\",\"rail-metro\",\"red\",\"Rockville\"],[\"Twinbrook\",\"red\",\"#ff0000\",\"rail-metro\"],[\"rail-metro\",\"White Flint\",\"#ff0000\",\"red\"],[\"Grosvenor-Strathmore\",\"rail-metro\",\"#ff0000\",\"red\"],[\"#ff0000\",\"rail-metro\",\"red\",\"Medical Center\"],[\"Bethesda\",\"#ff0000\",\"rail-metro\",\"red\"],[\"#0000ff\",\"blue\",\"Foggy Bottom GWU\",\"rail-metro\"],[\"#ffa500\",\"Court House\",\"rail-metro\",\"orange\"],[\"rail-metro\",\"#ffa500\",\"orange\",\"Clarendon\"],[\"East Falls Church\",\"rail-metro\",\"orange\",\"#ffa500\"],[\"orange\",\"#ffa500\",\"rail-metro\",\"Virginia Square-GMU\"],[\"#ffa500\",\"orange\",\"rail-metro\",\"Ballston-MU\"],[\"Farragut West\",\"#0000ff\",\"rail-metro\",\"blue\"],[\"Farragut North\",\"rail-metro\",\"#ff0000\",\"red\"],[\"Woodley Park-Zoo Adams Morgan\",\"rail-metro\",\"red\",\"#ff0000\"],[\"L'Enfant Plaza\",\"#008000\",\"rail-metro\",\"green\"],[\"#0000ff\",\"Smithsonian\",\"rail-metro\",\"blue\"],[\"rail-metro\",\"#0000ff\",\"Pentagon City\",\"blue\"],[\"blue\",\"rail-metro\",\"#0000ff\",\"Federal Triangle\"],[\"Archives-Navy Mem'l\",\"rail-metro\",\"green\",\"#008000\"],[\"rail-metro\",\"Waterfront\",\"green\",\"#008000\"],[\"Ronald Reagan Washington National Airport\",\"rail-metro\",\"#0000ff\",\"blue\"]]}]}",
+    "markdown": "| name | marker-col | marker-sym | line |\n| --- | --- | --- | --- |\n| Van Dorn Street | \\#0000ff | blue | rail-metro |\n| \\#0000ff | blue | rail-metro | Franconia-Springfield |\n| \\#0000ff | blue | rail-metro | Federal Center SW |\n| red | Judiciary Sq | \\#ff0000 | rail-metro |\n| blue | Capitol South | \\#0000ff | rail-metro |\n| Metro Center | rail-metro | red | \\#ff0000 |\n| rail-metro | red | Gallery Pl-Chinatown | \\#ff0000 |\n| rail-metro | Mt Vernon Sq - 7th St Convention Center | green | \\#008000 |\n| \\#008000 | rail-metro | green | U St/African-Amer Civil War Memorial/Cardozo |\n| \\#ff0000 | Union Station | rail-metro | red |\n| Congress Heights | \\#008000 | green | rail-metro |\n| Naylor Road | rail-metro | green | \\#008000 |\n| Suitland | green | \\#008000 | rail-metro |\n| green | \\#008000 | rail-metro | Branch Ave |\n| \\#0000ff | rail-metro | Braddock Road | blue |\n| King St - Old Town | blue | \\#0000ff | rail-metro |\n| yellow | rail-metro | Eisenhower Ave | \\#ffff00 |\n| \\#ffff00 | rail-metro | Huntington | yellow |\n| rail-metro | Anacostia | green | \\#008000 |\n| \\#0000ff | rail-metro | blue | Eastern Market |\n| rail-metro | \\#0000ff | Potomac Ave | blue |\n| Stadium Armory | blue | \\#0000ff | rail-metro |\n| \\#ff0000 | Rhode Island Ave | rail-metro | red |\n| \\#ffa500 | rail-metro | Minnesota Ave | orange |\n| Van Ness-UDC | \\#ff0000 | red | rail-metro |\n| rail-metro | \\#ff0000 | Cleveland Park | red |\n| Columbia Heights | rail-metro | green | \\#008000 |\n| \\#008000 | rail-metro | College Park-U of Md | green |\n| \\#0000ff | Capitol Heights | blue | rail-metro |\n| Morgan Boulevard | \\#0000ff | blue | rail-metro |\n| Georgia Ave Petworth | rail-metro | green | \\#008000 |\n| Takoma | red | \\#ff0000 | rail-metro |\n| red | \\#ff0000 | Glenmont | rail-metro |\n| rail-metro | \\#ff0000 | Wheaton | red |\n| Forest Glen | \\#ff0000 | red | rail-metro |\n| \\#ff0000 | rail-metro | Silver Spring | red |\n| \\#ff0000 | Brookland-CUA | rail-metro | red |\n| Fort Totten | red | \\#ff0000 | rail-metro |\n| rail-metro | Prince George's Plaza | green | \\#008000 |\n| rail-metro | \\#008000 | West Hyattsville | green |\n| blue | rail-metro | Benning Road | \\#0000ff |\n| rail-metro | blue | \\#0000ff | Addison Road Seat Pleasant |\n| \\#ffa500 | orange | Deanwood | rail-metro |\n| \\#ffa500 | rail-metro | New Carrollton | orange |\n| rail-metro | \\#ffa500 | Landover | orange |\n| \\#ffa500 | Cheverly | orange | rail-metro |\n| rail-metro | Largo Town Center | blue | \\#0000ff |\n| rail-metro | red | \\#ff0000 | NoMa - Gallaudet U |\n| Rosslyn | \\#0000ff | rail-metro | blue |\n| Arlington\\|Cemetery | \\#0000ff | blue | rail-metro |\n| Dupont Circle | rail-metro | \\#ff0000 | red |\n| blue | \\#0000ff | rail-metro | Pentagon |\n| \\#0000ff | Crystal City | blue | rail-metro |\n| \\#008000 | Navy Yard - Ballpark | green | rail-metro |\n| blue | McPherson Sq | \\#0000ff | rail-metro |\n| Shaw-Howard Univ | rail-metro | green | \\#008000 |\n| \\#008000 | rail-metro | Southern Ave | green |\n| rail-metro | Greenbelt | green | \\#008000 |\n| \\#ff0000 | Tenleytown-AU | rail-metro | red |\n| \\#ffa500 | orange | rail-metro | West Falls Church VT/UVA |\n| \\#ffa500 | Dunn Loring Merrifield | rail-metro | orange |\n| orange | \\#ffa500 | Vienna Fairfax-GMU | rail-metro |\n| Friendship Heights | \\#ff0000 | rail-metro | red |\n| red | \\#ff0000 | rail-metro | Shady Grove |\n| Rockville | rail-metro | red | \\#ff0000 |\n| Twinbrook | rail-metro | \\#ff0000 | red |\n| red | \\#ff0000 | White Flint | rail-metro |\n| Grosvenor-Strathmore | red | rail-metro | \\#ff0000 |\n| Medical Center | \\#ff0000 | red | rail-metro |\n| rail-metro | red | Bethesda | \\#ff0000 |\n| Foggy Bottom GWU | \\#0000ff | blue | rail-metro |\n| Court House | orange | rail-metro | \\#ffa500 |\n| rail-metro | Clarendon | \\#ffa500 | orange |\n| East Falls Church | rail-metro | orange | \\#ffa500 |\n| orange | Virginia Square-GMU | \\#ffa500 | rail-metro |\n| \\#ffa500 | Ballston-MU | orange | rail-metro |\n| Farragut West | \\#0000ff | rail-metro | blue |\n| Farragut North | red | \\#ff0000 | rail-metro |\n| \\#ff0000 | Woodley Park-Zoo Adams Morgan | rail-metro | red |\n| \\#008000 | rail-metro | L'Enfant Plaza | green |\n| Smithsonian | blue | rail-metro | \\#0000ff |\n| rail-metro | \\#0000ff | Pentagon City | blue |\n| Federal Triangle | \\#0000ff | blue | rail-metro |\n| \\#008000 | green | Archives-Navy Mem'l | rail-metro |\n| \\#008000 | rail-metro | green | Waterfront |\n| blue | rail-metro | Ronald Reagan Washington National Airport | \\#0000ff |\n",
+    "plain": "name marker-col marker-sym line\nVan Dorn Street rail-metro #0000ff blue\nrail-metro Franconia-Springfield #0000ff blue\nrail-metro Federal Center SW #0000ff blue\nJudiciary Sq rail-metro #ff0000 red\nblue rail-metro Capitol South #0000ff\nred #ff0000 Metro Center rail-metro\nred Gallery Pl-Chinatown rail-metro #ff0000\nrail-metro Mt Vernon Sq - 7th St Convention Center green #008000\nU St/African-Amer Civil War Memorial/Cardozo #008000 rail-metro green\nUnion Station red #ff0000 rail-metro\nrail-metro #008000 Congress Heights green\nNaylor Road #008000 rail-metro green\nrail-metro Suitland #008000 green\n#008000 Branch Ave rail-metro green\nblue rail-metro Braddock Road #0000ff\nKing St - Old Town rail-metro blue #0000ff\nEisenhower Ave #ffff00 rail-metro yellow\nHuntington rail-metro yellow #ffff00\ngreen rail-metro #008000 Anacostia\nrail-metro blue Eastern Market #0000ff\nPotomac Ave #0000ff rail-metro blue\nStadium Armory #0000ff rail-metro blue\nred rail-metro #ff0000 Rhode Island Ave\nMinnesota Ave #ffa500 orange rail-metro\nVan Ness-UDC #ff0000 red rail-metro\nred #ff0000 Cleveland Park rail-metro\n#008000 green rail-metro Columbia Heights\nrail-metro green #008000 College Park-U of Md\nCapitol Heights rail-metro blue #0000ff\n#0000ff Morgan Boulevard rail-metro blue\ngreen Georgia Ave Petworth rail-metro #008000\n#ff0000 Takoma red rail-metro\nGlenmont #ff0000 red rail-metro\nWheaton #ff0000 rail-metro red\nred Forest Glen rail-metro #ff0000\nSilver Spring #ff0000 red rail-metro\nred Brookland-CUA rail-metro #ff0000\nFort Totten red #ff0000 rail-metro\ngreen Prince George's Plaza rail-metro #008000\nrail-metro West Hyattsville #008000 green\n#0000ff Benning Road rail-metro blue\nAddison Road Seat Pleasant rail-metro blue #0000ff\nrail-metro #ffa500 Deanwood orange\norange New Carrollton rail-metro #ffa500\nLandover #ffa500 orange rail-metro\nrail-metro Cheverly #ffa500 orange\nrail-metro blue #0000ff Largo Town Center\nred rail-metro #ff0000 NoMa - Gallaudet U\nblue Rosslyn rail-metro #0000ff\n#0000ff Arlington|Cemetery blue rail-metro\n#ff0000 Dupont Circle rail-metro red\nPentagon #0000ff blue rail-metro\nblue #0000ff rail-metro Crystal City\ngreen Navy Yard - Ballpark rail-metro #008000\n#0000ff blue rail-metro McPherson Sq\ngreen rail-metro Shaw-Howard Univ #008000\n#008000 green Southern Ave rail-metro\nGreenbelt rail-metro #008000 green\nred rail-metro #ff0000 Tenleytown-AU\nWest Falls Church VT/UVA #ffa500 orange rail-metro\norange rail-metro #ffa500 Dunn Loring Merrifield\n#ffa500 rail-metro Vienna Fairfax-GMU orange\nrail-metro Friendship Heights #ff0000 red\nrail-metro #ff0000 red Shady Grove\nRockville red #ff0000 rail-metro\n#ff0000 Twinbrook red rail-metro\nWhite Flint #ff0000 rail-metro red\nred #ff0000 rail-metro Grosvenor-Strathmore\nrail-metro #ff0000 red Medical Center\nred #ff0000 rail-metro Bethesda\n#0000ff rail-metro Foggy Bottom GWU blue\n#ffa500 orange Court House rail-metro\nrail-metro orange #ffa500 Clarendon\nrail-metro East Falls Church #ffa500 orange\nVirginia Square-GMU rail-metro orange #ffa500\nBallston-MU #ffa500 orange rail-metro\nFarragut West blue rail-metro #0000ff\nred #ff0000 Farragut North rail-metro\nrail-metro Woodley Park-Zoo Adams Morgan #ff0000 red\nL'Enfant Plaza rail-metro #008000 green\nblue rail-metro Smithsonian #0000ff\nPentagon City #0000ff rail-metro blue\n#0000ff rail-metro Federal Triangle blue\ngreen rail-metro Archives-Navy Mem'l #008000\ngreen #008000 Waterfront rail-metro\n#0000ff blue Ronald Reagan Washington National Airport rail-metro"
+  }
+}

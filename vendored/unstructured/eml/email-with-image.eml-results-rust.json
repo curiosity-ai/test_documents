@@ -1,0 +1,40 @@
+{
+  "file": "vendored/unstructured/eml/email-with-image.eml",
+  "mime_type": "message/rfc822",
+  "success": true,
+  "metadata": {
+    "subject": "email-with-image",
+    "created_at": "Wed, 4 Jan 2023 11:36:14 -0600",
+    "format": {
+      "format_type": "email",
+      "from_email": "mallori@unstructured.io",
+      "to_emails": [
+        "mallori@unstructured.io"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "message_id": "CAPgNNXThBe34MTr8PMfo2FH-kCP1Eb4R4niXNtwa=s846P-N=A@mail.gmail.com",
+      "attachments": [
+        "unstructured_logo.png"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "mime_version": "1.0",
+      "content_type": "multipart/mixed; boundary=\"00000000000009c2cc05f1739fc9\"",
+      "source_kind": "uri",
+      "final_uri": "vendored/unstructured/eml/email-with-image.eml",
+      "attachment_details": "unstructured_logo.png|image/png|215758",
+      "source_uri": "vendored/unstructured/eml/email-with-image.eml"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: email-with-image</p>\n<p><strong>From</strong>: mallori@unstructured.io</p>\n<p><strong>To</strong>: mallori@unstructured.io</p>\n<p><strong>Date</strong>: Wed, 4 Jan 2023 11:36:14 -0600</p>\n<p>Hi,</p>\n<p>The unstructured logo is attached to this email.</p>\n<p>--</p>\n<p>Mallori Harrell</p>\n<p>Unstructured Technologies</p>\n<p>Data Scientist</p>\n<p>Attachments:</p>\n<p> unstructured_logo.png (215758B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Hi,\"},{\"type\":\"paragraph\",\"text\":\"The unstructured logo is attached to this email.\"},{\"type\":\"paragraph\",\"text\":\"--\"},{\"type\":\"paragraph\",\"text\":\"Mallori Harrell\"},{\"type\":\"paragraph\",\"text\":\"Unstructured Technologies\"},{\"type\":\"paragraph\",\"text\":\"Data Scientist\"},{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  unstructured_logo.png (215758B)\"}]}",
+    "markdown": "**Subject**: email-with-image\n\n**From**: mallori@unstructured.io\n\n**To**: mallori@unstructured.io\n\n**Date**: Wed, 4 Jan 2023 11:36:14 -0600\n\nHi,\n\nThe unstructured logo is attached to this email.\n\n\\--\n\nMallori Harrell\n\nUnstructured Technologies\n\nData Scientist\n\nAttachments:\n\n unstructured_logo.png (215758B)\n",
+    "plain": "Subject: email-with-image\nFrom: mallori@unstructured.io\nTo: mallori@unstructured.io\nDate: Wed, 4 Jan 2023 11:36:14 -0600\n\nHi,\n\nThe unstructured logo is attached to this email.\n\n--\n\nMallori Harrell\n\nUnstructured Technologies\n\nData Scientist\n\nAttachments:\n\n  unstructured_logo.png (215758B)"
+  }
+}

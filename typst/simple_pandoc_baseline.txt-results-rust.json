@@ -1,0 +1,28 @@
+{
+  "file": "typst/simple_pandoc_baseline.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 49,
+      "word_count": 109,
+      "character_count": 644
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "typst/simple_pandoc_baseline.txt",
+      "source_index": 0,
+      "final_uri": "typst/simple_pandoc_baseline.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p># Introduction</p>\n<p>This is a simple Typst document with basic formatting.</p>\n<p>## Subsection</p>\n<p>Some **bold text** and *italic text* with `inline code`.</p>\n<p># Features</p>\n<p>This document demonstrates:</p>\n<p>- Lists</p>\n<p>- **Bold** formatting</p>\n<p>- *Italic* text</p>\n<p>- Tables</p>\n<p>- Links</p>\n<p>## Lists</p>\n<p>1. First item</p>\n<p>2. Second item</p>\n<p>3. Third item</p>\n<p>## Code</p>\n<p>`#let x = 5`</p>\n<p>## Tables</p>\n<p>| | | |--------------|--------------| | Header 1 | Header 2 | | Row 1, Col 1 | Row 1, Col 2 | | Row 2, Col 1 | Row 2, Col 2 |</p>\n<p>## Links</p>\n<p>Visit [Typst website](https://typst.app) for more info.</p>\n<p># Conclusion</p>\n<p>This document demonstrates the basic features of Typst.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"# Introduction\"},{\"type\":\"paragraph\",\"text\":\"This is a simple Typst document with basic formatting.\"},{\"type\":\"paragraph\",\"text\":\"## Subsection\"},{\"type\":\"paragraph\",\"text\":\"Some **bold text** and *italic text* with `inline code`.\"},{\"type\":\"paragraph\",\"text\":\"# Features\"},{\"type\":\"paragraph\",\"text\":\"This document demonstrates:\"},{\"type\":\"paragraph\",\"text\":\"- Lists\"},{\"type\":\"paragraph\",\"text\":\"- **Bold** formatting\"},{\"type\":\"paragraph\",\"text\":\"- *Italic* text\"},{\"type\":\"paragraph\",\"text\":\"- Tables\"},{\"type\":\"paragraph\",\"text\":\"- Links\"},{\"type\":\"paragraph\",\"text\":\"## Lists\"},{\"type\":\"paragraph\",\"text\":\"1.  First item\"},{\"type\":\"paragraph\",\"text\":\"2.  Second item\"},{\"type\":\"paragraph\",\"text\":\"3.  Third item\"},{\"type\":\"paragraph\",\"text\":\"## Code\"},{\"type\":\"paragraph\",\"text\":\"`#let x = 5`\"},{\"type\":\"paragraph\",\"text\":\"## Tables\"},{\"type\":\"paragraph\",\"text\":\"|              |              |\\n|--------------|--------------|\\n| Header 1     | Header 2     |\\n| Row 1, Col 1 | Row 1, Col 2 |\\n| Row 2, Col 1 | Row 2, Col 2 |\"},{\"type\":\"paragraph\",\"text\":\"## Links\"},{\"type\":\"paragraph\",\"text\":\"Visit [Typst website](https://typst.app) for more info.\"},{\"type\":\"paragraph\",\"text\":\"# Conclusion\"},{\"type\":\"paragraph\",\"text\":\"This document demonstrates the basic features of Typst.\"}]}",
+    "markdown": "\\# Introduction\n\nThis is a simple Typst document with basic formatting.\n\n\\#\\# Subsection\n\nSome **bold text** and *italic text* with \\`inline code\\`.\n\n\\# Features\n\nThis document demonstrates:\n\n\\- Lists\n\n\\- **Bold** formatting\n\n\\- *Italic* text\n\n\\- Tables\n\n\\- Links\n\n\\#\\# Lists\n\n1\\. First item\n\n2\\. Second item\n\n3\\. Third item\n\n\\#\\# Code\n\n\\`\\#let x = 5\\`\n\n\\#\\# Tables\n\n| | | |--------------|--------------| | Header 1 | Header 2 | | Row 1, Col 1 | Row 1, Col 2 | | Row 2, Col 1 | Row 2, Col 2 |\n\n\\#\\# Links\n\nVisit [Typst website](https://typst.app) for more info.\n\n\\# Conclusion\n\nThis document demonstrates the basic features of Typst.\n",
+    "plain": "# Introduction\n\nThis is a simple Typst document with basic formatting.\n\n## Subsection\n\nSome **bold text** and *italic text* with `inline code`.\n\n# Features\n\nThis document demonstrates:\n\n- Lists\n\n- **Bold** formatting\n\n- *Italic* text\n\n- Tables\n\n- Links\n\n## Lists\n\n1.  First item\n\n2.  Second item\n\n3.  Third item\n\n## Code\n\n`#let x = 5`\n\n## Tables\n\n|              |              |\n|--------------|--------------|\n| Header 1     | Header 2     |\n| Row 1, Col 1 | Row 1, Col 2 |\n| Row 2, Col 1 | Row 2, Col 2 |\n\n## Links\n\nVisit [Typst website](https://typst.app) for more info.\n\n# Conclusion\n\nThis document demonstrates the basic features of Typst."
+  }
+}

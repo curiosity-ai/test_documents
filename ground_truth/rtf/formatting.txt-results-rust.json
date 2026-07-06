@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/rtf/formatting.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 17,
+      "word_count": 21,
+      "character_count": 151
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/rtf/formatting.txt",
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/rtf/formatting.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>This is a test of FORMATTING. This is hidden: .</p>\n<p>SMALL CAPS</p>\n<p>bold</p>\n<p>italics</p>\n<p>bold and italics</p>\n<p>underlined</p>\n<p>~~strikeout~~</p>\n<p>x^(superscript)</p>\n<p>x_(subscript)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a test of FORMATTING. This is hidden: .\"},{\"type\":\"paragraph\",\"text\":\"SMALL CAPS\"},{\"type\":\"paragraph\",\"text\":\"bold\"},{\"type\":\"paragraph\",\"text\":\"italics\"},{\"type\":\"paragraph\",\"text\":\"bold and italics\"},{\"type\":\"paragraph\",\"text\":\"underlined\"},{\"type\":\"paragraph\",\"text\":\"~~strikeout~~\"},{\"type\":\"paragraph\",\"text\":\"x^(superscript)\"},{\"type\":\"paragraph\",\"text\":\"x_(subscript)\"}]}",
+    "markdown": "This is a test of FORMATTING. This is hidden: .\n\nSMALL CAPS\n\nbold\n\nitalics\n\nbold and italics\n\nunderlined\n\n\\~\\~strikeout\\~\\~\n\nx^(superscript)\n\nx_(subscript)\n",
+    "plain": "This is a test of FORMATTING. This is hidden: .\n\nSMALL CAPS\n\nbold\n\nitalics\n\nbold and italics\n\nunderlined\n\n~~strikeout~~\n\nx^(superscript)\n\nx_(subscript)"
+  }
+}

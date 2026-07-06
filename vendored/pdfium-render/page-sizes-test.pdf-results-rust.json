@@ -1,0 +1,38 @@
+{
+  "file": "vendored/pdfium-render/page-sizes-test.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "authors": [
+      "Alastair Carey"
+    ],
+    "created_at": "2024-06-16T18:25:19Z",
+    "created_by": "Writer",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.7",
+      "producer": "LibreOffice 24.2",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 842,
+      "page_count": 5
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "vendored/pdfium-render/page-sizes-test.pdf",
+      "extraction_method": "native",
+      "source_kind": "uri",
+      "final_uri": "vendored/pdfium-render/page-sizes-test.pdf"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Page 1 is A4</h1>\n<p>Page 2 is A4R</p>\n<p>Page 3 is A3</p>\n<p>Page 4 is A5R</p>\n<p>Page 6 is A4</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Page 1 is A4\"},{\"type\":\"paragraph\",\"text\":\"Page 2 is A4R\"},{\"type\":\"paragraph\",\"text\":\"Page 3 is A3\"},{\"type\":\"paragraph\",\"text\":\"Page 4 is A5R\"},{\"type\":\"paragraph\",\"text\":\"Page 6 is A4\"}]}",
+    "markdown": "# Page 1 is A4\n\nPage 2 is A4R\n\nPage 3 is A3\n\nPage 4 is A5R\n\nPage 6 is A4\n",
+    "plain": "Page 1 is A4\n\nPage 2 is A4R\n\nPage 3 is A3\n\nPage 4 is A5R\n\nPage 6 is A4"
+  }
+}

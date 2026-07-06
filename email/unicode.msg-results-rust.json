@@ -1,0 +1,44 @@
+{
+  "file": "email/unicode.msg",
+  "mime_type": "application/vnd.ms-outlook",
+  "success": true,
+  "metadata": {
+    "subject": "Test for TIF files",
+    "authors": [
+      "Brian Zhou"
+    ],
+    "created_at": "2013-11-18T08:26:24+00:00",
+    "format": {
+      "format_type": "email",
+      "from_email": "brizhou@gmail.com",
+      "from_name": "Brian Zhou",
+      "to_emails": [
+        "brianzhou@me.com"
+      ],
+      "cc_emails": [
+        "\"Brian Zhou\" <brizhou@gmail.com>"
+      ],
+      "bcc_emails": [],
+      "message_id": "<CADtJ4eNjQSkGcBtVteCiTF+YFG89+AcHxK3QZ=-Mt48xygkvdQ@mail.gmail.com>",
+      "attachments": [
+        "import OleFileIO.tif",
+        "raised value error.tif"
+      ]
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "email/unicode.msg",
+      "source_index": 0,
+      "source_uri": "email/unicode.msg",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: Test for TIF files</p>\n<p><strong>From</strong>: brizhou@gmail.com</p>\n<p><strong>To</strong>: brianzhou@me.com</p>\n<p><strong>CC</strong>: &quot;Brian Zhou&quot; &lt;brizhou@gmail.com&gt;</p>\n<p><strong>Date</strong>: 2013-11-18T08:26:24+00:00</p>\n<p>This is a test email to experiment with the MS Outlook MSG Extractor -- Kind regards Brian Zhou</p>\n<p>Attachments:</p>\n<p> import OleFileIO.tif (969674B)</p>\n<p> raised value error.tif (1033142B)</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"This is a test email to experiment with the MS Outlook MSG Extractor\\r\\n\\r\\n\\r\\n-- \\r\\n\\r\\n\\r\\nKind regards\\r\\n\\r\\n\\r\\n\\r\\n\\r\\nBrian Zhou\"},{\"type\":\"paragraph\",\"text\":\"Attachments:\"},{\"type\":\"paragraph\",\"text\":\"  import OleFileIO.tif (969674B)\"},{\"type\":\"paragraph\",\"text\":\"  raised value error.tif (1033142B)\"}]}",
+    "markdown": "**Subject**: Test for TIF files\n\n**From**: brizhou@gmail.com\n\n**To**: brianzhou@me.com\n\n**CC**: \"Brian Zhou\" \\<brizhou@gmail.com\\>\n\n**Date**: 2013-11-18T08:26:24+00:00\n\nThis is a test email to experiment with the MS Outlook MSG Extractor -- Kind regards Brian Zhou\n\nAttachments:\n\n import OleFileIO.tif (969674B)\n\n raised value error.tif (1033142B)\n",
+    "plain": "Subject: Test for TIF files\nFrom: brizhou@gmail.com\nTo: brianzhou@me.com\nCC: \"Brian Zhou\" <brizhou@gmail.com>\nDate: 2013-11-18T08:26:24+00:00\n\nThis is a test email to experiment with the MS Outlook MSG Extractor\r\n\r\n\r\n-- \r\n\r\n\r\nKind regards\r\n\r\n\r\n\r\n\r\nBrian Zhou\n\nAttachments:\n\n  import OleFileIO.tif (969674B)\n\n  raised value error.tif (1033142B)"
+  }
+}

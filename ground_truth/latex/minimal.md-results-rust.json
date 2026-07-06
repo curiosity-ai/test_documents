@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/latex/minimal.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/latex/minimal.md",
+      "final_uri": "ground_truth/latex/minimal.md",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Hello World from LaTeX!</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Hello World from LaTeX!\"}]}",
+    "markdown": "Hello World from LaTeX\\!\n",
+    "plain": "Hello World from LaTeX!"
+  }
+}

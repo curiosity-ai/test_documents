@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pdf/issue-1114-dedupe-chars.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 20,
+      "word_count": 13,
+      "character_count": 133
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/pdf/issue-1114-dedupe-chars.txt",
+      "source_kind": "uri",
+      "final_uri": "ground_truth/pdf/issue-1114-dedupe-chars.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Simple</p>\n<p>Duplicated</p>\n<p>Font</p>\n<p>Size Italic</p>\n<p>Weight</p>\n<p>Horizontal Horizontalshift shift</p>\n<p>Vertical Vertical shift shift</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Simple\"},{\"type\":\"paragraph\",\"text\":\"Duplicated\"},{\"type\":\"paragraph\",\"text\":\"Font\"},{\"type\":\"paragraph\",\"text\":\"Size\\nItalic\"},{\"type\":\"paragraph\",\"text\":\"Weight\"},{\"type\":\"paragraph\",\"text\":\"Horizontal\\nHorizontalshift\\n           shift\"},{\"type\":\"paragraph\",\"text\":\"Vertical\\nVertical shift\\n         shift\"}]}",
+    "markdown": "Simple\n\nDuplicated\n\nFont\n\nSize Italic\n\nWeight\n\nHorizontal Horizontalshift shift\n\nVertical Vertical shift shift\n",
+    "plain": "Simple\n\nDuplicated\n\nFont\n\nSize\nItalic\n\nWeight\n\nHorizontal\nHorizontalshift\n           shift\n\nVertical\nVertical shift\n         shift"
+  }
+}

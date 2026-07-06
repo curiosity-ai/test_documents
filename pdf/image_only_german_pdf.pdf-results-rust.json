@@ -1,0 +1,37 @@
+{
+  "file": "pdf/image_only_german_pdf.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "S25C-0i25080113320",
+    "created_at": "2025-08-01T13:32:10Z",
+    "modified_at": "2025-08-01T13:32:10Z",
+    "created_by": "25C-0i",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "Develop ineo+ 250i",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 842,
+      "page_count": 3
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "extraction_method": "native",
+      "final_uri": "pdf/image_only_german_pdf.pdf",
+      "source_uri": "pdf/image_only_german_pdf.pdf"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "",
+    "json": "{\"body\":[]}",
+    "markdown": "",
+    "plain": ""
+  }
+}

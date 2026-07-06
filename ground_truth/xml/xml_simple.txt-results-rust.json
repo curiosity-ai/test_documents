@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/xml/xml_simple.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 4,
+      "word_count": 12,
+      "character_count": 73
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/xml/xml_simple.txt",
+      "source_uri": "ground_truth/xml/xml_simple.txt",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>to: Tove from: Jani heading: Reminder body: Don't forget me this weekend!</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"to: Tove\\nfrom: Jani\\nheading: Reminder\\nbody: Don't forget me this weekend!\"}]}",
+    "markdown": "to: Tove from: Jani heading: Reminder body: Don't forget me this weekend\\!\n",
+    "plain": "to: Tove\nfrom: Jani\nheading: Reminder\nbody: Don't forget me this weekend!"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "text/report.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 11,
+      "word_count": 41,
+      "character_count": 255
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "text/report.txt",
+      "final_uri": "text/report.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Annual Report 2024</p>\n<p>This is a sample report document for testing purposes.</p>\n<p>Summary: - Revenue increased by 15% - Customer satisfaction at 92% - New product launches: 3</p>\n<p>Conclusion: The company performed well in 2024 with strong growth across all metrics.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Annual Report 2024\"},{\"type\":\"paragraph\",\"text\":\"This is a sample report document for testing purposes.\"},{\"type\":\"paragraph\",\"text\":\"Summary:\\n- Revenue increased by 15%\\n- Customer satisfaction at 92%\\n- New product launches: 3\"},{\"type\":\"paragraph\",\"text\":\"Conclusion:\\nThe company performed well in 2024 with strong growth across all metrics.\"}]}",
+    "markdown": "Annual Report 2024\n\nThis is a sample report document for testing purposes.\n\nSummary: - Revenue increased by 15% - Customer satisfaction at 92% - New product launches: 3\n\nConclusion: The company performed well in 2024 with strong growth across all metrics.\n",
+    "plain": "Annual Report 2024\n\nThis is a sample report document for testing purposes.\n\nSummary:\n- Revenue increased by 15%\n- Customer satisfaction at 92%\n- New product launches: 3\n\nConclusion:\nThe company performed well in 2024 with strong growth across all metrics."
+  }
+}

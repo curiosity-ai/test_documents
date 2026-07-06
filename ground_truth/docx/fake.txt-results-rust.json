@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/docx/fake.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 5,
+      "character_count": 27
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/docx/fake.txt",
+      "source_uri": "ground_truth/docx/fake.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Lorem ipsum dolor sit amet.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Lorem ipsum dolor sit amet.\"}]}",
+    "markdown": "Lorem ipsum dolor sit amet.\n",
+    "plain": "Lorem ipsum dolor sit amet."
+  }
+}

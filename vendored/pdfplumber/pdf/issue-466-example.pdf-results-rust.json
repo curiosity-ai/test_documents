@@ -1,0 +1,142 @@
+{
+  "file": "vendored/pdfplumber/pdf/issue-466-example.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "created_at": "2021-07-11T23:48:02Z",
+    "created_by": "Writer",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "LibreOffice 6.0",
+      "is_encrypted": false,
+      "width": 595,
+      "height": 842,
+      "page_count": 1
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "source_uri": "vendored/pdfplumber/pdf/issue-466-example.pdf",
+      "source_kind": "uri",
+      "final_uri": "vendored/pdfplumber/pdf/issue-466-example.pdf",
+      "extraction_method": "native"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "T0-C0",
+          "T0-C1",
+          "T0-C2"
+        ],
+        [
+          "T0-00",
+          "T0-01",
+          "T0-02"
+        ],
+        [
+          "T0-10",
+          "T0-11",
+          "T0-12"
+        ]
+      ],
+      "markdown": "| T0-C0 | T0-C1 | T0-C2 |\n| --- | --- | --- |\n| T0-00 | T0-01 | T0-02 |\n| T0-10 | T0-11 | T0-12 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 56.70000076293945,
+        "y0": 616.5,
+        "x1": 434.5,
+        "y1": 674.5999755859375
+      }
+    },
+    {
+      "cells": [
+        [
+          "No horizontal lines",
+          "",
+          ""
+        ],
+        [
+          "T1-C0",
+          "T1-C1",
+          "T1-C2"
+        ],
+        [
+          "T1-00",
+          "T1-01",
+          "T1-02"
+        ],
+        [
+          "T1-10",
+          "T1-11",
+          "T1-12"
+        ],
+        [
+          "T1-20-last",
+          "T1-21-last",
+          "T1-22-last"
+        ],
+        [
+          "No vertical lines",
+          "",
+          ""
+        ],
+        [
+          "T2-C0",
+          "T2-C1",
+          "T2-C2"
+        ]
+      ],
+      "markdown": "| No horizontal lines |  |  |\n| --- | --- | --- |\n| T1-C0 | T1-C1 | T1-C2 |\n| T1-00 | T1-01 | T1-02 |\n| T1-10 | T1-11 | T1-12 |\n| T1-20-last | T1-21-last | T1-22-last |\n| No vertical lines |  |  |\n| T2-C0 | T2-C1 | T2-C2 |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 56.79999923706055,
+        "y0": 274.6000061035156,
+        "x1": 434.5,
+        "y1": 597.2000122070312
+      }
+    },
+    {
+      "cells": [
+        [
+          "T3-C0",
+          "T3-C1",
+          "T3-C2"
+        ],
+        [
+          "T3-00",
+          "T3-01",
+          "T3-02"
+        ],
+        [
+          "T3-10",
+          "T3-11",
+          "T3-12"
+        ],
+        [
+          "T3-20-last",
+          "T3-21-last",
+          "T3-22-last"
+        ]
+      ],
+      "markdown": "| T3-C0 | T3-C1 | T3-C2 |\n| --- | --- | --- |\n| T3-00 | T3-01 | T3-02 |\n| T3-10 | T3-11 | T3-12 |\n| T3-20-last | T3-21-last | T3-22-last |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 56.70000076293945,
+        "y0": 202.3000030517578,
+        "x1": 434.5,
+        "y1": 274.6000061035156
+      }
+    }
+  ],
+  "content": {
+    "html": "<p>Test table extraction with mixed strategy &quot;lines&quot; and &quot;text&quot; Check for last line of each detected table. Last column is thinner to avoid adding noise to extraction settings.</p>\n<p>Reference table T0-20-last T0-21-last T0-22-last</p>\n<table>\n<thead>\n<tr>\n<th>T0-C0</th>\n<th>T0-C1</th>\n<th>T0-C2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>T0-00</td>\n<td>T0-01</td>\n<td>T0-02</td>\n</tr>\n<tr>\n<td>T0-10</td>\n<td>T0-11</td>\n<td>T0-12</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>No horizontal lines</th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>T1-C0</td>\n<td>T1-C1</td>\n<td>T1-C2</td>\n</tr>\n<tr>\n<td>T1-00</td>\n<td>T1-01</td>\n<td>T1-02</td>\n</tr>\n<tr>\n<td>T1-10</td>\n<td>T1-11</td>\n<td>T1-12</td>\n</tr>\n<tr>\n<td>T1-20-last</td>\n<td>T1-21-last</td>\n<td>T1-22-last</td>\n</tr>\n<tr>\n<td>No vertical lines</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>T2-C0</td>\n<td>T2-C1</td>\n<td>T2-C2</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>T3-C0</th>\n<th>T3-C1</th>\n<th>T3-C2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>T3-00</td>\n<td>T3-01</td>\n<td>T3-02</td>\n</tr>\n<tr>\n<td>T3-10</td>\n<td>T3-11</td>\n<td>T3-12</td>\n</tr>\n<tr>\n<td>T3-20-last</td>\n<td>T3-21-last</td>\n<td>T3-22-last</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Test table extraction with mixed strategy “lines” and “text”\"},{\"type\":\"paragraph\",\"text\":\"Check for last line of each detected table.\\nLast column is thinner to avoid adding noise to extraction settings.\"},{\"type\":\"paragraph\",\"text\":\"Reference table\"},{\"type\":\"paragraph\",\"text\":\"T0-C0\"},{\"type\":\"paragraph\",\"text\":\"T0-00\"},{\"type\":\"paragraph\",\"text\":\"T0-10\"},{\"type\":\"paragraph\",\"text\":\"T0-20-last\"},{\"type\":\"paragraph\",\"text\":\"No horizontal lines\"},{\"type\":\"paragraph\",\"text\":\"T1-C0\"},{\"type\":\"paragraph\",\"text\":\"T1-00\"},{\"type\":\"paragraph\",\"text\":\"T1-10\"},{\"type\":\"paragraph\",\"text\":\"T1-20-last\"},{\"type\":\"paragraph\",\"text\":\"No vertical lines\"},{\"type\":\"paragraph\",\"text\":\"T2-C0\"},{\"type\":\"paragraph\",\"text\":\"T2-00\"},{\"type\":\"paragraph\",\"text\":\"T2-10\"},{\"type\":\"paragraph\",\"text\":\"T2-20-last\"},{\"type\":\"paragraph\",\"text\":\"Light table style\"},{\"type\":\"paragraph\",\"text\":\"T3-C0\"},{\"type\":\"paragraph\",\"text\":\"T3-00\"},{\"type\":\"paragraph\",\"text\":\"T3-10\"},{\"type\":\"paragraph\",\"text\":\"T3-20-last\"},{\"type\":\"paragraph\",\"text\":\"T0-C1 T0-C2\"},{\"type\":\"paragraph\",\"text\":\"T0-01 T0-02\"},{\"type\":\"paragraph\",\"text\":\"T0-11 T0-12\"},{\"type\":\"paragraph\",\"text\":\"T0-21-last T0-22-last\"},{\"type\":\"paragraph\",\"text\":\"T1-C1 T1-C2\"},{\"type\":\"paragraph\",\"text\":\"T1-01 T1-02\"},{\"type\":\"paragraph\",\"text\":\"T1-11 T1-12\"},{\"type\":\"paragraph\",\"text\":\"T1-21-last T1-22-last\"},{\"type\":\"paragraph\",\"text\":\"T2-C1 T2-C2\"},{\"type\":\"paragraph\",\"text\":\"T2-01 T2-02\"},{\"type\":\"paragraph\",\"text\":\"T2-11 T2-12\"},{\"type\":\"paragraph\",\"text\":\"T2-21-last T2-22-last\"},{\"type\":\"paragraph\",\"text\":\"T3-C1 T3-C2\"},{\"type\":\"paragraph\",\"text\":\"T3-01 T3-02\"},{\"type\":\"paragraph\",\"text\":\"T3-11 T3-12\"},{\"type\":\"paragraph\",\"text\":\"T3-21-last T3-22-last\"},{\"type\":\"table\",\"headers\":[\"T0-C0\",\"T0-C1\",\"T0-C2\"],\"rows\":[[\"T0-00\",\"T0-01\",\"T0-02\"],[\"T0-10\",\"T0-11\",\"T0-12\"]]},{\"type\":\"table\",\"headers\":[\"No horizontal lines\",\"\",\"\"],\"rows\":[[\"T1-C0\",\"T1-C1\",\"T1-C2\"],[\"T1-00\",\"T1-01\",\"T1-02\"],[\"T1-10\",\"T1-11\",\"T1-12\"],[\"T1-20-last\",\"T1-21-last\",\"T1-22-last\"],[\"No vertical lines\",\"\",\"\"],[\"T2-C0\",\"T2-C1\",\"T2-C2\"]]},{\"type\":\"table\",\"headers\":[\"T3-C0\",\"T3-C1\",\"T3-C2\"],\"rows\":[[\"T3-00\",\"T3-01\",\"T3-02\"],[\"T3-10\",\"T3-11\",\"T3-12\"],[\"T3-20-last\",\"T3-21-last\",\"T3-22-last\"]]}]}",
+    "markdown": "Test table extraction with mixed strategy \"lines\" and \"text\" Check for last line of each detected table. Last column is thinner to avoid adding noise to extraction settings.\n\nReference table T0-20-last T0-21-last T0-22-last\n\n| T0-C0 | T0-C1 | T0-C2 |\n| --- | --- | --- |\n| T0-00 | T0-01 | T0-02 |\n| T0-10 | T0-11 | T0-12 |\n\n| No horizontal lines |  |  |\n| --- | --- | --- |\n| T1-C0 | T1-C1 | T1-C2 |\n| T1-00 | T1-01 | T1-02 |\n| T1-10 | T1-11 | T1-12 |\n| T1-20-last | T1-21-last | T1-22-last |\n| No vertical lines |  |  |\n| T2-C0 | T2-C1 | T2-C2 |\n\n| T3-C0 | T3-C1 | T3-C2 |\n| --- | --- | --- |\n| T3-00 | T3-01 | T3-02 |\n| T3-10 | T3-11 | T3-12 |\n| T3-20-last | T3-21-last | T3-22-last |\n",
+    "plain": "Test table extraction with mixed strategy “lines” and “text”\n\nCheck for last line of each detected table.\nLast column is thinner to avoid adding noise to extraction settings.\n\nReference table\n\nT0-C0\n\nT0-00\n\nT0-10\n\nT0-20-last\n\nNo horizontal lines\n\nT1-C0\n\nT1-00\n\nT1-10\n\nT1-20-last\n\nNo vertical lines\n\nT2-C0\n\nT2-00\n\nT2-10\n\nT2-20-last\n\nLight table style\n\nT3-C0\n\nT3-00\n\nT3-10\n\nT3-20-last\n\nT0-C1 T0-C2\n\nT0-01 T0-02\n\nT0-11 T0-12\n\nT0-21-last T0-22-last\n\nT1-C1 T1-C2\n\nT1-01 T1-02\n\nT1-11 T1-12\n\nT1-21-last T1-22-last\n\nT2-C1 T2-C2\n\nT2-01 T2-02\n\nT2-11 T2-12\n\nT2-21-last T2-22-last\n\nT3-C1 T3-C2\n\nT3-01 T3-02\n\nT3-11 T3-12\n\nT3-21-last T3-22-last\n\nT0-C0 T0-C1 T0-C2\nT0-00 T0-01 T0-02\nT0-10 T0-11 T0-12\n\nNo horizontal lines  \nT1-C0 T1-C1 T1-C2\nT1-00 T1-01 T1-02\nT1-10 T1-11 T1-12\nT1-20-last T1-21-last T1-22-last\nNo vertical lines  \nT2-C0 T2-C1 T2-C2\n\nT3-C0 T3-C1 T3-C2\nT3-00 T3-01 T3-02\nT3-10 T3-11 T3-12\nT3-20-last T3-21-last T3-22-last"
+  }
+}

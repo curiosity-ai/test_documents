@@ -1,0 +1,41 @@
+{
+  "file": "ground_truth/rtf/table_simple.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/rtf/table_simple.md",
+      "source_index": 0,
+      "source_uri": "ground_truth/rtf/table_simple.md"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        [
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      ],
+      "markdown": "| A | B | C | D |\n| --- | --- | --- | --- |\n| E | F | G | H |\n",
+      "page_number": 1
+    }
+  ],
+  "content": {
+    "html": "<table>\n<thead>\n<tr>\n<th>A</th>\n<th>B</th>\n<th>C</th>\n<th>D</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>E</td>\n<td>F</td>\n<td>G</td>\n<td>H</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"table\",\"headers\":[\"A\",\"B\",\"C\",\"D\"],\"rows\":[[\"E\",\"F\",\"G\",\"H\"]]}]}",
+    "markdown": "| A | B | C | D |\n| --- | --- | --- | --- |\n| E | F | G | H |\n",
+    "plain": "A B C D\nE F G H"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "file": "images/ocr_test_rotated_90.png",
+  "mime_type": "image/png",
+  "success": false,
+  "error": "Unsupported format: image/png",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

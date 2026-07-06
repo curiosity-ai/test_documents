@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/ris/sample.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 14,
+      "word_count": 56,
+      "character_count": 278
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/ris/sample.txt",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/ris/sample.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>TY - JOUR AU - Smith, John AU - Doe, Jane TI - A comprehensive study of document extraction techniques JO - Journal of Information Processing VL - 42 IS - 3 SP - 125 EP - 140 PY - 2024 KW - document extraction KW - text mining KW - natural language processing ER -</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"TY  - JOUR\\nAU  - Smith, John\\nAU  - Doe, Jane\\nTI  - A comprehensive study of document extraction techniques\\nJO  - Journal of Information Processing\\nVL  - 42\\nIS  - 3\\nSP  - 125\\nEP  - 140\\nPY  - 2024\\nKW  - document extraction\\nKW  - text mining\\nKW  - natural language processing\\nER  -\"}]}",
+    "markdown": "TY - JOUR AU - Smith, John AU - Doe, Jane TI - A comprehensive study of document extraction techniques JO - Journal of Information Processing VL - 42 IS - 3 SP - 125 EP - 140 PY - 2024 KW - document extraction KW - text mining KW - natural language processing ER -\n",
+    "plain": "TY  - JOUR\nAU  - Smith, John\nAU  - Doe, Jane\nTI  - A comprehensive study of document extraction techniques\nJO  - Journal of Information Processing\nVL  - 42\nIS  - 3\nSP  - 125\nEP  - 140\nPY  - 2024\nKW  - document extraction\nKW  - text mining\nKW  - natural language processing\nER  -"
+  }
+}

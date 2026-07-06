@@ -1,0 +1,26 @@
+{
+  "file": "fictionbook/poem.fb2",
+  "mime_type": "application/x-fictionbook+xml",
+  "success": true,
+  "metadata": {
+    "title": "Test Document",
+    "format": {
+      "format_type": "fiction_book"
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "fictionbook/poem.fb2",
+      "source_index": 0,
+      "source_uri": "fictionbook/poem.fb2"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Poem title</h2>\n<p>Poem epigraph</p>\n<h3>Subtitle</h3>\n<h2>First stanza title</h2>\n<p>Verse</p>\n<p><em>More</em> verse</p>\n<p>One more stanza</p>\n<p>Author</p>\n<p>April 2018</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Poem title\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Poem epigraph\"},{\"type\":\"section\",\"heading\":\"Subtitle\",\"level\":3,\"body\":[]}]},{\"type\":\"section\",\"heading\":\"First stanza title\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Verse\"},{\"type\":\"paragraph\",\"text\":\"More  verse\"},{\"type\":\"paragraph\",\"text\":\"One more stanza\"},{\"type\":\"paragraph\",\"text\":\"Author\"},{\"type\":\"paragraph\",\"text\":\"April 2018\"}]}]}",
+    "markdown": "## Poem title\n\nPoem epigraph\n\n### Subtitle\n\n## First stanza title\n\nVerse\n\n*More* verse\n\nOne more stanza\n\nAuthor\n\nApril 2018\n",
+    "plain": "  Poem title\nPoem epigraph\n\n    Subtitle\n  First stanza title\nVerse\n\nMore  verse\n\nOne more stanza\n\nAuthor\n\nApril 2018"
+  }
+}

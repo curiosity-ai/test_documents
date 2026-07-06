@@ -1,0 +1,44 @@
+{
+  "file": "archives/documents.7z",
+  "mime_type": "application/x-7z-compressed",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "archive",
+      "format": "7Z",
+      "file_count": 2,
+      "file_list": [
+        "text/multilingual.txt",
+        "text/simple.txt"
+      ],
+      "total_size": 30
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "files": [
+        {
+          "path": "text/multilingual.txt",
+          "size": 13,
+          "is_dir": false
+        },
+        {
+          "path": "text/simple.txt",
+          "size": 17,
+          "is_dir": false
+        }
+      ],
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "archives/documents.7z",
+      "final_uri": "archives/documents.7z"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>7Z Archive (2 files, 30 bytes)</p>\n<p>Files: - text/multilingual.txt (13 bytes) - text/simple.txt (17 bytes) </p>\n<p>=== text/simple.txt === contract_test.txt</p>\n<p>=== text/multilingual.txt === fake_text.txt</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"7Z Archive (2 files, 30 bytes)\"},{\"type\":\"paragraph\",\"text\":\"Files:\\n- text/multilingual.txt (13 bytes)\\n- text/simple.txt (17 bytes)\\n\"},{\"type\":\"paragraph\",\"text\":\"=== text/multilingual.txt ===\\nfake_text.txt\"},{\"type\":\"paragraph\",\"text\":\"=== text/simple.txt ===\\ncontract_test.txt\"}]}",
+    "markdown": "7Z Archive (2 files, 30 bytes)\n\nFiles: - text/multilingual.txt (13 bytes) - text/simple.txt (17 bytes) \n\n=== text/simple.txt === contract_test.txt\n\n=== text/multilingual.txt === fake_text.txt\n",
+    "plain": "7Z Archive (2 files, 30 bytes)\n\nFiles:\n- text/multilingual.txt (13 bytes)\n- text/simple.txt (17 bytes)\n\n\n=== text/simple.txt ===\ncontract_test.txt\n\n=== text/multilingual.txt ===\nfake_text.txt"
+  }
+}

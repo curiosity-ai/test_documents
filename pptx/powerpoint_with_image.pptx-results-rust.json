@@ -1,0 +1,49 @@
+{
+  "file": "pptx/powerpoint_with_image.pptx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  "success": true,
+  "metadata": {
+    "authors": [
+      "Maxim Lysak"
+    ],
+    "created_at": "2024-11-15T16:22:00Z",
+    "modified_at": "2024-11-15T16:31:42Z",
+    "created_by": "Maxim Lysak",
+    "modified_by": "Maxim Lysak",
+    "format": {
+      "format_type": "pptx",
+      "slide_count": 1,
+      "slide_names": [
+        "Aptos",
+        "Aptos Display",
+        "Arial",
+        "Office Theme",
+        "Docling"
+      ],
+      "image_count": 1,
+      "table_count": 0
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "slide_titles": "Aptos, Aptos Display, Arial, Office Theme, Docling",
+      "revision": "1",
+      "source_index": 0,
+      "application_version": "16.0000",
+      "notes_count": 0,
+      "hidden_slides": 0,
+      "source_uri": "pptx/powerpoint_with_image.pptx",
+      "final_uri": "pptx/powerpoint_with_image.pptx",
+      "application": "Microsoft Macintosh PowerPoint",
+      "presentation_format": "Widescreen",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Docling</h2>\n<p>Image test</p>\n<p>![](../media/image1.png)</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Docling\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Image test\"},{\"type\":\"paragraph\",\"text\":\"![](../media/image1.png)\"}]}]}",
+    "markdown": "## Docling\n\nImage test\n\n\\![](../media/image1.png)\n",
+    "plain": "Docling\n\nImage test"
+  }
+}

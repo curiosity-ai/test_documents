@@ -1,0 +1,12 @@
+{
+  "file": "data_formats/sample.vtt",
+  "mime_type": "text/vtt",
+  "success": false,
+  "error": "Unsupported format: text/vtt",
+  "content": {
+    "html": "",
+    "json": "",
+    "markdown": "",
+    "plain": ""
+  }
+}

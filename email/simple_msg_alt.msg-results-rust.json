@@ -1,0 +1,37 @@
+{
+  "file": "email/simple_msg_alt.msg",
+  "mime_type": "application/vnd.ms-outlook",
+  "success": true,
+  "metadata": {
+    "subject": "This is the subject",
+    "authors": [
+      "peterpan@neverland.com"
+    ],
+    "format": {
+      "format_type": "email",
+      "from_email": "peterpan@neverland.com",
+      "from_name": "peterpan@neverland.com",
+      "to_emails": [
+        "crocodile@neverland.com"
+      ],
+      "cc_emails": [],
+      "bcc_emails": [],
+      "attachments": []
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "email/simple_msg_alt.msg",
+      "source_uri": "email/simple_msg_alt.msg",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><strong>Subject</strong>: This is the subject</p>\n<p><strong>From</strong>: peterpan@neverland.com</p>\n<p><strong>To</strong>: crocodile@neverland.com</p>\n",
+    "json": "{\"body\":[]}",
+    "markdown": "**Subject**: This is the subject\n\n**From**: peterpan@neverland.com\n\n**To**: crocodile@neverland.com\n",
+    "plain": "Subject: This is the subject\nFrom: peterpan@neverland.com\nTo: crocodile@neverland.com"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/unit_test_formatting.docx.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 21,
+      "word_count": 61,
+      "character_count": 499
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/md/unit_test_formatting.docx.txt",
+      "source_index": 0,
+      "source_kind": "uri",
+      "final_uri": "ground_truth/md/unit_test_formatting.docx.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>*italic*</p>\n<p>**bold**</p>\n<p>underline</p>\n<p>[hyperlink](https:/github.com/DS4SD/docling)</p>\n<p>[***italic and bold hyperlink***](https:/github.com/DS4SD/docling)</p>\n<p>Normal *italic* **bold** underline and [hyperlink](https:/github.com/DS4SD/docling) on the same line</p>\n<p>- *Italic bullet 1* - **Bold bullet 2** - Underline bullet 3 - Some *italic* **bold** underline - Nested *italic* **bold**</p>\n<p>The second page of the document with same header and footer</p>\n<p>The third page of the document with different header and footer</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"*italic*\"},{\"type\":\"paragraph\",\"text\":\"**bold**\"},{\"type\":\"paragraph\",\"text\":\"underline\"},{\"type\":\"paragraph\",\"text\":\"[hyperlink](https:/github.com/DS4SD/docling)\"},{\"type\":\"paragraph\",\"text\":\"[***italic and bold hyperlink***](https:/github.com/DS4SD/docling)\"},{\"type\":\"paragraph\",\"text\":\"Normal *italic* **bold** underline and [hyperlink](https:/github.com/DS4SD/docling) on the same line\"},{\"type\":\"paragraph\",\"text\":\"- *Italic bullet 1*\\n- **Bold bullet 2**\\n- Underline bullet 3\\n- Some *italic* **bold** underline\\n    - Nested *italic* **bold**\"},{\"type\":\"paragraph\",\"text\":\"The second page of the document with same header and footer\"},{\"type\":\"paragraph\",\"text\":\"The third page of the document with different header and footer\"}]}",
+    "markdown": "*italic*\n\n**bold**\n\nunderline\n\n[hyperlink](https:/github.com/DS4SD/docling)\n\n[***italic and bold hyperlink***](https:/github.com/DS4SD/docling)\n\nNormal *italic* **bold** underline and [hyperlink](https:/github.com/DS4SD/docling) on the same line\n\n\\- *Italic bullet 1* - **Bold bullet 2** - Underline bullet 3 - Some *italic* **bold** underline - Nested *italic* **bold**\n\nThe second page of the document with same header and footer\n\nThe third page of the document with different header and footer\n",
+    "plain": "*italic*\n\n**bold**\n\nunderline\n\n[hyperlink](https:/github.com/DS4SD/docling)\n\n[***italic and bold hyperlink***](https:/github.com/DS4SD/docling)\n\nNormal *italic* **bold** underline and [hyperlink](https:/github.com/DS4SD/docling) on the same line\n\n- *Italic bullet 1*\n- **Bold bullet 2**\n- Underline bullet 3\n- Some *italic* **bold** underline\n    - Nested *italic* **bold**\n\nThe second page of the document with same header and footer\n\nThe third page of the document with different header and footer"
+  }
+}

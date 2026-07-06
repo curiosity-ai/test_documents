@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/eml/mime-multi-to-cc-bcc.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 6,
+      "word_count": 27,
+      "character_count": 263
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "final_uri": "ground_truth/eml/mime-multi-to-cc-bcc.txt",
+      "source_index": 0,
+      "source_uri": "ground_truth/eml/mime-multi-to-cc-bcc.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Subject: Example Plain-Text MIME Message From: sender@example.com To: &quot;Bob&quot; &lt;bob@example.com&gt;, &quot;Sue&quot; &lt;sue@example.com&gt; CC: &quot;Tom&quot; &lt;tom@example.com&gt;, &quot;Alice&quot; &lt;alice@example.com&gt; BCC: &quot;John&quot; &lt;john@example.com&gt;, &quot;Mary&quot; &lt;mary@example.com&gt; This is a plain-text message.</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Subject: Example Plain-Text MIME Message\\nFrom: sender@example.com\\nTo: \\\"Bob\\\" <bob@example.com>, \\\"Sue\\\" <sue@example.com>\\nCC: \\\"Tom\\\" <tom@example.com>, \\\"Alice\\\" <alice@example.com>\\nBCC: \\\"John\\\" <john@example.com>, \\\"Mary\\\" <mary@example.com>\\nThis is a plain-text message.\"}]}",
+    "markdown": "Subject: Example Plain-Text MIME Message From: sender@example.com To: \"Bob\" \\<bob@example.com\\>, \"Sue\" \\<sue@example.com\\> CC: \"Tom\" \\<tom@example.com\\>, \"Alice\" \\<alice@example.com\\> BCC: \"John\" \\<john@example.com\\>, \"Mary\" \\<mary@example.com\\> This is a plain-text message.\n",
+    "plain": "Subject: Example Plain-Text MIME Message\nFrom: sender@example.com\nTo: \"Bob\" <bob@example.com>, \"Sue\" <sue@example.com>\nCC: \"Tom\" <tom@example.com>, \"Alice\" <alice@example.com>\nBCC: \"John\" <john@example.com>, \"Mary\" <mary@example.com>\nThis is a plain-text message."
+  }
+}

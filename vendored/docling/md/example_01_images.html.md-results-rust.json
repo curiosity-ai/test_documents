@@ -1,0 +1,23 @@
+{
+  "file": "vendored/docling/md/example_01_images.html.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Introduction",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "vendored/docling/md/example_01_images.html.md",
+      "final_uri": "vendored/docling/md/example_01_images.html.md",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Introduction</h1>\n<p>This is the first paragraph of the introduction.</p>\n<h2>Background</h2>\n<p>Some background information here.</p>\n<p>Example image</p>\n<ul>\n<li>First item in unordered list</li>\n<li>Second item in unordered list</li>\n</ul>\n<ol>\n<li>First item in ordered list</li>\n<li>Second item in ordered list</li>\n<li>First item in ordered list with start</li>\n<li>Second item in ordered list with start</li>\n</ol>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Introduction\",\"level\":1,\"body\":[{\"type\":\"paragraph\",\"text\":\"This is the first paragraph of the introduction.\"},{\"type\":\"section\",\"heading\":\"Background\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Some background information here.\"},{\"type\":\"paragraph\",\"text\":\"Example image\"},{\"type\":\"list\",\"ordered\":false,\"items\":[\"First item in unordered list\",\"Second item in unordered list\"]},{\"type\":\"list\",\"ordered\":true,\"items\":[\"First item in ordered list\",\"Second item in ordered list\",\"First item in ordered list with start\",\"Second item in ordered list with start\"]}]}]}]}",
+    "markdown": "# Introduction\n\nThis is the first paragraph of the introduction.\n\n## Background\n\nSome background information here.\n\nExample image\n\n- First item in unordered list\n- Second item in unordered list\n\n1. First item in ordered list\n2. Second item in ordered list\n3. First item in ordered list with start\n4. Second item in ordered list with start\n",
+    "plain": "Introduction\nThis is the first paragraph of the introduction.\n\n  Background\nSome background information here.\n\nExample image\n\nFirst item in unordered list\nSecond item in unordered list\nFirst item in ordered list\nSecond item in ordered list\nFirst item in ordered list with start\nSecond item in ordered list with start"
+  }
+}

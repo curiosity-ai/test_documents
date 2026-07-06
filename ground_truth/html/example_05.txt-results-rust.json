@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/html/example_05.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 11,
+      "word_count": 66,
+      "character_count": 594
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/html/example_05.txt",
+      "final_uri": "ground_truth/html/example_05.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Omitted html and body tags</p>\n<p>+----------------------------+-------------------------------+ | Header 1 | Header 2 &amp; 3 (colspan) | +============================+===============+===============+ | Row 1 &amp; 2, Col 1 (rowspan) | Row 1, Col 2 | Row 1, Col 3 | | +---------------+---------------+ | | Row 2, Col 2 &amp; 3 (colspan) | +----------------------------+---------------+---------------+ | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | +----------------------------+---------------+---------------+</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Omitted html and body tags\"},{\"type\":\"paragraph\",\"text\":\"+----------------------------+-------------------------------+\\n| Header 1                   | Header 2 & 3 (colspan)        |\\n+============================+===============+===============+\\n| Row 1 & 2, Col 1 (rowspan) | Row 1, Col 2  | Row 1, Col 3  |\\n|                            +---------------+---------------+\\n|                            | Row 2, Col 2 & 3 (colspan)    |\\n+----------------------------+---------------+---------------+\\n| Row 3, Col 1               | Row 3, Col 2  | Row 3, Col 3  |\\n+----------------------------+---------------+---------------+\"}]}",
+    "markdown": "Omitted html and body tags\n\n\\+----------------------------+-------------------------------+ | Header 1 | Header 2 & 3 (colspan) | +============================+===============+===============+ | Row 1 & 2, Col 1 (rowspan) | Row 1, Col 2 | Row 1, Col 3 | | +---------------+---------------+ | | Row 2, Col 2 & 3 (colspan) | +----------------------------+---------------+---------------+ | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | +----------------------------+---------------+---------------+\n",
+    "plain": "Omitted html and body tags\n\n+----------------------------+-------------------------------+\n| Header 1                   | Header 2 & 3 (colspan)        |\n+============================+===============+===============+\n| Row 1 & 2, Col 1 (rowspan) | Row 1, Col 2  | Row 1, Col 3  |\n|                            +---------------+---------------+\n|                            | Row 2, Col 2 & 3 (colspan)    |\n+----------------------------+---------------+---------------+\n| Row 3, Col 1               | Row 3, Col 2  | Row 3, Col 3  |\n+----------------------------+---------------+---------------+"
+  }
+}

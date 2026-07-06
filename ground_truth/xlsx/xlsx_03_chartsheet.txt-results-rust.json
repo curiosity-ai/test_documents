@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/xlsx/xlsx_03_chartsheet.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 10,
+      "word_count": 36,
+      "character_count": 452
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/xlsx/xlsx_03_chartsheet.txt",
+      "source_index": 0,
+      "final_uri": "ground_truth/xlsx/xlsx_03_chartsheet.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Duck Observations</p>\n<p>Year Freshwater Ducks Saltwater Ducks Ducks -------- ------------------ ----------------- ------- 2019.0 120.0 80.0 200.0 2020.0 135.0 95.0 230.0 2021.0 150.0 100.0 250.0 2022.0 170.0 110.0 280.0 2023.0 160.0 120.0 280.0 2024.0 180.0 130.0 310.0</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Duck Observations\"},{\"type\":\"paragraph\",\"text\":\"Year     Freshwater Ducks   Saltwater Ducks   Ducks\\n  -------- ------------------ ----------------- -------\\n  2019.0   120.0              80.0              200.0\\n  2020.0   135.0              95.0              230.0\\n  2021.0   150.0              100.0             250.0\\n  2022.0   170.0              110.0             280.0\\n  2023.0   160.0              120.0             280.0\\n  2024.0   180.0              130.0             310.0\"}]}",
+    "markdown": "Duck Observations\n\nYear Freshwater Ducks Saltwater Ducks Ducks -------- ------------------ ----------------- ------- 2019.0 120.0 80.0 200.0 2020.0 135.0 95.0 230.0 2021.0 150.0 100.0 250.0 2022.0 170.0 110.0 280.0 2023.0 160.0 120.0 280.0 2024.0 180.0 130.0 310.0\n",
+    "plain": "Duck Observations\n\nYear     Freshwater Ducks   Saltwater Ducks   Ducks\n  -------- ------------------ ----------------- -------\n  2019.0   120.0              80.0              200.0\n  2020.0   135.0              95.0              230.0\n  2021.0   150.0              100.0             250.0\n  2022.0   170.0              110.0             280.0\n  2023.0   160.0              120.0             280.0\n  2024.0   180.0              130.0             310.0"
+  }
+}

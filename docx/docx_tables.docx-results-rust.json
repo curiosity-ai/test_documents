@@ -1,0 +1,129 @@
+{
+  "file": "docx/docx_tables.docx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "success": true,
+  "metadata": {
+    "created_at": "2023-11-06T19:03:00Z",
+    "modified_at": "2023-11-20T23:48:00Z",
+    "format": {
+      "format_type": "docx",
+      "core_properties": {
+        "title": null,
+        "subject": null,
+        "creator": null,
+        "keywords": null,
+        "description": null,
+        "last_modified_by": null,
+        "revision": "6",
+        "created": "2023-11-06T19:03:00Z",
+        "modified": "2023-11-20T23:48:00Z",
+        "category": null,
+        "content_status": null,
+        "language": null,
+        "identifier": null,
+        "version": null,
+        "last_printed": null
+      },
+      "app_properties": {
+        "application": "Microsoft Office Word",
+        "app_version": "16.0000",
+        "template": "Normal.dotm",
+        "total_time": 8,
+        "pages": 1,
+        "words": 29,
+        "characters": 171,
+        "characters_with_spaces": 199,
+        "lines": 1,
+        "paragraphs": 1,
+        "company": null,
+        "doc_security": 0,
+        "scale_crop": false,
+        "links_up_to_date": false,
+        "shared_doc": false,
+        "hyperlinks_changed": false
+      },
+      "custom_properties": {}
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "total_editing_time_minutes": 8,
+      "line_count": 1,
+      "word_count": 29,
+      "source_index": 0,
+      "character_count": 171,
+      "paragraph_count": 1,
+      "revision": "6",
+      "source_kind": "uri",
+      "source_uri": "docx/docx_tables.docx",
+      "final_uri": "docx/docx_tables.docx",
+      "application": "Microsoft Office Word",
+      "page_count": 1,
+      "template": "Normal.dotm"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Header Col 1",
+          "Header Col 2"
+        ],
+        [
+          "Lorem ipsum",
+          "[A link example](https://tabul.com/)"
+        ]
+      ],
+      "markdown": "| Header Col 1 | Header Col 2 |\n| --- | --- |\n| Lorem ipsum | [A link example](https://tabul.com/) |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "a",
+          "b",
+          "c"
+        ],
+        [
+          "d",
+          "e f gt h",
+          "i"
+        ],
+        [
+          "j",
+          "k",
+          "l"
+        ]
+      ],
+      "markdown": "| a | b | c |\n| --- | --- | --- |\n| d | e f gt h | i |\n| j | k | l |\n",
+      "page_number": 0
+    },
+    {
+      "cells": [
+        [
+          "a",
+          "b",
+          "b"
+        ],
+        [
+          "a",
+          "c",
+          "d"
+        ],
+        [
+          "e",
+          "e",
+          "d"
+        ]
+      ],
+      "markdown": "| a | b | b |\n| --- | --- | --- |\n| a | c | d |\n| e | e | d |\n",
+      "page_number": 0
+    }
+  ],
+  "content": {
+    "html": "<p>Simple uniform table</p>\n<table>\n<thead>\n<tr>\n<th>Header Col 1</th>\n<th>Header Col 2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Lorem ipsum</td>\n<td>[A link example](https://tabul.com/)</td>\n</tr>\n</tbody>\n</table>\n<p>Nested Table</p>\n<table>\n<thead>\n<tr>\n<th>a</th>\n<th>b</th>\n<th>c</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>d</td>\n<td>e f gt h</td>\n<td>i</td>\n</tr>\n<tr>\n<td>j</td>\n<td>k</td>\n<td>l</td>\n</tr>\n</tbody>\n</table>\n<p>Table with merged cells</p>\n<table>\n<thead>\n<tr>\n<th>a</th>\n<th>b</th>\n<th>b</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>a</td>\n<td>c</td>\n<td>d</td>\n</tr>\n<tr>\n<td>e</td>\n<td>e</td>\n<td>d</td>\n</tr>\n</tbody>\n</table>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Simple uniform table\"},{\"type\":\"table\",\"headers\":[\"Header Col 1\",\"Header Col 2\"],\"rows\":[[\"Lorem ipsum\",\"[A link example](https://tabul.com/)\"]]},{\"type\":\"paragraph\",\"text\":\"Nested Table\"},{\"type\":\"table\",\"headers\":[\"a\",\"b\",\"c\"],\"rows\":[[\"d\",\"e f gt h\",\"i\"],[\"j\",\"k\",\"l\"]]},{\"type\":\"paragraph\",\"text\":\"Table with merged cells\"},{\"type\":\"table\",\"headers\":[\"a\",\"b\",\"b\"],\"rows\":[[\"a\",\"c\",\"d\"],[\"e\",\"e\",\"d\"]]}]}",
+    "markdown": "Simple uniform table\n\n| Header Col 1 | Header Col 2 |\n| --- | --- |\n| Lorem ipsum | [A link example](https://tabul.com/) |\n\nNested Table\n\n| a | b | c |\n| --- | --- | --- |\n| d | e f gt h | i |\n| j | k | l |\n\nTable with merged cells\n\n| a | b | b |\n| --- | --- | --- |\n| a | c | d |\n| e | e | d |\n",
+    "plain": "Simple uniform table\n\nHeader Col 1 Header Col 2\nLorem ipsum [A link example](https://tabul.com/)\n\nNested Table\n\na b c\nd e f gt h i\nj k l\n\nTable with merged cells\n\na b b\na c d\ne e d"
+  }
+}

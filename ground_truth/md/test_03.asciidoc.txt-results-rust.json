@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/md/test_03.asciidoc.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 23,
+      "word_count": 100,
+      "character_count": 645
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_index": 0,
+      "source_uri": "ground_truth/md/test_03.asciidoc.txt",
+      "final_uri": "ground_truth/md/test_03.asciidoc.txt"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>:\\_mod-docs-content-type: PROCEDURE :experimental:</p>\n<p># Renaming a bookmark</p>\n<p>[id=&quot;renaming-a-bookmark\\_{context}&quot;]</p>\n<p>You can rename a bookmark to distinguish it from other bookmarks. If you have bookmarks to several folders that all share the same name, you can tell the bookmarks apart if you rename them.</p>\n<p>Renaming the bookmark does not rename the folder.</p>\n<p>- Check that the side bar lists the bookmark under the new name.</p>\n<p>Procedure . Right-click the bookmark in the side bar. . Select *Rename…*. +</p>\n<p>&lt;!-- image --&gt;</p>\n<p>In the *Name* field, enter the new name for the bookmark. +</p>\n<p>&lt;!-- image --&gt;</p>\n<p>Click btn:[Rename]. .Verification</p>\n<p>&lt;!-- image --&gt;</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\":\\\\_mod-docs-content-type: PROCEDURE :experimental:\"},{\"type\":\"paragraph\",\"text\":\"# Renaming a bookmark\"},{\"type\":\"paragraph\",\"text\":\"[id=\\\"renaming-a-bookmark\\\\_{context}\\\"]\"},{\"type\":\"paragraph\",\"text\":\"You can rename a bookmark to distinguish it from other bookmarks. If you have bookmarks to several folders that all share the same name, you can tell the bookmarks apart if you rename them.\"},{\"type\":\"paragraph\",\"text\":\"Renaming the bookmark does not rename the folder.\"},{\"type\":\"paragraph\",\"text\":\"- Check that the side bar lists the bookmark under the new name.\"},{\"type\":\"paragraph\",\"text\":\"Procedure . Right-click the bookmark in the side bar. . Select *Rename…*. +\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"In the *Name* field, enter the new name for the bookmark. +\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"},{\"type\":\"paragraph\",\"text\":\"Click btn:[Rename]. .Verification\"},{\"type\":\"paragraph\",\"text\":\"<!-- image -->\"}]}",
+    "markdown": ":\\\\_mod-docs-content-type: PROCEDURE :experimental:\n\n\\# Renaming a bookmark\n\n[id=\"renaming-a-bookmark\\\\_{context}\"]\n\nYou can rename a bookmark to distinguish it from other bookmarks. If you have bookmarks to several folders that all share the same name, you can tell the bookmarks apart if you rename them.\n\nRenaming the bookmark does not rename the folder.\n\n\\- Check that the side bar lists the bookmark under the new name.\n\nProcedure . Right-click the bookmark in the side bar. . Select *Rename…*. +\n\n\\<\\!-- image --\\>\n\nIn the *Name* field, enter the new name for the bookmark. +\n\n\\<\\!-- image --\\>\n\nClick btn:[Rename]. .Verification\n\n\\<\\!-- image --\\>\n",
+    "plain": ":\\_mod-docs-content-type: PROCEDURE :experimental:\n\n# Renaming a bookmark\n\n[id=\"renaming-a-bookmark\\_{context}\"]\n\nYou can rename a bookmark to distinguish it from other bookmarks. If you have bookmarks to several folders that all share the same name, you can tell the bookmarks apart if you rename them.\n\nRenaming the bookmark does not rename the folder.\n\n- Check that the side bar lists the bookmark under the new name.\n\nProcedure . Right-click the bookmark in the side bar. . Select *Rename…*. +\n\n<!-- image -->\n\nIn the *Name* field, enter the new name for the bookmark. +\n\n<!-- image -->\n\nClick btn:[Rename]. .Verification\n\n<!-- image -->"
+  }
+}

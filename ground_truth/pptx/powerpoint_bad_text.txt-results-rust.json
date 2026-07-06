@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/pptx/powerpoint_bad_text.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 1,
+      "word_count": 15,
+      "character_count": 133
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_kind": "uri",
+      "source_uri": "ground_truth/pptx/powerpoint_bad_text.txt",
+      "final_uri": "ground_truth/pptx/powerpoint_bad_text.txt",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>X-Library The fully customisable and copyright- free standard content template collection exclusively for our customers</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"X-Library The fully  customisable  and copyright- free standard   content   template   collection exclusively   for   our   customers\"}]}",
+    "markdown": "X-Library The fully customisable and copyright- free standard content template collection exclusively for our customers\n",
+    "plain": "X-Library The fully  customisable  and copyright- free standard   content   template   collection exclusively   for   our   customers"
+  }
+}

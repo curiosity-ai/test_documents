@@ -1,0 +1,22 @@
+{
+  "file": "rtf/image.rtf",
+  "mime_type": "application/rtf",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "rtf/image.rtf",
+      "final_uri": "rtf/image.rtf",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p><img src=\"image_0.jpeg\" alt=\"image\" /></p>\n",
+    "json": "{\"body\":[{\"type\":\"image\",\"alt\":\"image\",\"src\":\"image_0.jpeg\"}]}",
+    "markdown": "![image](image_0.jpeg)\n",
+    "plain": "[Image: image]"
+  }
+}

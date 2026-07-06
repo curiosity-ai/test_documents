@@ -1,0 +1,28 @@
+{
+  "file": "ground_truth/ppsx/ppsx_slideshow.txt",
+  "mime_type": "text/plain",
+  "success": true,
+  "metadata": {
+    "format": {
+      "format_type": "text",
+      "line_count": 39,
+      "word_count": 110,
+      "character_count": 582
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_uri": "ground_truth/ppsx/ppsx_slideshow.txt",
+      "final_uri": "ground_truth/ppsx/ppsx_slideshow.txt",
+      "source_kind": "uri",
+      "source_index": 0
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<p>Class1\t\t\tClass2\t\t \tA merged with B\t\tC\tA\tB\tC R1\tTrue\tFalse\t\tFalse\tTrue\tTrue R2\t\t\tTrue\tFalse\t\t R3\tFalse\t\t\t\tFalse\t \t\tTrue\t\tTrue\t\t R4\t\t\tFalse\t\tFalse\t \t\tTrue\t\tTrue\tFalse\tFalse \tTrue\tFalse\tTrue\tFalse\tTrue\tFalse Test Table Slide With footnoteSecond slide title A rectangle shape with this text inside. Let’s introduce a list With foo Bar And baz things</p>\n<p>Notes: Some notes on the second slide. &lt;number&gt; List item4 List item5 List item6 l1 l2 l3 I 1 I2 I3 I4 S ome info: I tem A Item B M aybe a list? List1 List2 List3</p>\n<p>Notes: Final notes on the third slide. Second line of notes. &lt;number&gt;</p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"Class1\\t\\t\\tClass2\\t\\t\\n\\tA merged with B\\t\\tC\\tA\\tB\\tC\\nR1\\tTrue\\tFalse\\t\\tFalse\\tTrue\\tTrue\\nR2\\t\\t\\tTrue\\tFalse\\t\\t\\nR3\\tFalse\\t\\t\\t\\tFalse\\t\\n\\t\\tTrue\\t\\tTrue\\t\\t\\nR4\\t\\t\\tFalse\\t\\tFalse\\t\\n\\t\\tTrue\\t\\tTrue\\tFalse\\tFalse\\n\\tTrue\\tFalse\\tTrue\\tFalse\\tTrue\\tFalse\\nTest Table Slide\\nWith footnoteSecond slide title\\nA rectangle shape with this text inside.\\nLet’s introduce a list\\nWith foo\\nBar\\nAnd baz things\"},{\"type\":\"paragraph\",\"text\":\"Notes:\\nSome notes on the second slide. <number>\\nList item4\\nList item5\\nList item6\\nl1\\nl2\\nl3\\nI 1\\nI2\\nI3\\nI4\\nS ome info:\\nI tem A\\nItem B\\nM aybe a list?\\nList1\\nList2\\nList3\"},{\"type\":\"paragraph\",\"text\":\"Notes:\\nFinal notes on the third slide. Second line of notes. <number>\"}]}",
+    "markdown": "Class1&#9;&#9;&#9;Class2&#9;&#9; &#9;A merged with B&#9;&#9;C&#9;A&#9;B&#9;C R1&#9;True&#9;False&#9;&#9;False&#9;True&#9;True R2&#9;&#9;&#9;True&#9;False&#9;&#9; R3&#9;False&#9;&#9;&#9;&#9;False&#9; &#9;&#9;True&#9;&#9;True&#9;&#9; R4&#9;&#9;&#9;False&#9;&#9;False&#9; &#9;&#9;True&#9;&#9;True&#9;False&#9;False &#9;True&#9;False&#9;True&#9;False&#9;True&#9;False Test Table Slide With footnoteSecond slide title A rectangle shape with this text inside. Let’s introduce a list With foo Bar And baz things\n\nNotes: Some notes on the second slide. \\<number\\> List item4 List item5 List item6 l1 l2 l3 I 1 I2 I3 I4 S ome info: I tem A Item B M aybe a list? List1 List2 List3\n\nNotes: Final notes on the third slide. Second line of notes. \\<number\\>\n",
+    "plain": "Class1\t\t\tClass2\t\t\n\tA merged with B\t\tC\tA\tB\tC\nR1\tTrue\tFalse\t\tFalse\tTrue\tTrue\nR2\t\t\tTrue\tFalse\t\t\nR3\tFalse\t\t\t\tFalse\t\n\t\tTrue\t\tTrue\t\t\nR4\t\t\tFalse\t\tFalse\t\n\t\tTrue\t\tTrue\tFalse\tFalse\n\tTrue\tFalse\tTrue\tFalse\tTrue\tFalse\nTest Table Slide\nWith footnoteSecond slide title\nA rectangle shape with this text inside.\nLet’s introduce a list\nWith foo\nBar\nAnd baz things\n\nNotes:\nSome notes on the second slide. <number>\nList item4\nList item5\nList item6\nl1\nl2\nl3\nI 1\nI2\nI3\nI4\nS ome info:\nI tem A\nItem B\nM aybe a list?\nList1\nList2\nList3\n\nNotes:\nFinal notes on the third slide. Second line of notes. <number>"
+  }
+}

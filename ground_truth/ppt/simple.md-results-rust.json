@@ -1,0 +1,22 @@
+{
+  "file": "ground_truth/ppt/simple.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "source_index": 0,
+      "final_uri": "ground_truth/ppt/simple.md",
+      "source_uri": "ground_truth/ppt/simple.md",
+      "source_kind": "uri"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h2>Title Slide</h2>\n<p>With a subtitle</p>\n<p>Things to think about</p>\n<p>How much is enough?</p>\n<p>If not now when?</p>\n<p>Where have all the flowers gone?</p>\n<p>Who do you think you are?</p>\n<p>What were you thinking?</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Title Slide\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"With a subtitle\"},{\"type\":\"paragraph\",\"text\":\"Things to think about\"},{\"type\":\"paragraph\",\"text\":\"How much is enough?\"},{\"type\":\"paragraph\",\"text\":\"If not now when?\"},{\"type\":\"paragraph\",\"text\":\"Where have all the flowers gone?\"},{\"type\":\"paragraph\",\"text\":\"Who do you think you are?\"},{\"type\":\"paragraph\",\"text\":\"What were you thinking?\"}]}]}",
+    "markdown": "## Title Slide\n\nWith a subtitle\n\nThings to think about\n\nHow much is enough?\n\nIf not now when?\n\nWhere have all the flowers gone?\n\nWho do you think you are?\n\nWhat were you thinking?\n",
+    "plain": "  Title Slide\nWith a subtitle\n\nThings to think about\n\nHow much is enough?\n\nIf not now when?\n\nWhere have all the flowers gone?\n\nWho do you think you are?\n\nWhat were you thinking?"
+  }
+}

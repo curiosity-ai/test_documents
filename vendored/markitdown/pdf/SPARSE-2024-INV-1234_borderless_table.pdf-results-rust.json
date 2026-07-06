@@ -1,0 +1,178 @@
+{
+  "file": "vendored/markitdown/pdf/SPARSE-2024-INV-1234_borderless_table.pdf",
+  "mime_type": "application/pdf",
+  "success": true,
+  "extraction_method": "native",
+  "metadata": {
+    "title": "(anonymous)",
+    "subject": "(unspecified)",
+    "authors": [
+      "(anonymous)"
+    ],
+    "created_at": "2025-12-05T10:49:50Z",
+    "modified_at": "2025-12-05T10:49:50Z",
+    "created_by": "(unspecified)",
+    "format": {
+      "format_type": "pdf",
+      "pdf_version": "1.4",
+      "producer": "ReportLab PDF Library - www.reportlab.com",
+      "is_encrypted": false,
+      "width": 612,
+      "height": 792,
+      "page_count": 2
+    },
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "extraction_method": "native",
+      "source_uri": "vendored/markitdown/pdf/SPARSE-2024-INV-1234_borderless_table.pdf",
+      "final_uri": "vendored/markitdown/pdf/SPARSE-2024-INV-1234_borderless_table.pdf",
+      "source_index": 0,
+      "source_kind": "uri"
+    }
+  },
+  "tables": [
+    {
+      "cells": [
+        [
+          "Product Code",
+          "Category",
+          "Unit Cost",
+          "Total Value",
+          "Last Audit",
+          "Notes"
+        ],
+        [
+          "SKU-8847",
+          "Electronics",
+          "$45.00",
+          "$13,005.00",
+          "2024-10-15",
+          ""
+        ],
+        [
+          "SKU-9201",
+          "Hardware",
+          "$32.50",
+          "$25,285.00",
+          "2024-10-22",
+          "Verified"
+        ],
+        [
+          "SKU-4563",
+          "Software",
+          "$120.00",
+          "$18,720.00",
+          "",
+          "Critical"
+        ],
+        [
+          "SKU-7728",
+          "Accessories",
+          "$15.75",
+          "$14,726.25",
+          "2024-11-01",
+          ""
+        ],
+        [
+          "SKU-3345",
+          "Electronics",
+          "$67.00",
+          "$22,445.00",
+          "2024-10-18",
+          ""
+        ],
+        [
+          "SKU-5512",
+          "Hardware",
+          "$89.00",
+          "$31,150.00",
+          "",
+          "Pending"
+        ],
+        [
+          "SKU-6678",
+          "Software",
+          "$200.00",
+          "$42,000.00",
+          "2024-10-25",
+          "High Value"
+        ],
+        [
+          "SKU-7789",
+          "Accessories",
+          "$8.50",
+          "$5,950.00",
+          "2024-11-05",
+          ""
+        ],
+        [
+          "SKU-2234",
+          "Electronics",
+          "$125.00",
+          "$35,000.00",
+          "",
+          ""
+        ],
+        [
+          "SKU-1123",
+          "Hardware",
+          "$55.00",
+          "$27,500.00",
+          "2024-10-30",
+          "Verified"
+        ]
+      ],
+      "markdown": "| Product Code | Category | Unit Cost | Total Value | Last Audit | Notes |\n| --- | --- | --- | --- | --- | --- |\n| SKU-8847 | Electronics | $45.00 | $13,005.00 | 2024-10-15 |  |\n| SKU-9201 | Hardware | $32.50 | $25,285.00 | 2024-10-22 | Verified |\n| SKU-4563 | Software | $120.00 | $18,720.00 |  | Critical |\n| SKU-7728 | Accessories | $15.75 | $14,726.25 | 2024-11-01 |  |\n| SKU-3345 | Electronics | $67.00 | $22,445.00 | 2024-10-18 |  |\n| SKU-5512 | Hardware | $89.00 | $31,150.00 |  | Pending |\n| SKU-6678 | Software | $200.00 | $42,000.00 | 2024-10-25 | High Value |\n| SKU-7789 | Accessories | $8.50 | $5,950.00 | 2024-11-05 |  |\n| SKU-2234 | Electronics | $125.00 | $35,000.00 |  |  |\n| SKU-1123 | Hardware | $55.00 | $27,500.00 | 2024-10-30 | Verified |\n",
+      "page_number": 2,
+      "bounding_box": {
+        "x0": 93.5999984741211,
+        "y0": 465.20001220703125,
+        "x1": 518.3999633789062,
+        "y1": 685.2000122070312
+      }
+    },
+    {
+      "cells": [
+        [
+          "Summary",
+          "Statistics:",
+          "",
+          ""
+        ],
+        [
+          "Total",
+          "Variance",
+          "Cost:",
+          "$4,287.50"
+        ],
+        [
+          "Critical",
+          "Items:",
+          "1",
+          ""
+        ],
+        [
+          "Overall",
+          "Accuracy:",
+          "",
+          "97.2%"
+        ]
+      ],
+      "markdown": "| Summary | Statistics: |  |  |\n| --- | --- | --- | --- |\n| Total | Variance | Cost: | $4,287.50 |\n| Critical | Items: | 1 |  |\n| Overall | Accuracy: |  | 97.2% |\n",
+      "page_number": 1,
+      "bounding_box": {
+        "x0": 78.0,
+        "y0": 172.0,
+        "x1": 215.0,
+        "y1": 218.0
+      }
+    }
+  ],
+  "content": {
+    "html": "<h1>INVENTORY RECONCILIATION REPORT</h1>\n<p><strong>Report ID:</strong></p>\n<p>SPARSE-2024-INV-1234 <strong>Warehouse:</strong></p>\n<p>Distribution Center East <strong>Report Date:</strong></p>\n<p>2024-11-15 <strong>Prepared By:</strong></p>\n<p>Sarah Martinez</p>\n<h2>Product Code Location Expected Actual</h2>\n<h2>Variance Status</h2>\n<p>SKU-8847 A-12 450 B-07 289 SKU-9201 780 778 C-15 SKU-4563 D-22 156 180 SKU-7728 A-08 920 935 <strong>Variance Analysis:</strong></p>\n<p>-23 OK +15 CRITICAL -24 +15 OK</p>\n<table>\n<thead>\n<tr>\n<th>Summary</th>\n<th>Statistics:</th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Total</td>\n<td>Variance</td>\n<td>Cost:</td>\n<td>$4,287.50</td>\n</tr>\n<tr>\n<td>Critical</td>\n<td>Items:</td>\n<td>1</td>\n<td></td>\n</tr>\n<tr>\n<td>Overall</td>\n<td>Accuracy:</td>\n<td></td>\n<td>97.2%</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Detailed Analysis by Category:</strong></p>\n<p>The inventory reconciliation reveals several key findings. The primary variance driver is SKU-4563, which shows a -24 unit discrepancy requiring immediate investigation. Location B-07 handling of SKU-8847 also demonstrates significant variance. Cross-location verification protocols should be</p>\n<p>reviewed to prevent future discrepancies. The overall accuracy rate of 97.2% meets our target threshold, but critical items require expedited resolution to maintain operational efficiency.</p>\n<p><strong>Extended Inventory Review:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Product Code</th>\n<th>Category</th>\n<th>Unit Cost</th>\n<th>Total Value</th>\n<th>Last Audit</th>\n<th>Notes</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>SKU-8847</td>\n<td>Electronics</td>\n<td>$45.00</td>\n<td>$13,005.00</td>\n<td>2024-10-15</td>\n<td></td>\n</tr>\n<tr>\n<td>SKU-9201</td>\n<td>Hardware</td>\n<td>$32.50</td>\n<td>$25,285.00</td>\n<td>2024-10-22</td>\n<td>Verified</td>\n</tr>\n<tr>\n<td>SKU-4563</td>\n<td>Software</td>\n<td>$120.00</td>\n<td>$18,720.00</td>\n<td></td>\n<td>Critical</td>\n</tr>\n<tr>\n<td>SKU-7728</td>\n<td>Accessories</td>\n<td>$15.75</td>\n<td>$14,726.25</td>\n<td>2024-11-01</td>\n<td></td>\n</tr>\n<tr>\n<td>SKU-3345</td>\n<td>Electronics</td>\n<td>$67.00</td>\n<td>$22,445.00</td>\n<td>2024-10-18</td>\n<td></td>\n</tr>\n<tr>\n<td>SKU-5512</td>\n<td>Hardware</td>\n<td>$89.00</td>\n<td>$31,150.00</td>\n<td></td>\n<td>Pending</td>\n</tr>\n<tr>\n<td>SKU-6678</td>\n<td>Software</td>\n<td>$200.00</td>\n<td>$42,000.00</td>\n<td>2024-10-25</td>\n<td>High Value</td>\n</tr>\n<tr>\n<td>SKU-7789</td>\n<td>Accessories</td>\n<td>$8.50</td>\n<td>$5,950.00</td>\n<td>2024-11-05</td>\n<td></td>\n</tr>\n<tr>\n<td>SKU-2234</td>\n<td>Electronics</td>\n<td>$125.00</td>\n<td>$35,000.00</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>SKU-1123</td>\n<td>Hardware</td>\n<td>$55.00</td>\n<td>$27,500.00</td>\n<td>2024-10-30</td>\n<td>Verified</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Recommendations:</strong></p>\n<ol>\n<li>Immediate review of SKU-4563 handling procedures. 2. Implement additional verification for critical items. 3. Schedule follow-up audit for high-value products (SKU-6678, SKU-2234).</li>\n</ol>\n<p><strong>Approval:</strong></p>\n",
+    "json": "{\"body\":[{\"type\":\"paragraph\",\"text\":\"INVENTORY RECONCILIATION REPORT\"},{\"type\":\"paragraph\",\"text\":\"Report ID: SPARSE-2024-INV-1234\\nWarehouse: Distribution Center East\\nReport Date: 2024-11-15\\nPrepared By: Sarah Martinez\"},{\"type\":\"paragraph\",\"text\":\"Product Code Location Expected Actual\"},{\"type\":\"paragraph\",\"text\":\"SKU-8847 A-12 450\"},{\"type\":\"paragraph\",\"text\":\"B-07 289\"},{\"type\":\"paragraph\",\"text\":\"SKU-9201 780 778\"},{\"type\":\"paragraph\",\"text\":\"C-15\"},{\"type\":\"paragraph\",\"text\":\"SKU-4563 D-22 156\"},{\"type\":\"paragraph\",\"text\":\"180\"},{\"type\":\"paragraph\",\"text\":\"SKU-7728 A-08 920\"},{\"type\":\"paragraph\",\"text\":\"935\"},{\"type\":\"paragraph\",\"text\":\"Variance Analysis:\"},{\"type\":\"paragraph\",\"text\":\"Summary Statistics:\\nTotal Variance Cost: $4,287.50\\nCritical Items: 1\\nOverall Accuracy: 97.2%\"},{\"type\":\"paragraph\",\"text\":\"Detailed Analysis by Category:\"},{\"type\":\"paragraph\",\"text\":\"The inventory reconciliation reveals several key findings. The primary variance driver is SKU-4563,\\nwhich shows a -24 unit discrepancy requiring immediate investigation. Location B-07 handling of\\nSKU-8847 also demonstrates significant variance. Cross-location verification protocols should be\"},{\"type\":\"paragraph\",\"text\":\"Variance Status\"},{\"type\":\"paragraph\",\"text\":\"-23\"},{\"type\":\"paragraph\",\"text\":\"OK\"},{\"type\":\"paragraph\",\"text\":\"+15\"},{\"type\":\"paragraph\",\"text\":\"CRITICAL\"},{\"type\":\"paragraph\",\"text\":\"-24\"},{\"type\":\"paragraph\",\"text\":\"+15 OK\"},{\"type\":\"paragraph\",\"text\":\"reviewed to prevent future discrepancies. The overall accuracy rate of 97.2% meets our target\\nthreshold, but critical items require expedited resolution to maintain operational efficiency.\"},{\"type\":\"paragraph\",\"text\":\"Extended Inventory Review:\"},{\"type\":\"paragraph\",\"text\":\"Product Code\"},{\"type\":\"paragraph\",\"text\":\"SKU-8847\"},{\"type\":\"paragraph\",\"text\":\"SKU-9201\"},{\"type\":\"paragraph\",\"text\":\"SKU-4563\"},{\"type\":\"paragraph\",\"text\":\"SKU-7728\"},{\"type\":\"paragraph\",\"text\":\"SKU-3345\"},{\"type\":\"paragraph\",\"text\":\"SKU-5512\"},{\"type\":\"paragraph\",\"text\":\"SKU-6678\"},{\"type\":\"paragraph\",\"text\":\"SKU-7789\"},{\"type\":\"paragraph\",\"text\":\"SKU-2234\"},{\"type\":\"paragraph\",\"text\":\"SKU-1123\"},{\"type\":\"paragraph\",\"text\":\"Recommendations:\\n1. Immediate review of SKU-4563 handling procedures. 2. Implement additional verification for critical\\nitems. 3. Schedule follow-up audit for high-value products (SKU-6678, SKU-2234).\"},{\"type\":\"paragraph\",\"text\":\"Approval:\"},{\"type\":\"paragraph\",\"text\":\"Category Unit Cost\"},{\"type\":\"paragraph\",\"text\":\"Electronics $45.00\"},{\"type\":\"paragraph\",\"text\":\"Hardware $32.50\"},{\"type\":\"paragraph\",\"text\":\"Software $120.00\"},{\"type\":\"paragraph\",\"text\":\"Accessories $15.75\"},{\"type\":\"paragraph\",\"text\":\"Electronics $67.00\"},{\"type\":\"paragraph\",\"text\":\"Hardware $89.00\"},{\"type\":\"paragraph\",\"text\":\"Software $200.00\"},{\"type\":\"paragraph\",\"text\":\"Accessories $8.50\"},{\"type\":\"paragraph\",\"text\":\"Electronics $125.00\"},{\"type\":\"paragraph\",\"text\":\"Hardware $55.00\"},{\"type\":\"paragraph\",\"text\":\"Total Value Last Audit Notes\"},{\"type\":\"paragraph\",\"text\":\"$13,005.00 2024-10-15\"},{\"type\":\"paragraph\",\"text\":\"$25,285.00 2024-10-22 Verified\"},{\"type\":\"paragraph\",\"text\":\"$18,720.00 Critical\"},{\"type\":\"paragraph\",\"text\":\"$14,726.25 2024-11-01\"},{\"type\":\"paragraph\",\"text\":\"$22,445.00 2024-10-18\"},{\"type\":\"paragraph\",\"text\":\"$31,150.00 Pending\"},{\"type\":\"paragraph\",\"text\":\"$42,000.00 2024-10-25 High Value\"},{\"type\":\"paragraph\",\"text\":\"$5,950.00 2024-11-05\"},{\"type\":\"paragraph\",\"text\":\"$35,000.00\"},{\"type\":\"paragraph\",\"text\":\"$27,500.00 2024-10-30 Verified\"},{\"type\":\"table\",\"headers\":[\"Product Code\",\"Category\",\"Unit Cost\",\"Total Value\",\"Last Audit\",\"Notes\"],\"rows\":[[\"SKU-8847\",\"Electronics\",\"$45.00\",\"$13,005.00\",\"2024-10-15\",\"\"],[\"SKU-9201\",\"Hardware\",\"$32.50\",\"$25,285.00\",\"2024-10-22\",\"Verified\"],[\"SKU-4563\",\"Software\",\"$120.00\",\"$18,720.00\",\"\",\"Critical\"],[\"SKU-7728\",\"Accessories\",\"$15.75\",\"$14,726.25\",\"2024-11-01\",\"\"],[\"SKU-3345\",\"Electronics\",\"$67.00\",\"$22,445.00\",\"2024-10-18\",\"\"],[\"SKU-5512\",\"Hardware\",\"$89.00\",\"$31,150.00\",\"\",\"Pending\"],[\"SKU-6678\",\"Software\",\"$200.00\",\"$42,000.00\",\"2024-10-25\",\"High Value\"],[\"SKU-7789\",\"Accessories\",\"$8.50\",\"$5,950.00\",\"2024-11-05\",\"\"],[\"SKU-2234\",\"Electronics\",\"$125.00\",\"$35,000.00\",\"\",\"\"],[\"SKU-1123\",\"Hardware\",\"$55.00\",\"$27,500.00\",\"2024-10-30\",\"Verified\"]]},{\"type\":\"table\",\"headers\":[\"Summary\",\"Statistics:\",\"\",\"\"],\"rows\":[[\"Total\",\"Variance\",\"Cost:\",\"$4,287.50\"],[\"Critical\",\"Items:\",\"1\",\"\"],[\"Overall\",\"Accuracy:\",\"\",\"97.2%\"]]}]}",
+    "markdown": "# INVENTORY RECONCILIATION REPORT\n\n**Report ID:**\n\nSPARSE-2024-INV-1234 **Warehouse:**\n\nDistribution Center East **Report Date:**\n\n2024-11-15 **Prepared By:**\n\nSarah Martinez\n\n## Product Code Location Expected Actual\n\n## Variance Status\n\nSKU-8847 A-12 450 B-07 289 SKU-9201 780 778 C-15 SKU-4563 D-22 156 180 SKU-7728 A-08 920 935 **Variance Analysis:**\n\n\\-23 OK +15 CRITICAL -24 +15 OK\n\n| Summary | Statistics: |  |  |\n| --- | --- | --- | --- |\n| Total | Variance | Cost: | $4,287.50 |\n| Critical | Items: | 1 |  |\n| Overall | Accuracy: |  | 97.2% |\n\n**Detailed Analysis by Category:**\n\nThe inventory reconciliation reveals several key findings. The primary variance driver is SKU-4563, which shows a -24 unit discrepancy requiring immediate investigation. Location B-07 handling of SKU-8847 also demonstrates significant variance. Cross-location verification protocols should be\n\nreviewed to prevent future discrepancies. The overall accuracy rate of 97.2% meets our target threshold, but critical items require expedited resolution to maintain operational efficiency.\n\n**Extended Inventory Review:**\n\n| Product Code | Category | Unit Cost | Total Value | Last Audit | Notes |\n| --- | --- | --- | --- | --- | --- |\n| SKU-8847 | Electronics | $45.00 | $13,005.00 | 2024-10-15 |  |\n| SKU-9201 | Hardware | $32.50 | $25,285.00 | 2024-10-22 | Verified |\n| SKU-4563 | Software | $120.00 | $18,720.00 |  | Critical |\n| SKU-7728 | Accessories | $15.75 | $14,726.25 | 2024-11-01 |  |\n| SKU-3345 | Electronics | $67.00 | $22,445.00 | 2024-10-18 |  |\n| SKU-5512 | Hardware | $89.00 | $31,150.00 |  | Pending |\n| SKU-6678 | Software | $200.00 | $42,000.00 | 2024-10-25 | High Value |\n| SKU-7789 | Accessories | $8.50 | $5,950.00 | 2024-11-05 |  |\n| SKU-2234 | Electronics | $125.00 | $35,000.00 |  |  |\n| SKU-1123 | Hardware | $55.00 | $27,500.00 | 2024-10-30 | Verified |\n\n**Recommendations:**\n\n1. Immediate review of SKU-4563 handling procedures. 2. Implement additional verification for critical items. 3. Schedule follow-up audit for high-value products (SKU-6678, SKU-2234).\n\n**Approval:**\n",
+    "plain": "INVENTORY RECONCILIATION REPORT\n\nReport ID: SPARSE-2024-INV-1234\nWarehouse: Distribution Center East\nReport Date: 2024-11-15\nPrepared By: Sarah Martinez\n\nProduct Code Location Expected Actual\n\nSKU-8847 A-12 450\n\nB-07 289\n\nSKU-9201 780 778\n\nC-15\n\nSKU-4563 D-22 156\n\n180\n\nSKU-7728 A-08 920\n\n935\n\nVariance Analysis:\n\nSummary Statistics:\nTotal Variance Cost: $4,287.50\nCritical Items: 1\nOverall Accuracy: 97.2%\n\nDetailed Analysis by Category:\n\nThe inventory reconciliation reveals several key findings. The primary variance driver is SKU-4563,\nwhich shows a -24 unit discrepancy requiring immediate investigation. Location B-07 handling of\nSKU-8847 also demonstrates significant variance. Cross-location verification protocols should be\n\nVariance Status\n\n-23\n\nOK\n\n+15\n\nCRITICAL\n\n-24\n\n+15 OK\n\nreviewed to prevent future discrepancies. The overall accuracy rate of 97.2% meets our target\nthreshold, but critical items require expedited resolution to maintain operational efficiency.\n\nExtended Inventory Review:\n\nProduct Code\n\nSKU-8847\n\nSKU-9201\n\nSKU-4563\n\nSKU-7728\n\nSKU-3345\n\nSKU-5512\n\nSKU-6678\n\nSKU-7789\n\nSKU-2234\n\nSKU-1123\n\nRecommendations:\n1. Immediate review of SKU-4563 handling procedures. 2. Implement additional verification for critical\nitems. 3. Schedule follow-up audit for high-value products (SKU-6678, SKU-2234).\n\nApproval:\n\nCategory Unit Cost\n\nElectronics $45.00\n\nHardware $32.50\n\nSoftware $120.00\n\nAccessories $15.75\n\nElectronics $67.00\n\nHardware $89.00\n\nSoftware $200.00\n\nAccessories $8.50\n\nElectronics $125.00\n\nHardware $55.00\n\nTotal Value Last Audit Notes\n\n$13,005.00 2024-10-15\n\n$25,285.00 2024-10-22 Verified\n\n$18,720.00 Critical\n\n$14,726.25 2024-11-01\n\n$22,445.00 2024-10-18\n\n$31,150.00 Pending\n\n$42,000.00 2024-10-25 High Value\n\n$5,950.00 2024-11-05\n\n$35,000.00\n\n$27,500.00 2024-10-30 Verified\n\nProduct Code Category Unit Cost Total Value Last Audit Notes\nSKU-8847 Electronics $45.00 $13,005.00 2024-10-15 \nSKU-9201 Hardware $32.50 $25,285.00 2024-10-22 Verified\nSKU-4563 Software $120.00 $18,720.00  Critical\nSKU-7728 Accessories $15.75 $14,726.25 2024-11-01 \nSKU-3345 Electronics $67.00 $22,445.00 2024-10-18 \nSKU-5512 Hardware $89.00 $31,150.00  Pending\nSKU-6678 Software $200.00 $42,000.00 2024-10-25 High Value\nSKU-7789 Accessories $8.50 $5,950.00 2024-11-05 \nSKU-2234 Electronics $125.00 $35,000.00  \nSKU-1123 Hardware $55.00 $27,500.00 2024-10-30 Verified\n\nSummary Statistics:  \nTotal Variance Cost: $4,287.50\nCritical Items: 1 \nOverall Accuracy:  97.2%"
+  }
+}

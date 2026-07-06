@@ -1,0 +1,23 @@
+{
+  "file": "ground_truth/html/html.md",
+  "mime_type": "text/markdown",
+  "success": true,
+  "metadata": {
+    "title": "Main Heading",
+    "output_format": "plain",
+    "ocr_used": false,
+    "additional": {
+      "final_uri": "ground_truth/html/html.md",
+      "source_index": 0,
+      "source_kind": "uri",
+      "source_uri": "ground_truth/html/html.md"
+    }
+  },
+  "tables": [],
+  "content": {
+    "html": "<h1>Main Heading</h1>\n<h2>Sub Heading</h2>\n<p>Browsers usually insert quotation marks around the q element.</p>\n<p>WWF's goal is to: &quot;Build a future where people live in harmony with nature.&quot;</p>\n<p>![Test Image](https://example.com/test.jpg)</p>\n",
+    "json": "{\"body\":[{\"type\":\"section\",\"heading\":\"Main Heading\",\"level\":1,\"body\":[{\"type\":\"section\",\"heading\":\"Sub Heading\",\"level\":2,\"body\":[{\"type\":\"paragraph\",\"text\":\"Browsers usually insert quotation marks around the q element.\"},{\"type\":\"paragraph\",\"text\":\"WWF's goal is to: \\\"Build a future where people live in harmony with nature.\\\"\"},{\"type\":\"paragraph\",\"text\":\"![Test Image](https://example.com/test.jpg)\"}]}]}]}",
+    "markdown": "# Main Heading\n\n## Sub Heading\n\nBrowsers usually insert quotation marks around the q element.\n\nWWF's goal is to: \"Build a future where people live in harmony with nature.\"\n\n\\![Test Image](https://example.com/test.jpg)\n",
+    "plain": "Main Heading\n  Sub Heading\nBrowsers usually insert quotation marks around the q element.\n\nWWF's goal is to: \"Build a future where people live in harmony with nature.\"\n\n![Test Image](https://example.com/test.jpg)"
+  }
+}
