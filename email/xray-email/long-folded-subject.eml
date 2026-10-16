@@ -1,0 +1,10 @@
+From: alice@example.com
+To: bob@example.com
+Subject: This subject is long enough that it was folded across
+	several lines by the sending mail client, using a tab
+  and then spaces
+Date: Sun, 21 Jan 2024 21:21:21 +0000
+MIME-Version: 1.0
+Content-Type: text/plain
+
+Folding test.

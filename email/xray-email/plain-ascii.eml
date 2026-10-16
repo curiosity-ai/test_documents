@@ -1,0 +1,14 @@
+From: Alice Example <alice@example.com>
+To: Bob Example <bob@example.com>
+Subject: Plain ASCII message
+Date: Tue, 02 Jan 2024 03:04:05 +0000
+Message-ID: <plain-ascii@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hello Bob,
+
+This is a plain text message with nothing unusual in it.
+
+Alice

@@ -1,0 +1,6 @@
+From: old@example.com
+To: new@example.com
+Subject: Obsolete date syntax
+Date: 5 Jan 99 13:04 EST (Eastern Standard Time)
+
+Two-digit year, no day of week, no seconds, a named zone and a comment.

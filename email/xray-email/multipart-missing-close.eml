@@ -1,0 +1,19 @@
+From: alice@example.com
+To: bob@example.com
+Subject: Multipart without a closing boundary
+Date: Sat, 20 Jan 2024 20:20:20 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=simple
+
+--simple  	
+Content-Type: text/plain
+
+First part; its boundary line carries trailing whitespace.
+--simple
+
+Second part has no headers at all, so it is text/plain by default.
+--simple
+Content-Type: text/plain; name="tail.txt"
+Content-Disposition: attachment; filename="tail.txt"
+
+The message ends without a closing boundary.

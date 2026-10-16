@@ -1,0 +1,23 @@
+From: "Example, Alice" <alice@example.com>
+To: bob@example.com
+Subject: Alternative text and HTML
+Date: Thu, 04 Jan 2024 08:30:00 -0500
+Message-ID: <alternative@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="alt-boundary"
+
+This is the preamble. It is not part of any body.
+
+--alt-boundary
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Plain version of the message.
+--alt-boundary
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><body><p>HTML version of the <b>message</b>.</p></body></html>
+--alt-boundary--
+
+This is the epilogue. It is not part of any body either.

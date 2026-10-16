@@ -1,0 +1,9 @@
+From: writer@example.com
+To: editor@example.com
+Subject: Smart quotes in Windows-1252
+Date: Fri, 19 Jan 2024 19:19:19 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+=93Quoted=94 text =96 with an en dash and =80 euro.

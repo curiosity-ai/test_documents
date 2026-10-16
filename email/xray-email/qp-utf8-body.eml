@@ -1,0 +1,12 @@
+From: Ren=?utf-8?Q?=C3=A9?= <rene@example.com>
+To: bob@example.com
+Subject: Quoted-printable UTF-8 body
+Date: Sun, 07 Jan 2024 07:07:07 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Caf=C3=A9 cr=C3=A8me br=C3=BBl=C3=A9e, na=C3=AFve fa=C3=A7ade.  =20
+This line is long enough that the encoder had to break it with a soft line =
+break, which the decoder must remove.
+Euro sign: =E2=82=AC, emoji: =F0=9F=98=80.
