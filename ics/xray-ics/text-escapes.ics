@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//X-Ray.Ics//fixtures//EN
+BEGIN:VEVENT
+UID:esc-1@example.com
+DTSTAMP:20260101T080000Z
+DTSTART:20260203T090000Z
+SUMMARY:Semi\; comma\, backslash\\ done
+DESCRIPTION:Line1\nLine2\NLine3\, with comma\; and semi \\ and path C:\Users\x and colon\: end
+LOCATION:Hall 1\, 2nd floor
+COMMENT:Quote \" mark
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//X-Ray.Ics//fixtures//EN
+BEGIN:VEVENT
+UID:folded-1@example.com
+DTSTAMP:20260101T080000Z
+DTSTART:20260106T090000Z
+DTEND:20260106T100000Z
+SUMMARY:A very long subject line that has to be folded because it is far lo
+ nger than seventy-five octets in total
+DESCRIPTION:Line one of a description that is also long enough to need fold
+ ing across several physical lines\nand a second paragraph that continues f
+ or a good while more so the fold lands in odd places
+ORGANIZER;CN=Fold Tester:mailto:fold@example.com
+END:VEVENT
+END:VCALENDAR

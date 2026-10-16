@@ -1,0 +1,20 @@
+From: Dana <dana@example.com>
+To: Erin <erin@example.com>, frank@example.com
+Bcc: Gus <gus@example.com>
+Subject: Plain text with <angle> & ampersand
+Date: Wed, 10 Jan 2024 17:45:00 +0100
+Message-ID: <plain-urls@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hi Erin,
+
+  Indented line with <b>markup</b> that must stay text & not become bold.
+	Tab-indented line.
+
+See https://example.com/path?a=1&b=2, or www.example.org/docs.
+Mail me at dana@example.com (not a link).
+
+Thanks,
+Dana

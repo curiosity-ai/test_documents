@@ -1,0 +1,3 @@
+# Line endings, BOMs and code pages are part of these fixtures: never normalise them.
+* -text
+*.ics binary

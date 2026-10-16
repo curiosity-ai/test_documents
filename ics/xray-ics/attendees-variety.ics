@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//X-Ray.Ics//fixtures//EN
+BEGIN:VEVENT
+UID:att-1@example.com
+DTSTAMP:20260101T080000Z
+DTSTART:20260201T090000Z
+DTEND:20260201T100000Z
+SUMMARY:Attendee variety
+ORGANIZER;CN=Olivia Organizer;SENT-BY="mailto:assistant@example.com":mailto:Olivia@Example.COM
+ATTENDEE;CN=Required One;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE:mailto:req1@example.com
+ATTENDEE:mailto:nocn@example.com
+ATTENDEE;CN="Comma, Name; Semi";PARTSTAT=TENTATIVE:mailto:comma@example.com
+ATTENDEE;CN=Optional Person;ROLE=OPT-PARTICIPANT;PARTSTAT=DECLINED;RSVP=FALSE:MAILTO:opt1@example.com
+ATTENDEE;CN=Optional Two;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION:mailto:opt2@example.com
+ATTENDEE;CN=Chair Person;ROLE=CHAIR;PARTSTAT=ACCEPTED:mailto:chair@example.com
+ATTENDEE;CN=Observer;ROLE=NON-PARTICIPANT:mailto:observer@example.com
+ATTENDEE;CN=Board Room;CUTYPE=ROOM;ROLE=NON-PARTICIPANT;PARTSTAT=ACCEPTED:mailto:room1@example.com
+ATTENDEE;CN=Projector;CUTYPE=RESOURCE:mailto:projector@example.com
+ATTENDEE;CN=Dev Team;CUTYPE=GROUP;MEMBER="mailto:dev@example.com":mailto:team@example.com
+ATTENDEE;CN=Delegate;PARTSTAT=DELEGATED;DELEGATED-TO="mailto:deputy@example.com":mailto:boss@example.com
+ATTENDEE;CN=Deputy;DELEGATED-FROM="mailto:boss@example.com";PARTSTAT=ACCEPTED:mailto:deputy@example.com
+ATTENDEE;CN=Apple Style;EMAIL=apple@example.com:/principals/users/apple/
+ATTENDEE;CN=Urn Style;EMAIL=urn@example.com:urn:uuid:11111111-2222-3333-4444-555555555555
+ATTENDEE;CN=Exchange DN:/O=EXAMPLE/OU=FIRST/cn=Recipients/cn=ex1
+ATTENDEE;CN=Bare Address:bare@example.com
+ATTENDEE;CN=Ünïcode Näme;PARTSTAT=ACCEPTED:mailto:unicode@example.com
+END:VEVENT
+END:VCALENDAR
