@@ -1,0 +1,4 @@
+From: alice@example.com
+To: bob@example.com
+Subject: Headers only, no body
+Date: Mon, 22 Jan 2024 22:22:22 +0000

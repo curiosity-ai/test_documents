@@ -1,0 +1,9 @@
+From alice@example.com Tue Jan 23 23:23:23 2024
+Return-Path: <alice@example.com>
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Message saved from an mbox file
+Date: Tue, 23 Jan 2024 23:23:23 +0000
+Content-Type: text/plain
+
+The first line of this file is an mbox separator, not a header.

@@ -1,0 +1,17 @@
+FROM: Alice <alice@example.com>
+to: bob@example.com
+SUBJECT: Header names in odd case
+date: Thu, 25 Jan 2024 09:00:00 GMT
+mime-version: 1.0
+content-type: MULTIPART/ALTERNATIVE; BOUNDARY=CaseBoundary
+
+--CaseBoundary
+CONTENT-TYPE: TEXT/PLAIN; CHARSET=UTF-8
+content-transfer-encoding: QUOTED-PRINTABLE
+
+Upper case everywhere =E2=9C=93
+--CaseBoundary
+Content-Type: text/html; charset=utf-8
+
+<p>Upper case everywhere</p>
+--CaseBoundary--

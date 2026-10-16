@@ -1,0 +1,10 @@
+From: alice@example.com
+To: bob@example.com
+Subject: Base64 UTF-8 body
+Date: Mon, 08 Jan 2024 08:08:08 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+R3LDvMOfZSBhdXMgS8O2bG4hIM6VzrvOu863zr3Ouc66zqwsINGA0YPRgdGB0LrQuNC5LCDml6Xm
+nKzoqp4sINei15HXqNeZ16ouCg==

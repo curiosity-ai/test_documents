@@ -1,0 +1,9 @@
+From: Zoë Ångström <zoe@example.com>
+To: Ünal Çelik <unal@example.com>
+Subject: Raw UTF-8 headers (RFC 6532): ça marche
+Date: Sun, 14 Jan 2024 14:14:14 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Body in raw UTF-8: ça marche très bien.

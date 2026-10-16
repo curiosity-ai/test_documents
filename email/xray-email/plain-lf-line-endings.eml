@@ -1,0 +1,7 @@
+From: alice@example.com
+To: bob@example.com
+Subject: Bare LF line endings
+Date: Wed, 03 Jan 2024 10:00:00 +0100
+
+Every line of this message ends in a bare LF,
+as files saved on Unix often do.

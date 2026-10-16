@@ -1,0 +1,39 @@
+From: alice@example.com
+To: bob@example.com
+Subject: Attachment names in every encoding
+Date: Mon, 15 Jan 2024 15:15:15 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="names"
+
+--names
+Content-Type: text/plain
+
+Four attachments with non-ASCII names.
+--names
+Content-Type: application/pdf
+Content-Disposition: attachment; filename*=utf-8''r%C3%A9sum%C3%A9.pdf
+Content-Transfer-Encoding: base64
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZy9QYWdlcyAyIDAgUj4+ZW5kb2JqCjIgMCBv
+Ymo8PC9UeXBlL1BhZ2VzL0tpZHNbXS9Db3VudCAwPj5lbmRvYmoKdHJhaWxlcjw8L1Jvb3QgMSAw
+IFI+PgolJUVPRgo=
+--names
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: attachment;
+ filename*0*=utf-8''%E9%95%B7%E3%81%84%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB;
+ filename*1*=%E5%90%8D.txt
+
+long name in two RFC 2231 sections
+--names
+Content-Type: image/png; name="=?utf-8?B?w7xiZXJzaWNodC5wbmc=?="
+Content-Disposition: attachment
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4nGNgAAACAAFUok9fAAAA
+AElFTkSuQmCC
+--names
+Content-Type: text/plain; name="plain; with \"quotes\".txt"
+Content-Disposition: attachment; filename="plain; with \"quotes\".txt"
+
+quoted name with a semicolon
+--names--

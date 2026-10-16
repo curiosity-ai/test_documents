@@ -1,0 +1,39 @@
+From: Alice <alice@example.com>
+To: Bob <bob@example.com>
+Subject: Newsletter with an inline image
+Date: Sat, 06 Jan 2024 09:15:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="outer"
+
+--outer
+Content-Type: multipart/alternative; boundary="middle"
+
+--middle
+Content-Type: text/plain; charset=utf-8
+
+Text part of the newsletter.
+--middle
+Content-Type: multipart/related; boundary="inner"; type="text/html"
+
+--inner
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Look:</p><img src=3D"cid:logo@example.com" alt=3D"logo"></bod=
+y></html>
+--inner
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-ID: <logo@example.com>
+Content-Disposition: inline; filename="logo.png"
+
+iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4nGNgAAACAAFUok9fAAAA
+AElFTkSuQmCC
+--inner--
+--middle--
+--outer
+Content-Type: text/plain; charset=utf-8; name="notes.txt"
+Content-Disposition: attachment; filename="notes.txt"
+
+Attached notes.
+--outer--
