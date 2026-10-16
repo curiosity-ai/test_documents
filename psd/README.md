@@ -23,3 +23,10 @@ and bitmap modes, an embedded PSB smart object, layer comps, guides, slices) fro
 `605ee1284952c18c649ba60ebe73df4dabca9fbb`, `tests/psd_files/`. Their paths are kept relative to
 that folder. Copyright (c) 2019 Kota Yamaguchi, MIT License; the full text is in
 `psd-tools/LICENSE` and the attribution in `psd-tools/NOTICE`.
+
+## `ag-psd/`
+
+`text-path.psd` is `test/read/text-path/src.psd` from
+[ag-psd](https://github.com/Agamnentzar/ag-psd), version 31.0.3: the one Photoshop file in the
+corpus with type on a path. Copyright (c) 2016 Agamnentzar, MIT License; the full text is in
+`ag-psd/LICENSE`.
