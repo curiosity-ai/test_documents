@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//X-Ray.Ics//fixtures//EN
+BEGIN:VEVENT
+UID:uq@example.com
+DTSTART:20260105T100000Z
+ATTENDEE;CN="Unclosed quote;ROLE=CHAIR:mailto:uq@example.com
+SUMMARY:After unclosed quote
+END:VEVENT
+END:VCALENDAR

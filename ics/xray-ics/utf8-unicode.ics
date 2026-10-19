@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//X-Ray.Ics//fixtures//EN
+BEGIN:VEVENT
+UID:utf8-1@example.com
+DTSTAMP:20260101T080000Z
+DTSTART:20260107T090000Z
+DTEND:20260107T100000Z
+SUMMARY:Réunion équipe – Café ☕ 日本語 😀
+DESCRIPTION:Zażółć gęślą jaźń\nΕλληνικά\nРусский текст
+LOCATION:München, Straße 5
+ORGANIZER;CN="Zoë Müller":mailto:zoe@example.com
+END:VEVENT
+END:VCALENDAR

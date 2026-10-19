@@ -1,0 +1,39 @@
+From: Mallory <mallory@example.com>
+To: Bob <bob@example.com>
+Cc: Carol <carol@example.com>
+Subject: Active content that must not run
+Date: Mon, 08 Jan 2024 10:30:00 +0000
+Message-ID: <script-and-handlers@example.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="windows-1252">
+<meta http-equiv="refresh" content="0;url=http://example.com/">
+<base href="http://example.com/">
+<title>ignored title</title>
+<style>
+<!--
+p.note { color: #336699; background: url(javascript:alert(1)); width: expression(alert(2)); }
+@import url(http://example.com/tracker.css);
+-->
+</style>
+<script>alert('head script');</script>
+</head>
+<body bgcolor="#f0f0f0" text="#202020" onload="alert('body onload')">
+<p class="note" onclick="alert('click')">Quarterly report: <b>please read</b>.</p>
+<script type="text/javascript">document.write('<p>injected</p>');</script>
+<p><a href="javascript:alert(3)">javascript link</a> and <a href="https://example.com/report">a normal link</a>.</p>
+<p><a href=" JaVa&#x09;ScRiPt:alert(4)">obfuscated link</a></p>
+<img src="x" onerror="alert(5)" alt="broken image">
+<iframe src="http://example.com/frame"></iframe>
+<object data="http://example.com/o.swf"></object>
+<svg onload="alert(6)"><a xlink:href="javascript:alert(7)"><text>svg</text></a></svg>
+<form action="javascript:alert(8)"><input type="submit" onfocus="alert(9)" value="Send"></form>
+<p style="color:red;background:url('javascript:alert(10)')">styled</p>
+<noscript><img src="http://example.com/pixel.gif"></noscript>
+</body>
+</html>

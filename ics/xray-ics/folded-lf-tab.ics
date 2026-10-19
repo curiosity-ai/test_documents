@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//X-Ray.Ics//fixtures//EN
+BEGIN:VEVENT
+UID:folded-lf@example.com
+DTSTAMP:20260101T080000Z
+DTSTART:20260106T090000Z
+SUMMARY:Tab folded su
+	bject continues here
+DESCRIPTION:one
+ two
+	three
+END:VEVENT
+END:VCALENDAR
