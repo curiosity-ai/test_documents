@@ -1,0 +1,133 @@
+# 3d-synthetic
+
+Test files for the 3D / CAD readers of X-Ray.3D (curiosity-ai/x-ray-others, `XRay.3D/`). Every file is listed in the dataset
+manifest, which is copied machine-readable to `3d/manifest.json` (paths relative to this repository root). The files are third-party
+data (or generated fixtures) used as published: their bytes and sha256 must not be changed. Mapping from the dataset layout: `3d/PATHS.md`.
+
+Licences in this folder: CC0 1.0 (public domain dedication, https://creativecommons.org/publicdomain/zero/1.0/).
+
+| File | Title | Licence | Source | Bytes | sha256 |
+|---|---|---|---|---|---|
+| `assembly.3dxml` | Synthetic 3DXML assembly (ZIP package with a part representation) | CC0-1.0 | tools/fixtures/make_3dxml.py | 1544 | `ec878badd23ec9ae43ee0e776a47c577dada54811526b5f37fed919790bd5a16` |
+| `assembly.FCStd` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 1680 | `398067c9737697f67de0215817128938132895807a6d716978753c6f9a6ee4fb` |
+| `bare.x_t` | Parasolid transmit header (placeholder node stream) | CC0-1.0 | tools/fixtures/make_parasolid_fixtures.py | 111 | `5d0653b6f1eff22609f9f5a0d013744e3250f89aecdad345fac4a180a8a6acf5` |
+| `blend-units/shapes-mm.blend` | The same Blender shapes at unit scale 0.001, gzip-compressed | CC0-1.0 | tools/fixtures/make_blend_units.py | 142824 | `a6f664b623c3dea016af725a76297c12ed6df939f85f680029f47d1bf08bd2be` |
+| `blend-units/shapes.blend` | Blender shapes of known volume (cube, cylinder, sphere, torus, Suzanne), a mirrored cube, a sheared child, collection instances, UVs and a texture | CC0-1.0 | tools/fixtures/make_blend_units.py | 141315 | `68483fe25a0c0bed91e93c6ca0ec99879fd92e2f33e94f7791d0bebc52f83ae3` |
+| `blend-units/units-cm.blend` | Blender scene at unit scale 0.01 (centimetres): a 30 cm cube | CC0-1.0 | tools/fixtures/make_blend_units.py | 86615 | `ec8b7f1aeb12839f8db9177b00f3980149981e8c0a50ae5cbd3a9093e994d36c` |
+| `blend-units/units-inch.blend` | Blender scene, imperial inches, unit scale 0.0254: a 10 inch cube | CC0-1.0 | tools/fixtures/make_blend_units.py | 86553 | `b5129a8637c7babe0fa7c8c833aada3ebf6861e7da401f98f07be4716df11aca` |
+| `blend-units/units-km.blend` | Blender scene at unit scale 1000 (kilometres): a 0.5 km cube | CC0-1.0 | tools/fixtures/make_blend_units.py | 86563 | `a038bafbb3e1052a405288145ebbd8edcae5286053f8224a1b9f0d4d7ca1f7c6` |
+| `blend-units/units-m.blend` | Blender scene at unit scale 1 (metres): a 2 m cube | CC0-1.0 | tools/fixtures/make_blend_units.py | 86538 | `3211ca0e48f8d89048f02f2e86dd0295e1987c3ceaac3ac8a0ebe27f98e698d2` |
+| `blend-units/units-mm.blend` | Blender scene at unit scale 0.001 (millimetres): a 20 mm cube | CC0-1.0 | tools/fixtures/make_blend_units.py | 194242 | `0f563fdb49f8cf8a1ad30e3543e7c7f10681b871ddff5fb3b52e9638071a9c44` |
+| `blend-units/units-none.blend` | Blender scene with unit system None (scale 0.001 is ignored): a 2 unit cube | CC0-1.0 | tools/fixtures/make_blend_units.py | 86594 | `203c2f847f2bf8ea225240c8916b625733524db360eb0c752d29a80eb0234d7d` |
+| `blend-units/units-odd.blend` | Blender scene at unit scale 0.0125 (no named unit): an 8 unit cube | CC0-1.0 | tools/fixtures/make_blend_units.py | 86571 | `bf595d1f4d240d1afaa1ddccbde8cdf3d5908b1881c1feeb65cdcbafde9abe5c` |
+| `blend/scene-gzip.blend` | Synthetic Blender 5.2 scene (collections, parenting, rotation modes, instances, materials) | CC0-1.0 | tools/fixtures/make_blend.py | 95654 | `1b708ab87cabff5ac193380edaccf57dfc72ac30cfda2da5e6f57a5bf5c667fb` |
+| `blend/scene-raw.blend` | Synthetic Blender 5.2 scene (collections, parenting, rotation modes, instances, materials) | CC0-1.0 | tools/fixtures/make_blend.py | 304824 | `612ba9893283c35444703f8e3e8716ce52b5fc8084c4ced0fd83229c145ef217` |
+| `blend/scene-zstd.blend` | Synthetic Blender 5.2 scene (collections, parenting, rotation modes, instances, materials) | CC0-1.0 | tools/fixtures/make_blend.py | 94972 | `8a0d4417975c0b6168d35ee5f9663d8c6eb045432dc3b47488f06f946e034548` |
+| `box-700.sab` | ACIS fixture (ezdxf exporter or hand-written layout) | CC0-1.0 | tools/fixtures/make_sat_fixtures.py | 5536 | `2017efdc7fcc2a40a5bdc3dfba6efb83a3469b45892f7b69cacc52a97cc48d2d` |
+| `box-700.sat` | ACIS fixture (ezdxf exporter or hand-written layout) | CC0-1.0 | tools/fixtures/make_sat_fixtures.py | 4175 | `c5bf261d739b4a31f834eaf8e01cc6bfa839ca7dba9b956c97685417d0485eed` |
+| `building.ifc` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 8109 | `58245973a40be9a351baeb85ec3f59fd186aaf9d8481834fb2a6d066e1fdaa2e` |
+| `catia-assembly.CATProduct` | Hand-made CATIA V5 document in the V5_CFV2 layout (written by tools/fixtures/make_fixtures.py) | CC0-1.0 | original work | 3293 | `359dc300ac29cd3053c4c5a37bb193816a3c07127fdfc8c3b6c619abd4bf9ab0` |
+| `catia-cube-r32.CATPart` | Hand-made CATIA V5 document in the V5_CFV2 layout (written by tools/fixtures/make_fixtures.py) | CC0-1.0 | original work | 4032 | `9a61c91d39e2756923740baf34e8080ac4d9344239b4090ad95011dd6fe01680` |
+| `catia-cube.CATPart` | Hand-made CATIA V5 document in the V5_CFV2 layout (written by tools/fixtures/make_fixtures.py) | CC0-1.0 | original work | 4024 | `72d7ca831fe6f772f28dabbe2c0b59e83a1e1ba72d9ae5db845af3791bbcc33c` |
+| `catia-drawing.CATDrawing` | Hand-made CATIA V5 document in the V5_CFV2 layout (written by tools/fixtures/make_fixtures.py) | CC0-1.0 | original work | 1841 | `c93133d7ea34800837a0d76307af91bc08ad293fe5f70ed065a256397407fce5` |
+| `cube-ascii.ply` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 465 | `4e2bf38b867e240cb9458dd71194182d8dabf505673a9d4dcc2f9dcd15a53ab5` |
+| `cube-ascii.stl` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 1433 | `0c3996b7cfdc835c0159ea20cd315b2d6bdca19495338eeda97ab0518820ef5b` |
+| `cube-binary-big.ply` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 521 | `68c82b629731c8cc90d624ac1e552a524115ae2ee62bd1dde05741386234ee44` |
+| `cube-binary-little.ply` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 524 | `9111bc53e360548e425d5a039ff86e83b4e8f2e2dd9552a97dd696386253d5ad` |
+| `cube-binary.stl` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 684 | `4892d94ad0a2e2eb2870eb01ccde1d91f480639164f4800788672500ebcd51c6` |
+| `cylinder-400.sat` | ACIS fixture (ezdxf exporter or hand-written layout) | CC0-1.0 | tools/fixtures/make_sat_fixtures.py | 1143 | `c1e746999410397396e46c7a446a4380b25ae08272fe7e048f7148103b8bcfcd` |
+| `design-description.f3z` | Synthetic Fusion packages | CC0-1.0 | tools/fixtures/make_f3z.py | 2356 | `2f463394449485c97df3915c9466e5a706f04c0aac52c7ade239725b9a0867f6` |
+| `disc-embedded.x_t` | Parasolid transmit file that embeds its schema as edits to the 13006 base: the circular sheet again, with an edited BODY and a type declared in full | CC0-1.0 | tools/fixtures/make_parasolid_fixtures.py | 1098 | `1de446fe9503bf70d88bbe47026dc3cf81bce13e26bda8ac8112379db6827867` |
+| `disc.x_t` | Parasolid 12 transmit file: a circular sheet with a colour attribute | CC0-1.0 | tools/fixtures/make_parasolid_fixtures.py | 929 | `8551a38c39738f3deb08017462d1b8f7beb106d0e631db9ae343aa82bcbec7b4` |
+| `drawing.dwfx` | DWFx (XPS) page written from the schema | CC0-1.0 | tools/fixtures/make_dwfx_fixture.py | 1964 | `8f702177fec9b4a19a0140200b8fe2313b4b1a5254d4120a90feb89ece1d705a` |
+| `drawing.dxf` | Hand-made fixture: DXF drawing with rotated text, MTEXT, SOLID, solid HATCH with a hole and a block used twice | CC0-1.0 | tools/fixtures/make_fixtures.py | 1473 | `2de43edb2d852a70f4651b5227e428386212dd82075150f35939a61b2b2fc4b6` |
+| `e57-two-scans.e57` | Synthetic E57 with two scans (colour, intensity, pose) written with pye57 | CC0-1.0 | tools/fixtures/make_e57_fixtures.py | 54272 | `08027678ddd04d84ef86cbaeb16ca4a0552d1d8396e4709bdb6e85aac2c2b1b4` |
+| `gdl-solids.gsm` | Synthetic Archicad library part with GDL scripts | CC0-1.0 | tools/fixtures/make_gsm.py | 1884 | `d45ca9f13950953aa05ce05233be6bdf4c2e5fd949137b760adcb9bbaa2deacc` |
+| `geometry-2017.skp` | Synthetic SketchUp 2017 file with geometry in the MFC object-stream layout (plate with a hole placed twice) | CC0-1.0 | tools/fixtures/make_skp_legacy_geometry.py | 1883 | `cb901d3f32ea4bdcd19d88bcc46887d177914301465bdf3c0e01b49ef97eb5c4` |
+| `geometry-2021.skp` | Synthetic SketchUp 2021 file with geometry (plate with a hole, a cube component placed twice) | CC0-1.0 | tools/fixtures/make_skp_geometry.py | 1789 | `8704ef8c01b42c209eccfc22a5bc0b191e83ee39e2b5d97d7195447b9bb6f8db` |
+| `header.x_b` | Parasolid transmit header (placeholder node stream) | CC0-1.0 | tools/fixtures/make_parasolid_fixtures.py | 114 | `177bca29e82521d464c49405bd3914137e8b95f58244b286f0cc27a967c5e9f9` |
+| `header.x_t` | Parasolid transmit header (placeholder node stream) | CC0-1.0 | tools/fixtures/make_parasolid_fixtures.py | 570 | `feae8e5e1b0a67f6dad3f00ceb2996cc6232c4a248cd961cd5d82342422ccb37` |
+| `hexprism-700.sat` | ACIS fixture (ezdxf exporter or hand-written layout) | CC0-1.0 | tools/fixtures/make_sat_fixtures.py | 6496 | `f752aa756e15a7ce297665857436c0e92f1f6fa808ef6dbb5a0977af96115c07` |
+| `home.sh3d` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 1068 | `482e112a1e7afe774b8cf6d59bab4c79d184a7219e2e39f646fafcea70889985` |
+| `ifcxml-wall.ifc` | Hand-written wall model as ifcXML and as STEP (the pair describes one model) | CC0-1.0 | hand-written | 1921 | `a7a59529ca08dae966a0e4fd39e1c16356ec8cf2861d9ea5ff161514b9348230` |
+| `ifcxml-wall.ifcxml` | Hand-written wall model as ifcXML and as STEP (the pair describes one model) | CC0-1.0 | hand-written | 4781 | `66af4f0a58a9aef91fee58bdcf8672986d8b10c053a300e7a91ad6468726b517` |
+| `iges-bounded-plane.igs` | Hand-written IGES with 114, 118, 108 and 112 entities (OpenCASCADE oracle) | CC0-1.0 | tools/fixtures/make_iges_splines.py | 2268 | `1edaf7ee4d765911209838a3a18611a24837c5182af32496a6beb3ae0746e2ad` |
+| `iges-brep-quadrics.igs` | Plate written by OpenCASCADE's IGES writer | CC0-1.0 | tools/fixtures/make_iges_surfaces.py | 27297 | `8e96e09add0219f10d859ff44d8a0ed259290836c80d9888905c62408310ae33` |
+| `iges-nurbs-brep.igs` | Plate written by OpenCASCADE's IGES writer | CC0-1.0 | tools/fixtures/make_iges_surfaces.py | 37908 | `e1f3ef73aaaafdd42587653e2d039bcf6d79c65c6e874998280f506c285d90eb` |
+| `iges-nurbs-faces.igs` | Plate written by OpenCASCADE's IGES writer | CC0-1.0 | tools/fixtures/make_iges_surfaces.py | 47547 | `c666de119138ea2d3730dc971c72df0ab5073aad698dcc63b3c7d05f886dbca4` |
+| `iges-ruled.igs` | Hand-written IGES with 114, 118, 108 and 112 entities (OpenCASCADE oracle) | CC0-1.0 | tools/fixtures/make_iges_splines.py | 2511 | `d8e518e26e5e55c4cfaf13d509dc534819a1419cb9d4a91ad59e78d826b4a241` |
+| `iges-spline-curve.igs` | Hand-written IGES with 114, 118, 108 and 112 entities (OpenCASCADE oracle) | CC0-1.0 | tools/fixtures/make_iges_splines.py | 648 | `d94e48396920aa5c97bc4cf5bea40d962929e59d3d116bcb095ed571442c07d4` |
+| `iges-spline-surface.igs` | Hand-written IGES with 114, 118, 108 and 112 entities (OpenCASCADE oracle) | CC0-1.0 | tools/fixtures/make_iges_splines.py | 3483 | `eb56bbcadcfc72f94c5644aa30f7036f5369be3278476b8ab95b8709925b14f4` |
+| `iges-trimmed-faces.igs` | Plate written by OpenCASCADE's IGES writer | CC0-1.0 | tools/fixtures/make_iges_surfaces.py | 29889 | `7700f229d6a93ad7c8cceca91a31efe0a5984c0758afd3e11b3b43178d2e02c0` |
+| `instances.gltf` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 1546 | `e3ed889108ddee699a3323e72a75d859cd3910395b6d8c91a0d35dc97ed4e30c` |
+| `inventor-hashed.iam` | Synthetic Inventor and Revit compound files in the layout of real 2019+ files | CC0-1.0 | tools/fixtures/make_cfb_real_layout.py | 11776 | `bba8bb36e46290113123e18746b9e31af49b240ca29d6671aa9c78e6acb0e7be` |
+| `las14-f10.las` | Synthetic LAS 1.4 / LAZ point cloud written with laspy (LASzip C++ and lazrs) | CC0-1.0 | tools/fixtures/make_las14_fixtures.py | 62913 | `a16f0050595d8e05ecb42a3913e068839a45319905b29085ecfcc42712f77f59` |
+| `las14-f6.las` | Synthetic LAS 1.4 / LAZ point cloud written with laspy (LASzip C++ and lazrs) | CC0-1.0 | tools/fixtures/make_las14_fixtures.py | 27375 | `58d55a7bea54459c288ba4b6de64b6e510d563449fc00f7ed5c4e461a58a0747` |
+| `las14-f7.las` | Synthetic LAS 1.4 / LAZ point cloud written with laspy (LASzip C++ and lazrs) | CC0-1.0 | tools/fixtures/make_las14_fixtures.py | 32775 | `cedd8b952259045f2292112603e5d611be56f6b12c7e98f2299b9bae68f6a63d` |
+| `las14-f8.las` | Synthetic LAS 1.4 / LAZ point cloud written with laspy (LASzip C++ and lazrs) | CC0-1.0 | tools/fixtures/make_las14_fixtures.py | 34575 | `b1918cb7a93d74ff3de55c1d0bfa3f35d01ff88544b2cdf906739240e011953d` |
+| `las14-f9.las` | Synthetic LAS 1.4 / LAZ point cloud written with laspy (LASzip C++ and lazrs) | CC0-1.0 | tools/fixtures/make_las14_fixtures.py | 53475 | `821e1a60a30301276af00b116be2d0803ac4a1252496d64fc64a6fb1bc38ab7d` |
+| `laz-pointwise-f3.laz` | Synthetic LAS 1.4 / LAZ point cloud written with laspy (LASzip C++ and lazrs) | CC0-1.0 | tools/fixtures/make_las14_fixtures.py | 2042 | `56d426944a65f7f282f39cba747e6d4dca44189687235e615606e74ceffca723` |
+| `laz14-f10.laz` | Synthetic LAS 1.4 / LAZ point cloud written with laspy (LASzip C++ and lazrs) | CC0-1.0 | tools/fixtures/make_las14_fixtures.py | 47801 | `c715d221e6e3f778f542d59309985cdc62dd251cd49cd5e5590607d9fa87d809` |
+| `laz14-f6.laz` | Synthetic LAS 1.4 / LAZ point cloud written with laspy (LASzip C++ and lazrs) | CC0-1.0 | tools/fixtures/make_las14_fixtures.py | 16985 | `ee32ebb2ca97d488306561d00073fd2be1dc57759bed2031381c984fed09671a` |
+| `laz14-f7.laz` | Synthetic LAS 1.4 / LAZ point cloud written with laspy (LASzip C++ and lazrs) | CC0-1.0 | tools/fixtures/make_las14_fixtures.py | 22015 | `256c4463511cf0ebee2ba29315be27088f6c44ec4bc9e6d2260ab64e1b71e299` |
+| `laz14-f8.laz` | Synthetic LAS 1.4 / LAZ point cloud written with laspy (LASzip C++ and lazrs) | CC0-1.0 | tools/fixtures/make_las14_fixtures.py | 23108 | `6b2e5296be13ce7d22ea926ac630c8d786f96ba7949dc9be1be35062b74b436a` |
+| `laz14-f9.laz` | Synthetic LAS 1.4 / LAZ point cloud written with laspy (LASzip C++ and lazrs) | CC0-1.0 | tools/fixtures/make_las14_fixtures.py | 39518 | `1660df2c9b8fd4d141a9876fa0b78013cff512c719451078570d01dcad752726` |
+| `laz14c-f6.laz` | Synthetic LAS 1.4 / LAZ point cloud written with laspy (LASzip C++ and lazrs) | CC0-1.0 | tools/fixtures/make_las14_fixtures.py | 17832 | `e24ea09f29437019afdfa0565488af065c03204b46d5d1dbc3562ae3f9cc2638` |
+| `laz14c-f7.laz` | Synthetic LAS 1.4 / LAZ point cloud written with laspy (LASzip C++ and lazrs) | CC0-1.0 | tools/fixtures/make_las14_fixtures.py | 23020 | `ea33200524ffbc7cabb4f1608c391c07ff4f59a8d60c2696a16f0f86026d89f8` |
+| `laz14c-f8.laz` | Synthetic LAS 1.4 / LAZ point cloud written with laspy (LASzip C++ and lazrs) | CC0-1.0 | tools/fixtures/make_las14_fixtures.py | 24240 | `de13de5d0d660ad87f89acc9debbc622fda68c2acc25c52ba2d5eaead4f0d7d8` |
+| `legacy-cube.sldprt` | Synthetic SolidWorks 2014-style part (OLE compound, __ZLB streams) | CC0-1.0 | tools/fixtures/make_sw_legacy.py | 6144 | `d041b7d2b6e4a600c9f4eaf6ea76f83fb171b7335efa3460c5029367949d12f8` |
+| `mapped.stp` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_step_ap242.py | 17081 | `d6f66826a121c0d6da731b8ac41b8ebea37893715107cc11c71565b2ec0551c1` |
+| `model-2016.skp` | Synthetic SketchUp-shaped files | CC0-1.0 | tools/fixtures/make_skp.py | 2942 | `7f6c331b4d37c8fafaa73057b1ba8aaf6b2852dc82c670c552deaca84bab420a` |
+| `model-2021.skp` | Synthetic SketchUp-shaped files | CC0-1.0 | tools/fixtures/make_skp.py | 5246 | `fb4afd436b1ee0da7e1092d96528a93142f7dcf3383a4ea2f36d6268345226ce` |
+| `package-obj-mtl.zip` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 1121 | `e0b041973b356df5878e8d20c85923aa103689dfe5096e6c214d6e5eb97de63c` |
+| `package-obj-textured.zip` | Hand-made fixture: OBJ package with MTL map_Kd options, PNG and BMP textures | CC0-1.0 | tools/fixtures/make_fixtures.py | 801 | `b790c4cb8feed1230517eef2cfca1d0551021d0adcfc8f2544488c01fb745858` |
+| `part-docstruct.f3d` | Synthetic Fusion packages | CC0-1.0 | tools/fixtures/make_f3z.py | 1633 | `78d9eb14d821d8c2f64d22a91149cc4292f566babbffa2c75752af2426cd01e3` |
+| `part.igs` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 2268 | `9f69ce0ff80768f9a4ea655b62926946ebaa41d58c181624abce4f61d799c075` |
+| `points.ply` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 118 | `f00fe27bcf1d2dc0daafe7bcb7585954fb8f00b44657494266aeb7acfe7a7fcb` |
+| `print.gcode` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 676 | `4306929424980669d3177c7057d18b0fd8b112d1e2f2c77a2c60f989a69d16da` |
+| `profile.nc` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 168 | `6a69d8bbf6b166021024b90b03fdf4b96fe9de753513f989febd2856388e04da` |
+| `revit-2021.rvt` | Synthetic Inventor and Revit compound files in the layout of real 2019+ files | CC0-1.0 | tools/fixtures/make_cfb_real_layout.py | 11264 | `46c83f19ed277d4927b1e4b57d48618d4e2b0f0a9b200f5413eaccb0c242a34e` |
+| `rhino-bigmesh.3dm` | Rhino 3DM fixture written with rhino3dm | CC0-1.0 | tools/fixtures/make_3dm_fixtures.py | 2027785 | `a455f95ae365556761ccf263b8d371816389b095d4013d224f54ef73905dcd13` |
+| `rhino-layers.3dm` | Rhino 3DM fixture written with rhino3dm | CC0-1.0 | tools/fixtures/make_3dm_fixtures.py | 9160 | `3282fc1b194df3ed8c0d8338829147e668a1dd9a79948f477449f7b2264c7944` |
+| `rhino-scene.3dm` | Rhino 3DM fixture written with rhino3dm | CC0-1.0 | tools/fixtures/make_3dm_fixtures.py | 13687 | `8521c081baed878d2b790795811abb31f159a7cba64b1b7749dc9cd5631b3f2e` |
+| `scene.obj` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 258 | `b71a584d5a95f4a5b4854faf8cfe5ed14de694ce009b590e44c567e1910dc1d5` |
+| `sphere-400.sat` | ACIS fixture (ezdxf exporter or hand-written layout) | CC0-1.0 | tools/fixtures/make_sat_fixtures.py | 293 | `007b07886c3a0efe787dc67ef0e963f5682a7d7817a6eaa1a6c376178f016a43` |
+| `structure.3dxml` | Synthetic 3DXML assembly (product structure alone) | CC0-1.0 | tools/fixtures/make_3dxml.py | 1900 | `8b2b334185dca219128fcf661d038d9bbf9e4c7579a7c9a5d51adef9dede5416` |
+| `tessellated.stp` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_step_ap242.py | 122041 | `b0d9350604cc495b0c034a8b6015fb996e8beeb11bd495d10a20458a764428d1` |
+| `textured.3mf` | Hand-made fixture: 3MF texture2d and texture2dgroup | CC0-1.0 | tools/fixtures/make_fixtures.py | 1617 | `8009d06583313ee20ace6fe4162906e2e6d3288d4481e37678a3130bce514cad` |
+| `textured.gltf` | Hand-made fixture: textured quad with sampler and KHR_texture_transform | CC0-1.0 | tools/fixtures/make_fixtures.py | 1921 | `74cb814e515dddad3954c6d96f1b5c106068efb89a3cb4fd95f91c72ffa0fa9f` |
+| `torus-400.sat` | ACIS fixture (ezdxf exporter or hand-written layout) | CC0-1.0 | tools/fixtures/make_sat_fixtures.py | 294 | `425e591f9a77a5abacfda80a41072641f89de3743cf7857ffb32dfe9529dd163` |
+| `two-cubes.3mf` | Hand-made fixture | CC0-1.0 | tools/fixtures/make_fixtures.py | 1199 | `9967baa4d196d3413601d78e74f407f9791e6cc55452610bf5ad7e749e57985a` |
+| `usd-layers.usdz` | Multi-layer USD scene (sublayer, reference, payload, variant, time samples, texture) written with pxr | CC0-1.0 | tools/fixtures/make_usd_layers.py | 4248 | `6989afd9c3245bd3a75baacbc0a23d066103a9bd6aaf8622e32a4ff9c28afad5` |
+| `usd-layers/crate-root.usdc` | Multi-layer USD scene (sublayer, reference, payload, variant, time samples, texture) written with pxr | CC0-1.0 | tools/fixtures/make_usd_layers.py | 1020 | `c1022426a8ef90c885e81bd7f05b2efc6a0f28ede6a25f823e1d65f7f10f3b53` |
+| `usd-layers/geom/ball.usda` | Multi-layer USD scene (sublayer, reference, payload, variant, time samples, texture) written with pxr | CC0-1.0 | tools/fixtures/make_usd_layers.py | 221 | `7efba4f1a1e969c8eb4ab2686d84b380861feeca7ddb740255a45fb6ecf88f69` |
+| `usd-layers/geom/box.usda` | Multi-layer USD scene (sublayer, reference, payload, variant, time samples, texture) written with pxr | CC0-1.0 | tools/fixtures/make_usd_layers.py | 361 | `aa24f7267766da3f20564c78aa7f71f6603fd4977201f60b4e977bad88989be7` |
+| `usd-layers/geom/variants.usda` | Multi-layer USD scene (sublayer, reference, payload, variant, time samples, texture) written with pxr | CC0-1.0 | tools/fixtures/make_usd_layers.py | 461 | `1ba1baafa557a43d1f418e212408666b7bb869969ed7118be4d2e16c7309d735` |
+| `usd-layers/root.usda` | Multi-layer USD scene (sublayer, reference, payload, variant, time samples, texture) written with pxr | CC0-1.0 | tools/fixtures/make_usd_layers.py | 2237 | `9529c1ac89117ad111d26ffa79f6fab0ed90aa0139d63a702da0ad3f33b0cfbf` |
+| `usd-layers/sub.usda` | Multi-layer USD scene (sublayer, reference, payload, variant, time samples, texture) written with pxr | CC0-1.0 | tools/fixtures/make_usd_layers.py | 245 | `77c958c4e93d3f000a77245dad8c99be8c7d2bf2e0762e2fc6a5cdde05a83f6d` |
+| `usd-layers/textures/checker.png` | Multi-layer USD scene (sublayer, reference, payload, variant, time samples, texture) written with pxr | CC0-1.0 | tools/fixtures/make_usd_layers.py | 81 | `df563d9c80877e3961934352bc71e6f59b0e5f41e5b2829dbdf4bb321d26daec` |
+| `xz/concat.xz` | xz stream written by liblzma (decoder test) | CC0-1.0 | tools/fixtures/make_xz.py | 9764 | `a636da979ccfa3c478c7e4dede86e4301e0cd1550b2eecf603ab543716520a8e` |
+| `xz/crc64.xz` | xz stream written by liblzma (decoder test) | CC0-1.0 | tools/fixtures/make_xz.py | 10912 | `8d44695d6cc2884c7cf1cfe567d5793848e95f5bf4c1b520d03398f4c2bffb83` |
+| `xz/floats-p9.xz` | xz stream written by liblzma (decoder test) | CC0-1.0 | tools/fixtures/make_xz.py | 101392 | `6b7758e366dd16130e05e4b260cc2d55c41ada64341a061125245539b765be46` |
+| `xz/lc0lp2.xz` | xz stream written by liblzma (decoder test) | CC0-1.0 | tools/fixtures/make_xz.py | 17152 | `cd487b72523345fd094694e001245133b36ba61d7f5839571c2ba076a1ac3473` |
+| `xz/nocheck.xz` | xz stream written by liblzma (decoder test) | CC0-1.0 | tools/fixtures/make_xz.py | 10972 | `05b87fe38820ff529006be3e260c933450a6689624391afa2a1ca6fc4db63316` |
+| `xz/random.xz` | xz stream written by liblzma (decoder test) | CC0-1.0 | tools/fixtures/make_xz.py | 70060 | `85061ca864f3d929b1c825ef105a35e4539378ac55f252ed85b7c07bd10e527e` |
+| `xz/repeat.xz` | xz stream written by liblzma (decoder test) | CC0-1.0 | tools/fixtures/make_xz.py | 188 | `c12c87985567317244278ffa508eea9f5b5c615829d621960e8a3a2f3e3b8d45` |
+| `xz/text-p0.xz` | xz stream written by liblzma (decoder test) | CC0-1.0 | tools/fixtures/make_xz.py | 44488 | `85c04d3a64e31a8975b972083bcc190a2f9dcb68b10862340dc167b6ca7940ff` |
+| `xz/text-p6.xz` | xz stream written by liblzma (decoder test) | CC0-1.0 | tools/fixtures/make_xz.py | 58956 | `7ba289ec9d680f34c7b9b7e228df302594ce8a648858730d3a0706cced93701b` |
+| `xz/tiny.xz` | xz stream written by liblzma (decoder test) | CC0-1.0 | tools/fixtures/make_xz.py | 60 | `90f88e3b97b09c88359e2289393a60fbd0c08ceed66b1db7c8924cc3a225b144` |
+| `xz/zeros.xz` | xz stream written by liblzma (decoder test) | CC0-1.0 | tools/fixtures/make_xz.py | 172 | `16f9b26ed68b4271311429dd35521be4de6e5e1a5ce84c98f96a5abea7c7fe23` |
+| `zstd/checksum.zst` | Zstandard test file written by the python zstandard package | CC0-1.0 | tools/fixtures/make_zstd.py | 12121 | `cecd4efd2fef9a692147cb7b14fd77420376473fbacd0eca8b5e1f5094848606` |
+| `zstd/floats-l19.zst` | Zstandard test file written by the python zstandard package | CC0-1.0 | tools/fixtures/make_zstd.py | 67013 | `ec795ad568e818f4efdda4f63a1aee57b5ef5bb15d4c3dbb884b05e6367e195e` |
+| `zstd/floats-l3.zst` | Zstandard test file written by the python zstandard package | CC0-1.0 | tools/fixtures/make_zstd.py | 71357 | `8e1b131445d89a5256ea0e7a0d901b0a66020769b0585c314742a63ac1af7ddd` |
+| `zstd/multi-frame.zst` | Zstandard test file written by the python zstandard package | CC0-1.0 | tools/fixtures/make_zstd.py | 20915 | `97ef391abc71454d44c9b07bb5dfc16f1d73101958ef68257f36161c1b463060` |
+| `zstd/nosize.zst` | Zstandard test file written by the python zstandard package | CC0-1.0 | tools/fixtures/make_zstd.py | 67813 | `0469c6f1bd35e9dd074e99191c0ce8c9cd255476f63a59eb58527fa24123451c` |
+| `zstd/runs.zst` | Zstandard test file written by the python zstandard package | CC0-1.0 | tools/fixtures/make_zstd.py | 3759 | `dabdb8d4c704304c8820f6959e824508b84be368a2ab43427c2c86e8f8256975` |
+| `zstd/small-window.zst` | Zstandard test file written by the python zstandard package | CC0-1.0 | tools/fixtures/make_zstd.py | 151147 | `7a13564210e6018d13f6824c3d05ef809704b03b448b880471cc2ee548824b10` |
+| `zstd/text-fast.zst` | Zstandard test file written by the python zstandard package | CC0-1.0 | tools/fixtures/make_zstd.py | 123268 | `628444fab3ad46a7fd922830a575e22ca563d92fe19be03ecb7e2df3278d6c45` |
+| `zstd/text-l1.zst` | Zstandard test file written by the python zstandard package | CC0-1.0 | tools/fixtures/make_zstd.py | 92879 | `b8e1f9c75bad35c860e3617b338ac8f1a00ddbcf6554e609ab41aba2a303cf07` |
+| `zstd/text-l19.zst` | Zstandard test file written by the python zstandard package | CC0-1.0 | tools/fixtures/make_zstd.py | 82373 | `b4c9da1356cbfdd786032b15d05ce2d5d1acaeb1bd3fc7f32e4ff73148d4d890` |
+| `zstd/text-l3.zst` | Zstandard test file written by the python zstandard package | CC0-1.0 | tools/fixtures/make_zstd.py | 91351 | `7b03ae5d3093958b926c170ce50fb57c6aba36f3fc2fb7dbaa8d486f44e4237b` |
+| `zstd/text-l9.zst` | Zstandard test file written by the python zstandard package | CC0-1.0 | tools/fixtures/make_zstd.py | 89947 | `8f383f8ed7c4f32e3b53c4f247df3e3270a842f29352d34cebde500841ed3087` |
+| `zstd/tiny.zst` | Zstandard test file written by the python zstandard package | CC0-1.0 | tools/fixtures/make_zstd.py | 19 | `75ee7cbe13c28cca00fb7bd355b826df49d5fc99ee6a44397e6ae9ccda9ffe12` |
+| `zstd/zeros.zst` | Zstandard test file written by the python zstandard package | CC0-1.0 | tools/fixtures/make_zstd.py | 30 | `6ddbf9bcdc6b51be2f72cda91542ddb3d5448e0b1092ba36eaa8d16988cb843a` |
