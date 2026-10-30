@@ -1,12 +1,11 @@
+Upstream licence of UND-ARC/RocketModels-2023 (https://github.com/UND-ARC/RocketModels-2023), copied verbatim after the line of dashes.
+Applies to: servo-mount.sldprt, muon-detector-case.sldprt
+
+----------------------------------------------------------------------
+
 MIT License
 
-This folder holds files published under the MIT licence by the projects below. The copyright line of each is the one its source gives;
-where the manifest records only a project or author name, that name is the holder and the upstream licence file was not copied.
-
-- servo-mount.sldprt: UND Advanced Rocketry Club
-- muon-detector-case.sldprt: UND Advanced Rocketry Club
-
-Copyright holders: the projects and authors named above
+Copyright (c) 2022 University of North Dakota Advanced Rocketry Club
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

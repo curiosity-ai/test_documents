@@ -6,7 +6,7 @@ data (or generated fixtures) used as published: their bytes and sha256 must not 
 
 Licences in this folder: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
-Attribution (CC BY 4.0): Box, Box-Draco: glTF Sample Assets, Cesium / Khronos Group, https://github.com/KhronosGroup/glTF-Sample-Assets (Models/Box),
+Attribution (CC BY 4.0): Box, Box-Draco: (c) 2017 Cesium, glTF Sample Assets, Khronos Group, https://github.com/KhronosGroup/glTF-Sample-Assets (Models/Box),
 licensed under CC BY 4.0, https://creativecommons.org/licenses/by/4.0/. Not modified.
 
 | File | Title | Licence | Source | Bytes | sha256 |

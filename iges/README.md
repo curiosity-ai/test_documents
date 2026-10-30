@@ -6,7 +6,7 @@ data (or generated fixtures) used as published: their bytes and sha256 must not 
 
 Licences in this folder: MIT.
 
-The MIT licence text and copyright holders are in `LICENSE-MIT.txt` next to this file.
+Each file has its own upstream MIT licence, copied verbatim: `LICENSE-MIT-nvidia-jetracer.txt` (`jetracer-cam-mount.iges`; copyright (c) 2019 NVIDIA CORPORATION, https://github.com/NVIDIA-AI-IOT/jetracer) and `LICENSE-MIT-chenette-stewart.txt` (`slewing-ring.iges`; copyright (c) 2023 Félix Chenette-Stewart, https://github.com/filoucool/B.O.R.A.T-Industrial_Robot_Arm_Project).
 
 | File | Title | Licence | Source | Bytes | sha256 |
 |---|---|---|---|---|---|
