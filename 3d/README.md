@@ -7,7 +7,7 @@ path in this repository, `datasetPath` the path in `XRay.3D/dataset/`); `3d/PATH
 
 | Folder | Files | Licences |
 |---|---|---|
-| `3d-synthetic/` | 123 | CC0-1.0 |
+| `3d-synthetic/` | 155 | CC0-1.0 |
 | `3dm/` | 1 | CC0-1.0 |
 | `b3d/` | 4 | CC0-1.0 |
 | `cad/` | 2 | CC0-1.0 |
