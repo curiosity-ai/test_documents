@@ -6,7 +6,7 @@ data (or generated fixtures) used as published: their bytes and sha256 must not 
 
 Licences in this folder: MIT.
 
-The MIT licence text and copyright holders are in `LICENSE-MIT.txt` next to this file.
+The upstream MIT licence (copyright (c) 2022 University of North Dakota Advanced Rocketry Club, repository https://github.com/UND-ARC/RocketModels-2023) is copied verbatim in `LICENSE-MIT.txt` next to this file.
 
 | File | Title | Licence | Source | Bytes | sha256 |
 |---|---|---|---|---|---|

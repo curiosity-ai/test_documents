@@ -1,12 +1,11 @@
+Upstream licence of filoucool/B.O.R.A.T-Industrial_Robot_Arm_Project (https://github.com/filoucool/B.O.R.A.T-Industrial_Robot_Arm_Project), copied verbatim after the line of dashes.
+Applies to: slewing-ring.iges
+
+----------------------------------------------------------------------
+
 MIT License
 
-This folder holds files published under the MIT licence by the projects below. The copyright line of each is the one its source gives;
-where the manifest records only a project or author name, that name is the holder and the upstream licence file was not copied.
-
-- jetracer-cam-mount.iges: NVIDIA JetRacer
-- slewing-ring.iges: Félix Chenette-Stewart, B.O.R.A.T. robot arm
-
-Copyright holders: the projects and authors named above
+Copyright (c) 2023 Félix Chenette-Stewart
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -6,7 +6,7 @@ data (or generated fixtures) used as published: their bytes and sha256 must not 
 
 Licences in this folder: MIT.
 
-The MIT licence text and copyright holders are in `LICENSE-MIT.txt` next to this file.
+The upstream MIT licence (copyright (c) 2016 Adafruit Industries, repository https://github.com/adafruit/Adafruit_CAD_Parts) is copied verbatim in `LICENSE-MIT.txt` next to this file.
 
 | File | Title | Licence | Source | Bytes | sha256 |
 |---|---|---|---|---|---|
